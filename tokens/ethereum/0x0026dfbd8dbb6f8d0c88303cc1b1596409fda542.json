@@ -1,0 +1,15 @@
+{
+  "symbol": "sanshu!",
+  "name": "SANSHU!",
+  "address": "0x0026dFbd8DBb6f8D0c88303CC1B1596409Fda542",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35739/thumb/sanshu.png?1709696875",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0026dfbd8dbb6f8d0c88303cc1b1596409fda542"
+  }
+}

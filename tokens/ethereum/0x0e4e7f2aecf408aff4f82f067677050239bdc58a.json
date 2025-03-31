@@ -1,0 +1,15 @@
+{
+  "symbol": "fung",
+  "name": "Fungify Token",
+  "address": "0x0e4e7F2AecF408AFF4f82f067677050239bdC58A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35607/thumb/FUNG-logo-200x200.png?1709280585",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e4e7f2aecf408aff4f82f067677050239bdc58a"
+  }
+}

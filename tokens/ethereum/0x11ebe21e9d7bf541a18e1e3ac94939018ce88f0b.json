@@ -1,0 +1,15 @@
+{
+  "symbol": "pitchfxs",
+  "name": "Pitch FXS",
+  "address": "0x11EBe21e9d7BF541A18e1E3aC94939018Ce88F0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28414/thumb/pitch.png?1670399849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x11ebe21e9d7bf541a18e1e3ac94939018ce88f0b"
+  }
+}

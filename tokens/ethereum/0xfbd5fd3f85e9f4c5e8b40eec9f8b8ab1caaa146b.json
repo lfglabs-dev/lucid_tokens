@@ -1,0 +1,15 @@
+{
+  "symbol": "treat",
+  "name": "Treat Token",
+  "address": "0xFbD5fD3f85e9f4c5E8B40EEC9F8B8ab1cAAa146b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31518/thumb/treat.jpg?1693363402",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  }
+}

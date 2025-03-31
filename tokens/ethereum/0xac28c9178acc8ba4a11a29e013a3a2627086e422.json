@@ -1,0 +1,21 @@
+{
+  "symbol": "bmstr",
+  "name": "Backed MicroStrategy",
+  "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38914/thumb/b-MSTR-200x200.png?1719474793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
+    "xdai": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
+    "ethereum": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
+    "binance-smart-chain": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
+    "avalanche": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
+    "polygon-pos": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
+    "base": "0xac28c9178acc8ba4a11a29e013a3a2627086e422"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ix",
+  "name": "illumineX",
+  "address": "0x45e82579792DDDF08cb3a037086604C262D78065",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35366/thumb/token_200x200.png?1708396425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x45e82579792dddf08cb3a037086604c262d78065"
+  }
+}

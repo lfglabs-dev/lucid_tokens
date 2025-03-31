@@ -1,0 +1,15 @@
+{
+  "symbol": "argo",
+  "name": "ArGoApp",
+  "address": "0x28Cca76f6e8eC81e4550ecd761f899110b060E97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15477/thumb/Group_118.png?1647877401",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x28cca76f6e8ec81e4550ecd761f899110b060e97"
+  }
+}

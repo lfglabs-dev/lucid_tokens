@@ -1,0 +1,15 @@
+{
+  "symbol": "shib",
+  "name": "Shiba Inu",
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11939/thumb/shiba.png?1622619446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+  }
+}

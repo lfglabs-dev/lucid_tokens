@@ -1,0 +1,15 @@
+{
+  "symbol": "justice",
+  "name": "AssangeDAO",
+  "address": "0x59d1e836F7b7210A978b25a855085cc46fd090B5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23555/thumb/JUSTICE_token_logo.png?1644532689",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x59d1e836f7b7210a978b25a855085cc46fd090b5"
+  }
+}

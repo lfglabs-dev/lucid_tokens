@@ -1,0 +1,17 @@
+{
+  "symbol": "dec",
+  "name": "Decentr",
+  "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11816/thumb/Decentr.png?1594637985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
+    "osmosis": "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84",
+    "archway": "ibc/e3409e92f78ae5bf44dbc7c4741901e21ef73b7b8f98c4d48f2bd360af242c00"
+  }
+}

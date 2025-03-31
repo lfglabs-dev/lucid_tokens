@@ -1,0 +1,16 @@
+{
+  "symbol": "pooh",
+  "name": "POOH",
+  "address": "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30091/thumb/Pooh-icon.png?1683020168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371",
+    "solana": "J8XFfJgS1cs5WVGxGwZb9Rt5rJZizdyzaLhidtvDnYjC"
+  }
+}

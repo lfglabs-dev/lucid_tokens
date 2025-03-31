@@ -1,0 +1,15 @@
+{
+  "symbol": "hdrn",
+  "name": "Hedron",
+  "address": "0x3819f64f282bf135d62168C1e513280dAF905e06",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24208/thumb/hdrn.png?1647079428",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3819f64f282bf135d62168c1e513280daf905e06"
+  }
+}

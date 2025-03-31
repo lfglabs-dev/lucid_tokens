@@ -1,0 +1,16 @@
+{
+  "symbol": "nfts",
+  "name": "NFT Stars",
+  "address": "0x08037036451C768465369431Da5C671ad9B37dBc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16141/thumb/j2KHi8zR_400x400.png?1623116004",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x08037036451c768465369431da5c671ad9b37dbc",
+    "binance-smart-chain": "0x08037036451c768465369431da5c671ad9b37dbc"
+  }
+}

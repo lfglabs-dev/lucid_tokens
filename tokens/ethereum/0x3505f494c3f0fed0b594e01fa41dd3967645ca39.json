@@ -1,0 +1,15 @@
+{
+  "symbol": "swm",
+  "name": "Swarm Network",
+  "address": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/197/thumb/swarm.jpg?1547033949",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39"
+  }
+}

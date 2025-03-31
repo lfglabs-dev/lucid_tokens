@@ -1,0 +1,18 @@
+{
+  "symbol": "srm",
+  "name": "Serum",
+  "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11970/thumb/serum-logo.png?1597121577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+    "tomochain": "0xc01643ac912b6a8ffc50cf8c1390934a6142bc91",
+    "energi": "0x83af4137ed450f4765a72831dd938b5203f5d2fb",
+    "solana": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+  }
+}

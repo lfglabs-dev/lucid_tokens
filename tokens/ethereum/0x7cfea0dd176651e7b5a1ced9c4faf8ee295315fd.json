@@ -1,0 +1,17 @@
+{
+  "symbol": "prnt",
+  "name": "Prime Numbers Labs",
+  "address": "0x7Cfea0DD176651E7B5a1CeD9c4fAf8Ee295315FD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22669/thumb/sGFM0un9_400x400.jpg?1642404297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdc-network": "xdc0e11710aad67e7427cfbc12c353284c2e335f62c",
+    "ethereum": "0x7cfea0dd176651e7b5a1ced9c4faf8ee295315fd",
+    "binance-smart-chain": "0x9f402f44684574f3535ea6f1bb5cfbffef42ee28"
+  }
+}

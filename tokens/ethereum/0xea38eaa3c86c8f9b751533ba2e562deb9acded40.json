@@ -1,0 +1,15 @@
+{
+  "symbol": "fuel",
+  "name": "Etherparty",
+  "address": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1082/thumb/etherparty.png?1547394573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40"
+  }
+}

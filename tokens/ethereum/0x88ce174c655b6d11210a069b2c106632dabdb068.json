@@ -1,0 +1,15 @@
+{
+  "symbol": "yawn",
+  "name": "Yawn's World",
+  "address": "0x88Ce174C655B6d11210A069B2c106632DaBDB068",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50206/thumb/Yawn's_World.png?1726295544",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x88ce174c655b6d11210a069b2c106632dabdb068"
+  }
+}

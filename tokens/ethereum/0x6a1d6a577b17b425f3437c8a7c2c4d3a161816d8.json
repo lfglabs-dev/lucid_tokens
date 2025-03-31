@@ -1,0 +1,15 @@
+{
+  "symbol": "pillar",
+  "name": "PillarFi",
+  "address": "0x6a1d6A577B17b425F3437C8A7C2C4d3a161816d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53820/thumb/PillarFi.png?1737482690",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a1d6a577b17b425f3437c8a7c2c4d3a161816d8"
+  }
+}

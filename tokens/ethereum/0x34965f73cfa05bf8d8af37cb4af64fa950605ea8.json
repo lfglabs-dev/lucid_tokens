@@ -1,0 +1,17 @@
+{
+  "symbol": "cow",
+  "name": "CoinWind",
+  "address": "0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15766/thumb/logo.c3d2c062.png?1621827743",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "huobi-token": "0x80861a817106665bca173db6ac2ab628a738c737",
+    "ethereum": "0x34965f73cfa05bf8d8af37cb4af64fa950605ea8",
+    "binance-smart-chain": "0x422e3af98bc1de5a1838be31a56f75db4ad43730"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "vidya",
+  "name": "Vidya",
+  "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12219/thumb/VIDYA_TOKEN.png?1598240425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
+  }
+}

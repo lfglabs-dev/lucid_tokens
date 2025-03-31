@@ -1,0 +1,16 @@
+{
+  "symbol": "arix",
+  "name": "Arix",
+  "address": "0xBb6cF73a00f480d0951bA979a7606857cDDe626B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13485/thumb/ARIX.png?1632731110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4db2495afad4c0e481ffc40fdaf66e13a786b619",
+    "ethereum": "0xbb6cf73a00f480d0951ba979a7606857cdde626b"
+  }
+}

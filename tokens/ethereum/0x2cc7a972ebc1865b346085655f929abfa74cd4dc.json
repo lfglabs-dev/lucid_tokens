@@ -1,0 +1,15 @@
+{
+  "symbol": "shifu",
+  "name": "Shifu",
+  "address": "0x2CC7A972ebC1865B346085655f929AbFa74CD4dC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52940/thumb/SHIFU_Transparent_200x200.png?1734721781",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2cc7a972ebc1865b346085655f929abfa74cd4dc"
+  }
+}

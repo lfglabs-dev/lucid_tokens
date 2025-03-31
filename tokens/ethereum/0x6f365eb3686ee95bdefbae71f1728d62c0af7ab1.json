@@ -1,0 +1,15 @@
+{
+  "symbol": "aither",
+  "name": "Aither",
+  "address": "0x6f365eb3686eE95BdefbAe71f1728D62C0af7Ab1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53520/thumb/Frame_1.jpg?1736574849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f365eb3686ee95bdefbae71f1728d62c0af7ab1"
+  }
+}

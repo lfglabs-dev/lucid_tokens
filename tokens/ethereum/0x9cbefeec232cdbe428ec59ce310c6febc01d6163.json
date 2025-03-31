@@ -1,0 +1,15 @@
+{
+  "symbol": "flochi",
+  "name": "Flochi",
+  "address": "0x9CbEfeeC232CDbE428ec59cE310C6febc01d6163",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38546/thumb/WhatsApp_Image_2024-06-05_at_23.27.39.jpeg?1717928697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9cbefeec232cdbe428ec59ce310c6febc01d6163"
+  }
+}

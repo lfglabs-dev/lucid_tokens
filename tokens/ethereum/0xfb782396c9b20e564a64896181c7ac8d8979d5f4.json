@@ -1,0 +1,15 @@
+{
+  "symbol": "diver",
+  "name": "Divergence Protocol",
+  "address": "0xFb782396c9b20E564A64896181c7AC8d8979d5F4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18666/thumb/DIVER.jpg?1632837940",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4"
+  }
+}

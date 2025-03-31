@@ -1,0 +1,15 @@
+{
+  "symbol": "shang",
+  "name": "Shanghai Inu",
+  "address": "0xee772CEc929D8430b4Fa7a01cD7FbD159a68Aa83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29881/thumb/IMG_20230418_174523_393-removebg-preview.png?1681979222",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xee772cec929d8430b4fa7a01cd7fbd159a68aa83"
+  }
+}

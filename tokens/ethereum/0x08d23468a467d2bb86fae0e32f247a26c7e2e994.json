@@ -1,0 +1,15 @@
+{
+  "symbol": "sinv",
+  "name": "Staked INV",
+  "address": "0x08d23468A467d2bb86FaE0e32F247A26C7E2e994",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53505/thumb/sINVx512.png?1736535779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x08d23468a467d2bb86fae0e32f247a26c7e2e994"
+  }
+}

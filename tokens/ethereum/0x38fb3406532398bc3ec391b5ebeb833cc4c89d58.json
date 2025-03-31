@@ -1,0 +1,16 @@
+{
+  "symbol": "vbells",
+  "name": "Vaulted Bellscoin",
+  "address": "0x38FB3406532398Bc3ec391b5eBEB833cc4c89d58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50910/thumb/BEL_LOGO.png?1729561625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38fb3406532398bc3ec391b5ebeb833cc4c89d58",
+    "solana": "BELLSsjNh6715KiorEhPw5NMt1AVuDdiwMYmkN4tBS5D"
+  }
+}

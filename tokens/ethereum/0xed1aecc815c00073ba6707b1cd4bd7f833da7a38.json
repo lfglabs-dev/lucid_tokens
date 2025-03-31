@@ -1,0 +1,15 @@
+{
+  "symbol": "intx",
+  "name": "Intel X",
+  "address": "0xed1aecC815C00073bA6707B1cD4Bd7F833dA7a38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40027/thumb/INTX.jpg?1725353707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed1aecc815c00073ba6707b1cd4bd7f833da7a38"
+  }
+}

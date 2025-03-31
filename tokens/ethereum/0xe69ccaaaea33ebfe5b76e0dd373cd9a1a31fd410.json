@@ -1,0 +1,15 @@
+{
+  "symbol": "pnut",
+  "name": "Peanut",
+  "address": "0xe69CcaAaEa33eBFe5B76E0dD373cD9a1A31fd410",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51323/thumb/peanutcg.png?1730710874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe69ccaaaea33ebfe5b76e0dd373cd9a1a31fd410"
+  }
+}

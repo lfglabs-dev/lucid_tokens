@@ -1,0 +1,16 @@
+{
+  "symbol": "shi",
+  "name": "Shirtum",
+  "address": "0xaD996A45fd2373ed0B10Efa4A8eCB9de445A4302",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16955/thumb/4fWlpC0.png?1625794164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
+    "binance-smart-chain": "0x7269d98af4aa705e0b1a5d8512fadb4d45817d5a"
+  }
+}

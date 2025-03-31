@@ -1,0 +1,15 @@
+{
+  "symbol": "farm",
+  "name": "TaxFarm.ing",
+  "address": "0x6dB6FDb5182053EECeC778aFec95E0814172A474",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40086/thumb/TAXFARMING_LOGO.png?1725560866",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6db6fdb5182053eecec778afec95e0814172a474"
+  }
+}

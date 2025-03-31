@@ -1,0 +1,15 @@
+{
+  "symbol": "pork",
+  "name": "PepeFork",
+  "address": "0xb9f599ce614Feb2e1BBe58F180F370D05b39344E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34913/thumb/pork.png?1706606047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb9f599ce614feb2e1bbe58f180f370d05b39344e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "tuzki",
+  "name": "Tuzki",
+  "address": "0x6D68015171EAa7af9a5a0a103664CF1e506Ff699",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38943/thumb/IMG_0707.png?1719571881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d68015171eaa7af9a5a0a103664cf1e506ff699"
+  }
+}

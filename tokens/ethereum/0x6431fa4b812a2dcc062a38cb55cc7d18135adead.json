@@ -1,0 +1,15 @@
+{
+  "symbol": "ranker",
+  "name": "RankerDao",
+  "address": "0x6431FA4B812a2DCC062A38CB55cc7D18135AdEAd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23902/thumb/ranker.png?1645676549",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6431fa4b812a2dcc062a38cb55cc7d18135adead"
+  }
+}

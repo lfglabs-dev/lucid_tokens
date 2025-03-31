@@ -1,0 +1,15 @@
+{
+  "symbol": "kai",
+  "name": "Kai Ken",
+  "address": "0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38697/thumb/coingecko_png.png?1718349882",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa045fe936e26e1e1e1fb27c1f2ae3643acde0171"
+  }
+}

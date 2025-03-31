@@ -1,0 +1,15 @@
+{
+  "symbol": "ast",
+  "name": "AirSwap",
+  "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1019/thumb/Airswap.png?1630903484",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "babyneiro",
+  "name": "Baby Neiro Token",
+  "address": "0xbAbE3ce7835665464228dF00B03246115C30730A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50622/thumb/babyneirologo2_%282%29.jpg?1728495006",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbabe3ce7835665464228df00b03246115c30730a"
+  }
+}

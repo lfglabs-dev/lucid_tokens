@@ -1,0 +1,15 @@
+{
+  "symbol": "mtn",
+  "name": "Medicalchain",
+  "address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2850/thumb/medicalchain.png?1547037019",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3"
+  }
+}

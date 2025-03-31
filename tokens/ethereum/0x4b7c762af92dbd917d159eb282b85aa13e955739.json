@@ -1,0 +1,15 @@
+{
+  "symbol": "poodl",
+  "name": "Poodl Inu",
+  "address": "0x4b7C762Af92dBD917d159Eb282B85aa13E955739",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37100/thumb/Poodl_Inu.png?1713290212",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b7c762af92dbd917d159eb282b85aa13e955739"
+  }
+}

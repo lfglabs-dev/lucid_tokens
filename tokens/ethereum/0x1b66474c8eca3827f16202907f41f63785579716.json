@@ -1,0 +1,15 @@
+{
+  "symbol": "wxt",
+  "name": "WEEX Token",
+  "address": "0x1B66474c8ECA3827f16202907F41F63785579716",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39075/thumb/WEEX_Token.png?1720239469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b66474c8eca3827f16202907f41f63785579716"
+  }
+}

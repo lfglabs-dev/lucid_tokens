@@ -1,0 +1,15 @@
+{
+  "symbol": "al",
+  "name": "ArchLoot",
+  "address": "0x046BAd07658f3B6cAd9A396CFcbC1243AF452ec1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28919/thumb/ALT.png?1675406290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x046bad07658f3b6cad9a396cfcbc1243af452ec1"
+  }
+}

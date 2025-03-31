@@ -1,0 +1,17 @@
+{
+  "symbol": "aweth",
+  "name": "Aave WETH",
+  "address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17238/thumb/aWETH_2x.png?1626940782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+    "harmony-shard-0": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "fantom": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8"
+  }
+}

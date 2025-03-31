@@ -1,0 +1,15 @@
+{
+  "symbol": "myth",
+  "name": "Mythos",
+  "address": "0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28045/thumb/Mythos_Logos_200x200.png?1667269609",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003"
+  }
+}

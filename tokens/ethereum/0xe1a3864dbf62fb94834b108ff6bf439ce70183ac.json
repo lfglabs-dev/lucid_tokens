@@ -1,0 +1,15 @@
+{
+  "symbol": "vxdefi",
+  "name": "vXDEFI",
+  "address": "0xe1A3864DbF62Fb94834B108Ff6Bf439cE70183Ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30479/thumb/vXDEFI.jpg?1684708659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe1a3864dbf62fb94834b108ff6bf439ce70183ac"
+  }
+}

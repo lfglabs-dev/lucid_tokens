@@ -1,0 +1,16 @@
+{
+  "symbol": "ela",
+  "name": "Elastos",
+  "address": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2780/thumb/Elastos.png?1597048112",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe6fd75ff38adca4b97fbcd938c86b98772431867",
+    "huobi-token": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c"
+  }
+}

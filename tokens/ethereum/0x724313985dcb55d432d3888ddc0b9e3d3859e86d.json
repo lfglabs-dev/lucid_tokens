@@ -1,0 +1,15 @@
+{
+  "symbol": "brune",
+  "name": "BitRunes",
+  "address": "0x724313985dCB55D432d3888DDC0b9E3d3859E86d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37265/thumb/BitRunes.png?1713867578",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x724313985dcb55d432d3888ddc0b9e3d3859e86d"
+  }
+}

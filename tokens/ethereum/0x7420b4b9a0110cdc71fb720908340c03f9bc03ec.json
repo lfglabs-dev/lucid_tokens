@@ -1,0 +1,15 @@
+{
+  "symbol": "jasmy",
+  "name": "JasmyCoin",
+  "address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13876/thumb/JASMY200x200.jpg?1612473259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gzlr",
+  "name": "Guzzler",
+  "address": "0x9f4909Cc95FB870BF48C128C1Fdbb5F482797632",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20970/thumb/Screenshot-2021-11-27-at-22-57-22.png?1638153729",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f4909cc95fb870bf48c128c1fdbb5f482797632"
+  }
+}

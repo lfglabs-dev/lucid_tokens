@@ -1,0 +1,26 @@
+{
+  "symbol": "elk",
+  "name": "Elk Finance",
+  "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17813/thumb/elk.png?1629336971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "moonriver": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "q-mainnet": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "elastos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "fuse": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "telos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "xdai": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "ethereum": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "binance-smart-chain": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "fantom": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "cronos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "polygon-pos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee"
+  }
+}

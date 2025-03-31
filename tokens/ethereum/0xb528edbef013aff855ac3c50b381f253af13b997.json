@@ -1,0 +1,15 @@
+{
+  "symbol": "aevo",
+  "name": "Aevo",
+  "address": "0xB528edBef013aff855ac3c50b381f253aF13b997",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35893/thumb/aevo.png?1710138340",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb528edbef013aff855ac3c50b381f253af13b997"
+  }
+}

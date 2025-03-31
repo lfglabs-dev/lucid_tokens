@@ -1,0 +1,15 @@
+{
+  "symbol": "amas",
+  "name": "Amasa",
+  "address": "0x65a8fbA02F641a13Bb7B01d5E1129b0521004f52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18799/thumb/agmqWjv8_400x400.png?1633473272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x65a8fba02f641a13bb7b01d5e1129b0521004f52"
+  }
+}

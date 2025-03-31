@@ -1,0 +1,15 @@
+{
+  "symbol": "mystery",
+  "name": "Mystery",
+  "address": "0x64c5cbA9A1BfBD2A5faf601D91Beff2dCac2c974",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52711/thumb/Mystery.png?1734059423",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64c5cba9a1bfbd2a5faf601d91beff2dcac2c974"
+  }
+}

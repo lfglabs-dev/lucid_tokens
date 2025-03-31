@@ -1,0 +1,17 @@
+{
+  "symbol": "raca",
+  "name": "Radio Caca",
+  "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17841/thumb/ez44_BSs_400x400.jpg?1629464170",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x12bb890508c125661e03b09ec06e404bc9289040",
+    "okex-chain": "0x12bb890508c125661e03b09ec06e404bc9289040",
+    "ethereum": "0x12bb890508c125661e03b09ec06e404bc9289040"
+  }
+}

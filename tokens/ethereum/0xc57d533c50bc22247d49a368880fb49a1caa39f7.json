@@ -1,0 +1,15 @@
+{
+  "symbol": "ptf",
+  "name": "PowerTrade Fuel",
+  "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12590/thumb/powertrade_logo.jpg?1600944549",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc57d533c50bc22247d49a368880fb49a1caa39f7"
+  }
+}

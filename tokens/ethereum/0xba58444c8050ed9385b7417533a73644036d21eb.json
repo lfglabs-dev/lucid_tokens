@@ -1,0 +1,15 @@
+{
+  "symbol": "logt",
+  "name": "Lord of Dragons",
+  "address": "0xba58444C8050Ed9385b7417533A73644036d21Eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29471/thumb/sym_1000.png?1679128938",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba58444c8050ed9385b7417533a73644036d21eb"
+  }
+}

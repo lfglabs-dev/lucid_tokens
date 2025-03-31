@@ -1,0 +1,15 @@
+{
+  "symbol": "dap",
+  "name": "DApp AI",
+  "address": "0xBF72ee725f9B06DC564324774801aCEBAd061946",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35741/thumb/logo_222.jpg?1709712476",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf72ee725f9b06dc564324774801acebad061946"
+  }
+}

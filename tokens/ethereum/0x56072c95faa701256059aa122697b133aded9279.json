@@ -1,0 +1,15 @@
+{
+  "symbol": "sky",
+  "name": "Sky",
+  "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26389/thumb/skytoken-logo-250.png?1657751762",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x56072c95faa701256059aa122697b133aded9279"
+  }
+}

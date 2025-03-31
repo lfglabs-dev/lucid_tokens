@@ -1,0 +1,15 @@
+{
+  "symbol": "phil",
+  "name": "Phil",
+  "address": "0xc328a59E7321747aEBBc49FD28d1b32C1af8d3b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39975/thumb/yr0kMUrz_400x400.jpg?1724971221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc328a59e7321747aebbc49fd28d1b32c1af8d3b2"
+  }
+}

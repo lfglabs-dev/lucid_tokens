@@ -1,0 +1,16 @@
+{
+  "symbol": "flexusd",
+  "name": "flexUSD",
+  "address": "0xa774FFB4AF6B0A91331C084E1aebAE6Ad535e6F3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13323/thumb/flexUSD_2x.png?1607480702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
+    "smartbch": "0x7b2b3c5308ab5b2a1d9a94d20d35ccdf61e05b72"
+  }
+}

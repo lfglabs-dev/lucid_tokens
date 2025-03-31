@@ -1,0 +1,15 @@
+{
+  "symbol": "biai",
+  "name": "BlockInsightAI",
+  "address": "0x880eeEA0637f91Bb259dFD7BB261638A42bDdB25",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51044/thumb/LOGO.png?1729835239",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x880eeea0637f91bb259dfd7bb261638a42bddb25"
+  }
+}

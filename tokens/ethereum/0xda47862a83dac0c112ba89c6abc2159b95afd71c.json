@@ -1,0 +1,15 @@
+{
+  "symbol": "prisma",
+  "name": "Prisma Governance Token",
+  "address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31520/thumb/PRISMA_200.png?1693475447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda47862a83dac0c112ba89c6abc2159b95afd71c"
+  }
+}

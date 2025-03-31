@@ -1,0 +1,16 @@
+{
+  "symbol": "shoot",
+  "name": "Mars Battle",
+  "address": "0xbc61e13Ca6830FC7f035fD0E90A01Cd08be6dcAa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36553/thumb/icon.png?1711896644",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc61e13ca6830fc7f035fd0e90a01cd08be6dcaa",
+    "base": "0xa9f5031b54c44c3603b4300fde9b8f5cd18ad06f"
+  }
+}

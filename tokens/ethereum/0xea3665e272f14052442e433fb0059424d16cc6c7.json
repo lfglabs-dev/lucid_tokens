@@ -1,0 +1,15 @@
+{
+  "symbol": "smidge",
+  "name": "Smidge",
+  "address": "0xEA3665e272f14052442E433fb0059424D16Cc6c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38415/thumb/SMIDGE.png?1717478217",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea3665e272f14052442e433fb0059424d16cc6c7"
+  }
+}

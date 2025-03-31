@@ -1,0 +1,15 @@
+{
+  "symbol": "aenj",
+  "name": "Aave ENJ",
+  "address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14251/thumb/aENJ.ed76293b.png?1615528574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef"
+  }
+}

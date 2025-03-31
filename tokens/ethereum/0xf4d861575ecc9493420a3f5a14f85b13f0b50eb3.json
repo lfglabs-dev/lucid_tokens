@@ -1,0 +1,15 @@
+{
+  "symbol": "fcl",
+  "name": "Fractal",
+  "address": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14096/thumb/fractal_logo.png?1614264502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3"
+  }
+}

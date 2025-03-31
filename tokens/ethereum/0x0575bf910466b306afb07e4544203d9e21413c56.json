@@ -1,0 +1,15 @@
+{
+  "symbol": "noai",
+  "name": "Nord Ai",
+  "address": "0x0575BF910466B306afb07E4544203D9E21413C56",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53040/thumb/DEXTOOLS_logo.png?1735074594",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0575bf910466b306afb07e4544203d9e21413c56"
+  }
+}

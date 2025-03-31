@@ -1,0 +1,15 @@
+{
+  "symbol": "wcx",
+  "name": "WeCoOwn",
+  "address": "0xC014186Cf1Ba36032aaEc7f96088f09eb3934347",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14497/thumb/WCX-Token-Logo.png?1616555141",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc014186cf1ba36032aaec7f96088f09eb3934347"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "kek",
+  "name": "Pepe Prophet",
+  "address": "0xa6345ffAdfA23DFc9014bce72FF2fa8712e54231",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31932/thumb/png_20230922_234529_0000.png?1695723465",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa6345ffadfa23dfc9014bce72ff2fa8712e54231",
+    "binance-smart-chain": "0x9f02af2d749ee3745fb3bd6ef76f1b5e4947cf9f"
+  }
+}

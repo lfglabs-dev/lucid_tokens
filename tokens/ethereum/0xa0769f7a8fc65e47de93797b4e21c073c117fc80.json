@@ -1,0 +1,18 @@
+{
+  "symbol": "eutbl",
+  "name": "Spiko EU T-Bills Money Market Fund",
+  "address": "0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39657/thumb/EUTBL.png?1723517425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
+    "starknet": "0x04f5e0de717daa6aa8de63b1bf2e8d7823ec5b21a88461b1519d9dbc956fb7f2",
+    "arbitrum-one": "0xcbeb19549054cc0a6257a77736fc78c367216ce7",
+    "polygon-pos": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "radar",
+  "name": "Radar",
+  "address": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13909/thumb/RADAR.png?1634183461",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
+    "binance-smart-chain": "0xf03a2dc374d494fbe894563fe22ee544d826aa50"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "synt",
+  "name": "Synternet",
+  "address": "0xDA987c655ebC38C801DB64A8608bc1AA56Cd9a31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38888/thumb/_SYNT.png?1719380207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda987c655ebc38c801db64a8608bc1aa56cd9a31"
+  }
+}

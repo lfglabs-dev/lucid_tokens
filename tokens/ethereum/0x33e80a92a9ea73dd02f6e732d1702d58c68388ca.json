@@ -1,0 +1,16 @@
+{
+  "symbol": "xb",
+  "name": "XBANKING",
+  "address": "0x33E80a92a9Ea73dD02f6e732D1702d58c68388cA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31650/thumb/Web_1920_%E2%80%93_1.png?1694147858",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33e80a92a9ea73dd02f6e732d1702d58c68388ca",
+    "solana": "2uAuGwYH22SJJtaTqMJ2AGEL2rBdiRKkuak2QCCSaFCA"
+  }
+}

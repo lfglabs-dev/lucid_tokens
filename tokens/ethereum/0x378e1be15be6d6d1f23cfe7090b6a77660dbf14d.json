@@ -1,0 +1,15 @@
+{
+  "symbol": "foxe",
+  "name": "FOXE",
+  "address": "0x378E1BE15BE6d6D1f23Cfe7090b6a77660dBF14d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30227/thumb/foxe.jpeg?1683631607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x378e1be15be6d6d1f23cfe7090b6a77660dbf14d"
+  }
+}

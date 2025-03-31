@@ -1,0 +1,15 @@
+{
+  "symbol": "gauss",
+  "name": "Gauss0x",
+  "address": "0x622984873c958e00aa0f004cbDd2B5301CF0b132",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36192/thumb/gaussian200x200.png?1710761823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x622984873c958e00aa0f004cbdd2b5301cf0b132"
+  }
+}

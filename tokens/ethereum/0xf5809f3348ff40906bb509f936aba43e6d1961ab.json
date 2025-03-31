@@ -1,0 +1,15 @@
+{
+  "symbol": "lester",
+  "name": "Lester",
+  "address": "0xf5809F3348ff40906BB509f936Aba43e6D1961ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51593/thumb/photo_2024-11-14_17-06-07_%281%29.jpg?1731581452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf5809f3348ff40906bb509f936aba43e6d1961ab"
+  }
+}

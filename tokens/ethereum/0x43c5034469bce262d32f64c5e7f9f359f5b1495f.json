@@ -1,0 +1,15 @@
+{
+  "symbol": "dope",
+  "name": "Department Of Propaganda Everywhere",
+  "address": "0x43C5034469bCe262d32F64C5e7f9F359f5B1495F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54869/thumb/dope_%281%29.jpg?1742199543",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x43c5034469bce262d32f64c5e7f9f359f5b1495f"
+  }
+}

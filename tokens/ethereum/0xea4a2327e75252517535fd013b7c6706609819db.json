@@ -1,0 +1,15 @@
+{
+  "symbol": "sns",
+  "name": "Shibarium Name Service",
+  "address": "0xEa4a2327E75252517535fd013b7C6706609819DB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29486/thumb/shibarium.jpg?1679136962",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea4a2327e75252517535fd013b7c6706609819db"
+  }
+}

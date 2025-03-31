@@ -1,0 +1,15 @@
+{
+  "symbol": "aammbptbalweth",
+  "name": "Aave AMM BptBALWETH",
+  "address": "0xd109b2A304587569c84308c55465cd9fF0317bFB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17261/thumb/aAmmBptBALWETH.png?1626959531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd109b2a304587569c84308c55465cd9ff0317bfb"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "vent",
+  "name": "Vent Finance",
+  "address": "0x5F0bc16D50F72d10b719dBF6845DE2E599eb5624",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17925/thumb/Artboard_29.png?1629804982",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5f0bc16d50f72d10b719dbf6845de2e599eb5624",
+    "binance-smart-chain": "0x872d068c25511be88c1f5990c53eeffcdf46c9b4",
+    "polygon-pos": "0xf21441f9ec4c1fe69cb7cf186eceab31af2b658d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cku",
+  "name": "Cryptoku",
+  "address": "0x08F7be99ED83369541501d60f4e66F8e34c3F736",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25813/thumb/Cryptoku.png?1653988443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x08f7be99ed83369541501d60f4e66f8e34c3f736"
+  }
+}

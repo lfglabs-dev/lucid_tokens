@@ -1,0 +1,15 @@
+{
+  "symbol": "harambe",
+  "name": "CTO Harambe",
+  "address": "0x244f09d92971D03A779aA66d310579A6517AB9A4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50705/thumb/HARAMBE_CTO.png?1728787801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x244f09d92971d03a779aa66d310579a6517ab9a4"
+  }
+}

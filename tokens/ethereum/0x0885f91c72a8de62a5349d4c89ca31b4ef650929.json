@@ -1,0 +1,15 @@
+{
+  "symbol": "alf",
+  "name": "ALF TOKEN",
+  "address": "0x0885f91c72A8dE62A5349d4c89Ca31B4ef650929",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54856/thumb/WhatsApp_Image_2025-03-14_at_15.26.18.jpeg?1742106625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0885f91c72a8de62a5349d4c89ca31b4ef650929"
+  }
+}

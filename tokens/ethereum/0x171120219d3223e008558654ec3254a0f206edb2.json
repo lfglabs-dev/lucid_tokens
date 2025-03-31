@@ -1,0 +1,15 @@
+{
+  "symbol": "xx",
+  "name": "XX Network",
+  "address": "0x171120219d3223E008558654ec3254A0F206edb2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26670/thumb/skG_l3Eh_400x400.jpeg?1659510764",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x171120219d3223e008558654ec3254a0f206edb2"
+  }
+}

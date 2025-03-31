@@ -1,0 +1,15 @@
+{
+  "symbol": "bubble",
+  "name": "Imaginary Ones",
+  "address": "0xe9689028eDE16c2FDFE3D11855D28f8E3fC452a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37706/thumb/imaginary_ones.jpeg?1715255717",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9689028ede16c2fdfe3d11855d28f8e3fc452a3"
+  }
+}

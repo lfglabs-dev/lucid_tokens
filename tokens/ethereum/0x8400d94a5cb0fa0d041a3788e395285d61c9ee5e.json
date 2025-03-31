@@ -1,0 +1,17 @@
+{
+  "symbol": "ubt",
+  "name": "Unibright",
+  "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2707/thumb/UnibrightLogo_colorful_500x500_preview.png?1547036916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+    "energi": "0xe3d7a5c28d5a4143831242e8ab218d7e9b5c2c87",
+    "polygon-pos": "0x7fbc10850cae055b27039af31bd258430e714c62"
+  }
+}

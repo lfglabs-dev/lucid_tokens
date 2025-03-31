@@ -1,0 +1,16 @@
+{
+  "symbol": "apys",
+  "name": "APYSwap",
+  "address": "0xf7413489c474ca4399eeE604716c72879Eea3615",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14163/thumb/apys.png?1635831990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf7413489c474ca4399eee604716c72879eea3615",
+    "solana": "5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW"
+  }
+}

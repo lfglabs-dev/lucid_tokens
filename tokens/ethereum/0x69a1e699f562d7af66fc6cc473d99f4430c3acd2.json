@@ -1,0 +1,15 @@
+{
+  "symbol": "param",
+  "name": "Param",
+  "address": "0x69A1e699f562D7Af66Fc6cc473d99f4430C3AcD2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37697/thumb/param200.png?1715234889",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69a1e699f562d7af66fc6cc473d99f4430c3acd2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ome",
+  "name": "O-MEE",
+  "address": "0xbd89b8D708809E7022135313683663911826977E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25099/thumb/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1650283806",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbd89b8d708809e7022135313683663911826977e"
+  }
+}

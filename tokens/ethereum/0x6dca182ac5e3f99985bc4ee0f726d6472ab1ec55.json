@@ -1,0 +1,15 @@
+{
+  "symbol": "ushi",
+  "name": "Ushi",
+  "address": "0x6Dca182ac5E3f99985bC4Ee0f726d6472aB1ec55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27865/thumb/photo_2022-10-17_22-21-01.jpg?1666151494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6dca182ac5e3f99985bc4ee0f726d6472ab1ec55"
+  }
+}

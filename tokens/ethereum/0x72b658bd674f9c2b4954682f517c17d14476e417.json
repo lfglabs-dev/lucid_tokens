@@ -1,0 +1,15 @@
+{
+  "symbol": "optr",
+  "name": "opTrade AI",
+  "address": "0x72b658Bd674f9c2B4954682f517c17D14476e417",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54757/thumb/opTrade_AI.png?1741374147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72b658bd674f9c2b4954682f517c17d14476e417"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rusd",
+  "name": "f(x) rUSD",
+  "address": "0x65D72AA8DA931F047169112fcf34f52DbaAE7D18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36338/thumb/rusd.png?1711105384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x65d72aa8da931f047169112fcf34f52dbaae7d18"
+  }
+}

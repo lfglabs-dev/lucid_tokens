@@ -1,0 +1,21 @@
+{
+  "symbol": "bibta",
+  "name": "Backed IBTA $ Treasury Bond 1-3yr",
+  "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31880/thumb/b-IBTA-200x200.png?1695366147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4",
+    "xdai": "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4",
+    "binance-smart-chain": "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4",
+    "avalanche": "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4",
+    "arbitrum-one": "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4",
+    "polygon-pos": "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4",
+    "base": "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4"
+  }
+}

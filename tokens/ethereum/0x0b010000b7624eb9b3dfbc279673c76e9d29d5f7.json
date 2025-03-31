@@ -1,0 +1,15 @@
+{
+  "symbol": "obol",
+  "name": "Obol",
+  "address": "0x0B010000b7624eb9B3DfBC279673C76E9D29D5F7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53827/thumb/obol.jpg?1737543754",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0b010000b7624eb9b3dfbc279673c76e9d29d5f7"
+  }
+}

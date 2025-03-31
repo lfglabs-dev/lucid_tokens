@@ -1,0 +1,15 @@
+{
+  "symbol": "shroom",
+  "name": "Niftyx Protocol",
+  "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12341/thumb/niftyx_logo.jpg?1617784430",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183"
+  }
+}

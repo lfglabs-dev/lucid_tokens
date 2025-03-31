@@ -1,0 +1,15 @@
+{
+  "symbol": "solo",
+  "name": "Solo",
+  "address": "0xD61A8BbD5C6d8Cd9690a89616b33dC939C9FbDA9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52439/thumb/solo200x200.png?1733349885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd61a8bbd5c6d8cd9690a89616b33dc939c9fbda9"
+  }
+}

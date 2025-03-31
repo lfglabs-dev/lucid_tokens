@@ -1,0 +1,19 @@
+{
+  "symbol": "xmt",
+  "name": "MetalSwap",
+  "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22075/thumb/xmt.png?1640943637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+    "optimistic-ethereum": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+    "linea": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+    "binance-smart-chain": "0x582c12b30f85162fa393e5dbe2573f9f601f9d91",
+    "polygon-pos": "0xadbe0eac80f955363f4ff47b0f70189093908c04"
+  }
+}

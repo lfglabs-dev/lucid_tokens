@@ -1,0 +1,15 @@
+{
+  "symbol": "md",
+  "name": "MetaDeck",
+  "address": "0xEfb2BEb3B6325855bc257bAD9166bf2687C68Cc1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50861/thumb/200x200_MD.png?1729304832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xefb2beb3b6325855bc257bad9166bf2687c68cc1"
+  }
+}

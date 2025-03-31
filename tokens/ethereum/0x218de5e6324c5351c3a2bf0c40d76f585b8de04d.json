@@ -1,0 +1,15 @@
+{
+  "symbol": "stpeth",
+  "name": "Stake Together",
+  "address": "0x218dE5E6324c5351C3a2bf0c40d76f585B8dE04d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34709/thumb/stake-together.png?1705894276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x218de5e6324c5351c3a2bf0c40d76f585b8de04d"
+  }
+}

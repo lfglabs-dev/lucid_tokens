@@ -1,0 +1,15 @@
+{
+  "symbol": "shei",
+  "name": "SheiShei",
+  "address": "0xB9d09bc374577DAC1Ab853de412a903408204ea8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39023/thumb/0xb9d09bc374577dac1ab853de412a903408204ea8_%281%29.jpg?1719976451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb9d09bc374577dac1ab853de412a903408204ea8"
+  }
+}

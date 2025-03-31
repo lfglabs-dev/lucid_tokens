@@ -1,0 +1,15 @@
+{
+  "symbol": "zgen",
+  "name": "Zegent AI",
+  "address": "0x5972169d49654dda92af57D11D4362fa72c15B03",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50380/thumb/full_logo_dark.png?1727410850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5972169d49654dda92af57d11d4362fa72c15b03"
+  }
+}

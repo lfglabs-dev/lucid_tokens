@@ -1,0 +1,15 @@
+{
+  "symbol": "cds",
+  "name": "Capital DAO Starter",
+  "address": "0x3c48Ca59bf2699E51d4974d4B6D284AE52076e5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20332/thumb/cpdt_logo_200_200.png?1636928398",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e"
+  }
+}

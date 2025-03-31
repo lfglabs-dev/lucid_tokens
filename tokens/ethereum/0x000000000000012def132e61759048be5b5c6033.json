@@ -1,0 +1,21 @@
+{
+  "symbol": "cx",
+  "name": "Cortex",
+  "address": "0x000000000000012DeF132E61759048bE5b5C6033",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53285/thumb/CX_Round.png?1735994730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x000000000000012def132e61759048be5b5c6033",
+    "binance-smart-chain": "0x000000000000012def132e61759048be5b5c6033",
+    "avalanche": "0x000000000000012def132e61759048be5b5c6033",
+    "arbitrum-one": "0x000000000000012def132e61759048be5b5c6033",
+    "solana": "CortexFv3fRcLKTgACr7aLqckGh5eP7TP3z9JHoKqMc6",
+    "base": "0x000000000000012def132e61759048be5b5c6033",
+    "optimistic-ethereum": "0x000000000000012def132e61759048be5b5c6033"
+  }
+}

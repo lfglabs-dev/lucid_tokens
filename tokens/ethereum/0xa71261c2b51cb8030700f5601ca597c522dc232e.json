@@ -1,0 +1,16 @@
+{
+  "symbol": "sage",
+  "name": "Sage Market",
+  "address": "0xa71261C2b51cB8030700F5601Ca597c522dc232e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38811/thumb/Logo_for_CMC_200x200.png?1719069825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa71261c2b51cb8030700f5601ca597c522dc232e",
+    "base": "0xbb2a93afcf5d3af8ae28dd50d6c18556ea532c5a"
+  }
+}

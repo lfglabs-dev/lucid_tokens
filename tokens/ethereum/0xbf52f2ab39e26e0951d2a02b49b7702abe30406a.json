@@ -1,0 +1,15 @@
+{
+  "symbol": "ode",
+  "name": "ODEM",
+  "address": "0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3752/thumb/odem.png?1548329893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a"
+  }
+}

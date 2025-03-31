@@ -1,0 +1,15 @@
+{
+  "symbol": "aicm",
+  "name": "AICM Marketplace",
+  "address": "0x87904bE82BC1C29E94a0b99474d183B4e08a7E47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52484/thumb/IMG_6164.jpeg?1733427051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x87904be82bc1c29e94a0b99474d183b4e08a7e47"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "msm",
+  "name": "MusmeCoin",
+  "address": "0x2C3b62CdeaB213ff58ad24fe8bBDF224c7F66Dce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52485/thumb/ICN_01_ITEM_Coin_0001.png?1733427507",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c3b62cdeab213ff58ad24fe8bbdf224c7f66dce",
+    "oasys": "0xd11e0f63b04868567c297a3119e491707db19e4e"
+  }
+}

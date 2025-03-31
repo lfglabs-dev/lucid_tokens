@@ -1,0 +1,16 @@
+{
+  "symbol": "tup",
+  "name": "Tenup",
+  "address": "0x7714f320Adca62B149df2579361AfEC729c5FE6A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6254/thumb/uphIf44J_400x400.jpg?1547042290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7714f320adca62b149df2579361afec729c5fe6a",
+    "binance-smart-chain": "0x63eaeb6e33e11252b10553900a9f38a9ed172871"
+  }
+}

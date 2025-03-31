@@ -1,0 +1,17 @@
+{
+  "symbol": "reg",
+  "name": "RealToken Ecosystem Governance",
+  "address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37785/thumb/realt.jpeg?1715586329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce",
+    "ethereum": "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce",
+    "polygon-pos": "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce"
+  }
+}

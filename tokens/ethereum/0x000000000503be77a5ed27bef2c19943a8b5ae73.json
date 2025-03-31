@@ -1,0 +1,15 @@
+{
+  "symbol": "xtreme",
+  "name": "Xtremeverse",
+  "address": "0x000000000503BE77A5ED27bef2C19943A8B5AE73",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36163/thumb/xnet_logo.jpg?1710745012",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x000000000503be77a5ed27bef2c19943a8b5ae73"
+  }
+}

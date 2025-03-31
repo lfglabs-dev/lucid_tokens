@@ -1,0 +1,16 @@
+{
+  "symbol": "pal",
+  "name": "Paladin",
+  "address": "0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24558/thumb/Circle-Logo.png?1648180728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
+    "sonic": "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7"
+  }
+}

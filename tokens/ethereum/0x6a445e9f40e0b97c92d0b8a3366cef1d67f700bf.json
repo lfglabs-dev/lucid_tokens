@@ -1,0 +1,15 @@
+{
+  "symbol": "fidu",
+  "name": "Fidu",
+  "address": "0x6a445E9F40e0b97c92d0b8a3366cEF1d67F700BF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25944/thumb/GFI-asset-icon.png?1654827482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf"
+  }
+}

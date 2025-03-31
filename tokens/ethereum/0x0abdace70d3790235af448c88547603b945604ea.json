@@ -1,0 +1,16 @@
+{
+  "symbol": "dnt",
+  "name": "district0x",
+  "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/849/thumb/district0x.png?1547223762",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0abdace70d3790235af448c88547603b945604ea",
+    "energi": "0x8dc6bb6ec3caddefb16b0317fa91217a7df93000"
+  }
+}

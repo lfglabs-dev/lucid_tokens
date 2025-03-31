@@ -1,0 +1,17 @@
+{
+  "symbol": "iq",
+  "name": "IQ",
+  "address": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5010/thumb/YAIS3fUh.png?1626267646",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+    "binance-smart-chain": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
+    "polygon-pos": "0xb9638272ad6998708de56bbc0a290a1de534a578"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mesa",
+  "name": "metavisa",
+  "address": "0x5AFFF9876C1F98b7d2b53bCB69EB57e92408319F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23246/thumb/Yt_-OeRG_400x400.jpg?1643358053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5afff9876c1f98b7d2b53bcb69eb57e92408319f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "kolz",
+  "name": "KOLZ",
+  "address": "0x288741b45AD4042f7b124E38b53cEc5E9ccA0376",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51235/thumb/KOLZ.png?1730447667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x50ce4129ca261ccde4eb100c170843c2936bc11b",
+    "ethereum": "0x288741b45ad4042f7b124e38b53cec5e9cca0376"
+  }
+}

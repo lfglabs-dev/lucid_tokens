@@ -1,0 +1,15 @@
+{
+  "symbol": "panda",
+  "name": "PandaDAO",
+  "address": "0x3cBb7f5d7499Af626026E96a2f05df806F2200DC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24926/thumb/PandaDAO_logo_512.png?1649388983",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3cbb7f5d7499af626026e96a2f05df806f2200dc"
+  }
+}

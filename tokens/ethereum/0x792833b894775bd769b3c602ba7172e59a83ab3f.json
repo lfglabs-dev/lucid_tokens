@@ -1,0 +1,15 @@
+{
+  "symbol": "toons",
+  "name": "City Boys",
+  "address": "0x792833B894775Bd769B3C602BA7172E59a83AB3f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32586/thumb/photo_2023-10-29_02.57.38.jpeg?1698564589",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x792833b894775bd769b3c602ba7172e59a83ab3f"
+  }
+}

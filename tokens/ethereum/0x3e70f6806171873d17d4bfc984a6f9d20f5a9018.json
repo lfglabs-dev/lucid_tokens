@@ -1,0 +1,15 @@
+{
+  "symbol": "coin",
+  "name": "BrianArmstrongTrumpYellenGTA6",
+  "address": "0x3E70F6806171873D17d4Bfc984a6f9d20f5A9018",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33839/thumb/0x3e70f6806171873d17d4bfc984a6f9d20f5a9018.png?1703108075",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e70f6806171873d17d4bfc984a6f9d20f5a9018"
+  }
+}

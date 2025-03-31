@@ -1,0 +1,15 @@
+{
+  "symbol": "anyone",
+  "name": "ANyONe Protocol",
+  "address": "0xFeAc2Eae96899709a43E252B6B92971D32F9C0F9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29690/thumb/AirTor.png?1680669794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfeac2eae96899709a43e252b6b92971d32f9c0f9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "champz",
+  "name": "Champignons of Arborethia",
+  "address": "0xe07A836f5201A46f376934A8A4a17185Df1708c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31124/thumb/ChampzSquare200x200.png?1690775177",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe07a836f5201a46f376934a8a4a17185df1708c4"
+  }
+}

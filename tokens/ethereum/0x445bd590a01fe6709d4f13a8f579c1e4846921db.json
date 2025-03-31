@@ -1,0 +1,15 @@
+{
+  "symbol": "dummy",
+  "name": "DUMMY",
+  "address": "0x445bd590A01fe6709d4f13A8F579c1e4846921db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30650/thumb/a3miYrC7_400x400-removebg-preview%281%29.png?1686122117",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x445bd590a01fe6709d4f13a8f579c1e4846921db"
+  }
+}

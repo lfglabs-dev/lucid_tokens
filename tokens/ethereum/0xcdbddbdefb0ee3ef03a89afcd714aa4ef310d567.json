@@ -1,0 +1,15 @@
+{
+  "symbol": "vertai",
+  "name": "Vertical AI",
+  "address": "0xcDbddbdEFB0eE3eF03a89AFcd714aa4ef310D567",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51520/thumb/favicon.png?1731449166",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcdbddbdefb0ee3ef03a89afcd714aa4ef310d567"
+  }
+}

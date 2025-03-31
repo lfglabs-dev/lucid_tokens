@@ -1,0 +1,15 @@
+{
+  "symbol": "drx",
+  "name": "DREYERX NETWORK",
+  "address": "0x2232F65655C7c41D8b6c8592Da3A0E32586273ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52775/thumb/LogoOnlyPNG.png?1734282102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2232f65655c7c41d8b6c8592da3a0e32586273ea"
+  }
+}

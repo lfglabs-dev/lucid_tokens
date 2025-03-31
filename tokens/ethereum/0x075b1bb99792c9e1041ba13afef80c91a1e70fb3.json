@@ -1,0 +1,15 @@
+{
+  "symbol": "crvrenwsbtc",
+  "name": "Curve.fi renBTC/wBTC/sBTC",
+  "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11958/thumb/Curvefi_sbtcCrv_32.png?1596436054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3"
+  }
+}

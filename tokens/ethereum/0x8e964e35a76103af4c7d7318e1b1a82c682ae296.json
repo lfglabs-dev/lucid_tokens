@@ -1,0 +1,15 @@
+{
+  "symbol": "flz",
+  "name": "Fellaz",
+  "address": "0x8E964e35A76103Af4C7D7318e1B1a82c682ae296",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26169/thumb/NUERy1Wy_400x400.png?1656336115",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e964e35a76103af4c7d7318e1b1a82c682ae296"
+  }
+}

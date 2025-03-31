@@ -1,0 +1,15 @@
+{
+  "symbol": "bmoney",
+  "name": "B-MONEY",
+  "address": "0xF10Da48D4aaA8D784C5E369Cb998E263cfE32AA8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38136/thumb/bmoney_logo_200x200.png?1716570823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf10da48d4aaa8d784c5e369cb998e263cfe32aa8"
+  }
+}

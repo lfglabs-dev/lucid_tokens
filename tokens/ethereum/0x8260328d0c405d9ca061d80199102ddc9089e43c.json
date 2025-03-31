@@ -1,0 +1,15 @@
+{
+  "symbol": "$dojo",
+  "name": "Dojo Supercomputer",
+  "address": "0x8260328d0C405D9Ca061D80199102DdC9089e43C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29728/thumb/Dojo_super.jpeg?1681090211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8260328d0c405d9ca061d80199102ddc9089e43c"
+  }
+}

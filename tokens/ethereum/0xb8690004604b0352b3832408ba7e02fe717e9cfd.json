@@ -1,0 +1,15 @@
+{
+  "symbol": "agi",
+  "name": "Agently",
+  "address": "0xB8690004604b0352b3832408BA7e02Fe717e9cfD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53560/thumb/Untitled_design-2.png?1736675632",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8690004604b0352b3832408ba7e02fe717e9cfd"
+  }
+}

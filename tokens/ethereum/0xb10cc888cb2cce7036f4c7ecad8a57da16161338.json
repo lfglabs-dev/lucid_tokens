@@ -1,0 +1,15 @@
+{
+  "symbol": "switch",
+  "name": "Switch Token",
+  "address": "0xb10cc888cB2CcE7036F4c7ECAd8a57Da16161338",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30140/thumb/SWITCH-200x200-Circle_Token.jpg?1683277550",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb10cc888cb2cce7036f4c7ecad8a57da16161338"
+  }
+}

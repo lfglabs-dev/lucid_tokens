@@ -1,0 +1,16 @@
+{
+  "symbol": "nct",
+  "name": "PolySwarm",
+  "address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2843/thumb/ImcYCVfX_400x400.jpg?1628519767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+    "polygon-pos": "0x4985e0b13554fb521840e893574d3848c10fcc6f"
+  }
+}

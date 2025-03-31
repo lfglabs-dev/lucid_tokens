@@ -1,0 +1,16 @@
+{
+  "symbol": "kng",
+  "name": "Kanga Exchange",
+  "address": "0x471d113059324321749E097705197a2B44A070FC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21188/thumb/kanga.PNG?1638514737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x471d113059324321749e097705197a2b44a070fc",
+    "polygon-pos": "0x17d342b29f054030a455b4191f977c3b0aa62fd9"
+  }
+}

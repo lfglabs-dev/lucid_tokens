@@ -1,0 +1,15 @@
+{
+  "symbol": "mring",
+  "name": "MagicRing",
+  "address": "0xD59d7D2e955533FcD21641dA8a70EAe9624A3c49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36905/thumb/photo_2024-04-08_01-09-25.jpg?1712724842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd59d7d2e955533fcd21641da8a70eae9624a3c49"
+  }
+}

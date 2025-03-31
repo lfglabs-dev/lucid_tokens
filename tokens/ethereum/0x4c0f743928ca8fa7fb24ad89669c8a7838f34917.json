@@ -1,0 +1,15 @@
+{
+  "symbol": "$stack",
+  "name": "STACKER AI",
+  "address": "0x4C0f743928Ca8fa7fb24ad89669c8A7838F34917",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32865/thumb/IMG_1751.png?1699670330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c0f743928ca8fa7fb24ad89669c8a7838f34917"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "audt",
+  "name": "Auditchain",
+  "address": "0xB90cb79B72EB10c39CbDF86e50B1C89F6a235f2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6398/thumb/auditchain.png?1547042519",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e",
+    "polygon-pos": "0x91c5a5488c0decde1eacd8a4f10e0942fb925067"
+  }
+}

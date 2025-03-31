@@ -1,0 +1,15 @@
+{
+  "symbol": "shrubius",
+  "name": "Shrubius Maximus",
+  "address": "0x47000BD34D9a7b7CdBEeF4Ec2aE452e73280A8b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53283/thumb/Shrubius_Maximus.jpg?1735994317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x47000bd34d9a7b7cdbeef4ec2ae452e73280a8b5"
+  }
+}

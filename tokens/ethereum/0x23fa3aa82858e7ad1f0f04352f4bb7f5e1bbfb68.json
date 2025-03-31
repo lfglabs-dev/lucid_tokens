@@ -1,0 +1,15 @@
+{
+  "symbol": "fric",
+  "name": "Frictionless",
+  "address": "0x23Fa3Aa82858E7aD1F0f04352f4bb7F5E1BbFb68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36783/thumb/Fric_logo_200X200.png?1712331864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x23fa3aa82858e7ad1f0f04352f4bb7f5e1bbfb68"
+  }
+}

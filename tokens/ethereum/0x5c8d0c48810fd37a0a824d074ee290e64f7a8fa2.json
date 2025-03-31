@@ -1,0 +1,18 @@
+{
+  "symbol": "avl",
+  "name": "Avalon",
+  "address": "0x5c8D0C48810FD37A0A824D074ee290E64f7A8Fa2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54119/thumb/AV.png?1738314011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c8d0c48810fd37a0a824d074ee290e64f7a8fa2",
+    "binance-smart-chain": "0x9beee89723ceec27d7c2834bec6834208ffdc202",
+    "bitlayer": "0x3228995749610bea00b59c44f8d1df21c14027f1",
+    "merlin-chain": "0x916addd975718d307868b814e0a9bbbedbd7ab17"
+  }
+}

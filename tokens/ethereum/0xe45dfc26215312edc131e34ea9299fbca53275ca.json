@@ -1,0 +1,15 @@
+{
+  "symbol": "rel",
+  "name": "Relation Native Token",
+  "address": "0xe45dFC26215312edC131e34Ea9299FBCA53275ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30656/thumb/2.png?1686124916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe45dfc26215312edc131e34ea9299fbca53275ca"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "forth",
+  "name": "Ampleforth Governance",
+  "address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14917/thumb/photo_2021-04-22_00.00.03.jpeg?1619020835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77fba179c79de5b7653f68b5039af940ada60ce0"
+  }
+}

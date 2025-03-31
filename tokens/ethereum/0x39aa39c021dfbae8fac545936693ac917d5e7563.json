@@ -1,0 +1,15 @@
+{
+  "symbol": "cusdc",
+  "name": "cUSDC",
+  "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9442/thumb/Compound_USDC.png?1567581577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x39aa39c021dfbae8fac545936693ac917d5e7563"
+  }
+}

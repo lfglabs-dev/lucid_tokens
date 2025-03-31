@@ -1,0 +1,15 @@
+{
+  "symbol": "avinoc",
+  "name": "AVINOC",
+  "address": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4659/thumb/qX7fh69Q_400x400-1.jpg?1636680685",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1ca9cb74685755965c7458528a36934df52a3ef"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "dgen",
+  "name": "DGEN",
+  "address": "0x45f93404AE1E4f0411a7F42BC6a5Dc395792738D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31294/thumb/dgen-new-200-200.png?1692336350",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x45f93404ae1e4f0411a7f42bc6a5dc395792738d",
+    "polygon-pos": "0xdbb5da27ffcfebea8799a5832d4607714fc6aba8"
+  }
+}

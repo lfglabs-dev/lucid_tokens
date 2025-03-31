@@ -1,0 +1,15 @@
+{
+  "symbol": "crea",
+  "name": "CoinCreate",
+  "address": "0x28aE7b2eBd6f10F4393f410f6b7896380A949d62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50876/thumb/CoinCreate.png?1729407837",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x28ae7b2ebd6f10f4393f410f6b7896380a949d62"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "oooi",
+  "name": "Corridor Finance",
+  "address": "0xd7b675CD5c84A13d1d0f84509345530f6421b57C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36057/thumb/corridor-logo-without-text-8bit.jpg?1710404509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ordinals": "620588cde3b0416ee79b7dda28d5896d2b9f4a6abc5ad9c7bf48e56fc43ccd08i0",
+    "ethereum": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
+    "arbitrum-one": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
+    "polygon-pos": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
+    "base": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c"
+  }
+}

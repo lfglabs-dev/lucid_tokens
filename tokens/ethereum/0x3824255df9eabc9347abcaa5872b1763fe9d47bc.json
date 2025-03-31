@@ -1,0 +1,15 @@
+{
+  "symbol": "nds",
+  "name": "NodeStation AI",
+  "address": "0x3824255DF9EAbC9347ABcAa5872B1763fe9D47Bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37187/thumb/NodeStation_AI_200x200.png?1713666678",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3824255df9eabc9347abcaa5872b1763fe9d47bc"
+  }
+}

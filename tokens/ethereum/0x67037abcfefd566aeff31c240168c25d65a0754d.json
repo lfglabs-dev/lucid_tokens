@@ -1,0 +1,15 @@
+{
+  "symbol": "zai",
+  "name": "ZAIHO",
+  "address": "0x67037abCFEfd566aeFF31C240168c25d65a0754D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34047/thumb/ZAIHO_logo200.png?1703733095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x67037abcfefd566aeff31c240168c25d65a0754d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ehash",
+  "name": "EHash",
+  "address": "0x2942E3B38E33123965bfbc21E802bE943a76bbC6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14180/thumb/ehash.png?1614820416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2942e3b38e33123965bfbc21e802be943a76bbc6"
+  }
+}

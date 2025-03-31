@@ -1,0 +1,15 @@
+{
+  "symbol": "aegis",
+  "name": "Aegis Ai",
+  "address": "0x55A8f6c6b3Aa58ad6D1f26f6AFeDEd78F32E19f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33169/thumb/UXDa3TDq_400x400.jpg?1700909114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x55a8f6c6b3aa58ad6d1f26f6afeded78f32e19f4"
+  }
+}

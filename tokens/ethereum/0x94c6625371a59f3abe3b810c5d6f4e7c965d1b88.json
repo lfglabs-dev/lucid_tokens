@@ -1,0 +1,15 @@
+{
+  "symbol": "$insora",
+  "name": "INSORA AI",
+  "address": "0x94C6625371a59f3aBe3b810C5d6f4e7c965D1B88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50456/thumb/output-onlinepngtools.png?1727795157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x94c6625371a59f3abe3b810c5d6f4e7c965d1b88"
+  }
+}

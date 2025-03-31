@@ -1,0 +1,15 @@
+{
+  "symbol": "rak",
+  "name": "Rake Finance",
+  "address": "0xa8B0F154A688c22142E361707df64277e0A0bE66",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13078/thumb/rake-logo-200x200.png?1604931839",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa8b0f154a688c22142e361707df64277e0a0be66"
+  }
+}

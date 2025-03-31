@@ -1,0 +1,15 @@
+{
+  "symbol": "usualusdc+",
+  "name": "MEV Capital Usual Boosted USDC Morpho Vault",
+  "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51339/thumb/usdc.png?1730814974",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd63070114470f685b75b74d60eec7c1113d33a3d"
+  }
+}

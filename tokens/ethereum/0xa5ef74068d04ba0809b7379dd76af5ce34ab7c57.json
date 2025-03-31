@@ -1,0 +1,17 @@
+{
+  "symbol": "luchow",
+  "name": "LunaChow",
+  "address": "0xA5Ef74068d04ba0809B7379dD76Af5Ce34Ab7C57",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18805/thumb/J-MwYfhD_400x400.jpg?1633475157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
+    "binance-smart-chain": "0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
+    "polygon-pos": "0xc4bb7277a74678f053259cb1f96140347efbfd46"
+  }
+}

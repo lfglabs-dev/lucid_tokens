@@ -1,0 +1,15 @@
+{
+  "symbol": "peepo",
+  "name": "Peepo",
+  "address": "0xaADA04204e9e1099DaF67cf3D5D137E84E41CF41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30006/thumb/20230425_175833.png?1682482396",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaada04204e9e1099daf67cf3d5d137e84e41cf41"
+  }
+}

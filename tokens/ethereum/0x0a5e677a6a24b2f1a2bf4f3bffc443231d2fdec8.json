@@ -1,0 +1,20 @@
+{
+  "symbol": "usx",
+  "name": "dForce USD",
+  "address": "0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17422/thumb/usx_32.png?1627600920",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb5102cee1528ce2c760893034a4603663495fd72",
+    "optimistic-ethereum": "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9",
+    "kava": "0xdb0e1e86b01c4ad25241b1843e407efc4d615248",
+    "ethereum": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+    "arbitrum-one": "0x641441c631e2f909700d2f41fd87f0aa6a6b4edb",
+    "polygon-pos": "0xcf66eb3d546f0415b368d98a95eaf56ded7aa752"
+  }
+}

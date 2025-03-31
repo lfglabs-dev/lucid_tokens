@@ -1,0 +1,15 @@
+{
+  "symbol": "ausdc",
+  "name": "Alpha USDC Vault",
+  "address": "0xD50B9Bbf136D1BD5CD5AC6ed9b3F26c458a6d4A6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54542/thumb/alpha_vaults_icon_coingecko.png?1740218899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd50b9bbf136d1bd5cd5ac6ed9b3f26c458a6d4a6"
+  }
+}

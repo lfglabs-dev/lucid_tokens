@@ -1,0 +1,15 @@
+{
+  "symbol": "gdx",
+  "name": "GrokDogeX",
+  "address": "0x0c21638d4BCB88568f88Bc84a50E317715f8De8a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32756/thumb/GDX.jpg?1699280011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c21638d4bcb88568f88bc84a50e317715f8de8a"
+  }
+}

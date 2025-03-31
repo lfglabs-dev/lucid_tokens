@@ -1,0 +1,16 @@
+{
+  "symbol": "dc",
+  "name": "Dogechain",
+  "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26828/thumb/dogechain.jpeg?1660292741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "dogechain": "0x7b4328c127b85369d9f82ca0503b000d09cf9180",
+    "ethereum": "0x7b4328c127b85369d9f82ca0503b000d09cf9180"
+  }
+}

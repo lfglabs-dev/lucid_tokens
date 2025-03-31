@@ -1,0 +1,15 @@
+{
+  "symbol": "m2",
+  "name": "M2",
+  "address": "0x965d79F1A1016B574a62986e13Ca8Ab04DfdD15C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18239/thumb/m2_%281%29.png?1631068956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x965d79f1a1016b574a62986e13ca8ab04dfdd15c"
+  }
+}

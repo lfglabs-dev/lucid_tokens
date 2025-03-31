@@ -1,0 +1,17 @@
+{
+  "symbol": "rfox",
+  "name": "RFOX",
+  "address": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12956/thumb/rfox.png?1642926902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+    "energi": "0xaad4add9b6ed577f3fe9e6bccbbe3bdce596b062",
+    "binance-smart-chain": "0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5"
+  }
+}

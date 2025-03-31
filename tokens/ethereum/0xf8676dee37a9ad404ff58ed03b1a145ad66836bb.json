@@ -1,0 +1,15 @@
+{
+  "symbol": "rixen",
+  "name": "Rixen Finance",
+  "address": "0xf8676DEe37a9Ad404ff58eD03b1a145ad66836bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51169/thumb/photo_2024-04-23_19-11-25.jpg?1730268363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf8676dee37a9ad404ff58ed03b1a145ad66836bb"
+  }
+}

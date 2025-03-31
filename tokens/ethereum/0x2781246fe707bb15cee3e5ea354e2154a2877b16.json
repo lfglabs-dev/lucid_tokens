@@ -1,0 +1,15 @@
+{
+  "symbol": "el",
+  "name": "ELYSIA",
+  "address": "0x2781246fe707bB15CeE3e5ea354e2154a2877B16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10887/thumb/CeyRVXPY_400x400.jpg?1585559128",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gorilla",
+  "name": "Gorilla",
+  "address": "0x33C04Bed4533e31f2Afb8AC4a61A48Eda38C4fA0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33006/thumb/IMG_20231110_124057_942.jpg?1700123171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33c04bed4533e31f2afb8ac4a61a48eda38c4fa0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fly",
+  "name": "Butterfly Ai",
+  "address": "0x27c78A7C10a0673C3509CCF63044AAb92E09edac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50528/thumb/photo_2024-10-02_12-19-56.jpg?1728162519",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x27c78a7c10a0673c3509ccf63044aab92e09edac"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "sei",
+  "name": "LayerZero Bridged Sei",
+  "address": "0xbdF43ecAdC5ceF51B7D1772F722E40596BC1788B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54862/thumb/sei.jpg?1742182276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "usds",
+  "name": "USDS",
+  "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39926/thumb/sky.jpg?1724830899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+    "arbitrum-one": "0x6491c05a82219b8d1479057361ff1654749b876b",
+    "base": "0x820c137fa70c8691f0e44dc420a5e53c168921dc",
+    "solana": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA"
+  }
+}

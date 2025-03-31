@@ -1,0 +1,15 @@
+{
+  "symbol": "sbr",
+  "name": "Strategic Bitcoin Reserve",
+  "address": "0xd6203889C22D9fe5e938a9200f50FDFFE9dD8e02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51391/thumb/IMG_5232.jpeg?1731008925",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd6203889c22d9fe5e938a9200f50fdffe9dd8e02"
+  }
+}

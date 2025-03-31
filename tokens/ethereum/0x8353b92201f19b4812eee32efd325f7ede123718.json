@@ -1,0 +1,17 @@
+{
+  "symbol": "scm",
+  "name": "ScamFari",
+  "address": "0x8353b92201f19B4812EeE32EFd325f7EDe123718",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31267/thumb/Ava_Scamfari_%281%29.png?1692069166",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8353b92201f19b4812eee32efd325f7ede123718",
+    "aurora": "0xe3ff873c1e104118ec83310e39aafde17d18005d",
+    "linea": "0x13a7f090d46c74acba98c51786a5c46ed9a474f0"
+  }
+}

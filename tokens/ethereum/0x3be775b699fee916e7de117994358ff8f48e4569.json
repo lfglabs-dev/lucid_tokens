@@ -1,0 +1,21 @@
+{
+  "symbol": "vcnt",
+  "name": "ViciCoin",
+  "address": "0x3bE775B699fee916E7De117994358fF8F48e4569",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1692345105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8a16d4bf8a0a716017e8d2262c4ac32927797a2f",
+    "optimistic-ethereum": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
+    "ethereum": "0x3be775b699fee916e7de117994358ff8f48e4569",
+    "binance-smart-chain": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
+    "avalanche": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
+    "arbitrum-one": "0x60bf4e7cf16ff34513514b968483b54beff42a81",
+    "base": "0xdcf5130274753c8050ab061b1a1dcbf583f5bfd0"
+  }
+}

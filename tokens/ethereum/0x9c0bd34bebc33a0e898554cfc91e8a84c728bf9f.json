@@ -1,0 +1,15 @@
+{
+  "symbol": "piss",
+  "name": "Pisscoin",
+  "address": "0x9C0bD34beBc33A0E898554cFc91e8A84C728BF9F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30459/thumb/A7661040-68D2-4753-B20E-B7416A7F90C2.png?1684656998",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9c0bd34bebc33a0e898554cfc91e8a84c728bf9f"
+  }
+}

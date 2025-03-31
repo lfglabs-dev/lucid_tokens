@@ -1,0 +1,15 @@
+{
+  "symbol": "chillguy",
+  "name": "Just a chill guy (ETH)",
+  "address": "0x60215DB40B04Fe029C42c56fF2E02221c1F288ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52317/thumb/JnL0pnZS_400x400.jpg?1733076796",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60215db40b04fe029c42c56ff2e02221c1f288ef"
+  }
+}

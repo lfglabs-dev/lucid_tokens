@@ -1,0 +1,16 @@
+{
+  "symbol": "dgnx",
+  "name": "DegenX",
+  "address": "0x0000000000300dd8B0230efcfEf136eCdF6ABCDE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27204/thumb/33358FE4-080B-4987-86A9-202CDEE46F06.png?1662604600",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x51e48670098173025c477d9aa3f0eff7bf9f7812",
+    "ethereum": "0x0000000000300dd8b0230efcfef136ecdf6abcde"
+  }
+}

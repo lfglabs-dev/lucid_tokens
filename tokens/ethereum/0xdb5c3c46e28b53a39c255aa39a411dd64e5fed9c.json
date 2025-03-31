@@ -1,0 +1,15 @@
+{
+  "symbol": "ncr",
+  "name": "Neos Credits",
+  "address": "0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17935/thumb/s4C4tVi.png?1629860208",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c"
+  }
+}

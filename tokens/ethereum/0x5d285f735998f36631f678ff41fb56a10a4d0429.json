@@ -1,0 +1,16 @@
+{
+  "symbol": "mix",
+  "name": "MixMarvel",
+  "address": "0x5d285F735998F36631F678FF41fb56A10A4d0429",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8222/thumb/8878caf93b1e3b6cfb3b414bda3b5250.png?1613945432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
+    "binance-smart-chain": "0xcf1b55d79e824da0ae0652f96c66fe33263d743f"
+  }
+}

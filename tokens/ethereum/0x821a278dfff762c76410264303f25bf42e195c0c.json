@@ -1,0 +1,15 @@
+{
+  "symbol": "peth",
+  "name": "pETH",
+  "address": "0x821A278dFff762c76410264303F25bF42e195C0C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28376/thumb/peth.png?1669968949",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x821a278dfff762c76410264303f25bf42e195c0c"
+  }
+}

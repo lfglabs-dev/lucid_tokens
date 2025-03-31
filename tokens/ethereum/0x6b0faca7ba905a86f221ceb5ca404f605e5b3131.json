@@ -1,0 +1,17 @@
+{
+  "symbol": "defi",
+  "name": "DeFi",
+  "address": "0x6B0FaCA7bA905a86F221CEb5CA404f605e5b3131",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6b0faca7ba905a86f221ceb5ca404f605e5b3131",
+    "binance-smart-chain": "0x6d106c0b8d2f47c5465bdbd58d1be253762cbbc1",
+    "solana": "HXwh9i8D1LKkVK8WfMjFPyiyVZ4Auh9aLD5ut4LCRqqR"
+  }
+}

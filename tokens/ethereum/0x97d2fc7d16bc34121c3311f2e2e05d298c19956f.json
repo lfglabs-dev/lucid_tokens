@@ -1,0 +1,15 @@
+{
+  "symbol": "wfo",
+  "name": "WoofOracle",
+  "address": "0x97D2FC7d16BC34121c3311f2e2E05D298c19956f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35788/thumb/Android.png?1709799277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x97d2fc7d16bc34121c3311f2e2e05d298c19956f"
+  }
+}

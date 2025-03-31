@@ -1,0 +1,15 @@
+{
+  "symbol": "peezy",
+  "name": "Peezy (peezy.vip)",
+  "address": "0x698b1d54E936b9F772b8F58447194bBc82EC1933",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52757/thumb/Peezy.jpg?1734194082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x698b1d54e936b9f772b8f58447194bbc82ec1933"
+  }
+}

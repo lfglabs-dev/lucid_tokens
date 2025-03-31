@@ -1,0 +1,15 @@
+{
+  "symbol": "vgx",
+  "name": "VGX Token",
+  "address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/794/thumb/Voyager-vgx.png?1575693595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d"
+  }
+}

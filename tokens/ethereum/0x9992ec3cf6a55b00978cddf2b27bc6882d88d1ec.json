@@ -1,0 +1,16 @@
+{
+  "symbol": "poly",
+  "name": "Polymath",
+  "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2784/thumb/inKkF01.png?1605007034",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+    "energi": "0xe99bbd3b25a014aac93127cf868d3de07386c4dd"
+  }
+}

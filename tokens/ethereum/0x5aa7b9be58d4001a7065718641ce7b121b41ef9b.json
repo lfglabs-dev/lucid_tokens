@@ -1,0 +1,17 @@
+{
+  "symbol": "apad",
+  "name": "AlphPad",
+  "address": "0x5AA7B9bE58D4001a7065718641cE7b121b41EF9B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39931/thumb/icon.png?1724836252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "alephium": "27HxXZJBTPjhHXwoF1Ue8sLMcSxYdxefoN2U6d8TKmZsm",
+    "ethereum": "0x5aa7b9be58d4001a7065718641ce7b121b41ef9b",
+    "binance-smart-chain": "0x3a1f0ca49314fce2211792c7fa60ac97ab217cdc"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ftr",
+  "name": "Fautor",
+  "address": "0xD6C7bB8531295e88D364EA67D5D1acC7D3F87454",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38727/thumb/main_green.png?1718478384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd6c7bb8531295e88d364ea67d5d1acc7d3f87454",
+    "avalanche": "0x61f23250451305f6c4426e81c50ae535edf94a02"
+  }
+}

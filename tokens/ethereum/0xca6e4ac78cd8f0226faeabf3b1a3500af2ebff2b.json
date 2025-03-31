@@ -1,0 +1,15 @@
+{
+  "symbol": "art",
+  "name": "Genify ART",
+  "address": "0xCA6e4aC78CD8F0226FAEAbF3b1A3500aF2EbFF2B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51663/thumb/mJe43sit_400x400.jpg?1731712867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xca6e4ac78cd8f0226faeabf3b1a3500af2ebff2b"
+  }
+}

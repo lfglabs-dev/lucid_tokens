@@ -1,0 +1,15 @@
+{
+  "symbol": "bcnt",
+  "name": "Bincentive",
+  "address": "0x9669890e48f330ACD88b78D63E1A6b3482652CD9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9661/thumb/bcnt.png?1640328324",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9669890e48f330acd88b78d63e1a6b3482652cd9"
+  }
+}

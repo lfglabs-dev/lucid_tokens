@@ -1,0 +1,15 @@
+{
+  "symbol": "aken",
+  "name": "ALTOKEN",
+  "address": "0xFE3Aaf3B1Dd087331EC68C4dd86E8fe542598d5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38407/thumb/IMG_20240414_215105_663.jpg?1717463729",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe3aaf3b1dd087331ec68c4dd86e8fe542598d5e"
+  }
+}

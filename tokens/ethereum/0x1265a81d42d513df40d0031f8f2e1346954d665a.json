@@ -1,0 +1,15 @@
+{
+  "symbol": "mc.eusdc",
+  "name": "MEV Capital Elixir USDC",
+  "address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52392/thumb/elixirm.png?1733282940",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1265a81d42d513df40d0031f8f2e1346954d665a"
+  }
+}

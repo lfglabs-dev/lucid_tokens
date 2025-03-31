@@ -1,0 +1,17 @@
+{
+  "symbol": "bondly",
+  "name": "Forj",
+  "address": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13322/thumb/logomark.png?1607474416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
+    "binance-smart-chain": "0x5d0158a5c3ddf47d4ea4517d8db0d76aa2e87563",
+    "polygon-pos": "0x64ca1571d1476b7a21c5aaf9f1a750a193a103c0"
+  }
+}

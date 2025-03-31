@@ -1,0 +1,17 @@
+{
+  "symbol": "corgiai",
+  "name": "CorgiAI",
+  "address": "0x6b431B8a964BFcf28191b07c91189fF4403957D0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30933/thumb/Token.png?1689062181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0x6b431b8a964bfcf28191b07c91189ff4403957d0",
+    "ethereum": "0x6b431b8a964bfcf28191b07c91189ff4403957d0",
+    "solana": "79F32BvHBE49gPsvypYTGzcpWGvt66mgvenQow3mJjXu"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "sasha",
+  "name": "Bitcoin Cat",
+  "address": "0x93c2Bd80cADcFeB541eb5Af4052375bde8D6F24f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50563/thumb/1000016576.png?1728371014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x93c2bd80cadcfeb541eb5af4052375bde8d6f24f"
+  }
+}

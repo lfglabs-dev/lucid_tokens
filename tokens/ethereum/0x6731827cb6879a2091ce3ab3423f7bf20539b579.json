@@ -1,0 +1,17 @@
+{
+  "symbol": "mpwr",
+  "name": "Empower",
+  "address": "0x6731827Cb6879a2091ce3ab3423f7bf20539b579",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25456/thumb/MPWR_200x200.png?1651815610",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "klay-token": "0xad27ace6f0f6cef2c192a3c8f0f3fa2611154eb3",
+    "ethereum": "0x6731827cb6879a2091ce3ab3423f7bf20539b579",
+    "polygon-pos": "0x47c52f93a359db9f4509005cf982dfc440790561"
+  }
+}

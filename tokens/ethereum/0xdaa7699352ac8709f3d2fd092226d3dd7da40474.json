@@ -1,0 +1,15 @@
+{
+  "symbol": "$opcat",
+  "name": "OPCAT",
+  "address": "0xDaA7699352AC8709f3D2fD092226d3DD7DA40474",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34965/thumb/photo_2024-01-22_14.49.24.png?1706803957",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdaa7699352ac8709f3d2fd092226d3dd7da40474"
+  }
+}

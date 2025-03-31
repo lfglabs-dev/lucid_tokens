@@ -1,0 +1,15 @@
+{
+  "symbol": "citadel",
+  "name": "The Citadel",
+  "address": "0x6caDf6ABBCeb53e631C288778DAAcF125481C1BB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20445/thumb/B307-A646-EBD2-456-C-B29-D-1-B00-A470-F8-CE.jpg?1637041816",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6cadf6abbceb53e631c288778daacf125481c1bb"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "unp",
+  "name": "Unipoly",
+  "address": "0x23d7Ff057c696fEE679c60cEf61Fee6614218f04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32510/thumb/20231018_231410.png?1698398961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x23d7ff057c696fee679c60cef61fee6614218f04"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ftx",
+  "name": "FintruX",
+  "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1928/thumb/token-500x500.png?1547036223",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd559f20296ff4895da39b5bd9add54b442596a61"
+  }
+}

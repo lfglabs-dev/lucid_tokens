@@ -1,0 +1,15 @@
+{
+  "symbol": "abds",
+  "name": "ABDS Token",
+  "address": "0xB56AaAc80C931161548a49181c9E000a19489C44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40154/thumb/photo_2024-09-10_20-06-22.jpg?1726075708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb56aaac80c931161548a49181c9e000a19489c44"
+  }
+}

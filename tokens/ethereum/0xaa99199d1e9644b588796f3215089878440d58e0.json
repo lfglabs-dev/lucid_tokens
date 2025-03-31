@@ -1,0 +1,15 @@
+{
+  "symbol": "alphr",
+  "name": "Alphr",
+  "address": "0xaa99199d1e9644b588796F3215089878440D58e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15029/thumb/alphr.jpg?1619495712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa99199d1e9644b588796f3215089878440d58e0"
+  }
+}

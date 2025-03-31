@@ -1,0 +1,15 @@
+{
+  "symbol": "memd",
+  "name": "MemeDAO",
+  "address": "0x7a786DAC1f315C8A0e9962172AD8AE0C04d9c9b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30468/thumb/memeDAO_200x200.png?1684665589",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7a786dac1f315c8a0e9962172ad8ae0c04d9c9b6"
+  }
+}

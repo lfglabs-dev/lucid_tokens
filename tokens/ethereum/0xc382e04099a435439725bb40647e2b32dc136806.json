@@ -1,0 +1,15 @@
+{
+  "symbol": "coge",
+  "name": "Cogecoin",
+  "address": "0xC382e04099A435439725BB40647e2B32dC136806",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16791/thumb/Dog-Logo_1x.png?1625033809",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc382e04099a435439725bb40647e2b32dc136806"
+  }
+}

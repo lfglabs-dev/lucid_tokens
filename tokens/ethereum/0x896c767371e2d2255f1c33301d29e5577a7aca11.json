@@ -1,0 +1,15 @@
+{
+  "symbol": "bulla",
+  "name": "BULLA",
+  "address": "0x896C767371e2d2255f1C33301D29E5577A7Aca11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50684/thumb/Logo222.png?1728776667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x896c767371e2d2255f1c33301d29e5577a7aca11"
+  }
+}

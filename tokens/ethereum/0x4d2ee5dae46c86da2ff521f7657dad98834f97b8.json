@@ -1,0 +1,16 @@
+{
+  "symbol": "ppblz",
+  "name": "Pepemon Pepeballs",
+  "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12823/thumb/200pepebball-BIG.png?1603330304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d2ee5dae46c86da2ff521f7657dad98834f97b8",
+    "fantom": "0x8063115941e612021692f28748ab1ff56c23e4c6"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "summer",
+  "name": "Summer",
+  "address": "0x4D4f3715050571A447FfFa2Cd4Cf091C7014CA5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25365/thumb/summer.png?1651317403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d4f3715050571a447fffa2cd4cf091c7014ca5c",
+    "polygon-pos": "0xdd28ec6b06983d01d37dbd9ab581d8d884d95264"
+  }
+}

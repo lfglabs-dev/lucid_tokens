@@ -1,0 +1,15 @@
+{
+  "symbol": "balpha",
+  "name": "bAlpha",
+  "address": "0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14224/thumb/logo_bAlpha_200.png?1615089190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6"
+  }
+}

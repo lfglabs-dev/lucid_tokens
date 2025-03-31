@@ -1,0 +1,17 @@
+{
+  "symbol": "revv",
+  "name": "REVV",
+  "address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12373/thumb/REVV_TOKEN_Refined_2021_%281%29.png?1627652390",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+    "binance-smart-chain": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+    "polygon-pos": "0x70c006878a5a50ed185ac4c87d837633923de296"
+  }
+}

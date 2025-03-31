@@ -1,0 +1,15 @@
+{
+  "symbol": "swrv",
+  "name": "Swerve",
+  "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12361/thumb/swerve.png?1599278316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433"
+  }
+}

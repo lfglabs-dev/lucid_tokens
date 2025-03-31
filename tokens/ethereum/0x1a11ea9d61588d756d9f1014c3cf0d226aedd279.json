@@ -1,0 +1,15 @@
+{
+  "symbol": "milei",
+  "name": "MILEI Token",
+  "address": "0x1a11Ea9d61588D756D9f1014c3Cf0D226aEdd279",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34697/thumb/MILEI_CIRCLE_200px.png?1705858944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a11ea9d61588d756d9f1014c3cf0d226aedd279"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "psdn",
+  "name": "Poseidon",
+  "address": "0xA5B947687163FE88C3e6af5b17Ae69896F4abccf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25316/thumb/psdn_32.png?1651216148",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa5b947687163fe88c3e6af5b17ae69896f4abccf"
+  }
+}

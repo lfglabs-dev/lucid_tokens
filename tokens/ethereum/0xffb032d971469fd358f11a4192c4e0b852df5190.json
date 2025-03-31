@@ -1,0 +1,15 @@
+{
+  "symbol": "pepetr",
+  "name": "Pepe Treasure",
+  "address": "0xfFb032d971469fd358f11a4192c4e0b852DF5190",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38852/thumb/pepe_treasure_icon_100_%281%29.png?1719213132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xffb032d971469fd358f11a4192c4e0b852df5190"
+  }
+}

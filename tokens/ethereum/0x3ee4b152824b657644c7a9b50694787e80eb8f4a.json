@@ -1,0 +1,15 @@
+{
+  "symbol": "bazed",
+  "name": "Bazed Games",
+  "address": "0x3eE4B152824b657644c7A9B50694787e80EB8F4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31195/thumb/IMG_1849.jpeg?1691147156",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ee4b152824b657644c7a9b50694787e80eb8f4a"
+  }
+}

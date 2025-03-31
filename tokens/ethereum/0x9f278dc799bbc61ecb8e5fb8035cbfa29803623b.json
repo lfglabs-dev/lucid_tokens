@@ -1,0 +1,15 @@
+{
+  "symbol": "bdx",
+  "name": "Baby DragonX",
+  "address": "0x9f278Dc799BbC61ecB8e5Fb8035cbfA29803623B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50683/thumb/BDXcg.PNG?1728774730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f278dc799bbc61ecb8e5fb8035cbfa29803623b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dojo",
+  "name": "Project Dojo",
+  "address": "0x34bc13dE8e5124a7c47D4b7Ff7C5ADE6ee34FabA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33156/thumb/Project_Dojo_logo_transparent_200x200.png?1700827030",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x34bc13de8e5124a7c47d4b7ff7c5ade6ee34faba"
+  }
+}

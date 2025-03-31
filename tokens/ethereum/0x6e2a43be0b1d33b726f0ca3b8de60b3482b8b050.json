@@ -1,0 +1,15 @@
+{
+  "symbol": "arkm",
+  "name": "Arkham",
+  "address": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30929/thumb/PY63Vxtj_400x400.jpg?1688981814",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050"
+  }
+}

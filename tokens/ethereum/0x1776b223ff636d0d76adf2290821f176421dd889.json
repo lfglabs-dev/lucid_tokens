@@ -1,0 +1,15 @@
+{
+  "symbol": "america",
+  "name": "America1776",
+  "address": "0x1776B223FF636D0d76aDF2290821f176421DD889",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38617/thumb/IMG_3377.jpeg?1718107118",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1776b223ff636d0d76adf2290821f176421dd889"
+  }
+}

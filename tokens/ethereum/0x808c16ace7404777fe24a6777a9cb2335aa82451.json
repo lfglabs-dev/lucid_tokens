@@ -1,0 +1,15 @@
+{
+  "symbol": "jotchua",
+  "name": "PERRO DINERO",
+  "address": "0x808C16ACe7404777FE24a6777a9Cb2335Aa82451",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35704/thumb/jotchua_pfp_cg.png?1709575242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x808c16ace7404777fe24a6777a9cb2335aa82451"
+  }
+}

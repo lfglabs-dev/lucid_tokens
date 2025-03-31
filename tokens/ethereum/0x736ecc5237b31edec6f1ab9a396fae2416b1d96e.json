@@ -1,0 +1,15 @@
+{
+  "symbol": "gasp",
+  "name": "GASP",
+  "address": "0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54764/thumb/gasp-mark-orange_%284%29.png?1741415044",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x736ecc5237b31edec6f1ab9a396fae2416b1d96e"
+  }
+}

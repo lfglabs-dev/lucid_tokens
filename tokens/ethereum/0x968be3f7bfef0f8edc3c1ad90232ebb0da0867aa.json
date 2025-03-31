@@ -1,0 +1,19 @@
+{
+  "symbol": "sworld",
+  "name": "Seedworld",
+  "address": "0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51000/thumb/IMG_2798.PNG?1729685531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+    "ethereum": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+    "binance-smart-chain": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+    "arbitrum-one": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+    "base": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa"
+  }
+}

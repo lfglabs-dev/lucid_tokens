@@ -1,0 +1,15 @@
+{
+  "symbol": "free",
+  "name": "FreeRossDAO",
+  "address": "0x4CD0c43B0D53bc318cc5342b77EB6f124E47f526",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21648/thumb/free.jpg?1639639586",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4cd0c43b0d53bc318cc5342b77eb6f124e47f526"
+  }
+}

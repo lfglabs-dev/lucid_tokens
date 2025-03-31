@@ -1,0 +1,15 @@
+{
+  "symbol": "pc",
+  "name": "Pepe Chain",
+  "address": "0x4F311C430540db1d64e635EB55f969F1660B2016",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31041/thumb/Pepechain_Token.png?1689856816",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4f311c430540db1d64e635eb55f969f1660b2016"
+  }
+}

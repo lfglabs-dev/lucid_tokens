@@ -1,0 +1,15 @@
+{
+  "symbol": "gekko",
+  "name": "GEKKO",
+  "address": "0xf017d3690346eb8234b85F74cEe5E15821fEe1f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32439/thumb/gekko_%281%29.png?1698228341",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf017d3690346eb8234b85f74cee5e15821fee1f4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bigsb",
+  "name": "BigShortBets",
+  "address": "0x131157c6760f78f7dDF877C0019Eba175BA4b6F6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18235/thumb/bigsb-token-logo.png?1631065645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x131157c6760f78f7ddf877c0019eba175ba4b6f6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dnode",
+  "name": "DecentraNode",
+  "address": "0x014337b35167b3711195361Bb85259009e50a8a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35481/thumb/photo_2024-02-24_18.26.48.jpeg?1708849459",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x014337b35167b3711195361bb85259009e50a8a4"
+  }
+}

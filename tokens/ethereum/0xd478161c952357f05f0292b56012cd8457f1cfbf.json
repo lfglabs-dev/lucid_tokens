@@ -1,0 +1,15 @@
+{
+  "symbol": "polk",
+  "name": "Polkamarkets",
+  "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14084/thumb/polkamarkets.jpg?1614179979",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd478161c952357f05f0292b56012cd8457f1cfbf"
+  }
+}

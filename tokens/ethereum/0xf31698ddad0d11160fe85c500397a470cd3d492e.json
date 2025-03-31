@@ -1,0 +1,16 @@
+{
+  "symbol": "wexo",
+  "name": "Wexo",
+  "address": "0xf31698DDAd0d11160Fe85c500397A470CD3d492E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33801/thumb/wexo_token_200x200.png?1702991908",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf31698ddad0d11160fe85c500397a470cd3d492e",
+    "base": "0xac12f930318be4f9d37f602cbf89cd33e99aa9d4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mong",
+  "name": "MongCoin",
+  "address": "0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30051/thumb/h3OCGNvn_400x400.jpg?1682996331",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1ce270557c1f68cfb577b856766310bf8b47fd9c"
+  }
+}

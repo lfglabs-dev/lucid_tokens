@@ -1,0 +1,15 @@
+{
+  "symbol": "iryde",
+  "name": "iRYDE",
+  "address": "0x74fE27e70db10147F8B6b38b3C9d12BBdcf3b5AF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35530/thumb/3pIMg6HT.jpg?1709032145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x74fe27e70db10147f8b6b38b3c9d12bbdcf3b5af"
+  }
+}

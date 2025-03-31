@@ -1,0 +1,16 @@
+{
+  "symbol": "ctr",
+  "name": "Creator Platform",
+  "address": "0x923b83c26B3809d960fF80332Ed00aA46D7Ed375",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18252/thumb/logo_%281%29.png?1631137441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x923b83c26b3809d960ff80332ed00aa46d7ed375",
+    "binance-smart-chain": "0xd6cce248263ea1e2b8cb765178c944fc16ed0727"
+  }
+}

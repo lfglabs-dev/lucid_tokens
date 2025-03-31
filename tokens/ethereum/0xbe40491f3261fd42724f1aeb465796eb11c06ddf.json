@@ -1,0 +1,15 @@
+{
+  "symbol": "re7frax",
+  "name": "Re7 FRAX",
+  "address": "0xBE40491F3261Fd42724F1AEb465796eb11c06ddF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51505/thumb/free-frax-logo-icon-download-in-svg-png-gif-file-formats--coin-cryptocoin-exchange-crypto-coins-pack-science-technology-icons-4498155.png?1731434130",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe40491f3261fd42724f1aeb465796eb11c06ddf"
+  }
+}

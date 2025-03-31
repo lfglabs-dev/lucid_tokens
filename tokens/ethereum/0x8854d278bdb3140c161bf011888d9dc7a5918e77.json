@@ -1,0 +1,15 @@
+{
+  "symbol": "yuge",
+  "name": "Yuge",
+  "address": "0x8854d278bdb3140c161bF011888D9dC7A5918E77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38199/thumb/1000225072.jpg?1716791735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8854d278bdb3140c161bf011888d9dc7a5918e77"
+  }
+}

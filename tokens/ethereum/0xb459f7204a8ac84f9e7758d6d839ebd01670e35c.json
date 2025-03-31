@@ -1,0 +1,15 @@
+{
+  "symbol": "lotty",
+  "name": "Lotty",
+  "address": "0xB459F7204A8Ac84F9e7758d6d839eBD01670E35C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31018/thumb/download.png?1689825980",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb459f7204a8ac84f9e7758d6d839ebd01670e35c"
+  }
+}

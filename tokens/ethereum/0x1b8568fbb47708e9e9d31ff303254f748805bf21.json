@@ -1,0 +1,15 @@
+{
+  "symbol": "scx",
+  "name": "Scarcity",
+  "address": "0x1B8568FbB47708E9E9D31Ff303254f748805bF21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19064/thumb/scx_gecko.png?1634266881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b8568fbb47708e9e9d31ff303254f748805bf21"
+  }
+}

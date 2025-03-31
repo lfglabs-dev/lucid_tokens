@@ -1,0 +1,16 @@
+{
+  "symbol": "floki",
+  "name": "FLOKI",
+  "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16746/thumb/PNG_image.png?1643184642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "binance-smart-chain": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e"
+  }
+}

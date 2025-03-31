@@ -1,0 +1,15 @@
+{
+  "symbol": "heth",
+  "name": "Hinkal Staked ETH",
+  "address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50579/thumb/hETH_Icon_CG.png?1728408977",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x270b7748cdf8243bfe68face7230ef0fce695389"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "synk",
+  "name": "Synk",
+  "address": "0x048d07Bd350ba516b84587E147284881B593Eb86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50319/thumb/Main_%281%29.png?1727140152",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x048d07bd350ba516b84587e147284881b593eb86"
+  }
+}

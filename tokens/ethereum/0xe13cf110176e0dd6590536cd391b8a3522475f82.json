@@ -1,0 +1,15 @@
+{
+  "symbol": "rent",
+  "name": "RentAI",
+  "address": "0xE13Cf110176e0dd6590536CD391b8a3522475F82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36421/thumb/RENT_TRANSPARENT_200.png?1711428441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe13cf110176e0dd6590536cd391b8a3522475f82"
+  }
+}

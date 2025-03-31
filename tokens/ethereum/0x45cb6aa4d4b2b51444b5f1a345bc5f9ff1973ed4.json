@@ -1,0 +1,15 @@
+{
+  "symbol": "swt",
+  "name": "Smart Wallet",
+  "address": "0x45cB6aA4D4b2b51444b5F1A345BC5F9fF1973ed4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51703/thumb/asd.jpeg?1731887886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x45cb6aa4d4b2b51444b5f1a345bc5f9ff1973ed4"
+  }
+}

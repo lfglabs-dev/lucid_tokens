@@ -1,0 +1,16 @@
+{
+  "symbol": "punketh-20",
+  "name": "MetaStreet V2 mwstETH-WPUNKS:20",
+  "address": "0xC975342A95cCb75378ddc646B8620fa3Cd5bc051",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc975342a95ccb75378ddc646b8620fa3cd5bc051",
+    "blast": "0x9a50953716ba58e3d6719ea5c437452ac578705f"
+  }
+}

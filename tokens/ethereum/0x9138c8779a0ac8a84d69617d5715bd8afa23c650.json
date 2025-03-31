@@ -1,0 +1,15 @@
+{
+  "symbol": "flrbrg",
+  "name": "Floor Cheese Burger",
+  "address": "0x9138C8779A0Ac8a84D69617D5715BD8AFa23C650",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31526/thumb/YvPr4oRZ_400x400.jpg?1693783127",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9138c8779a0ac8a84d69617d5715bd8afa23c650"
+  }
+}

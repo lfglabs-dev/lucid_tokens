@@ -1,0 +1,15 @@
+{
+  "symbol": "rat",
+  "name": "ratsDAO",
+  "address": "0x2D3590FaC07B91c9451e8d16C372ecE9758f040F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33385/thumb/200x200.png?1701671914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2d3590fac07b91c9451e8d16c372ece9758f040f"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "unidx",
+  "name": "UniDex",
+  "address": "0xf0655DcEE37E5C0b70Fffd70D85f88F8eDf0AfF6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13178/thumb/unidx.png?1634888975",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf0655dcee37e5c0b70fffd70d85f88f8edf0aff6",
+    "optimistic-ethereum": "0x28b42698caf46b4b012cf38b6c75867e0762186d",
+    "fantom": "0x0483a76d80d0afec6bd2afd12c1ad865b9df1471",
+    "arbitrum-one": "0x5429706887fcb58a595677b73e9b0441c25d993d",
+    "base": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf"
+  }
+}

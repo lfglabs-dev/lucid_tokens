@@ -1,0 +1,15 @@
+{
+  "symbol": "knight",
+  "name": "CitaDAO",
+  "address": "0x3541A5C1b04AdABA0B83F161747815cd7B1516bC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22848/thumb/KNIGHT_TOKEN_LOGO.png?1643190758",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3541a5c1b04adaba0b83f161747815cd7b1516bc"
+  }
+}

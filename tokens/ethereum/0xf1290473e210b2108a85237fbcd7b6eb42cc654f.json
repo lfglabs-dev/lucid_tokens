@@ -1,0 +1,15 @@
+{
+  "symbol": "hedg",
+  "name": "HedgeTrade",
+  "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7196/thumb/to3Vj4EZ_400x400.jpg?1547043758",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f"
+  }
+}

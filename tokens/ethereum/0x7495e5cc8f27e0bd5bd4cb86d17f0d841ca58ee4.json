@@ -1,0 +1,15 @@
+{
+  "symbol": "arnc",
+  "name": "Arnoya classic",
+  "address": "0x7495e5Cc8F27e0bd5bD4cb86d17F0D841cA58EE4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28194/thumb/ARNC_200.png?1668332937",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7495e5cc8f27e0bd5bd4cb86d17f0d841ca58ee4"
+  }
+}

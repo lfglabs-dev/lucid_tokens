@@ -1,0 +1,15 @@
+{
+  "symbol": "rsp",
+  "name": "Reality Spiral",
+  "address": "0x90e3532Cf06D567EF7E6385Be532311f10c30096",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52871/thumb/Reality_Spiral.png?1734551794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x90e3532cf06d567ef7e6385be532311f10c30096"
+  }
+}

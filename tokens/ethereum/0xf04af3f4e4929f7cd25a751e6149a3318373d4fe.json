@@ -1,0 +1,16 @@
+{
+  "symbol": "spring",
+  "name": "Spring Token",
+  "address": "0xf04aF3f4E4929F7CD25A751E6149A3318373d4FE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25364/thumb/spring.png?1651317225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf04af3f4e4929f7cd25a751e6149a3318373d4fe",
+    "polygon-pos": "0x70d59baa5ab360b2723dd561415bdbcd4435e1c4"
+  }
+}

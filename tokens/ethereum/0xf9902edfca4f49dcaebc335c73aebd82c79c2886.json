@@ -1,0 +1,15 @@
+{
+  "symbol": "ado",
+  "name": "ADO Protocol",
+  "address": "0xf9902EdfCa4F49DcaEBC335C73aEbD82C79C2886",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27346/thumb/ado-200x200.png?1663654327",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf9902edfca4f49dcaebc335c73aebd82c79c2886"
+  }
+}

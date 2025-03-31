@@ -1,0 +1,16 @@
+{
+  "symbol": "aeg",
+  "name": "Aether Games",
+  "address": "0xF0187b76be05C1FCAa24f39C0a3aAB4434099c4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29916/thumb/Icon_200x200-standard.png?1682050026",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe3f2b1b2229c0333ad17d03f179b87500e7c5e01",
+    "ethereum": "0xf0187b76be05c1fcaa24f39c0a3aab4434099c4f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "spot",
+  "name": "Spot",
+  "address": "0xC1f33e0cf7e40a67375007104B929E49a581bafE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28426/thumb/SPOT_Logo_200x200_square.png?1671871463",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc1f33e0cf7e40a67375007104b929e49a581bafe",
+    "base": "0x8f2e6758c4d6570344bd5007dec6301cd57590a0"
+  }
+}

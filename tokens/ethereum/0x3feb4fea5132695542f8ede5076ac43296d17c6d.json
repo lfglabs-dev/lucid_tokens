@@ -1,0 +1,15 @@
+{
+  "symbol": "btc2.0",
+  "name": "Bitcoin 2.0",
+  "address": "0x3FEB4fEA5132695542F8Ede5076Ac43296d17c6d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30984/thumb/btc2-200x200.png?1689435232",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3feb4fea5132695542f8ede5076ac43296d17c6d"
+  }
+}

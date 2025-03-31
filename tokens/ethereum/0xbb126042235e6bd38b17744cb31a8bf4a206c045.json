@@ -1,0 +1,15 @@
+{
+  "symbol": "fanc",
+  "name": "fanC",
+  "address": "0xbB126042235E6bD38B17744cb31a8bF4A206c045",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26500/thumb/hJ6MD49P_400x400.jpeg?1658356676",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb126042235e6bd38b17744cb31a8bf4a206c045"
+  }
+}

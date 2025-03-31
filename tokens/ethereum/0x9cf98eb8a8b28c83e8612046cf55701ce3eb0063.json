@@ -1,0 +1,15 @@
+{
+  "symbol": "ugt",
+  "name": "Unreal Finance",
+  "address": "0x9cf98Eb8A8B28c83E8612046cf55701Ce3Eb0063",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17943/thumb/11292.png?1629883358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "digg",
+  "name": "DIGG",
+  "address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13737/thumb/digg.PNG?1611292196",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x798d1be841a82a273720ce31c822c61a67a601c3"
+  }
+}

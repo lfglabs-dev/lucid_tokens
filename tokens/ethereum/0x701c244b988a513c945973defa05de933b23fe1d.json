@@ -1,0 +1,15 @@
+{
+  "symbol": "oax",
+  "name": "OAX",
+  "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/853/thumb/OAXlogo.png?1598686792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x701c244b988a513c945973defa05de933b23fe1d"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "skr",
+  "name": "Saakuru",
+  "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37058/thumb/saakuru.jpeg?1713172376",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "saakuru": "0xe2dca969624795985f2f083bcd0b674337ba130a",
+    "optimistic-ethereum": "0xe2dca969624795985f2f083bcd0b674337ba130a",
+    "ethereum": "0xe2dca969624795985f2f083bcd0b674337ba130a",
+    "binance-smart-chain": "0xe2dca969624795985f2f083bcd0b674337ba130a",
+    "base": "0xe2dca969624795985f2f083bcd0b674337ba130a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "taotools",
+  "name": "TAOTools",
+  "address": "0x01043bF843b88e1182B1db27BDCC93999aA74C56",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51004/thumb/o3quL3Ds_400x400.jpg?1729704682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x01043bf843b88e1182b1db27bdcc93999aa74c56"
+  }
+}

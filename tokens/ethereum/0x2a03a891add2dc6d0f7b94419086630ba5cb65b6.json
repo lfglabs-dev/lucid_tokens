@@ -1,0 +1,15 @@
+{
+  "symbol": "dv",
+  "name": "Dreamverse",
+  "address": "0x2a03A891ADD2dc6d0F7b94419086630ba5cB65b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21554/thumb/dv.png?1639464955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2a03a891add2dc6d0f7b94419086630ba5cb65b6"
+  }
+}

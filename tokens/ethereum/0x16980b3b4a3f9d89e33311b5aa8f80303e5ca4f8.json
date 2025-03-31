@@ -1,0 +1,16 @@
+{
+  "symbol": "kex",
+  "name": "KIRA Network",
+  "address": "0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13232/thumb/avatar.png?1622601779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8",
+    "binance-smart-chain": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e"
+  }
+}

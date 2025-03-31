@@ -1,0 +1,15 @@
+{
+  "symbol": "incept",
+  "name": "Incept",
+  "address": "0x1c43cD666F22878ee902769FCCdA61F401814EFb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50368/thumb/KzfTk1Sj_400x400.jpg?1727371321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1c43cd666f22878ee902769fccda61f401814efb"
+  }
+}

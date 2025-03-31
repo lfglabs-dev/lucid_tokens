@@ -1,0 +1,16 @@
+{
+  "symbol": "hera",
+  "name": "Hera Finance",
+  "address": "0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24751/thumb/logo-icon-200x.png?1648786651",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "metis-andromeda": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
+    "ethereum": "0xa2c2c937333165d4c5f2dc5f31a43e1239fecfeb"
+  }
+}

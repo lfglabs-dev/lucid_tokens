@@ -1,0 +1,16 @@
+{
+  "symbol": "$mecha",
+  "name": "Mechanium",
+  "address": "0xC5bcc8BA3F33Ab0d64f3473e861BDC0685b19Ef5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24374/thumb/w4K4OOMo_400x400.jpg?1647940092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5",
+    "polygon-pos": "0xacd4e2d936be9b16c01848a3742a34b3d5a5bdfa"
+  }
+}

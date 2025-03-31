@@ -1,0 +1,15 @@
+{
+  "symbol": "nex",
+  "name": "NEXUS",
+  "address": "0xc01154B4CCB518232D6bbfC9B9E6C5068B766f82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35797/thumb/LLm7P2IL_400x400.jpg?1709802342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "aldo",
+  "name": "Aave v3 LDO",
+  "address": "0x9A44fd41566876A39655f74971a3A6eA0a17a454",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32895/thumb/LDO.png?1699790151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a44fd41566876a39655f74971a3a6ea0a17a454"
+  }
+}

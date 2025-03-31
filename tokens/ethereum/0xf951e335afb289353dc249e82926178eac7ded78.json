@@ -1,0 +1,16 @@
+{
+  "symbol": "sweth",
+  "name": "Swell Ethereum",
+  "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30326/thumb/_lB7zEtS_400x400.jpg?1684128260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf951e335afb289353dc249e82926178eac7ded78",
+    "arbitrum-one": "0xbc011a12da28e8f0f528d9ee5e7039e22f91cf18"
+  }
+}

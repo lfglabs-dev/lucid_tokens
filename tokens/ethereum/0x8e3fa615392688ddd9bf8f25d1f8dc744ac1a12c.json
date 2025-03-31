@@ -1,0 +1,15 @@
+{
+  "symbol": "gme",
+  "name": "DumbMoney",
+  "address": "0x8E3fA615392688ddD9bf8F25D1f8Dc744ac1A12C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34929/thumb/DUMBMONEYICON.jpg?1706687792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e3fa615392688ddd9bf8f25d1f8dc744ac1a12c"
+  }
+}

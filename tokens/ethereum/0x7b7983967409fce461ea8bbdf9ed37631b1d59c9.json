@@ -1,0 +1,15 @@
+{
+  "symbol": "kpop",
+  "name": "KPOP Coin",
+  "address": "0x7B7983967409Fce461EA8bbDF9ED37631b1d59C9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15923/thumb/kpop.PNG?1622431964",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7b7983967409fce461ea8bbdf9ed37631b1d59c9"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "bbadger",
+  "name": "Badger Sett Badger",
+  "address": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14502/thumb/BADGER_DAO.png?1616559959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
+    "fantom": "0x1f7216fdb338247512ec99715587bb97bbf96eae"
+  }
+}

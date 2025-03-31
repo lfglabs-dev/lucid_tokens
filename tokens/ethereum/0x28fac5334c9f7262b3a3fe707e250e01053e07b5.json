@@ -1,0 +1,15 @@
+{
+  "symbol": "idleusdtsafe",
+  "name": "IdleUSDT (Risk Adjusted)",
+  "address": "0x28fAc5334C9f7262b3A3Fe707e250E01053e07b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11931/thumb/idleusdt-safe.png?1596263270",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x28fac5334c9f7262b3a3fe707e250e01053e07b5"
+  }
+}

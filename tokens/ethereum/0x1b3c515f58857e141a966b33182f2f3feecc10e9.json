@@ -1,0 +1,18 @@
+{
+  "symbol": "usk",
+  "name": "USK",
+  "address": "0x1B3C515F58857E141A966b33182f2F3feECC10E9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27274/thumb/usk.png?1663073635",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "evmos": "0x13974cf36984216c90d1f4fc815c156092fea396",
+    "osmosis": "ibc/44492EAB24B72E3FB59B9FA619A22337FB74F95D8808FE6BC78CC0E6C18DC2EC",
+    "secret": "secret1cj2fvj4ap79fl9euz8kqn0k5xlvck0pw9z9xhr",
+    "ethereum": "0x1b3c515f58857e141a966b33182f2f3feecc10e9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rbn",
+  "name": "Ribbon Finance",
+  "address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15823/thumb/RBN_64x64.png?1633529723",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6123b0049f904d730db3c36a31167d9d4121fa6b"
+  }
+}

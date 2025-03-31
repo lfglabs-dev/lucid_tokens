@@ -1,0 +1,15 @@
+{
+  "symbol": "craze",
+  "name": "Craze",
+  "address": "0x5c162Ec1c1679c67728d824deFC0b415a97539E5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52888/thumb/CRAZE.png?1734601430",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c162ec1c1679c67728d824defc0b415a97539e5"
+  }
+}

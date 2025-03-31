@@ -1,0 +1,15 @@
+{
+  "symbol": "emaid",
+  "name": "MaidSafeCoin",
+  "address": "0x329c6E459FFa7475718838145e5e85802Db2a303",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/80/thumb/maidsafecoin.png?1547033750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x329c6e459ffa7475718838145e5e85802db2a303"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "monopoly",
+  "name": "Meta Monopoly",
+  "address": "0x7d4A7be025652995364E0E232063abd9e8d65e6E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32129/thumb/OUR_LOGO_200X200.png?1696588281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7d4a7be025652995364e0e232063abd9e8d65e6e"
+  }
+}

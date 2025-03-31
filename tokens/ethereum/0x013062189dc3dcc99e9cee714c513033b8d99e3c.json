@@ -1,0 +1,16 @@
+{
+  "symbol": "infra",
+  "name": "Bware",
+  "address": "0x013062189dc3dcc99e9Cee714c513033b8d99e3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30546/thumb/infra-token-square.png?1684989653",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x013062189dc3dcc99e9cee714c513033b8d99e3c",
+    "avalanche": "0xa4fb4f0ff2431262d236778495145ecbc975c38b"
+  }
+}

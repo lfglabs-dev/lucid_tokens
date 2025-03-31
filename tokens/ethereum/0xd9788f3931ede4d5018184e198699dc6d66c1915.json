@@ -1,0 +1,15 @@
+{
+  "symbol": "yvaave",
+  "name": "Aave yVault",
+  "address": "0xd9788f3931Ede4D5018184E198699dC6d66C1915",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28784/thumb/yvAAVE-128-0xd9788f3931Ede4D5018184E198699dC6d66C1915.png?1674199536",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd9788f3931ede4d5018184e198699dc6d66c1915"
+  }
+}

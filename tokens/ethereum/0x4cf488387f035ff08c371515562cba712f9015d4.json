@@ -1,0 +1,15 @@
+{
+  "symbol": "wpr",
+  "name": "WePower",
+  "address": "0x4CF488387F035FF08c371515562CBa712f9015d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1951/thumb/wpr.png?1547036237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4cf488387f035ff08c371515562cba712f9015d4"
+  }
+}

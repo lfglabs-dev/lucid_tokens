@@ -1,0 +1,15 @@
+{
+  "symbol": "grid",
+  "name": "OpenGRID",
+  "address": "0x3DdD90Ba2c4B028334c08B0aDC6352Ac9e50f2d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50243/thumb/2024-09-17_14.27.17.jpg?1726678284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ddd90ba2c4b028334c08b0adc6352ac9e50f2d7"
+  }
+}

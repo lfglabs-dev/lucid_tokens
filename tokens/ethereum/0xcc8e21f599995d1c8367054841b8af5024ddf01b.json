@@ -1,0 +1,15 @@
+{
+  "symbol": "ag",
+  "name": "Alpha Gardeners",
+  "address": "0xCC8E21F599995D1c8367054841b8af5024DDf01b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31153/thumb/token2_%282%29.jpg?1691038222",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcc8e21f599995d1c8367054841b8af5024ddf01b"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "symbol": "yel",
+  "name": "Yel.Finance",
+  "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1627613989",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "sonic": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "berachain": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "blast": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "optimistic-ethereum": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "binance-smart-chain": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "fantom": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "avalanche": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "arbitrum-one": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "polygon-pos": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "base": "0x949185d3be66775ea648f4a306740ea9eff9c567"
+  }
+}

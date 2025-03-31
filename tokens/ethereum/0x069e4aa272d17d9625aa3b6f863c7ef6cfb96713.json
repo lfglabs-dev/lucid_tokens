@@ -1,0 +1,15 @@
+{
+  "symbol": "bulei",
+  "name": "Bulei",
+  "address": "0x069e4Aa272d17D9625aa3B6F863C7EF6CfB96713",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38649/thumb/BULEI200.jpg?1718215100",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x069e4aa272d17d9625aa3b6f863c7ef6cfb96713"
+  }
+}

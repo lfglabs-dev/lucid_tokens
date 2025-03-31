@@ -1,0 +1,16 @@
+{
+  "symbol": "nai",
+  "name": "Nuklai",
+  "address": "0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36904/thumb/nuklai_-_full_color_SQ_200.png?1712711676",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x5ac34c53a04b9aaa0bf047e7291fb4e8a48f2a18",
+    "ethereum": "0x5ac34c53a04b9aaa0bf047e7291fb4e8a48f2a18"
+  }
+}

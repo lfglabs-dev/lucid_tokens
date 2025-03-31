@@ -1,0 +1,15 @@
+{
+  "symbol": "mogul",
+  "name": "Mogul Productions",
+  "address": "0x88fd59e1DD3715A98bb66149DA9c944d9E795c12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39631/thumb/mogul.jpg?1723187346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x88fd59e1dd3715a98bb66149da9c944d9e795c12"
+  }
+}

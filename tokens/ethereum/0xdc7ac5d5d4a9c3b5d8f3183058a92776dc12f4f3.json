@@ -1,0 +1,15 @@
+{
+  "symbol": "monkas",
+  "name": "Monkas",
+  "address": "0xDc7AC5d5d4a9C3B5d8F3183058A92776Dc12f4f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38137/thumb/Monkas.png?1716570831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc7ac5d5d4a9c3b5d8f3183058a92776dc12f4f3"
+  }
+}

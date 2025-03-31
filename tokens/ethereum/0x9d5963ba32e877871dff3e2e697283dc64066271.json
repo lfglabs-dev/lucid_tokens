@@ -1,0 +1,15 @@
+{
+  "symbol": "edc",
+  "name": "Edcoin",
+  "address": "0x9d5963ba32e877871dfF3e2E697283dc64066271",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13872/thumb/EDCOIN-1.png?1612447671",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9d5963ba32e877871dff3e2e697283dc64066271"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "hseth",
+  "name": "hsETH",
+  "address": "0x4d8d9F6Ced39288a1E8961621BBBc2B698a3B102",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55023/thumb/hsETH.png?1743243778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d8d9f6ced39288a1e8961621bbbc2b698a3b102"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "val",
+  "name": "Valeria",
+  "address": "0x011E128Ec62840186F4A07E85E3ACe28858c5606",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32558/thumb/A02QICI.png?1698504111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x011e128ec62840186f4a07e85e3ace28858c5606"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "lvva",
+  "name": "Levva Protocol",
+  "address": "0x6243558a24CC6116aBE751f27E6d7Ede50ABFC76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54803/thumb/YoUaL3yh_400x400.jpg?1741712015",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6243558a24cc6116abe751f27e6d7ede50abfc76"
+  }
+}

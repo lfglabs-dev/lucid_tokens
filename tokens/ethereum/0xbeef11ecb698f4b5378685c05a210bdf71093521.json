@@ -1,0 +1,15 @@
+{
+  "symbol": "steakrusd",
+  "name": "Steakhouse RUSD Morpho Vault",
+  "address": "0xBeEf11eCb698f4B5378685C05A210bdF71093521",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52411/thumb/steak-coin-hole.png?1733304534",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef11ecb698f4b5378685c05a210bdf71093521"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pst",
+  "name": "Primas",
+  "address": "0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/917/thumb/primas.png?1548331951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9"
+  }
+}

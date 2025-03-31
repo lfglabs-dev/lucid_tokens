@@ -1,0 +1,15 @@
+{
+  "symbol": "hilo",
+  "name": "Hilo",
+  "address": "0x6c3fE25a4de7FA243c653cfE1F165bf11D99704E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40093/thumb/hilo.jpg?1725595322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c3fe25a4de7fa243c653cfe1f165bf11d99704e"
+  }
+}

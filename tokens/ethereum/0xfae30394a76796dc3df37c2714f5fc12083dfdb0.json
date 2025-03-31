@@ -1,0 +1,15 @@
+{
+  "symbol": "naka",
+  "name": "NakaChain",
+  "address": "0xfaE30394A76796dc3DF37c2714f5Fc12083DFDb0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36269/thumb/1CR4up2C_400x400.jpg?1711003041",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfae30394a76796dc3df37c2714f5fc12083dfdb0"
+  }
+}

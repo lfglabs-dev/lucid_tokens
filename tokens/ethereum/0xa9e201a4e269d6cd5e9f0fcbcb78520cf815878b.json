@@ -1,0 +1,15 @@
+{
+  "symbol": "aammunirenweth",
+  "name": "Aave AMM UniRENWETH",
+  "address": "0xA9e201A4e269d6cd5E9F0FcbcB78520cf815878B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17223/thumb/aAmmUniRENWETH.png?1626880629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa9e201a4e269d6cd5e9f0fcbcb78520cf815878b"
+  }
+}

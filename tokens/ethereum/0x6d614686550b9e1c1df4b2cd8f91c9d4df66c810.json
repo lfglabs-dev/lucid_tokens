@@ -1,0 +1,15 @@
+{
+  "symbol": "skeb",
+  "name": "Skeb",
+  "address": "0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27155/thumb/skebcoin-cmc.png?1662206072",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810"
+  }
+}

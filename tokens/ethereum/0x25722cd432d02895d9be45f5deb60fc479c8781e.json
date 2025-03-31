@@ -1,0 +1,15 @@
+{
+  "symbol": "$sponge",
+  "name": "Sponge (OLD)",
+  "address": "0x25722Cd432d02895d9BE45f5dEB60fc479c8781E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30254/thumb/Sea_Sponge_1.png?1683704572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x25722cd432d02895d9be45f5deb60fc479c8781e"
+  }
+}

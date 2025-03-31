@@ -1,0 +1,15 @@
+{
+  "symbol": "doge-1",
+  "name": "Satellite Doge-1 Mission",
+  "address": "0xFfE203b59393593965842439ce1E7D7c78109b46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33316/thumb/logo_200-200.png?1701413684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xffe203b59393593965842439ce1e7d7c78109b46"
+  }
+}

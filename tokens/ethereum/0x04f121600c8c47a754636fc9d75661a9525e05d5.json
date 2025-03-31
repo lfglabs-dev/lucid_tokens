@@ -1,0 +1,15 @@
+{
+  "symbol": "stars",
+  "name": "STARS",
+  "address": "0x04F121600c8C47A754636fc9d75661a9525e05D5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53049/thumb/IMG_4164.jpeg?1735147709",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x04f121600c8c47a754636fc9d75661a9525e05d5"
+  }
+}

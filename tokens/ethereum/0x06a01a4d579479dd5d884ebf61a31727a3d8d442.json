@@ -1,0 +1,15 @@
+{
+  "symbol": "skey",
+  "name": "Skey Network",
+  "address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13425/thumb/SKEY_Network_logo_black.png?1633421778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442"
+  }
+}

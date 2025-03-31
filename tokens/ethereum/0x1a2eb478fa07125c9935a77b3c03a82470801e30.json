@@ -1,0 +1,15 @@
+{
+  "symbol": "amo",
+  "name": "Amino [OLD]",
+  "address": "0x1a2EB478FA07125C9935A77b3C03a82470801E30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32677/thumb/IMG_6956.png?1698920127",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a2eb478fa07125c9935a77b3c03a82470801e30"
+  }
+}

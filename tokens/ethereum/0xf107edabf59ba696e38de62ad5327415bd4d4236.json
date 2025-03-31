@@ -1,0 +1,15 @@
+{
+  "symbol": "slap",
+  "name": "CatSlap",
+  "address": "0xF107edABF59ba696E38DE62Ad5327415Bd4D4236",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51985/thumb/Cat_Slap_200x200_Logo_1.png?1732292609",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf107edabf59ba696e38de62ad5327415bd4d4236"
+  }
+}

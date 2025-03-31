@@ -1,0 +1,15 @@
+{
+  "symbol": "dna",
+  "name": "EncrypGen",
+  "address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1215/thumb/encrypgen.png?1547393601",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xef6344de1fcfc5f48c30234c16c1389e8cdc572c"
+  }
+}

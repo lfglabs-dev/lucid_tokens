@@ -1,0 +1,15 @@
+{
+  "symbol": "wpe",
+  "name": "OpesAI",
+  "address": "0xd075e95423C5c4BA1E122CaE0f4CdFA19b82881b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16647/thumb/opes.png?1625834316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b"
+  }
+}

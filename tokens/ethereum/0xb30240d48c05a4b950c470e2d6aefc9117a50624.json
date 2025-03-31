@@ -1,0 +1,15 @@
+{
+  "symbol": "ruby",
+  "name": "Ruby Protocol",
+  "address": "0xB30240d48C05A4B950C470e2D6aeFC9117A50624",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38412/thumb/ruby.jpeg?1717471660",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb30240d48c05a4b950c470e2d6aefc9117a50624"
+  }
+}

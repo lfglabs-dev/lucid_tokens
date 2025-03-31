@@ -1,0 +1,17 @@
+{
+  "symbol": "heu",
+  "name": "Heurist",
+  "address": "0xec463D00aa4dA76fb112cD2e4AC1C6BeF02da6ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51361/thumb/logo-200px.png?1730878190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec463d00aa4da76fb112cd2e4ac1c6bef02da6ea",
+    "zksync": "0xabec5ecbe08b6c02f5c9a2ff82696e1e7db6f9bf",
+    "base": "0xef22cb48b8483df6152e1423b19df5553bbd818b"
+  }
+}

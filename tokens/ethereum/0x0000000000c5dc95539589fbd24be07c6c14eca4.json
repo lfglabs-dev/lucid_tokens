@@ -1,0 +1,15 @@
+{
+  "symbol": "cult",
+  "name": "Milady Cult Coin",
+  "address": "0x0000000000c5dc95539589fbD24BE07c6C14eCa4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52583/thumb/cult.jpg?1733712273",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0000000000c5dc95539589fbd24be07c6c14eca4"
+  }
+}

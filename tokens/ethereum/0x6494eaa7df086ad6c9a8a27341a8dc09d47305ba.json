@@ -1,0 +1,15 @@
+{
+  "symbol": "smol",
+  "name": "smol.game",
+  "address": "0x6494eAa7dF086ad6C9A8A27341A8dC09D47305bA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50443/thumb/smol.game.png?1727769801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6494eaa7df086ad6c9a8a27341a8dc09d47305ba"
+  }
+}

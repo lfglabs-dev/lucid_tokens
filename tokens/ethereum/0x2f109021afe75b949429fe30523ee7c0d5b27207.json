@@ -1,0 +1,18 @@
+{
+  "symbol": "occ",
+  "name": "OccamFi",
+  "address": "0x2F109021aFe75B949429fe30523Ee7C0D5B27207",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14801/thumb/occfi.PNG?1618531140",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
+    "cardano": "10a124dcf67dadd515250ebdacefd718c7fdce1e",
+    "milkomeda-cardano": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
+    "binance-smart-chain": "0x2a4dffa1fa0f86ce7f0982f88aecc199fb3476bc"
+  }
+}

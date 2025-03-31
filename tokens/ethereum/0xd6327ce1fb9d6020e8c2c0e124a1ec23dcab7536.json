@@ -1,0 +1,15 @@
+{
+  "symbol": "cuminu",
+  "name": "Cuminu",
+  "address": "0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15832/thumb/CUMINU.png?1628849016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd6327ce1fb9d6020e8c2c0e124a1ec23dcab7536"
+  }
+}

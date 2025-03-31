@@ -1,0 +1,15 @@
+{
+  "symbol": "flx",
+  "name": "Reflexer Ungovernance",
+  "address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14123/thumb/EAfYdwgd_400x400.jpg?1614564508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6243d8cea23066d098a15582d81a598b4e8391f4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "arai",
+  "name": "Archi AI",
+  "address": "0xCe9dcc28791a98EDfd4175a7d55da9f86C560199",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53487/thumb/1_%284%29_%281%29_%281%29.png?1736485998",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xce9dcc28791a98edfd4175a7d55da9f86c560199"
+  }
+}

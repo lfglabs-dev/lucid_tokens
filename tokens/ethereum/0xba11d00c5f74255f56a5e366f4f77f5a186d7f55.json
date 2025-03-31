@@ -1,0 +1,18 @@
+{
+  "symbol": "band",
+  "name": "Band Protocol",
+  "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9545/thumb/Band_token_blue_violet_token.png?1625881431",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "osmosis": "ibc/F867AE2112EFE646EC71A25CD2DFABB8927126AC1E19F1BBF0FF693A4ECA05DE",
+    "energi": "0xb2ef65460bf71a05d59fdf5e8f114a32d445d164",
+    "fantom": "0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5"
+  }
+}

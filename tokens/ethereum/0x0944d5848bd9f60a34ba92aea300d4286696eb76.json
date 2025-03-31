@@ -1,0 +1,15 @@
+{
+  "symbol": "plt",
+  "name": "Palette",
+  "address": "0x0944D5848BD9F60A34Ba92aEa300d4286696Eb76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22153/thumb/262aoVTp_400x400.jpg?1640940192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0944d5848bd9f60a34ba92aea300d4286696eb76"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "tigra",
+  "name": "Tigra",
+  "address": "0xbe8EFF45293598919c99D1cBE5297F2A6935BC64",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36271/thumb/tr1.jpg?1711003565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe8eff45293598919c99d1cbe5297f2a6935bc64"
+  }
+}

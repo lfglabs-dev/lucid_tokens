@@ -1,0 +1,15 @@
+{
+  "symbol": "gslam",
+  "name": "GramSlams",
+  "address": "0xED40aB79a3225902435C26233ed84Fb74bd8FFB8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39513/thumb/thumbnail_Gslam-Token-200-x-200.png?1722660068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed40ab79a3225902435c26233ed84fb74bd8ffb8"
+  }
+}

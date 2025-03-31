@@ -1,0 +1,15 @@
+{
+  "symbol": "x",
+  "name": "Free Speech",
+  "address": "0x140007c65535AA9C3801eA3bBd3F83C378C7F457",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53125/thumb/IMG_4117.jpeg?1735282121",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x140007c65535aa9c3801ea3bbd3f83c378c7f457"
+  }
+}

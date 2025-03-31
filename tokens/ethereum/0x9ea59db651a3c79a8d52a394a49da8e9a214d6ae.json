@@ -1,0 +1,15 @@
+{
+  "symbol": "balls",
+  "name": "Big Balls",
+  "address": "0x9eA59Db651A3c79a8d52A394a49dA8E9A214d6Ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54293/thumb/egg9rn4C_400x400.jpg?1739084947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae"
+  }
+}

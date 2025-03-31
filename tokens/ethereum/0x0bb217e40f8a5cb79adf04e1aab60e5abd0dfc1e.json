@@ -1,0 +1,16 @@
+{
+  "symbol": "swftc",
+  "name": "SWFTCOIN",
+  "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2346/thumb/SWFTCoin.jpg?1618392022",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e",
+    "binance-smart-chain": "0xe64e30276c2f826febd3784958d6da7b55dfbad3"
+  }
+}

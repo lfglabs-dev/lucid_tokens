@@ -1,0 +1,15 @@
+{
+  "symbol": "msteth",
+  "name": "Eigenpie mstETH",
+  "address": "0x49446A0874197839D15395B908328a74ccc96Bc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37182/thumb/mstETH.png?1713514149",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x49446a0874197839d15395b908328a74ccc96bc0"
+  }
+}

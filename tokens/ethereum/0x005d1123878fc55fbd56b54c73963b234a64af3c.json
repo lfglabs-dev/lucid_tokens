@@ -1,0 +1,16 @@
+{
+  "symbol": "kiba",
+  "name": "Kiba Inu",
+  "address": "0x005D1123878Fc55fbd56b54C73963b234a64af3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19525/thumb/kiba.png?1648549322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x005d1123878fc55fbd56b54c73963b234a64af3c",
+    "binance-smart-chain": "0xc3afde95b6eb9ba8553cdaea6645d45fb3a7faf5"
+  }
+}

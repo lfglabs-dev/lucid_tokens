@@ -1,0 +1,21 @@
+{
+  "symbol": "bc3m",
+  "name": "Backed GOVIES 0-6 months EURO",
+  "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31870/thumb/b-C3-M-200x200.png?1695351313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
+    "xdai": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
+    "binance-smart-chain": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
+    "avalanche": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
+    "arbitrum-one": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
+    "polygon-pos": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
+    "base": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7"
+  }
+}

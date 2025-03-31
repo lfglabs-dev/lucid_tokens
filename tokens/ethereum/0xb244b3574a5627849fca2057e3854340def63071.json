@@ -1,0 +1,15 @@
+{
+  "symbol": "veil",
+  "name": "Veil Exchange",
+  "address": "0xB244b3574a5627849fca2057E3854340Def63071",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32624/thumb/HeIMUGIE_400x400.jpg?1698822478",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb244b3574a5627849fca2057e3854340def63071"
+  }
+}

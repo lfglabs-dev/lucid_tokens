@@ -1,0 +1,15 @@
+{
+  "symbol": "cofi",
+  "name": "CoinFi",
+  "address": "0x3136eF851592aCf49CA4C825131E364170FA32b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1709/thumb/coinfi.png?1547035969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3136ef851592acf49ca4c825131e364170fa32b3"
+  }
+}

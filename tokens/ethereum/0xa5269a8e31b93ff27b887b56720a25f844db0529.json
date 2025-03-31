@@ -1,0 +1,15 @@
+{
+  "symbol": "mausdc",
+  "name": "Morpho-Aave USD Coin",
+  "address": "0xA5269A8e31B93Ff27B887B56720A25F844db0529",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29835/thumb/maUSDC.jpg?1681718450",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa5269a8e31b93ff27b887b56720a25f844db0529"
+  }
+}

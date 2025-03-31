@@ -1,0 +1,15 @@
+{
+  "symbol": "joe",
+  "name": "Joe Coin",
+  "address": "0x76e222b07C53D28b89b0bAc18602810Fc22B49A8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32333/thumb/joe.png?1697452551",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x76e222b07c53d28b89b0bac18602810fc22b49a8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "astx",
+  "name": "Asterix",
+  "address": "0x0000000000ca73A6df4C58b84C5B4b847FE8Ff39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35257/thumb/Asterix_Logo_200x200.png?1708006538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0000000000ca73a6df4c58b84c5b4b847fe8ff39"
+  }
+}

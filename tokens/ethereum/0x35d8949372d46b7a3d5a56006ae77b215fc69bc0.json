@@ -1,0 +1,16 @@
+{
+  "symbol": "usd0++",
+  "name": "Staked USD0",
+  "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39169/thumb/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0.png?1720798057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
+    "arbitrum-one": "0x2b65f9d2e4b84a2df6ff0525741b75d1276a9c2f"
+  }
+}

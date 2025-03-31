@@ -1,0 +1,16 @@
+{
+  "symbol": "dawgs",
+  "name": "SpaceDawgs",
+  "address": "0x64A77277e37D44957FE5815d6FF442ab8b16cC29",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17076/thumb/twitter-facebook-Instagram-pfp.png?1646792743",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64a77277e37d44957fe5815d6ff442ab8b16cc29",
+    "binance-smart-chain": "0x222cf80a8514f8ce551c06d1b8d01db3678688ad"
+  }
+}

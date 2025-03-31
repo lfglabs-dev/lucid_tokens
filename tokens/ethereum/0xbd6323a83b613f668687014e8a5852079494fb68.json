@@ -1,0 +1,15 @@
+{
+  "symbol": "btc",
+  "name": "BlackrockTradingCurrency",
+  "address": "0xbD6323A83b613F668687014E8A5852079494fB68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34656/thumb/imresizer-%282%29.png?1705632165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbd6323a83b613f668687014e8a5852079494fb68"
+  }
+}

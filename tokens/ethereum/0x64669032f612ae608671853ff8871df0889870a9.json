@@ -1,0 +1,15 @@
+{
+  "symbol": "inu",
+  "name": "INUGAMES",
+  "address": "0x64669032f612Ae608671853fF8871dF0889870A9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52400/thumb/new-inu-icon-200.png?1733298668",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64669032f612ae608671853ff8871df0889870a9"
+  }
+}

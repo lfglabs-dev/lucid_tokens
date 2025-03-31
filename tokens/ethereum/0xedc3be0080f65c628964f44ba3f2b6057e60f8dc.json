@@ -1,0 +1,15 @@
+{
+  "symbol": "dash",
+  "name": "DASH",
+  "address": "0xEdC3Be0080F65C628964f44ba3F2b6057e60F8DC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50329/thumb/DASH.png?1727163821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xedc3be0080f65c628964f44ba3f2b6057e60f8dc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$haram",
+  "name": "Haram",
+  "address": "0xc961Da88bB5E8Ee2BA7dfd4c62a875eF80f7202F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30374/thumb/200x200trans.png?1684296931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc961da88bb5e8ee2ba7dfd4c62a875ef80f7202f"
+  }
+}

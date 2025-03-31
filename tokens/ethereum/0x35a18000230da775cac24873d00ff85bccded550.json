@@ -1,0 +1,15 @@
+{
+  "symbol": "cuni",
+  "name": "cUNI",
+  "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12696/thumb/compound-uni.png?1601789718",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x35a18000230da775cac24873d00ff85bccded550"
+  }
+}

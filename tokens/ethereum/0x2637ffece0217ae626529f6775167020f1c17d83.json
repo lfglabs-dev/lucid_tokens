@@ -1,0 +1,15 @@
+{
+  "symbol": "pal",
+  "name": "Crypto Pal",
+  "address": "0x2637ffecE0217aE626529f6775167020F1c17D83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50697/thumb/Pal.png?1728784110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2637ffece0217ae626529f6775167020f1c17d83"
+  }
+}

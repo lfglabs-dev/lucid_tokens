@@ -1,0 +1,15 @@
+{
+  "symbol": "props",
+  "name": "Props",
+  "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6735/thumb/photo-2017-10-10-03-32-02.png?1595168186",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41"
+  }
+}

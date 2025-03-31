@@ -1,0 +1,15 @@
+{
+  "symbol": "agg",
+  "name": "AGG",
+  "address": "0xFB0489e9753B045DdB35e39c6B0Cc02EC6b99AC5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36772/thumb/agglogo_200.png?1712286053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfb0489e9753b045ddb35e39c6b0cc02ec6b99ac5"
+  }
+}

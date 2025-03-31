@@ -1,0 +1,15 @@
+{
+  "symbol": "rena",
+  "name": "RENA Finance",
+  "address": "0x56de8BC61346321D4F2211e3aC3c0A7F00dB9b76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15667/thumb/photo_2021-05-21_17-31-35.png?1621825861",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76"
+  }
+}

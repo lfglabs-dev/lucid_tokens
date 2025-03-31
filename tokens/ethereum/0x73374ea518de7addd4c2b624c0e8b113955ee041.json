@@ -1,0 +1,17 @@
+{
+  "symbol": "jgn",
+  "name": "Juggernaut",
+  "address": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12761/thumb/juggernaut_logo.png?1602428976",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x73374ea518de7addd4c2b624c0e8b113955ee041",
+    "binance-smart-chain": "0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75",
+    "avalanche": "0x4e3642603a75528489c2d94f86e9507260d3c5a1"
+  }
+}

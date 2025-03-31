@@ -1,0 +1,15 @@
+{
+  "symbol": "blox",
+  "name": "The Blox Project",
+  "address": "0x320eD4c7243E35A00F9Ca30a1aE60929d15eAE37",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32397/thumb/blox.png?1698054451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x320ed4c7243e35a00f9ca30a1ae60929d15eae37"
+  }
+}

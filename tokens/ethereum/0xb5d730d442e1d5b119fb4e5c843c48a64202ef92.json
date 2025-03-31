@@ -1,0 +1,16 @@
+{
+  "symbol": "sabai",
+  "name": "Sabai Protocol",
+  "address": "0xb5d730D442e1D5B119Fb4E5c843c48a64202ef92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29573/thumb/sabai.png?1679739571",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb5d730d442e1d5b119fb4e5c843c48a64202ef92",
+    "polygon-pos": "0x463fae8f3c63af7c40e50df3ba28469bf9942f69"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "rmav",
+  "name": "Rogue MAV",
+  "address": "0x8F0F56472C3E5730B1EA2f444E7829288Da261E6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32384/thumb/rMAV.png?1698045143",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f0f56472c3e5730b1ea2f444e7829288da261e6",
+    "zksync": "0xb7f5b452b381a90ba10bdde6d75c6a4fd65a4239",
+    "binance-smart-chain": "0x8f0f56472c3e5730b1ea2f444e7829288da261e6",
+    "base": "0x8f0f56472c3e5730b1ea2f444e7829288da261e6"
+  }
+}

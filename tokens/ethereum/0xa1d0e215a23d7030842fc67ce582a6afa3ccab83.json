@@ -1,0 +1,16 @@
+{
+  "symbol": "yfii",
+  "name": "DFI.money",
+  "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11902/thumb/YFII-logo.78631676.png?1598677348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
+    "energi": "0xba71e0c0b13e724bf2329ecb9bdf5775a2ce9e8d"
+  }
+}

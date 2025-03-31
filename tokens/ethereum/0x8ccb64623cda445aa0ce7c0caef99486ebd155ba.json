@@ -1,0 +1,15 @@
+{
+  "symbol": "shezeth",
+  "name": "ShezmuETH",
+  "address": "0x8cCB64623cDa445AA0ce7C0CaEF99486Ebd155bA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39540/thumb/shezETH.png?1722841948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8ccb64623cda445aa0ce7c0caef99486ebd155ba"
+  }
+}

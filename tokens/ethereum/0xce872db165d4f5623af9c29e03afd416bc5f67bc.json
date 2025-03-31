@@ -1,0 +1,15 @@
+{
+  "symbol": "svn",
+  "name": "StakeVault.Network",
+  "address": "0xcE872DB165d4F5623AF9c29e03AFd416Bc5f67bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37433/thumb/SVN.png?1714379860",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xce872db165d4f5623af9c29e03afd416bc5f67bc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "stkabpt",
+  "name": "Staked Aave Balancer Pool Token",
+  "address": "0xa1116930326D21fB917d5A27F1E9943A9595fb47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16789/thumb/StkABPT_2x.png?1625046066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1116930326d21fb917d5a27f1e9943a9595fb47"
+  }
+}

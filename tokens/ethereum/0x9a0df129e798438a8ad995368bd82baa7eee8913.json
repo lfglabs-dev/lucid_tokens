@@ -1,0 +1,15 @@
+{
+  "symbol": "beep",
+  "name": "BEEP Coin",
+  "address": "0x9A0Df129E798438a8aD995368bd82BaA7EEe8913",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30566/thumb/green.png?1685074488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a0df129e798438a8ad995368bd82baa7eee8913"
+  }
+}

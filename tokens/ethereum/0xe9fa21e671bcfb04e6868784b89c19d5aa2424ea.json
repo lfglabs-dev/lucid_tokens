@@ -1,0 +1,15 @@
+{
+  "symbol": "ecte",
+  "name": "EurocoinToken",
+  "address": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7634/thumb/logotoken200x200.png?1550742362",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea"
+  }
+}

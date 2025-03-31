@@ -1,0 +1,15 @@
+{
+  "symbol": "$wolf",
+  "name": "Wolf of Wall Street",
+  "address": "0x8365332d4bAf69BC24CA2401B90c3853ab9F818e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31461/thumb/Cmc_wolf_2.png?1692942555",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8365332d4baf69bc24ca2401b90c3853ab9f818e"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "gob",
+  "name": "Goons of Balatroon",
+  "address": "0x830eB1204380E9c44434Db8700257025358707c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27104/thumb/q1_hZykF_400x400.jpeg?1662006909",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa2f9ecf83a48b86265ff5fd36cdbaaa1f349916c",
+    "beam": "0x7fb5a9921cf98362aa425e42f66bf3484c2c2b5f",
+    "ethereum": "0x830eb1204380e9c44434db8700257025358707c6"
+  }
+}

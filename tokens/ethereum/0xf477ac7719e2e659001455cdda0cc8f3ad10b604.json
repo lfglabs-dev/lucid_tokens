@@ -1,0 +1,15 @@
+{
+  "symbol": "autos",
+  "name": "CryptoAutos",
+  "address": "0xf477AC7719e2e659001455cDDA0cc8f3aD10b604",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51565/thumb/PFP_%28Round%29_Orange_%281%29.png?1731530569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf477ac7719e2e659001455cdda0cc8f3ad10b604"
+  }
+}

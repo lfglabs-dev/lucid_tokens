@@ -1,0 +1,16 @@
+{
+  "symbol": "spa",
+  "name": "Sperax",
+  "address": "0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12232/thumb/sperax_logo.jpg?1598342904",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5575552988a3a80504bbaeb1311674fcfd40ad4b",
+    "ethereum": "0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008"
+  }
+}

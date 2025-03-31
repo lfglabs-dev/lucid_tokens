@@ -1,0 +1,15 @@
+{
+  "symbol": "butter",
+  "name": "Butter",
+  "address": "0x0D248Ce39E26FB00F911FB1e7a45A00d8C94341c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30252/thumb/butterlogotrans.png?1683703944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d248ce39e26fb00f911fb1e7a45a00d8c94341c"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "texan",
+  "name": "Texan",
+  "address": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28731/thumb/texan_logo_200x200.png?1673690316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcfcffe432a48db53f59c301422d2edd77b2a88d7",
+    "pulsechain": "0xcfcffe432a48db53f59c301422d2edd77b2a88d7"
+  }
+}

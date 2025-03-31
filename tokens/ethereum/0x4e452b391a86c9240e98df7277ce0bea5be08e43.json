@@ -1,0 +1,15 @@
+{
+  "symbol": "paxu",
+  "name": "Pax Unitas",
+  "address": "0x4E452B391a86C9240e98DF7277CE0BeA5bE08e43",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31648/thumb/IMG_11C5EA8BD781-1.jpeg?1694146346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e452b391a86c9240e98df7277ce0bea5be08e43"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "blood",
+  "name": "Impostors Blood",
+  "address": "0x95392f142Af1c12F6e39897Ff9B09c599666B50c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25527/thumb/RV4nKK2RDO47XzfSLgGs_llgXivhdfpI3tso0.png?1652240523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95392f142af1c12f6e39897ff9b09c599666b50c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ars",
+  "name": "Arris",
+  "address": "0x58A6d42D91F5995c9F76884d56271Fb97D0561E7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52153/thumb/arris.jpg?1732667226",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x58a6d42d91f5995c9f76884d56271fb97d0561e7"
+  }
+}

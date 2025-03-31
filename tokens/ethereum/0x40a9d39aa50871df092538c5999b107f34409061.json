@@ -1,0 +1,15 @@
+{
+  "symbol": "idai",
+  "name": "Instadapp DAI",
+  "address": "0x40a9d39aa50871Df092538c5999b107f34409061",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25821/thumb/iDAI_100x100.png?1654055549",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x40a9d39aa50871df092538c5999b107f34409061"
+  }
+}

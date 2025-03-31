@@ -1,0 +1,15 @@
+{
+  "symbol": "diva",
+  "name": "DIVA Protocol",
+  "address": "0x4B7fFCB2b92fB4890f22f62a52Fb7A180eaB818e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31467/thumb/DIVA-200px-square.png?1692950670",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b7ffcb2b92fb4890f22f62a52fb7a180eab818e"
+  }
+}

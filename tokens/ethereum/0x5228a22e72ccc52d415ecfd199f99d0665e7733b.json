@@ -1,0 +1,16 @@
+{
+  "symbol": "pbtc",
+  "name": "pTokens BTC [OLD]",
+  "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10805/thumb/J51iIea.png?1583891599",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+    "binance-smart-chain": "0xed28a457a5a76596ac48d87c0f577020f6ea1c4c"
+  }
+}

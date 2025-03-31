@@ -1,0 +1,15 @@
+{
+  "symbol": "ocp404",
+  "name": "OnChain Pepe 404",
+  "address": "0xB87b96868644d99Cc70a8565BA7311482eDEBF6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35271/thumb/download_%282%29.png?1708017745",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb87b96868644d99cc70a8565ba7311482edebf6e"
+  }
+}

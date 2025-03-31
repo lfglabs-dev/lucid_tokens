@@ -1,0 +1,15 @@
+{
+  "symbol": "cad",
+  "name": "Caduceus Protocol",
+  "address": "0x4349929808E515936A68903F6085F5e2B143ff3d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39732/thumb/uZk0I_RJ_400x400.jpg?1723760955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4349929808e515936a68903f6085f5e2b143ff3d"
+  }
+}

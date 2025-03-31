@@ -1,0 +1,17 @@
+{
+  "symbol": "kendu",
+  "name": "Kendu Inu",
+  "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35722/thumb/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
+    "solana": "2nnrviYJRLcf2bXAxpKTRXzccoDbwaP4vzuGUG75Jo45",
+    "base": "0xef73611f98da6e57e0776317957af61b59e09ed7"
+  }
+}

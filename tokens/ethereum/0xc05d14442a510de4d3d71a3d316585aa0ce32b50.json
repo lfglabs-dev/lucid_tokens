@@ -1,0 +1,15 @@
+{
+  "symbol": "lina",
+  "name": "LINA",
+  "address": "0xC05d14442A510De4D3d71a3d316585aA0CE32b50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5412/thumb/3083.png?1642981471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc05d14442a510de4d3d71a3d316585aa0ce32b50"
+  }
+}

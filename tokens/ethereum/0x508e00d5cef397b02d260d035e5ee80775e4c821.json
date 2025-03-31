@@ -1,0 +1,15 @@
+{
+  "symbol": "1cat",
+  "name": "Bitcoin Cats",
+  "address": "0x508E00D5ceF397B02d260D035e5EE80775e4C821",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34059/thumb/779e5404024bcd3cec3db54370ea66c.jpg?1703752231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x508e00d5cef397b02d260d035e5ee80775e4c821"
+  }
+}

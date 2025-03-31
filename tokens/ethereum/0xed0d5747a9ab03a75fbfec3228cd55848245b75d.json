@@ -1,0 +1,16 @@
+{
+  "symbol": "ngm",
+  "name": "e-Money",
+  "address": "0xed0d5747A9AB03a75fBfEC3228cd55848245B75d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13722/thumb/logo-200x200.jpg?1626095888",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
+    "osmosis": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59"
+  }
+}

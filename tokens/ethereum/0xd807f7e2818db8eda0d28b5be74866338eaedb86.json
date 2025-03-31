@@ -1,0 +1,15 @@
+{
+  "symbol": "jim",
+  "name": "Jim",
+  "address": "0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30235/thumb/photo_2023-05-08_08-38-10.jpg?1683684959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd807f7e2818db8eda0d28b5be74866338eaedb86"
+  }
+}

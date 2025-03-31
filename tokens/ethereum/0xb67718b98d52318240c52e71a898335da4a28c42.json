@@ -1,0 +1,15 @@
+{
+  "symbol": "innbc",
+  "name": "Innovative Bioresearch Coin",
+  "address": "0xB67718b98d52318240c52E71A898335da4A28c42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4043/thumb/INNBC.png?1582800857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb67718b98d52318240c52e71a898335da4a28c42"
+  }
+}

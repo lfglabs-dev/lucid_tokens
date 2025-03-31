@@ -1,0 +1,15 @@
+{
+  "symbol": "ddd",
+  "name": "Scry.info",
+  "address": "0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2569/thumb/Scry.info.jpg?1547036695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f5f3cfd7a32700c93f971637407ff17b91c7342"
+  }
+}

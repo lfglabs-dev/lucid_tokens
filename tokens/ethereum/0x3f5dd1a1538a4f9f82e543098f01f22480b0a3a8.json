@@ -1,0 +1,15 @@
+{
+  "symbol": "dkuma",
+  "name": "KumaDex Token",
+  "address": "0x3f5dd1A1538a4F9f82E543098f01F22480B0A3a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26693/thumb/dkumaOG02.png?1659606359",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f5dd1a1538a4f9f82e543098f01f22480b0a3a8"
+  }
+}

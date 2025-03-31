@@ -1,0 +1,15 @@
+{
+  "symbol": "usdr",
+  "name": "StablR USD",
+  "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53721/thumb/stablrusd-logo.png?1737126629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7b43e3875440b44613dc3bc08e7763e6da63c8f8"
+  }
+}

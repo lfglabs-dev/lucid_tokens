@@ -1,0 +1,15 @@
+{
+  "symbol": "toku",
+  "name": "Toku",
+  "address": "0x9eEC1A4814323a7396c938bc86aeC46b97F1BD82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29590/thumb/Toku.jpeg?1679886201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9eec1a4814323a7396c938bc86aec46b97f1bd82"
+  }
+}

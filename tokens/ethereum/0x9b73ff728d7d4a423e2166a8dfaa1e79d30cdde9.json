@@ -1,0 +1,15 @@
+{
+  "symbol": "wooooo!",
+  "name": "Wooooo! Coin",
+  "address": "0x9B73Ff728D7D4A423e2166a8dFaa1E79D30cddE9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50198/thumb/WOOOOO!.png?1726242274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b73ff728d7d4a423e2166a8dfaa1e79d30cdde9"
+  }
+}

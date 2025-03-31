@@ -1,0 +1,15 @@
+{
+  "symbol": "honkler",
+  "name": "Honkler",
+  "address": "0x69D26C4901765ffA6d7716045b680c9574CB00B5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38375/thumb/HONKLER.jpg?1717309388",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69d26c4901765ffa6d7716045b680c9574cb00b5"
+  }
+}

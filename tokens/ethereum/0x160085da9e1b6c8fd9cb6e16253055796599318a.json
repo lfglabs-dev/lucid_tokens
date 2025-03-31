@@ -1,0 +1,15 @@
+{
+  "symbol": "soai",
+  "name": "SoAI",
+  "address": "0x160085Da9E1B6C8FD9cB6e16253055796599318a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50595/thumb/soai.jpg?1728445323",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x160085da9e1b6c8fd9cb6e16253055796599318a"
+  }
+}

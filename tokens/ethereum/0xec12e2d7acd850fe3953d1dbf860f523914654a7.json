@@ -1,0 +1,15 @@
+{
+  "symbol": "mirx",
+  "name": "Mirada AI",
+  "address": "0xec12e2d7acd850FE3953d1dbf860F523914654a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38150/thumb/ICON.png?1716666147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec12e2d7acd850fe3953d1dbf860f523914654a7"
+  }
+}

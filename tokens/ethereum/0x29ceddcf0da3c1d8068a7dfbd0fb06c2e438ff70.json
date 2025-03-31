@@ -1,0 +1,16 @@
+{
+  "symbol": "frel",
+  "name": "Freela",
+  "address": "0x29CeDDCF0Da3c1D8068a7DFbD0FB06c2E438FF70",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15856/thumb/freela.PNG?1622164474",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70",
+    "binance-smart-chain": "0xfd5af95c12446b60d23e16a4ea95690ce942e5dc"
+  }
+}

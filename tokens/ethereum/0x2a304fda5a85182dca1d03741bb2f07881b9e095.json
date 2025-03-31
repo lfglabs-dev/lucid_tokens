@@ -1,0 +1,15 @@
+{
+  "symbol": "dco",
+  "name": "DCOMY",
+  "address": "0x2a304FDa5a85182dCA1D03741bB2F07881b9e095",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29007/thumb/15-38-16-200x200.png?1675918337",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2a304fda5a85182dca1d03741bb2f07881b9e095"
+  }
+}

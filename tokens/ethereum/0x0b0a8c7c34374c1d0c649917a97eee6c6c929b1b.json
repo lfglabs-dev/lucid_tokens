@@ -1,0 +1,15 @@
+{
+  "symbol": "shepe",
+  "name": "Shiba V Pepe",
+  "address": "0x0b0a8c7C34374C1d0C649917a97EeE6c6c929B1b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31599/thumb/photo_2023-08-30_01-36-19_%282%29.png?1693996421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b"
+  }
+}

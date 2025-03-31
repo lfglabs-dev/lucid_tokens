@@ -1,0 +1,15 @@
+{
+  "symbol": "delta",
+  "name": "Delta Financial",
+  "address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14564/thumb/Delta_logo.png?1619067341",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ea3b5b4ec044b70375236a281986106457b20ef"
+  }
+}

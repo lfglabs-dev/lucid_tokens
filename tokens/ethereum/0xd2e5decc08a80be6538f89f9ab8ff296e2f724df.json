@@ -1,0 +1,15 @@
+{
+  "symbol": "stima",
+  "name": "STIMA",
+  "address": "0xD2e5decc08A80be6538F89f9AB8ff296e2f724Df",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26101/thumb/STIMA_200x200.png?1655867272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd2e5decc08a80be6538f89f9ab8ff296e2f724df"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ecox",
+  "name": "ECOx",
+  "address": "0xcccD1Ba9f7acD6117834E0D28F25645dECb1736a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27962/thumb/_ECOx.png?1666751574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcccd1ba9f7acd6117834e0d28f25645decb1736a"
+  }
+}

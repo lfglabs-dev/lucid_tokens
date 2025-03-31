@@ -1,0 +1,15 @@
+{
+  "symbol": "chef",
+  "name": "Chefdotfun",
+  "address": "0x8f2Bf2f59cDF7bE4aeE71500B9419623202b8636",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40023/thumb/a122.jpg?1725346333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f2bf2f59cdf7be4aee71500b9419623202b8636"
+  }
+}

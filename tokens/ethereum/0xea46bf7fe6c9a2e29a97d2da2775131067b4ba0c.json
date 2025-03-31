@@ -1,0 +1,16 @@
+{
+  "symbol": "l7l",
+  "name": "LE7EL",
+  "address": "0xeA46Bf7Fe6c9a2e29a97D2Da2775131067b4BA0C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38363/thumb/AQJBIBd__400x400.jpg?1717189194",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea46bf7fe6c9a2e29a97d2da2775131067b4ba0c",
+    "polygon-pos": "0x84a431bd2c958414b2e316cedd9f85993ace5000"
+  }
+}

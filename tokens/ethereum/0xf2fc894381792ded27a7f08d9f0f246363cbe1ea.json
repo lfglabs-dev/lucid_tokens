@@ -1,0 +1,15 @@
+{
+  "symbol": "matrix",
+  "name": "Matrix.Win",
+  "address": "0xF2Fc894381792Ded27a7f08D9F0F246363cBe1ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53327/thumb/matrix_%281%29.png?1736129151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf2fc894381792ded27a7f08d9f0f246363cbe1ea"
+  }
+}

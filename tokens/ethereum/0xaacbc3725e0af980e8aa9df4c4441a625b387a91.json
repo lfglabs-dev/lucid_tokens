@@ -1,0 +1,15 @@
+{
+  "symbol": "aethra",
+  "name": "Aethra AI",
+  "address": "0xAAcbc3725e0aF980E8aA9dF4c4441a625B387a91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53460/thumb/Aethra_AI.jpg?1736444769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaacbc3725e0af980e8aa9df4c4441a625b387a91"
+  }
+}

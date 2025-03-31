@@ -1,0 +1,15 @@
+{
+  "symbol": "peppa",
+  "name": "PEPPA",
+  "address": "0xF4172630a656A47Ece8616E75791290446Fa41A0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30492/thumb/200_x_200_JPG.jpg?1684719830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf4172630a656a47ece8616e75791290446fa41a0"
+  }
+}

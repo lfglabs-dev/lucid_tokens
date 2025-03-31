@@ -1,0 +1,15 @@
+{
+  "symbol": "l",
+  "name": "L",
+  "address": "0xf8C76dbeA329Ec4Fa987AFC514f805b21b249D79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30846/thumb/lltokenimagelogo.png?1687858253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf8c76dbea329ec4fa987afc514f805b21b249d79"
+  }
+}

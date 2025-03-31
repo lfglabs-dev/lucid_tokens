@@ -1,0 +1,15 @@
+{
+  "symbol": "1ex",
+  "name": "1ex",
+  "address": "0x668D78571f124415581B38D32fa9A16f1aAa8417",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34927/thumb/1ex_logo_200%D1%85200.png?1706686304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x668d78571f124415581b38d32fa9a16f1aaa8417"
+  }
+}

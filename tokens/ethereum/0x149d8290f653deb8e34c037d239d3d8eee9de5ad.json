@@ -1,0 +1,15 @@
+{
+  "symbol": "king",
+  "name": "Kingdomverse",
+  "address": "0x149D8290F653dEB8e34c037D239d3d8EeE9de5aD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28607/thumb/_King_logo_%28Color%29.png?1673597477",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x149d8290f653deb8e34c037d239d3d8eee9de5ad"
+  }
+}

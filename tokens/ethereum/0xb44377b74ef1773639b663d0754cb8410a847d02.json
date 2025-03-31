@@ -1,0 +1,15 @@
+{
+  "symbol": "dream",
+  "name": "Dream",
+  "address": "0xb44377B74Ef1773639B663d0754cB8410A847d02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24139/thumb/dream.png?1646558666",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb44377b74ef1773639b663d0754cb8410a847d02"
+  }
+}

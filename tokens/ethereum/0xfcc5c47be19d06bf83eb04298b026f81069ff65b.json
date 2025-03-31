@@ -1,0 +1,15 @@
+{
+  "symbol": "ycrv",
+  "name": "Yearn CRV",
+  "address": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27622/thumb/yearncrvnew_32.png?1664881722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfcc5c47be19d06bf83eb04298b026f81069ff65b"
+  }
+}

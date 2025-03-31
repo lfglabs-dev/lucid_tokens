@@ -1,0 +1,15 @@
+{
+  "symbol": "biohack",
+  "name": "BiohackerDAO",
+  "address": "0x07c8b9deae988726Fd443EA8c3C1367F98a31F9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53677/thumb/bhdao_square.jpg?1737010070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07c8b9deae988726fd443ea8c3c1367f98a31f9c"
+  }
+}

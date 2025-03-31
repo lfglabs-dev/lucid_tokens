@@ -1,0 +1,15 @@
+{
+  "symbol": "note",
+  "name": "Notional Finance",
+  "address": "0xCFEAead4947f0705A14ec42aC3D44129E1Ef3eD5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20282/thumb/NOTE-340x340.png?1636821924",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5"
+  }
+}

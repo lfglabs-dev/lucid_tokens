@@ -1,0 +1,15 @@
+{
+  "symbol": "gate",
+  "name": "NexGATE",
+  "address": "0xf33136452828e8f2dd2b9D8D591cA692F8EDAf3C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53271/thumb/200.png?1735915002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf33136452828e8f2dd2b9d8d591ca692f8edaf3c"
+  }
+}

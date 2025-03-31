@@ -1,0 +1,19 @@
+{
+  "symbol": "susx",
+  "name": "Savings USX",
+  "address": "0xbC404429558292eE2D769E57d57D6E74bbd2792d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39895/thumb/IMG_7024.png?1724724019",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
+    "optimistic-ethereum": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
+    "binance-smart-chain": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
+    "arbitrum-one": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
+    "base": "0xbc404429558292ee2d769e57d57d6e74bbd2792d"
+  }
+}

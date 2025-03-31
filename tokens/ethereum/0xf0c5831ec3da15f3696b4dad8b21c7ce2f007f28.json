@@ -1,0 +1,15 @@
+{
+  "symbol": "axis",
+  "name": "AXIS",
+  "address": "0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16972/thumb/lUeFYUeu_400x400.png?1625815058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28"
+  }
+}

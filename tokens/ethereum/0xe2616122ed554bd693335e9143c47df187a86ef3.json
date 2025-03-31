@@ -1,0 +1,16 @@
+{
+  "symbol": "imt",
+  "name": "Immortal Token",
+  "address": "0xe2616122eD554bd693335E9143C47Df187a86EF3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55008/thumb/IMT_LOGO_200x200.png?1743159598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe2616122ed554bd693335e9143c47df187a86ef3",
+    "immutable": "0x80807723cfc04bf5dbe3186ebd8a7486e78cd8ca"
+  }
+}

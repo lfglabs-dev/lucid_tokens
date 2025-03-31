@@ -1,0 +1,17 @@
+{
+  "symbol": "qmall",
+  "name": "Qmall",
+  "address": "0x2217e5921B7edfB4BB193a6228459974010D2198",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23630/thumb/tjVN6bQ5_400x400.jpg?1644891636",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07e551e31a793e20dc18494ff6b03095a8f8ee36",
+    "velas": "0x2217e5921b7edfb4bb193a6228459974010d2198",
+    "ethereum": "0x2217e5921b7edfb4bb193a6228459974010d2198"
+  }
+}

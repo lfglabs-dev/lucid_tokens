@@ -1,0 +1,15 @@
+{
+  "symbol": "detensor",
+  "name": "DeTensor",
+  "address": "0xe6f4a40156C9E8c7Addda66848bbb99FDEdeCF84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36596/thumb/detensor.jpeg?1711950178",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe6f4a40156c9e8c7addda66848bbb99fdedecf84"
+  }
+}

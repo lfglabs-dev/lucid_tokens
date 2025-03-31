@@ -1,0 +1,16 @@
+{
+  "symbol": "nht",
+  "name": "Neighbourhoods",
+  "address": "0x84342e932797FC62814189f01F0Fb05F52519708",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22055/thumb/social_media_logo_black_bg.png?1640682530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x84342e932797fc62814189f01f0fb05f52519708",
+    "polygon-pos": "0x84342e932797fc62814189f01f0fb05f52519708"
+  }
+}

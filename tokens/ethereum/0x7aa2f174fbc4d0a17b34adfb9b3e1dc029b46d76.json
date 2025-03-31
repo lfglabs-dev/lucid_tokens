@@ -1,0 +1,15 @@
+{
+  "symbol": "rada",
+  "name": "RADA Foundation",
+  "address": "0x7AA2f174fBC4D0a17B34adFB9b3E1DC029B46d76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31645/thumb/1.png?1694145544",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7aa2f174fbc4d0a17b34adfb9b3e1dc029b46d76"
+  }
+}

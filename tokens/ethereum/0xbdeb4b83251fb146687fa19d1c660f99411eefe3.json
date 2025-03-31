@@ -1,0 +1,15 @@
+{
+  "symbol": "svd",
+  "name": "Savedroid",
+  "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2852/thumb/savedroid.png?1548608893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbdeb4b83251fb146687fa19d1c660f99411eefe3"
+  }
+}

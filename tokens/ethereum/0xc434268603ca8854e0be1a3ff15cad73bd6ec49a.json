@@ -1,0 +1,15 @@
+{
+  "symbol": "zapi",
+  "name": "Zapicorn",
+  "address": "0xc434268603cA8854e0Be1a3fF15CaD73BD6eC49A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33153/thumb/download.png?1700825821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc434268603ca8854e0be1a3ff15cad73bd6ec49a"
+  }
+}

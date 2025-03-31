@@ -1,0 +1,15 @@
+{
+  "symbol": "ctrl",
+  "name": "Ctrl",
+  "address": "0xe50E009Ddb1A4d8Ec668EAc9D8b2dF1F96348707",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50886/thumb/_CTRL.png?1729499837",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe50e009ddb1a4d8ec668eac9d8b2df1f96348707"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "snsy",
+  "name": "Sensay",
+  "address": "0x82a605D6D9114F4Ad6D5Ee461027477EeED31E34",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36121/thumb/sensay.jpeg?1710495398",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x82a605d6d9114f4ad6d5ee461027477eeed31e34",
+    "arbitrum-one": "0x3124678d62d2aa1f615b54525310fbfda6dcf7ae",
+    "base": "0x3124678d62d2aa1f615b54525310fbfda6dcf7ae"
+  }
+}

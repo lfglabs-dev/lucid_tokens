@@ -1,0 +1,15 @@
+{
+  "symbol": "tbd",
+  "name": "The Big Debate",
+  "address": "0xAed18826655bF9167A377C8647132A937d6a4F36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38977/thumb/THE_BIG_DEBATE.png?1719800695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaed18826655bf9167a377c8647132a937d6a4f36"
+  }
+}

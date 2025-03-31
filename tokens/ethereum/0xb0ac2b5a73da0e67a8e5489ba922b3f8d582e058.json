@@ -1,0 +1,15 @@
+{
+  "symbol": "shiro",
+  "name": "Shiro Neko",
+  "address": "0xb0AC2b5a73da0e67A8e5489Ba922B3f8d582e058",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52406/thumb/Shiro_Neko.png?1733303809",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb0ac2b5a73da0e67a8e5489ba922b3f8d582e058"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "here",
+  "name": "SphereX Token",
+  "address": "0xD722424cF94b583752dfc80C08e2531AB3b762dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39761/thumb/coin_here.png.png?1723903634",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd722424cf94b583752dfc80c08e2531ab3b762dc"
+  }
+}

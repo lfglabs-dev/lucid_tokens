@@ -1,0 +1,17 @@
+{
+  "symbol": "berry",
+  "name": "Strawberry AI",
+  "address": "0xCb76314C2540199f4B844D4ebbC7998C604880cA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39700/thumb/photo_2024-08-13_20-13-39.jpg?1723690584",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb76314c2540199f4b844d4ebbc7998c604880ca",
+    "base": "0xdf36186772a8fda4be100dbacc0b48ef00c53089",
+    "solana": "D2tztvQKcmo7PUof8quQWAu3qXKwtiW1pLjvHLsUakv5"
+  }
+}

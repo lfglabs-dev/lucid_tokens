@@ -1,0 +1,15 @@
+{
+  "symbol": "qlindo",
+  "name": "QLINDO",
+  "address": "0xC18c07a18198A6340cf4d94855fE5eb6DD33b46E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26851/thumb/21315.png?1660467490",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc18c07a18198a6340cf4d94855fe5eb6dd33b46e"
+  }
+}

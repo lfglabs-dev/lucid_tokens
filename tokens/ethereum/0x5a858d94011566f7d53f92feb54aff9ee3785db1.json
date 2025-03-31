@@ -1,0 +1,15 @@
+{
+  "symbol": "fefe",
+  "name": "Fefe",
+  "address": "0x5a858D94011566f7d53f92Feb54afF9ee3785DB1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5a858d94011566f7d53f92feb54aff9ee3785db1"
+  }
+}

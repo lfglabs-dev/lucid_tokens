@@ -1,0 +1,16 @@
+{
+  "symbol": "wgr",
+  "name": "Wagerr",
+  "address": "0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/759/thumb/syGKmAT.png?1619597241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0",
+    "binance-smart-chain": "0xdbf8265b1d5244a13424f13977723acf5395eab2"
+  }
+}

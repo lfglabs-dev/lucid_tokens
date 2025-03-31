@@ -1,0 +1,15 @@
+{
+  "symbol": "aaave",
+  "name": "Aave AAVE",
+  "address": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17248/thumb/amAAVE_2x.png?1626941140",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b"
+  }
+}

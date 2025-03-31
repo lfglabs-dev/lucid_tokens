@@ -1,0 +1,16 @@
+{
+  "symbol": "kft",
+  "name": "Knit Finance",
+  "address": "0xEF53462838000184F35f7D991452e5f25110b207",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15632/thumb/knit.jpg?1621396114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xef53462838000184f35f7d991452e5f25110b207",
+    "binance-smart-chain": "0x1b41a1ba7722e6431b1a782327dbe466fe1ee9f9"
+  }
+}

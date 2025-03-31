@@ -1,0 +1,19 @@
+{
+  "symbol": "$boo",
+  "name": "BOO",
+  "address": "0x32E7c8A6E920A3cf224B678112aC78fDC0FB09D1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34234/thumb/boo_coin_%28200%29.png?1704306085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32e7c8a6e920a3cf224b678112ac78fdc0fb09d1",
+    "optimistic-ethereum": "0x135c78d7f52aab6e9f17bcf4a9e8627aa233d050",
+    "arbitrum-one": "0x28514bd097d5f9ecea778cc7a4ca4bac5fedb0b6",
+    "base": "0xec1df7edfcdc2e2042c63252c1cef480f64f9189",
+    "solana": "booe3XGMztBMB9RhCgNodhJQeaaMmhdGehMCVPMGza2"
+  }
+}

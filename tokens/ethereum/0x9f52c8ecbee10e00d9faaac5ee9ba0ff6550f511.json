@@ -1,0 +1,15 @@
+{
+  "symbol": "sipher",
+  "name": "SIPHER",
+  "address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21070/thumb/SipherToken.png?1638312272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511"
+  }
+}

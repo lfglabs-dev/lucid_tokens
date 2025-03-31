@@ -1,0 +1,18 @@
+{
+  "symbol": "gbyte",
+  "name": "Obyte",
+  "address": "0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/561/thumb/byteball.png?1547564361",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeb34de0c4b2955ce0ff1526cdf735c9e6d249d09",
+    "kava": "0x0b93109d05ef330acd2c75148891cc61d20c3ef1",
+    "ethereum": "0x31f69de127c8a0ff10819c0955490a4ae46fcc2a",
+    "polygon-pos": "0xab5f7a0e20b0d056aed4aa4528c78da45be7308b"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "mfi",
+  "name": "Marginswap",
+  "address": "0xAa4e3edb11AFa93c41db59842b29de64b72E355B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13899/thumb/marginswap_logo.png?1612756590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
+    "avalanche": "0x9fda7ceec4c18008096c2fe2b85f05dc300f94d0"
+  }
+}

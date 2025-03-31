@@ -1,0 +1,20 @@
+{
+  "symbol": "bets",
+  "name": "BetSwirl",
+  "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1659073275",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "optimistic-ethereum": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "binance-smart-chain": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "avalanche": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "arbitrum-one": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "polygon-pos": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5"
+  }
+}

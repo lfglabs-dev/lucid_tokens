@@ -1,0 +1,16 @@
+{
+  "symbol": "mdf",
+  "name": "MatrixETF",
+  "address": "0x1a57367C6194199e5D9aEa1cE027431682dfB411",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18538/thumb/MDF.png?1632304949",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
+    "solana": "ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z"
+  }
+}

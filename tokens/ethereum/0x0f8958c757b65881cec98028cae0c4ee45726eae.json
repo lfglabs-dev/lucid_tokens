@@ -1,0 +1,15 @@
+{
+  "symbol": "dcn",
+  "name": "Compute Network",
+  "address": "0x0f8958c757B65881cec98028CAE0c4EE45726EAE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38219/thumb/Compute_Network.png?1716826216",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f8958c757b65881cec98028cae0c4ee45726eae"
+  }
+}

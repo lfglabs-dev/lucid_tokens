@@ -1,0 +1,16 @@
+{
+  "symbol": "arcona",
+  "name": "Arcona",
+  "address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4312/thumb/9xfrZX3q_400x400.jpg?1551073749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
+    "binance-smart-chain": "0x8fc4532be3003fb5a3a2f9afc7e95b3bfbd5faab"
+  }
+}

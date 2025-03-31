@@ -1,0 +1,18 @@
+{
+  "symbol": "walrf.d",
+  "name": "Dinari WALRF",
+  "address": "0x5e796f7E42117CA82B1db3eb227bEF11b7A48aa0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x92b81204dd07b14ff8664092897ab660ce3ab323",
+    "ethereum": "0x5e796f7e42117ca82b1db3eb227bef11b7a48aa0",
+    "blast": "0xac402db779eeabcc6c88f0478bb381cd2d0e15f7",
+    "base": "0xacacc8241a57a23106af94f2fffda000384cb4d2"
+  }
+}

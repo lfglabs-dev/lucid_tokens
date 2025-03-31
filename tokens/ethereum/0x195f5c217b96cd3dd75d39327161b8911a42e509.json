@@ -1,0 +1,15 @@
+{
+  "symbol": "nuts",
+  "name": "Squirrel Wallet",
+  "address": "0x195f5C217b96Cd3dd75D39327161B8911A42E509",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54098/thumb/NUTS.png?1738224791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x195f5c217b96cd3dd75d39327161b8911a42e509"
+  }
+}

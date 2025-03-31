@@ -1,0 +1,15 @@
+{
+  "symbol": "yvsusd",
+  "name": "sUSD yVault",
+  "address": "0xa5cA62D95D24A4a350983D5B8ac4EB8638887396",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28794/thumb/yvsUSD-128-0xa5cA62D95D24A4a350983D5B8ac4EB8638887396.png?1674225698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa5ca62d95d24a4a350983d5b8ac4eb8638887396"
+  }
+}

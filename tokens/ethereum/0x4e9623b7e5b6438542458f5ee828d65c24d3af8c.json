@@ -1,0 +1,15 @@
+{
+  "symbol": "jyai",
+  "name": "Jerry The Turtle By Matt Furie",
+  "address": "0x4E9623B7e5b6438542458f5EE828d65c24d3AF8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54259/thumb/200x200_logo.jpg?1738950729",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e9623b7e5b6438542458f5ee828d65c24d3af8c"
+  }
+}

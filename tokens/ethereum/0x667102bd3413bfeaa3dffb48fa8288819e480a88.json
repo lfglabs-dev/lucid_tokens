@@ -1,0 +1,15 @@
+{
+  "symbol": "tkx",
+  "name": "Tokenize Xchange",
+  "address": "0x667102BD3413bFEaa3Dffb48fa8288819E480a88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4984/thumb/Tokenize.png?1561602968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x667102bd3413bfeaa3dffb48fa8288819e480a88"
+  }
+}

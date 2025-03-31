@@ -1,0 +1,15 @@
+{
+  "symbol": "vivek",
+  "name": "Head of D.O.G.E",
+  "address": "0x8578a8716013c390b95db73065922f512783e2Cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51597/thumb/VIVEK_LOGO.png?1731603633",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8578a8716013c390b95db73065922f512783e2cf"
+  }
+}

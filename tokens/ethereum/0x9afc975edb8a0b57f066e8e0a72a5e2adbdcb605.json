@@ -1,0 +1,16 @@
+{
+  "symbol": "fsn",
+  "name": "FUSION",
+  "address": "0x9AfC975EdB8a0B57f066e8e0A72A5e2ADbdCb605",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2515/thumb/Fusion_200x200.png?1639629907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9afc975edb8a0b57f066e8e0a72a5e2adbdcb605",
+    "fusion-network": "0x2b8bb627ce7c0c9cbe579e83099de665032d08be"
+  }
+}

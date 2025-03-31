@@ -1,0 +1,16 @@
+{
+  "symbol": "morpho",
+  "name": "Morpho",
+  "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29837/thumb/2022-official-morpho-token.png?1681718566",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
+    "base": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842"
+  }
+}

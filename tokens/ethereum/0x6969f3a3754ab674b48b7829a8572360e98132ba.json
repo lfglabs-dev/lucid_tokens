@@ -1,0 +1,15 @@
+{
+  "symbol": "izzy",
+  "name": "Izzy",
+  "address": "0x6969f3A3754AB674B48B7829A8572360E98132Ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50493/thumb/izzy200.jpg?1727941931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6969f3a3754ab674b48b7829a8572360e98132ba"
+  }
+}

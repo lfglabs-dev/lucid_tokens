@@ -1,0 +1,15 @@
+{
+  "symbol": "dare",
+  "name": "The Dare",
+  "address": "0x72a93697a5ac73cfEE39ff87298220f77c538611",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36818/thumb/DARE.png?1712550833",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72a93697a5ac73cfee39ff87298220f77c538611"
+  }
+}

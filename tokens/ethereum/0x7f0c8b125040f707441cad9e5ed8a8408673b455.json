@@ -1,0 +1,15 @@
+{
+  "symbol": "nebo",
+  "name": "Kinetic Kollective",
+  "address": "0x7f0c8B125040f707441cad9e5eD8a8408673b455",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13436/thumb/csp_dao.png?1608535699",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7f0c8b125040f707441cad9e5ed8a8408673b455"
+  }
+}

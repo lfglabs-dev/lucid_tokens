@@ -1,0 +1,15 @@
+{
+  "symbol": "casinu",
+  "name": "Casinu Inu",
+  "address": "0x1b54a6Fa1360BD71A0f28F77A1D6fBA215d498C3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34978/thumb/casinuLOGOCG.png?1706861457",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b54a6fa1360bd71a0f28f77a1d6fba215d498c3"
+  }
+}

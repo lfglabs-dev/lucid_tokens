@@ -1,0 +1,15 @@
+{
+  "symbol": "rwa",
+  "name": "RWA-AI",
+  "address": "0xfCF7985661d2c3F62208970cBE25e70BCCe73E7C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37961/thumb/Untitled_design_%2815%29.png?1716179987",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfcf7985661d2c3f62208970cbe25e70bcce73e7c"
+  }
+}

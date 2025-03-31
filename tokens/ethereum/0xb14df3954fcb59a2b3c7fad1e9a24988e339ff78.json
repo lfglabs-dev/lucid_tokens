@@ -1,0 +1,15 @@
+{
+  "symbol": "o3d",
+  "name": "Origin3D",
+  "address": "0xb14df3954FCb59A2B3c7Fad1e9a24988E339ff78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51903/thumb/image.png?1732136687",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb14df3954fcb59a2b3c7fad1e9a24988e339ff78"
+  }
+}

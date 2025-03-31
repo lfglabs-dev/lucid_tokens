@@ -1,0 +1,15 @@
+{
+  "symbol": "fug",
+  "name": "FUG",
+  "address": "0xc4b9e3aa1071741220A548832C887B39Cb621970",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51370/thumb/Logo200.png?1730936162",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4b9e3aa1071741220a548832c887b39cb621970"
+  }
+}

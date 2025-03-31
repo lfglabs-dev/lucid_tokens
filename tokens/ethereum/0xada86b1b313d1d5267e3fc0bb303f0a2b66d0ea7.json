@@ -1,0 +1,16 @@
+{
+  "symbol": "cov",
+  "name": "Covesting",
+  "address": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1950/thumb/covesting.png?1547036237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+    "binance-smart-chain": "0x0f237db17aa4e6de062e6f052bd9c805789b01c3"
+  }
+}

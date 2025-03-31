@@ -1,0 +1,16 @@
+{
+  "symbol": "wampl",
+  "name": "Wrapped Ampleforth",
+  "address": "0xEDB171C18cE90B633DB442f2A6F72874093b49Ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20825/thumb/photo_2021-11-25_02-05-11.jpg?1637811951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xedb171c18ce90b633db442f2a6f72874093b49ef",
+    "base": "0x489fe42c267fe0366b16b0c39e7aeef977e841ef"
+  }
+}

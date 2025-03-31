@@ -1,0 +1,15 @@
+{
+  "symbol": "zeus",
+  "name": "Zeus AI",
+  "address": "0x6ef460EB3563CfCc73F8147B0A77DAFFeE71F867",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29593/thumb/ZEUS.png?1679887650",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6ef460eb3563cfcc73f8147b0a77daffee71f867"
+  }
+}

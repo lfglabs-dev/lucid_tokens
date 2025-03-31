@@ -1,0 +1,16 @@
+{
+  "symbol": "gora",
+  "name": "Gora",
+  "address": "0x3b9b5AD79cbb7649143DEcD5afc749a75F8e6C7F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30945/thumb/IMG_3807.jpeg?1689085629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "algorand": "1138500612",
+    "ethereum": "0x3b9b5ad79cbb7649143decd5afc749a75f8e6c7f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "adx",
+  "name": "AnyDex",
+  "address": "0x83389cb4e4F0bFF39915efa839CB827460e70D26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50642/thumb/1000000086.png?1728568963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x83389cb4e4f0bff39915efa839cb827460e70d26"
+  }
+}

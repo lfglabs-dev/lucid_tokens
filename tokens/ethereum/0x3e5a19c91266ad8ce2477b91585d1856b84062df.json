@@ -1,0 +1,16 @@
+{
+  "symbol": "a8",
+  "name": "Ancient8",
+  "address": "0x3E5A19c91266aD8cE2477B91585d1856B84062dF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39170/thumb/A8_Token-04_200x200.png?1720798300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e5a19c91266ad8ce2477b91585d1856b84062df",
+    "ancient8": "0xd812d616a7c54ee1c8e9c9cd20d72090bdf0d424"
+  }
+}

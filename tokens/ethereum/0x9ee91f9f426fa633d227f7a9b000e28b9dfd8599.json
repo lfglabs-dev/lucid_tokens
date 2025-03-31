@@ -1,0 +1,17 @@
+{
+  "symbol": "stmatic",
+  "name": "Lido Staked Matic",
+  "address": "0x9ee91F9f426fA633d227f7a9b000E28b9dfd8599",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24185/thumb/stMATIC.png?1646789287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599",
+    "polygon-zkevm": "0x83b874c1e09d316059d929da402dcb1a98e92082",
+    "polygon-pos": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4"
+  }
+}

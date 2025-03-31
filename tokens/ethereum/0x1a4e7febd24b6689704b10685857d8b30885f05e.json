@@ -1,0 +1,15 @@
+{
+  "symbol": "beatai",
+  "name": "eBeat AI",
+  "address": "0x1a4E7FeBd24B6689704B10685857D8B30885F05e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53142/thumb/2024-12-27_14.32.04-2.jpg?1735376775",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a4e7febd24b6689704b10685857d8b30885f05e"
+  }
+}

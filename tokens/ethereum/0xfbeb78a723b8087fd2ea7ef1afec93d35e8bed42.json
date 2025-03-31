@@ -1,0 +1,15 @@
+{
+  "symbol": "yvuni",
+  "name": "UNI yVault",
+  "address": "0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28781/thumb/yvUNI-128-0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42.png?1674188955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfbeb78a723b8087fd2ea7ef1afec93d35e8bed42"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "thor",
+  "name": "THORSwap",
+  "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19292/thumb/3k30XVC9_400x400.jpg?1634873941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa5f2211b9b8170f694421f2046281775e8468044"
+  }
+}

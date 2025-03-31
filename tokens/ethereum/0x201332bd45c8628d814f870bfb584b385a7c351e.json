@@ -1,0 +1,15 @@
+{
+  "symbol": "astra",
+  "name": "Astra Protocol",
+  "address": "0x201332Bd45c8628D814F870bFb584B385A7C351e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24083/thumb/Astra_%281%29_%281%29.png?1673947531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x201332bd45c8628d814f870bfb584b385a7c351e"
+  }
+}

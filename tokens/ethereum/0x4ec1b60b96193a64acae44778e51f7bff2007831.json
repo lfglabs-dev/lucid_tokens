@@ -1,0 +1,15 @@
+{
+  "symbol": "edge",
+  "name": "Edge",
+  "address": "0x4EC1b60B96193a64AcAe44778e51f7BfF2007831",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1848/thumb/EDGE.png?1632300420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4ec1b60b96193a64acae44778e51f7bff2007831"
+  }
+}

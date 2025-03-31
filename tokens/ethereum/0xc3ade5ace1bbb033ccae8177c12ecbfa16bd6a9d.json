@@ -1,0 +1,15 @@
+{
+  "symbol": "insweth",
+  "name": "Inception swETH",
+  "address": "0xC3ADe5aCe1bBb033CcAE8177C12Ecbfa16bD6A9D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34943/thumb/swETH.png?1706757072",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc3ade5ace1bbb033ccae8177c12ecbfa16bd6a9d"
+  }
+}

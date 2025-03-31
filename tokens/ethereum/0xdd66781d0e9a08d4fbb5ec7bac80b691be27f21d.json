@@ -1,0 +1,17 @@
+{
+  "symbol": "axgt",
+  "name": "AxonDAO Governance Token",
+  "address": "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35290/thumb/AXGT-logo-7.png?1708076161",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdd66781d0e9a08d4fbb5ec7bac80b691be27f21d",
+    "arbitrum-one": "0xe0ee18eacafddaeb38f8907c74347c44385578ab",
+    "base": "0x9b700b043e9587dde9a0c29a9483e2f8fa450d54"
+  }
+}

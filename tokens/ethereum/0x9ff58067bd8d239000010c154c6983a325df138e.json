@@ -1,0 +1,15 @@
+{
+  "symbol": "propc",
+  "name": "Propchain",
+  "address": "0x9ff58067Bd8D239000010c154C6983A325Df138E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30451/thumb/Untitled_%28Instagram_Post_%28Square%29%29-2.png?1684489570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ff58067bd8d239000010c154c6983a325df138e"
+  }
+}

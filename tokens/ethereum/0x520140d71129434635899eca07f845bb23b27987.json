@@ -1,0 +1,15 @@
+{
+  "symbol": "virtu",
+  "name": "Virtu Network",
+  "address": "0x520140D71129434635899ecA07f845bb23B27987",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51643/thumb/IMG_1593.jpeg?1731691465",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x520140d71129434635899eca07f845bb23b27987"
+  }
+}

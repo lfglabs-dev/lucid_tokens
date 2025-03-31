@@ -1,0 +1,15 @@
+{
+  "symbol": "cope",
+  "name": "Cope Coin",
+  "address": "0xD8E163967FED76806Df0097B704bA721B9b37656",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29912/thumb/QxzD6QZa_400x400_1_200x200.jpg?1682048533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd8e163967fed76806df0097b704ba721b9b37656"
+  }
+}

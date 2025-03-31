@@ -1,0 +1,15 @@
+{
+  "symbol": "gec",
+  "name": "Geometric Energy Corporation",
+  "address": "0x3001f57F8308b189EB412a64322Aad5eF9951290",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33326/thumb/Gec.png?1701437951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3001f57f8308b189eb412a64322aad5ef9951290"
+  }
+}

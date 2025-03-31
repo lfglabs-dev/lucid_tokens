@@ -1,0 +1,15 @@
+{
+  "symbol": "sudo",
+  "name": "Sudo Labs",
+  "address": "0x48129b305A94D68cE4773CA1F0b55782ac735eAc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52870/thumb/Sudo_Labs.png?1734551637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x48129b305a94d68ce4773ca1f0b55782ac735eac"
+  }
+}

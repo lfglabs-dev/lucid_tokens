@@ -1,0 +1,15 @@
+{
+  "symbol": "bjk",
+  "name": "Beşiktaş",
+  "address": "0x1903BE033d3e436dd79a8Cf9030675BCf97aB589",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32038/thumb/BJK_200x200_2.png?1696233885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1903be033d3e436dd79a8cf9030675bcf97ab589"
+  }
+}

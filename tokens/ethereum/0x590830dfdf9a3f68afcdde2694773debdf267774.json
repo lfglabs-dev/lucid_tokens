@@ -1,0 +1,15 @@
+{
+  "symbol": "giza",
+  "name": "Giza",
+  "address": "0x590830dFDf9A3F68aFCDdE2694773dEBDF267774",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54922/thumb/giza_token_dark.png?1742538409",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x590830dfdf9a3f68afcdde2694773debdf267774"
+  }
+}

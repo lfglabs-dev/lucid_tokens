@@ -1,0 +1,16 @@
+{
+  "symbol": "war",
+  "name": "War Legends",
+  "address": "0x983d8edB44Ca96c0595f3c456ebdD47855911f34",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30672/thumb/wZBMVBr2_400x400.jpg?1686211615",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x95093f8348c6678df4812c008248d88cad344069",
+    "ethereum": "0x983d8edb44ca96c0595f3c456ebdd47855911f34"
+  }
+}

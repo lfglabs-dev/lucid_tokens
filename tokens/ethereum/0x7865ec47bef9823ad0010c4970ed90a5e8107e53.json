@@ -1,0 +1,15 @@
+{
+  "symbol": "naai",
+  "name": "NeoAudit AI",
+  "address": "0x7865eC47bEF9823AD0010c4970Ed90A5E8107E53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33181/thumb/logo-on-black_%282%29.png?1700925393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7865ec47bef9823ad0010c4970ed90a5e8107e53"
+  }
+}

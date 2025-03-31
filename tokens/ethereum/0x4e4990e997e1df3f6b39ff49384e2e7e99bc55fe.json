@@ -1,0 +1,15 @@
+{
+  "symbol": "saudibonk",
+  "name": "Saudi Bonk",
+  "address": "0x4e4990E997e1dF3f6b39Ff49384E2E7E99BC55fE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34812/thumb/SaudiBonk.jpg?1706122838",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e4990e997e1df3f6b39ff49384e2e7e99bc55fe"
+  }
+}

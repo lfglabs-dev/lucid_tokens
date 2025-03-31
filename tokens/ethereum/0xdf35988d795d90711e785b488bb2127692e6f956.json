@@ -1,0 +1,15 @@
+{
+  "symbol": "babyfloki",
+  "name": "BabyFloki",
+  "address": "0xdF35988d795d90711e785B488Bb2127692e6f956",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16712/thumb/floki.jpg?1624810144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdf35988d795d90711e785b488bb2127692e6f956"
+  }
+}

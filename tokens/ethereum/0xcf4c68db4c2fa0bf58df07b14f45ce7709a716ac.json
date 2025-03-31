@@ -1,0 +1,15 @@
+{
+  "symbol": "shield",
+  "name": "Dejitaru Shirudo",
+  "address": "0xcf4C68Db4C2FA0bf58dF07B14f45cE7709a716AC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28500/thumb/200x200.png?1671158806",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcf4c68db4c2fa0bf58df07b14f45ce7709a716ac"
+  }
+}

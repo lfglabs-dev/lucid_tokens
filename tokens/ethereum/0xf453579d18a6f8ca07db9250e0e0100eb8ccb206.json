@@ -1,0 +1,15 @@
+{
+  "symbol": "cipher",
+  "name": "Cipher Protocol",
+  "address": "0xF453579d18a6F8CA07db9250e0E0100EB8CCb206",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53454/thumb/Cipher_Protocol.jpg?1736403313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf453579d18a6f8ca07db9250e0e0100eb8ccb206"
+  }
+}

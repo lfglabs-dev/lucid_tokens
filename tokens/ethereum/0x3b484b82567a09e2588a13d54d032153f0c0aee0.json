@@ -1,0 +1,15 @@
+{
+  "symbol": "sos",
+  "name": "OpenDAO",
+  "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21956/thumb/fo42wXI6_400x400.jpg?1640373810",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
+  }
+}

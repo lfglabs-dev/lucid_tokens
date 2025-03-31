@@ -1,0 +1,15 @@
+{
+  "symbol": "hhgttg",
+  "name": "Douglas Adams",
+  "address": "0xeE3c722d177559F73288cEC91fA3E4bBfd8C27Fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32837/thumb/HHT200.jpg?1699587064",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xee3c722d177559f73288cec91fa3e4bbfd8c27fc"
+  }
+}

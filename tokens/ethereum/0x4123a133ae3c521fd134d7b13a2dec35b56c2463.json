@@ -1,0 +1,15 @@
+{
+  "symbol": "open",
+  "name": "Open Custody Protocol",
+  "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17541/thumb/qrdo.png?1630637735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463"
+  }
+}

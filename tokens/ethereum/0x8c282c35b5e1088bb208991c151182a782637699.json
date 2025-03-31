@@ -1,0 +1,15 @@
+{
+  "symbol": "monai",
+  "name": "Monai",
+  "address": "0x8C282C35B5E1088bb208991c151182A782637699",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35661/thumb/2024-03-02_02.02.09.png?1709453630",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c282c35b5e1088bb208991c151182a782637699"
+  }
+}

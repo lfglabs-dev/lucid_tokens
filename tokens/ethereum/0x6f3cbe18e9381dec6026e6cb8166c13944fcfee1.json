@@ -1,0 +1,15 @@
+{
+  "symbol": "felix",
+  "name": "FELIX",
+  "address": "0x6F3cBE18e9381dEc6026e6Cb8166C13944fCFeE1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32897/thumb/200photo_2023-11-11_02-25-13.jpg?1699790963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f3cbe18e9381dec6026e6cb8166c13944fcfee1"
+  }
+}

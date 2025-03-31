@@ -1,0 +1,15 @@
+{
+  "symbol": "bips",
+  "name": "Moneybrain BiPS",
+  "address": "0x5Cb888182fBfFdb62C08fb4B5a343914F00FdfeE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15556/thumb/bips_logo_200x200_Trans.png?1621204965",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5cb888182fbffdb62c08fb4b5a343914f00fdfee"
+  }
+}

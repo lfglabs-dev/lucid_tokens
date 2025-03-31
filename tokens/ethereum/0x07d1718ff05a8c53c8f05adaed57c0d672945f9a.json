@@ -1,0 +1,15 @@
+{
+  "symbol": "arusd",
+  "name": "Aladdin rUSD",
+  "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38795/thumb/Screenshot_2024-06-20_at_2.41.40%E2%80%AFPM.png?1718880106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07d1718ff05a8c53c8f05adaed57c0d672945f9a"
+  }
+}

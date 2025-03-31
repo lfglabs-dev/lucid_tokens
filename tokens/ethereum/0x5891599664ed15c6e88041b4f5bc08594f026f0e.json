@@ -1,0 +1,15 @@
+{
+  "symbol": "jpgc",
+  "name": "JPGoldCoin",
+  "address": "0x5891599664Ed15C6e88041B4F5bc08594f026f0e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27321/thumb/JPGC_LOGO-_Coingecko.png?1663319056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5891599664ed15c6e88041b4f5bc08594f026f0e"
+  }
+}

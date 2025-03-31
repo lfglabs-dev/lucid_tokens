@@ -1,0 +1,15 @@
+{
+  "symbol": "maxi",
+  "name": "Maximus DAO",
+  "address": "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25126/thumb/maxilogo200.png?1650372648",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b"
+  }
+}

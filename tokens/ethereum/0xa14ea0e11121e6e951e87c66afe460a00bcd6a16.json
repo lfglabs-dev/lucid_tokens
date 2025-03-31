@@ -1,0 +1,15 @@
+{
+  "symbol": "idledaisafe",
+  "name": "IdleDAI (Risk Adjusted)",
+  "address": "0xa14eA0E11121e6E951E87c66AFe460A00BCD6A16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11929/thumb/idledai-safe.png?1596263241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa14ea0e11121e6e951e87c66afe460a00bcd6a16"
+  }
+}

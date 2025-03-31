@@ -1,0 +1,15 @@
+{
+  "symbol": "im",
+  "name": "Internet Money (ETH)",
+  "address": "0x0A58153a0CD1cfaea94cE1f7FdC5D7E679eCa936",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28930/thumb/IM_Logo_200x200.png?1675494755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0a58153a0cd1cfaea94ce1f7fdc5d7e679eca936"
+  }
+}

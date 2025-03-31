@@ -1,0 +1,15 @@
+{
+  "symbol": "kok",
+  "name": "KOK",
+  "address": "0x9B9647431632AF44be02ddd22477Ed94d14AacAa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10502/thumb/logo_navy.png?1580250344",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b9647431632af44be02ddd22477ed94d14aacaa"
+  }
+}

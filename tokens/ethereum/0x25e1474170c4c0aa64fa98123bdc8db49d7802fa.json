@@ -1,0 +1,15 @@
+{
+  "symbol": "bid",
+  "name": "Bidao",
+  "address": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12596/thumb/bidao.png?1600996485",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa"
+  }
+}

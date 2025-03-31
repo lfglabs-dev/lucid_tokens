@@ -1,0 +1,15 @@
+{
+  "symbol": "cai",
+  "name": "CryptoAI",
+  "address": "0xf36C5f04127F7470834ed6f98bDDC1BE62aba48D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28899/thumb/200blue.png?1675229934",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf36c5f04127f7470834ed6f98bddc1be62aba48d"
+  }
+}

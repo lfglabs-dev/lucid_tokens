@@ -1,0 +1,15 @@
+{
+  "symbol": "loon",
+  "name": "Loon Network",
+  "address": "0x7C5d5100B339Fe7D995a893AF6CB496B9474373c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11673/thumb/ErUvUA2D4Q8hPWXxZBIuiI8MD0nrU2rDEY56d6EtVzJDTqlflAFXa2bgJ_kFwb8OtotfAvESvm-dik7d_SeJJh23f6RosUJ0AzU64QcKk5H3fu300KOJjFDFsntpRWARFKI5S4Cc8F3pcRPBkFIw6oPF58mKi83sa2DJPl-E5JMqmj6rJh5acb7Fvi80kfziWv3DHhhpg1YJYMP.jpg?1592536236",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7c5d5100b339fe7d995a893af6cb496b9474373c"
+  }
+}

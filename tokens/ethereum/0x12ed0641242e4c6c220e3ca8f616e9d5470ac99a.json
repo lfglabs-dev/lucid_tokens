@@ -1,0 +1,16 @@
+{
+  "symbol": "earn",
+  "name": "Earn Network",
+  "address": "0x12Ed0641242e4C6c220e3ca8F616E9d5470AC99a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33350/thumb/EARN_logo.png?1701561551",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
+    "cronos": "0x9ea69fd44a7bd7265d5b19ae8cb2e19f80da059c"
+  }
+}

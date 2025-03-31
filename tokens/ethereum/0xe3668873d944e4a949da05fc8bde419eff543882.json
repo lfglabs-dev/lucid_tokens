@@ -1,0 +1,15 @@
+{
+  "symbol": "yprisma",
+  "name": "Yearn yPRISMA",
+  "address": "0xe3668873D944E4A949DA05fc8bDE419eFF543882",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33481/thumb/Asset_yPRISMA__Type_Main.png?1702020049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe3668873d944e4a949da05fc8bde419eff543882"
+  }
+}

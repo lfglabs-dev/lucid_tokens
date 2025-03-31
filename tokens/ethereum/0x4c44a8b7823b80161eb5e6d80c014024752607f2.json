@@ -1,0 +1,15 @@
+{
+  "symbol": "pac",
+  "name": "America Pac",
+  "address": "0x4C44A8B7823B80161Eb5E6D80c014024752607F2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50552/thumb/logo-transparent.png?1728350358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c44a8b7823b80161eb5e6d80c014024752607f2"
+  }
+}

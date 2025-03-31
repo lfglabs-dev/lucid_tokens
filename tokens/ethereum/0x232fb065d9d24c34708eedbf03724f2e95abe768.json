@@ -1,0 +1,15 @@
+{
+  "symbol": "sheesha",
+  "name": "Sheesha Finance (ERC20)",
+  "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23053/thumb/MLBmh4z0.png?1643113057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x232fb065d9d24c34708eedbf03724f2e95abe768"
+  }
+}

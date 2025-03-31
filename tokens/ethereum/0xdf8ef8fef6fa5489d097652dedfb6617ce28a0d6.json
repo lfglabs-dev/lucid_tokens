@@ -1,0 +1,15 @@
+{
+  "symbol": "dump",
+  "name": "dump.trade",
+  "address": "0xDF8ef8FeF6fA5489d097652DEDfB6617Ce28A0d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36984/thumb/logo.png?1712945749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdf8ef8fef6fa5489d097652dedfb6617ce28a0d6"
+  }
+}

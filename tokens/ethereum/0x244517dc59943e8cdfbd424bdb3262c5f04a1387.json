@@ -1,0 +1,15 @@
+{
+  "symbol": "fdai",
+  "name": "Fluid DAI",
+  "address": "0x244517Dc59943E8CdFbD424Bdb3262c5f04a1387",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28473/thumb/fDAI-200x200.png?1671002526",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x244517dc59943e8cdfbd424bdb3262c5f04a1387"
+  }
+}

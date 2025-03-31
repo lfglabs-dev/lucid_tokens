@@ -1,0 +1,15 @@
+{
+  "symbol": "vidy",
+  "name": "VIDY",
+  "address": "0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5088/thumb/vidy-logo.jpg?1547040486",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc77b230f31b517f1ef362e59c173c2be6540b5e8"
+  }
+}

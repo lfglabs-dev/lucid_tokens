@@ -1,0 +1,15 @@
+{
+  "symbol": "dmx",
+  "name": "Dymmax",
+  "address": "0xf058501585023d040eA9493134ED72C083553eED",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13476/thumb/dmmx.png?1608934713",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf058501585023d040ea9493134ed72c083553eed"
+  }
+}

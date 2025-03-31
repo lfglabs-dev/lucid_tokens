@@ -1,0 +1,15 @@
+{
+  "symbol": "hifi",
+  "name": "Hifi Finance",
+  "address": "0x4b9278b94a1112cAD404048903b8d343a810B07e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28712/thumb/hft.png?1673534804",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b9278b94a1112cad404048903b8d343a810b07e"
+  }
+}

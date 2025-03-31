@@ -1,0 +1,15 @@
+{
+  "symbol": "cnb",
+  "name": "Coinsbit Token",
+  "address": "0xC538143202f3b11382D8606aae90a96b042a19DB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10340/thumb/cbicon.png?1578637386",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc538143202f3b11382d8606aae90a96b042a19db"
+  }
+}

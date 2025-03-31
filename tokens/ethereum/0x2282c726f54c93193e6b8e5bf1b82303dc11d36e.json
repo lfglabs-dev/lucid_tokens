@@ -1,0 +1,15 @@
+{
+  "symbol": "day",
+  "name": "Dayhub",
+  "address": "0x2282c726F54c93193E6b8E5BF1B82303DC11D36e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52722/thumb/dayhub_logo_nbc_200x200.png?1734098049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2282c726f54c93193e6b8e5bf1b82303dc11d36e"
+  }
+}

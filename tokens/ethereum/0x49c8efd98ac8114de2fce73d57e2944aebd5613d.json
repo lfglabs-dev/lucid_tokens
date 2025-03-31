@@ -1,0 +1,15 @@
+{
+  "symbol": "atec",
+  "name": "AnonTech",
+  "address": "0x49C8efD98AC8114DE2fCe73D57e2944aeBD5613D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36949/thumb/1000002162.jpg?1712897959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x49c8efd98ac8114de2fce73d57e2944aebd5613d"
+  }
+}

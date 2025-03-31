@@ -1,0 +1,15 @@
+{
+  "symbol": "dench",
+  "name": "DENCHCOIN",
+  "address": "0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11103/thumb/Dench3-e1582923464559.png?1696511043",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b7265d153886a7dc717e815862acde6ff7b5bc8"
+  }
+}

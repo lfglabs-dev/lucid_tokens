@@ -1,0 +1,15 @@
+{
+  "symbol": "mops",
+  "name": "Mops",
+  "address": "0x602f65BB8B8098Ad804E99DB6760Fd36208cD967",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26900/thumb/mops.png?1660724129",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x602f65bb8b8098ad804e99db6760fd36208cd967"
+  }
+}

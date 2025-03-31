@@ -1,0 +1,15 @@
+{
+  "symbol": "icom",
+  "name": "iCommunity",
+  "address": "0xB131F337C45D386cEeC234e194b2663D5c3d9dCF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23667/thumb/logo-icommunity.png?1644993652",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb131f337c45d386ceec234e194b2663d5c3d9dcf"
+  }
+}

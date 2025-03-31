@@ -1,0 +1,15 @@
+{
+  "symbol": "sald",
+  "name": "Salad",
+  "address": "0x5582a479f0c403E207D2578963CceF5D03BA636f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29936/thumb/RJV4r-hN_400x400.jpg?1682143335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5582a479f0c403e207d2578963ccef5d03ba636f"
+  }
+}

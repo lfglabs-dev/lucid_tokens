@@ -1,0 +1,15 @@
+{
+  "symbol": "hlx",
+  "name": "HELIOS",
+  "address": "0x2614f29C39dE46468A921Fd0b41fdd99A01f2EDf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35650/thumb/HeliosPNG.png?1709375257",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2614f29c39de46468a921fd0b41fdd99a01f2edf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ever",
+  "name": "Everscale",
+  "address": "0x1ffEFD8036409Cb6d652bd610DE465933b226917",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12783/thumb/everscale_badge_main_round_1x.png?1640050196",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1ffefd8036409cb6d652bd610de465933b226917"
+  }
+}

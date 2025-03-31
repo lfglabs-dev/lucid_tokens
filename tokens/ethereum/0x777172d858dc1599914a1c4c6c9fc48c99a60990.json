@@ -1,0 +1,16 @@
+{
+  "symbol": "solid",
+  "name": "Solidly",
+  "address": "0x777172D858dC1599914a1C4c6c9fC48c99a60990",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28676/thumb/solid.png?1673226406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x777172d858dc1599914a1c4c6c9fc48c99a60990",
+    "fantom": "0x777cf5ba9c291a1a8f57ff14836f6f9dc5c0f9dd"
+  }
+}

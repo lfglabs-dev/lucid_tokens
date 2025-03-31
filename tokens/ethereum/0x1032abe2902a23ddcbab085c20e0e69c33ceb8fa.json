@@ -1,0 +1,15 @@
+{
+  "symbol": "snake",
+  "name": "Pepe Predator",
+  "address": "0x1032abe2902a23dDCbaB085C20E0e69c33cEB8fA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30205/thumb/Logo_FOR_CG.png?1683616617",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1032abe2902a23ddcbab085c20e0e69c33ceb8fa"
+  }
+}

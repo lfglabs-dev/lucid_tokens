@@ -1,0 +1,15 @@
+{
+  "symbol": "shield",
+  "name": "Chatter Shield",
+  "address": "0x46c0F8259C4E4D50320124E52f3040cb9e4d04c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37166/thumb/chattershield.jpeg?1713506731",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x46c0f8259c4e4d50320124e52f3040cb9e4d04c7"
+  }
+}

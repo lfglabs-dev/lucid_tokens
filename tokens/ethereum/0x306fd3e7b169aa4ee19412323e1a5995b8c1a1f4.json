@@ -1,0 +1,20 @@
+{
+  "symbol": "ftw",
+  "name": "Black Agnus",
+  "address": "0x306fD3e7b169Aa4ee19412323e1a5995B8c1a1f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50170/thumb/20240906_234238.png?1726137290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x306fd3e7b169aa4ee19412323e1a5995b8c1a1f4",
+    "binance-smart-chain": "0x306fd3e7b169aa4ee19412323e1a5995b8c1a1f4",
+    "arbitrum-one": "0x306fd3e7b169aa4ee19412323e1a5995b8c1a1f4",
+    "polygon-pos": "0x306fd3e7b169aa4ee19412323e1a5995b8c1a1f4",
+    "base": "0x306fd3e7b169aa4ee19412323e1a5995b8c1a1f4",
+    "solana": "7ePhsDXkpPJs6rPM3TQScpbgonzKUPo9vuQr8GXMMGpf"
+  }
+}

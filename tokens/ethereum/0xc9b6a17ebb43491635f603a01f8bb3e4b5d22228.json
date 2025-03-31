@@ -1,0 +1,15 @@
+{
+  "symbol": "maga",
+  "name": "MAGA Coin ETH",
+  "address": "0xc9b6A17EbB43491635F603A01f8Bb3e4B5D22228",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27455/thumb/rsz_jimerkya_400x400.png?1664090952",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc9b6a17ebb43491635f603a01f8bb3e4b5d22228"
+  }
+}

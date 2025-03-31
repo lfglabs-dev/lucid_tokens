@@ -1,0 +1,15 @@
+{
+  "symbol": "mononoke-inu",
+  "name": "Mononoke Inu",
+  "address": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18769/thumb/z9YDK0f.png?1633357322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4da08a1bff50be96bded5c7019227164b49c2bfc"
+  }
+}

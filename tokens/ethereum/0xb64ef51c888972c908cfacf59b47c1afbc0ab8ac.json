@@ -1,0 +1,17 @@
+{
+  "symbol": "storj",
+  "name": "Storj",
+  "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/949/thumb/storj.png?1547034811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+    "harmony-shard-0": "0x266f341e33aa61c30c6a9af89314811a5b097cb4",
+    "energi": "0xcde71daaffb6a12d584f55777d4c9e9d3c353c1e"
+  }
+}

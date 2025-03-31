@@ -1,0 +1,15 @@
+{
+  "symbol": "chib",
+  "name": "Chiba Wan",
+  "address": "0xa5c45d48d36607741E90c0CCa29545A46f5eE121",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50894/thumb/face.png?1729505202",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa5c45d48d36607741e90c0cca29545a46f5ee121"
+  }
+}

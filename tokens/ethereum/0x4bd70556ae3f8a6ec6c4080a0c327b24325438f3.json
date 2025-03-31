@@ -1,0 +1,17 @@
+{
+  "symbol": "hxro",
+  "name": "HXRO",
+  "address": "0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7805/thumb/Hxro_Profile_Transparent.png?1622443308",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+    "energi": "0xf25ef66291cc2469781fa18512d6b26431cb0747",
+    "solana": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK"
+  }
+}

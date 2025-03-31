@@ -1,0 +1,15 @@
+{
+  "symbol": "si",
+  "name": "Siren",
+  "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13955/thumb/Siren_Logo_circle_256px.png?1645684572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd23ac27148af6a2f339bd82d0e3cff380b5093de"
+  }
+}

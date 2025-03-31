@@ -1,0 +1,16 @@
+{
+  "symbol": "mps",
+  "name": "Mt Pelerin Shares",
+  "address": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11471/thumb/MPS.png?1590319120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96c645d3d3706f793ef52c19bbace441900ed47d",
+    "xdai": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb"
+  }
+}

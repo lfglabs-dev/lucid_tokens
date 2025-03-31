@@ -1,0 +1,15 @@
+{
+  "symbol": "xrt",
+  "name": "Robonomics Network",
+  "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7024/thumb/Robonomics-Network-logo.png?1547043451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7"
+  }
+}

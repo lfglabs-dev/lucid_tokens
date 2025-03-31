@@ -1,0 +1,16 @@
+{
+  "symbol": "xfit",
+  "name": "XFai",
+  "address": "0x4aa41bC1649C9C3177eD16CaaA11482295fC7441",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14904/thumb/xfit_logo.png?1618967174",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4aa41bc1649c9c3177ed16caaa11482295fc7441",
+    "linea": "0x8c56017b172226fe024dea197748fc1eaccc82b1"
+  }
+}

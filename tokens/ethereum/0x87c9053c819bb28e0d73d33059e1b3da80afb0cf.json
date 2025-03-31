@@ -1,0 +1,15 @@
+{
+  "symbol": "mre7yield",
+  "name": "Midas mRe7YIELD",
+  "address": "0x87C9053C819bB28e0D73d33059E1b3DA80AFb0cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf"
+  }
+}

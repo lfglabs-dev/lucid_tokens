@@ -1,0 +1,15 @@
+{
+  "symbol": "fork",
+  "name": "FlokiFork",
+  "address": "0x7D225c4cc612E61d26523B099b0718d03152eDEf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35048/thumb/floki-inu-floki-logo200x200.png?1707206165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7d225c4cc612e61d26523b099b0718d03152edef"
+  }
+}

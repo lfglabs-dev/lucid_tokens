@@ -1,0 +1,15 @@
+{
+  "symbol": "ort",
+  "name": "XREATORS",
+  "address": "0x5c59a5B139B0538CB106D775a022caD98Dd14b5a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25678/thumb/XREATORS_ORT_Logo.png?1653548310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c59a5b139b0538cb106d775a022cad98dd14b5a"
+  }
+}

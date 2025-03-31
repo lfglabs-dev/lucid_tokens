@@ -1,0 +1,15 @@
+{
+  "symbol": "star",
+  "name": "Starbot",
+  "address": "0x6953f27dB0701E22616e701DbA91acC2E4B6DecA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34917/thumb/Logo_transparent_small.png?1706613080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6953f27db0701e22616e701dba91acc2e4b6deca"
+  }
+}

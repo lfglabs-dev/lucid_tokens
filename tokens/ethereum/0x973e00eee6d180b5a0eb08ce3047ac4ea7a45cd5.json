@@ -1,0 +1,15 @@
+{
+  "symbol": "toto",
+  "name": "TOTO",
+  "address": "0x973E00Eee6d180b5A0Eb08cE3047AC4eA7A45CD5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35215/thumb/200X200.png?1707898793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x973e00eee6d180b5a0eb08ce3047ac4ea7a45cd5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "txa",
+  "name": "TXA",
+  "address": "0x4463e6A3dEd0dBE3F6e15bC8420dFc55e5FeA830",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17746/thumb/jwjcN5Kx_400x400.jpg?1646381259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4463e6a3ded0dbe3f6e15bc8420dfc55e5fea830"
+  }
+}

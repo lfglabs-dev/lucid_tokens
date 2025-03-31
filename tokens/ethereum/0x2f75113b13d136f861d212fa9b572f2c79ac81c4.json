@@ -1,0 +1,16 @@
+{
+  "symbol": "ekta",
+  "name": "Ekta",
+  "address": "0x2f75113b13D136F861d212Fa9b572F2C79Ac81C4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22350/thumb/token.jpg?1641882684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x45808ce43eb2d7685ff0242631f0feb6f3d8701a",
+    "ethereum": "0x2f75113b13d136f861d212fa9b572f2c79ac81c4"
+  }
+}

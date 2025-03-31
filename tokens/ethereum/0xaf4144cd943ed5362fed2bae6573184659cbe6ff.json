@@ -1,0 +1,15 @@
+{
+  "symbol": "liz",
+  "name": "Lizcoin",
+  "address": "0xAF4144cd943ed5362Fed2BaE6573184659CBe6FF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51312/thumb/Lizard_Labs_-_Lizcoin_200x200.png?1730686123",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf4144cd943ed5362fed2bae6573184659cbe6ff"
+  }
+}

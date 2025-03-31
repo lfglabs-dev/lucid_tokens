@@ -1,0 +1,15 @@
+{
+  "symbol": "d2d",
+  "name": "Prime",
+  "address": "0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21609/thumb/RJD82RrV_400x400.jpg?1639559164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x43d4a3cd90ddd2f8f4f693170c9c8098163502ad"
+  }
+}

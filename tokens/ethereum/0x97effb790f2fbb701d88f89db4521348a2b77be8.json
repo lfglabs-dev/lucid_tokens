@@ -1,0 +1,15 @@
+{
+  "symbol": "cvg",
+  "name": "Convergence Finance",
+  "address": "0x97efFB790f2fbB701D88f89DB4521348A2B77be8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34989/thumb/AVI.png?1706887801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x97effb790f2fbb701d88f89db4521348a2b77be8"
+  }
+}

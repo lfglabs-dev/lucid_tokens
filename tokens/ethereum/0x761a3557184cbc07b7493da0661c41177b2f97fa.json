@@ -1,0 +1,16 @@
+{
+  "symbol": "grow",
+  "name": "ValleyDAO",
+  "address": "0x761A3557184cbC07b7493da0661c41177b2f97fA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32991/thumb/valleydao_logo.png?1700101715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x761a3557184cbc07b7493da0661c41177b2f97fa",
+    "solana": "growFDf9teg9gwVTTY3DgpPXU31qBrnbSQCqtY2vkR8"
+  }
+}

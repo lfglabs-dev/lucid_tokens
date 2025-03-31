@@ -1,0 +1,15 @@
+{
+  "symbol": "hold",
+  "name": "Everybody",
+  "address": "0x68B36248477277865c64DFc78884Ef80577078F3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32272/thumb/HOLD_logo_final_%282%29.png?1697179882",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68b36248477277865c64dfc78884ef80577078f3"
+  }
+}

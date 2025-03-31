@@ -1,0 +1,15 @@
+{
+  "symbol": "pulse",
+  "name": "Pulse3D",
+  "address": "0xc5B1aa70410A86383F93d807d02b75f1c34CDdB8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53212/thumb/coinpulse200.png?1735672168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5b1aa70410a86383f93d807d02b75f1c34cddb8"
+  }
+}

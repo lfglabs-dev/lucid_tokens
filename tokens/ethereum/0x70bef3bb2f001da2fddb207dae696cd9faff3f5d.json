@@ -1,0 +1,17 @@
+{
+  "symbol": "nst",
+  "name": "Ninja Squad Token",
+  "address": "0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22248/thumb/unnamed.jpg?1641277417",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70bef3bb2f001da2fddb207dae696cd9faff3f5d",
+    "arbitrum-one": "0x88a269df8fe7f53e590c561954c52fccc8ec0cfb",
+    "solana": "G7iK3prSzAA4vzcJWvsLUEsdCqzR7PnMzJV61vSdFSNW"
+  }
+}

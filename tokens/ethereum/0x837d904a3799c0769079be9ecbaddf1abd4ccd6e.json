@@ -1,0 +1,19 @@
+{
+  "symbol": "tarot",
+  "name": "Tarot V1",
+  "address": "0x837d904A3799c0769079BE9ecbadDF1aBD4cCD6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17881/thumb/tarot-200px.png?1629704943",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
+    "optimistic-ethereum": "0x375488f097176507e39b9653b88fdc52cde736bf",
+    "ethereum": "0x837d904a3799c0769079be9ecbaddf1abd4ccd6e",
+    "binance-smart-chain": "0xa8cd6e4bf45724d3ac27f9e31e47ba4e399a7b52",
+    "arbitrum-one": "0x6688b00f0c23a4a546beaae51a7c90c439895d48"
+  }
+}

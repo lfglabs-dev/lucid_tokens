@@ -1,0 +1,15 @@
+{
+  "symbol": "pai",
+  "name": "ParallelAI",
+  "address": "0x13E4b8CfFe704d3De6F19E52b201d92c21EC18bD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50394/thumb/IMG_20240926_230930_523.jpg?1727589698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x13e4b8cffe704d3de6f19e52b201d92c21ec18bd"
+  }
+}

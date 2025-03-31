@@ -1,0 +1,15 @@
+{
+  "symbol": "tct",
+  "name": "TokenClub",
+  "address": "0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2455/thumb/tokenclub.png?1558012103",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7"
+  }
+}

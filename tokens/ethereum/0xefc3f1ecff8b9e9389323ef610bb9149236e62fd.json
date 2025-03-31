@@ -1,0 +1,15 @@
+{
+  "symbol": "lmi",
+  "name": "Lucky Mio",
+  "address": "0xefc3F1ECfF8B9e9389323eF610bb9149236e62fD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39097/thumb/3Ua9NndM_400x400.jpg?1720507210",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xefc3f1ecff8b9e9389323ef610bb9149236e62fd"
+  }
+}

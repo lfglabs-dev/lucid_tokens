@@ -1,0 +1,15 @@
+{
+  "symbol": "sora",
+  "name": "Sora AI",
+  "address": "0xb8a87405d9a4F2F866319B77004e88dfF66c0d92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35293/thumb/sora-dext-logo.jpg?1708078157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8a87405d9a4f2f866319b77004e88dff66c0d92"
+  }
+}

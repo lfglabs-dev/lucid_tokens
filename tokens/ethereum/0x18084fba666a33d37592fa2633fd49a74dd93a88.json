@@ -1,0 +1,21 @@
+{
+  "symbol": "tbtc",
+  "name": "tBTC",
+  "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11224/thumb/tBTC.png?1589620754",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+    "bob-network": "0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2",
+    "optimistic-ethereum": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "arbitrum-one": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "polygon-pos": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+    "base": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+    "solana": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU"
+  }
+}

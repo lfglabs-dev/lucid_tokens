@@ -1,0 +1,15 @@
+{
+  "symbol": "elf",
+  "name": "THE LAND ELF Crossing",
+  "address": "0x8A13F32e2A556830F3A5e97a96Ae941abfcB1D5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37865/thumb/%E3%82%A8%E3%83%AB%E3%83%95%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3.png?1715794158",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a13f32e2a556830f3a5e97a96ae941abfcb1d5c"
+  }
+}

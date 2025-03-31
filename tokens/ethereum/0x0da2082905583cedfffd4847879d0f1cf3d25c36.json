@@ -1,0 +1,15 @@
+{
+  "symbol": "melo",
+  "name": "Melo",
+  "address": "0x0dA2082905583cEdFfFd4847879d0F1Cf3d25C36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50419/thumb/melo.png?1727683219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0da2082905583cedfffd4847879d0f1cf3d25c36"
+  }
+}

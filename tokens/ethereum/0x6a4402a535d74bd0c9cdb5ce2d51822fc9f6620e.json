@@ -1,0 +1,15 @@
+{
+  "symbol": "tomo",
+  "name": "Tomo Cat",
+  "address": "0x6A4402a535d74Bd0C9cDb5Ce2d51822Fc9F6620E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52285/thumb/Tomo_Cat.png?1732952454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a4402a535d74bd0c9cdb5ce2d51822fc9f6620e"
+  }
+}

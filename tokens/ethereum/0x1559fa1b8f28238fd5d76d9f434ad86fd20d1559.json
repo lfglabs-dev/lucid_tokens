@@ -1,0 +1,15 @@
+{
+  "symbol": "eden",
+  "name": "EDEN",
+  "address": "0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17470/thumb/Iyc0XM5-_400x400.jpg?1628254655",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559"
+  }
+}

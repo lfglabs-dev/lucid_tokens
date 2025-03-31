@@ -1,0 +1,16 @@
+{
+  "symbol": "exd",
+  "name": "Exorde",
+  "address": "0x02dE007D412266a2e0Fa9287C103474170F06560",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28684/thumb/logo-exorde.png?1673625181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x02de007d412266a2e0fa9287c103474170f06560",
+    "skale": "0xcfeba92bd362b2f76fc30a89c433de50a1d62bca"
+  }
+}

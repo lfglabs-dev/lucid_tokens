@@ -1,0 +1,15 @@
+{
+  "symbol": "eth",
+  "name": "The Infinite Garden",
+  "address": "0x5e21D1EE5cf0077B314c381720273ae82378D613",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34540/thumb/film.jpg?1705338132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5e21d1ee5cf0077b314c381720273ae82378d613"
+  }
+}

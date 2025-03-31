@@ -1,0 +1,21 @@
+{
+  "symbol": "l3",
+  "name": "Layer3",
+  "address": "0x88909D489678dD17aA6D9609F89B0419Bf78FD9a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37768/thumb/L3.jpeg?1715492953",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x88909d489678dd17aa6d9609f89b0419bf78fd9a",
+    "binance-smart-chain": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "arbitrum-one": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "optimistic-ethereum": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "polygon-pos": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "base": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "solana": "5k84VjAKoGPXa7ias1BNgKUrX7e61eMPWhZDqsiD4Bpe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ngc",
+  "name": "NAGA",
+  "address": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1439/thumb/naga.jpg?1547035515",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131"
+  }
+}

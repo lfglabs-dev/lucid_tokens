@@ -1,0 +1,15 @@
+{
+  "symbol": "saitabit",
+  "name": "SaitaBit",
+  "address": "0x927402ab67c0CDA3c187E9DFE34554AC581441f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39115/thumb/SaitaBitLogo200.png?1720589114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x927402ab67c0cda3c187e9dfe34554ac581441f2"
+  }
+}

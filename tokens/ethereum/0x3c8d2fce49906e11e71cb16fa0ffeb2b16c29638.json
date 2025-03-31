@@ -1,0 +1,16 @@
+{
+  "symbol": "nftl",
+  "name": "Nifty League",
+  "address": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19224/thumb/NFTL-256x256.png?1634713638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
+    "immutable": "0xb0d7e9ff5fb8e739c4990f7920d8047acfae4884"
+  }
+}

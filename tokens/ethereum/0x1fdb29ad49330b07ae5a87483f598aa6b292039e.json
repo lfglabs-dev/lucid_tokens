@@ -1,0 +1,15 @@
+{
+  "symbol": "ltd",
+  "name": "Living the Dream",
+  "address": "0x1FdB29Ad49330B07aE5a87483F598AA6b292039E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39991/thumb/LTD_200.png?1725061229",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1fdb29ad49330b07ae5a87483f598aa6b292039e"
+  }
+}

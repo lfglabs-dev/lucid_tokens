@@ -1,0 +1,15 @@
+{
+  "symbol": "fxi",
+  "name": "FX1Sports",
+  "address": "0xC5190E7FEC4d97a3a3b1aB42dfedac608e2d0793",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30078/thumb/fx1_sports_logo.jpg?1683015144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5190e7fec4d97a3a3b1ab42dfedac608e2d0793"
+  }
+}

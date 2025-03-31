@@ -1,0 +1,18 @@
+{
+  "symbol": "cat.d",
+  "name": "Dinari CAT",
+  "address": "0x4cfBA646Ca9C05AD653FEA94D485D15CfC449B2d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe649980d1b911756f217e4b61de76a7d2a3b108a",
+    "ethereum": "0x4cfba646ca9c05ad653fea94d485d15cfc449b2d",
+    "blast": "0x8ce131c8c8b8d46ffe2a72aadc8ebb3d5686613a",
+    "base": "0x903ce8c6196a78e5b6df62897a864951e71b6b34"
+  }
+}

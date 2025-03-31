@@ -1,0 +1,18 @@
+{
+  "symbol": "aln",
+  "name": "Aluna",
+  "address": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14379/thumb/uaLoLU8c_400x400_%281%29.png?1627873106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8185bc4757572da2a610f887561c32298f1a5748",
+    "binance-smart-chain": "0xf44fb887334fa17d2c5c0f970b5d320ab53ed557",
+    "arbitrum-one": "0x9b3fa2a7c3eb36d048a5d38d81e7fafc6bc47b25",
+    "polygon-pos": "0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a"
+  }
+}

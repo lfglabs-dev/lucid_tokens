@@ -1,0 +1,15 @@
+{
+  "symbol": "mnry",
+  "name": "Moonray",
+  "address": "0x06904a21f2dB805487FcBDC3b3Fe9607dAaa5D54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52369/thumb/Moonray_logo_Square_Small.png?1733245199",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06904a21f2db805487fcbdc3b3fe9607daaa5d54"
+  }
+}

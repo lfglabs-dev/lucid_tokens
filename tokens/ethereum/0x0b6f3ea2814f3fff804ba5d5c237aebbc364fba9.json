@@ -1,0 +1,18 @@
+{
+  "symbol": "una",
+  "name": "Unagi Token",
+  "address": "0x0B6f3eA2814F3FFf804bA5D5c237aebbc364fba9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34733/thumb/unagi.png?1705922276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9",
+    "binance-smart-chain": "0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9",
+    "polygon-pos": "0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9",
+    "base": "0x24569d33653c404f90af10a2b98d6e0030d3d267"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wxrp",
+  "name": "Wrapped XRP",
+  "address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19952/thumb/WXRP_revision-256px.png?1648530664",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x39fbbabf11738317a448031930706cd3e612e1b9"
+  }
+}

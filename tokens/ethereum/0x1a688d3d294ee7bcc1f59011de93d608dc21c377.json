@@ -1,0 +1,17 @@
+{
+  "symbol": "uco",
+  "name": "Archethic",
+  "address": "0x1A688D3d294ee7BcC1f59011DE93d608Dc21c377",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12330/thumb/uco.png?1639550258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a688d3d294ee7bcc1f59011de93d608dc21c377",
+    "binance-smart-chain": "0xf1e5bbd997501a8439619266a09a54b2b499eaa3",
+    "polygon-pos": "0xaa53b93608c88ee55fad8db4c504fa20e52642ad"
+  }
+}

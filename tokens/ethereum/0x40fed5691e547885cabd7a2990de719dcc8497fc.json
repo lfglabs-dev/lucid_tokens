@@ -1,0 +1,18 @@
+{
+  "symbol": "sha",
+  "name": "Safe Haven",
+  "address": "0x40fEd5691e547885cABd7A2990De719DCc8497FC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2584/thumb/safehaven.png?1620037471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "vechain": "0x5db3c8a942333f6468176a870db36eef120a34dc",
+    "ethereum": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
+    "binance-smart-chain": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
+    "polygon-pos": "0x534f39c5f4df9cb13e16b24ca07c7c8c0e2eadb7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "shib0.5",
+  "name": "Half Shiba Inu",
+  "address": "0x8Eb94A06b4716093DBfE335cbdb098DEb2dcdE1b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28957/thumb/halfshib.jpg?1675737731",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8eb94a06b4716093dbfe335cbdb098deb2dcde1b"
+  }
+}

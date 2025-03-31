@@ -1,0 +1,17 @@
+{
+  "symbol": "susdx",
+  "name": "Stables Labs Staked USDX",
+  "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50836/thumb/100.png?1729256678",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+    "ethereum": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+    "arbitrum-one": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92"
+  }
+}

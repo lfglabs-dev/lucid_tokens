@@ -1,0 +1,15 @@
+{
+  "symbol": "wctc",
+  "name": "Wrapped CTC",
+  "address": "0xAAfec8e08d524D534327fa13fB306F440B5F88EB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54774/thumb/WCTC_32px.png?1741515061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaafec8e08d524d534327fa13fb306f440b5f88eb"
+  }
+}

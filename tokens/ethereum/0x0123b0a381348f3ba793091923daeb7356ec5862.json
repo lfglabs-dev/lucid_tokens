@@ -1,0 +1,18 @@
+{
+  "symbol": "vxx.d",
+  "name": "Dinari VXX",
+  "address": "0x0123b0a381348F3ba793091923DaeB7356ec5862",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x40914f6007da3fcee3c8a6db211b5797848f8882",
+    "ethereum": "0x0123b0a381348f3ba793091923daeb7356ec5862",
+    "blast": "0x32cbb8cdacd90dbec250f9b1e8b06232c6f3297b",
+    "base": "0x0dbff26347082381f035ed54dea12edb6d9ed2f4"
+  }
+}

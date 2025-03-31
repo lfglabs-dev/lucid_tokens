@@ -1,0 +1,16 @@
+{
+  "symbol": "mct",
+  "name": "MicroTuber",
+  "address": "0x6876EbA317272FE221C67405C5e8EB3B24535547",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15489/thumb/mct.PNG?1621040638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6876eba317272fe221c67405c5e8eb3b24535547",
+    "binance-smart-chain": "0x8038b1f3eb4f70436569618530ac96b439d67bae"
+  }
+}

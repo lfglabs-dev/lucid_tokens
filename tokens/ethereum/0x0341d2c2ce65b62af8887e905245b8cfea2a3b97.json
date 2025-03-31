@@ -1,0 +1,16 @@
+{
+  "symbol": "yayageth",
+  "name": "Yay Kelp DAO’s Airdrop Gain ETH",
+  "address": "0x0341d2c2CE65B62aF8887E905245B8CfEA2a3b97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54281/thumb/logo_type.png?1738999005",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0341d2c2ce65b62af8887e905245b8cfea2a3b97",
+    "soneium": "0xda14b3b7aef494b8c37ed9710d14e44d490316fa"
+  }
+}

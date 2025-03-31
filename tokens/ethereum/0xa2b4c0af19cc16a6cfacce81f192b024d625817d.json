@@ -1,0 +1,15 @@
+{
+  "symbol": "kishu",
+  "name": "Kishu Inu",
+  "address": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14890/thumb/uVLzCoP.png?1622445866",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d"
+  }
+}

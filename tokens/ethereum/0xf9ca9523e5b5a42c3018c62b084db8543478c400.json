@@ -1,0 +1,15 @@
+{
+  "symbol": "lake",
+  "name": "Data Lake",
+  "address": "0xF9Ca9523E5b5A42C3018C62B084Db8543478C400",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29279/thumb/VWlCfLlX_400x400.jpeg?1677738702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf9ca9523e5b5a42c3018c62b084db8543478c400"
+  }
+}

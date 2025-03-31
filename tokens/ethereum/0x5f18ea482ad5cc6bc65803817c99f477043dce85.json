@@ -1,0 +1,15 @@
+{
+  "symbol": "agi",
+  "name": "Agility",
+  "address": "0x5F18ea482ad5cc6BC65803817C99f477043DcE85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29781/thumb/photo_2023-04-10_19-57-57.jpg?1681284881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5f18ea482ad5cc6bc65803817c99f477043dce85"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ccd",
+  "name": "Copycat DAO",
+  "address": "0xd8684Adc4664BC2a0C78dDC8657dc005E804AF15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30728/thumb/twitter-logo.jpeg?1686635660",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd8684adc4664bc2a0c78ddc8657dc005e804af15"
+  }
+}

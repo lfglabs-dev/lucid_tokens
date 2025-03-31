@@ -1,0 +1,21 @@
+{
+  "symbol": "matic",
+  "name": "Polygon",
+  "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "moonriver": "0x682f81e57eaa716504090c3ecba8595fb54561d8",
+    "harmony-shard-0": "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5",
+    "moonbeam": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
+    "energi": "0x98997e1651919faeacee7b96afbb3dfd96cb6036",
+    "sora": "0x009134d5c7b7fda8863985531f456f89bef5fbd76684a8acdb737b3e451d0877",
+    "binance-smart-chain": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ltt",
+  "name": "Luxury Travel Token",
+  "address": "0x3F91Ad19AF450B44cf5176b4dE719d77CB19EEc7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37545/thumb/LTT_logo_200x200.png?1714733838",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f91ad19af450b44cf5176b4de719d77cb19eec7"
+  }
+}

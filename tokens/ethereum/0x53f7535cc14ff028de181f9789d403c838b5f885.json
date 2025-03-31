@@ -1,0 +1,15 @@
+{
+  "symbol": "perpx",
+  "name": "Perpex",
+  "address": "0x53F7535Cc14Ff028dE181F9789D403c838B5F885",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37939/thumb/perpex_logo-01_%28Custom%29_%281%29.png?1715966687",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x53f7535cc14ff028de181f9789d403c838b5f885"
+  }
+}

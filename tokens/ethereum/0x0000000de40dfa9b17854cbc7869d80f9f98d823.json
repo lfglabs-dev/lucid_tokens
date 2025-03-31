@@ -1,0 +1,16 @@
+{
+  "symbol": "dlta",
+  "name": "delta.theta",
+  "address": "0x0000000DE40dfa9B17854cBC7869D80f9F98D823",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15697/thumb/logo-DT-square.png?1621570627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0000000de40dfa9b17854cbc7869d80f9f98d823",
+    "binance-smart-chain": "0x3a06212763caf64bf101daa4b0cebb0cd393fa1a"
+  }
+}

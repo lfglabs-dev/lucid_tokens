@@ -1,0 +1,15 @@
+{
+  "symbol": "wanna",
+  "name": "Wanna Bot",
+  "address": "0xa76cec201e939660F8afb1FB8d5865D069dF0750",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36161/thumb/Wanna.Bot_-_Logo_%28CoinGecko%29.png?1710744457",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa76cec201e939660f8afb1fb8d5865d069df0750"
+  }
+}

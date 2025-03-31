@@ -1,0 +1,19 @@
+{
+  "symbol": "swap",
+  "name": "TrustSwap",
+  "address": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11795/thumb/Untitled_design-removebg-preview.png?1626926355",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+    "energi": "0x324a1e5707f356218356c95cfe20d5d9b1440f30",
+    "binance-smart-chain": "0x94eafeeef7ffa66203fdc9349c54d601472a79dc",
+    "avalanche": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+    "polygon-pos": "0x3809dcdd5dde24b37abe64a5a339784c3323c44f"
+  }
+}

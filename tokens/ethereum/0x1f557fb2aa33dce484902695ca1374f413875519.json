@@ -1,0 +1,18 @@
+{
+  "symbol": "ves",
+  "name": "Vestate",
+  "address": "0x1f557FB2aa33Dce484902695cA1374F413875519",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35475/thumb/IMG_0759.png?1708772732",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f557fb2aa33dce484902695ca1374f413875519",
+    "binance-smart-chain": "0x1bc8bf18256d8b45d8367aac50fe2e24fc6aa8ca",
+    "arbitrum-one": "0x1bc8bf18256d8b45d8367aac50fe2e24fc6aa8ca",
+    "polygon-pos": "0x1bc8bf18256d8b45d8367aac50fe2e24fc6aa8ca"
+  }
+}

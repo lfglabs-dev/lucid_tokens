@@ -1,0 +1,16 @@
+{
+  "symbol": "slr",
+  "name": "Solarcoin",
+  "address": "0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/152/thumb/solarcoin.png?1547033860",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xe027d939f7de6f521675907cf086f59e4d75b876",
+    "ethereum": "0x4e9e4ab99cfc14b852f552f5fb3aa68617825b6c"
+  }
+}

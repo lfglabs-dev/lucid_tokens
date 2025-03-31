@@ -1,0 +1,15 @@
+{
+  "symbol": "beef",
+  "name": "PepeBull",
+  "address": "0xbeef698bd78139829e540622D5863E723E8715f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38801/thumb/photo_2024-06-19_17-20-42.png?1718917274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef698bd78139829e540622d5863e723e8715f1"
+  }
+}

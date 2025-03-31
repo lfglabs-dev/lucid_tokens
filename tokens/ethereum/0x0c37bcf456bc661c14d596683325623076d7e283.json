@@ -1,0 +1,15 @@
+{
+  "symbol": "arnx",
+  "name": "Aeron",
+  "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1124/thumb/ARNX-token-logo-256x256.png?1602652111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c37bcf456bc661c14d596683325623076d7e283"
+  }
+}

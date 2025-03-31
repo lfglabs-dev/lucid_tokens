@@ -1,0 +1,15 @@
+{
+  "symbol": "$khamoo",
+  "name": "Khamoo",
+  "address": "0x8f66Cf0F1DB84f8eE2a46352409370A69AE4e059",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53138/thumb/IMG_9642.jpeg?1735374831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f66cf0f1db84f8ee2a46352409370a69ae4e059"
+  }
+}

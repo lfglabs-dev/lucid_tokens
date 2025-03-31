@@ -1,0 +1,15 @@
+{
+  "symbol": "صباح الفر",
+  "name": "Strawberry Elephant",
+  "address": "0xD22a61e8503Bea5842e5e0126ca9fFC4dd492084",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31819/thumb/photo_2023-09-15_23-44-10.jpg?1695205167",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd22a61e8503bea5842e5e0126ca9ffc4dd492084"
+  }
+}

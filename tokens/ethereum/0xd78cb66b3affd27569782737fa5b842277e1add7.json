@@ -1,0 +1,15 @@
+{
+  "symbol": "gtrok",
+  "name": "GTROK",
+  "address": "0xd78cB66B3aFfd27569782737fa5B842277e1ADD7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35643/thumb/20240229_144143.jpg?1709368626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd78cb66b3affd27569782737fa5b842277e1add7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "psyop",
+  "name": "PSYOP",
+  "address": "0x3007083EAA95497cD6B2b809fB97B6A30bdF53D3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30485/thumb/PSYOP200x.png?1684711437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3007083eaa95497cd6b2b809fb97b6a30bdf53d3"
+  }
+}

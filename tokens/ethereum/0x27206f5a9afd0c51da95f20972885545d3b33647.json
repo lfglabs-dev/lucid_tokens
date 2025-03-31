@@ -1,0 +1,15 @@
+{
+  "symbol": "kuku",
+  "name": "KuKu",
+  "address": "0x27206F5a9AFD0C51dA95F20972885545D3B33647",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31177/thumb/IMG_20230801_131536_144.jpg?1691118691",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x27206f5a9afd0c51da95f20972885545d3b33647"
+  }
+}

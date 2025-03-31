@@ -1,0 +1,15 @@
+{
+  "symbol": "ember",
+  "name": "Ember Sword",
+  "address": "0x35F3bAD2FCC8053869086885f7898a3D4309Db4E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38422/thumb/EMBER.jpg?1717486263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x35f3bad2fcc8053869086885f7898a3d4309db4e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cntm",
+  "name": "Connectome",
+  "address": "0x0E5f00DA8AAef196a719d045DB89b5DA8F371b32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8528/thumb/200_200_CNTM-LOGO-07.png?1600751947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e5f00da8aaef196a719d045db89b5da8f371b32"
+  }
+}

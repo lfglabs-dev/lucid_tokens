@@ -1,0 +1,15 @@
+{
+  "symbol": "bonkbest",
+  "name": "BONKBEST",
+  "address": "0xd836d22531d810F192Ba6BD0Ba3c28C35D4606c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34421/thumb/IMG_20240108_204110_824.jpg?1704821712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd836d22531d810f192ba6bd0ba3c28c35d4606c2"
+  }
+}

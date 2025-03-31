@@ -1,0 +1,15 @@
+{
+  "symbol": "eq9",
+  "name": "EQ9",
+  "address": "0x8c444197D64E079323a1eb8D40655910B052F85a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39998/thumb/Group_1000000896_%282%29.png?1725066879",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c444197d64e079323a1eb8d40655910b052f85a"
+  }
+}

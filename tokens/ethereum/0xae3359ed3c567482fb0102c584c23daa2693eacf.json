@@ -1,0 +1,15 @@
+{
+  "symbol": "dork",
+  "name": "DORK",
+  "address": "0xAE3359ed3c567482FB0102C584c23daA2693eACf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32704/thumb/Coin_2.png?1698985483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xae3359ed3c567482fb0102c584c23daa2693eacf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "licker",
+  "name": "Licker",
+  "address": "0x1b3be8fCD2e7C5cE9C5c242E0066FdD9740220d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50212/thumb/VWSFb-KP_400x400.jpg?1726432001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b3be8fcd2e7c5ce9c5c242e0066fdd9740220d0"
+  }
+}

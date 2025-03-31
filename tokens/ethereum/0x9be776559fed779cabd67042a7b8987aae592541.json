@@ -1,0 +1,15 @@
+{
+  "symbol": "$bull",
+  "name": "Bull Market",
+  "address": "0x9Be776559fED779cAbd67042a7B8987AAe592541",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9be776559fed779cabd67042a7b8987aae592541"
+  }
+}

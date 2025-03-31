@@ -1,0 +1,15 @@
+{
+  "symbol": "btcp",
+  "name": "Bitcoin Pro",
+  "address": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3545/thumb/DSiD9ZhWsAE_8cS.png?1547038353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab"
+  }
+}

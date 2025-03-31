@@ -1,0 +1,15 @@
+{
+  "symbol": "dvp",
+  "name": "Decentralized Vulnerability Platform",
+  "address": "0x8E30ea2329D95802Fd804f4291220b0e2F579812",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9424/thumb/4520.png?1568598223",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e30ea2329d95802fd804f4291220b0e2f579812"
+  }
+}

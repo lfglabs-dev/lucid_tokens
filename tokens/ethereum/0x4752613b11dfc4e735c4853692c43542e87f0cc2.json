@@ -1,0 +1,15 @@
+{
+  "symbol": "goofy",
+  "name": "Goofy Inu",
+  "address": "0x4752613b11DFC4E735c4853692c43542e87F0cC2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4752613b11dfc4e735c4853692c43542e87f0cc2"
+  }
+}

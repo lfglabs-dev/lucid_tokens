@@ -1,0 +1,16 @@
+{
+  "symbol": "byn",
+  "name": "NBX",
+  "address": "0x4Bb3205bf648B7F59EF90Dee0F1B62F6116Bc7ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14746/thumb/byn.png?1636079656",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+    "polygon-pos": "0x11602a402281974a70c2b4824d58ebede967e2be"
+  }
+}

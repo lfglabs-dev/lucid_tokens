@@ -1,0 +1,15 @@
+{
+  "symbol": "xrun",
+  "name": "XRun",
+  "address": "0x5833dBB0749887174b254bA4a5df747FF523a905",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25272/thumb/19787.png?1651118626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5833dbb0749887174b254ba4a5df747ff523a905"
+  }
+}

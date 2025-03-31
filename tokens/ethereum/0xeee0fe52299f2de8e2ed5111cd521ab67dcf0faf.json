@@ -1,0 +1,15 @@
+{
+  "symbol": "qwan",
+  "name": "The QWAN",
+  "address": "0xEEe0fE52299f2DE8e2eD5111CD521aB67Dcf0Faf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30613/thumb/qwan.jpg?1685699484",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeee0fe52299f2de8e2ed5111cd521ab67dcf0faf"
+  }
+}

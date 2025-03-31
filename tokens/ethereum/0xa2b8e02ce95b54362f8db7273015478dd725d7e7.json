@@ -1,0 +1,15 @@
+{
+  "symbol": "memecup",
+  "name": "MEME CUP",
+  "address": "0xa2b8e02ce95B54362F8DB7273015478dD725d7e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38807/thumb/MEME_CUP.png?1719003892",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa2b8e02ce95b54362f8db7273015478dd725d7e7"
+  }
+}

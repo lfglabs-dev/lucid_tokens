@@ -1,0 +1,15 @@
+{
+  "symbol": "tsa",
+  "name": "TensorScan AI",
+  "address": "0xf02c2dC9b3cB7F1ba21CCd82dFf4ebC92da8996F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36193/thumb/TensorScanAI_200x200.png?1710762625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f"
+  }
+}

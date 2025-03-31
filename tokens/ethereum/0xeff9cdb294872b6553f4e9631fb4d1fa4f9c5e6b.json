@@ -1,0 +1,15 @@
+{
+  "symbol": "build",
+  "name": "BuildAI",
+  "address": "0xEFF9CDb294872b6553F4E9631Fb4D1fa4F9C5e6B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35460/thumb/etV6ayQT_400x400.jpg?1708675470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeff9cdb294872b6553f4e9631fb4d1fa4f9c5e6b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "peipei",
+  "name": "PeiPei",
+  "address": "0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38512/thumb/PeiPei.png?1717754584",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790"
+  }
+}

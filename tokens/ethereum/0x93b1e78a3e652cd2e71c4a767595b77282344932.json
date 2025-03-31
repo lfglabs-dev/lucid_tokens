@@ -1,0 +1,15 @@
+{
+  "symbol": "bito",
+  "name": "BITO Coin",
+  "address": "0x93b1E78a3e652cd2e71C4a767595B77282344932",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7796/thumb/bitopro_28.png?1550628495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x93b1e78a3e652cd2e71c4a767595b77282344932"
+  }
+}

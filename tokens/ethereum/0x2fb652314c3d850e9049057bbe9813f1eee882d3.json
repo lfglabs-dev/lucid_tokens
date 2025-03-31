@@ -1,0 +1,15 @@
+{
+  "symbol": "rvf",
+  "name": "RocketX Exchange",
+  "address": "0x2fb652314C3d850E9049057bBE9813F1eEe882d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14728/thumb/b-nG1Jsg_400x400.jpg?1637898103",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2fb652314c3d850e9049057bbe9813f1eee882d3"
+  }
+}

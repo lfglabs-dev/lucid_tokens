@@ -1,0 +1,16 @@
+{
+  "symbol": "ilv",
+  "name": "Illuvium",
+  "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14468/thumb/ILV.JPG?1617182121",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+    "energi": "0xa4ecf6d10b8d61d4a022821a6ff8b9536a47c70d"
+  }
+}

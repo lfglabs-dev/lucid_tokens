@@ -1,0 +1,15 @@
+{
+  "symbol": "sdl",
+  "name": "stake.link",
+  "address": "0xA95C5ebB86E0dE73B4fB8c47A45B792CFeA28C23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28406/thumb/stake.png?1670334146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa95c5ebb86e0de73b4fb8c47a45b792cfea28c23"
+  }
+}

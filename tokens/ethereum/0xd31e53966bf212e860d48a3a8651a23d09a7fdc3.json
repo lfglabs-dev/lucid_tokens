@@ -1,0 +1,15 @@
+{
+  "symbol": "dogeai",
+  "name": "DogeAi",
+  "address": "0xD31E53966bF212E860d48a3a8651a23D09a7fDC3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33023/thumb/DogeAI_logo_200x200.png?1700316738",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd31e53966bf212e860d48a3a8651a23d09a7fdc3"
+  }
+}

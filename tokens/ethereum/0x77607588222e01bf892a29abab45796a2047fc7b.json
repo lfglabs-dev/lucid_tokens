@@ -1,0 +1,15 @@
+{
+  "symbol": "ueth",
+  "name": "Unagii ETH",
+  "address": "0x77607588222e01bf892a29Abab45796A2047fc7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14624/thumb/uETH.png?1617294107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77607588222e01bf892a29abab45796a2047fc7b"
+  }
+}

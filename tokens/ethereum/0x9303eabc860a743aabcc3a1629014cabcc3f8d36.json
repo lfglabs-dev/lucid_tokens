@@ -1,0 +1,15 @@
+{
+  "symbol": "aammunidaiweth",
+  "name": "Aave AMM UniDAIWETH",
+  "address": "0x9303EabC860a743aABcc3A1629014CaBcc3F8D36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17230/thumb/aAmmUniDAIWETH.png?1626920804",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9303eabc860a743aabcc3a1629014cabcc3f8d36"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "bles",
+  "name": "Blind Boxes",
+  "address": "0xE796d6ca1ceb1b022EcE5296226BF784110031Cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14537/thumb/BLES-Logo-BW.png?1637158078",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
+    "binance-smart-chain": "0x393d87e44c7b1f5ba521b351532c24ece253b849",
+    "polygon-pos": "0x1b599beb7b1f50807dd58fd7e8ffcf073b435e71"
+  }
+}

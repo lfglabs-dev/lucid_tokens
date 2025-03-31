@@ -1,0 +1,15 @@
+{
+  "symbol": "badcat",
+  "name": "Andy Alter Ego",
+  "address": "0xe4042c7c1Bf740B8DDb2aB43df6d9ED766B2513e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38402/thumb/Bad_Cat_Logo_200x200_CG.png?1717459490",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe4042c7c1bf740b8ddb2ab43df6d9ed766b2513e"
+  }
+}

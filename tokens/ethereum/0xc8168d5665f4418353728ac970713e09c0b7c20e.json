@@ -1,0 +1,15 @@
+{
+  "symbol": "monke",
+  "name": "Monke",
+  "address": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33492/thumb/monlogo_%281%29.jpg?1702029866",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8168d5665f4418353728ac970713e09c0b7c20e"
+  }
+}

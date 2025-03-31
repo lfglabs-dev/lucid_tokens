@@ -1,0 +1,15 @@
+{
+  "symbol": "wozx",
+  "name": "Efforce",
+  "address": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13310/thumb/rZ6Oe3dm_400x400.jpg?1607331889",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f"
+  }
+}

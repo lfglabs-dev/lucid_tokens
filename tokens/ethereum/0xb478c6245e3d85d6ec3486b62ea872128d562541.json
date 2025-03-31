@@ -1,0 +1,15 @@
+{
+  "symbol": "loot",
+  "name": "LootBot",
+  "address": "0xb478c6245e3D85D6EC3486B62ea872128d562541",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30985/thumb/K7dMTTKi_400x400.png?1689472306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb478c6245e3d85d6ec3486b62ea872128d562541"
+  }
+}

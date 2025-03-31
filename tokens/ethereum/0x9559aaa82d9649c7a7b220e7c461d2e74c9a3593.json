@@ -1,0 +1,15 @@
+{
+  "symbol": "reth",
+  "name": "StaFi Staked ETH",
+  "address": "0x9559Aaa82d9649C7A7b220E7c461d2E74c9a3593",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14452/thumb/rETH.png?1616660903",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593"
+  }
+}

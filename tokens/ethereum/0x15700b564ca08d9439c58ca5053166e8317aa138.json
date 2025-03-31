@@ -1,0 +1,15 @@
+{
+  "symbol": "deusd",
+  "name": "Elixir deUSD",
+  "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39494/thumb/elixir.jpg?1722507413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x15700b564ca08d9439c58ca5053166e8317aa138"
+  }
+}

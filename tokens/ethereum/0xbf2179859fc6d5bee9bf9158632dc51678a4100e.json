@@ -1,0 +1,18 @@
+{
+  "symbol": "elf",
+  "name": "aelf",
+  "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1371/thumb/aelf-logo.png?1547035397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "aelf": "ELF_JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE_AELF",
+    "tdvv-sidechain": "ELF_7RzVGiuVWkvL4VfVHdZfQF2Tri3sgLe9U991bohHFfSRZXuGX_tDVV",
+    "ethereum": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+    "binance-smart-chain": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9"
+  }
+}

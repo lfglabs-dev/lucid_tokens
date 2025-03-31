@@ -1,0 +1,15 @@
+{
+  "symbol": "rating",
+  "name": "DPRating",
+  "address": "0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5383/thumb/dprating.png?1547224023",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31"
+  }
+}

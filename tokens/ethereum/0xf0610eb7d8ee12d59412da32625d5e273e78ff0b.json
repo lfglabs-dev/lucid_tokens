@@ -1,0 +1,15 @@
+{
+  "symbol": "mdex",
+  "name": "MasterDEX",
+  "address": "0xf0610eb7d8EE12D59412DA32625d5e273E78FF0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32311/thumb/MASTERDEX_logo-02_%282%29.png?1697188983",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf0610eb7d8ee12d59412da32625d5e273e78ff0b"
+  }
+}

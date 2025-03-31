@@ -1,0 +1,16 @@
+{
+  "symbol": "dapp",
+  "name": "LiquidApps",
+  "address": "0x939B462ee3311f8926c047D2B576C389092b1649",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8116/thumb/dapp-logo.jpg?1554996565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "eos": "",
+    "ethereum": "0x939b462ee3311f8926c047d2b576c389092b1649"
+  }
+}

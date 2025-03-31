@@ -1,0 +1,16 @@
+{
+  "symbol": "rmv",
+  "name": "Reality Metaverse",
+  "address": "0x423352F2c6E0E72422B69Af03aba259310146d90",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29806/thumb/rltm.png?1681362836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x423352f2c6e0e72422b69af03aba259310146d90",
+    "polygon-pos": "0xf0949dd87d2531d665010d6274f06a357669457a"
+  }
+}

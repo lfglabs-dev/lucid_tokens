@@ -1,0 +1,15 @@
+{
+  "symbol": "pepe",
+  "name": "Pepe 2nd Chance",
+  "address": "0x2FB3842189Fc7A699d047D9e647474F27779331d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38461/thumb/WhatsApp_Image_2024-06-03_at_12.06.15.jpeg?1717604689",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2fb3842189fc7a699d047d9e647474f27779331d"
+  }
+}

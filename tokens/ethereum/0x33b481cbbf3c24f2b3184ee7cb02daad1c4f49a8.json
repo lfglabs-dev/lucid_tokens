@@ -1,0 +1,16 @@
+{
+  "symbol": "d",
+  "name": "Dar Open Network",
+  "address": "0x33b481CbBF3c24f2B3184Ee7Cb02dAAD1C4F49A8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53414/thumb/dar.png?1736325510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33b481cbbf3c24f2b3184ee7cb02daad1c4f49a8",
+    "binance-smart-chain": "0x8fb238058e71f828f505582e65b1d14f8cf52067"
+  }
+}

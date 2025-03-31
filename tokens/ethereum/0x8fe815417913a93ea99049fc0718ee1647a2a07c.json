@@ -1,0 +1,16 @@
+{
+  "symbol": "xswap",
+  "name": "XSwap",
+  "address": "0x8Fe815417913a93Ea99049FC0718ee1647A2a07c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36000/thumb/XSwap_Icon_%282%29.png?1710320467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8fe815417913a93ea99049fc0718ee1647a2a07c",
+    "base": "0x8fe815417913a93ea99049fc0718ee1647a2a07c"
+  }
+}

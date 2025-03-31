@@ -1,0 +1,15 @@
+{
+  "symbol": "vega",
+  "name": "Vega Protocol",
+  "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15870/thumb/vega.PNG?1622178218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e"
+  }
+}

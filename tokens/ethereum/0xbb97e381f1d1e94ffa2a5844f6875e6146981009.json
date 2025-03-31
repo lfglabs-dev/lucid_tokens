@@ -1,0 +1,15 @@
+{
+  "symbol": "wbx",
+  "name": "Wibx",
+  "address": "0xbB97e381F1d1e94ffa2A5844F6875e6146981009",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11009/thumb/wibx_new_logo.png?1632122685",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb97e381f1d1e94ffa2a5844f6875e6146981009"
+  }
+}

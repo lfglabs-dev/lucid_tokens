@@ -1,0 +1,15 @@
+{
+  "symbol": "rpgmai",
+  "name": "RPG Maker Ai",
+  "address": "0x96362879529C15C484EaBc861c435940e7AF22bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33869/thumb/RPG.jpeg?1703131629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96362879529c15c484eabc861c435940e7af22bb"
+  }
+}

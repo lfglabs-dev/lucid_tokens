@@ -1,0 +1,15 @@
+{
+  "symbol": "edoge",
+  "name": "EtherDoge",
+  "address": "0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1013/thumb/etherdoge.png?1696502125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5"
+  }
+}

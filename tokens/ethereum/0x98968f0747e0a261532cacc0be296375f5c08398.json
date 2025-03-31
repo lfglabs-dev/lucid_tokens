@@ -1,0 +1,15 @@
+{
+  "symbol": "mooncat",
+  "name": "MOONCAT Vault (NFTX)",
+  "address": "0x98968f0747E0A261532cAcC0BE296375F5c08398",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17055/thumb/Mooncats.png?1626149563",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x98968f0747e0a261532cacc0be296375f5c08398"
+  }
+}

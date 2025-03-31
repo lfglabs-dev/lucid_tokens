@@ -1,0 +1,15 @@
+{
+  "symbol": "flc",
+  "name": "Floor Protocol",
+  "address": "0x102c776DDB30C754dEd4fDcC77A19230A60D4e4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32433/thumb/color.png?1698157468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x102c776ddb30c754ded4fdcc77a19230a60d4e4f"
+  }
+}

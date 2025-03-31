@@ -1,0 +1,16 @@
+{
+  "symbol": "bist",
+  "name": "Bistroo",
+  "address": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15645/thumb/bist.PNG?1621413969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+    "binance-smart-chain": "0xbd525e51384905c6c0936a431bc7efb6c4903ea0"
+  }
+}

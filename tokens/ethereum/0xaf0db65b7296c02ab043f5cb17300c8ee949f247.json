@@ -1,0 +1,15 @@
+{
+  "symbol": "shao",
+  "name": "SHAO",
+  "address": "0xAF0db65B7296c02ab043F5Cb17300c8EE949F247",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54149/thumb/Shaolin-blackring200x200.png?1738475507",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf0db65b7296c02ab043f5cb17300c8ee949f247"
+  }
+}

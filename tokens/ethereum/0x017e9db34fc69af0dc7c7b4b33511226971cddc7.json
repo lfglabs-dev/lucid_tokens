@@ -1,0 +1,15 @@
+{
+  "symbol": "ocd",
+  "name": "On-Chain Dynamics",
+  "address": "0x017E9Db34fC69Af0dC7c7b4b33511226971cDdc7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31639/thumb/Screenshot_2023-09-01_010740.png?1694143537",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x017e9db34fc69af0dc7c7b4b33511226971cddc7"
+  }
+}

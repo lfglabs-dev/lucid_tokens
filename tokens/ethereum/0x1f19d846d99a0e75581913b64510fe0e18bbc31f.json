@@ -1,0 +1,15 @@
+{
+  "symbol": "fgm",
+  "name": "Feels Good Man",
+  "address": "0x1f19D846D99a0E75581913B64510fE0e18BBc31F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37143/thumb/fgm200px.jpg?1713437673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f19d846d99a0e75581913b64510fe0e18bbc31f"
+  }
+}

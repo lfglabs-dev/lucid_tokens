@@ -1,0 +1,16 @@
+{
+  "symbol": "change",
+  "name": "Changex",
+  "address": "0x7051faED0775f664a0286Af4F75ef5ed74e02754",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26487/thumb/ChangeX_logo_19_Jul.png?1658282954",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7051faed0775f664a0286af4f75ef5ed74e02754",
+    "hydra": "bd3c617d271b3467bd9b83dda73c9288de2fb0c9"
+  }
+}

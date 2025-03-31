@@ -1,0 +1,15 @@
+{
+  "symbol": "delay",
+  "name": "DegenLayer",
+  "address": "0x40D4e93b888d5ee9EC61A29a018b199070FfC280",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51652/thumb/degen-pfp-3.png?1731699758",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x40d4e93b888d5ee9ec61a29a018b199070ffc280"
+  }
+}

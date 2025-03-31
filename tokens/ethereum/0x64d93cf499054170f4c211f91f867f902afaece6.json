@@ -1,0 +1,15 @@
+{
+  "symbol": "qai",
+  "name": "Quant AI",
+  "address": "0x64d93cF499054170f4C211F91F867f902aFaEcE6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36987/thumb/Quant_AI.png?1712946921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64d93cf499054170f4c211f91f867f902afaece6"
+  }
+}

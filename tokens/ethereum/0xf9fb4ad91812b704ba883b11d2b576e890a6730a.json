@@ -1,0 +1,15 @@
+{
+  "symbol": "aammweth",
+  "name": "Aave AMM WETH",
+  "address": "0xf9Fb4AD91812b704Ba883B11d2B576E890a6730A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17259/thumb/aAMMWETH_2x.png?1626958225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf9fb4ad91812b704ba883b11d2b576e890a6730a"
+  }
+}

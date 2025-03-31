@@ -1,0 +1,16 @@
+{
+  "symbol": "ducker",
+  "name": "Duckereum",
+  "address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26325/thumb/duckereum-coin-200.png?1657249232",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7",
+    "dogechain": "0x264c1383ea520f73dd837f915ef3a732e204a493"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "rfx",
+  "name": "Reflex",
+  "address": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12745/thumb/2MKGMRCT_400x400.png?1602194456",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x159a1dfae19057de57dfffcbb3da1ae784678965",
+    "binance-smart-chain": "0xb44c63a09adf51f5e62cc7b63628b1b789941fa0"
+  }
+}

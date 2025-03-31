@@ -1,0 +1,15 @@
+{
+  "symbol": "bag",
+  "name": "tehBag",
+  "address": "0x235C8EE913d93c68D2902a8e0b5a643755705726",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28950/thumb/tehBag-Logo.png?1675577312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x235c8ee913d93c68d2902a8e0b5a643755705726"
+  }
+}

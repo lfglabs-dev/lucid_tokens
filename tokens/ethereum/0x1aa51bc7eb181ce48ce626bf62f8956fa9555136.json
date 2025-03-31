@@ -1,0 +1,15 @@
+{
+  "symbol": "paw",
+  "name": "PAWZONE",
+  "address": "0x1AA51bc7eb181ce48CE626Bf62f8956Fa9555136",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29598/thumb/PAW_Token_Logo.png?1679966715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1aa51bc7eb181ce48ce626bf62f8956fa9555136"
+  }
+}

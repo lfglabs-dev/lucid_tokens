@@ -1,0 +1,15 @@
+{
+  "symbol": "cubt",
+  "name": "CubToken",
+  "address": "0xBf9e72eEb5adB8B558334c8672950B7a379D4266",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26197/thumb/photo-2022-04-20-13-35-28.jpg?1656471496",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf9e72eeb5adb8b558334c8672950b7a379d4266"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "nmr",
+  "name": "Numeraire",
+  "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/752/thumb/numeraire.png?1592538976",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+    "energi": "0xd72922e849477a042a7e6dc84309f4bc1c1227a2"
+  }
+}

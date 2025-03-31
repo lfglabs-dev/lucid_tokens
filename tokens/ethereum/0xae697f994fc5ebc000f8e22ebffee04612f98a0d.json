@@ -1,0 +1,15 @@
+{
+  "symbol": "lgcy",
+  "name": "LGCY Network",
+  "address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12181/thumb/LGCY_network.jpg?1597926587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bdp",
+  "name": "Big Data Protocol",
+  "address": "0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14222/thumb/logo_BDP_200.png?1615088501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e"
+  }
+}

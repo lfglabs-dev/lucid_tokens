@@ -1,0 +1,15 @@
+{
+  "symbol": "adp",
+  "name": "Adappter",
+  "address": "0xc314b0E758D5FF74f63e307A86EbfE183C95767b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14203/thumb/logo_on.png?1614909616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc314b0e758d5ff74f63e307a86ebfe183c95767b"
+  }
+}

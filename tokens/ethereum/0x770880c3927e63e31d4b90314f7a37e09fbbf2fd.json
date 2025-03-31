@@ -1,0 +1,15 @@
+{
+  "symbol": "evoai",
+  "name": "EvolvAi",
+  "address": "0x770880c3927E63e31d4B90314f7A37e09fBbF2Fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53439/thumb/logo.jpg?1736371288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x770880c3927e63e31d4b90314f7a37e09fbbf2fd"
+  }
+}

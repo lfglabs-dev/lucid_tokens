@@ -1,0 +1,16 @@
+{
+  "symbol": "00",
+  "name": "00 Token",
+  "address": "0x881Ba05de1E78f549cC63a8f6Cabb1d4AD32250D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27742/thumb/200x200.png?1665623317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d",
+    "the-open-network": "EQAefvvYy8aRTJgbsSprwWIBAKPd_ATcTBUo30RYkHwl1J0C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rad",
+  "name": "Radworks",
+  "address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mf",
+  "name": "MonkeyFi",
+  "address": "0x6768d4D4957A2Ba2EF3f6D4a8883c0042e230BEC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52219/thumb/MonkeyFi_PNG_200x200.png?1732782154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6768d4d4957a2ba2ef3f6d4a8883c0042e230bec"
+  }
+}

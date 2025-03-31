@@ -1,0 +1,15 @@
+{
+  "symbol": "mai",
+  "name": "MAI",
+  "address": "0x71d898c440aF10566CEa48e12C01F435eC788c7A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54290/thumb/mai-logo.jpg?1739009398",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x71d898c440af10566cea48e12c01f435ec788c7a"
+  }
+}

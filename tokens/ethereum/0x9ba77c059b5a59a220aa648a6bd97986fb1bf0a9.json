@@ -1,0 +1,15 @@
+{
+  "symbol": "agsys",
+  "name": "AGENTSYS AI",
+  "address": "0x9ba77C059B5a59a220aa648a6bd97986Fb1bF0a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53419/thumb/WhatsApp_G%C3%B6rsel_2025-01-06_saat_21.03.40_30e1ec8b_%281%29.jpg?1736354449",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ba77c059b5a59a220aa648a6bd97986fb1bf0a9"
+  }
+}

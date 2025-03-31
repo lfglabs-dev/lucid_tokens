@@ -1,0 +1,16 @@
+{
+  "symbol": "sfi",
+  "name": "saffron.finance",
+  "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13117/thumb/sfi_red_250px.png?1606020144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+    "energi": "0x09319044a98e6bb4d95a6c112789afcebe5b58ac"
+  }
+}

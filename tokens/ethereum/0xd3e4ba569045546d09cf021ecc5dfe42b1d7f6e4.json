@@ -1,0 +1,16 @@
+{
+  "symbol": "mnw",
+  "name": "Morpheus Network",
+  "address": "0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2379/thumb/MRPH_CoinGecko.png?1635847791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4",
+    "polygon-pos": "0x3c59798620e5fec0ae6df1a19c6454094572ab92"
+  }
+}

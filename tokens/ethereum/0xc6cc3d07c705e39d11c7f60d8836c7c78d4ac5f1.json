@@ -1,0 +1,15 @@
+{
+  "symbol": "olea",
+  "name": "Olea Token",
+  "address": "0xc6Cc3d07C705E39D11c7f60d8836C7C78D4aC5f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29056/thumb/olea.png?1676340835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc6cc3d07c705e39d11c7f60d8836c7c78d4ac5f1"
+  }
+}

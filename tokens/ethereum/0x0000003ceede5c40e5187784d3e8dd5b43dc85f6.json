@@ -1,0 +1,15 @@
+{
+  "symbol": "cultel",
+  "name": "Cultel",
+  "address": "0x0000003CeeDe5c40E5187784d3E8Dd5b43dC85f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52593/thumb/cultel_200.jpg?1733727679",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0000003ceede5c40e5187784d3e8dd5b43dc85f6"
+  }
+}

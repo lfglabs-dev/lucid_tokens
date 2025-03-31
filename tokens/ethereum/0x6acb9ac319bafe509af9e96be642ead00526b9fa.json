@@ -1,0 +1,20 @@
+{
+  "symbol": "wgc",
+  "name": "Wild Goat Coin",
+  "address": "0x6Acb9Ac319bafe509aF9E96bE642eAd00526B9fA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37966/thumb/wgc.jpeg?1716185156",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "4Eb7ReeT936hX25KMBfYtyP1RWDdd9iixEwGJroACeLC",
+    "optimistic-ethereum": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7",
+    "sui": "0x492ff7bc419c2502604980c486aa291d48f7ffc10e8073f38c59329491f106d5::coin::COIN",
+    "ethereum": "0x6acb9ac319bafe509af9e96be642ead00526b9fa",
+    "polygon-pos": "0x04565fe9aa3ae571ada8e1bebf8282c4e5247b2a",
+    "base": "0xfb18511f1590a494360069f3640c27d55c2b5290"
+  }
+}

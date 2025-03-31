@@ -1,0 +1,19 @@
+{
+  "symbol": "alink",
+  "name": "Aave v3 LINK",
+  "address": "0x5E8C8A7243651DB1384C0dDfDbE39761E8e7E51a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32888/thumb/link.png?1699773900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5e8c8a7243651db1384c0ddfdbe39761e8e7e51a",
+    "optimistic-ethereum": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+    "avalanche": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+    "arbitrum-one": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+    "polygon-pos": "0x191c10aa4af7c30e871e70c95db0e4eb77237530"
+  }
+}

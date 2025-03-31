@@ -1,0 +1,15 @@
+{
+  "symbol": "$vault",
+  "name": "Vault AI",
+  "address": "0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32578/thumb/IMG_6957.jpeg?1698558686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "maxeth",
+  "name": "Max on ETH",
+  "address": "0x68AD75469DB9181a1144E769c16Adf47f2F32Cae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52445/thumb/maxeth_jpg.jpg?1733367084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68ad75469db9181a1144e769c16adf47f2f32cae"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dyad",
+  "name": "Dyad",
+  "address": "0xFd03723a9A3AbE0562451496a9a394D2C4bad4ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39184/thumb/dyadtemplogo.png?1720851453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfd03723a9a3abe0562451496a9a394d2c4bad4ab"
+  }
+}

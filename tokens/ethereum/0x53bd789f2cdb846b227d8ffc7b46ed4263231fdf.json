@@ -1,0 +1,15 @@
+{
+  "symbol": "smbswap",
+  "name": "SimbCoin Swap",
+  "address": "0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16808/thumb/smb.png?1625134960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x53bd789f2cdb846b227d8ffc7b46ed4263231fdf"
+  }
+}

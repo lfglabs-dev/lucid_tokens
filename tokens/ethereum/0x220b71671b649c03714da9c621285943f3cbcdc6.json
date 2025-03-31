@@ -1,0 +1,17 @@
+{
+  "symbol": "dis",
+  "name": "TosDis",
+  "address": "0x220B71671b649c03714dA9c621285943f3cbcDC6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13745/thumb/Tosdis-black.png?1611379744",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x220b71671b649c03714da9c621285943f3cbcdc6",
+    "binance-smart-chain": "0x57effde2759b68d86c544e88f7977e3314144859",
+    "fantom": "0x0e121961dd741c9d49c9a04379da944a9d2fac7a"
+  }
+}

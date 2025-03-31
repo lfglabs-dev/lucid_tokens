@@ -1,0 +1,15 @@
+{
+  "symbol": "rch",
+  "name": "RCH Token",
+  "address": "0x57B96D4aF698605563A4653D882635da59Bf11AF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38554/thumb/rch.png?1717986851",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x57b96d4af698605563a4653d882635da59bf11af"
+  }
+}

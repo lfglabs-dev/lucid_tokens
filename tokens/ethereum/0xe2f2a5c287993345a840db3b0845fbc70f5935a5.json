@@ -1,0 +1,15 @@
+{
+  "symbol": "musd",
+  "name": "mStable USD",
+  "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11576/thumb/mStable_USD.png?1595591803",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "aammusdc",
+  "name": "Aave AMM USDC",
+  "address": "0xd24946147829DEaA935bE2aD85A3291dbf109c80",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17226/thumb/aAMMUSDC_2x.png?1626939994",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd24946147829deaa935be2ad85a3291dbf109c80"
+  }
+}

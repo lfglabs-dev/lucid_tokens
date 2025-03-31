@@ -1,0 +1,15 @@
+{
+  "symbol": "hydra",
+  "name": "HydraDAO",
+  "address": "0xaF04f0912E793620824F4442b03F4d984Af29853",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54421/thumb/hydra-icon.png?1739603226",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf04f0912e793620824f4442b03f4d984af29853"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "warped",
+  "name": "Warped Games",
+  "address": "0x6aF53C6ec427525f7240E211941223288a0E7C66",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33307/thumb/Warped_Games.png?1701405085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6af53c6ec427525f7240e211941223288a0e7c66"
+  }
+}

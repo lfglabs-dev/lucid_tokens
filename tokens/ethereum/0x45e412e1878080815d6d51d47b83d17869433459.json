@@ -1,0 +1,15 @@
+{
+  "symbol": "cto",
+  "name": "Chief Troll Officer",
+  "address": "0x45E412E1878080815D6D51d47B83D17869433459",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34518/thumb/Untitled_design-13.png?1705295928",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x45e412e1878080815d6d51d47b83d17869433459"
+  }
+}

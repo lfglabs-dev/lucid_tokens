@@ -1,0 +1,17 @@
+{
+  "symbol": "lrc",
+  "name": "Loopring",
+  "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/913/thumb/LRC.png?1572852344",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "energi": "0x193da10f8a969d4c081b9097b15337b1488cbbec",
+    "arbitrum-one": "0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe"
+  }
+}

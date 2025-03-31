@@ -1,0 +1,15 @@
+{
+  "symbol": "onic",
+  "name": "Trade Bionic",
+  "address": "0xCDD0d11dE0225b528b3a20d6436392c8260969d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32357/thumb/9ca5f792-9bee-4d1f-942b-7ef09234510d_2.JPG?1697476642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcdd0d11de0225b528b3a20d6436392c8260969d0"
+  }
+}

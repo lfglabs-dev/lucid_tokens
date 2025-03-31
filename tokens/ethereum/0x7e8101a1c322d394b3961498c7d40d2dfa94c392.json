@@ -1,0 +1,19 @@
+{
+  "symbol": "wbnvda",
+  "name": "Wrapped bNVDA",
+  "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54430/thumb/bNVDA_200x200.png?1739606241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+    "xdai": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+    "ethereum": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+    "avalanche": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+    "polygon-pos": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392"
+  }
+}

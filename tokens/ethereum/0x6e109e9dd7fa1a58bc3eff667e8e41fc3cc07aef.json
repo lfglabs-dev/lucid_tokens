@@ -1,0 +1,15 @@
+{
+  "symbol": "cnht",
+  "name": "CNH Tether",
+  "address": "0x6E109E9dD7Fa1a58BC3eff667e8e41fC3cc07AEF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5251/thumb/cny-tether-logo.png?1547040741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "graf",
+  "name": "Graffiti",
+  "address": "0x5138EBe7acaAE209d6F0B651E4D02a67EF61f436",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37639/thumb/graffiti.jpg?1715105663",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5138ebe7acaae209d6f0b651e4d02a67ef61f436"
+  }
+}

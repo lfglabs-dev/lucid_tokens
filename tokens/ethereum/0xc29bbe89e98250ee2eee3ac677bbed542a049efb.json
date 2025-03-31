@@ -1,0 +1,16 @@
+{
+  "symbol": "cdn",
+  "name": "CEDEN",
+  "address": "0xC29bBE89E98250eE2eee3ac677BbeD542A049EFB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38667/thumb/CEDEN-256-B_W.png?1718258950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "beam": "0x2dd1daed2951aec5ba360acb3256473181ef9751",
+    "ethereum": "0xc29bbe89e98250ee2eee3ac677bbed542a049efb"
+  }
+}

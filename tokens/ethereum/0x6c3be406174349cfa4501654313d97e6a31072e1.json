@@ -1,0 +1,15 @@
+{
+  "symbol": "cnns",
+  "name": "CNNS",
+  "address": "0x6c3BE406174349cfa4501654313d97e6a31072e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8362/thumb/cnns.png?1557992686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c3be406174349cfa4501654313d97e6a31072e1"
+  }
+}

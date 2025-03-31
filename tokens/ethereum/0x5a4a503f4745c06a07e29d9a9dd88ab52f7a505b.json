@@ -1,0 +1,15 @@
+{
+  "symbol": "mankreth",
+  "name": "Eigenpie ankrETH",
+  "address": "0x5A4A503F4745c06A07E29D9a9DD88aB52f7a505B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37170/thumb/mankrETH.png?1713508127",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5a4a503f4745c06a07e29d9a9dd88ab52f7a505b"
+  }
+}

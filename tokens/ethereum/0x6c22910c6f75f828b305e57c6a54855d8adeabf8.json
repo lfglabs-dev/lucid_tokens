@@ -1,0 +1,15 @@
+{
+  "symbol": "sats",
+  "name": "Satoshis Vision",
+  "address": "0x6C22910c6F75F828B305e57c6a54855D8adeAbf8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29303/thumb/SATS_123-removebg-preview_%281%29.png?1677918446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c22910c6f75f828b305e57c6a54855d8adeabf8"
+  }
+}

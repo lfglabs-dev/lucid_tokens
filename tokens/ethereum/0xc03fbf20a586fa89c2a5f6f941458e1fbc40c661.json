@@ -1,0 +1,16 @@
+{
+  "symbol": "combo",
+  "name": "COMBO",
+  "address": "0xc03fBF20A586fa89C2a5f6F941458E1Fbc40c661",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4932/thumb/_QPpjoUi_400x400.jpg?1566430520",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661",
+    "binance-smart-chain": "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661"
+  }
+}

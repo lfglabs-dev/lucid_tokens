@@ -1,0 +1,15 @@
+{
+  "symbol": "vstr",
+  "name": "Vestra DAO",
+  "address": "0x92D5942f468447f1F21c2092580F15544923b434",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51358/thumb/logo200x200.png?1730877859",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x92d5942f468447f1f21c2092580f15544923b434"
+  }
+}

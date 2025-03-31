@@ -1,0 +1,15 @@
+{
+  "symbol": "vib",
+  "name": "Viberate",
+  "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/983/thumb/Viberate.png?1547034873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724"
+  }
+}

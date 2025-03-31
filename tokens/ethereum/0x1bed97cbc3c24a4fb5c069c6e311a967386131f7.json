@@ -1,0 +1,15 @@
+{
+  "symbol": "yeth",
+  "name": "Yearn Ether",
+  "address": "0x1BED97CBC3c24A4fb5C069C6E311a967386131f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32220/thumb/eth_%281%29.png?1696833748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7"
+  }
+}

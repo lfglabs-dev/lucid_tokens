@@ -1,0 +1,18 @@
+{
+  "symbol": "pall.d",
+  "name": "Dinari PALL",
+  "address": "0x328a9bC033B22dE0B82762c49762cE1440b45d4b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7a2abf0543674ba1bb618b1e88118e8a4fefab48",
+    "ethereum": "0x328a9bc033b22de0b82762c49762ce1440b45d4b",
+    "blast": "0x56de5c6c56f92ecf2da286ea81a0fb74b25f9579",
+    "base": "0x314936e9cdc0df06941d2e84949a58e0f5f82e6a"
+  }
+}

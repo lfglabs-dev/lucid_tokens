@@ -1,0 +1,15 @@
+{
+  "symbol": "spct",
+  "name": "Spectra Chain",
+  "address": "0x02020595E6a34a03a8E9c1f5624b1b7713810083",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36791/thumb/0x02020595e6a34a03a8e9c1f5624b1b7713810083.jpg?1712421016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x02020595e6a34a03a8e9c1f5624b1b7713810083"
+  }
+}

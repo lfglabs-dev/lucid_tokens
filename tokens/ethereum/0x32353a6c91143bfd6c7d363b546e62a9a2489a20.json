@@ -1,0 +1,15 @@
+{
+  "symbol": "agld",
+  "name": "Adventure Gold",
+  "address": "0x32353A6C91143bfd6C7d363B546e62a9A2489A20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18125/thumb/lpgblc4h_400x400.jpg?1630570955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20"
+  }
+}

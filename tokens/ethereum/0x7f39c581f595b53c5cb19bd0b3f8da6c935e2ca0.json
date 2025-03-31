@@ -1,0 +1,16 @@
+{
+  "symbol": "wsteth",
+  "name": "Wrapped stETH",
+  "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "unichain": "0xc02fe7317d4eb8753a02c35fe019786854a92001"
+  }
+}

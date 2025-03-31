@@ -1,0 +1,15 @@
+{
+  "symbol": "kif",
+  "name": "KittenFinance",
+  "address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12340/thumb/SnQPkABT_400x400.png?1599173267",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa"
+  }
+}

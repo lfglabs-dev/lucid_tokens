@@ -1,0 +1,16 @@
+{
+  "symbol": "abyss",
+  "name": "Abyss",
+  "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2105/thumb/NrFmpxs.png?1600318377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+    "harmony-shard-0": "0xa52d0c7943cc1020a926b23dd1c64fc60b4fadde"
+  }
+}

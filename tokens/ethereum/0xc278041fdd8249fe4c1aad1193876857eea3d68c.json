@@ -1,0 +1,15 @@
+{
+  "symbol": "idletusdyield",
+  "name": "IdleTUSD (Best Yield)",
+  "address": "0xc278041fDD8249FE4c1Aad1193876857EEa3D68c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11935/thumb/idletusdv3mMaxyield_32.png?1596263719",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc278041fdd8249fe4c1aad1193876857eea3d68c"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "pulse",
+  "name": "PulseMarkets",
+  "address": "0x52A047Ee205701895Ee06A375492490EC9C597cE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19011/thumb/photo_2021-11-11_06-24-09.jpg?1636616734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x52a047ee205701895ee06a375492490ec9c597ce",
+    "near-protocol": "52a047ee205701895ee06a375492490ec9c597ce.factory.bridge.near"
+  }
+}

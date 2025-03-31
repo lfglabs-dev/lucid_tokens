@@ -1,0 +1,15 @@
+{
+  "symbol": "lila",
+  "name": "LiquidLayer",
+  "address": "0x96aDD417293a49E80f024734e96CFd8b355bCc14",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32547/thumb/photo_2023-10-08_12-09-02.jpg?1698474657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96add417293a49e80f024734e96cfd8b355bcc14"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "eai",
+  "name": "EternalAI",
+  "address": "0xa84f95eb3DaBdc1bbD613709ef5F2fD42CE5bE8d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38140/thumb/H9TFKXlh_400x400.png?1716588247",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa84f95eb3dabdc1bbd613709ef5f2fd42ce5be8d"
+  }
+}

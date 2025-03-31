@@ -1,0 +1,15 @@
+{
+  "symbol": "pepe",
+  "name": "NEWPEPE",
+  "address": "0xA57Ed6E54be8125BBE45D6cA330E45EbB71ef11e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31729/thumb/photo_2023-09-12_02-04-48_%282%29.jpg?1694664495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa57ed6e54be8125bbe45d6ca330e45ebb71ef11e"
+  }
+}

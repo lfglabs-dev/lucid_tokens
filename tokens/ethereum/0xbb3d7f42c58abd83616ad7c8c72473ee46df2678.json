@@ -1,0 +1,15 @@
+{
+  "symbol": "chat",
+  "name": "VectorChat.ai",
+  "address": "0xBb3D7F42C58Abd83616Ad7C8C72473Ee46df2678",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33969/thumb/gecko.png?1703576146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb3d7f42c58abd83616ad7c8c72473ee46df2678"
+  }
+}

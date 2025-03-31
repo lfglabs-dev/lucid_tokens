@@ -1,0 +1,15 @@
+{
+  "symbol": "pxeth",
+  "name": "Dinero Staked ETH",
+  "address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33608/thumb/pxETH-icon-transbg_72dpi.png?1702512024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6"
+  }
+}

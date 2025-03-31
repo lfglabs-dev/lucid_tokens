@@ -1,0 +1,15 @@
+{
+  "symbol": "cfgi",
+  "name": "CFGI",
+  "address": "0xF75302720787c2a2176C87b1919059c4eAAc8B98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53311/thumb/avatar.png?1736067990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf75302720787c2a2176c87b1919059c4eaac8b98"
+  }
+}

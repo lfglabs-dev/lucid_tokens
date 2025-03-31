@@ -1,0 +1,15 @@
+{
+  "symbol": "jeff",
+  "name": "Jeff",
+  "address": "0xF831938CaF837cd505dE196BBb408D81A06376ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30222/thumb/photo_2023-05-06_23.53.02.jpeg?1683629068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf831938caf837cd505de196bbb408d81a06376ab"
+  }
+}

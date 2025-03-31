@@ -1,0 +1,15 @@
+{
+  "symbol": "ferc",
+  "name": "FairERC20",
+  "address": "0x2eCBa91da63C29EA80Fbe7b52632CA2d1F8e5Be0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30698/thumb/fair.png?1686541302",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2ecba91da63c29ea80fbe7b52632ca2d1f8e5be0"
+  }
+}

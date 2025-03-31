@@ -1,0 +1,15 @@
+{
+  "symbol": "jay",
+  "name": "Jaypeggers",
+  "address": "0xDA7C0810cE6F8329786160bb3d1734cf6661CA6E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30074/thumb/jay.jpg?1683011694",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda7c0810ce6f8329786160bb3d1734cf6661ca6e"
+  }
+}

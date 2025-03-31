@@ -1,0 +1,15 @@
+{
+  "symbol": "paired",
+  "name": "PairedWorld",
+  "address": "0xa7F3508cfcF054Cc9cf1440580B78784E07382dB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37998/thumb/PAIRED.jpg?1716258168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa7f3508cfcf054cc9cf1440580b78784e07382db"
+  }
+}

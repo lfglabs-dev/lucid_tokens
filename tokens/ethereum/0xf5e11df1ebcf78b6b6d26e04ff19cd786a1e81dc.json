@@ -1,0 +1,17 @@
+{
+  "symbol": "bbtc",
+  "name": "BounceBit BTC",
+  "address": "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37985/thumb/bbtc_icon.png?1716215414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "bouncebit": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc",
+    "ethereum": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc",
+    "binance-smart-chain": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "mm",
+  "name": "Million",
+  "address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16825/thumb/logo200x200.png?1625834139",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
+    "tomochain": "0x0f320856fa4bc7e4030a6ab989d494c5e4d58308",
+    "binance-smart-chain": "0xbf05279f9bf1ce69bbfed670813b7e431142afa4"
+  }
+}

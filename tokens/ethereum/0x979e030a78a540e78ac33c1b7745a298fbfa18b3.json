@@ -1,0 +1,15 @@
+{
+  "symbol": "gpul",
+  "name": "GPULABS",
+  "address": "0x979E030a78A540e78AC33C1B7745a298fbFA18B3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50534/thumb/jhukljh.jpg?1728215194",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x979e030a78a540e78ac33c1b7745a298fbfa18b3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "forward",
+  "name": "Forward",
+  "address": "0x01824357D7D7EAF4677Bc17786aBd26CBdEc9Ad7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20866/thumb/182860872_110384464503974_4805876988713020861_n.png?1696520260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x01824357d7d7eaf4677bc17786abd26cbdec9ad7",
+    "binance-smart-chain": "0x886640149e31e1430fa74cc39725431eb82ddfb2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ageth",
+  "name": "Kelp Gain",
+  "address": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39677/thumb/Icon___Dark.png?1723610897",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe1b4d34e8754600962cd944b535180bd758e6c2e"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "premia",
+  "name": "Premia",
+  "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13962/thumb/apple-touch-icon.png?1623679482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+    "optimistic-ethereum": "0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a",
+    "fantom": "0x3028b4395f98777123c7da327010c40f3c7cc4ef",
+    "arbitrum-one": "0x51fc0f6660482ea73330e414efd7808811a57fa2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "taproot",
+  "name": "Taproot",
+  "address": "0x07B701aC44Aacb03d8Bed42eb85Ec38210bDf513",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35368/thumb/200.png?1708401189",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07b701ac44aacb03d8bed42eb85ec38210bdf513"
+  }
+}

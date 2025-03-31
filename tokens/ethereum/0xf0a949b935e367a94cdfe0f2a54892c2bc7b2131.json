@@ -1,0 +1,16 @@
+{
+  "symbol": "ultraeths",
+  "name": "Affine ultraETHs 2.0",
+  "address": "0xF0a949B935e367A94cDFe0F2A54892C2BC7b2131",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39864/thumb/affine-ultra-eths-cg-logo.png?1724379373",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf0a949b935e367a94cdfe0f2a54892c2bc7b2131",
+    "blast": "0xbb4e01b8940e8e2b3a95ced7941969d033786ff7"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "amu",
+  "name": "Amulet Protocol",
+  "address": "0x174c47D6A4E548ED2B7d369dC0fFb2E60A6ac0F8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34716/thumb/AMT200x200.png?1705904544",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "AMUwxPsqWSd1fbCGzWsrRKDcNoduuWMkdR38qPdit8G8",
+    "optimistic-ethereum": "0x5c0ea461fe5e6f3b4f90a071e72243c14c6abfd7",
+    "polygon-zkevm": "0xd507361174a0fde521bf8c097ef19dd31ffca710",
+    "ethereum": "0x174c47d6a4e548ed2b7d369dc0ffb2e60a6ac0f8"
+  }
+}

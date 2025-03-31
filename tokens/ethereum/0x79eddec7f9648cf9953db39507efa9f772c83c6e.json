@@ -1,0 +1,15 @@
+{
+  "symbol": "moka",
+  "name": "Mokens League",
+  "address": "0x79edDec7F9648Cf9953db39507efA9f772C83c6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50326/thumb/logo_moka_200x200.png?1727162318",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x79eddec7f9648cf9953db39507efa9f772c83c6e"
+  }
+}

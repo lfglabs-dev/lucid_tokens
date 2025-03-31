@@ -1,0 +1,15 @@
+{
+  "symbol": "ddx",
+  "name": "DerivaDAO",
+  "address": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13453/thumb/ddx_logo.png?1608741641",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3a880652f47bfaa771908c07dd8673a787daed3a"
+  }
+}

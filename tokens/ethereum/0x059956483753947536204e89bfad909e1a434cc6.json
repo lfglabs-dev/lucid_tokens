@@ -1,0 +1,15 @@
+{
+  "symbol": "ml",
+  "name": "Mintlayer",
+  "address": "0x059956483753947536204e89bfaD909E1a434Cc6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29454/thumb/Logo_Only__-_200x200.png?1678949857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x059956483753947536204e89bfad909e1a434cc6"
+  }
+}

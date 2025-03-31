@@ -1,0 +1,15 @@
+{
+  "symbol": "omochi",
+  "name": "Omochi the Frog",
+  "address": "0x888888aE2c4A298EFd66D162fFC53b3F2a869888",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38746/thumb/IMAGE_2024-06-16_08_36_13-removebg-preview.png?1718680696",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x888888ae2c4a298efd66d162ffc53b3f2a869888"
+  }
+}

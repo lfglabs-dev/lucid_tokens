@@ -1,0 +1,18 @@
+{
+  "symbol": "dyl",
+  "name": "Dyl",
+  "address": "0x7a8946EDA77817126ffE301249f6DC4C7Df293C3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32550/thumb/Dyl-pfp-200x.png?1698479973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7a8946eda77817126ffe301249f6dc4c7df293c3",
+    "polygon-pos": "0x4a506181f07da5ddfda4ca4c2fa4c67001db94b4",
+    "base": "0x4a506181f07da5ddfda4ca4c2fa4c67001db94b4",
+    "solana": "DTUW2CFo71KnTNSFYX95jQ8P8aJVQVr8MEF1AGMm5WGm"
+  }
+}

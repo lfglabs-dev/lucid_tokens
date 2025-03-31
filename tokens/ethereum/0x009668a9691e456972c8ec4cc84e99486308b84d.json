@@ -1,0 +1,15 @@
+{
+  "symbol": "tera",
+  "name": "Terareum [OLD]",
+  "address": "0x009668A9691e456972c8ec4Cc84e99486308b84D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23880/thumb/Tera-200x200-1.png?1645600935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x009668a9691e456972c8ec4cc84e99486308b84d"
+  }
+}

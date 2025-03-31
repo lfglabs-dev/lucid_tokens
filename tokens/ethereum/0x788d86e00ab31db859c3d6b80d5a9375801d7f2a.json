@@ -1,0 +1,15 @@
+{
+  "symbol": "tenet",
+  "name": "TENET",
+  "address": "0x788D86E00ab31Db859C3d6b80d5a9375801d7f2A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30108/thumb/200.png?1683089969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x788d86e00ab31db859c3d6b80d5a9375801d7f2a"
+  }
+}

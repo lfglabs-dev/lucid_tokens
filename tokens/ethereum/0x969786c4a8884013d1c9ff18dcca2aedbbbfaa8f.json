@@ -1,0 +1,17 @@
+{
+  "symbol": "lfg",
+  "name": "Gamerse",
+  "address": "0x969786c4A8884013d1c9fF18dCCA2aeDbbBfAa8F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19582/thumb/gamerse.PNG?1635470285",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf93f6b686f4a6557151455189a9173735d668154",
+    "ethereum": "0x969786c4a8884013d1c9ff18dcca2aedbbbfaa8f",
+    "polygon-pos": "0x411be1e071675df40fe1c08ca760bb7aa707cedf"
+  }
+}

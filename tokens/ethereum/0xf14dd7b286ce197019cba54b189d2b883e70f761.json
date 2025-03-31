@@ -1,0 +1,15 @@
+{
+  "symbol": "peezy",
+  "name": "Young Peezy",
+  "address": "0xF14DD7B286cE197019CBA54b189d2B883E70f761",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37943/thumb/photo_2024-05-16_00-52-52.jpg?1715968698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf14dd7b286ce197019cba54b189d2b883e70f761"
+  }
+}

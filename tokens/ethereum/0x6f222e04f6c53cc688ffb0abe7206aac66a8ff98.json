@@ -1,0 +1,15 @@
+{
+  "symbol": "roko",
+  "name": "Roko Network",
+  "address": "0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29427/thumb/1.618_200.jpg?1678763790",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "nitefeeder",
+  "name": "Nitefeeder",
+  "address": "0x85F7cFe910393fB5593C65230622AA597e4223f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37126/thumb/Nitefeeder_Logo_200x200.png?1713372066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x85f7cfe910393fb5593c65230622aa597e4223f1"
+  }
+}

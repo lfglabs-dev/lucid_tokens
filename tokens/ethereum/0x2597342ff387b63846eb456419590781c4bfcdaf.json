@@ -1,0 +1,15 @@
+{
+  "symbol": "taxi",
+  "name": "Robotaxi",
+  "address": "0x2597342ff387B63846eb456419590781C4bfCdAF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50564/thumb/Robotaxi.png?1728371580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2597342ff387b63846eb456419590781c4bfcdaf"
+  }
+}

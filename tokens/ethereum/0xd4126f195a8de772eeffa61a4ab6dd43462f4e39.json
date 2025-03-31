@@ -1,0 +1,15 @@
+{
+  "symbol": "hikari",
+  "name": "Hikari Protocol",
+  "address": "0xd4126f195a8de772EeFfa61a4aB6dd43462F4e39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28953/thumb/HIKARI.png?1675585665",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd4126f195a8de772eeffa61a4ab6dd43462f4e39"
+  }
+}

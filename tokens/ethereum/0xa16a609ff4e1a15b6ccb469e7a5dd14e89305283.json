@@ -1,0 +1,15 @@
+{
+  "symbol": "spume",
+  "name": "Spume",
+  "address": "0xa16a609fF4e1A15b6cCb469E7a5dD14E89305283",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27089/thumb/D6lMeW9k_400x400.jpeg?1661824399",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa16a609ff4e1a15b6ccb469e7a5dd14e89305283"
+  }
+}

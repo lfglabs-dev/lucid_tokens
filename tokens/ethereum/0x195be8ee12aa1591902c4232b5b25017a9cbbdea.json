@@ -1,0 +1,15 @@
+{
+  "symbol": "popo",
+  "name": "POPO",
+  "address": "0x195bE8ee12AA1591902C4232B5B25017A9cBBDeA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38051/thumb/popotrans.jpg?1716403044",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x195be8ee12aa1591902c4232b5b25017a9cbbdea"
+  }
+}

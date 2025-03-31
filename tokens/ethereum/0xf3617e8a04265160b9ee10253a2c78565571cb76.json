@@ -1,0 +1,15 @@
+{
+  "symbol": "blepe",
+  "name": "Blepe the Blue",
+  "address": "0xF3617E8a04265160B9ee10253A2c78565571Cb76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35391/thumb/photo_2024-02-20_03.15.26.jpeg?1708452233",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf3617e8a04265160b9ee10253a2c78565571cb76"
+  }
+}

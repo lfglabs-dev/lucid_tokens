@@ -1,0 +1,15 @@
+{
+  "symbol": "hachi",
+  "name": "HACHI-KUN",
+  "address": "0x100891Bf73ba8274C234Aa34621BC626ED6ECA8e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39634/thumb/Screenshot_2024-08-08_211348.png?1723266946",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x100891bf73ba8274c234aa34621bc626ed6eca8e"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "1mil",
+  "name": "1MillionNFTs",
+  "address": "0xa4eF4b0B23C1fc81d3f9ecF93510e64f58A4A016",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14990/thumb/4kQ8hRnU_400x400.jpg?1619334818",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
+    "near-protocol": "a4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016.factory.bridge.near"
+  }
+}

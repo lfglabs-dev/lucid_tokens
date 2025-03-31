@@ -1,0 +1,15 @@
+{
+  "symbol": "wicked",
+  "name": "Wicked",
+  "address": "0xed2D1Ef84a6a07dD49E8cA934908E9De005b7824",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50565/thumb/apple-touch-icon.png?1728371797",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed2d1ef84a6a07dd49e8ca934908e9de005b7824"
+  }
+}

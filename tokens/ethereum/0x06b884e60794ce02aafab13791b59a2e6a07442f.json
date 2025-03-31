@@ -1,0 +1,16 @@
+{
+  "symbol": "unbnk",
+  "name": "Unbanked",
+  "address": "0x06B884e60794Ce02AafAb13791B59A2e6A07442f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20171/thumb/logo_-_2021-11-11T115427.135.png?1636602880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06b884e60794ce02aafab13791b59a2e6a07442f",
+    "stellar": "UNBNK-GDJVTMIPLJXBBWXOC2KN6DSEBROPUQHN6H5QS7U3CC5L2ORU3YDNW6CG"
+  }
+}

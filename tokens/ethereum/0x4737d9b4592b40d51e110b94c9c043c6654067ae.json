@@ -1,0 +1,15 @@
+{
+  "symbol": "slvlusd",
+  "name": "Staked Level USD",
+  "address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54094/thumb/slvlusd.png?1738222536",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4737d9b4592b40d51e110b94c9c043c6654067ae"
+  }
+}

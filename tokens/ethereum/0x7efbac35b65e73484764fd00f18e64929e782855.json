@@ -1,0 +1,15 @@
+{
+  "symbol": "cifi",
+  "name": "CIFI",
+  "address": "0x7efBAC35B65e73484764Fd00F18E64929E782855",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37806/thumb/200x200.png?1715591477",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7efbac35b65e73484764fd00f18e64929e782855"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "lba",
+  "name": "Libra Credit",
+  "address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3673/thumb/libra-credit.png?1547975828",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657"
+  }
+}

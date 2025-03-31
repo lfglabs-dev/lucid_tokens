@@ -1,0 +1,15 @@
+{
+  "symbol": "mind",
+  "name": "Eternal AI",
+  "address": "0x60927b83DdD2096f38f22a8A2D84cf863402d1A1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33340/thumb/download.png?1701525697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60927b83ddd2096f38f22a8a2d84cf863402d1a1"
+  }
+}

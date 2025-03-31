@@ -1,0 +1,15 @@
+{
+  "symbol": "cswap",
+  "name": "ChainSwap",
+  "address": "0xae41b275aaAF484b541A5881a2dDED9515184CCA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35888/thumb/ChainSwap.png?1710121063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xae41b275aaaf484b541a5881a2dded9515184cca"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "sashimi",
+  "name": "Sashimi",
+  "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12427/thumb/SashimiSwap-200x200.png?1601347413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc28e27870558cf22add83540d2126da2e4b464c2"
+  }
+}

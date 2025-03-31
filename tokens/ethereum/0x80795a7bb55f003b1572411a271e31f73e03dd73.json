@@ -1,0 +1,15 @@
+{
+  "symbol": "daumen",
+  "name": "daumenfrosch",
+  "address": "0x80795A7bb55f003B1572411A271e31f73E03Dd73",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38848/thumb/daumenfrosch.png?1719212385",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80795a7bb55f003b1572411a271e31f73e03dd73"
+  }
+}

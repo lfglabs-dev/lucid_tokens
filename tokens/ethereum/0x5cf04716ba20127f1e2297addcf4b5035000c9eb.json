@@ -1,0 +1,15 @@
+{
+  "symbol": "nkn",
+  "name": "NKN",
+  "address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3375/thumb/nkn.png?1548329212",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb"
+  }
+}

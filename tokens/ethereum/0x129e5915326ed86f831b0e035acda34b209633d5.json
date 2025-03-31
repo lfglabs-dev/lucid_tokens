@@ -1,0 +1,15 @@
+{
+  "symbol": "papple",
+  "name": "Pineapple",
+  "address": "0x129E5915326eD86f831b0e035AcdA34b209633D5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54488/thumb/IMG_3321.png?1739993107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x129e5915326ed86f831b0e035acda34b209633d5"
+  }
+}

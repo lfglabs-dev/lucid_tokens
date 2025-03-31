@@ -1,0 +1,15 @@
+{
+  "symbol": "modex",
+  "name": "Modex",
+  "address": "0x4bceA5E4d0F6eD53cf45e7a28FebB2d3621D7438",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2851/thumb/LhWIeAg.png?1602566568",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438"
+  }
+}

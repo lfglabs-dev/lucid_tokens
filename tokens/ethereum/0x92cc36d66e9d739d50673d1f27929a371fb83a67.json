@@ -1,0 +1,28 @@
+{
+  "symbol": "wagmi",
+  "name": "Wagmi",
+  "address": "0x92CC36D66e9d739D50673d1f27929a371FB83a67",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1695372579",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "metis-andromeda": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "optimistic-ethereum": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "zksync": "0x3613ad277df1d5935d41400a181aa9ec1dc2dc9e",
+    "iota-evm": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "sonic": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
+    "kava": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "ethereum": "0x92cc36d66e9d739d50673d1f27929a371fb83a67",
+    "binance-smart-chain": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "fantom": "0xb1f795776cb9ddac6e7e162f31c7419dd3d48297",
+    "avalanche": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "arbitrum-one": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "polygon-pos": "0x07ed33a242bd9c08ca3c198e01189e35265024da",
+    "base": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "solana": "Hb4m5r21uoA1rWiNFBJgWN8W52QYbw6UV9jAQDbGNsqH"
+  }
+}

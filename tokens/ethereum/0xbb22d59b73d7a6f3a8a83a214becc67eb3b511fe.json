@@ -1,0 +1,15 @@
+{
+  "symbol": "xreth",
+  "name": "Constellation Staked ETH",
+  "address": "0xBB22d59B73D7a6F3A8a83A214BECc67Eb3b511fE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50951/thumb/token-xreth.png?1729586118",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb22d59b73d7a6f3a8a83a214becc67eb3b511fe"
+  }
+}

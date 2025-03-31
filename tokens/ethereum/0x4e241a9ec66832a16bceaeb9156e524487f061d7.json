@@ -1,0 +1,15 @@
+{
+  "symbol": "etf",
+  "name": "ETF Rocks",
+  "address": "0x4E241A9EC66832a16bceaeB9156E524487f061D7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34633/thumb/logo-etf-color-200x200.png?1705548981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e241a9ec66832a16bceaeb9156e524487f061d7"
+  }
+}

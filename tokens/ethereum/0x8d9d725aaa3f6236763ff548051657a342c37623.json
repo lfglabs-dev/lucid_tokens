@@ -1,0 +1,15 @@
+{
+  "symbol": "ned",
+  "name": "NED",
+  "address": "0x8d9d725AAA3f6236763Ff548051657A342C37623",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34704/thumb/NED_logo_%281%29.png?1705891856",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8d9d725aaa3f6236763ff548051657a342c37623"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "unv",
+  "name": "Unvest",
+  "address": "0xdcb2Fa7eAB2507613417Bb9762eFa73093fc6b65",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18119/thumb/unvest.PNG?1630554868",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdcb2fa7eab2507613417bb9762efa73093fc6b65",
+    "blast": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "optimistic-ethereum": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "binance-smart-chain": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "avalanche": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "arbitrum-one": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "polygon-pos": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "base": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db"
+  }
+}

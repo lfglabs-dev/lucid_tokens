@@ -1,0 +1,15 @@
+{
+  "symbol": "pyra",
+  "name": "Pyramid Financial",
+  "address": "0x77777bf11AB5b96753EA48e0401667a70675841E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51483/thumb/IMG_4736.jpeg?1731404911",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77777bf11ab5b96753ea48e0401667a70675841e"
+  }
+}

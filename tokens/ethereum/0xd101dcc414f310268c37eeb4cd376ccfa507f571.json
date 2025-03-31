@@ -1,0 +1,16 @@
+{
+  "symbol": "rsc",
+  "name": "ResearchCoin",
+  "address": "0xD101dCC414F310268c37eEb4cD376CcFA507F571",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28146/thumb/RH_Flask_Logo_%281%29.png?1667893925",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd101dcc414f310268c37eeb4cd376ccfa507f571",
+    "base": "0xfbb75a59193a3525a8825bebe7d4b56899e2f7e1"
+  }
+}

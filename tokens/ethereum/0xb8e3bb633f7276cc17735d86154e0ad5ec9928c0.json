@@ -1,0 +1,17 @@
+{
+  "symbol": "vlxpad",
+  "name": "VelasPad",
+  "address": "0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18535/thumb/11654.png?1632297834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+    "velas": "0xa065e0858417dfc7abc6f2bd4d0185332475c180",
+    "ethereum": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0"
+  }
+}

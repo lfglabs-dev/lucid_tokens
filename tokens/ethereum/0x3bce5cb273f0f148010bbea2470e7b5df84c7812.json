@@ -1,0 +1,16 @@
+{
+  "symbol": "sceth",
+  "name": "Rings scETH",
+  "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "sonic": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+    "ethereum": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wizard",
+  "name": "Wizard Cat",
+  "address": "0x4a7C9897aE01Ff08d6E3820507a6b967bdbFfA29",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50761/thumb/1c46f0bf-021a-4528-9ef3-823ad6c6b8b6.jpeg?1729049951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4a7c9897ae01ff08d6e3820507a6b967bdbffa29"
+  }
+}

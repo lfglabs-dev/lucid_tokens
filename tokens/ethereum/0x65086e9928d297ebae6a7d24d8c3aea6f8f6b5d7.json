@@ -1,0 +1,15 @@
+{
+  "symbol": "toki",
+  "name": "Toki",
+  "address": "0x65086e9928d297Ebae6A7d24D8c3Aea6f8f6b5d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52732/thumb/Toki.png?1734103533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x65086e9928d297ebae6a7d24d8c3aea6f8f6b5d7"
+  }
+}

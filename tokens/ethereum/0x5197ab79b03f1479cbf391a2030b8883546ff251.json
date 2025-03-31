@@ -1,0 +1,16 @@
+{
+  "symbol": "sor",
+  "name": "Sorcery Finance",
+  "address": "0x5197Ab79b03F1479cBf391A2030b8883546Ff251",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31635/thumb/Group_349.png?1694143231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc8cc4bbd33264db465e4c9ea011f895d02505959",
+    "ethereum": "0x5197ab79b03f1479cbf391a2030b8883546ff251"
+  }
+}

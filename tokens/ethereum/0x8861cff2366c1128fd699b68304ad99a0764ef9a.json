@@ -1,0 +1,18 @@
+{
+  "symbol": "cyc",
+  "name": "Cyclone Protocol",
+  "address": "0x8861cfF2366C1128fd699B68304aD99a0764Ef9a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14065/thumb/b3_DFjFp_400x400.jpg?1614128740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "iotex": "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh",
+    "ethereum": "0x8861cff2366c1128fd699b68304ad99a0764ef9a",
+    "binance-smart-chain": "0x810ee35443639348adbbc467b33310d2ab43c168",
+    "polygon-pos": "0xcfb54a6d2da14abecd231174fc5735b4436965d8"
+  }
+}

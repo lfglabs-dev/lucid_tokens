@@ -1,0 +1,15 @@
+{
+  "symbol": "usualx",
+  "name": "USUALx",
+  "address": "0x06B964d96f5dCF7Eae9d7C559B09EDCe244d4B8E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52435/thumb/USUALx_logo.png?1733340437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06b964d96f5dcf7eae9d7c559b09edce244d4b8e"
+  }
+}

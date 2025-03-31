@@ -1,0 +1,15 @@
+{
+  "symbol": "hoodie",
+  "name": "CryptoPunk #7171",
+  "address": "0xdffA3a7f5B40789C7A437DbE7B31b47F9B08FE75",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17842/thumb/cryptopunk-hoodie.png?1629468579",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdffa3a7f5b40789c7a437dbe7b31b47f9b08fe75"
+  }
+}

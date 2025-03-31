@@ -1,0 +1,16 @@
+{
+  "symbol": "cnfi",
+  "name": "Connect Financial",
+  "address": "0xEABB8996eA1662cAd2f7fB715127852cd3262Ae9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13592/thumb/cf-logo-iconic-black.png?1644479524",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
+    "arbitrum-one": "0x6f5401c53e2769c858665621d22ddbf53d8d27c5"
+  }
+}

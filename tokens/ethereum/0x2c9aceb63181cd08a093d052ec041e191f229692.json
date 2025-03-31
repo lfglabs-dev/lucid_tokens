@@ -1,0 +1,15 @@
+{
+  "symbol": "anb",
+  "name": "Angryb",
+  "address": "0x2c9acEb63181cd08a093d052ec041e191f229692",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17270/thumb/AngryBlockchain.png?1627005396",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c9aceb63181cd08a093d052ec041e191f229692"
+  }
+}

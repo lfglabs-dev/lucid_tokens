@@ -1,0 +1,16 @@
+{
+  "symbol": "popkat",
+  "name": "POPKAT",
+  "address": "0x0d3e106B9555c8c7052da0E7909956d640ac2c69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51287/thumb/Logo.png?1730569618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "kasplex": "POPKAT",
+    "ethereum": "0x0d3e106b9555c8c7052da0e7909956d640ac2c69"
+  }
+}

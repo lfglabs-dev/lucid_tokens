@@ -1,0 +1,16 @@
+{
+  "symbol": "spork",
+  "name": "SporkDAO",
+  "address": "0xb624FdE1a972B1C89eC1dAD691442d5E8E891469",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23358/thumb/sporkdao.PNG?1643942687",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb624fde1a972b1c89ec1dad691442d5e8e891469",
+    "polygon-pos": "0x9ca6a77c8b38159fd2da9bd25bc3e259c33f5e39"
+  }
+}

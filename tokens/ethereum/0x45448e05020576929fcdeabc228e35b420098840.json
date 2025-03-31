@@ -1,0 +1,15 @@
+{
+  "symbol": "idv",
+  "name": "Idavoll DAO",
+  "address": "0x45448E05020576929fcDEabC228E35b420098840",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14229/thumb/71922199.png?1615169236",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x45448e05020576929fcdeabc228e35b420098840"
+  }
+}

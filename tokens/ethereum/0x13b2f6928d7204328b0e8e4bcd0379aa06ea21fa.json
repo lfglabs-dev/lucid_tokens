@@ -1,0 +1,15 @@
+{
+  "symbol": "aammwbtc",
+  "name": "Aave AMM WBTC",
+  "address": "0x13B2f6928D7204328b0E8E4BCd0379aA06EA21FA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17215/thumb/aAMMWBTC_2x.png?1626879028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x13b2f6928d7204328b0e8e4bcd0379aa06ea21fa"
+  }
+}

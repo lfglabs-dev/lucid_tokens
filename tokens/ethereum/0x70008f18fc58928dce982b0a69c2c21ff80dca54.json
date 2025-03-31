@@ -1,0 +1,15 @@
+{
+  "symbol": "x7r",
+  "name": "X7R",
+  "address": "0x70008F18Fc58928dcE982b0A69C2c21ff80Dca54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27710/thumb/X7R.png?1665314632",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70008f18fc58928dce982b0a69c2c21ff80dca54"
+  }
+}

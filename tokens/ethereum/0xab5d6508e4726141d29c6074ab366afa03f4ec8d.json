@@ -1,0 +1,15 @@
+{
+  "symbol": "truck",
+  "name": "Cybertruck",
+  "address": "0xAb5D6508E4726141D29c6074Ab366aFa03f4Ec8D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33168/thumb/TRUCK.jpg?1700908260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xab5d6508e4726141d29c6074ab366afa03f4ec8d"
+  }
+}

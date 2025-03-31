@@ -1,0 +1,15 @@
+{
+  "symbol": "pro",
+  "name": "Prodigy Bot",
+  "address": "0xBD7e92Cf6F857be8541FCa6abfB72aeF8e16c307",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31171/thumb/PRODIGY_LOGO_clean_%283%29.png?1691116873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbd7e92cf6f857be8541fca6abfb72aef8e16c307"
+  }
+}

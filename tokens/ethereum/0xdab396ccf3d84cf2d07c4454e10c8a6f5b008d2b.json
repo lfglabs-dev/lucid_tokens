@@ -1,0 +1,15 @@
+{
+  "symbol": "gfi",
+  "name": "Goldfinch",
+  "address": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19081/thumb/GOLDFINCH.png?1634369662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b"
+  }
+}

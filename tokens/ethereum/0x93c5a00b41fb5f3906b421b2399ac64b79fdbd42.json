@@ -1,0 +1,15 @@
+{
+  "symbol": "vdz",
+  "name": "Voidz",
+  "address": "0x93c5a00b41FB5f3906b421b2399Ac64b79fdBD42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36474/thumb/XcJAYXs7_400x400.jpg?1711527406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x93c5a00b41fb5f3906b421b2399ac64b79fdbd42"
+  }
+}

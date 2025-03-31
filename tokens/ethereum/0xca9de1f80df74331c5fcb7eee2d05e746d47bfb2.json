@@ -1,0 +1,15 @@
+{
+  "symbol": "rsveth",
+  "name": "Reddio Vault Ethereum",
+  "address": "0xCA9de1F80Df74331c5fcb7Eee2D05E746d47BFb2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39744/thumb/rsv_eth.png?1723781355",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xca9de1f80df74331c5fcb7eee2d05e746d47bfb2"
+  }
+}

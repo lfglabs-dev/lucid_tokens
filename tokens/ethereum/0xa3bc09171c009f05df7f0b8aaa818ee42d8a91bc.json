@@ -1,0 +1,15 @@
+{
+  "symbol": "tsla",
+  "name": "TSLA6900",
+  "address": "0xA3BC09171C009F05Df7F0b8aaA818ee42d8A91bC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50692/thumb/IMG_0315.jpeg?1728781026",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa3bc09171c009f05df7f0b8aaa818ee42d8a91bc"
+  }
+}

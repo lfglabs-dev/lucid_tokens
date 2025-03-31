@@ -1,0 +1,16 @@
+{
+  "symbol": "pet",
+  "name": "Hello Pets",
+  "address": "0xB870679a7Fa65b924026F496De7f27c1DD0e5C5F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14354/thumb/UVbm-Qs-JH-400x400.jpg?1615539255",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb870679a7fa65b924026f496de7f27c1dd0e5c5f",
+    "arbitrum-one": "0x43c25f828390de5a3648864eb485cc523e039e67"
+  }
+}

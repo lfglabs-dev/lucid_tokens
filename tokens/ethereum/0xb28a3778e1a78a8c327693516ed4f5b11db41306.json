@@ -1,0 +1,15 @@
+{
+  "symbol": "ctrl",
+  "name": "AltCTRL",
+  "address": "0xb28a3778e1A78a8c327693516ed4F5B11db41306",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35472/thumb/200x200.png?1708770112",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb28a3778e1a78a8c327693516ed4f5b11db41306"
+  }
+}

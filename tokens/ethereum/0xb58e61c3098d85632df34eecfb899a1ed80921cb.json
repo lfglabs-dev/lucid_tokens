@@ -1,0 +1,15 @@
+{
+  "symbol": "zchf",
+  "name": "Frankencoin",
+  "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37150/thumb/Untitled_design_%2818%29.png?1713464171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb58e61c3098d85632df34eecfb899a1ed80921cb"
+  }
+}

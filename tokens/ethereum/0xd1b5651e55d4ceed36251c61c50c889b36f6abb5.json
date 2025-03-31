@@ -1,0 +1,15 @@
+{
+  "symbol": "sdcrv",
+  "name": "Stake DAO CRV",
+  "address": "0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27756/thumb/scCRV-2.png?1665654580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5"
+  }
+}

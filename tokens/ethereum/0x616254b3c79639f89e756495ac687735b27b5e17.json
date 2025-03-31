@@ -1,0 +1,15 @@
+{
+  "symbol": "rino",
+  "name": "Rino",
+  "address": "0x616254B3c79639f89E756495ac687735B27b5E17",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50868/thumb/200x200_rino.png?1729332184",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x616254b3c79639f89e756495ac687735b27b5e17"
+  }
+}

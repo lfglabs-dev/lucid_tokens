@@ -1,0 +1,15 @@
+{
+  "symbol": "idledaiyield",
+  "name": "IdleDAI (Best Yield)",
+  "address": "0x3fE7940616e5Bc47b0775a0dccf6237893353bB4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11901/thumb/idledai_32.png?1595990312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3fe7940616e5bc47b0775a0dccf6237893353bb4"
+  }
+}

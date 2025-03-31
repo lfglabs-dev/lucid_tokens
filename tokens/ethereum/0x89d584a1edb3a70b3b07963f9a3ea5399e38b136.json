@@ -1,0 +1,15 @@
+{
+  "symbol": "ait",
+  "name": "AIT Protocol",
+  "address": "0x89d584A1EDB3A70B3B07963F9A3eA5399E38b136",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33962/thumb/ait-logo-200x200.png?1703567800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89d584a1edb3a70b3b07963f9a3ea5399e38b136"
+  }
+}

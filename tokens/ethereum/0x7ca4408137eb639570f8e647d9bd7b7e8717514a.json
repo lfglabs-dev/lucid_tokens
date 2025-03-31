@@ -1,0 +1,16 @@
+{
+  "symbol": "alpa",
+  "name": "Alpaca City",
+  "address": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13070/thumb/alpaca_logo.png?1604895862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ca4408137eb639570f8e647d9bd7b7e8717514a",
+    "binance-smart-chain": "0xc5e6689c9c8b02be7c49912ef19e79cf24977f03"
+  }
+}

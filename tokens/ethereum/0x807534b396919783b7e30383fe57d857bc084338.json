@@ -1,0 +1,15 @@
+{
+  "symbol": "test",
+  "name": "Test",
+  "address": "0x807534B396919783B7e30383Fe57D857BC084338",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31188/thumb/IMG_6480.png?1691142715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x807534b396919783b7e30383fe57d857bc084338"
+  }
+}

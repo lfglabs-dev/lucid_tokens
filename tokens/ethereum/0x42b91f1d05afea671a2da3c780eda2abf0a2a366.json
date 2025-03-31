@@ -1,0 +1,15 @@
+{
+  "symbol": "mnb",
+  "name": "Mineable",
+  "address": "0x42b91f1d05afeA671a2dA3c780eDa2aBf0A2A366",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29272/thumb/mnb.png?1677735665",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42b91f1d05afea671a2da3c780eda2abf0a2a366"
+  }
+}

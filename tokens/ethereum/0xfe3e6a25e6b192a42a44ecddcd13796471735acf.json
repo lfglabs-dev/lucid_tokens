@@ -1,0 +1,19 @@
+{
+  "symbol": "reef",
+  "name": "Reef",
+  "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13504/thumb/Group_10572.png?1610534130",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+    "energi": "0x2c969b248144dc371b428705da84b413203d9e76",
+    "sora": "0x0004d3168f737e96b66b72fbb1949a2a23d4ef87182d1e8bf64096f1bb348e0b",
+    "harmony-shard-0": "0x9ab0db833557d95aff98c09b560145ad34e681b8",
+    "binance-smart-chain": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e"
+  }
+}

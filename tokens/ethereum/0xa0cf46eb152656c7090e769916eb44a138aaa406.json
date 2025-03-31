@@ -1,0 +1,15 @@
+{
+  "symbol": "sph",
+  "name": "Spheroid Universe",
+  "address": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11968/thumb/spheroid-sph-icon-400x400.png?1597307957",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0cf46eb152656c7090e769916eb44a138aaa406"
+  }
+}

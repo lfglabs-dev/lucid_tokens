@@ -1,0 +1,15 @@
+{
+  "symbol": "pft",
+  "name": "PolarFighters",
+  "address": "0x0B49707fb9706428D1bb51a2906617AEaba82346",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52214/thumb/pft.png?1732751401",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0b49707fb9706428d1bb51a2906617aeaba82346"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "psl",
+  "name": "Pastel",
+  "address": "0xC775C0C30840Cb9F51e21061B054ebf1A00aCC29",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14293/thumb/A4qGwEij_400x400.jpg?1615290394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29"
+  }
+}

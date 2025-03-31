@@ -1,0 +1,15 @@
+{
+  "symbol": "sanshu",
+  "name": "Sanshu Inu (OLD)",
+  "address": "0xc73C167E7a4Ba109e4052f70D5466D0C312A344D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15370/thumb/m9DgRlXY.jpg?1623177779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc73c167e7a4ba109e4052f70d5466d0c312a344d"
+  }
+}

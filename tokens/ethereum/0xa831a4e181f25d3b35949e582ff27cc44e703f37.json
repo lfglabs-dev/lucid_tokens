@@ -1,0 +1,17 @@
+{
+  "symbol": "alex",
+  "name": "ALEX Lab",
+  "address": "0xA831a4E181F25D3B35949E582Ff27Cc44e703F37",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25837/thumb/ALEX_Token.png?1654072184",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "stacks": "SP102V8P0F7JX67ARQ77WEA3D3CFB5XW39REDT0AM.token-alex",
+    "mode": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
+    "ethereum": "0xa831a4e181f25d3b35949e582ff27cc44e703f37"
+  }
+}

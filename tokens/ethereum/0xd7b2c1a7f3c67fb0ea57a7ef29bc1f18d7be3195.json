@@ -1,0 +1,15 @@
+{
+  "symbol": "vmint",
+  "name": "VoluMint",
+  "address": "0xD7B2C1a7F3c67fB0EA57a7ef29bC1F18D7bE3195",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33745/thumb/volumint_200x200px_clearbg.png?1702924153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7b2c1a7f3c67fb0ea57a7ef29bc1f18d7be3195"
+  }
+}

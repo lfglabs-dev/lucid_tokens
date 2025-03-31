@@ -1,0 +1,15 @@
+{
+  "symbol": "coti",
+  "name": "COTI",
+  "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2962/thumb/Coti.png?1559653863",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xddb3422497e61e13543bea06989c0789117555c5"
+  }
+}

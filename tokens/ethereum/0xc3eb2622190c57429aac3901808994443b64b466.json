@@ -1,0 +1,15 @@
+{
+  "symbol": "oro",
+  "name": "ORO",
+  "address": "0xc3Eb2622190c57429aac3901808994443b64B466",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13114/thumb/oro_logo.png?1605338447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc3eb2622190c57429aac3901808994443b64b466"
+  }
+}

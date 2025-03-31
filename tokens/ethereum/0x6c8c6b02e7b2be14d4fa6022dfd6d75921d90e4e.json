@@ -1,0 +1,15 @@
+{
+  "symbol": "cbat",
+  "name": "cBAT",
+  "address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10645/thumb/cBAT1.JPG?1581390910",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
+  }
+}

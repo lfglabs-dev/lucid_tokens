@@ -1,0 +1,15 @@
+{
+  "symbol": "ai",
+  "name": "Multiverse",
+  "address": "0xc91B523A59ACC63A64f61fc7bBfB4bfc82DD25f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16329/thumb/AI.jpg?1623749973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc91b523a59acc63a64f61fc7bbfb4bfc82dd25f2"
+  }
+}

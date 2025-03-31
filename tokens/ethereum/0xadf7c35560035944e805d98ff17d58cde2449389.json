@@ -1,0 +1,16 @@
+{
+  "symbol": "spec",
+  "name": "Spectral",
+  "address": "0xAdF7C35560035944e805D98fF17d58CDe2449389",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36138/thumb/spectral_logo_200x200.png?1710684002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xadf7c35560035944e805d98ff17d58cde2449389",
+    "base": "0x96419929d7949d6a801a6909c145c8eef6a40431"
+  }
+}

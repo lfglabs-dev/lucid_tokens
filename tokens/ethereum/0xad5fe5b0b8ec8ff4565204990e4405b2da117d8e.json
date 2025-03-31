@@ -1,0 +1,15 @@
+{
+  "symbol": "trxc",
+  "name": "TronClassic",
+  "address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4626/thumb/trxc.png?1547039893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "krom",
+  "name": "Kromatika",
+  "address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20541/thumb/KROM_Transparent.png?1641398421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+    "optimistic-ethereum": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
+    "arbitrum-one": "0x55ff62567f09906a85183b866df84bf599a4bf70",
+    "polygon-pos": "0x14af1f2f02dccb1e43402339099a05a5e363b83c"
+  }
+}

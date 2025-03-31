@@ -1,0 +1,15 @@
+{
+  "symbol": "block",
+  "name": "Block Browser",
+  "address": "0x226d6d842D49b4D757bEf1632053a198D5D9c8aA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31538/thumb/photo_2023-08-29_01-46-11.jpg?1693788322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x226d6d842d49b4d757bef1632053a198d5d9c8aa"
+  }
+}

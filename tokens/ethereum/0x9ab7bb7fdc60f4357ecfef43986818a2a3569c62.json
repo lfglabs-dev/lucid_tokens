@@ -1,0 +1,16 @@
+{
+  "symbol": "gog",
+  "name": "Guild of Guardians",
+  "address": "0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17362/thumb/V2QDNoLg_400x400.jpg?1640054187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
+    "immutable": "0xb00ed913aaff8280c17bff33cce82fe6d79e85e8"
+  }
+}

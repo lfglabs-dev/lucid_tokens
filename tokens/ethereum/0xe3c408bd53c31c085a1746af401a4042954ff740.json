@@ -1,0 +1,18 @@
+{
+  "symbol": "gmt",
+  "name": "GMT",
+  "address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23597/thumb/gmt.png?1644658792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+    "ethereum": "0xe3c408bd53c31c085a1746af401a4042954ff740",
+    "binance-smart-chain": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+    "polygon-pos": "0x714db550b574b3e927af3d93e26127d15721d4c2"
+  }
+}

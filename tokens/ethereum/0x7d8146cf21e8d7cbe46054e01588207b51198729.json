@@ -1,0 +1,15 @@
+{
+  "symbol": "bob",
+  "name": "BOB Token",
+  "address": "0x7D8146cf21e8D7cbe46054e01588207b51198729",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29929/thumb/bob.png?1682140021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7d8146cf21e8d7cbe46054e01588207b51198729"
+  }
+}

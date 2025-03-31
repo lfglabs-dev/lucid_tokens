@@ -1,0 +1,16 @@
+{
+  "symbol": "apex",
+  "name": "ApeX",
+  "address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25266/thumb/CxpMECpk_400x400_%281%29.png?1651067984",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x52a8845df664d76c69d2eea607cd793565af42b8",
+    "arbitrum-one": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56"
+  }
+}

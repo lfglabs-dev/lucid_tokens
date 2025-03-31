@@ -1,0 +1,18 @@
+{
+  "symbol": "tel",
+  "name": "Telcoin",
+  "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1899/thumb/tel.png?1547036203",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+    "base": "0x09be1692ca16e06f536f0038ff11d1da8524adb1",
+    "sora": "0x008f925e3e422218604fac1cc2f06f3ef9c1e244e0d2a9a823e5bd8ce9778434",
+    "polygon-pos": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32"
+  }
+}

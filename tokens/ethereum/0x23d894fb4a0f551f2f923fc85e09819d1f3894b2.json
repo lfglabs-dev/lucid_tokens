@@ -1,0 +1,15 @@
+{
+  "symbol": "itx",
+  "name": "Intellix",
+  "address": "0x23D894fb4A0f551F2f923fc85e09819D1F3894b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34406/thumb/itx.jpeg?1704791991",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x23d894fb4a0f551f2f923fc85e09819d1f3894b2"
+  }
+}

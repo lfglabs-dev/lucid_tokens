@@ -1,0 +1,15 @@
+{
+  "symbol": "pepe",
+  "name": "The Original Pepe",
+  "address": "0x4dFae3690b93c47470b03036A17B23C1Be05127C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35702/thumb/logo.png?1709567988",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4dfae3690b93c47470b03036a17b23c1be05127c"
+  }
+}

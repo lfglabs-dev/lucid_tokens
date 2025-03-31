@@ -1,0 +1,15 @@
+{
+  "symbol": "boysclub",
+  "name": "BoysClub",
+  "address": "0x2d9996f3b9D2E73540FDbfDfE81d71e9e08cBF03",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37262/thumb/1000006430.jpg?1713866548",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2d9996f3b9d2e73540fdbfdfe81d71e9e08cbf03"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "openai erc",
+  "name": "OpenAI ERC",
+  "address": "0x6A6AA13393B7d1100c00a57c76c39e8B6C835041",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28412/thumb/OpenAI.jpeg?1670387260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a6aa13393b7d1100c00a57c76c39e8b6c835041"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "dip",
+  "name": "Etherisc DIP",
+  "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4586/thumb/dip.png?1547039863",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+    "xdai": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
+    "base": "0xac86f3556cbd2b4d800d17adc3a266b500fcb9f5"
+  }
+}

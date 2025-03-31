@@ -1,0 +1,15 @@
+{
+  "symbol": "bdxn",
+  "name": "Bondex",
+  "address": "0xBdBDBDd0c22888E63CB9098aD6D68439197CB091",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38909/thumb/bondex_logo_copy.jpg?1719473774",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbdbdbdd0c22888e63cb9098ad6d68439197cb091"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "usdebt",
+  "name": "USDEBT",
+  "address": "0x00c5CA160A968f47e7272A0CFCda36428F386CB6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31448/thumb/9Fba1z-c_400x400.jpg?1692935483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00c5ca160a968f47e7272a0cfcda36428f386cb6",
+    "base": "0xa23dd9379f2e12d9ce76ec738b9f5e520d1d861c"
+  }
+}

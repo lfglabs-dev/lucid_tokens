@@ -1,0 +1,16 @@
+{
+  "symbol": "psm",
+  "name": "Possum",
+  "address": "0xcb69B067d9d8d6dD1209fE4557c43586E54f9045",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb69b067d9d8d6dd1209fe4557c43586e54f9045",
+    "arbitrum-one": "0x17a8541b82bf67e10b0874284b4ae66858cb1fd5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "crgpt",
+  "name": "CryptoGPT",
+  "address": "0x50739bd5b6afF093ba2371365727C48a420a060D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36590/thumb/1000036412.jpg?1711949110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x50739bd5b6aff093ba2371365727c48a420a060d"
+  }
+}

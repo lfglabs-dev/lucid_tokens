@@ -1,0 +1,16 @@
+{
+  "symbol": "lndx",
+  "name": "LandX Governance Token",
+  "address": "0x08A1C30BBB26425c1031ee9E43FA0B9960742539",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33565/thumb/LNDX-200.png?1702445947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x08a1c30bbb26425c1031ee9e43fa0b9960742539",
+    "arbitrum-one": "0xe10d4a4255d2d35c9e23e2c4790e073046fbaf5c"
+  }
+}

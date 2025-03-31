@@ -1,0 +1,15 @@
+{
+  "symbol": "vcx",
+  "name": "VaultCraft",
+  "address": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33237/thumb/VCX_Token_200x200.png?1701147660",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xce246eea10988c495b4a90a905ee9237a0f91543"
+  }
+}

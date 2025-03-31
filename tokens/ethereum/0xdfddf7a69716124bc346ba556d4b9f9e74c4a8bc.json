@@ -1,0 +1,15 @@
+{
+  "symbol": "sccn",
+  "name": "Succession",
+  "address": "0xdfdDF7a69716124Bc346bA556d4b9f9E74C4A8Bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25377/thumb/sccn.png?1651410204",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdfddf7a69716124bc346ba556d4b9f9e74c4a8bc"
+  }
+}

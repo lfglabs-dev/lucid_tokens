@@ -1,0 +1,15 @@
+{
+  "symbol": "welf",
+  "name": "WELF",
+  "address": "0x2a92525fDA8D3AB481f8E2a913B64B64bD1c9fdD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52927/thumb/WELF.png?1734707094",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2a92525fda8d3ab481f8e2a913b64b64bd1c9fdd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "patriot",
+  "name": "Patriot",
+  "address": "0xE9732d4b1E7d3789004fF029f032bA3034db059c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51331/thumb/Patriot.png?1730795973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9732d4b1e7d3789004ff029f032ba3034db059c"
+  }
+}

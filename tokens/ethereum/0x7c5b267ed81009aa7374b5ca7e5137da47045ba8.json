@@ -1,0 +1,17 @@
+{
+  "symbol": "tkai",
+  "name": "TAIKAI",
+  "address": "0x7C5b267ED81009aa7374B5CA7E5137Da47045bA8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34827/thumb/TKAI.jpg?1706191900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7c5b267ed81009aa7374b5ca7e5137da47045ba8",
+    "polygon-pos": "0x8829d36f6680be993f5444198e8cbfa8f02ede96",
+    "base": "0x1287a235474e0331c0975e373bdd066444d1bd35"
+  }
+}

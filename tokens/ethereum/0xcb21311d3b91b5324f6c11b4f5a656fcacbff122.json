@@ -1,0 +1,15 @@
+{
+  "symbol": "qai",
+  "name": "QuantixAI",
+  "address": "0xCb21311d3B91b5324F6C11B4f5A656fcAcBff122",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36166/thumb/07.png?1710745602",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb21311d3b91b5324f6c11b4f5a656fcacbff122"
+  }
+}

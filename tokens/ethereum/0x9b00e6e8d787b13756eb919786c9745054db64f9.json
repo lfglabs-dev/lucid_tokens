@@ -1,0 +1,15 @@
+{
+  "symbol": "wsienna",
+  "name": "Sienna [ERC-20]",
+  "address": "0x9b00e6E8D787b13756eb919786c9745054DB64f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15420/thumb/sienna.jpeg?1620782072",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b00e6e8d787b13756eb919786c9745054db64f9"
+  }
+}

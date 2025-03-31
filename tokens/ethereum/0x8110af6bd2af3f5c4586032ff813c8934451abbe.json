@@ -1,0 +1,15 @@
+{
+  "symbol": "cypher",
+  "name": "Cypher AI",
+  "address": "0x8110AF6BD2aF3f5c4586032ff813c8934451aBBe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35946/thumb/IMG_3059.jpeg?1710234192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8110af6bd2af3f5c4586032ff813c8934451abbe"
+  }
+}

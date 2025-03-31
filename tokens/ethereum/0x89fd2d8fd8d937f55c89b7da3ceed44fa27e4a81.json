@@ -1,0 +1,15 @@
+{
+  "symbol": "bug",
+  "name": "Bug",
+  "address": "0x89Fd2D8Fd8D937f55c89B7dA3CeeD44FA27E4A81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39320/thumb/BUG_on_eth__logo.jpg?1721710160",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89fd2d8fd8d937f55c89b7da3ceed44fa27e4a81"
+  }
+}

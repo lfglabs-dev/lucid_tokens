@@ -1,0 +1,17 @@
+{
+  "symbol": "acm",
+  "name": "acmFinance",
+  "address": "0x1BD9ABF284e893705104E64B564B414620b722F1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34192/thumb/WhatsApp_Image_2023-12-27_at_15.44.56_%281%29.jpeg?1704272189",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1bd9abf284e893705104e64b564b414620b722f1",
+    "ethereum": "0x1bd9abf284e893705104e64b564b414620b722f1",
+    "polygon-pos": "0x1bd9abf284e893705104e64b564b414620b722f1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "titan",
+  "name": "TitanSwap",
+  "address": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12606/thumb/nqGlQzdz_400x400.png?1601019805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3a8cccb969a61532d1e6005e2ce12c200caece87"
+  }
+}

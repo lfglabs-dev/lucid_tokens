@@ -1,0 +1,15 @@
+{
+  "symbol": "trrue",
+  "name": "TRRUE",
+  "address": "0x36E45dcfE1d3d85A78c65c3baD4068dEE4f2a25e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53260/thumb/TRRUE.jpg?1735907065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x36e45dcfe1d3d85a78c65c3bad4068dee4f2a25e"
+  }
+}

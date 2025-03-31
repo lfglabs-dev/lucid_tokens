@@ -1,0 +1,15 @@
+{
+  "symbol": "tipja",
+  "name": "Tipja",
+  "address": "0x8e235f491Ae66b82296d58332Adc2a021C449c10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30182/thumb/logo.jpg?1683599233",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e235f491ae66b82296d58332adc2a021c449c10"
+  }
+}

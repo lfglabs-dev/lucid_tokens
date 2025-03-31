@@ -1,0 +1,15 @@
+{
+  "symbol": "ryo",
+  "name": "RYO Coin",
+  "address": "0x4C7fe8F97dB97CbCcC76989AB742afc66ca6e75C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39352/thumb/Asset_3.png_ryo_logo.png?1721887842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c7fe8f97db97cbccc76989ab742afc66ca6e75c"
+  }
+}

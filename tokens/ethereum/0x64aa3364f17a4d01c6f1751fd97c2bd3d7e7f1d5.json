@@ -1,0 +1,18 @@
+{
+  "symbol": "ohm",
+  "name": "Olympus",
+  "address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1628311611",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+    "berachain": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
+    "arbitrum-one": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028",
+    "base": "0x060cb087a9730e13aa191f31a6d86bff8dfcdcc0"
+  }
+}

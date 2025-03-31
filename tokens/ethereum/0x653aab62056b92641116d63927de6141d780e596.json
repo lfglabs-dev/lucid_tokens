@@ -1,0 +1,16 @@
+{
+  "symbol": "achf",
+  "name": "Anchored Coins ACHF",
+  "address": "0x653aaB62056B92641116D63927DE6141D780e596",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33471/thumb/logo_achf.png?1701946601",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x653aab62056b92641116d63927de6141d780e596",
+    "binance-smart-chain": "0x653aab62056b92641116d63927de6141d780e596"
+  }
+}

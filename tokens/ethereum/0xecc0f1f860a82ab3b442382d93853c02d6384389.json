@@ -1,0 +1,15 @@
+{
+  "symbol": "axis",
+  "name": "Axis DeFi",
+  "address": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12199/thumb/YeLWZ3V.jpg?1597998424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xecc0f1f860a82ab3b442382d93853c02d6384389"
+  }
+}

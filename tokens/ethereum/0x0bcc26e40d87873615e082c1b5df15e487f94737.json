@@ -1,0 +1,15 @@
+{
+  "symbol": "smetx",
+  "name": "SpecialMetalX",
+  "address": "0x0bCC26e40d87873615e082c1b5df15E487f94737",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37712/thumb/82-wb8sp_400x400.jpg?1715275652",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0bcc26e40d87873615e082c1b5df15e487f94737"
+  }
+}

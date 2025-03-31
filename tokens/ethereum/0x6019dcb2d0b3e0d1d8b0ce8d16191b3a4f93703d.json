@@ -1,0 +1,15 @@
+{
+  "symbol": "qf",
+  "name": "Quantum Fusion",
+  "address": "0x6019Dcb2d0b3E0d1D8B0cE8D16191b3A4f93703d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38823/thumb/logo-qf-200x200.jpg?1719101151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6019dcb2d0b3e0d1d8b0ce8d16191b3a4f93703d"
+  }
+}

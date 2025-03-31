@@ -1,0 +1,15 @@
+{
+  "symbol": "pepe",
+  "name": "PEPEGOLD",
+  "address": "0x4A27e9aAb8F8bA9de06766C8476eD1D16494E35F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26864/thumb/logo-200x200.png?1660533136",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4a27e9aab8f8ba9de06766c8476ed1d16494e35f"
+  }
+}

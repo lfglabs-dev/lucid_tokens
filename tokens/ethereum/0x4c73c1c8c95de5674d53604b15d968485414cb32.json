@@ -1,0 +1,15 @@
+{
+  "symbol": "boom",
+  "name": "Bomb Shelter Inu",
+  "address": "0x4c73c1C8c95De5674D53604b15d968485414CB32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35947/thumb/BOOM_LOGO.png?1710234299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c73c1c8c95de5674d53604b15d968485414cb32"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "yv1inch",
+  "name": "1INCH yVault",
+  "address": "0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28795/thumb/yv1INCH-128-0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67.png?1674226063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8c3b7a2a618c552c23b1e4701109a9e756bab67"
+  }
+}

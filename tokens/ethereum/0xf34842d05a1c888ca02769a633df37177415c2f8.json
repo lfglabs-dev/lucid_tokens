@@ -1,0 +1,15 @@
+{
+  "symbol": "idleusdtyield",
+  "name": "IdleUSDT (Yield)",
+  "address": "0xF34842d05A1c888Ca02769A633DF37177415C2f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11933/thumb/idleusdtv3maxyield_32.png?1596263688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf34842d05a1c888ca02769a633df37177415c2f8"
+  }
+}

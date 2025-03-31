@@ -1,0 +1,21 @@
+{
+  "symbol": "berna",
+  "name": "Backed ERNA $ Bond",
+  "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36757/thumb/b-ERNA-200x200.png?1712245846",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
+    "xdai": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
+    "ethereum": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
+    "binance-smart-chain": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
+    "avalanche": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
+    "polygon-pos": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
+    "base": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "omusd",
+  "name": "OpenMoney USD",
+  "address": "0xd3043D66Afe00344C115f7f81D18277C5c718FF8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37935/thumb/logo-200-200.png?1715941947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd3043d66afe00344c115f7f81d18277c5c718ff8"
+  }
+}

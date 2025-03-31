@@ -1,0 +1,15 @@
+{
+  "symbol": "marks",
+  "name": "Marksman",
+  "address": "0x0A8f4C4F23D72857745e26695DCD8deDf8E349B9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33658/thumb/mlogo.png?1702598130",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0a8f4c4f23d72857745e26695dcd8dedf8e349b9"
+  }
+}

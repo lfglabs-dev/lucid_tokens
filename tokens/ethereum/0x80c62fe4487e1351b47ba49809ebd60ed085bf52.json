@@ -1,0 +1,16 @@
+{
+  "symbol": "clv",
+  "name": "Clover Finance",
+  "address": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15278/thumb/photo_2022-03-24_10-22-33.jpg?1648531786",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+    "binance-smart-chain": "0x09e889bb4d5b474f561db0491c38702f367a4e4d"
+  }
+}

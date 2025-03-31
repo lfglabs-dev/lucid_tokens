@@ -1,0 +1,15 @@
+{
+  "symbol": "scan",
+  "name": "0xScans",
+  "address": "0x10703cA5e253306e2ABABD68e963198be8887c81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34983/thumb/photo_2024-02-01_20-12-00.jpg?1706873450",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x10703ca5e253306e2ababd68e963198be8887c81"
+  }
+}

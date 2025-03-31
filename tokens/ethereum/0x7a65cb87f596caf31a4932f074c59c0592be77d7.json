@@ -1,0 +1,15 @@
+{
+  "symbol": "zypto",
+  "name": "Zypto Token",
+  "address": "0x7A65CB87F596Caf31a4932f074c59c0592bE77D7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19089/thumb/fcf.png?1644049617",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7a65cb87f596caf31a4932f074c59c0592be77d7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "stak",
+  "name": "Jigstack",
+  "address": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14978/thumb/jigstack.PNG?1619216498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13"
+  }
+}

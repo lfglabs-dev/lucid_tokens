@@ -1,0 +1,15 @@
+{
+  "symbol": "motg",
+  "name": "MetaOctagon",
+  "address": "0x171d76d931529384639BC9aad5b77b77041ED604",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26496/thumb/iJoylNuO_400x400.jpeg?1658304109",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x171d76d931529384639bc9aad5b77b77041ed604"
+  }
+}

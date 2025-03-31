@@ -1,0 +1,15 @@
+{
+  "symbol": "ceth",
+  "name": "cETH",
+  "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10643/thumb/ceth2.JPG?1581389598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
+  }
+}

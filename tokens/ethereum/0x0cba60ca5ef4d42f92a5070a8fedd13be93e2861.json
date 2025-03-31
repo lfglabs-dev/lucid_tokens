@@ -1,0 +1,15 @@
+{
+  "symbol": "the",
+  "name": "The Protocol",
+  "address": "0x0cbA60Ca5eF4D42f92A5070A8fEDD13BE93E2861",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27849/thumb/cSar5sDM_400x400.jpg?1666085191",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "zapex",
+  "name": "ZapExchange",
+  "address": "0x396De8bb0a1745B531Bf5cD5952539A1b5FE66E0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32444/thumb/IMG_20231018_211339_234.jpg?1698238397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x396de8bb0a1745b531bf5cd5952539a1b5fe66e0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "poshi",
+  "name": "Poshi World",
+  "address": "0x1ED5cf624240296d941796970aC745Bc24bd4a06",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50283/thumb/Poshi.jpg?1726809501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1ed5cf624240296d941796970ac745bc24bd4a06"
+  }
+}

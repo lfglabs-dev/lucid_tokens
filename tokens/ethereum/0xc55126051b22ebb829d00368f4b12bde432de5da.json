@@ -1,0 +1,15 @@
+{
+  "symbol": "btrfly",
+  "name": "Redacted",
+  "address": "0xc55126051B22eBb829D00368f4B12Bde432de5Da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26745/thumb/redacted_v2.jpg?1660011507",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc55126051b22ebb829d00368f4b12bde432de5da"
+  }
+}

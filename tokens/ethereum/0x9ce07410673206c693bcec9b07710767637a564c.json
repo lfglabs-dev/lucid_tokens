@@ -1,0 +1,15 @@
+{
+  "symbol": "monkeys",
+  "name": "Monkeys Token",
+  "address": "0x9CE07410673206c693BCEC9b07710767637A564c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29782/thumb/Monkeys_Logo_-_CG.png?1681285266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ce07410673206c693bcec9b07710767637a564c"
+  }
+}

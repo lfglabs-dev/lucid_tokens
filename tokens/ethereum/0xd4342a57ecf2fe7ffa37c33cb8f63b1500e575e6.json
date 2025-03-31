@@ -1,0 +1,15 @@
+{
+  "symbol": "apn",
+  "name": "Apron",
+  "address": "0xd4342a57eCf2Fe7ffA37c33cb8f63b1500e575E6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14916/thumb/1_GOjoDhGzzpqnMPGpHGeWhg.png?1618998577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6"
+  }
+}

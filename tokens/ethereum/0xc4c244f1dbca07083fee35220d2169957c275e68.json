@@ -1,0 +1,15 @@
+{
+  "symbol": "steak",
+  "name": "Steak",
+  "address": "0xC4c244F1dbCA07083feE35220D2169957c275e68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36597/thumb/Small_STEAK_Token_Logo_%28200_x_200_px%29.png?1711950525",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4c244f1dbca07083fee35220d2169957c275e68"
+  }
+}

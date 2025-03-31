@@ -1,0 +1,15 @@
+{
+  "symbol": "eths",
+  "name": "ETH Stable",
+  "address": "0xA9aD6830180f9C150349f2cECAdd710586E35CB7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31464/thumb/ETHS.jpeg?1692946672",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa9ad6830180f9c150349f2cecadd710586e35cb7"
+  }
+}

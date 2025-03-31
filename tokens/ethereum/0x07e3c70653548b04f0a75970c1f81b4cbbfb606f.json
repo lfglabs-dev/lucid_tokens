@@ -1,0 +1,15 @@
+{
+  "symbol": "dlt",
+  "name": "Agrello",
+  "address": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/900/thumb/delta_200x200.png?1616645398",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f"
+  }
+}

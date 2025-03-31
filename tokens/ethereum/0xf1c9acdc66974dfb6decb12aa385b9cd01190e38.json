@@ -1,0 +1,15 @@
+{
+  "symbol": "oseth",
+  "name": "StakeWise Staked ETH",
+  "address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33117/thumb/Frame_27513839.png?1700732599",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38"
+  }
+}

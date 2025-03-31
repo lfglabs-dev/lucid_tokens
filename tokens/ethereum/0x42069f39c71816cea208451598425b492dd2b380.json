@@ -1,0 +1,15 @@
+{
+  "symbol": "goompy",
+  "name": "Goompy",
+  "address": "0x42069f39C71816Cea208451598425b492Dd2B380",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51678/thumb/IMG_0205.jpeg?1731779137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42069f39c71816cea208451598425b492dd2b380"
+  }
+}

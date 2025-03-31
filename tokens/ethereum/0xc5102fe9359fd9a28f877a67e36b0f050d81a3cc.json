@@ -1,0 +1,20 @@
+{
+  "symbol": "hop",
+  "name": "Hop Protocol",
+  "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25445/thumb/BVcNR51u_400x400.jpg?1651797443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "optimistic-ethereum": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "xdai": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "arbitrum-one": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "polygon-pos": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "base": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+  }
+}

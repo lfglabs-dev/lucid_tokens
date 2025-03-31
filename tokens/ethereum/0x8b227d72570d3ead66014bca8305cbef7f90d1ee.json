@@ -1,0 +1,15 @@
+{
+  "symbol": "liza",
+  "name": "LIZA",
+  "address": "0x8B227d72570D3EAd66014bCA8305CbeF7f90D1eE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32841/thumb/Liza.png?1699589053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8b227d72570d3ead66014bca8305cbef7f90d1ee"
+  }
+}

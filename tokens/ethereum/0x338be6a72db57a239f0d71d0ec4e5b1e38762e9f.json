@@ -1,0 +1,15 @@
+{
+  "symbol": "lndry",
+  "name": "LNDRY",
+  "address": "0x338Be6A72Db57a239F0d71d0Ec4e5B1e38762e9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33357/thumb/lndry.jpeg?1701602475",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x338be6a72db57a239f0d71d0ec4e5b1e38762e9f"
+  }
+}

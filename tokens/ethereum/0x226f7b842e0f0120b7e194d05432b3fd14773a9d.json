@@ -1,0 +1,15 @@
+{
+  "symbol": "unn",
+  "name": "UNION Protocol Governance",
+  "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13408/thumb/unn_finance.png?1608262290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d"
+  }
+}

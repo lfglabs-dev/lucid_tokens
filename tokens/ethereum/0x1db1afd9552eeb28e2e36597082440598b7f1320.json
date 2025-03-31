@@ -1,0 +1,15 @@
+{
+  "symbol": "xrpl",
+  "name": "Constellation Staked RPL",
+  "address": "0x1DB1Afd9552eeB28e2e36597082440598B7F1320",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54530/thumb/token-xrpl.png?1740177776",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1db1afd9552eeb28e2e36597082440598b7f1320"
+  }
+}

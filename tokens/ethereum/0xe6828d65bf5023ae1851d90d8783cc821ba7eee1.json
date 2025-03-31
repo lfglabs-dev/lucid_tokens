@@ -1,0 +1,17 @@
+{
+  "symbol": "abond",
+  "name": "ApeBond",
+  "address": "0xe6828D65bf5023AE1851D90D8783Cc821ba7eeE1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33814/thumb/l-_N-wAO_400x400.jpg?1703020501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x34294afabcbaffc616ac6614f6d2e17260b78bed",
+    "ethereum": "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1",
+    "polygon-pos": "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1"
+  }
+}

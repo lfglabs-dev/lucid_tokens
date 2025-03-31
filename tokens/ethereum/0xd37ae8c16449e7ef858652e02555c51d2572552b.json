@@ -1,0 +1,15 @@
+{
+  "symbol": "insp",
+  "name": "INSPAD",
+  "address": "0xd37ae8C16449e7ef858652E02555c51d2572552b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36952/thumb/insectlogo.png?1712898707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd37ae8c16449e7ef858652e02555c51d2572552b"
+  }
+}

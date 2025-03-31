@@ -1,0 +1,15 @@
+{
+  "symbol": "huge",
+  "name": "HugeWin",
+  "address": "0xEC12BA5AC0F259e9ac6FC9A3bC23a76Ad2fDE5D9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35923/thumb/2024-03-01_17.49.27_%281%29.png?1710221459",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec12ba5ac0f259e9ac6fc9a3bc23a76ad2fde5d9"
+  }
+}

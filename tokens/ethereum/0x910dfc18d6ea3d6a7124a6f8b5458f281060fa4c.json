@@ -1,0 +1,15 @@
+{
+  "symbol": "x8x",
+  "name": "X8X",
+  "address": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1912/thumb/x8x.png?1547036213",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c"
+  }
+}

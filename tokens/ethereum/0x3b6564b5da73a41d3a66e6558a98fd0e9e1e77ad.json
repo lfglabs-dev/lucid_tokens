@@ -1,0 +1,19 @@
+{
+  "symbol": "uts",
+  "name": "Unitus",
+  "address": "0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33178/thumb/IMG_0051.jpeg?1700924333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
+    "polygon-zkevm": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
+    "optimistic-ethereum": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
+    "binance-smart-chain": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
+    "arbitrum-one": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad"
+  }
+}

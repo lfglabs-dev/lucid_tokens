@@ -1,0 +1,15 @@
+{
+  "symbol": "conwai",
+  "name": "Conwai",
+  "address": "0x2b117f0a9a56dDDAAF0257b476BfC39ca7E6Fda1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52236/thumb/tp.png?1732805691",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2b117f0a9a56dddaaf0257b476bfc39ca7e6fda1"
+  }
+}

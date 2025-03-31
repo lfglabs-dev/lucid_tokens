@@ -1,0 +1,15 @@
+{
+  "symbol": "cig",
+  "name": "Cigarette",
+  "address": "0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22145/thumb/cig.png?1640929916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb56b52316041a62b6b5d0583dce4a8ae7a3c629"
+  }
+}

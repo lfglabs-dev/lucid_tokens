@@ -1,0 +1,15 @@
+{
+  "symbol": "hixokdkekjcjdksicndnaiaihsbznnxnxnduje",
+  "name": "DEV SMASHED HIS KEYBOARD",
+  "address": "0x2105465Ab589B74747B01AfdAF606d058Fb082BE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32630/thumb/DEV_SMASHED_HIS_KEYBOARD.png?1698824159",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2105465ab589b74747b01afdaf606d058fb082be"
+  }
+}

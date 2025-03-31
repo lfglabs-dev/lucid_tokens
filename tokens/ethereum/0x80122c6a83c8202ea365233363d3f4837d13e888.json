@@ -1,0 +1,15 @@
+{
+  "symbol": "m87",
+  "name": "MESSIER",
+  "address": "0x80122c6a83C8202Ea365233363d3f4837D13e888",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25957/thumb/m87.png?1654860427",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80122c6a83c8202ea365233363d3f4837d13e888"
+  }
+}

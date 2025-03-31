@@ -1,0 +1,17 @@
+{
+  "symbol": "sovrn",
+  "name": "Sovrun",
+  "address": "0x031B8d752d73d7Fe9678ACEf26e818280D0646b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x031b8d752d73d7fe9678acef26e818280d0646b4",
+    "hyperliquid": "0xc6aef97252f0081eb8246e24f24c5fe7",
+    "base": "0xca4c2e10037ac1af9f501ecb11a710776c87d2d5"
+  }
+}

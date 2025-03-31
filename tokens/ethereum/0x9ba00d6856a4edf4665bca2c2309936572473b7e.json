@@ -1,0 +1,15 @@
+{
+  "symbol": "ausdc",
+  "name": "Aave v1 USDC",
+  "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11674/thumb/aUSDC.png?1592546449",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ba00d6856a4edf4665bca2c2309936572473b7e"
+  }
+}

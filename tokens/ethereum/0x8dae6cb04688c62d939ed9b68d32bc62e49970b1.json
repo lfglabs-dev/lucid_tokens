@@ -1,0 +1,16 @@
+{
+  "symbol": "acrv",
+  "name": "Aave CRV",
+  "address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17250/thumb/aCRV_2x.png?1626941642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
+    "fantom": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff"
+  }
+}

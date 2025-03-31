@@ -1,0 +1,15 @@
+{
+  "symbol": "degen",
+  "name": "DegenAds",
+  "address": "0x7b20798866Fe3320EC5395e9978a3C98195c7c36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50220/thumb/9dbd486f9b69c405cd7b82f824c08717.jpg?1726506528",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7b20798866fe3320ec5395e9978a3c98195c7c36"
+  }
+}

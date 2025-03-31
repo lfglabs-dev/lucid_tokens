@@ -1,0 +1,16 @@
+{
+  "symbol": "gcake",
+  "name": "Pancake Games",
+  "address": "0x5f944B0c4315Cb7c3a846b025AB4045da44abf6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20217/thumb/6oc-L2UC_400x400.png?1636671365",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
+    "binance-smart-chain": "0x61d5822dd7b3ed495108733e6550d4529480c8f6"
+  }
+}

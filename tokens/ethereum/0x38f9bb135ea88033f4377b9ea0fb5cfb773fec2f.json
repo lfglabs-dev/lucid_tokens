@@ -1,0 +1,15 @@
+{
+  "symbol": "alpha",
+  "name": "Alpha Shards",
+  "address": "0x38f9bb135ea88033f4377B9EA0fb5Cfb773fEc2F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32002/thumb/alpha_%281%29.jpeg?1695986310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38f9bb135ea88033f4377b9ea0fb5cfb773fec2f"
+  }
+}

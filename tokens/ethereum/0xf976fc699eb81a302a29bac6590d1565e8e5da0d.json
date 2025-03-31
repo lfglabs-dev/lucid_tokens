@@ -1,0 +1,15 @@
+{
+  "symbol": "rkc",
+  "name": "RAKUICHI Token",
+  "address": "0xf976fC699Eb81a302a29BaC6590D1565E8e5DA0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40065/thumb/_RKC_token_icon_S.png?1725483324",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf976fc699eb81a302a29bac6590d1565e8e5da0d"
+  }
+}

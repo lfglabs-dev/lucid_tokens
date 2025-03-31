@@ -1,0 +1,15 @@
+{
+  "symbol": "of",
+  "name": "OceanFund",
+  "address": "0xdE7E34ad87bFC5d5906F334661110EB438aF718b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50961/thumb/resized_logo.png?1729592420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde7e34ad87bfc5d5906f334661110eb438af718b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "peepa",
+  "name": "Peepa",
+  "address": "0x88417754Ff7062c10F4E3A4AB7E9F9D9cbDa6023",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37880/thumb/bTYBf95x_400x400.jpg?1715839748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x88417754ff7062c10f4e3a4ab7e9f9d9cbda6023"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "rdpx",
+  "name": "Dopex Rebate",
+  "address": "0x0ff5A8451A839f5F0BB3562689D9A44089738D11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16659/thumb/rDPX_200x200_Coingecko.png?1624614475",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ff5a8451a839f5f0bb3562689d9a44089738d11",
+    "arbitrum-one": "0x32eb7902d4134bf98a28b963d26de779af92a212"
+  }
+}

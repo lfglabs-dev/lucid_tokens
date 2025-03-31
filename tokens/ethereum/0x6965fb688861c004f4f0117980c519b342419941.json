@@ -1,0 +1,15 @@
+{
+  "symbol": "$number",
+  "name": "NUMBER",
+  "address": "0x6965fb688861C004F4F0117980c519B342419941",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53149/thumb/Screen_Shot_2024-12-27_at_2.06.14_PM.png?1735406170",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6965fb688861c004f4f0117980c519b342419941"
+  }
+}

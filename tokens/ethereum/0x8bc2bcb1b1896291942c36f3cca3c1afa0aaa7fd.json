@@ -1,0 +1,15 @@
+{
+  "symbol": "pace",
+  "name": "3SPACE ART",
+  "address": "0x8Bc2bCb1b1896291942C36F3Cca3C1afA0Aaa7fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8bc2bcb1b1896291942c36f3cca3c1afa0aaa7fd"
+  }
+}

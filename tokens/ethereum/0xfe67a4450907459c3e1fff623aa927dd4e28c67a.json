@@ -1,0 +1,20 @@
+{
+  "symbol": "next",
+  "name": "Everclear",
+  "address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31293/thumb/connext.png?1692331440",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe67a4450907459c3e1fff623aa927dd4e28c67a",
+    "xdai": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "optimistic-ethereum": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "binance-smart-chain": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "arbitrum-one": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "polygon-pos": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+  }
+}

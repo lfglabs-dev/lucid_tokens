@@ -1,0 +1,15 @@
+{
+  "symbol": "onai",
+  "name": "Onchain AI",
+  "address": "0x6Aaeb26b663E37c4D0C995758c69d5e54bBE9984",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53690/thumb/photo_2025-01-16_00-00-25_%282%29.jpg?1737050823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6aaeb26b663e37c4d0c995758c69d5e54bbe9984"
+  }
+}

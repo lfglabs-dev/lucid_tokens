@@ -1,0 +1,15 @@
+{
+  "symbol": "mickey",
+  "name": "Steamboat Willie",
+  "address": "0x9609b540e5Dedddb147AbBF9812ADE06b1e61B2C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35349/thumb/photo_2023-12-30_01.07.19.jpeg?1708340723",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9609b540e5dedddb147abbf9812ade06b1e61b2c"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "xsgd",
+  "name": "XSGD",
+  "address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+    "hedera-hashgraph": "0x00000000000000000000000000000000001e4d82",
+    "zilliqa": "zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh",
+    "avalanche": "0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e",
+    "polygon-pos": "0xdc3326e71d45186f113a2f448984ca0e8d201995"
+  }
+}

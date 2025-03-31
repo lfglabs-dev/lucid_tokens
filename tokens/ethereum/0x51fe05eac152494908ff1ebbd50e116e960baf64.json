@@ -1,0 +1,15 @@
+{
+  "symbol": "xgpt",
+  "name": "X-GPT",
+  "address": "0x51FE05eAc152494908ff1EbbD50e116e960BaF64",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31559/thumb/XGPT_Logo.png?1693805190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x51fe05eac152494908ff1ebbd50e116e960baf64"
+  }
+}

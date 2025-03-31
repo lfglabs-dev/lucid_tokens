@@ -1,0 +1,15 @@
+{
+  "symbol": "sig",
+  "name": "Signet",
+  "address": "0x000000000075F13bCF2E6652e84821e8b544F6F9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33552/thumb/st.png?1702428755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x000000000075f13bcf2e6652e84821e8b544f6f9"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "pt",
+  "name": "Phemex Token",
+  "address": "0xbBb32f99e6F2Cb29337EeBAA43C5069386DE6e6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbbb32f99e6f2cb29337eebaa43c5069386de6e6c",
+    "optimistic-ethereum": "0x35b5a3bf31b67f832230da9424824edc9f7ad98c"
+  }
+}

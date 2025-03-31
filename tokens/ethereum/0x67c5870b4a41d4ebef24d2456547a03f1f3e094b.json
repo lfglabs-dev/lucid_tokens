@@ -1,0 +1,17 @@
+{
+  "symbol": "$g",
+  "name": "GoodDollar",
+  "address": "0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14782/thumb/G__Coin_%281%29.png?1696514451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x67c5870b4a41d4ebef24d2456547a03f1f3e094b",
+    "fuse": "0x495d133b938596c9984d462f007b676bdc57ecec",
+    "celo": "0x62b8b11039fcfe5ab0c56e502b1c372a3d2a9c7a"
+  }
+}

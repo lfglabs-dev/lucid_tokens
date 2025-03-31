@@ -1,0 +1,15 @@
+{
+  "symbol": "wait",
+  "name": "Hourglass",
+  "address": "0x2559813BBb508C4C79e9CCCE4703Bcb1f149EDd7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27516/thumb/Hourglass-Logo.png?1664353478",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2559813bbb508c4c79e9ccce4703bcb1f149edd7"
+  }
+}

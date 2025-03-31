@@ -1,0 +1,15 @@
+{
+  "symbol": "blb",
+  "name": "Blueberry",
+  "address": "0x904f36d74bED2Ef2729Eaa1c7A5B70dEA2966a02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35312/thumb/Blueberry_Logo.png?1708159808",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x904f36d74bed2ef2729eaa1c7a5b70dea2966a02"
+  }
+}

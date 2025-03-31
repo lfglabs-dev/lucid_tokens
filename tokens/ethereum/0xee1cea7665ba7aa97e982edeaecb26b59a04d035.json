@@ -1,0 +1,15 @@
+{
+  "symbol": "orao",
+  "name": "ORAO Network",
+  "address": "0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15189/thumb/orao.PNG?1620078596",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xee1cea7665ba7aa97e982edeaecb26b59a04d035"
+  }
+}

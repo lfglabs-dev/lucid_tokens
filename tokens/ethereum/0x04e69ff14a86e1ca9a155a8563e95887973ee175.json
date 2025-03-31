@@ -1,0 +1,15 @@
+{
+  "symbol": "aitv",
+  "name": "Agentcoin.TV",
+  "address": "0x04E69Ff14A86E1ca9a155A8563E95887973EE175",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54817/thumb/AITV_Logo.png?1741850718",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x04e69ff14a86e1ca9a155a8563e95887973ee175"
+  }
+}

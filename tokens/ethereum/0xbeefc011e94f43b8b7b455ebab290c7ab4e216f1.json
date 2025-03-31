@@ -1,0 +1,15 @@
+{
+  "symbol": "csusdl",
+  "name": "Coinshift USDL Morpho Vault",
+  "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52413/thumb/steak-USDL.png?1733305755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1"
+  }
+}

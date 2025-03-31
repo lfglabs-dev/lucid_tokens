@@ -1,0 +1,15 @@
+{
+  "symbol": "esg",
+  "name": "ESG",
+  "address": "0x20cD2E7Ec8F5d8b337fe46a4F565Ccef1561b9a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24932/thumb/esg.png?1649397514",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20cd2e7ec8f5d8b337fe46a4f565ccef1561b9a9"
+  }
+}

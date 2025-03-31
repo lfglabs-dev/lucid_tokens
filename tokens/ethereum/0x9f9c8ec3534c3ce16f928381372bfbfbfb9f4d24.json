@@ -1,0 +1,15 @@
+{
+  "symbol": "glq",
+  "name": "GraphLinq Chain",
+  "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14474/thumb/graphlinq_logo.jpg?1616397109",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24"
+  }
+}

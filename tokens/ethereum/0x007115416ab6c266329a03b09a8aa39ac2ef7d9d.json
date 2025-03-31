@@ -1,0 +1,15 @@
+{
+  "symbol": "mbtc",
+  "name": "Midas mBTC",
+  "address": "0x007115416AB6c266329a03B09a8aa39aC2eF7d9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51055/thumb/mbtc.png?1729875716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x007115416ab6c266329a03b09a8aa39ac2ef7d9d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gpt",
+  "name": "GPT Protocol",
+  "address": "0xCdb4A8742ed7D0259b51E3454C46C9D6C48d5e88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35929/thumb/gpt.png?1710225428",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcdb4a8742ed7d0259b51e3454c46c9d6c48d5e88"
+  }
+}

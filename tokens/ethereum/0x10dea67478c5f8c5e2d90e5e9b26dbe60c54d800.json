@@ -1,0 +1,16 @@
+{
+  "symbol": "taiko",
+  "name": "Taiko",
+  "address": "0x10dea67478c5F8C5E2D90e5E9B26dBe60c54d800",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38058/thumb/taiko.jpeg?1716431738",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800",
+    "taiko": "0xa9d23408b9ba935c230493c40c73824df71a0975"
+  }
+}

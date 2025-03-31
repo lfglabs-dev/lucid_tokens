@@ -1,0 +1,15 @@
+{
+  "symbol": "hgeth",
+  "name": "High Growth ETH",
+  "address": "0xc824A08dB624942c5E5F330d56530cD1598859fD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52281/thumb/hgETH.png?1732897068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc824a08db624942c5e5f330d56530cd1598859fd"
+  }
+}

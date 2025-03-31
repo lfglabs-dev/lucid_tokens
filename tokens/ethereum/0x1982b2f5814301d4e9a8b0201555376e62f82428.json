@@ -1,0 +1,15 @@
+{
+  "symbol": "asteth",
+  "name": "Aave Interest Bearing STETH",
+  "address": "0x1982b2F5814301d4e9a8b0201555376e62F82428",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1646634315",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1982b2f5814301d4e9a8b0201555376e62f82428"
+  }
+}

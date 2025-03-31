@@ -1,0 +1,15 @@
+{
+  "symbol": "boa",
+  "name": "BOSagora",
+  "address": "0x746DdA2ea243400D5a63e0700F190aB79f06489e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9202/thumb/boaLogo.png?1565231346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x746dda2ea243400d5a63e0700f190ab79f06489e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "goatx",
+  "name": "GOATX",
+  "address": "0x4Eca7761a516F8300711cbF920C0b85555261993",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53313/thumb/GoatXCG.png?1736083740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4eca7761a516f8300711cbf920c0b85555261993"
+  }
+}

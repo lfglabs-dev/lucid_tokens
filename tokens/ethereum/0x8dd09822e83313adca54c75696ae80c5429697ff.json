@@ -1,0 +1,15 @@
+{
+  "symbol": "sifu",
+  "name": "Sifu Vision",
+  "address": "0x8DD09822E83313adCA54c75696aE80C5429697Ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35601/thumb/quewxQN.png?1709267056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8dd09822e83313adca54c75696ae80c5429697ff"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "copi",
+  "name": "Cornucopias",
+  "address": "0x42Baf1f659D765C65ADE5BB7E08eb2C680360d9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21452/thumb/g56WwJDA_400x400.jpg?1639174968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfea292e5ea4510881bdb840e3cec63abd43f936f",
+    "cardano": "asset1c6uau7pufsxhnm7eg0eerhu4snwfd9sn7kvvvz",
+    "ethereum": "0x42baf1f659d765c65ade5bb7e08eb2c680360d9d",
+    "base": "0x0a953dd9fc813fefaf6015b804c9dfa0624690c0"
+  }
+}

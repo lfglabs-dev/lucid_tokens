@@ -1,0 +1,15 @@
+{
+  "symbol": "hoppy",
+  "name": "Hoppy The Frog",
+  "address": "0xE5c6F5fEF89B64f36BfcCb063962820136bAc42F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36745/thumb/1000012607.png?1712217627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5c6f5fef89b64f36bfccb063962820136bac42f"
+  }
+}

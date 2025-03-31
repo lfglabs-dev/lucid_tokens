@@ -1,0 +1,15 @@
+{
+  "symbol": "gen",
+  "name": "Generational Wealth",
+  "address": "0xcae3fAA4B6cF660AEF18474074949BA0948bc025",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30419/thumb/ethericon200x200.png?1684391637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcae3faa4b6cf660aef18474074949ba0948bc025"
+  }
+}

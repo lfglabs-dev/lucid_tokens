@@ -1,0 +1,16 @@
+{
+  "symbol": "coc",
+  "name": "Coin of the champions",
+  "address": "0xc4BB7277A74678f053259CB1F96140347efbfd46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18478/thumb/COC-Yellow-Transparent-1.png?1632148454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbdc3b3639f7aa19e623a4d603a3fb7ab20115a91",
+    "ethereum": "0xc4bb7277a74678f053259cb1f96140347efbfd46"
+  }
+}

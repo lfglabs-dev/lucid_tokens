@@ -1,0 +1,15 @@
+{
+  "symbol": "loong",
+  "name": "PLUMPY DRAGONS",
+  "address": "0x954a75564Cb355EA2D6FcCc6c1212FD01FdcB06f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35356/thumb/IMG_8571.png?1708362233",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x954a75564cb355ea2d6fccc6c1212fd01fdcb06f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "arata",
+  "name": "Arata AGI",
+  "address": "0x554fb3b6C1cf4a3Cef49779ced321Ca51c667D7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51555/thumb/500px.png?1731517839",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x554fb3b6c1cf4a3cef49779ced321ca51c667d7d"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ccs",
+  "name": "CloutContracts",
+  "address": "0x1da4858ad385cc377165A298CC2CE3fce0C5fD31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19072/thumb/200.png?1634829111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+    "binance-smart-chain": "0x3e3b357061103dc040759ac7dceeaba9901043ad"
+  }
+}

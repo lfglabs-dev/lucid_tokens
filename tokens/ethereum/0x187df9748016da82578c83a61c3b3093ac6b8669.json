@@ -1,0 +1,15 @@
+{
+  "symbol": "krazy",
+  "name": "krazy n.d.",
+  "address": "0x187df9748016Da82578C83A61c3b3093ac6b8669",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39001/thumb/9uOcZ9ZO_400x400.jpg?1719818749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x187df9748016da82578c83a61c3b3093ac6b8669"
+  }
+}

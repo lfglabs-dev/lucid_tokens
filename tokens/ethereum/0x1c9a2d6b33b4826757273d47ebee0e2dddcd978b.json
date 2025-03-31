@@ -1,0 +1,15 @@
+{
+  "symbol": "ffrax",
+  "name": "Flux FRAX",
+  "address": "0x1C9A2d6b33B4826757273D47ebEe0e2DddcD978B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29580/thumb/fFRAX-320.png?1679813767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1c9a2d6b33b4826757273d47ebee0e2dddcd978b"
+  }
+}

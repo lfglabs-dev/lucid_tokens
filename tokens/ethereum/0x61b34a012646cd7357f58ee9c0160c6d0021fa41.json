@@ -1,0 +1,15 @@
+{
+  "symbol": "elo",
+  "name": "Elosys",
+  "address": "0x61b34A012646cD7357f58eE9c0160c6d0021fA41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34040/thumb/logo200x200.png?1703693735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x61b34a012646cd7357f58ee9c0160c6d0021fa41"
+  }
+}

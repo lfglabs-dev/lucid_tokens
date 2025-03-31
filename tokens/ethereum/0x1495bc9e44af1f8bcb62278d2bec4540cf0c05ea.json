@@ -1,0 +1,15 @@
+{
+  "symbol": "deai",
+  "name": "Zero1 Labs",
+  "address": "0x1495bc9e44Af1F8BCB62278D2bEC4540cF0C05ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36315/thumb/512x512-xion-ava03.png?1711092111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "walv",
+  "name": "Alvey Chain",
+  "address": "0x256D1fCE1b1221e8398f65F9B36033CE50B2D497",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26964/thumb/logo200x200.png?1661079637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
+    "ethereum": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497"
+  }
+}

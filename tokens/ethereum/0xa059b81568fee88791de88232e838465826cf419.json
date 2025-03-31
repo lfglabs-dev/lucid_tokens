@@ -1,0 +1,15 @@
+{
+  "symbol": "$three",
+  "name": "THREE",
+  "address": "0xa059b81568FeE88791de88232e838465826cf419",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37486/thumb/Three_Token.png?1714491488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa059b81568fee88791de88232e838465826cf419"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dmt",
+  "name": "DarkMatter",
+  "address": "0x5b1D655C93185b06B00f7925791106132Cb3ad75",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23989/thumb/dmt.png?1645948367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5b1d655c93185b06b00f7925791106132cb3ad75"
+  }
+}

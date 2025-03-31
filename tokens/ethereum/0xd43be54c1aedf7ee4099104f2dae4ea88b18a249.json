@@ -1,0 +1,15 @@
+{
+  "symbol": "traxx",
+  "name": "Traxx",
+  "address": "0xD43Be54C1aedf7Ee4099104f2DaE4eA88B18A249",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24441/thumb/traxx.png?1647671236",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249"
+  }
+}

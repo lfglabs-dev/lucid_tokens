@@ -1,0 +1,15 @@
+{
+  "symbol": "wizard",
+  "name": "WIZARD Vault (NFTX)",
+  "address": "0x87931E7AD81914e7898d07c68F145fC0A553D8Fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17068/thumb/Wizards.png?1626151233",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x87931e7ad81914e7898d07c68f145fc0a553d8fb"
+  }
+}

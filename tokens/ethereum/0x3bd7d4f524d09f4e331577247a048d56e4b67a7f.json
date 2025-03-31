@@ -1,0 +1,15 @@
+{
+  "symbol": "5ire",
+  "name": "5ire",
+  "address": "0x3bd7d4F524D09F4e331577247A048D56e4b67a7F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25246/thumb/16919.png?1696524387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3bd7d4f524d09f4e331577247a048d56e4b67a7f"
+  }
+}

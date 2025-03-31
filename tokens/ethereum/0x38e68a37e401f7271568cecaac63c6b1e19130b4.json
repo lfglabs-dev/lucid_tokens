@@ -1,0 +1,15 @@
+{
+  "symbol": "banana",
+  "name": "Banana Gun",
+  "address": "0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31744/thumb/bgg.jpeg?1694709539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38e68a37e401f7271568cecaac63c6b1e19130b4"
+  }
+}

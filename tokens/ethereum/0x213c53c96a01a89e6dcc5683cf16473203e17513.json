@@ -1,0 +1,15 @@
+{
+  "symbol": "dss",
+  "name": "Defi Shopping Stake",
+  "address": "0x213C53C96A01a89E6Dcc5683cF16473203E17513",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12602/thumb/DSS.png?1601002204",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x213c53c96a01a89e6dcc5683cf16473203e17513"
+  }
+}

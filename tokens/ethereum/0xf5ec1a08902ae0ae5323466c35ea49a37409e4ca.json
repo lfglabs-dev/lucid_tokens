@@ -1,0 +1,15 @@
+{
+  "symbol": "sup",
+  "name": "SAKURA UNITED PLATFORM",
+  "address": "0xf5ec1A08902Ae0aE5323466C35ea49A37409e4Ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32213/thumb/apple200%C3%97200.png?1696827569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf5ec1a08902ae0ae5323466c35ea49a37409e4ca"
+  }
+}

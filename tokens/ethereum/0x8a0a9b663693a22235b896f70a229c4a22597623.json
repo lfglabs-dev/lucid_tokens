@@ -1,0 +1,15 @@
+{
+  "symbol": "scale",
+  "name": "Scalia Infrastructure",
+  "address": "0x8A0a9b663693A22235B896f70a229C4A22597623",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35653/thumb/Scalia_Infrastructure.png?1709380021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a0a9b663693a22235b896f70a229c4a22597623"
+  }
+}

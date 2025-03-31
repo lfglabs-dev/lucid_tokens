@@ -1,0 +1,15 @@
+{
+  "symbol": "mmev",
+  "name": "Midas mMEV",
+  "address": "0x030b69280892c888670EDCDCD8B69Fd8026A0BF3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54592/thumb/mmev_logo.png?1740565795",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x030b69280892c888670edcdcd8b69fd8026a0bf3"
+  }
+}

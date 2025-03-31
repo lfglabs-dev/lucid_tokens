@@ -1,0 +1,15 @@
+{
+  "symbol": "titanx",
+  "name": "TitanX",
+  "address": "0xF19308F923582A6f7c465e5CE7a9Dc1BEC6665B1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1"
+  }
+}

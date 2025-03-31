@@ -1,0 +1,15 @@
+{
+  "symbol": "ethx",
+  "name": "Stader ETHx",
+  "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30870/thumb/ETHx-small.png?1688373266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b"
+  }
+}

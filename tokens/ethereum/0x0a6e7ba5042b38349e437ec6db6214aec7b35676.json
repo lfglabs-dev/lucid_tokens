@@ -1,0 +1,15 @@
+{
+  "symbol": "swell",
+  "name": "Swell",
+  "address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28777/thumb/swell.jpeg?1674108137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0a6e7ba5042b38349e437ec6db6214aec7b35676"
+  }
+}

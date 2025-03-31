@@ -1,0 +1,18 @@
+{
+  "symbol": "spell",
+  "name": "Spell",
+  "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1622544862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "fantom": "0x468003b688943977e6130f4f68f23aad939a1040",
+    "avalanche": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+    "arbitrum-one": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af"
+  }
+}

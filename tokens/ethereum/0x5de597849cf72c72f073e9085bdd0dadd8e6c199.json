@@ -1,0 +1,15 @@
+{
+  "symbol": "fbx",
+  "name": "Finblox",
+  "address": "0x5De597849Cf72c72f073e9085bDD0DadD8E6C199",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27087/thumb/fbx.png?1661774906",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5de597849cf72c72f073e9085bdd0dadd8e6c199"
+  }
+}

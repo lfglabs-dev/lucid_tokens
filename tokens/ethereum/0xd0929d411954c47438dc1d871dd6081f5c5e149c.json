@@ -1,0 +1,15 @@
+{
+  "symbol": "rfr",
+  "name": "Refereum",
+  "address": "0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2102/thumb/refereum.png?1548608001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+  }
+}

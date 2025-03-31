@@ -1,0 +1,15 @@
+{
+  "symbol": "pai",
+  "name": "Purple AI",
+  "address": "0xa0Cc4428FbB652C396F28DcE8868B8743742A71c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34193/thumb/Purple_AI.png?1704272332",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0cc4428fbb652c396f28dce8868b8743742a71c"
+  }
+}

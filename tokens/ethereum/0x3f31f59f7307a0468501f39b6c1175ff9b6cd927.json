@@ -1,0 +1,15 @@
+{
+  "symbol": "zora",
+  "name": "Zora AI",
+  "address": "0x3F31f59F7307A0468501f39B6c1175fF9b6cD927",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53466/thumb/WaoDtBhe_400x400.jpg?1736453050",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f31f59f7307a0468501f39b6c1175ff9b6cd927"
+  }
+}

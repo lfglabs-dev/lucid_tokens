@@ -1,0 +1,16 @@
+{
+  "symbol": "npxs",
+  "name": "Pundi X [OLD]",
+  "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2170/thumb/pundi-x.png?1548386366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+    "energi": "0x1bf6ea422574e0f5d336083a771768cb4e11390d"
+  }
+}

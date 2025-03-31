@@ -1,0 +1,15 @@
+{
+  "symbol": "rnb",
+  "name": "Rentible",
+  "address": "0x20a62aCA58526836165cA53fE67dd884288c8Abf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15176/thumb/Rentible-Token-Logo.png?1620025850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20a62aca58526836165ca53fe67dd884288c8abf"
+  }
+}

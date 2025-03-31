@@ -1,0 +1,16 @@
+{
+  "symbol": "nabox",
+  "name": "Nabox",
+  "address": "0x03D1E72765545729A035e909eDd9371a405f77Fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16445/thumb/NyemjVRA_400x400.png?1624235013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x03d1e72765545729a035e909edd9371a405f77fb",
+    "binance-smart-chain": "0x755f34709e369d37c6fa52808ae84a32007d1155"
+  }
+}

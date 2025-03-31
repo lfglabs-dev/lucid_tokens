@@ -1,0 +1,15 @@
+{
+  "symbol": "vic",
+  "name": "Victory Impact",
+  "address": "0x1e3778Dd6dBfDc1C5B89f95F7C098B21e80eC4FA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32814/thumb/1000084688.png?1699578648",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1e3778dd6dbfdc1c5b89f95f7c098b21e80ec4fa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "byb",
+  "name": "BiorBank",
+  "address": "0xfbcb83037d770b28F758530022897362521b6141",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54930/thumb/logo_blue_nobackround.png?1742626529",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfbcb83037d770b28f758530022897362521b6141"
+  }
+}

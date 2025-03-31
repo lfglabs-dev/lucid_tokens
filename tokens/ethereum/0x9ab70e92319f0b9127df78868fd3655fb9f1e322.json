@@ -1,0 +1,16 @@
+{
+  "symbol": "wwy",
+  "name": "WeWay",
+  "address": "0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22418/thumb/aeYkGywy_400x400.jpg?1641805947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322",
+    "ethereum": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322"
+  }
+}

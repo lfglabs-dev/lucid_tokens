@@ -1,0 +1,15 @@
+{
+  "symbol": "fastai",
+  "name": "Fast And AI",
+  "address": "0xF986408A1788CEB3BB4B4BE4AA96A43914168554",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39861/thumb/Fastai_200x200.png?1724375616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf986408a1788ceb3bb4b4be4aa96a43914168554"
+  }
+}

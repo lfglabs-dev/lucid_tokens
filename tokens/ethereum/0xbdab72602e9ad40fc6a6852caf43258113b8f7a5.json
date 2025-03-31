@@ -1,0 +1,16 @@
+{
+  "symbol": "sov",
+  "name": "Sovryn",
+  "address": "0xbdab72602e9AD40FC6a6852CAf43258113B8F7a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16248/thumb/sov.PNG?1623380748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
+    "rootstock": "0xefc78fc7d48b64958315949279ba181c2114abbd"
+  }
+}

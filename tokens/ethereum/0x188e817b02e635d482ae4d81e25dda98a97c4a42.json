@@ -1,0 +1,15 @@
+{
+  "symbol": "lith",
+  "name": "Lithium Finance",
+  "address": "0x188E817B02e635D482AE4D81e25DdA98A97C4a42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17278/thumb/Lithium_Logo-03200x200.png?1627018557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x188e817b02e635d482ae4d81e25dda98a97c4a42"
+  }
+}

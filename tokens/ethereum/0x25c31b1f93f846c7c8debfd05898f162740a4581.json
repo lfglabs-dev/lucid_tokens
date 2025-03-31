@@ -1,0 +1,16 @@
+{
+  "symbol": "wander",
+  "name": "WANDER",
+  "address": "0x25c31B1F93F846C7c8debfD05898F162740A4581",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53471/thumb/WanderCoin_Logo_Svg_%281%29.png?1736475063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xef0fd52e65ddcdc201e2055a94d2abff6ff10a7a",
+    "ethereum": "0x25c31b1f93f846c7c8debfd05898f162740a4581"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mak",
+  "name": "MetaCene",
+  "address": "0xc283c54DF1d858570071a053057806ae73CB6A64",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39303/thumb/output-onlinepngtools.png?1721632581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc283c54df1d858570071a053057806ae73cb6a64"
+  }
+}

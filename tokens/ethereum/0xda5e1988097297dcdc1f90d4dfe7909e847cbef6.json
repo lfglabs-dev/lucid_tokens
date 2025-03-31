@@ -1,0 +1,15 @@
+{
+  "symbol": "wlfi",
+  "name": "World Liberty Financial",
+  "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50767/thumb/wlfi.jpg?1729123752",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda5e1988097297dcdc1f90d4dfe7909e847cbef6"
+  }
+}

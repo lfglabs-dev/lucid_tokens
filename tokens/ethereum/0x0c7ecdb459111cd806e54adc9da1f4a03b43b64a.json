@@ -1,0 +1,15 @@
+{
+  "symbol": "gg",
+  "name": "GrimGold",
+  "address": "0x0C7EcdB459111cd806e54ADC9Da1F4A03B43B64a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51556/thumb/grimgold-token2x.png?1731518251",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c7ecdb459111cd806e54adc9da1f4a03b43b64a"
+  }
+}

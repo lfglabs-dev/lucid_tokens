@@ -1,0 +1,15 @@
+{
+  "symbol": "eigen",
+  "name": "Eigenlayer",
+  "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37441/thumb/eigenlayer.png?1714436218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83"
+  }
+}

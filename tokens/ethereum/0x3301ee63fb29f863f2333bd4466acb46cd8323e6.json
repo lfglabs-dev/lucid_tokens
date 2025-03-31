@@ -1,0 +1,16 @@
+{
+  "symbol": "akita",
+  "name": "Akita Inu",
+  "address": "0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14115/thumb/logo_%282%29.png?1644913173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
+    "avalanche": "0xcaf5191fc480f43e4df80106c7695eca56e48b18"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "nrg",
+  "name": "Energi",
+  "address": "0x1416946162B1C2c871A73B07E932D2fB6C932069",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5795/thumb/3218.png?1604798557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1416946162b1c2c871a73b07e932d2fb6c932069"
+  }
+}

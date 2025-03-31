@@ -1,0 +1,17 @@
+{
+  "symbol": "paal",
+  "name": "PAAL AI",
+  "address": "0x14feE680690900BA0ccCfC76AD70Fd1b95D10e16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30815/thumb/PaalX.jpg?1687510326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x14fee680690900ba0cccfc76ad70fd1b95d10e16",
+    "base": "0xd52333441c0553facb259600fa833a69186893a5",
+    "binance-smart-chain": "0xbb1b031c591235408755ff4e0739cb88c5cf2507"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "orc",
+  "name": "Orbit Chain",
+  "address": "0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9782/thumb/-p1Br7oh_400x400.png?1571716593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x662b67d00a13faf93254714dd601f5ed49ef2f51"
+  }
+}

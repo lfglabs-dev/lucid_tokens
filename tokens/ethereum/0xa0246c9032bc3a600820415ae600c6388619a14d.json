@@ -1,0 +1,17 @@
+{
+  "symbol": "farm",
+  "name": "Harvest Finance",
+  "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12304/thumb/Harvest.png?1613016180",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+    "energi": "0xc59a4b20ea0f8a7e6e216e7f1b070247520a4514",
+    "binance-smart-chain": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743"
+  }
+}

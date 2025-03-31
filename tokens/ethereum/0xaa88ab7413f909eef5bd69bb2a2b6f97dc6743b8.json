@@ -1,0 +1,18 @@
+{
+  "symbol": "pg.d",
+  "name": "Dinari PG",
+  "address": "0xAA88AB7413F909EeF5Bd69BB2a2b6F97DC6743b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb90e1ee5f4194388e71c11dc2a4eea16da391ce4",
+    "ethereum": "0xaa88ab7413f909eef5bd69bb2a2b6f97dc6743b8",
+    "blast": "0x8ad2b97b7fca40af71bfef9857d10bc1bfe70175",
+    "base": "0x437b5acc7d6f0eacb97431e649c61e98badb3f92"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "one",
+  "name": "One",
+  "address": "0x946551DD05C5Abd7CC808927480225ce36D8c475",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4960/thumb/Screenshot_39.png?1561103318",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x946551dd05c5abd7cc808927480225ce36d8c475",
+    "huobi-token": "0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0",
+    "binance-smart-chain": "0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0"
+  }
+}

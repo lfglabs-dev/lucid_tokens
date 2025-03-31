@@ -1,0 +1,15 @@
+{
+  "symbol": "anim",
+  "name": "Animalia",
+  "address": "0xFbcb5cBEDEebCC55dCd136D34Db1DaaF74cf67E8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22706/thumb/1_rHlkmYoebSJ_wn0iE_-d-g_2x.png?1696522016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfbcb5cbedeebcc55dcd136d34db1daaf74cf67e8"
+  }
+}

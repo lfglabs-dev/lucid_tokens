@@ -1,0 +1,15 @@
+{
+  "symbol": "yvhegic",
+  "name": "HEGIC yVault",
+  "address": "0xe11ba472F74869176652C35D30dB89854b5ae84D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28798/thumb/yvHEGIC-128-0xe11ba472F74869176652C35D30dB89854b5ae84D.png?1674226668",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe11ba472f74869176652c35d30db89854b5ae84d"
+  }
+}

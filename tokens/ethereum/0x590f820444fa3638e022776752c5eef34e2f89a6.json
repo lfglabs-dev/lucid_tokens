@@ -1,0 +1,16 @@
+{
+  "symbol": "alph",
+  "name": "Alephium",
+  "address": "0x590F820444fA3638e022776752c5eEF34E2F89A6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21598/thumb/Alephium-Logo_200x200_listing.png?1639547498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x590f820444fa3638e022776752c5eef34e2f89a6",
+    "binance-smart-chain": "0x8683ba2f8b0f69b2105f26f488bade1d3ab4dec8"
+  }
+}

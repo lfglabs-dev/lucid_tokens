@@ -1,0 +1,15 @@
+{
+  "symbol": "mausdt",
+  "name": "Morpho-Aave Tether USD",
+  "address": "0xAFe7131a57E44f832cb2dE78ade38CaD644aaC2f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29834/thumb/maUSDT_%284%29.png?1681718428",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xafe7131a57e44f832cb2de78ade38cad644aac2f"
+  }
+}

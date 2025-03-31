@@ -1,0 +1,15 @@
+{
+  "symbol": "mnd",
+  "name": "Mind",
+  "address": "0xa0Dd6dd7775E93EB842Db0AA142c9c581031Ed3B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33540/thumb/mind-logo-black-resized.png?1702378297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b"
+  }
+}

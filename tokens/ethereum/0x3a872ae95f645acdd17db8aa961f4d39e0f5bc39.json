@@ -1,0 +1,15 @@
+{
+  "symbol": "brln",
+  "name": "Brillion",
+  "address": "0x3a872aE95F645aCDd17DB8aA961F4D39E0f5bC39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27976/thumb/profile-200x200.png?1666776590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3a872ae95f645acdd17db8aa961f4d39e0f5bc39"
+  }
+}

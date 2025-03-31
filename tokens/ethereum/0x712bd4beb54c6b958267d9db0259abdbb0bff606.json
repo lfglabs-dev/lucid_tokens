@@ -1,0 +1,15 @@
+{
+  "symbol": "uds",
+  "name": "Undeads Games",
+  "address": "0x712bd4Beb54C6B958267d9dB0259abdBb0BFF606",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36308/thumb/01_avatar.jpg?1711090303",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x712bd4beb54c6b958267d9db0259abdbb0bff606"
+  }
+}

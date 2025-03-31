@@ -1,0 +1,15 @@
+{
+  "symbol": "cnai",
+  "name": "Cloudnet Ai",
+  "address": "0x1B78FfBC66139466c4A432f763afcE8d4C991060",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36574/thumb/cloud.jpeg?1711943190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b78ffbc66139466c4a432f763afce8d4c991060"
+  }
+}

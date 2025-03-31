@@ -1,0 +1,15 @@
+{
+  "symbol": "andyman",
+  "name": "Andyman",
+  "address": "0x68aaa0D94eA163B9BBf659Dc3766dEFB4c0Ac7BE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50943/thumb/output-onlinepngtools.png?1729584614",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68aaa0d94ea163b9bbf659dc3766defb4c0ac7be"
+  }
+}

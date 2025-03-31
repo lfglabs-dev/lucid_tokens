@@ -1,0 +1,16 @@
+{
+  "symbol": "gcr",
+  "name": "Global Coin Research",
+  "address": "0x6307B25A665Efc992EC1C1bC403c38F3dDd7c661",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14815/thumb/gcr.jpeg?1641461197",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6307b25a665efc992ec1c1bc403c38f3ddd7c661",
+    "polygon-pos": "0xa69d14d6369e414a32a5c7e729b7afbafd285965"
+  }
+}

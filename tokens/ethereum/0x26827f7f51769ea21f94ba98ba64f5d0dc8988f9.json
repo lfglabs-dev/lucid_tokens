@@ -1,0 +1,15 @@
+{
+  "symbol": "$fame",
+  "name": "FAME- Rumble Kong League",
+  "address": "0x26827f7F51769eA21f94BA98bA64F5d0dc8988F9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54814/thumb/fame-token-3d.png?1741835413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9"
+  }
+}

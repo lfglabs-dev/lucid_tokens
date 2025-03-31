@@ -1,0 +1,15 @@
+{
+  "symbol": "fonzy",
+  "name": "Fonzy",
+  "address": "0xb939DA54f9748440A1B279d42Be1296942732288",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30245/thumb/FONZY_CROWN_2_HANDS_%282%29.png?1683694006",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb939da54f9748440a1b279d42be1296942732288"
+  }
+}

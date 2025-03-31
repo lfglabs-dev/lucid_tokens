@@ -1,0 +1,16 @@
+{
+  "symbol": "zend",
+  "name": "zkLend",
+  "address": "0xb2606492712D311be8f41d940AFE8CE742A52D44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35979/thumb/zkLend_ZEND_logo_square_transparent_background_%281%29.png?1710306648",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb2606492712d311be8f41d940afe8ce742a52d44",
+    "starknet": "0x585c32b625999e6e5e78645ff8df7a9001cf5cf3eb6b80ccdd16cb64bd3a34"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "doe",
+  "name": "Dogs Of Elon",
+  "address": "0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19942/thumb/doe.png?1636336026",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef"
+  }
+}

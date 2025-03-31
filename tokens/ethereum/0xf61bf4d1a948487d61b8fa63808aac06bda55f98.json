@@ -1,0 +1,15 @@
+{
+  "symbol": "tr3",
+  "name": "Tr3zor",
+  "address": "0xF61BF4d1A948487d61b8fa63808AAC06bda55F98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21980/thumb/9T9OoYXE_400x400.jpg?1640573690",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf61bf4d1a948487d61b8fa63808aac06bda55f98"
+  }
+}

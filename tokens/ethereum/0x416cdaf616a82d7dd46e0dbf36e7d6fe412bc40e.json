@@ -1,0 +1,15 @@
+{
+  "symbol": "$luna",
+  "name": "Luna28",
+  "address": "0x416CdAF616a82d7Dd46e0dBF36e7d6fE412bc40e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34777/thumb/399E75AE-B38C-4677-84C2-CFE4E6CFB39B.jpg?1706004047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x416cdaf616a82d7dd46e0dbf36e7d6fe412bc40e"
+  }
+}

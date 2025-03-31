@@ -1,0 +1,15 @@
+{
+  "symbol": "xox",
+  "name": "XOX Labs",
+  "address": "0x0f5C78f152152dDA52a2ea45B0a8C10733010748",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34611/thumb/0164CF6D-8683-418C-9ACB-C6D63B9E1CCB.jpeg?1705499880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f5c78f152152dda52a2ea45b0a8c10733010748"
+  }
+}

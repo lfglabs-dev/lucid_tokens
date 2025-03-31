@@ -1,0 +1,15 @@
+{
+  "symbol": "mezz",
+  "name": "MEZZ",
+  "address": "0xC4c346eDc55504574cCEB00AA1091d22404A4bC3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29344/thumb/20230307_234212.png?1678239961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4c346edc55504574cceb00aa1091d22404a4bc3"
+  }
+}

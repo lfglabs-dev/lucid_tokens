@@ -1,0 +1,15 @@
+{
+  "symbol": "awx",
+  "name": "AwesomeX",
+  "address": "0xa99AFcC6Aa4530d01DFFF8E55ec66E4C424c048c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50681/thumb/AWXcg.png?1728746853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa99afcc6aa4530d01dfff8e55ec66e4c424c048c"
+  }
+}

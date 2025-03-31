@@ -1,0 +1,15 @@
+{
+  "symbol": "kek",
+  "name": "Kekistan",
+  "address": "0x4AdE2b180f65ed752B6F1296d0418AD21eb578C0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50949/thumb/1000020931.png?1729585651",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4ade2b180f65ed752b6f1296d0418ad21eb578c0"
+  }
+}

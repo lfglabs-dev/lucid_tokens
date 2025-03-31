@@ -1,0 +1,15 @@
+{
+  "symbol": "bns",
+  "name": "BNS",
+  "address": "0x19E2a43Fbbc643C3B2D9667D858D49cAd17bc2b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25150/thumb/bitbns_logo.png?1650450366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x19e2a43fbbc643c3b2d9667d858d49cad17bc2b5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "okb",
+  "name": "OKB",
+  "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4463/thumb/WeChat_Image_20220118095654.png?1642471050",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "okex-chain": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
+    "sora": "0x0080edc40a944d29562b2dea2de42ed27b9047d16eeea27c5bc1b2e02786abe9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fomo",
+  "name": "FOMO Network",
+  "address": "0x9028C2A7f8C8530450549915c5338841Db2a5fEa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37346/thumb/0x9028c2a7f8c8530450549915c5338841db2a5fea_%281%29.png?1714063793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9028c2a7f8c8530450549915c5338841db2a5fea"
+  }
+}

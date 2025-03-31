@@ -1,0 +1,15 @@
+{
+  "symbol": "smt",
+  "name": "SmartMesh",
+  "address": "0x21f15966E07a10554C364b988e91DaB01D32794A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1346/thumb/smartmesh.png?1548609531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x21f15966e07a10554c364b988e91dab01d32794a"
+  }
+}

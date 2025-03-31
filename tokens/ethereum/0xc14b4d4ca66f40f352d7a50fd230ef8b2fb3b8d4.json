@@ -1,0 +1,15 @@
+{
+  "symbol": "tools",
+  "name": "Blocktools",
+  "address": "0xc14B4d4CA66f40F352d7a50fd230EF8b2Fb3b8d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31313/thumb/blocktools.jpeg?1692348296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc14b4d4ca66f40f352d7a50fd230ef8b2fb3b8d4"
+  }
+}

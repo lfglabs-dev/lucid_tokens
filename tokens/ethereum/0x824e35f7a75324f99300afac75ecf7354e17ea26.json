@@ -1,0 +1,15 @@
+{
+  "symbol": "tia",
+  "name": "Tiamonds [OLD]",
+  "address": "0x824E35f7A75324f99300aFAC75ECF7354E17Ea26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23994/thumb/tia.png?1645952362",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x824e35f7a75324f99300afac75ecf7354e17ea26"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "brett",
+  "name": "Brett (ETH)",
+  "address": "0x240D6FAF8c3B1A7394e371792A3bf9D28DD65515",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38340/thumb/logo_brett_200.png?1717129988",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x240d6faf8c3b1a7394e371792a3bf9d28dd65515"
+  }
+}

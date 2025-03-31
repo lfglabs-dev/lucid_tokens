@@ -1,0 +1,15 @@
+{
+  "symbol": "dung",
+  "name": "Scarab Tools",
+  "address": "0x84412819AE69b10250D0D54d58f454018F1c8A42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30706/thumb/Scarab.jpg?1686546955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x84412819ae69b10250d0d54d58f454018f1c8a42"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "src",
+  "name": "Simracer Coin",
+  "address": "0x16587cF43F044aBa0165ffA00AcF412631194e4b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13027/thumb/SimRacer-500px.png?1604456794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x16587cf43f044aba0165ffa00acf412631194e4b"
+  }
+}

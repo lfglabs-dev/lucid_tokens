@@ -1,0 +1,15 @@
+{
+  "symbol": "gigachad",
+  "name": "GigaChad",
+  "address": "0xF43F21384d03b5cBbddd58d2de64071e4Ce76AB0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39095/thumb/gigachad_logo_200x200.png?1720505458",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf43f21384d03b5cbbddd58d2de64071e4ce76ab0"
+  }
+}

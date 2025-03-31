@@ -1,0 +1,16 @@
+{
+  "symbol": "sca",
+  "name": "Scaleswap",
+  "address": "0x1FbD3dF007eB8A7477A1Eab2c63483dCc24EfFD6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16360/thumb/thumbnail_1170823958_vertical_logo_lateral_radiance.png?1623810516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
+    "polygon-pos": "0x11a819beb0aa3327e39f52f90d65cc9bca499f33"
+  }
+}

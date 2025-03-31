@@ -1,0 +1,15 @@
+{
+  "symbol": "asm",
+  "name": "Assemble AI",
+  "address": "0x2565ae0385659badCada1031DB704442E1b69982",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11605/thumb/gpvrlkSq_400x400_%281%29.jpg?1591775789",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2565ae0385659badcada1031db704442e1b69982"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rly",
+  "name": "Rally",
+  "address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12843/thumb/image.png?1611212077",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b"
+  }
+}

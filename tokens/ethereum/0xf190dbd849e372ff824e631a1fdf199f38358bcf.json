@@ -1,0 +1,15 @@
+{
+  "symbol": "bara",
+  "name": "Capybara Memecoin",
+  "address": "0xF190dbD849E372FF824e631a1FdF199f38358BCf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30399/thumb/Capy_logo.png?1684317915",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf190dbd849e372ff824e631a1fdf199f38358bcf"
+  }
+}

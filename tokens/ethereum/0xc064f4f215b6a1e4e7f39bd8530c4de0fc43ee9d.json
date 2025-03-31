@@ -1,0 +1,15 @@
+{
+  "symbol": "lm",
+  "name": "LeisureMeta",
+  "address": "0xc064F4F215B6A1E4e7F39bD8530C4dE0fC43ee9D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25761/thumb/SVG_16533804486374586M.jpg?1653548604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc064f4f215b6a1e4e7f39bd8530c4de0fc43ee9d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bbl",
+  "name": "BlockBlend",
+  "address": "0x0a44A7ccEa34A7563Ba1D45A5F757d0B02281124",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30680/thumb/mdWl1HlW_400x400.jpg?1686227454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0a44a7ccea34a7563ba1d45a5f757d0b02281124"
+  }
+}

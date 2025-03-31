@@ -1,0 +1,15 @@
+{
+  "symbol": "cdeti",
+  "name": "Index Coop CoinDesk ETH Trend Index",
+  "address": "0x55b2CFcfe99110C773f00b023560DD9ef6C8A13B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32358/thumb/cdETI-logo.png?1697940129",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x55b2cfcfe99110c773f00b023560dd9ef6c8a13b"
+  }
+}

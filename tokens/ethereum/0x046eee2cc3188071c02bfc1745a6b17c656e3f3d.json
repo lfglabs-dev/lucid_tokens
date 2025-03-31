@@ -1,0 +1,15 @@
+{
+  "symbol": "rlb",
+  "name": "Rollbit Coin",
+  "address": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24552/thumb/unziL6wO_400x400.jpg?1648134494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d"
+  }
+}

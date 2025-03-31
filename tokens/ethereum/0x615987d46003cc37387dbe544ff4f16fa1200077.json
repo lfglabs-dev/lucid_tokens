@@ -1,0 +1,15 @@
+{
+  "symbol": "nasdaq420",
+  "name": "Nasdaq420",
+  "address": "0x615987d46003CC37387dBe544FF4F16FA1200077",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50928/thumb/1001412047.jpg?1729582198",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x615987d46003cc37387dbe544ff4f16fa1200077"
+  }
+}

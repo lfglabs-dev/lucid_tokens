@@ -1,0 +1,15 @@
+{
+  "symbol": "jne",
+  "name": "Jake Newman Enterprises",
+  "address": "0x9657477ac915F56ca87C253db1320218Ec2D5DDD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32565/thumb/image-200x200.jpg?1698546675",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9657477ac915f56ca87c253db1320218ec2d5ddd"
+  }
+}

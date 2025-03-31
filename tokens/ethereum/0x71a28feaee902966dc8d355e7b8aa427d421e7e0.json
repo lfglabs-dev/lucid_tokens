@@ -1,0 +1,15 @@
+{
+  "symbol": "lunch",
+  "name": "LunchDAO",
+  "address": "0x71a28feAEe902966DC8D355e7B8Aa427D421e7e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25808/thumb/200x200.png?1653979480",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x71a28feaee902966dc8d355e7b8aa427d421e7e0"
+  }
+}

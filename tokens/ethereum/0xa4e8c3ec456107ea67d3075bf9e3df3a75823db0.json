@@ -1,0 +1,15 @@
+{
+  "symbol": "loomold",
+  "name": "Loom Network (OLD)",
+  "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3387/thumb/1_K76UVoLq-FOL7l-_Fag-Qw_2x.png?1547038040",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+  }
+}

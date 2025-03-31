@@ -1,0 +1,15 @@
+{
+  "symbol": "ecoreal",
+  "name": "Ecoreal Estate",
+  "address": "0x7ECbb21346C501Fd07eb165E406120fA32381C16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6431/thumb/ecoreal-estate.png?1547224672",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ecbb21346c501fd07eb165e406120fa32381c16"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "folo",
+  "name": "Alpha Impact",
+  "address": "0xB2a63A5Dd36C91eC2DA59B188ff047F66fac122a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19988/thumb/folo.PNG?1636357322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a"
+  }
+}

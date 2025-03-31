@@ -1,0 +1,15 @@
+{
+  "symbol": "apes",
+  "name": "ApeScreener",
+  "address": "0x09675e24CA1EB06023451AC8088EcA1040F47585",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38822/thumb/200_200.jpg?1719101017",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09675e24ca1eb06023451ac8088eca1040f47585"
+  }
+}

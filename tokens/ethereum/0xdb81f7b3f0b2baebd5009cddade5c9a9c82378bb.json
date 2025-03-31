@@ -1,0 +1,15 @@
+{
+  "symbol": "jj",
+  "name": "Jjmoji",
+  "address": "0xdb81f7b3F0B2baeBd5009CddAde5c9A9C82378bB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33344/thumb/JJ.jpg?1701529096",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb81f7b3f0b2baebd5009cddade5c9a9c82378bb"
+  }
+}

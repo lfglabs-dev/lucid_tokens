@@ -1,0 +1,15 @@
+{
+  "symbol": "hsk",
+  "name": "HashKey Platform Token",
+  "address": "0xE7C6BF469e97eEB0bFB74C8dbFF5BD47D4C1C98a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29779/thumb/Snipaste_2023-04-12_15-02-36-modified_%281%29.png?1681283125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe7c6bf469e97eeb0bfb74c8dbff5bd47d4c1c98a"
+  }
+}

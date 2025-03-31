@@ -1,0 +1,16 @@
+{
+  "symbol": "leo",
+  "name": "LEO Token",
+  "address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8418/thumb/leo-token.png?1558326215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "sora": "0x009e199267a6a2c8ae075bb8d4c40ee8d05c1b769085ee59ce98e50c2b2d8756"
+  }
+}

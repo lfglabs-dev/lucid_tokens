@@ -1,0 +1,16 @@
+{
+  "symbol": "aipad",
+  "name": "AIPad",
+  "address": "0xE55d97A97ae6A17706ee281486E98A84095d8AAf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28894/thumb/JZadeHu.jpeg?1675214438",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe55d97a97ae6a17706ee281486e98a84095d8aaf",
+    "ethereum": "0xe55d97a97ae6a17706ee281486e98a84095d8aaf"
+  }
+}

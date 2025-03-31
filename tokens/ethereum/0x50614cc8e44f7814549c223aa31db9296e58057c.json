@@ -1,0 +1,15 @@
+{
+  "symbol": "align",
+  "name": "Aligned",
+  "address": "0x50614CC8e44F7814549c223aA31db9296e58057c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53011/thumb/signal-2024-12-23-172614_002.png?1734991938",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x50614cc8e44f7814549c223aa31db9296e58057c"
+  }
+}

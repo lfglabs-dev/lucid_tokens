@@ -1,0 +1,15 @@
+{
+  "symbol": "bend",
+  "name": "BendDAO",
+  "address": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22829/thumb/benddao.PNG?1642664553",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d02755a5700414b26ff040e1de35d337df56218"
+  }
+}

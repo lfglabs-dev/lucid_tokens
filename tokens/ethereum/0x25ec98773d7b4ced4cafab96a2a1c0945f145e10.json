@@ -1,0 +1,16 @@
+{
+  "symbol": "stusdt",
+  "name": "Staked USDT",
+  "address": "0x25eC98773D7b4ceD4cAFaB96A2A1c0945f145e10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31135/thumb/2veJywVy_400x400.jpg?1690884367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "tron": "TThzxNRLrW2Brp9DcTQU8i4Wd9udCWEdZ3",
+    "ethereum": "0x25ec98773d7b4ced4cafab96a2a1c0945f145e10"
+  }
+}

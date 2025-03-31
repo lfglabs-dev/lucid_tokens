@@ -1,0 +1,15 @@
+{
+  "symbol": "turbo",
+  "name": "TURBO.WIN",
+  "address": "0x109Ba5f0230B7b39E4a8AB56e7361dB89Fa0E108",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52310/thumb/Turbo200x200.png?1733067695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x109ba5f0230b7b39e4a8ab56e7361db89fa0e108"
+  }
+}

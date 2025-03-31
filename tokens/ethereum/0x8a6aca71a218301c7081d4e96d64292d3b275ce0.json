@@ -1,0 +1,15 @@
+{
+  "symbol": "sfg",
+  "name": "S.Finance",
+  "address": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12605/thumb/Z7D8B4b.png?1605346184",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a6aca71a218301c7081d4e96d64292d3b275ce0"
+  }
+}

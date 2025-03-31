@@ -1,0 +1,15 @@
+{
+  "symbol": "eldg",
+  "name": "Everlodge",
+  "address": "0xDDA31D354a519ecfB0bC2a536b5E7be147C0F7F4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35532/thumb/1000034240.png?1709032461",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdda31d354a519ecfb0bc2a536b5e7be147c0f7f4"
+  }
+}

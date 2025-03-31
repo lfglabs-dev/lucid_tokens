@@ -1,0 +1,15 @@
+{
+  "symbol": "tales",
+  "name": "Tales of Pepe",
+  "address": "0x16950673C9817537E7cDA10b482b90c0584c9101",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40045/thumb/a1.jpg?1725438423",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x16950673c9817537e7cda10b482b90c0584c9101"
+  }
+}

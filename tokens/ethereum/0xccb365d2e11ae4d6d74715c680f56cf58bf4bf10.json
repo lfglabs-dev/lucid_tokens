@@ -1,0 +1,15 @@
+{
+  "symbol": "wepe",
+  "name": "Wall Street Pepe",
+  "address": "0xccB365D2e11aE4D6d74715c680f56cf58bF4bF10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54457/thumb/Wepe_Logo_200x200.png?1739795587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10"
+  }
+}

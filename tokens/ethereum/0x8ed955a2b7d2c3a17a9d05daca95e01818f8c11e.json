@@ -1,0 +1,15 @@
+{
+  "symbol": "apfc",
+  "name": "APF coin",
+  "address": "0x8eD955a2b7d2C3a17a9d05dACa95E01818f8C11e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30990/thumb/APF-Coin_logo_gray_small_%284%29.png?1689564686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8ed955a2b7d2c3a17a9d05daca95e01818f8c11e"
+  }
+}

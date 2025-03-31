@@ -1,0 +1,16 @@
+{
+  "symbol": "omz",
+  "name": "Open Meta City",
+  "address": "0xd7D9BaBf56A66dAFF2aC5dc96F7e886c05124676",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39644/thumb/omc-logo-blue-round-200x200.png?1723411599",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7d9babf56a66daff2ac5dc96f7e886c05124676",
+    "polygon-pos": "0x7272a5a8bd39f204bf773e8b74bb01e31681ad1d"
+  }
+}

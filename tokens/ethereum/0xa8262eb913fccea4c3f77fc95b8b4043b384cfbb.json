@@ -1,0 +1,15 @@
+{
+  "symbol": "kgc",
+  "name": "Krypton Galaxy Coin",
+  "address": "0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9152/thumb/krypton.PNG?1564733517",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb"
+  }
+}

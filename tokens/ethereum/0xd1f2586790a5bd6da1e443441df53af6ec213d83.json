@@ -1,0 +1,15 @@
+{
+  "symbol": "ledger",
+  "name": "Ledger AI",
+  "address": "0xD1F2586790a5bD6DA1e443441df53aF6EC213D83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50306/thumb/download.png?1727034470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1f2586790a5bd6da1e443441df53af6ec213d83"
+  }
+}

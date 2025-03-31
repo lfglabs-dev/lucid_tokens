@@ -1,0 +1,15 @@
+{
+  "symbol": "cyfi",
+  "name": "cYFI",
+  "address": "0x80a2AE356fc9ef4305676f7a3E2Ed04e12C33946",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17530/thumb/cyfi.PNG?1628123155",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946"
+  }
+}

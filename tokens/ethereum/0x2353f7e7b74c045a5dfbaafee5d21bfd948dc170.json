@@ -1,0 +1,15 @@
+{
+  "symbol": "ola",
+  "name": "Ola",
+  "address": "0x2353F7e7b74C045a5dfbaaFeE5d21BFD948dC170",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51733/thumb/ola.jpg?1731917981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2353f7e7b74c045a5dfbaafee5d21bfd948dc170"
+  }
+}

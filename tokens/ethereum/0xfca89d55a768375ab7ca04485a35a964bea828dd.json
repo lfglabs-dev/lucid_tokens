@@ -1,0 +1,15 @@
+{
+  "symbol": "delrey",
+  "name": "Delrey Inu",
+  "address": "0xfca89d55A768375Ab7cA04485A35a964BEA828dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29661/thumb/Delrey_Inu.png?1680508134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfca89d55a768375ab7ca04485a35a964bea828dd"
+  }
+}

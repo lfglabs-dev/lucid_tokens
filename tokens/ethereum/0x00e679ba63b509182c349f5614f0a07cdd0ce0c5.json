@@ -1,0 +1,15 @@
+{
+  "symbol": "damex",
+  "name": "Damex Token",
+  "address": "0x00E679Ba63B509182c349F5614F0A07cDd0CE0c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30053/thumb/damex.jpg?1682997644",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00e679ba63b509182c349f5614f0a07cdd0ce0c5"
+  }
+}

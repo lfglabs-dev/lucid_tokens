@@ -1,0 +1,16 @@
+{
+  "symbol": "civ",
+  "name": "Civilization",
+  "address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17626/thumb/civ-200x200.png?1628674350",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+    "polygon-pos": "0x42f6bdcfd82547e89f1069bf375aa60e6c6c063d"
+  }
+}

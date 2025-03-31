@@ -1,0 +1,16 @@
+{
+  "symbol": "req",
+  "name": "Request",
+  "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1031/thumb/Request_icon_green.png?1643250951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+    "polygon-pos": "0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762"
+  }
+}

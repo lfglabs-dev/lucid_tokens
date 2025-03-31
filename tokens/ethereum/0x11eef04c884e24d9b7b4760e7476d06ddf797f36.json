@@ -1,0 +1,16 @@
+{
+  "symbol": "mx",
+  "name": "MX",
+  "address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8545/thumb/TII1YIdv_400x400.png?1559180170",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+    "morph-l2": "0x0beef4b01281d85492713a015d51fec5b6d14687"
+  }
+}

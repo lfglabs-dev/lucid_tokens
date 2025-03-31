@@ -1,0 +1,16 @@
+{
+  "symbol": "pixel",
+  "name": "Pixels",
+  "address": "0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35100/thumb/pixels.jpeg?1707378243",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31",
+    "ronin": "0x7eae20d11ef8c779433eb24503def900b9d28ad7"
+  }
+}

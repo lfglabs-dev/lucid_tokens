@@ -1,0 +1,15 @@
+{
+  "symbol": "scurve",
+  "name": "LP-sCurve",
+  "address": "0xC25a3A3b969415c80451098fa907EC722572917F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11899/thumb/Curvefi_sCrv_32.png?1595931870",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc25a3a3b969415c80451098fa907ec722572917f"
+  }
+}

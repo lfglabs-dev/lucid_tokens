@@ -1,0 +1,15 @@
+{
+  "symbol": "cryo",
+  "name": "CryoDAO",
+  "address": "0xf4308b0263723b121056938c2172868E408079D0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34624/thumb/cryo-icon.png?1705504846",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf4308b0263723b121056938c2172868e408079d0"
+  }
+}

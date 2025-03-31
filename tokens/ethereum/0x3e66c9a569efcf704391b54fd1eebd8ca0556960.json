@@ -1,0 +1,15 @@
+{
+  "symbol": "fubao",
+  "name": "Fu Bao",
+  "address": "0x3E66C9A569efcF704391B54Fd1eeBd8ca0556960",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50738/thumb/photo_2024-10-11_10.42.18.jpeg?1728916890",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e66c9a569efcf704391b54fd1eebd8ca0556960"
+  }
+}

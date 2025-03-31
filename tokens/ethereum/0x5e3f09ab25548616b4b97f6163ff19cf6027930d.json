@@ -1,0 +1,15 @@
+{
+  "symbol": "usacoin",
+  "name": "USAcoin",
+  "address": "0x5e3f09AB25548616B4b97F6163Ff19Cf6027930d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52953/thumb/USACOIN_200.jpg?1734796496",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5e3f09ab25548616b4b97f6163ff19cf6027930d"
+  }
+}

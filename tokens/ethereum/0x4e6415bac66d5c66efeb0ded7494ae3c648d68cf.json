@@ -1,0 +1,15 @@
+{
+  "symbol": "ree",
+  "name": "REECOIN",
+  "address": "0x4E6415baC66d5C66eFEB0ded7494ae3c648d68cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52276/thumb/512x512_reecoin.jpg?1732894039",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e6415bac66d5c66efeb0ded7494ae3c648d68cf"
+  }
+}

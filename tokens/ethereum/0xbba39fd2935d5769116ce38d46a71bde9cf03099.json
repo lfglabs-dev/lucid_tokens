@@ -1,0 +1,17 @@
+{
+  "symbol": "cho",
+  "name": "Choise.ai",
+  "address": "0xBBa39Fd2935d5769116ce38d46a71bde9cf03099",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25935/thumb/android-icon-192x192.png?1654758869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbba39fd2935d5769116ce38d46a71bde9cf03099",
+    "binance-smart-chain": "0x6cf8e39252bee00d168bd25bdf5834347d78e346",
+    "solana": "59McpTVgyGsSu5eQutvcKLFu7wrFe3ZkE2qdAi3HnvBn"
+  }
+}

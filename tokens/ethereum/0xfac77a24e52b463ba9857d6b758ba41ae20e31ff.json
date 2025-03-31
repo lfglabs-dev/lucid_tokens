@@ -1,0 +1,15 @@
+{
+  "symbol": "lsd",
+  "name": "LSDx Finance",
+  "address": "0xfAC77A24E52B463bA9857d6b758ba41aE20e31FF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29519/thumb/logo.png?1679448801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfac77a24e52b463ba9857d6b758ba41ae20e31ff"
+  }
+}

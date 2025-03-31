@@ -1,0 +1,15 @@
+{
+  "symbol": "bmt",
+  "name": "BMCHAIN",
+  "address": "0xf028ADEe51533b1B47BEaa890fEb54a457f51E89",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7419/thumb/bchain_logo.jpg?1547199925",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf028adee51533b1b47beaa890feb54a457f51e89"
+  }
+}

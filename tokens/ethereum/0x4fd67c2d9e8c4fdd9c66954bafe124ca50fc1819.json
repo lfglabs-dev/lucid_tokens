@@ -1,0 +1,16 @@
+{
+  "symbol": "rmner",
+  "name": "Mner Club",
+  "address": "0x4FD67c2D9e8c4fDd9C66954bafe124Ca50fC1819",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52094/thumb/rmner.png?1732549755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "merlin-chain": "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819",
+    "ethereum": "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819"
+  }
+}

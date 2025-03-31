@@ -1,0 +1,15 @@
+{
+  "symbol": "gmfam",
+  "name": "GMFAM",
+  "address": "0xe9Da5E227e3Fa4Fc933b5f540BE021e7EcC3Fd81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30547/thumb/GMFAM-logo_%282%29.png?1684992285",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9da5e227e3fa4fc933b5f540be021e7ecc3fd81"
+  }
+}

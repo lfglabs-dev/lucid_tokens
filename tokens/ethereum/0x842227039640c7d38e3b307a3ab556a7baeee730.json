@@ -1,0 +1,18 @@
+{
+  "symbol": "v.d",
+  "name": "Dinari V",
+  "address": "0x842227039640c7d38E3B307a3Ab556a7BAEEe730",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x96e1951c8fcecc43e7366261f7e342a06047da8e",
+    "ethereum": "0x842227039640c7d38e3b307a3ab556a7baeee730",
+    "blast": "0x1ea5625399565fa0c3c2499ebf960eb9d9224212",
+    "base": "0x6743d7d8de84021b4fec049a1f1278be9cd95b6e"
+  }
+}

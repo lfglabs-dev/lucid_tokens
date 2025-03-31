@@ -1,0 +1,15 @@
+{
+  "symbol": "ieth v2",
+  "name": "Instadapp ETH v2",
+  "address": "0xA0D3707c569ff8C87FA923d3823eC5D81c98Be78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29704/thumb/iETH.png?1680765220",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0d3707c569ff8c87fa923d3823ec5d81c98be78"
+  }
+}

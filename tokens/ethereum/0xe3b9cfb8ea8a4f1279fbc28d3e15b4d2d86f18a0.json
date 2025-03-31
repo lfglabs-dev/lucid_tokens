@@ -1,0 +1,15 @@
+{
+  "symbol": "fottie",
+  "name": "Fottie",
+  "address": "0xE3B9CfB8EA8a4F1279fBC28D3E15B4d2d86f18A0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35860/thumb/fottie_logo_medium_%281%29.png?1709920764",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe3b9cfb8ea8a4f1279fbc28d3e15b4d2d86f18a0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "grok",
+  "name": "First GROK AI",
+  "address": "0x0ee27a1f959Ea7EA2aA171A7e2E48FD9f17BB8EB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33005/thumb/Untitled_design_%2829%29.png?1700122635",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ee27a1f959ea7ea2aa171a7e2e48fd9f17bb8eb"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "husl",
+  "name": "The HUSL",
+  "address": "0xa2881F7F441267042f9778fFA0d4F834693426be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18619/thumb/W8ZIHKU.png?1650437671",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa2881f7f441267042f9778ffa0d4f834693426be",
+    "binance-smart-chain": "0x284ac5af363bde6ef5296036af8fb0e9cc347b41"
+  }
+}

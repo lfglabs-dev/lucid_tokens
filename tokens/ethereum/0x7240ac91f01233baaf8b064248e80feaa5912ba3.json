@@ -1,0 +1,16 @@
+{
+  "symbol": "octo",
+  "name": "OctoFi",
+  "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12594/thumb/octofi-256x256-radius-22percent.png?1610679969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
+    "fantom": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "blob",
+  "name": "Blob",
+  "address": "0x72831EEbeF4E3f3697a6b216E3713958210AE8Cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35309/thumb/Blob.jpeg?1708158035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72831eebef4e3f3697a6b216e3713958210ae8cd"
+  }
+}

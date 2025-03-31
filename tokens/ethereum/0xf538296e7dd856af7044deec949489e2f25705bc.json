@@ -1,0 +1,15 @@
+{
+  "symbol": "milk",
+  "name": "Illumicati",
+  "address": "0xF538296E7Dd856aF7044DEec949489e2F25705BC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32829/thumb/ILLUMICATI_CG.png?1699585511",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf538296e7dd856af7044deec949489e2f25705bc"
+  }
+}

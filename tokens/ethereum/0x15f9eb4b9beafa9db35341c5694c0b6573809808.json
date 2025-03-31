@@ -1,0 +1,16 @@
+{
+  "symbol": "deda",
+  "name": "DedaCoin",
+  "address": "0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40133/thumb/DEDA_%281%29.jpg?1725968896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x15f9eb4b9beafa9db35341c5694c0b6573809808",
+    "binance-smart-chain": "0x15f9eb4b9beafa9db35341c5694c0b6573809808"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "lords",
+  "name": "LORDS",
+  "address": "0x686f2404e77Ab0d9070a46cdfb0B7feCDD2318b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22171/thumb/Frame_1.png?1642334107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
+    "starknet": "0x124aeb495b947201f5fac96fd1138e326ad86195b98df6dec9009158a533b49",
+    "base": "0xd5b22dcfa9a919b28afe164fc7af10b832d4b022"
+  }
+}

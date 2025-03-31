@@ -1,0 +1,15 @@
+{
+  "symbol": "gx",
+  "name": "Grindery X",
+  "address": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54812/thumb/nRJLYA_H_400x400.png?1741811175",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8730762cad4a27816a467fac54e3dd1e2e9617a1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "lbr",
+  "name": "Lybra",
+  "address": "0xed1167b6Dc64E8a366DB86F2E952A482D0981ebd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29958/thumb/FQNtxB_q_200x200.jpg?1682387007",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed1167b6dc64e8a366db86f2e952a482d0981ebd",
+    "arbitrum-one": "0xa23e44aea714fbbc08ef28340d78067b9a8cad73"
+  }
+}

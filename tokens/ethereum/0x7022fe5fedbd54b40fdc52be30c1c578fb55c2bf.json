@@ -1,0 +1,15 @@
+{
+  "symbol": "skull",
+  "name": "WOLF SKULL",
+  "address": "0x7022FE5fEDBd54b40FdC52Be30c1c578fb55C2bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39125/thumb/photo_2024-07-07_00-24-35.jpg?1720636276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7022fe5fedbd54b40fdc52be30c1c578fb55c2bf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "buddha",
+  "name": "Buddha",
+  "address": "0xDeFB0B264032e4e128b00D02b3FD0aA00331237b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34079/thumb/BUDDHA.jpg?1703908593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdefb0b264032e4e128b00d02b3fd0aa00331237b"
+  }
+}

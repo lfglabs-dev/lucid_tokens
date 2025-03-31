@@ -1,0 +1,15 @@
+{
+  "symbol": "eeth",
+  "name": "EverETH",
+  "address": "0xe46a1D19962Ea120765D3139c588fFd617bE04A8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34525/thumb/EETH_LOGO.png?1705303995",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe46a1d19962ea120765d3139c588ffd617be04a8"
+  }
+}

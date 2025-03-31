@@ -1,0 +1,16 @@
+{
+  "symbol": "naos",
+  "name": "NAOS Finance",
+  "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15144/thumb/bafybeibkztkshitabrf7yqqkqtbjqestjknpgv7lsjfzdsa3ufspagqs2e.ipfs.infura-ipfs.io.png?1622176770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+    "binance-smart-chain": "0x758d08864fb6cce3062667225ca10b8f00496cc2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "desci",
+  "name": "SUI Desci Agents",
+  "address": "0xAEc613188B1E178d42a05d352044D54854C3196a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53133/thumb/sui-desci-agents.jpg?1735299471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaec613188b1e178d42a05d352044d54854c3196a"
+  }
+}

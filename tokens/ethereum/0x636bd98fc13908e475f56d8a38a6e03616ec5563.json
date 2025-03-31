@@ -1,0 +1,15 @@
+{
+  "symbol": "wat",
+  "name": "Wat",
+  "address": "0x636bd98fC13908e475F56d8a38a6e03616Ec5563",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38782/thumb/Wat.png?1718854803",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x636bd98fc13908e475f56d8a38a6e03616ec5563"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rpk",
+  "name": "RepubliK",
+  "address": "0x313CAe7aD4454AAc7B208C1F089dA2b0e5825e46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32950/thumb/RPK_Token_Logo_2x.png?1699935349",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x313cae7ad4454aac7b208c1f089da2b0e5825e46"
+  }
+}

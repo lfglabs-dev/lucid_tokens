@@ -1,0 +1,15 @@
+{
+  "symbol": "e",
+  "name": "Etheism",
+  "address": "0xc0CfBe1602dD586349f60e4681bf4BADCA584eC9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40087/thumb/image_2024-09-04_19-01-35_%281%29.png?1725561053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc0cfbe1602dd586349f60e4681bf4badca584ec9"
+  }
+}

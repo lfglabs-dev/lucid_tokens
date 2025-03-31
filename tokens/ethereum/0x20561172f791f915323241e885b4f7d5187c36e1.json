@@ -1,0 +1,15 @@
+{
+  "symbol": "cal",
+  "name": "Calcium",
+  "address": "0x20561172f791f915323241E885b4f7D5187c36E1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31971/thumb/callogo.jpg?1695872354",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20561172f791f915323241e885b4f7d5187c36e1"
+  }
+}

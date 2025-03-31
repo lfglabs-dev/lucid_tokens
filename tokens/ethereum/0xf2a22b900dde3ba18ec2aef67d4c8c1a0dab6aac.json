@@ -1,0 +1,15 @@
+{
+  "symbol": "monkeys",
+  "name": "Monkeys",
+  "address": "0xf2A22B900dde3ba18Ec2AeF67D4c8C1a0DAB6aAC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29815/thumb/photo_2023-04-09_04-20-36.jpg?1681434852",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf2a22b900dde3ba18ec2aef67d4c8c1a0dab6aac"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "opti",
+  "name": "Optimus AI",
+  "address": "0x562E362876c8Aee4744FC2c6aaC8394C312d215d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29328/thumb/Optimus_AI_Logo.png?1678170818",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x562e362876c8aee4744fc2c6aac8394c312d215d"
+  }
+}

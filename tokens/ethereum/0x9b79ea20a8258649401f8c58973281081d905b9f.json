@@ -1,0 +1,17 @@
+{
+  "symbol": "n3",
+  "name": "Network3",
+  "address": "0x9b79ea20a8258649401f8C58973281081D905b9F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53825/thumb/n3.jpg?1737536342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b79ea20a8258649401f8c58973281081d905b9f",
+    "solana": "C7DpniLsJBFEZvt6SnS5Ac8tdwuxCW4T3mS1JrfntDdX",
+    "iotex": "0x7f6f149fec648abf4ee8c559eb24d8010ab1025e"
+  }
+}

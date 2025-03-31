@@ -1,0 +1,15 @@
+{
+  "symbol": "zeon",
+  "name": "ZEON Network",
+  "address": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4247/thumb/XZqXYc2j_400x400.jpg?1547039580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532"
+  }
+}

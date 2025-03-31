@@ -1,0 +1,16 @@
+{
+  "symbol": "keke",
+  "name": "Freaky KEKE",
+  "address": "0x28E67eB7aAa8F5dd9cb7BE2B2E3daD6b25EdB1Ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37244/thumb/FreakyKEKE-200x200.png?1713860401",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x28e67eb7aaa8f5dd9cb7be2b2e3dad6b25edb1ab",
+    "solana": "GgKDdEJ9n2NCHHonE5qSxVgPKGQNsbeXEkr1SHDLapPv"
+  }
+}

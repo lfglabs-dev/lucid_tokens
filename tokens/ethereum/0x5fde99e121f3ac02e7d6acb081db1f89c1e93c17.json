@@ -1,0 +1,15 @@
+{
+  "symbol": "myt",
+  "name": "MYSO Token",
+  "address": "0x5fDe99e121F3aC02e7d6ACb081dB1f89c1e93C17",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37844/thumb/av_02_2.jpg?1715754813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5fde99e121f3ac02e7d6acb081db1f89c1e93c17"
+  }
+}

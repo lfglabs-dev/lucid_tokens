@@ -1,0 +1,15 @@
+{
+  "symbol": "soy",
+  "name": "Soyjak",
+  "address": "0xaD78D154baec2e9b4e78182d02388981b5093f80",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33041/thumb/soyjak256_%282%29.png?1700428317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad78d154baec2e9b4e78182d02388981b5093f80"
+  }
+}

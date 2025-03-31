@@ -1,0 +1,15 @@
+{
+  "symbol": "fnct",
+  "name": "Financie Token",
+  "address": "0x8Af78f0c818302164F73B2365fE152C2D1FE80e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29099/thumb/VcJQzCWT_400x400.jpg?1676596960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8af78f0c818302164f73b2365fe152c2d1fe80e1"
+  }
+}

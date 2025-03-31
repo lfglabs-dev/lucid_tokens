@@ -1,0 +1,16 @@
+{
+  "symbol": "stars",
+  "name": "Mogul Productions [OLD]",
+  "address": "0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14975/thumb/STARS_LOGO_PNG.png?1619214520",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc55c2175e90a46602fd42e931f62b3acc1a013ca",
+    "binance-smart-chain": "0xbd83010eb60f12112908774998f65761cf9f6f9a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gtm",
+  "name": "ColonizeMars",
+  "address": "0xE8B1e79D937c648Ce1fE96e6739ddb2714058a18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35278/thumb/GTM_LOGO.jpg?1708054688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe8b1e79d937c648ce1fe96e6739ddb2714058a18"
+  }
+}

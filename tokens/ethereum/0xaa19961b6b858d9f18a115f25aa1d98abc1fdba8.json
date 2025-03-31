@@ -1,0 +1,15 @@
+{
+  "symbol": "lcs",
+  "name": "LocalCoinSwap",
+  "address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3998/thumb/LocalCoinSwap.png?1547039086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8"
+  }
+}

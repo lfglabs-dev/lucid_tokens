@@ -1,0 +1,15 @@
+{
+  "symbol": "mojo",
+  "name": "MOJO The Gorilla",
+  "address": "0x8B95Fe1C06E58C269f1267e0f0093b7b26b85481",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38357/thumb/photo_2024-05-29_02-50-03-_2__%281%29.png?1717174553",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8b95fe1c06e58c269f1267e0f0093b7b26b85481"
+  }
+}

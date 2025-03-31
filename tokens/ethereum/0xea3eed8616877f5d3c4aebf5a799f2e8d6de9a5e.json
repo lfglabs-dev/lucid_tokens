@@ -1,0 +1,15 @@
+{
+  "symbol": "rfrm",
+  "name": "Reform DAO",
+  "address": "0xea3eed8616877F5d3c4aEbf5A799F2e8D6DE9A5E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38711/thumb/Logo_200x200.png?1718402907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea3eed8616877f5d3c4aebf5a799f2e8d6de9a5e"
+  }
+}

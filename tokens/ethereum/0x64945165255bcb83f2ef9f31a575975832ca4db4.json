@@ -1,0 +1,15 @@
+{
+  "symbol": "kage",
+  "name": "KAGE NETWORK",
+  "address": "0x64945165255bcb83f2Ef9f31a575975832CA4dB4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40053/thumb/Kage.jpeg?1725446839",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64945165255bcb83f2ef9f31a575975832ca4db4"
+  }
+}

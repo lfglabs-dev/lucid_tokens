@@ -1,0 +1,15 @@
+{
+  "symbol": "flut",
+  "name": "Flute",
+  "address": "0x4F08705FB8F33AffC231ed66e626B40E84A71870",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29148/thumb/TheFlute200x200.png?1676966950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4f08705fb8f33affc231ed66e626b40e84a71870"
+  }
+}

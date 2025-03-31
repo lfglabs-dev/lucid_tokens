@@ -1,0 +1,17 @@
+{
+  "symbol": "sofi",
+  "name": "RAI Finance",
+  "address": "0xB49fa25978abf9a248b8212Ab4b87277682301c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14686/thumb/sofi.png?1640249595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb49fa25978abf9a248b8212ab4b87277682301c0",
+    "binance-smart-chain": "0x1a28ed8472f644e8898a169a644503b779748d6e",
+    "base": "0x703d57164ca270b0b330a87fd159cfef1490c0a5"
+  }
+}

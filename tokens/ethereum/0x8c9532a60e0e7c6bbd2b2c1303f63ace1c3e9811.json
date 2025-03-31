@@ -1,0 +1,15 @@
+{
+  "symbol": "pzeth",
+  "name": "Renzo Restaked LST",
+  "address": "0x8c9532a60E0E7C6BbD2B2c1303F63aCE1c3E9811",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39124/thumb/200x200.png?1720629607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811"
+  }
+}

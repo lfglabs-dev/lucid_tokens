@@ -1,0 +1,15 @@
+{
+  "symbol": "closedai",
+  "name": "Super Closed Source",
+  "address": "0x571d9b73DC04ed88B4e273E048C8d4848F83b779",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35977/thumb/400x400.jpg?1710306253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x571d9b73dc04ed88b4e273e048c8d4848f83b779"
+  }
+}

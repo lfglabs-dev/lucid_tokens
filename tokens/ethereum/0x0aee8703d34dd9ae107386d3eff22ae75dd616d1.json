@@ -1,0 +1,15 @@
+{
+  "symbol": "slice",
+  "name": "Tranche Finance",
+  "address": "0x0AeE8703D34DD9aE107386d3eFF22AE75Dd616D1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14119/thumb/slice.png?1635826973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1"
+  }
+}

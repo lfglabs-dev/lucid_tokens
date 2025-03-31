@@ -1,0 +1,15 @@
+{
+  "symbol": "dogpad",
+  "name": "DogPad Finance",
+  "address": "0x6f3277ad0782a7DA3eb676b85a8346A100BF9C1c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28845/thumb/DogPad.png?1674803782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f3277ad0782a7da3eb676b85a8346a100bf9c1c"
+  }
+}

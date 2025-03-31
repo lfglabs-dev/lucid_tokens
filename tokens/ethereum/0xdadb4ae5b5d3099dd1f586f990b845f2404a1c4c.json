@@ -1,0 +1,15 @@
+{
+  "symbol": "( ͡° ͜ʖ ͡°)",
+  "name": "Lenny Face",
+  "address": "0xDadb4aE5B5D3099Dd1f586f990B845F2404A1c4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29138/thumb/Lenny_Face.png?1676962950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdadb4ae5b5d3099dd1f586f990b845f2404a1c4c"
+  }
+}

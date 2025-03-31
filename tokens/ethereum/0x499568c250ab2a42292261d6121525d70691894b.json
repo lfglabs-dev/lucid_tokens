@@ -1,0 +1,21 @@
+{
+  "symbol": "krw",
+  "name": "KROWN",
+  "address": "0x499568c250Ab2a42292261d6121525d70691894b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16530/thumb/KRW_token_logo_200x200.png?1624343058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1446f3cedf4d86a9399e49f7937766e6de2a3aab",
+    "huobi-token": "0xa83e2a7bbfaeb064c7cfee416cdf5cf89507dd1a",
+    "celo": "0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9",
+    "ethereum": "0x499568c250ab2a42292261d6121525d70691894b",
+    "avalanche": "0xa5acfeca5270bc9768633fbc86caa959b85ec8b7",
+    "polygon-pos": "0x6c3b2f402cd7d22ae2c319b9d2f16f57927a4a17",
+    "solana": "Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq"
+  }
+}

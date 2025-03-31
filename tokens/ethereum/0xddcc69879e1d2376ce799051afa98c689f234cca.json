@@ -1,0 +1,15 @@
+{
+  "symbol": "smrt",
+  "name": "SmartMoney",
+  "address": "0xDDcc69879e1d2376ce799051afa98C689F234ccA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35280/thumb/Smartmoney.jpeg?1708054880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xddcc69879e1d2376ce799051afa98c689f234cca"
+  }
+}

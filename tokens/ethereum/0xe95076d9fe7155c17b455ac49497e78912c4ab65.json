@@ -1,0 +1,17 @@
+{
+  "symbol": "dollar",
+  "name": "Dollar",
+  "address": "0xE95076d9fe7155c17b455ac49497E78912c4AB65",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39312/thumb/pfp_200x200.png?1721706165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "5AnPDx9GposBi9jSW2dFfE5QQD3FmXbudoquMNDxpump",
+    "ethereum": "0xe95076d9fe7155c17b455ac49497e78912c4ab65",
+    "base": "0x72e72193ea14ac3b469f881989d18a2ba021b4c6"
+  }
+}

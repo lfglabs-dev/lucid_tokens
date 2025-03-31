@@ -1,0 +1,15 @@
+{
+  "symbol": "truth",
+  "name": "TruthGPT",
+  "address": "0xAF75d880b3128981D1fEd3292Fc02E3FB37Acd53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29867/thumb/TruthGPT.png?1681891825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf75d880b3128981d1fed3292fc02e3fb37acd53"
+  }
+}

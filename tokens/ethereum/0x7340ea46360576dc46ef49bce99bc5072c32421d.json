@@ -1,0 +1,15 @@
+{
+  "symbol": "dsq",
+  "name": "DollarSqueeze",
+  "address": "0x7340eA46360576DC46Ef49bcE99Bc5072c32421d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30764/thumb/dsq.jpeg?1686892042",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7340ea46360576dc46ef49bce99bc5072c32421d"
+  }
+}

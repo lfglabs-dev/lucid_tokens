@@ -1,0 +1,16 @@
+{
+  "symbol": "usd1",
+  "name": "USD1",
+  "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54977/thumb/30Q2SFVH_400x400.jpg?1742998328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "ethereum": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  }
+}

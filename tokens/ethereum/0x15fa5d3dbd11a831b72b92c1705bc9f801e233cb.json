@@ -1,0 +1,17 @@
+{
+  "symbol": "pxp",
+  "name": "PointPay",
+  "address": "0x15FA5d3DBD11a831b72B92C1705BC9F801E233CB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37084/thumb/pointpay-removebg-preview.png?1713253076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb",
+    "ethereum": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb",
+    "binance-smart-chain": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb"
+  }
+}

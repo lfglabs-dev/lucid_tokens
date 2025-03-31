@@ -1,0 +1,15 @@
+{
+  "symbol": "brepe",
+  "name": "BREPE",
+  "address": "0xA0117792d4B100Fd329B37e8AB4181dF8a5b3326",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31561/thumb/cmc_200x200_logo_transparency.png?1693805885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0117792d4b100fd329b37e8ab4181df8a5b3326"
+  }
+}

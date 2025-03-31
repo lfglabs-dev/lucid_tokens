@@ -1,0 +1,15 @@
+{
+  "symbol": "vix",
+  "name": "VIX777",
+  "address": "0x283D480dFD6921055E9C335FC177bF8Cb9C94184",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50688/thumb/VIX777.png?1728777942",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x283d480dfd6921055e9c335fc177bf8cb9c94184"
+  }
+}

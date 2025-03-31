@@ -1,0 +1,15 @@
+{
+  "symbol": "xring",
+  "name": "Darwinia Network xRING",
+  "address": "0x81e32d4652Be82AE225DEdd1bD0bf3BCba8FEE07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54467/thumb/RING.png?1739897455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x81e32d4652be82ae225dedd1bd0bf3bcba8fee07"
+  }
+}

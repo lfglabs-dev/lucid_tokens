@@ -1,0 +1,15 @@
+{
+  "symbol": "code",
+  "name": "Code Token",
+  "address": "0x283344eEA472f0fE04d6f722595A2fFFEfE1901A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39512/thumb/logopng.png?1722659773",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x283344eea472f0fe04d6f722595a2fffefe1901a"
+  }
+}

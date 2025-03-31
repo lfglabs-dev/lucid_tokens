@@ -1,0 +1,15 @@
+{
+  "symbol": "dora",
+  "name": "Dora Factory",
+  "address": "0x4957805230831401CaaD5b690AA138143B711358",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31552/thumb/DORA.jpg?1693797452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4957805230831401caad5b690aa138143b711358"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pika",
+  "name": "Pikaboss",
+  "address": "0xa9D54F37EbB99f83B603Cc95fc1a5f3907AacCfd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32061/thumb/logocg.png?1696240013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa9d54f37ebb99f83b603cc95fc1a5f3907aaccfd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "kyra",
+  "name": "KYRA",
+  "address": "0x4B41A481a7A3E0396751aA49BEe970B842FdAedE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51060/thumb/KYRA.png?1729877523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b41a481a7a3e0396751aa49bee970b842fdaede"
+  }
+}

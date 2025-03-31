@@ -1,0 +1,15 @@
+{
+  "symbol": "privix",
+  "name": "Privix",
+  "address": "0xaFB942E2A12aC0861Ad81b5c37682f588912c1d9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54239/thumb/Privix.png?1738873277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xafb942e2a12ac0861ad81b5c37682f588912c1d9"
+  }
+}

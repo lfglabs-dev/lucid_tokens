@@ -1,0 +1,15 @@
+{
+  "symbol": "inva",
+  "name": "InnoviaTrust",
+  "address": "0x1814b8A33446549Ed5766aB3250B670498699BD6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37425/thumb/IMG_20240426_165247_519.jpg?1714378573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1814b8a33446549ed5766ab3250b670498699bd6"
+  }
+}

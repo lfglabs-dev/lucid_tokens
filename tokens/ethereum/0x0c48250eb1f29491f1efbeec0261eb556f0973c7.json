@@ -1,0 +1,15 @@
+{
+  "symbol": "aimbot",
+  "name": "Aimbot AI",
+  "address": "0x0c48250Eb1f29491F1eFBeEc0261eb556f0973C7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31200/thumb/200x200.jpg?1691377993",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c48250eb1f29491f1efbeec0261eb556f0973c7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ogpu",
+  "name": "OPEN GPU",
+  "address": "0x067Def80D66fB69C276e53b641f37ff7525162f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36985/thumb/logo-icon-200.png?1712945992",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x067def80d66fb69c276e53b641f37ff7525162f6"
+  }
+}

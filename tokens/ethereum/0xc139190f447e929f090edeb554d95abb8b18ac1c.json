@@ -1,0 +1,15 @@
+{
+  "symbol": "usdtb",
+  "name": "USDtb",
+  "address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52804/thumb/USDtbSmall.png?1734344946",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc139190f447e929f090edeb554d95abb8b18ac1c"
+  }
+}

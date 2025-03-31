@@ -1,0 +1,17 @@
+{
+  "symbol": "nsfw",
+  "name": "Pleasure Coin",
+  "address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15315/thumb/pleasurecoin-icon.png?1648724879",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
+    "ethereum": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
+    "binance-smart-chain": "0xaa076b62efc6f357882e07665157a271ab46a063"
+  }
+}

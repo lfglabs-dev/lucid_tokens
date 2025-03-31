@@ -1,0 +1,16 @@
+{
+  "symbol": "gusd",
+  "name": "Gemini Dollar",
+  "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5992/thumb/gemini-dollar-gusd.png?1536745278",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+    "near-protocol": "056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near"
+  }
+}

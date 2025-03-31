@@ -1,0 +1,15 @@
+{
+  "symbol": "tbc",
+  "name": "Ten Best Coins",
+  "address": "0x03042ae6fcFd53E3A0BAa1FaB5Ce70E0cb74E6fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27312/thumb/tbc.png?1663312003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x03042ae6fcfd53e3a0baa1fab5ce70e0cb74e6fb"
+  }
+}

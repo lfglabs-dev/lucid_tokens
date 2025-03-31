@@ -1,0 +1,15 @@
+{
+  "symbol": "sabr",
+  "name": "SatsBridge",
+  "address": "0x9ca98c8b217c3B45074834908555D36AF2aC6449",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34813/thumb/1000002973.png?1706123473",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ca98c8b217c3b45074834908555d36af2ac6449"
+  }
+}

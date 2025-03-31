@@ -1,0 +1,16 @@
+{
+  "symbol": "burp",
+  "name": "Burp",
+  "address": "0x33f391F4c4fE802b70B77AE37670037A92114A7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17317/thumb/Big_Town_Chef_-__BURP_-_Avatar_3x.png?1646202255",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33f391f4c4fe802b70b77ae37670037a92114a7c",
+    "polygon-pos": "0x538d47d142f6993038a667e9d6210d3735749b36"
+  }
+}

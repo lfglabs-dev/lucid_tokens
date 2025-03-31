@@ -1,0 +1,17 @@
+{
+  "symbol": "cusd",
+  "name": "Coin98 Dollar",
+  "address": "0xC285B7E09A4584D027E5BC36571785B515898246",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26588/thumb/CUSD-01.png?1658909049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfa4ba88cf97e282c505bea095297786c16070129",
+    "ethereum": "0xc285b7e09a4584d027e5bc36571785b515898246",
+    "solana": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL"
+  }
+}

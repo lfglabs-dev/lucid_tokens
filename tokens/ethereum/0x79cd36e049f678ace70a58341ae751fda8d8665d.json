@@ -1,0 +1,15 @@
+{
+  "symbol": "frepe",
+  "name": "Fren Pepe",
+  "address": "0x79Cd36e049F678ace70a58341Ae751fDa8D8665d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38315/thumb/photo_2024-05-29_21-46-16_%281%29_%281%29.jpg?1717053262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x79cd36e049f678ace70a58341ae751fda8d8665d"
+  }
+}

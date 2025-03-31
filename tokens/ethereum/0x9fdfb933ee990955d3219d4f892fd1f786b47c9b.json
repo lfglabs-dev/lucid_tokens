@@ -1,0 +1,15 @@
+{
+  "symbol": "mk",
+  "name": "Meme Kombat",
+  "address": "0x9FDFb933Ee990955D3219d4F892FD1F786b47C9B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35750/thumb/MKName_200.png?1709718615",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9fdfb933ee990955d3219d4f892fd1f786b47c9b"
+  }
+}

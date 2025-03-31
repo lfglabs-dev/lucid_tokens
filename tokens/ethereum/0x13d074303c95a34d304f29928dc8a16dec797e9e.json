@@ -1,0 +1,15 @@
+{
+  "symbol": "lak3",
+  "name": "LAKE",
+  "address": "0x13d074303C95a34d304F29928dC8A16dEc797e9E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53846/thumb/lak3_logo200px.png?1737569998",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x13d074303c95a34d304f29928dc8a16dec797e9e"
+  }
+}

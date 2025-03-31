@@ -1,0 +1,16 @@
+{
+  "symbol": "audio",
+  "name": "Audius",
+  "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12913/thumb/AudiusCoinLogo_2x.png?1603425727",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "energi": "0x2c25972d4adb478773be354a09e4596f29e31fb3"
+  }
+}

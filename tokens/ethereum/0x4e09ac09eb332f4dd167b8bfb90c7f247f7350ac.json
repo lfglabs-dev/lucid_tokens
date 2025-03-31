@@ -1,0 +1,15 @@
+{
+  "symbol": "miko",
+  "name": "MemeCoinGirl",
+  "address": "0x4e09AC09Eb332F4dD167b8BFB90c7f247f7350AC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51416/thumb/miko200.png?1731141435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e09ac09eb332f4dd167b8bfb90c7f247f7350ac"
+  }
+}

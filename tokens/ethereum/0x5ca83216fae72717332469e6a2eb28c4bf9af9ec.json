@@ -1,0 +1,15 @@
+{
+  "symbol": "0xc",
+  "name": "0xCalls",
+  "address": "0x5ca83216Fae72717332469E6A2eb28c4BF9AF9ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34257/thumb/imgonline-com-ua-Resize-7HrPGgPEWWg9dyT.png?1704359262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ca83216fae72717332469e6a2eb28c4bf9af9ec"
+  }
+}

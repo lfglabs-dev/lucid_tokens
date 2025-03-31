@@ -1,0 +1,15 @@
+{
+  "symbol": "solve",
+  "name": "SOLVE",
+  "address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1768/thumb/Solve.Token_logo_200_200_wiyhout_BG.png?1575869846",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f"
+  }
+}

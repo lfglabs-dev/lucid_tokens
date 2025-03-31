@@ -1,0 +1,15 @@
+{
+  "symbol": "sync",
+  "name": "Sync Network",
+  "address": "0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13231/thumb/sync_network.png?1629777103",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32"
+  }
+}

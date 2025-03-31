@@ -1,0 +1,15 @@
+{
+  "symbol": "sbio",
+  "name": "Vector Space Biosciences, Inc.",
+  "address": "0x9b5C38cC2d1bA05Ed87C8f8A2418475bAcb20073",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31837/thumb/Hex.png?1695209722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b5c38cc2d1ba05ed87c8f8a2418475bacb20073"
+  }
+}

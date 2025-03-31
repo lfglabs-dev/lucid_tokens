@@ -1,0 +1,15 @@
+{
+  "symbol": "nxr",
+  "name": "Nexara",
+  "address": "0xbB8eCf8d1342E086c9A751Ee1B31a8320007379f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52479/thumb/nexartoken_%281%29200.png?1733425419",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb8ecf8d1342e086c9a751ee1b31a8320007379f"
+  }
+}

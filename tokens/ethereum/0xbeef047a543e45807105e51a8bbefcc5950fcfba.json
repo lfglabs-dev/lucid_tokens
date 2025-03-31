@@ -1,0 +1,15 @@
+{
+  "symbol": "steakusdt",
+  "name": "Steakhouse USDT Morpho Vault",
+  "address": "0xbEef047a543E45807105E51A8BBEFCc5950fcfBa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52408/thumb/steak-usdt.png?1733304323",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef047a543e45807105e51a8bbefcc5950fcfba"
+  }
+}

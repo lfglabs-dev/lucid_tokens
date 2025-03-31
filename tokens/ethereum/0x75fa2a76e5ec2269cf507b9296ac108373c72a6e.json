@@ -1,0 +1,15 @@
+{
+  "symbol": "nugx",
+  "name": "Nugget Rush",
+  "address": "0x75Fa2a76E5eC2269CF507b9296ac108373C72a6E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40028/thumb/NUGX.jpg?1725353880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x75fa2a76e5ec2269cf507b9296ac108373c72a6e"
+  }
+}

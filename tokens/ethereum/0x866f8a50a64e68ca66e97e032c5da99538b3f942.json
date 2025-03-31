@@ -1,0 +1,15 @@
+{
+  "symbol": "ebso",
+  "name": "eBlockStock",
+  "address": "0x866f8a50A64e68ca66E97e032c5Da99538B3F942",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18636/thumb/eBSO_logo_szines.png?1632730502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x866f8a50a64e68ca66e97e032c5da99538b3f942"
+  }
+}

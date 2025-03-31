@@ -1,0 +1,15 @@
+{
+  "symbol": "witch",
+  "name": "Witch Token",
+  "address": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17205/thumb/download_%2829%29.png?1626848072",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236"
+  }
+}

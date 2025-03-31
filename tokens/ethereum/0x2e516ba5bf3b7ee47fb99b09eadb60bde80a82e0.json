@@ -1,0 +1,15 @@
+{
+  "symbol": "eggs",
+  "name": "Eggs",
+  "address": "0x2e516BA5Bf3b7eE47fb99B09eaDb60BDE80a82e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29024/thumb/egg200x200.png?1676016342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "bernx",
+  "name": "Backed ERNX € Bond",
+  "address": "0x3f95AA88dDbB7D9D484aa3D482bf0a80009c52c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
+    "xdai": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
+    "binance-smart-chain": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
+    "avalanche": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
+    "arbitrum-one": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
+    "polygon-pos": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
+    "base": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9"
+  }
+}

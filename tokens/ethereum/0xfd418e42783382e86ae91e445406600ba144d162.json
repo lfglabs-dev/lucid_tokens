@@ -1,0 +1,16 @@
+{
+  "symbol": "zrc",
+  "name": "Zircuit",
+  "address": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35960/thumb/Twitter.png?1710256984",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "zircuit": "0xfd418e42783382e86ae91e445406600ba144d162"
+  }
+}

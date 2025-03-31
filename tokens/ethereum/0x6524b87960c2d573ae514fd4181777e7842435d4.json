@@ -1,0 +1,15 @@
+{
+  "symbol": "bzn",
+  "name": "Benzene",
+  "address": "0x6524B87960c2d573AE514fd4181777E7842435d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17368/thumb/bzn-logo-200.png?1627437320",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6524b87960c2d573ae514fd4181777e7842435d4"
+  }
+}

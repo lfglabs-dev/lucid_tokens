@@ -1,0 +1,15 @@
+{
+  "symbol": "mfers",
+  "name": "MFERS",
+  "address": "0xaD913DCD987fE54cE823E4b755F90598Cd62bb15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36064/thumb/logo200.png?1710405377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad913dcd987fe54ce823e4b755f90598cd62bb15"
+  }
+}

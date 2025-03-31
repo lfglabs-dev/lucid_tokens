@@ -1,0 +1,15 @@
+{
+  "symbol": "vachi",
+  "name": "NOVAWCHI",
+  "address": "0x337AF08bb6980Ecb68389C5ed8876D08643aBF8a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29761/thumb/novawchi-infinity-of-nevoverse-coinmarketcap-logo.png?1681178882",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x337af08bb6980ecb68389c5ed8876d08643abf8a"
+  }
+}

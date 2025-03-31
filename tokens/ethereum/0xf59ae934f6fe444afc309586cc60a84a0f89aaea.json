@@ -1,0 +1,16 @@
+{
+  "symbol": "pdex",
+  "name": "Polkadex",
+  "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14833/thumb/dIze5Ztl_400x400.jpg?1618610724",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
+    "sora": "0x008a99c642c508f4f718598f32fa9ecbeea854e335312fecdbd298b92de26e21"
+  }
+}

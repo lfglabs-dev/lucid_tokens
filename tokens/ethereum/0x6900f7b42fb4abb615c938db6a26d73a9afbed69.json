@@ -1,0 +1,15 @@
+{
+  "symbol": "dxy",
+  "name": "US Degen Index 6900",
+  "address": "0x6900F7B42fb4abb615c938DB6a26d73a9AFbed69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50590/thumb/US_Degen_Index_6900.png?1728443244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6900f7b42fb4abb615c938db6a26d73a9afbed69"
+  }
+}

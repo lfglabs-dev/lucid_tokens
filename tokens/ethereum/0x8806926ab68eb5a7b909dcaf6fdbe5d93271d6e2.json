@@ -1,0 +1,15 @@
+{
+  "symbol": "uqc",
+  "name": "Uquid Coin",
+  "address": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1341/thumb/uquid-coin.png?1548759712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "berry",
+  "name": "Berry",
+  "address": "0x2d787D4f5005Bd66aC910c2E821241625c406ed5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11016/thumb/Berry_logo.png?1593071384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2d787d4f5005bd66ac910c2e821241625c406ed5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cbt",
+  "name": "Community Business Token",
+  "address": "0xfA93660C3f6a848556Bb8E265f994160A1F2B289",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14701/thumb/CBT-Token-Small.png?1617838284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfa93660c3f6a848556bb8e265f994160a1f2b289"
+  }
+}

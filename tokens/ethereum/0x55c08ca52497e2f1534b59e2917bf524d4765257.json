@@ -1,0 +1,15 @@
+{
+  "symbol": "uwu",
+  "name": "UwU Lend",
+  "address": "0x55C08ca52497e2f1534B59E2917BF524D4765257",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27408/thumb/uwu_logo_no-bg_1024.png?1663842922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x55c08ca52497e2f1534b59e2917bf524d4765257"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mk",
+  "name": "Memelinked",
+  "address": "0xca76BF98B6e44DF7360Da8650E701f6D9D94Bb58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54072/thumb/IMG_2882.jpeg?1738151752",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xca76bf98b6e44df7360da8650e701f6d9d94bb58"
+  }
+}

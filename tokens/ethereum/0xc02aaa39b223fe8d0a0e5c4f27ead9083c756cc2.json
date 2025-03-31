@@ -1,0 +1,16 @@
+{
+  "symbol": "weth",
+  "name": "WETH",
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "tron": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF"
+  }
+}

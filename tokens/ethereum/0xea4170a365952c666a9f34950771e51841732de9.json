@@ -1,0 +1,15 @@
+{
+  "symbol": "filter",
+  "name": "Filter AI [OLD]",
+  "address": "0xeA4170A365952c666A9f34950771E51841732de9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39298/thumb/filter_logo.png?1721626025",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea4170a365952c666a9f34950771e51841732de9"
+  }
+}

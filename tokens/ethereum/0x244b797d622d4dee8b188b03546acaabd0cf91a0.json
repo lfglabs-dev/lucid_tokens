@@ -1,0 +1,15 @@
+{
+  "symbol": "four",
+  "name": "FourCoin",
+  "address": "0x244b797d622D4DEe8b188b03546ACAAbD0Cf91A0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30167/thumb/fourcoin.jpeg?1683532354",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x244b797d622d4dee8b188b03546acaabd0cf91a0"
+  }
+}

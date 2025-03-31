@@ -1,0 +1,15 @@
+{
+  "symbol": "xai",
+  "name": "SideShift",
+  "address": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15719/thumb/sideshift-icon_3x.png?1621595183",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232"
+  }
+}

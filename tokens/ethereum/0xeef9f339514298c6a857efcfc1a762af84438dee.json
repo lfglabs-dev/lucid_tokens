@@ -1,0 +1,15 @@
+{
+  "symbol": "hez",
+  "name": "Hermez Network",
+  "address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12826/thumb/hermez_logo.png?1602826556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeef9f339514298c6a857efcfc1a762af84438dee"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rise",
+  "name": "AdRise",
+  "address": "0x89ca762f778c82120C13C79A9bFbDF6e8e663AB4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54077/thumb/AdRise.png?1738175527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4"
+  }
+}

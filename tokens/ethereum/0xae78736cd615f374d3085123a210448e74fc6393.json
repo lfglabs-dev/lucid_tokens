@@ -1,0 +1,19 @@
+{
+  "symbol": "reth",
+  "name": "Rocket Pool ETH",
+  "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20764/thumb/reth.png?1637652366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xae78736cd615f374d3085123a210448e74fc6393",
+    "optimistic-ethereum": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+    "arbitrum-one": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "polygon-pos": "0x0266f4f08d82372cf0fcbccc0ff74309089c74d1",
+    "base": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c"
+  }
+}

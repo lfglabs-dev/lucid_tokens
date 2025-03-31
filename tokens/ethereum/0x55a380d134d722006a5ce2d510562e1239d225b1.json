@@ -1,0 +1,15 @@
+{
+  "symbol": "marvin",
+  "name": "Marvin Inu",
+  "address": "0x55a380d134d722006A5CE2d510562e1239D225B1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22039/thumb/lVshyCp.png?1640669485",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x55a380d134d722006a5ce2d510562e1239d225b1"
+  }
+}

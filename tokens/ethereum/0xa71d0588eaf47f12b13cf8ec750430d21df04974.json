@@ -1,0 +1,15 @@
+{
+  "symbol": "qom",
+  "name": "Shiba Predator",
+  "address": "0xa71d0588EAf47f12B13cF8eC750430d21DF04974",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24430/thumb/l1KzMcL.png?1647660619",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa71d0588eaf47f12b13cf8ec750430d21df04974"
+  }
+}

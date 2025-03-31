@@ -1,0 +1,16 @@
+{
+  "symbol": "up",
+  "name": "TonUP",
+  "address": "0x40A32606A4CE9b4F350421642Ebf65C052d5389b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34038/thumb/5.png?1703693495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "the-open-network": "EQCvaf0JMrv6BOvPpAgee08uQM_uRpUd__fhA7Nm8twzvbE_",
+    "ethereum": "0x40a32606a4ce9b4f350421642ebf65c052d5389b"
+  }
+}

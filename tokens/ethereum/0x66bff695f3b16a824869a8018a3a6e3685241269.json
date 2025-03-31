@@ -1,0 +1,15 @@
+{
+  "symbol": "brett",
+  "name": "Bretter Brett",
+  "address": "0x66bFf695f3B16a824869a8018a3A6e3685241269",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37745/thumb/Bretter_Left_200x200.png?1715370073",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x66bff695f3b16a824869a8018a3a6e3685241269"
+  }
+}

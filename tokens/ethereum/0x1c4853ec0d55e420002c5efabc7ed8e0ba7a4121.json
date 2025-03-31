@@ -1,0 +1,15 @@
+{
+  "symbol": "okinami",
+  "name": "Kanagawa Nami",
+  "address": "0x1C4853Ec0d55e420002c5eFaBc7Ed8e0bA7A4121",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26629/thumb/KANAGAWA_%284%29.png?1659324703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1c4853ec0d55e420002c5efabc7ed8e0ba7a4121"
+  }
+}

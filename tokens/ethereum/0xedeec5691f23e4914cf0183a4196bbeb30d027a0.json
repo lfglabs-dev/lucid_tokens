@@ -1,0 +1,17 @@
+{
+  "symbol": "wsta",
+  "name": "Wrapped Statera",
+  "address": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13599/thumb/wsta_logo.png?1610011862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
+    "fantom": "0xceebde49ec95e21f7ee63c5c6f98cab3519570de",
+    "polygon-pos": "0xf629712180bef6f4c569b704e03d0acbe276eb6d"
+  }
+}

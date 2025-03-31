@@ -1,0 +1,18 @@
+{
+  "symbol": "w",
+  "name": "Wormhole",
+  "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35087/thumb/W.png?1707333916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+    "ethereum": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "arbitrum-one": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "base": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91"
+  }
+}

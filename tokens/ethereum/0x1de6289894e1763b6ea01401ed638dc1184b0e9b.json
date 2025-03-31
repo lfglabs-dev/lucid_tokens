@@ -1,0 +1,15 @@
+{
+  "symbol": "infy",
+  "name": "Infinity AI",
+  "address": "0x1DE6289894E1763B6ea01401eD638DC1184B0E9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54453/thumb/infy.jpg?1739783440",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1de6289894e1763b6ea01401ed638dc1184b0e9b"
+  }
+}

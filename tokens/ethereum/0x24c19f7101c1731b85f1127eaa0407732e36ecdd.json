@@ -1,0 +1,15 @@
+{
+  "symbol": "sgtv2",
+  "name": "SharedStake Governance v2",
+  "address": "0x24C19F7101c1731b85F1127EaA0407732E36EcDD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13948/thumb/sgt-png.png?1615189100",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd"
+  }
+}

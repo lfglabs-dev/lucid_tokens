@@ -1,0 +1,15 @@
+{
+  "symbol": "xd",
+  "name": "XDoge",
+  "address": "0x01eefFCD9a10266ed00946121DF097eeD173b43D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32734/thumb/5365F431-9922-4CC4-BE80-FDB7A86E3764.png?1699219089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x01eeffcd9a10266ed00946121df097eed173b43d"
+  }
+}

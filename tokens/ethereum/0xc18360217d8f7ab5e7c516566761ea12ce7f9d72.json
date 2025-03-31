@@ -1,0 +1,15 @@
+{
+  "symbol": "ens",
+  "name": "Ethereum Name Service",
+  "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ern",
+  "name": "Ethernity Chain",
+  "address": "0xBBc2AE13b23d715c30720F079fcd9B4a74093505",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14238/thumb/LOGO_HIGH_QUALITY.png?1647831402",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+    "polygon-pos": "0x0e50bea95fe001a370a4f1c220c49aedcb982dec"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "stlink",
+  "name": "Staked LINK",
+  "address": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29271/thumb/ST.LINK_tokenl_blue.png?1677733935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8b295df2cd735b15be5eb419517aa626fc43cd5"
+  }
+}

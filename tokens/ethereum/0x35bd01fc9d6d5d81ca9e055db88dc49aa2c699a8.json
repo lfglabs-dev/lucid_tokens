@@ -1,0 +1,15 @@
+{
+  "symbol": "fwb",
+  "name": "Friends With Benefits Pro",
+  "address": "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14391/thumb/xRGEXmQN_400x400.png?1615868085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8"
+  }
+}

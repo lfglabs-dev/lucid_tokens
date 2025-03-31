@@ -1,0 +1,17 @@
+{
+  "symbol": "mcb",
+  "name": "MUX Protocol",
+  "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11796/thumb/mcb.png?1594355515",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+    "binance-smart-chain": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+    "arbitrum-one": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+  }
+}

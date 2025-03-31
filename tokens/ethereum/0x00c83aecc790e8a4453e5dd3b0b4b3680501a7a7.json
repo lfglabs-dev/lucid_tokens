@@ -1,0 +1,16 @@
+{
+  "symbol": "skl",
+  "name": "SKALE",
+  "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13245/thumb/SKALE_token_300x300.png?1606789574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+    "skale": "0xe0595a049d02b7674572b0d59cd4880db60edc50"
+  }
+}

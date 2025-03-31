@@ -1,0 +1,15 @@
+{
+  "symbol": "pyges",
+  "name": "Pyges",
+  "address": "0x96e99106d9c58573171dd6C19d767d2aE7ec0435",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37616/thumb/.png.?1715061787",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96e99106d9c58573171dd6c19d767d2ae7ec0435"
+  }
+}

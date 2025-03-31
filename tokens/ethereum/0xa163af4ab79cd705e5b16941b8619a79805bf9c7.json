@@ -1,0 +1,15 @@
+{
+  "symbol": "babymarvin",
+  "name": "BabyMarvin Inu",
+  "address": "0xa163AF4aB79CD705e5b16941B8619A79805BF9C7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51146/thumb/1000229291.jpg?1730228170",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa163af4ab79cd705e5b16941b8619a79805bf9c7"
+  }
+}

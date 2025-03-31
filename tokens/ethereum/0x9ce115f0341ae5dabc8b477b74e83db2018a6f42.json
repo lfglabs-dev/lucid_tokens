@@ -1,0 +1,15 @@
+{
+  "symbol": "hair",
+  "name": "HairDAO",
+  "address": "0x9Ce115f0341ae5daBC8B477b74E83db2018A6f42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29620/thumb/LinkedIn_Logo.jpg?1680061629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42"
+  }
+}

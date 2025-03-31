@@ -1,0 +1,15 @@
+{
+  "symbol": "shibgf",
+  "name": "SHIBGF",
+  "address": "0x505a84a03e382331A1Be487b632Cf357748b65d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19699/thumb/shibgf_logo.png?1637293051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x505a84a03e382331a1be487b632cf357748b65d6"
+  }
+}

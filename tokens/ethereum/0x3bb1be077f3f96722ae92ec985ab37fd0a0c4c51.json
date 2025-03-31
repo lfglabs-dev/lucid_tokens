@@ -1,0 +1,15 @@
+{
+  "symbol": "marv",
+  "name": "Marv",
+  "address": "0x3BB1BE077f3F96722AE92ec985aB37Fd0a0c4C51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38311/thumb/a1.png?1717052049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3bb1be077f3f96722ae92ec985ab37fd0a0c4c51"
+  }
+}

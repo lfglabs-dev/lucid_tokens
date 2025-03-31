@@ -1,0 +1,15 @@
+{
+  "symbol": "chap",
+  "name": "Chappie",
+  "address": "0x414cbF31c62D99515bfD66497B495a585b52F703",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31375/thumb/Frame_563.png?1692699227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x414cbf31c62d99515bfd66497b495a585b52f703"
+  }
+}

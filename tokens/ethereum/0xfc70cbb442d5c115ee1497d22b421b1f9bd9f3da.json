@@ -1,0 +1,15 @@
+{
+  "symbol": "btru",
+  "name": "Biblical Truth",
+  "address": "0xfC70CbB442D5c115eE1497d22b421B1f9Bd9f3Da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36677/thumb/BTRU_Logo.png?1712062960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc70cbb442d5c115ee1497d22b421b1f9bd9f3da"
+  }
+}

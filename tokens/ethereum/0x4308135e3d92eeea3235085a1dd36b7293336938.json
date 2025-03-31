@@ -1,0 +1,15 @@
+{
+  "symbol": "cradle",
+  "name": "Cradle Games",
+  "address": "0x4308135E3d92EeEA3235085a1Dd36b7293336938",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54089/thumb/cradle_dext.jpg?1738219929",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4308135e3d92eeea3235085a1dd36b7293336938"
+  }
+}

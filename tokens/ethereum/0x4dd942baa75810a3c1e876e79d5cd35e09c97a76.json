@@ -1,0 +1,15 @@
+{
+  "symbol": "d2t",
+  "name": "Dash 2 Trade",
+  "address": "0x4Dd942bAa75810a3C1E876e79d5cD35E09C97A76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4dd942baa75810a3c1e876e79d5cd35e09c97a76"
+  }
+}

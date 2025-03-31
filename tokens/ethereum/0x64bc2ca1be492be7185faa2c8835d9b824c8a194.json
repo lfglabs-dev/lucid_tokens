@@ -1,0 +1,15 @@
+{
+  "symbol": "bigtime",
+  "name": "Big Time",
+  "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32251/thumb/BIGTIME_TokenVector.png?1696994538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194"
+  }
+}

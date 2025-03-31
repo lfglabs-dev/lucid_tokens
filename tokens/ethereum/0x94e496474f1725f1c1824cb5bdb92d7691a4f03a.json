@@ -1,0 +1,17 @@
+{
+  "symbol": "banana",
+  "name": "Banana",
+  "address": "0x94e496474F1725f1c1824cB5BDb92d7691A4F03a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17521/thumb/banana-token-cg.png?1646285527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a",
+    "ronin": "0x1a89ecd466a23e98f07111b0510a2d6c1cd5e400",
+    "polygon-pos": "0xbc91347e80886453f3f8bbd6d7ac07c122d87735"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "yvtusd",
+  "name": "TUSD yVault",
+  "address": "0xFD0877d9095789cAF24c98F7CCe092fa8E120775",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28790/thumb/yvTUSD-128-0xFD0877d9095789cAF24c98F7CCe092fa8E120775.png?1674225035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfd0877d9095789caf24c98f7cce092fa8e120775"
+  }
+}

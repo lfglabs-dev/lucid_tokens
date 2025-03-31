@@ -1,0 +1,15 @@
+{
+  "symbol": "envi",
+  "name": "Envi Coin",
+  "address": "0xC8020985A6B30773d866cbef65a7A11F96773413",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32375/thumb/IMG_1970.png?1698035209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8020985a6b30773d866cbef65a7a11f96773413"
+  }
+}

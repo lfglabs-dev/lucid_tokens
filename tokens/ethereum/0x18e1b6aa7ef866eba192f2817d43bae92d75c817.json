@@ -1,0 +1,15 @@
+{
+  "symbol": "opz",
+  "name": "OPZ",
+  "address": "0x18E1B6AA7ef866Eba192f2817D43bAE92D75c817",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51021/thumb/Logo-Only.png?1729770436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x18e1b6aa7ef866eba192f2817d43bae92d75c817"
+  }
+}

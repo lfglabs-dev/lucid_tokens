@@ -1,0 +1,15 @@
+{
+  "symbol": "bmc",
+  "name": "BountyMarketCap",
+  "address": "0xd945d2031b4C63C0E363304FB771F709b502DC0a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13472/thumb/bmc-logo-200.png?1608852915",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd945d2031b4c63c0e363304fb771f709b502dc0a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "shih",
+  "name": "Shih Tzu",
+  "address": "0x841FB148863454A3b3570f515414759BE9091465",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15309/thumb/shit.PNG?1620374274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x841fb148863454a3b3570f515414759be9091465",
+    "binance-smart-chain": "0x1e8150ea46e2a7fbb795459198fbb4b35715196c"
+  }
+}

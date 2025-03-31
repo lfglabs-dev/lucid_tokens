@@ -1,0 +1,15 @@
+{
+  "symbol": "doge20",
+  "name": "Dogecoin20",
+  "address": "0x2541A36BE4cD39286ED61a3E6AFC2307602489d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37628/thumb/exOalaX3_400x400.png?1715069462",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2541a36be4cd39286ed61a3e6afc2307602489d6"
+  }
+}

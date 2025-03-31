@@ -1,0 +1,15 @@
+{
+  "symbol": "steakpyusd",
+  "name": "Steakhouse PYUSD Morpho Vault",
+  "address": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52402/thumb/steak-pyusd.png?1733299084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef02e5e13584ab96848af90261f0c8ee04722a"
+  }
+}

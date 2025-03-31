@@ -1,0 +1,16 @@
+{
+  "symbol": "mars4",
+  "name": "MARS4",
+  "address": "0x16CDA4028e9E872a38AcB903176719299beAed87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18709/thumb/mars4_logo.jpg?1633070237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x16cda4028e9e872a38acb903176719299beaed87",
+    "binance-smart-chain": "0x9cd9c5a44cb8fab39b2ee3556f5c439e65e4fddd"
+  }
+}

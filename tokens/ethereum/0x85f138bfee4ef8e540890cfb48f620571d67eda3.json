@@ -1,0 +1,21 @@
+{
+  "symbol": "avax",
+  "name": "Avalanche (Wormhole)",
+  "address": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22943/thumb/AVAX_wh_small.png?1644224391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
+    "terra": "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
+    "oasis": "0x32847e63e99d3a044908763056e25694490082f8",
+    "sui": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
+    "ethereum": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+    "binance-smart-chain": "0x96412902aa9aff61e13f085e70d3152c6ef2a817",
+    "polygon-pos": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a"
+  }
+}

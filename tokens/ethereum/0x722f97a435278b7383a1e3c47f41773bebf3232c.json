@@ -1,0 +1,15 @@
+{
+  "symbol": "ucm",
+  "name": "UCROWDME",
+  "address": "0x722f97A435278B7383a1e3c47F41773bebF3232C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12079/thumb/UKm2qXh.png?1605346168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x722f97a435278b7383a1e3c47f41773bebf3232c"
+  }
+}

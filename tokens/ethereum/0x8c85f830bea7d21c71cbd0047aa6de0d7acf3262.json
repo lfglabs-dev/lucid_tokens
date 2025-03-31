@@ -1,0 +1,15 @@
+{
+  "symbol": "rng",
+  "name": "RuniGun",
+  "address": "0x8c85F830bea7D21C71CbD0047aA6dE0D7ACF3262",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39291/thumb/RUNIGUN_LOGO_TWITTER_WHITE_OUTLINE.png?1721591407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c85f830bea7d21c71cbd0047aa6de0d7acf3262"
+  }
+}

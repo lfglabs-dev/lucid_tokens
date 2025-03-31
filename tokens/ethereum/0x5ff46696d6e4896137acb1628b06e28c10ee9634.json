@@ -1,0 +1,15 @@
+{
+  "symbol": "janny",
+  "name": "Janny",
+  "address": "0x5FF46696d6e4896137acB1628b06E28c10EE9634",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38751/thumb/photo_2024-05-17_19-06-26_%281%29.jpg?1718683462",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ff46696d6e4896137acb1628b06e28c10ee9634"
+  }
+}

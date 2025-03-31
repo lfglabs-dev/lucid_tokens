@@ -1,0 +1,15 @@
+{
+  "symbol": "xfi",
+  "name": "Xfinance",
+  "address": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12449/thumb/go.png?1599904281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5befbb272290dd5b8521d4a938f6c4757742c430"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ball",
+  "name": "Game 5 BALL",
+  "address": "0x393Bf304dD474f48210f5cE741F19A2a851703Ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39536/thumb/ball_box-200x200.png?1722841351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x393bf304dd474f48210f5ce741f19a2a851703ca"
+  }
+}

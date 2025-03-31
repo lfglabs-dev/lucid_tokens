@@ -1,0 +1,15 @@
+{
+  "symbol": "crazy",
+  "name": "Crazy Frog Coin",
+  "address": "0xaD5FdC8c3C18d50315331fCa7f66eFE5033F6C4C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33451/thumb/photo_2023-12-05_09.13.36.jpeg?1701859131",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad5fdc8c3c18d50315331fca7f66efe5033f6c4c"
+  }
+}

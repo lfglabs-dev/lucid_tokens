@@ -1,0 +1,16 @@
+{
+  "symbol": "catboy",
+  "name": "Catboy",
+  "address": "0xcA9b8D6df0729D85DCfc8eF8Bb18af1aD1990786",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33891/thumb/200x200.png?1703213224",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xca9b8d6df0729d85dcfc8ef8bb18af1ad1990786",
+    "binance-smart-chain": "0xca9b8d6df0729d85dcfc8ef8bb18af1ad1990786"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "comai",
+  "name": "Commune AI",
+  "address": "0xc78B628b060258300218740B1A7a5b3c82b3bd9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35013/thumb/Wrapped_Commune_AI.png?1707103767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f"
+  }
+}

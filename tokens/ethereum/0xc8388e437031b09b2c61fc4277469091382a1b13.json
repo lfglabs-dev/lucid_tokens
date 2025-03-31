@@ -1,0 +1,16 @@
+{
+  "symbol": "shog",
+  "name": "SHOG",
+  "address": "0xc8388e437031B09B2c61FC4277469091382A1B13",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39328/thumb/149291639.png?1721742924",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8388e437031b09b2c61fc4277469091382a1b13",
+    "base": "0x6a4f69da1e2fb2a9b11d1aad60d03163fe567732"
+  }
+}

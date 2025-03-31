@@ -1,0 +1,15 @@
+{
+  "symbol": "proof",
+  "name": "PROOF Platform",
+  "address": "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32478/thumb/PROOF_icon_-_200.png?1698286769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b4a69de6ca0defdd02c0c4ce6cb84de5202944e"
+  }
+}

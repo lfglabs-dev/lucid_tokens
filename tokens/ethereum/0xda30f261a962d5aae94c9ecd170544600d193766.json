@@ -1,0 +1,15 @@
+{
+  "symbol": "orbr",
+  "name": "Orbler",
+  "address": "0xdA30f261a962d5AAe94C9ecd170544600d193766",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24056/thumb/fA2YATWT_400x400.jpg?1646203182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda30f261a962d5aae94c9ecd170544600d193766"
+  }
+}

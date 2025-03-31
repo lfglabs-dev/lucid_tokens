@@ -1,0 +1,10 @@
+{
+  "symbol": "vatan",
+  "name": "Vatan",
+  "address": "0xbaD6c59D72d44512616F25b3D160C79Db5A69ddf",
+  "decimals": 18,
+  "type": "ERC20",
+  "platforms": {
+    "ethereum": "0xbad6c59d72d44512616f25b3d160c79db5a69ddf"
+  }
+}

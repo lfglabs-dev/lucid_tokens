@@ -1,0 +1,15 @@
+{
+  "symbol": "ethos",
+  "name": "Ethos",
+  "address": "0xcdb8fc4Ef27dfEAbA9b31899a9d165398bF97b9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40116/thumb/Ethos-Icon-200x200-PNG-TRANS.png?1725834573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e"
+  }
+}

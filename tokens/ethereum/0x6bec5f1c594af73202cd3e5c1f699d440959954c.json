@@ -1,0 +1,15 @@
+{
+  "symbol": "hfun",
+  "name": "Hold.fun",
+  "address": "0x6BeC5F1C594aF73202CD3E5c1F699d440959954c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39049/thumb/photo_2024-07-03_23-14-38.jpg?1720121187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6bec5f1c594af73202cd3e5c1f699d440959954c"
+  }
+}

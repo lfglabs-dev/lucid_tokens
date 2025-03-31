@@ -1,0 +1,15 @@
+{
+  "symbol": "mdx",
+  "name": "Mandala Exchange",
+  "address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13736/thumb/png-cmc.png?1611288725",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788"
+  }
+}

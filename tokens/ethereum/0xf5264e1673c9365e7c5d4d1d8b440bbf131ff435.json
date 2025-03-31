@@ -1,0 +1,15 @@
+{
+  "symbol": "vitalek",
+  "name": "vitalek buteren",
+  "address": "0xF5264e1673c9365e7c5D4d1D8B440BbF131Ff435",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35949/thumb/small.jpg?1710238389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf5264e1673c9365e7c5d4d1d8b440bbf131ff435"
+  }
+}

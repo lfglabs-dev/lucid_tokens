@@ -1,0 +1,15 @@
+{
+  "symbol": "inu",
+  "name": "HachikoInu",
+  "address": "0xF32aa187d5Bc16A2C02A6aFb7Df1459d0D107574",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16392/thumb/hachikoinu-200px.png?1626355242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf32aa187d5bc16a2c02a6afb7df1459d0d107574"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "teth",
+  "name": "Treehouse ETH",
+  "address": "0xD11c452fc99cF405034ee446803b6F6c1F6d5ED8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40155/thumb/tETH_logo_2_%281%29.png?1726079209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8"
+  }
+}

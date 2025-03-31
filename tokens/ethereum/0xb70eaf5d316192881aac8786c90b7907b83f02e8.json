@@ -1,0 +1,15 @@
+{
+  "symbol": "reset",
+  "name": "MetaReset",
+  "address": "0xB70eAF5d316192881Aac8786c90B7907b83F02e8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32314/thumb/reset.jpg?1697271138",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb70eaf5d316192881aac8786c90b7907b83f02e8"
+  }
+}

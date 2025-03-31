@@ -1,0 +1,15 @@
+{
+  "symbol": "$cultur",
+  "name": "CULTUR",
+  "address": "0x6cb25129314123BCD5aDCdc844cEaEEAd65A0896",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51977/thumb/-Cultur_Logo.jpg?1732287043",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6cb25129314123bcd5adcdc844ceaeead65a0896"
+  }
+}

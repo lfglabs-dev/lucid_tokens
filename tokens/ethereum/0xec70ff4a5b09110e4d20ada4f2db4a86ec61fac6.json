@@ -1,0 +1,15 @@
+{
+  "symbol": "grp",
+  "name": "Grape",
+  "address": "0xEc70fF4A5B09110E4D20aDa4F2DB4A86ec61Fac6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31106/thumb/grape_logo-removebg-preview_%281%29.png?1690515013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec70ff4a5b09110e4d20ada4f2db4a86ec61fac6"
+  }
+}

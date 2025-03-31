@@ -1,0 +1,15 @@
+{
+  "symbol": "rth",
+  "name": "Rotharium",
+  "address": "0x3FD8f39A962eFDA04956981C31AB89FAB5FB8bC8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2030/thumb/L7kpRMda_400x400.jpg?1547036314",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3fd8f39a962efda04956981c31ab89fab5fb8bc8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "waxe",
+  "name": "WAXE",
+  "address": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13508/thumb/waxe_logo.png?1609232755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd"
+  }
+}

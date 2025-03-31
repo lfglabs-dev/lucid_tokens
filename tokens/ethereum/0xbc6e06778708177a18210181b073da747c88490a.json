@@ -1,0 +1,15 @@
+{
+  "symbol": "synr",
+  "name": "MOBLAND",
+  "address": "0xbc6E06778708177a18210181b073DA747C88490a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22868/thumb/FullML_Yellow_200px.png?1648031600",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc6e06778708177a18210181b073da747c88490a"
+  }
+}

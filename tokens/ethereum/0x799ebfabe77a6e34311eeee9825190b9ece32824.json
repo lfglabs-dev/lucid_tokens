@@ -1,0 +1,16 @@
+{
+  "symbol": "btrst",
+  "name": "Braintrust",
+  "address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18100/thumb/braintrust.PNG?1630475394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+    "base": "0xa7d68d155d17cb30e311367c2ef1e82ab6022b67"
+  }
+}

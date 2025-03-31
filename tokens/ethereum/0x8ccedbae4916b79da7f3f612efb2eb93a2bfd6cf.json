@@ -1,0 +1,15 @@
+{
+  "symbol": "mnee",
+  "name": "MNEE USD Stablecoin",
+  "address": "0x8ccedbAe4916b79da7F3F612EfB2EB93A2bFD6cF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39459/thumb/MNEE.jpg?1722393629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8ccedbae4916b79da7f3f612efb2eb93a2bfd6cf"
+  }
+}

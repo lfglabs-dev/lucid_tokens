@@ -1,0 +1,15 @@
+{
+  "symbol": "0xdev",
+  "name": "DEVAI",
+  "address": "0xF7498c98789957F4eE53B3E37fF5B7Ef8A6CFC7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33294/thumb/DEVAI.png?1701401807",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf7498c98789957f4ee53b3e37ff5b7ef8a6cfc7b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "xfrxeth",
+  "name": "Leveraged frxETH",
+  "address": "0x2bb0C32101456F5960d4e994Bac183Fe0dc6C82c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39602/thumb/xfrxETH.png?1723065434",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2bb0c32101456f5960d4e994bac183fe0dc6c82c"
+  }
+}

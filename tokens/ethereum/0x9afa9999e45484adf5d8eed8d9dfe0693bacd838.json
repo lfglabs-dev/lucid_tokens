@@ -1,0 +1,16 @@
+{
+  "symbol": "every",
+  "name": "Everyworld",
+  "address": "0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36799/thumb/EW_Favicon.png?1712468081",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9afa9999e45484adf5d8eed8d9dfe0693bacd838",
+    "base": "0x717d31a60a9e811469673429c9f8ea24358990f1"
+  }
+}

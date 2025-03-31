@@ -1,0 +1,15 @@
+{
+  "symbol": "dd",
+  "name": "DuckDAO",
+  "address": "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33325/thumb/duckdao_dd_token_icon.png?1701437826",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7d51888c5abb7cdfa9cdd6a50673c7f8afaccd7f"
+  }
+}

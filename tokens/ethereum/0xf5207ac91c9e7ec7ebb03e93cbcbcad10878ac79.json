@@ -1,0 +1,17 @@
+{
+  "symbol": "mira",
+  "name": "Chains of War",
+  "address": "0xF5207Ac91C9e7EC7ebb03E93cbcbcad10878aC79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29094/thumb/Mira-Token-v2-500px.png?1676531172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cardano": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241",
+    "ethereum": "0xf5207ac91c9e7ec7ebb03e93cbcbcad10878ac79",
+    "binance-smart-chain": "0x7ce4bfc3a66d0fcf5d91dd846911c15c3ff82ecc"
+  }
+}

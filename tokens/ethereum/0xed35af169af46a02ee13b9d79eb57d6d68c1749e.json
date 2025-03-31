@@ -1,0 +1,17 @@
+{
+  "symbol": "omi",
+  "name": "ECOMI",
+  "address": "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4428/thumb/ECOMI.png?1557928886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+    "energi": "0x003d765f3793de38ad5ea9d5fd0021cf12c3ba68",
+    "base": "0x3792dbdd07e87413247df995e692806aa13d3299"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pod",
+  "name": "The Other Party",
+  "address": "0xE90CE7764d8401d19ed3733a211bd3b06c631Bc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33478/thumb/Twitter_header_-_4.png?1702017433",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe90ce7764d8401d19ed3733a211bd3b06c631bc0"
+  }
+}

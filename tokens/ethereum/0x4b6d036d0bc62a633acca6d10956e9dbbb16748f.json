@@ -1,0 +1,16 @@
+{
+  "symbol": "bc",
+  "name": "Blood Crystal",
+  "address": "0x4b6d036d0BC62A633aCca6d10956E9dbBB16748f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35834/thumb/BloodCrystalToken_200x200.png?1709888447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b6d036d0bc62a633acca6d10956e9dbbb16748f",
+    "polygon-pos": "0xfe049f59963545bf5469f968e04c9646d6e2c2c5"
+  }
+}

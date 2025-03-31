@@ -1,0 +1,15 @@
+{
+  "symbol": "mollars",
+  "name": "MollarsToken",
+  "address": "0x385d65Ed9241E415cFC689C3e0BCf5aB2f0505c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38435/thumb/cmc200x200.png?1717535763",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x385d65ed9241e415cfc689c3e0bcf5ab2f0505c2"
+  }
+}

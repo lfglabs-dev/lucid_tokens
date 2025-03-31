@@ -1,0 +1,15 @@
+{
+  "symbol": "drbt",
+  "name": "DeFi-Robot",
+  "address": "0x661013bB8D1C95D86D9C85f76E9004561F1bB36F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34725/thumb/defiRobot-logo.jpg?1705918727",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x661013bb8d1c95d86d9c85f76e9004561f1bb36f"
+  }
+}

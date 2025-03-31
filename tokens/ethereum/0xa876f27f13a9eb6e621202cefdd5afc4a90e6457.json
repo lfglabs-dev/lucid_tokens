@@ -1,0 +1,15 @@
+{
+  "symbol": "ic",
+  "name": "Icy",
+  "address": "0xA876f27F13A9eB6E621202cEFDD5AFc4a90E6457",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29666/thumb/1200.png?1680571834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa876f27f13a9eb6e621202cefdd5afc4a90e6457"
+  }
+}

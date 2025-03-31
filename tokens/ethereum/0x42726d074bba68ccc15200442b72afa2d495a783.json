@@ -1,0 +1,15 @@
+{
+  "symbol": "isikc",
+  "name": "Isiklar Coin",
+  "address": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10992/thumb/logo_%2866%29.png?1586940186",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42726d074bba68ccc15200442b72afa2d495a783"
+  }
+}

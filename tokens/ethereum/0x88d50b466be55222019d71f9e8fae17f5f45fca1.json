@@ -1,0 +1,15 @@
+{
+  "symbol": "cpt",
+  "name": "Cryptaur",
+  "address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2481/thumb/n3w6Z9xW_400x400.jpg?1548224365",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x88d50b466be55222019d71f9e8fae17f5f45fca1"
+  }
+}

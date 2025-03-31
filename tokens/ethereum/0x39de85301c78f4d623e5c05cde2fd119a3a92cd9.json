@@ -1,0 +1,15 @@
+{
+  "symbol": "blobs",
+  "name": "blobs",
+  "address": "0x39dE85301c78F4D623E5c05cDE2fD119a3a92cd9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35964/thumb/blobs200tnps.png?1710259853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x39de85301c78f4d623e5c05cde2fd119a3a92cd9"
+  }
+}

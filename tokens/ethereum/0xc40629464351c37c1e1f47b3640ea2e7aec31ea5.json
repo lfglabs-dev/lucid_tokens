@@ -1,0 +1,15 @@
+{
+  "symbol": "hts",
+  "name": "Home3",
+  "address": "0xC40629464351c37c1e1f47b3640eA2e7AeC31eA5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38599/thumb/1000085865.jpg?1718094997",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc40629464351c37c1e1f47b3640ea2e7aec31ea5"
+  }
+}

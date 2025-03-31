@@ -1,0 +1,15 @@
+{
+  "symbol": "rbt",
+  "name": "Reboot World",
+  "address": "0x902169D471B62f22FfADc690cA292ec454D0b260",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36244/thumb/Reboot-Logo_200-1.png?1710921335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x902169d471b62f22ffadc690ca292ec454d0b260"
+  }
+}

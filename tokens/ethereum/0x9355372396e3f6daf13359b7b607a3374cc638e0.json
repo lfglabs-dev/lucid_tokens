@@ -1,0 +1,16 @@
+{
+  "symbol": "whale",
+  "name": "WHALE",
+  "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11797/thumb/WHALE.png?1595004706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
+    "polygon-pos": "0xb9585ec9d4c97ad9ded7250bb9a199fe8eed0eca"
+  }
+}

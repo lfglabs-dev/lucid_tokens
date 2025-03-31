@@ -1,0 +1,16 @@
+{
+  "symbol": "bump",
+  "name": "Bumper",
+  "address": "0x785c34312dfA6B74F6f1829f79ADe39042222168",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17822/thumb/Bumper-Icon-Inverse-200.png?1629344025",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x785c34312dfa6b74f6f1829f79ade39042222168",
+    "arbitrum-one": "0xfb930d1a28990820c98144201637c99bea8cb91c"
+  }
+}

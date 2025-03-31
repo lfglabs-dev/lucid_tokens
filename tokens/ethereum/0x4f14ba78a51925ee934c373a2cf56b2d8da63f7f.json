@@ -1,0 +1,15 @@
+{
+  "symbol": "ebit",
+  "name": "eBit",
+  "address": "0x4F14ba78A51925EE934c373a2cf56b2d8da63f7F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38550/thumb/_eBit_coin.png?1717935798",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4f14ba78a51925ee934c373a2cf56b2d8da63f7f"
+  }
+}

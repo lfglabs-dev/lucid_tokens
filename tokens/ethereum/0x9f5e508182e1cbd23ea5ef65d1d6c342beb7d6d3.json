@@ -1,0 +1,15 @@
+{
+  "symbol": "$jones",
+  "name": "$JONES",
+  "address": "0x9F5E508182E1Cbd23EA5Ef65d1D6C342beb7d6D3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34588/thumb/ALEX_JONES_LOGO_200px_CoinGecko.jpg?1705425283",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f5e508182e1cbd23ea5ef65d1d6c342beb7d6d3"
+  }
+}

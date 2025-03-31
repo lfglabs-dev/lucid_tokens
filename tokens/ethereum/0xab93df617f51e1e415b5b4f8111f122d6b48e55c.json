@@ -1,0 +1,15 @@
+{
+  "symbol": "deto",
+  "name": "Delta Exchange",
+  "address": "0xaB93dF617F51E1E415b5b4f8111f122d6b48e55C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14610/thumb/deto-logo.png?1617247295",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xab93df617f51e1e415b5b4f8111f122d6b48e55c"
+  }
+}

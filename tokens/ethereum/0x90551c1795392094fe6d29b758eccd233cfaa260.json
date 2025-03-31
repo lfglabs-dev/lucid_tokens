@@ -1,0 +1,15 @@
+{
+  "symbol": "fweth",
+  "name": "Fluid Wrapped Ether",
+  "address": "0x90551c1795392094FE6D29B758EcCD233cFAa260",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38033/thumb/fWETH.png?1716322882",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x90551c1795392094fe6d29b758eccd233cfaa260"
+  }
+}

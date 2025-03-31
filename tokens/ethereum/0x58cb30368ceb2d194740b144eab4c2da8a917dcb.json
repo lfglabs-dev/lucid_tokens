@@ -1,0 +1,16 @@
+{
+  "symbol": "zyn",
+  "name": "ZynCoin",
+  "address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x58cb30368ceb2d194740b144eab4c2da8a917dcb",
+    "solana": "PzuaVAUH2tfxGZcbBR6kMxeJsBngnsPLFotGJNCtcsd"
+  }
+}

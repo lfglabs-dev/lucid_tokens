@@ -1,0 +1,15 @@
+{
+  "symbol": "caga",
+  "name": "Crypto Asset Governance Alliance",
+  "address": "0xbddc20ed7978B7d59eF190962F441cD18C14e19f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32846/thumb/caga_logo.jpg?1699616257",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbddc20ed7978b7d59ef190962f441cd18c14e19f"
+  }
+}

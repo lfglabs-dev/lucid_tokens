@@ -1,0 +1,15 @@
+{
+  "symbol": "union",
+  "name": "Union Finance",
+  "address": "0x5Dfe42eEA70a3e6f93EE54eD9C321aF07A85535C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30556/thumb/Mark.png?1685013645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5dfe42eea70a3e6f93ee54ed9c321af07a85535c"
+  }
+}

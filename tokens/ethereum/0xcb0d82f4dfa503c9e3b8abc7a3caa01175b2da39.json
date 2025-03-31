@@ -1,0 +1,16 @@
+{
+  "symbol": "ax",
+  "name": "AurusX",
+  "address": "0xCB0D82f4DFA503C9e3b8Abc7A3Caa01175b2dA39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27871/thumb/AurusX_token_2D.jpg?1666165444",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
+    "polygon-pos": "0x1a763170b96f23f15576d0fa0b2619d1254c437d"
+  }
+}

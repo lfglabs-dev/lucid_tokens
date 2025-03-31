@@ -1,0 +1,15 @@
+{
+  "symbol": "rvsl",
+  "name": "Reversal",
+  "address": "0x6AA3EcEC75ceb388d2E929814EaD4Fc4CD0648fC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35453/thumb/Reversal_Logo.png?1708665533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6aa3ecec75ceb388d2e929814ead4fc4cd0648fc"
+  }
+}

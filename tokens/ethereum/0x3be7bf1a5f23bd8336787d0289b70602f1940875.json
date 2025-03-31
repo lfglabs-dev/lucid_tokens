@@ -1,0 +1,15 @@
+{
+  "symbol": "vidt",
+  "name": "VIDT DAO",
+  "address": "0x3BE7bF1A5F23BD8336787D0289B70602f1940875",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27552/thumb/RiHSX2MH_400x400.jpeg?1664501495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3be7bf1a5f23bd8336787d0289b70602f1940875"
+  }
+}

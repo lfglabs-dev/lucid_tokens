@@ -1,0 +1,15 @@
+{
+  "symbol": "$bud",
+  "name": "Big Bud",
+  "address": "0x420b879b0d18cc182E7E82AD16a13877C3A88420",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38963/thumb/bigbud_%283%29_%281%29.png?1719710107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x420b879b0d18cc182e7e82ad16a13877c3a88420"
+  }
+}

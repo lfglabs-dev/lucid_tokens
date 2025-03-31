@@ -1,0 +1,17 @@
+{
+  "symbol": "combo",
+  "name": "Furucombo",
+  "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13629/thumb/COMBO_token_ol.png?1610701537",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xffffffff2ba8f66d4e51811c5190992176930278",
+    "harmony-shard-0": "0x5693fe17ad04f0d8f768ceeb863e62b522901440",
+    "polygon-pos": "0x6ddb31002abc64e1479fc439692f7ea061e78165"
+  }
+}

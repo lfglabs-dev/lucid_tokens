@@ -1,0 +1,15 @@
+{
+  "symbol": "sika",
+  "name": "SikaSwap",
+  "address": "0xFefE274dE1983102d4565b7f14018602D2c830b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40104/thumb/Sika_logo_2-removebg.png?1725695960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfefe274de1983102d4565b7f14018602d2c830b9"
+  }
+}

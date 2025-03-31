@@ -1,0 +1,17 @@
+{
+  "symbol": "move",
+  "name": "Mover",
+  "address": "0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13719/thumb/o0KIvs7T_400x400.jpg?1617672818",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
+    "fantom": "0xc055c698f3793577707b3e6979b089f50c314d3a",
+    "polygon-pos": "0x521cddc0cba84f14c69c1e99249f781aa73ee0bc"
+  }
+}

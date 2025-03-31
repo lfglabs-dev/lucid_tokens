@@ -1,0 +1,15 @@
+{
+  "symbol": "axe",
+  "name": "Axe Cap",
+  "address": "0x070E984fda37DD942f5c953F6b2375339aDAc308",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31339/thumb/axe_cap_icon_200x200.png?1692600892",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x070e984fda37dd942f5c953f6b2375339adac308"
+  }
+}

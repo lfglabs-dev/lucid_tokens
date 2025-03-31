@@ -1,0 +1,15 @@
+{
+  "symbol": "dxi",
+  "name": "Dacxi",
+  "address": "0x5e29CF3E3fEd4df50aCab95f8268e9ee26Ea36f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4466/thumb/dacxi.png?1639042471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5e29cf3e3fed4df50acab95f8268e9ee26ea36f2"
+  }
+}

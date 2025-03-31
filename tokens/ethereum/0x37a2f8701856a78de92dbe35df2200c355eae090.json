@@ -1,0 +1,15 @@
+{
+  "symbol": "qns",
+  "name": "QuantoSwap",
+  "address": "0x37A2f8701856a78DE92DBe35dF2200c355EAe090",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37741/thumb/Jg0wqCPy_400x400.jpg?1715358668",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x37a2f8701856a78de92dbe35df2200c355eae090"
+  }
+}

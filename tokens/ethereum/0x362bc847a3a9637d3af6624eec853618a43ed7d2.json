@@ -1,0 +1,16 @@
+{
+  "symbol": "prq",
+  "name": "PARSIQ",
+  "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11973/thumb/DsNgK0O.png?1596590280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
+    "binance-smart-chain": "0xd21d29b38374528675c34936bf7d5dd693d2a577"
+  }
+}

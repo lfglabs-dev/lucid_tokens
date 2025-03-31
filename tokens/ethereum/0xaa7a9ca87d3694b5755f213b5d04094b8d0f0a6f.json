@@ -1,0 +1,15 @@
+{
+  "symbol": "trac",
+  "name": "OriginTrail",
+  "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1877/thumb/TRAC.jpg?1635134367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+  }
+}

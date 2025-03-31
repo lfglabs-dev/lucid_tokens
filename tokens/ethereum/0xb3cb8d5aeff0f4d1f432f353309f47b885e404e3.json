@@ -1,0 +1,15 @@
+{
+  "symbol": "mev",
+  "name": "MEVerse",
+  "address": "0xb3Cb8d5AEFF0F4d1f432f353309f47b885E404E3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24566/thumb/0sp1DWVw_400x400.png?1648191682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb3cb8d5aeff0f4d1f432f353309f47b885e404e3"
+  }
+}

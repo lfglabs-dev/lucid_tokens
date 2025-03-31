@@ -1,0 +1,15 @@
+{
+  "symbol": "odoge",
+  "name": "Ordinal Doge",
+  "address": "0x68b429161Ec09a6c1D65ba70727AB1faa5Bc4026",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29323/thumb/o-DOGE-200x200.png?1678070029",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68b429161ec09a6c1d65ba70727ab1faa5bc4026"
+  }
+}

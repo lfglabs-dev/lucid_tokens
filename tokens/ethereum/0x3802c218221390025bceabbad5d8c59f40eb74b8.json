@@ -1,0 +1,15 @@
+{
+  "symbol": "geth",
+  "name": "Guarded Ether",
+  "address": "0x3802c218221390025BCEABBaD5D8C59F40eB74B8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14001/thumb/guarda-shield-logo.png?1613603915",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3802c218221390025bceabbad5d8c59f40eb74b8"
+  }
+}

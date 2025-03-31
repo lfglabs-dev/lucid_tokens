@@ -1,0 +1,16 @@
+{
+  "symbol": "arc",
+  "name": "Arc",
+  "address": "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24235/thumb/arc.png?1647694270",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
+    "base": "0x61ca70b867a48265e553a7fbb81bfe44fada7ae6"
+  }
+}

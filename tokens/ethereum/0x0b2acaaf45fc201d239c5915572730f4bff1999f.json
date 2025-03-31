@@ -1,0 +1,15 @@
+{
+  "symbol": "goose",
+  "name": "Goose",
+  "address": "0x0B2acaAF45Fc201d239c5915572730F4bFf1999f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50369/thumb/goose_200x200.png?1727371468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0b2acaaf45fc201d239c5915572730f4bff1999f"
+  }
+}

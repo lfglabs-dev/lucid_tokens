@@ -1,0 +1,15 @@
+{
+  "symbol": "matt",
+  "name": "MATT",
+  "address": "0x7087c92EC764e75e7be7701EBA15cD95D90F501F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39199/thumb/MATT.jpg?1721020032",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7087c92ec764e75e7be7701eba15cd95d90f501f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dogz",
+  "name": "Dogz",
+  "address": "0x82A77710495A35549D2aDD797412b4a4497D33eF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7544/thumb/dogz.png?1604655282",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x82a77710495a35549d2add797412b4a4497d33ef"
+  }
+}

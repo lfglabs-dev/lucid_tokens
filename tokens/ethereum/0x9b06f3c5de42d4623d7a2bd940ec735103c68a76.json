@@ -1,0 +1,18 @@
+{
+  "symbol": "volta",
+  "name": "Volta Club",
+  "address": "0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31602/thumb/volta-200x200.png?1693996744",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76",
+    "factom": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76",
+    "avalanche": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76",
+    "arbitrum-one": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76"
+  }
+}

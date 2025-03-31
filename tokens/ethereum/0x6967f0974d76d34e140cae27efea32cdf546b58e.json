@@ -1,0 +1,16 @@
+{
+  "symbol": "gmrt",
+  "name": "The Game Company",
+  "address": "0x6967F0974d76d34e140caE27efeA32CDf546b58E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54343/thumb/Token-transparent.png?1739354572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6967f0974d76d34e140cae27efea32cdf546b58e",
+    "ethereum": "0x6967f0974d76d34e140cae27efea32cdf546b58e"
+  }
+}

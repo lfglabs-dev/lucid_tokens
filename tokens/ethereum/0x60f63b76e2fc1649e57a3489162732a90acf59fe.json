@@ -1,0 +1,16 @@
+{
+  "symbol": "flurry",
+  "name": "Flurry Finance",
+  "address": "0x60F63B76E2Fc1649E57a3489162732A90ACf59FE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16235/thumb/flurry_logo_only_200x200.png?1623365114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60f63b76e2fc1649e57a3489162732a90acf59fe",
+    "binance-smart-chain": "0x47c9bcef4fe2dbcdf3abf508f147f1bbe8d4fef2"
+  }
+}

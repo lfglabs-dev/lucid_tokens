@@ -1,0 +1,15 @@
+{
+  "symbol": "rainbow",
+  "name": "Rainbow",
+  "address": "0xe657d49ABAe3EA21618bb481F1Dab4322855f60E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39472/thumb/1000013027.jpg?1722401776",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe657d49abae3ea21618bb481f1dab4322855f60e"
+  }
+}

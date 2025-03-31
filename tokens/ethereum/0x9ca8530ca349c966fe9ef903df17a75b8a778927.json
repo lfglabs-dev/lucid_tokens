@@ -1,0 +1,15 @@
+{
+  "symbol": "lcai",
+  "name": "Lightchain AI",
+  "address": "0x9cA8530CA349c966Fe9ef903Df17a75B8A778927",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52588/thumb/200x200.png?1733713860",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ca8530ca349c966fe9ef903df17a75b8a778927"
+  }
+}

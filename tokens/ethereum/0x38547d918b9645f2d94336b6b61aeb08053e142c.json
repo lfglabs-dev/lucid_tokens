@@ -1,0 +1,15 @@
+{
+  "symbol": "usc",
+  "name": "USC",
+  "address": "0x38547D918b9645F2D94336B6b61AEB08053E142c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34124/thumb/USC.png?1704158673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38547d918b9645f2d94336b6b61aeb08053e142c"
+  }
+}

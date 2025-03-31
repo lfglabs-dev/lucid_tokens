@@ -1,0 +1,15 @@
+{
+  "symbol": "kizuna",
+  "name": "Kizuna",
+  "address": "0x470c8950C0c3aA4B09654bC73b004615119A44b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32113/thumb/IMG_9968.png?1696585475",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x470c8950c0c3aa4b09654bc73b004615119a44b5"
+  }
+}

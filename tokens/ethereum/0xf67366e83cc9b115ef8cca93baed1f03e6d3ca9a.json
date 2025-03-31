@@ -1,0 +1,15 @@
+{
+  "symbol": "mverse",
+  "name": "MindVerse",
+  "address": "0xf67366e83cc9B115Ef8cCA93baeD1f03E6d3ca9A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35875/thumb/photo_2024-03-08_14.24.00.jpeg?1709981737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf67366e83cc9b115ef8cca93baed1f03e6d3ca9a"
+  }
+}

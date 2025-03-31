@@ -1,0 +1,15 @@
+{
+  "symbol": "alink",
+  "name": "Aave LINK v1",
+  "address": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11729/thumb/aLINK.png?1593084323",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84"
+  }
+}

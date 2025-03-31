@@ -1,0 +1,16 @@
+{
+  "symbol": "pepecoin",
+  "name": "PepeCoin",
+  "address": "0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30219/thumb/pepecoin.jpeg?1683629013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa9e8acf069c58aec8825542845fd754e41a9489a",
+    "solana": "EXJvx3KksbWP9QmPmtRr8mkQXD2kZrFRENCJitMs1eZ6"
+  }
+}

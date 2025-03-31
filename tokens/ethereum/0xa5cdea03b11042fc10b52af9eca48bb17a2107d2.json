@@ -1,0 +1,15 @@
+{
+  "symbol": "mvrwa",
+  "name": "RWA Index",
+  "address": "0xA5cdea03B11042fc10B52aF9eCa48bb17A2107d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54640/thumb/MEV-RWA.png?1740815951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa5cdea03b11042fc10b52af9eca48bb17a2107d2"
+  }
+}

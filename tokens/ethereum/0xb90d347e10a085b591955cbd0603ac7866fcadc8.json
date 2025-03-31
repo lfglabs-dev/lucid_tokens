@@ -1,0 +1,15 @@
+{
+  "symbol": "xcvx",
+  "name": "Leveraged CVX",
+  "address": "0xB90D347e10a085B591955Cbd0603aC7866fCADC8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39606/thumb/Screenshot_2024-08-07_at_8.31.16_PM-removebg-preview.png?1723065695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb90d347e10a085b591955cbd0603ac7866fcadc8"
+  }
+}

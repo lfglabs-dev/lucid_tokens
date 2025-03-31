@@ -1,0 +1,15 @@
+{
+  "symbol": "mmeth",
+  "name": "Eigenpie mETH",
+  "address": "0x8a053350ca5F9352a16deD26ab333e2D251DAd7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37161/thumb/mmETH.png?1713504066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a053350ca5f9352a16ded26ab333e2d251dad7c"
+  }
+}

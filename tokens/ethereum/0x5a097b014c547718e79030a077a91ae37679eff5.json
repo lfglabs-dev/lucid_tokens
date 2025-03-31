@@ -1,0 +1,15 @@
+{
+  "symbol": "xsteth",
+  "name": "Leveraged stETH",
+  "address": "0x5a097b014C547718e79030a077A91Ae37679EfF5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39601/thumb/Screenshot_2024-08-07_at_7.23.59%E2%80%AFPM.png?1723065407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5a097b014c547718e79030a077a91ae37679eff5"
+  }
+}

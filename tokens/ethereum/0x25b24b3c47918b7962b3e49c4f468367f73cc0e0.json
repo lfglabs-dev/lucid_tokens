@@ -1,0 +1,16 @@
+{
+  "symbol": "axl",
+  "name": "AXL INU",
+  "address": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22191/thumb/Original_Logo-01.png?1641188792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
+    "ethereum": "0x25b24b3c47918b7962b3e49c4f468367f73cc0e0"
+  }
+}

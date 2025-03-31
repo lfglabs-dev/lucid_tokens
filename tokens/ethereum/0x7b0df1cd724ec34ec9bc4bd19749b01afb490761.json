@@ -1,0 +1,15 @@
+{
+  "symbol": "koin",
+  "name": "Kittekoin",
+  "address": "0x7b0DF1Cd724Ec34eC9Bc4Bd19749b01AfB490761",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39827/thumb/logo_200x200.png?1724205419",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7b0df1cd724ec34ec9bc4bd19749b01afb490761"
+  }
+}

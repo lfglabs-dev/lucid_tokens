@@ -1,0 +1,15 @@
+{
+  "symbol": "ft",
+  "name": "Fracton Protocol",
+  "address": "0xEe9E7Bb7E55bBc86414047B61D65c9C0d91fFBd0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26809/thumb/CtH9UlRl_400x400.jpeg?1660227771",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xee9e7bb7e55bbc86414047b61d65c9c0d91ffbd0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "zklk",
+  "name": "ZkLock",
+  "address": "0x96884fcAAc082Db4B32601aDA5b177FD6cBFFA88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36586/thumb/IMG_20240328_215725_691.jpg?1711947986",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96884fcaac082db4b32601ada5b177fd6cbffa88"
+  }
+}

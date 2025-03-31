@@ -1,0 +1,16 @@
+{
+  "symbol": "alcx",
+  "name": "Alchemix",
+  "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14113/thumb/Alchemix.png?1614409874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+    "near-protocol": "dbdb4d16eda451d0503b854cf79d55697f90c8df.factory.bridge.near"
+  }
+}

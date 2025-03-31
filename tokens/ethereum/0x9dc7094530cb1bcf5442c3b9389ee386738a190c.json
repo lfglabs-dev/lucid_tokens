@@ -1,0 +1,15 @@
+{
+  "symbol": "macrv",
+  "name": "Morpho-Aave Curve DAO Token",
+  "address": "0x9dc7094530cB1bcf5442c3b9389ee386738A190c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29874/thumb/maCRV.jpg?1681894570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9dc7094530cb1bcf5442c3b9389ee386738a190c"
+  }
+}

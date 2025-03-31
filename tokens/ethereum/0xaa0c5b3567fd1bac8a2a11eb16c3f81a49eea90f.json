@@ -1,0 +1,15 @@
+{
+  "symbol": "mmai",
+  "name": "MetamonkeyAi",
+  "address": "0xaa0c5B3567fd1bac8a2a11EB16c3F81a49eea90F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27208/thumb/metamonkey.jpeg?1662608488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa0c5b3567fd1bac8a2a11eb16c3f81a49eea90f"
+  }
+}

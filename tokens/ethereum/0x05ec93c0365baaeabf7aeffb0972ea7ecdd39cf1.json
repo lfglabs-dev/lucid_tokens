@@ -1,0 +1,15 @@
+{
+  "symbol": "abat",
+  "name": "Aave BAT",
+  "address": "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14246/thumb/aBAT.1fe436f7_-_Copy.png?1615528663",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1"
+  }
+}

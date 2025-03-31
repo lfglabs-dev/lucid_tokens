@@ -1,0 +1,15 @@
+{
+  "symbol": "$xai",
+  "name": "Xspectra Ai",
+  "address": "0xc15c94F460c6a01a93b8f9Ba919FAdCEc9310f54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53184/thumb/1000281371.jpg?1735563383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc15c94f460c6a01a93b8f9ba919fadcec9310f54"
+  }
+}

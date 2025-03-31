@@ -1,0 +1,15 @@
+{
+  "symbol": "noti",
+  "name": "Noti",
+  "address": "0xffB1018eff5FC021E15215290732F02a89b008E7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52495/thumb/logo-icon.png?1733442661",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xffb1018eff5fc021e15215290732f02a89b008e7"
+  }
+}

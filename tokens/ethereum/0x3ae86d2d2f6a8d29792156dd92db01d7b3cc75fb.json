@@ -1,0 +1,15 @@
+{
+  "symbol": "sxeth",
+  "name": "StakeEase Restaked ETH",
+  "address": "0x3Ae86d2d2f6A8d29792156Dd92DB01D7B3CC75Fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50763/thumb/sxeth-removebg-preview.png?1729052241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ae86d2d2f6a8d29792156dd92db01d7b3cc75fb"
+  }
+}

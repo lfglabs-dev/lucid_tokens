@@ -1,0 +1,15 @@
+{
+  "symbol": "gate",
+  "name": "GATENet",
+  "address": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16009/thumb/82168105.png?1622599261",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9d7630adf7ab0b0cb00af747db76864df0ec82e4"
+  }
+}

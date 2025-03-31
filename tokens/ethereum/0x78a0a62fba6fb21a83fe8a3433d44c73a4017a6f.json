@@ -1,0 +1,16 @@
+{
+  "symbol": "ox old",
+  "name": "Open Exchange Token",
+  "address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30604/thumb/Logo2.png?1685522119",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
+    "polygon-pos": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f"
+  }
+}

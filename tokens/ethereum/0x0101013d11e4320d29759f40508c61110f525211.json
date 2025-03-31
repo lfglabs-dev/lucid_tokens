@@ -1,0 +1,15 @@
+{
+  "symbol": "frog",
+  "name": "Beer Frog",
+  "address": "0x0101013d11e4320d29759f40508C61110f525211",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50730/thumb/BeerFrog-avatar.jpg?1728915239",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0101013d11e4320d29759f40508c61110f525211"
+  }
+}

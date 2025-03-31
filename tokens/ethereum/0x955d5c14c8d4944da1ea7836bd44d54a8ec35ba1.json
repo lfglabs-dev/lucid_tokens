@@ -1,0 +1,15 @@
+{
+  "symbol": "rfd",
+  "name": "Refund",
+  "address": "0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30501/thumb/rfdlogo.jpg?1684735150",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x955d5c14c8d4944da1ea7836bd44d54a8ec35ba1"
+  }
+}

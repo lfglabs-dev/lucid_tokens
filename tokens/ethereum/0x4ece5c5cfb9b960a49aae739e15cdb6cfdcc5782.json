@@ -1,0 +1,15 @@
+{
+  "symbol": "dbuy",
+  "name": "Doont Buy",
+  "address": "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17895/thumb/VaxEiZ3.png?1629727429",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782"
+  }
+}

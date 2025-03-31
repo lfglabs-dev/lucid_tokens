@@ -1,0 +1,16 @@
+{
+  "symbol": "dna",
+  "name": "Muhdo Hub",
+  "address": "0x7d3e4165fd7D8590fB2a415A550F7bdecE5c4F52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53032/thumb/Muhdo_Hub.jpg?1735057541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7d3e4165fd7d8590fb2a415a550f7bdece5c4f52",
+    "solana": "Fnm6Jf4BtRHSjMcUt7jYk5cJksQhzuwhtgg94kG5XB59"
+  }
+}

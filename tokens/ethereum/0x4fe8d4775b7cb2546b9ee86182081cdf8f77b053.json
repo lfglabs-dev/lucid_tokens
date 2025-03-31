@@ -1,0 +1,15 @@
+{
+  "symbol": "kaiju",
+  "name": "KAIJUNO8",
+  "address": "0x4fE8d4775b7cB2546b9eE86182081CDF8f77B053",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35688/thumb/mmexport1709168349348.jpg?1709533292",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4fe8d4775b7cb2546b9ee86182081cdf8f77b053"
+  }
+}

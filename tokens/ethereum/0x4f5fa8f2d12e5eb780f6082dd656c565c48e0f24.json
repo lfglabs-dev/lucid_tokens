@@ -1,0 +1,16 @@
+{
+  "symbol": "gum",
+  "name": "Gourmet Galaxy",
+  "address": "0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13846/thumb/gum.png?1612320864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24",
+    "binance-smart-chain": "0xc53708664b99df348dd27c3ac0759d2da9c40462"
+  }
+}

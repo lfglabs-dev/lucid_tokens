@@ -1,0 +1,15 @@
+{
+  "symbol": "gracy",
+  "name": "Gracy",
+  "address": "0x7C95e7AD2B349dc2f82d0f1117a44B561fA2699a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31943/thumb/gracy_200x200.png?1695725615",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a"
+  }
+}

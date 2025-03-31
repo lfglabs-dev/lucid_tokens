@@ -1,0 +1,15 @@
+{
+  "symbol": "3ac",
+  "name": "Three Arrowz Capitel",
+  "address": "0x2De1218C31a04E1040fC5501b89e3A58793b3DDF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50392/thumb/3AC.jpg?1727582626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2de1218c31a04e1040fc5501b89e3a58793b3ddf"
+  }
+}

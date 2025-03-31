@@ -1,0 +1,15 @@
+{
+  "symbol": "eyz",
+  "name": "EyzoAI",
+  "address": "0xf59C6767dfB5aA9e908Cb8D1831d02E53312e8ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52673/thumb/logo_200x200.png?1734018140",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf59c6767dfb5aa9e908cb8d1831d02e53312e8ff"
+  }
+}

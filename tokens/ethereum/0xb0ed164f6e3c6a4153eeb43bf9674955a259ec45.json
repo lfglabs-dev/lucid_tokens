@@ -1,0 +1,15 @@
+{
+  "symbol": "abe",
+  "name": "Aboard",
+  "address": "0xb0eD164F6E3C6a4153EeB43bf9674955A259eC45",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38378/thumb/EFAACD64-6D7B-4E3A-9290-E077BEB0E711.png?1717310960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb0ed164f6e3c6a4153eeb43bf9674955a259ec45"
+  }
+}

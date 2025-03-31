@@ -1,0 +1,15 @@
+{
+  "symbol": "eusd",
+  "name": "eUSD (OLD)",
+  "address": "0x97de57eC338AB5d51557DA3434828C5DbFaDA371",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30047/thumb/eUSD_Token.png?1682678504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x97de57ec338ab5d51557da3434828c5dbfada371"
+  }
+}

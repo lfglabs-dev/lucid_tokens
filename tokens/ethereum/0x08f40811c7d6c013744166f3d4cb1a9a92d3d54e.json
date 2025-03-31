@@ -1,0 +1,15 @@
+{
+  "symbol": "nvg",
+  "name": "NightVerse Game",
+  "address": "0x08F40811C7d6C013744166f3d4CB1A9A92D3D54E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29059/thumb/nvg.png?1676343175",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x08f40811c7d6c013744166f3d4cb1a9a92d3d54e"
+  }
+}

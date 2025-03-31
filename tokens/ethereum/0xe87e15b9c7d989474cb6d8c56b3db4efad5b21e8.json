@@ -1,0 +1,17 @@
+{
+  "symbol": "hokk",
+  "name": "HOKK Finance",
+  "address": "0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14985/thumb/HOKK_Inu_Mascot_%284%29.png?1627995426",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8",
+    "huobi-token": "0x4ebf49cc2d2dd029e5cfdf868316385dffd94c6a",
+    "binance-smart-chain": "0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8"
+  }
+}

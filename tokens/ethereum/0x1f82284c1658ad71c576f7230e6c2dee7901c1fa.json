@@ -1,0 +1,19 @@
+{
+  "symbol": "wbtsla",
+  "name": "Wrapped bTSLA",
+  "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+    "ethereum": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+    "avalanche": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+    "polygon-pos": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+    "xdai": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa"
+  }
+}

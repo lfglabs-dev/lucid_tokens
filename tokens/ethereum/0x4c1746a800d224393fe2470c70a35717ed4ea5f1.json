@@ -1,0 +1,15 @@
+{
+  "symbol": "plume",
+  "name": "Plume",
+  "address": "0x4C1746A800D224393fE2470C70A35717eD4eA5F1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53623/thumb/plume-token.png?1736896935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1"
+  }
+}

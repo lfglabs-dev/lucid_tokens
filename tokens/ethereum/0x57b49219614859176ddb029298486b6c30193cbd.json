@@ -1,0 +1,15 @@
+{
+  "symbol": "oracle",
+  "name": "Oracle AI",
+  "address": "0x57B49219614859176Ddb029298486B6c30193Cbd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35463/thumb/Oracle_AI_200x200.png?1708677748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x57b49219614859176ddb029298486b6c30193cbd"
+  }
+}

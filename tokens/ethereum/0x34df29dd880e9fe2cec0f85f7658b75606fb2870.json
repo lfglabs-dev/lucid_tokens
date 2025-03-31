@@ -1,0 +1,15 @@
+{
+  "symbol": "navyseal",
+  "name": "Navy seal",
+  "address": "0x34DF29Dd880e9fe2cec0f85f7658B75606fB2870",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31406/thumb/Navyseal.jpg?1692843944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x34df29dd880e9fe2cec0f85f7658b75606fb2870"
+  }
+}

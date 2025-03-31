@@ -1,0 +1,15 @@
+{
+  "symbol": "jdc",
+  "name": "JD Coin",
+  "address": "0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9958/thumb/Cv-2ca6p_400x400.jpg?1575926305",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce"
+  }
+}

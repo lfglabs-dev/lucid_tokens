@@ -1,0 +1,15 @@
+{
+  "symbol": "toweli",
+  "name": "Towelie",
+  "address": "0x420698CFdEDdEa6bc78D59bC17798113ad278F9D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38842/thumb/photo_2024-06-22_18-43-45.jpg?1719201855",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x420698cfdeddea6bc78d59bc17798113ad278f9d"
+  }
+}

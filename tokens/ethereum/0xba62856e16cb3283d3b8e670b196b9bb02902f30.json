@@ -1,0 +1,15 @@
+{
+  "symbol": "luce",
+  "name": "Vatican Mascot",
+  "address": "0xba62856E16CB3283d3B8E670B196B9Bb02902f30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51355/thumb/luce-transparent-cg.png?1730877165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba62856e16cb3283d3b8e670b196b9bb02902f30"
+  }
+}

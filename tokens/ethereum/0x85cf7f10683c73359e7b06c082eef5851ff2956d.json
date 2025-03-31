@@ -1,0 +1,16 @@
+{
+  "symbol": "lilai",
+  "name": "LilAI",
+  "address": "0x85Cf7f10683C73359e7B06C082eef5851fF2956D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30621/thumb/LogoLilai_CoinGecko.png?1685772677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x655a6beebf2361a19549a99486ff65f709bd2646",
+    "ethereum": "0x85cf7f10683c73359e7b06c082eef5851ff2956d"
+  }
+}

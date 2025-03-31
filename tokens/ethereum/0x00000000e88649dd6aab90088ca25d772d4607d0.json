@@ -1,0 +1,15 @@
+{
+  "symbol": "udw",
+  "name": "Underworld",
+  "address": "0x00000000e88649DD6AaB90088Ca25D772D4607d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36704/thumb/UDW-HR-Ticker.jpg?1712125179",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00000000e88649dd6aab90088ca25d772d4607d0"
+  }
+}

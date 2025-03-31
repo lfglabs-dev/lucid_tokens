@@ -1,0 +1,15 @@
+{
+  "symbol": "strngr",
+  "name": "Stronger",
+  "address": "0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24922/thumb/200x200_logo.png?1650609989",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc0327d50e6c73db2f8117760592c8bbf1cdcf38"
+  }
+}

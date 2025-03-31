@@ -1,0 +1,15 @@
+{
+  "symbol": "lbk",
+  "name": "LBK",
+  "address": "0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9492/thumb/lbk.jpeg?1586144855",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6"
+  }
+}

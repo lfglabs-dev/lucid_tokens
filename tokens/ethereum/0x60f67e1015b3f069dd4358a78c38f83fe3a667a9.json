@@ -1,0 +1,17 @@
+{
+  "symbol": "route",
+  "name": "Router Protocol",
+  "address": "0x60F67E1015b3f069DD4358a78c38f83fE3a667A9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39474/thumb/router.jpg?1722425047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60f67e1015b3f069dd4358a78c38f83fe3a667a9",
+    "osmosis": "ibc/3F8F00094F0F79D17750FF69C5F09B078084018570AAF4F1C92C86D3F73E6488",
+    "polygon-pos": "0x93890f346c5d02c3863a06657bc72555dc72c527"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dysto",
+  "name": "DystoWorld AI",
+  "address": "0xDe466831fdE62e5141d49BA9d962D3fa3fAe466F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38955/thumb/dystotoken.jpg?1719689845",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde466831fde62e5141d49ba9d962d3fa3fae466f"
+  }
+}

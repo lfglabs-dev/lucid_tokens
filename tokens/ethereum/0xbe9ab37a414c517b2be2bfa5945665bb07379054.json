@@ -1,0 +1,15 @@
+{
+  "symbol": "toms",
+  "name": "TomTomCoin",
+  "address": "0xbE9Ab37a414c517b2be2bfA5945665bB07379054",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22864/thumb/toms_logo_200.png?1642753016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe9ab37a414c517b2be2bfa5945665bb07379054"
+  }
+}

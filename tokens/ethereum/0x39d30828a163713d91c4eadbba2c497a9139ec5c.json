@@ -1,0 +1,15 @@
+{
+  "symbol": "hbdc",
+  "name": "Happy Birthday Coin",
+  "address": "0x39d30828a163713D91c4EADBBA2C497a9139ec5C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12814/thumb/%EC%A7%84%ED%92%88.png?1630840854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x39d30828a163713d91c4eadbba2c497a9139ec5c"
+  }
+}

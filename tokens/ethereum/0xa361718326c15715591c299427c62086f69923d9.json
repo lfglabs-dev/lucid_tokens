@@ -1,0 +1,15 @@
+{
+  "symbol": "abusd",
+  "name": "Aave BUSD",
+  "address": "0xA361718326c15715591c299427c62086F69923D9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14245/thumb/aBUSD.346a65d7_-_Copy.png?1615528703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa361718326c15715591c299427c62086f69923d9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "btrs",
+  "name": "Bitball Treasure",
+  "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7273/thumb/btrs.png?1637556868",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
+  }
+}

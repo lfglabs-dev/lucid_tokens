@@ -1,0 +1,17 @@
+{
+  "symbol": "mtbill",
+  "name": "Midas mTBILL",
+  "address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL.png?1715743508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
+    "oasis-sapphire": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
+    "base": "0xdd629e5241cbc5919847783e6c96b2de4754e438"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "oja",
+  "name": "Ojamu",
+  "address": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18947/thumb/ojamu-icon-PNK.png?1634006741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0aa7efe4945db24d95ca6e117bba65ed326e291a",
+    "arbitrum-one": "0x6cc5b1fb8c2fd7af1d2858f916f274b8faac82e1",
+    "polygon-pos": "0x26373ec913876c9e6d38494dde458cb8649cb30c"
+  }
+}

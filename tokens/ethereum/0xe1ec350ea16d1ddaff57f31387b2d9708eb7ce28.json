@@ -1,0 +1,15 @@
+{
+  "symbol": "pc",
+  "name": "Pepechain",
+  "address": "0xe1eC350ea16D1DdAFF57F31387B2d9708Eb7ce28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30059/thumb/Pepechain.png?1683001252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe1ec350ea16d1ddaff57f31387b2d9708eb7ce28"
+  }
+}

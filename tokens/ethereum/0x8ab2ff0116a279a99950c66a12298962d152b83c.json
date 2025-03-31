@@ -1,0 +1,15 @@
+{
+  "symbol": "ords",
+  "name": "Ordiswap",
+  "address": "0x8AB2ff0116A279a99950C66A12298962D152B83c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33910/thumb/oswap-logo-transparent.png?1703309075",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8ab2ff0116a279a99950c66a12298962d152b83c"
+  }
+}

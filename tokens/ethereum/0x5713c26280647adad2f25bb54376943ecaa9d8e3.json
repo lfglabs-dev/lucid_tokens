@@ -1,0 +1,15 @@
+{
+  "symbol": "xmas",
+  "name": "Elon Xmas",
+  "address": "0x5713C26280647AdaD2f25bB54376943eCaA9d8e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33721/thumb/Elon_Xmas.png?1702885377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5713c26280647adad2f25bb54376943ecaa9d8e3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mdi",
+  "name": "Medicle",
+  "address": "0x848896470d989F30503d8f883c331f63b73b66Ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31082/thumb/Medicle%28MDI%29_NEW_.png?1690356435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x848896470d989f30503d8f883c331f63b73b66ea"
+  }
+}

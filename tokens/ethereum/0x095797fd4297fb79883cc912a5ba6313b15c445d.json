@@ -1,0 +1,17 @@
+{
+  "symbol": "golc",
+  "name": "GOLCOIN",
+  "address": "0x095797FD4297fb79883cC912a5Ba6313B15c445d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27341/thumb/logo_in_the_middle_.png?1663551501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x095797fd4297fb79883cc912a5ba6313b15c445d",
+    "tron": "TDXyBerEqKHrGLEQFH9S3prXHPQiqaDsTA",
+    "binance-smart-chain": "0xeb52620b04e8eacfd795353f2827673887f292e0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "loka",
+  "name": "League of Kingdoms",
+  "address": "0x61E90A50137E1F645c9eF4a0d3A4f01477738406",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22572/thumb/loka_64pix.png?1642643271",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406"
+  }
+}

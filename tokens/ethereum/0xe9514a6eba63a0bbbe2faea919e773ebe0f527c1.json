@@ -1,0 +1,15 @@
+{
+  "symbol": "kek",
+  "name": "Kekcoin (ETH)",
+  "address": "0xe9514a6EbA63A0BBbE2FAea919E773eBE0f527C1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33224/thumb/Kekcoin_BTC.png?1701089230",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9514a6eba63a0bbbe2faea919e773ebe0f527c1"
+  }
+}

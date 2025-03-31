@@ -1,0 +1,15 @@
+{
+  "symbol": "bdt",
+  "name": "BitDelta",
+  "address": "0xcac1277AA6ECB68b84FAD070910d37029E810b79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36609/thumb/200x200_BDT.png?1711973432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcac1277aa6ecb68b84fad070910d37029e810b79"
+  }
+}

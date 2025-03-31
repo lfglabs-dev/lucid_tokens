@@ -1,0 +1,15 @@
+{
+  "symbol": "$robie",
+  "name": "Robie",
+  "address": "0x2025BF4E0C1117685b1BF2ea2be56C7Deb11bc99",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51297/thumb/38.png?1730600254",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2025bf4e0c1117685b1bf2ea2be56c7deb11bc99"
+  }
+}

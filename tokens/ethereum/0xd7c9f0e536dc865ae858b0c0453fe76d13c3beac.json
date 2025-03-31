@@ -1,0 +1,15 @@
+{
+  "symbol": "xai",
+  "name": "XAI Stablecoin",
+  "address": "0xd7C9F0e536dC865Ae858b0C0453Fe76D13c3bEAc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28254/thumb/Xai_logo.png?1668674085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac"
+  }
+}

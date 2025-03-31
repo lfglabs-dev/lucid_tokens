@@ -1,0 +1,15 @@
+{
+  "symbol": "tpad",
+  "name": "TaoPad",
+  "address": "0x5483DC6abDA5F094865120B2D251b5744fc2ECB5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33664/thumb/TAOWHITE.png?1702631267",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5483dc6abda5f094865120b2d251b5744fc2ecb5"
+  }
+}

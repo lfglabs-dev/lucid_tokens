@@ -1,0 +1,16 @@
+{
+  "symbol": "cheq",
+  "name": "CHEQD Network",
+  "address": "0x70EDF1c215D0ce69E7F16FD4E6276ba0d99d4de7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20855/thumb/79901197.png?1637791407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7",
+    "osmosis": "ibc/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA"
+  }
+}

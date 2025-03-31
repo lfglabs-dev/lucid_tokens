@@ -1,0 +1,15 @@
+{
+  "symbol": "quantum",
+  "name": "QUANTUM HUB",
+  "address": "0x7086e014fd59e66567a986e7b401a5810c2361Ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35965/thumb/2024-03-10_22.19.52.png?1710260969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7086e014fd59e66567a986e7b401a5810c2361ce"
+  }
+}

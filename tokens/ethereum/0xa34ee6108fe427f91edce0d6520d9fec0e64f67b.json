@@ -1,0 +1,15 @@
+{
+  "symbol": "$plpc",
+  "name": "Pepe Le Pew Coin",
+  "address": "0xa34Ee6108Fe427f91edce0D6520d9fEc0E64F67b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30876/thumb/PepeLogo3.png?1688375967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa34ee6108fe427f91edce0d6520d9fec0e64f67b"
+  }
+}

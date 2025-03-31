@@ -1,0 +1,16 @@
+{
+  "symbol": "bis",
+  "name": "Bismuth",
+  "address": "0xf5cB350b40726B5BcF170d12e162B6193b291B41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/974/thumb/bis200px.png?1615787741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x56672ecb506301b1e32ed28552797037c54d36a9",
+    "ethereum": "0xf5cb350b40726b5bcf170d12e162b6193b291b41"
+  }
+}

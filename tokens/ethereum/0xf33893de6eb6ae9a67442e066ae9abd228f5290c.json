@@ -1,0 +1,16 @@
+{
+  "symbol": "grv",
+  "name": "GroveCoin",
+  "address": "0xF33893DE6eB6aE9A67442E066aE9aBd228f5290c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25549/thumb/200x200.png?1652335189",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf33893de6eb6ae9a67442e066ae9abd228f5290c",
+    "ethereum": "0xf33893de6eb6ae9a67442e066ae9abd228f5290c"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "corn",
+  "name": "Corn",
+  "address": "0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54471/thumb/corn.jpg?1739933588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "corn": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
+    "ethereum": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6"
+  }
+}

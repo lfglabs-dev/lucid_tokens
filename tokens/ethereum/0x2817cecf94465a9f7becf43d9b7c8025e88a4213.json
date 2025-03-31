@@ -1,0 +1,15 @@
+{
+  "symbol": "wx",
+  "name": "Weave6",
+  "address": "0x2817CECf94465a9F7beCF43d9b7c8025e88A4213",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35789/thumb/400_*_400.png?1709799390",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2817cecf94465a9f7becf43d9b7c8025e88a4213"
+  }
+}

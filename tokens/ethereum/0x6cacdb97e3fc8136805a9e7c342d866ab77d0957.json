@@ -1,0 +1,17 @@
+{
+  "symbol": "swpr",
+  "name": "Swapr",
+  "address": "0x6cAcDB97e3fC8136805a9E7c342d866ab77D0957",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18740/thumb/swapr.jpg?1633516501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6cacdb97e3fc8136805a9e7c342d866ab77d0957",
+    "xdai": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
+    "arbitrum-one": "0xde903e2712288a1da82942dddf2c20529565ac30"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "deepai",
+  "name": "Deep Whales AI",
+  "address": "0x18bC66F0C15e27179DD8E2277C1c9c056Df0a14d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50788/thumb/coingecko.png?1729211094",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x18bc66f0c15e27179dd8e2277c1c9c056df0a14d"
+  }
+}

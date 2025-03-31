@@ -1,0 +1,15 @@
+{
+  "symbol": "bomb",
+  "name": "LollyBomb",
+  "address": "0x6B6EE7393F07B3dD1427b6848d3576F31C313127",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38679/thumb/ee9u3nKM_400x400.jpg?1718314885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6b6ee7393f07b3dd1427b6848d3576f31c313127"
+  }
+}

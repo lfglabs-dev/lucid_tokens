@@ -1,0 +1,16 @@
+{
+  "symbol": "velar",
+  "name": "Velar",
+  "address": "0x033BbDe722EA3Cdcec73cFFEA6581DF9F9C257de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35763/thumb/gradientPNG.png?1709749255",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x033bbde722ea3cdcec73cffea6581df9f9c257de",
+    "stacks": "SP1Y5YSTAHZ88XYK1VPDH24GY0HPX5J4JECTMY4A1.velar-token"
+  }
+}

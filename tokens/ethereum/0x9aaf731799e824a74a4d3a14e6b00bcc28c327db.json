@@ -1,0 +1,15 @@
+{
+  "symbol": "jab",
+  "name": "Jable",
+  "address": "0x9AaF731799e824a74a4D3a14e6B00bcc28c327dB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32131/thumb/Jab.png?1696588461",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9aaf731799e824a74a4d3a14e6b00bcc28c327db"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wtao",
+  "name": "Wrapped TAO",
+  "address": "0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29087/thumb/wtao.png?1676519685",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44"
+  }
+}

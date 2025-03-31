@@ -1,0 +1,15 @@
+{
+  "symbol": "shop",
+  "name": "Shopping.io",
+  "address": "0x64b78325d7495D6d4be92f234fa3f3B8d8964B8b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27242/thumb/shop.png?1663123573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64b78325d7495d6d4be92f234fa3f3b8d8964b8b"
+  }
+}

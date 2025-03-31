@@ -1,0 +1,15 @@
+{
+  "symbol": "linu",
+  "name": "Luna Inu",
+  "address": "0x78132543D8E20D2417d8a07D9ae199D458A0D581",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25623/thumb/6rG1s5Dx_400x400.jpeg?1652857836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x78132543d8e20d2417d8a07d9ae199d458a0d581"
+  }
+}

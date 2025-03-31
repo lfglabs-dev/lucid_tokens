@@ -1,0 +1,16 @@
+{
+  "symbol": "pundix",
+  "name": "Pundi X",
+  "address": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14571/thumb/vDyefsXq_400x400.jpg?1617085003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+    "pundi-aifx-omnilayer": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75"
+  }
+}

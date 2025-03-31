@@ -1,0 +1,17 @@
+{
+  "symbol": "satoz",
+  "name": "Satozhi",
+  "address": "0x845e2e8B42DCED7DEDCDBa9BdE32C9e338224f97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14786/thumb/0GeSrIaQ_400x400.jpg?1618416420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf4341fa52669cea0c1836095529a7e9b04b8b88d",
+    "tron": "TYq22mVD6aQdvzYhNxVYtjmRBCQmmcp2EK",
+    "ethereum": "0x845e2e8b42dced7dedcdba9bde32c9e338224f97"
+  }
+}

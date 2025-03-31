@@ -1,0 +1,15 @@
+{
+  "symbol": "rpill",
+  "name": "Red Pill",
+  "address": "0x43fe2B0c5485C10e772a1843e32a7642AcE5B88C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33896/thumb/2023-12-21_07.20.32.jpg?1703233932",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x43fe2b0c5485c10e772a1843e32a7642ace5b88c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "metano",
+  "name": "Metano",
+  "address": "0x9D9e399e5385e2b9A58d4F775A1E16441b571afb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28183/thumb/logo200x.jpeg?1668256131",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9d9e399e5385e2b9a58d4f775a1e16441b571afb"
+  }
+}

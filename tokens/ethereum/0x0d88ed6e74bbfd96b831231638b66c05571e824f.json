@@ -1,0 +1,15 @@
+{
+  "symbol": "avt",
+  "name": "Aventus",
+  "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/901/thumb/Aventus.png?1625122968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d88ed6e74bbfd96b831231638b66c05571e824f"
+  }
+}

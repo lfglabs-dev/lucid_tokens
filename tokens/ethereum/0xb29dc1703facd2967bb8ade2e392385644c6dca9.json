@@ -1,0 +1,15 @@
+{
+  "symbol": "gaga",
+  "name": "Gaga (Pepe)",
+  "address": "0xB29Dc1703fAcd2967BB8AdE2E392385644C6dCA9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36546/thumb/gaga200x200.png?1711734371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb29dc1703facd2967bb8ade2e392385644c6dca9"
+  }
+}

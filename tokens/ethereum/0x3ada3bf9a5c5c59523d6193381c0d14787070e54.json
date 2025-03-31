@@ -1,0 +1,15 @@
+{
+  "symbol": "neva",
+  "name": "Neva",
+  "address": "0x3aDa3BF9a5C5C59523d6193381C0d14787070e54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38642/thumb/nevalogogreen.png?1718209917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ada3bf9a5c5c59523d6193381c0d14787070e54"
+  }
+}

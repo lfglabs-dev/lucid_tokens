@@ -1,0 +1,15 @@
+{
+  "symbol": "dsync",
+  "name": "Destra Network",
+  "address": "0xf94e7d0710709388bCe3161C32B4eEA56d3f91CC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35996/thumb/Destra_Network.png?1710316001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf94e7d0710709388bce3161c32b4eea56d3f91cc"
+  }
+}

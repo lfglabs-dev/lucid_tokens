@@ -1,0 +1,16 @@
+{
+  "symbol": "loopin",
+  "name": "LooPIN Network",
+  "address": "0x975dA7b2325F815F1dE23C8B68f721fb483B8071",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51810/thumb/photo_2024-11-19_03-34-39.jpg?1732010671",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "CHX3FSxGYSJ2LHeQTcGp2oMAoBNngtJ73jsuamMUnZQx",
+    "ethereum": "0x975da7b2325f815f1de23c8b68f721fb483b8071"
+  }
+}

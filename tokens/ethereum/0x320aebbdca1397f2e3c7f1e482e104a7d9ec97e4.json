@@ -1,0 +1,16 @@
+{
+  "symbol": "ayin",
+  "name": "Ayin",
+  "address": "0x320AEBBDCA1397F2e3C7F1e482e104a7d9EC97e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31314/thumb/ayin2.png?1692348606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "alephium": "vT49PY8ksoUL6NcXiZ1t2wAmC7tTPRfFfER8n3UCLvXy",
+    "ethereum": "0x320aebbdca1397f2e3c7f1e482e104a7d9ec97e4"
+  }
+}

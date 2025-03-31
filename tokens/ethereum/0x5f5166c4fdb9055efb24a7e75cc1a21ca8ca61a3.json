@@ -1,0 +1,15 @@
+{
+  "symbol": "x",
+  "name": "AI-X",
+  "address": "0x5f5166C4fdb9055efB24A7E75Cc1A21Ca8ca61a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30783/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230616171447.jpg?1687241940",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5f5166c4fdb9055efb24a7e75cc1a21ca8ca61a3"
+  }
+}

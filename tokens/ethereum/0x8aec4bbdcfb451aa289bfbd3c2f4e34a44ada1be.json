@@ -1,0 +1,15 @@
+{
+  "symbol": "dogwifhat",
+  "name": "dogwifhat Eth",
+  "address": "0x8AEC4bbDcfB451aA289bfBD3C2F4E34A44ADa1be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35029/thumb/dogwifhat_Eth.png?1707155488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be"
+  }
+}

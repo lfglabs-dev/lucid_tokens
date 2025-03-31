@@ -1,0 +1,15 @@
+{
+  "symbol": "covn",
+  "name": "Covenant",
+  "address": "0x19ac2659599fD01c853dE846919544276aD26F50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22280/thumb/16837.png?1641364060",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x19ac2659599fd01c853de846919544276ad26f50"
+  }
+}

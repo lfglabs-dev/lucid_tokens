@@ -1,0 +1,15 @@
+{
+  "symbol": "sov",
+  "name": "Shib Original Vision",
+  "address": "0x2C5BC2Ba3614fD27FCc7022eA71d9172E2632c16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29601/thumb/photo_2023-03-19_19-07-40_2.png?1679985063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c5bc2ba3614fd27fcc7022ea71d9172e2632c16"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "snow.d",
+  "name": "Dinari SNOW",
+  "address": "0x3482968eD0E10Bf7446706a6680E8a8F486F61B0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54365/thumb/d-token-200.png?1739401375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1ae31840d492993a58baf558180b5ee83ce2f8ce",
+    "ethereum": "0x3482968ed0e10bf7446706a6680e8a8f486f61b0",
+    "blast": "0xb127e5d53df0c2056cf337081ec56f01efd5c8bc",
+    "base": "0xb0e5552292b277f8a9b36326971553545bb55be5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "shu",
+  "name": "Shutter",
+  "address": "0xe485E2f1bab389C08721B291f6b59780feC83Fd7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35524/thumb/Shutter_logo.png?1709014167",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe485e2f1bab389c08721b291f6b59780fec83fd7"
+  }
+}

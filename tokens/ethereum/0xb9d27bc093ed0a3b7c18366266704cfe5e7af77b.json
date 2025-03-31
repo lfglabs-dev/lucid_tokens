@@ -1,0 +1,16 @@
+{
+  "symbol": "cby",
+  "name": "Carbify",
+  "address": "0xB9D27Bc093ed0A3B7c18366266704CfE5E7Af77B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29892/thumb/logo-01.png?1681981734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb6a5ae40e79891e4deadad06c8a7ca47396df21c",
+    "ethereum": "0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b"
+  }
+}

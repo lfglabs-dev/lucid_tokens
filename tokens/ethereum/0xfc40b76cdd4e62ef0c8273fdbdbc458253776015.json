@@ -1,0 +1,15 @@
+{
+  "symbol": "$pear",
+  "name": "PEAR AI",
+  "address": "0xfC40B76CDd4E62ef0c8273FDBdbc458253776015",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52461/thumb/IMG_20241204_130503_398.jpg?1733401240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc40b76cdd4e62ef0c8273fdbdbc458253776015"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "otx",
+  "name": "OTX EXCHANGE",
+  "address": "0x7717f2828fE4daC8558d23eE4CdfED9544E9321F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33128/thumb/otx_logo.jpg?1700795823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7717f2828fe4dac8558d23ee4cdfed9544e9321f"
+  }
+}

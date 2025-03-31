@@ -1,0 +1,15 @@
+{
+  "symbol": "bitbedr",
+  "name": "BITBEDR",
+  "address": "0xb8176a66c0d0A84cfD4e403c89cF3416b1e798Ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37391/thumb/Bitbedr.png?1714287749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8176a66c0d0a84cfd4e403c89cf3416b1e798ad"
+  }
+}

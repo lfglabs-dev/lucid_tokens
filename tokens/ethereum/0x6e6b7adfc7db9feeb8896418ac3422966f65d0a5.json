@@ -1,0 +1,15 @@
+{
+  "symbol": "net",
+  "name": "Nektar Network",
+  "address": "0x6e6B7ADfC7Db9fEeB8896418aC3422966f65D0A5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52259/thumb/net_token-200x200.png?1732849962",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e6b7adfc7db9feeb8896418ac3422966f65d0a5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bank",
+  "name": "Float Protocol",
+  "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14116/thumb/FLOAT-Bank_LOGO-reduced_01.png?1616573606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x24a6a37576377f63f194caa5f518a60f45b42921"
+  }
+}

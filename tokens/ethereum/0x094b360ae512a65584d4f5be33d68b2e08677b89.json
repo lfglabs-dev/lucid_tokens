@@ -1,0 +1,15 @@
+{
+  "symbol": "usual*",
+  "name": "USUAL Star",
+  "address": "0x094B360AE512A65584d4f5Be33D68B2E08677b89",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52436/thumb/USUALS_logo.png?1733340759",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x094b360ae512a65584d4f5be33d68b2e08677b89"
+  }
+}

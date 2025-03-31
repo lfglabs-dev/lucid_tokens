@@ -1,0 +1,18 @@
+{
+  "symbol": "cbbtc",
+  "name": "Coinbase Wrapped BTC",
+  "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40143/thumb/cbbtc.png?1726018397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "arbitrum-one": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "base": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "solana": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
+  }
+}

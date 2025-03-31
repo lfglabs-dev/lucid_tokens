@@ -1,0 +1,15 @@
+{
+  "symbol": "game",
+  "name": "GameBuild",
+  "address": "0x825459139C897D769339f295E962396C4F9E4A4D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37789/thumb/Gamebuild-logo-200.png?1715586834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x825459139c897d769339f295e962396c4f9e4a4d"
+  }
+}

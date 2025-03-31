@@ -1,0 +1,15 @@
+{
+  "symbol": "ai",
+  "name": "AI PIN",
+  "address": "0xbc544207fF1C5B2bC47A35F745010b603b97e99e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34235/thumb/AiPin-200px.png?1704306335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc544207ff1c5b2bc47a35f745010b603b97e99e"
+  }
+}

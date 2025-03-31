@@ -1,0 +1,15 @@
+{
+  "symbol": "wope",
+  "name": "WojakPepe",
+  "address": "0xB2E0F591191EE5f6Fb8a7f1777A733B6aA92bb55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37067/thumb/WOPE.jpeg?1713179688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb2e0f591191ee5f6fb8a7f1777a733b6aa92bb55"
+  }
+}

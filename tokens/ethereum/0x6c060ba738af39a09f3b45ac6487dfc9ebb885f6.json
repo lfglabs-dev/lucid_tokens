@@ -1,0 +1,16 @@
+{
+  "symbol": "rserg",
+  "name": "rsERG",
+  "address": "0x6C060Ba738af39A09F3b45ac6487dFC9Ebb885f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51002/thumb/symbol_bold__1080px__black.png?1729700748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c060ba738af39a09f3b45ac6487dfc9ebb885f6",
+    "cardano": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14"
+  }
+}

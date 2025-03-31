@@ -1,0 +1,16 @@
+{
+  "symbol": "rari",
+  "name": "RARI",
+  "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11845/thumb/Rari.png?1594946953",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+    "energi": "0x87ce5dde0595d9306db44dc0baa9703ace18c415"
+  }
+}

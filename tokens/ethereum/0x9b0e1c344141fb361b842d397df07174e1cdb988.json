@@ -1,0 +1,15 @@
+{
+  "symbol": "emoti",
+  "name": "EmotiCoin",
+  "address": "0x9b0E1C344141fB361B842d397dF07174E1CDb988",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31630/thumb/200x200_logo_1.png?1694076660",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b0e1c344141fb361b842d397df07174e1cdb988"
+  }
+}

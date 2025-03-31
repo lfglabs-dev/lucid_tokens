@@ -1,0 +1,15 @@
+{
+  "symbol": "mojo",
+  "name": "Mojo",
+  "address": "0x07DDaCf367f0d40bd68B4b80b4709A37BDC9F847",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39107/thumb/Mojo.png?1720571015",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07ddacf367f0d40bd68b4b80b4709a37bdc9f847"
+  }
+}

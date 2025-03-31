@@ -1,0 +1,15 @@
+{
+  "symbol": "wpokt",
+  "name": "Wrapped POKT",
+  "address": "0x67F4C72a50f8Df6487720261E188F2abE83F57D7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31696/thumb/Pocket_PNG_file_transparent.png?1694485793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x67f4c72a50f8df6487720261e188f2abe83f57d7"
+  }
+}

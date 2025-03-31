@@ -1,0 +1,15 @@
+{
+  "symbol": "nova",
+  "name": "Nova",
+  "address": "0xD0b3A986FfF305854a7238A8e099Cce1ced01a3d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30943/thumb/IMG_20230709_210803_010.jpg?1689084967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd0b3a986fff305854a7238a8e099cce1ced01a3d"
+  }
+}

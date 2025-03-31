@@ -1,0 +1,15 @@
+{
+  "symbol": "pkf",
+  "name": "Red Kite",
+  "address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14422/thumb/M7vmFGbV_400x400.png?1615972784",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8b39b70e39aa811b69365398e0aace9bee238aeb"
+  }
+}

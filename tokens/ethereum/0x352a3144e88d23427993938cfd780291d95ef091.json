@@ -1,0 +1,15 @@
+{
+  "symbol": "moseth",
+  "name": "Eigenpie OsETH",
+  "address": "0x352a3144e88D23427993938cfd780291D95eF091",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37204/thumb/mosETH.png?1713764694",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x352a3144e88d23427993938cfd780291d95ef091"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$moxi",
+  "name": "MOX AI",
+  "address": "0x456fF1fbB87Ec74165a11460F9D1864775Dc227A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54055/thumb/moxai_copy.jpg?1738133802",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x456ff1fbb87ec74165a11460f9d1864775dc227a"
+  }
+}

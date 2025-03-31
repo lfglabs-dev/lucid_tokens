@@ -1,0 +1,15 @@
+{
+  "symbol": "bly",
+  "name": "Blocery",
+  "address": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12095/thumb/Blocery_logo_200x200_.png?1597046107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf8ad7dfe656188a23e89da09506adf7ad9290d5d"
+  }
+}

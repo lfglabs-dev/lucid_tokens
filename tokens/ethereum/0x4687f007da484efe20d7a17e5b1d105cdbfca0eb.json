@@ -1,0 +1,15 @@
+{
+  "symbol": "morph",
+  "name": "Morpheus",
+  "address": "0x4687f007da484EFE20D7A17E5B1D105CDBFCA0Eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51470/thumb/Morpheus.win_Profile_Pic_%2849%29.jpg?1731384163",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4687f007da484efe20d7a17e5b1d105cdbfca0eb"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "epiko",
+  "name": "Epiko",
+  "address": "0xB62e24B747EaA41454857CF6011832117DF59CB8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb62e24b747eaa41454857cf6011832117df59cb8",
+    "solana": "6ep1sNB9UWni3nBZUX84USsRBhKRzMAxEmcia479cWTh"
+  }
+}

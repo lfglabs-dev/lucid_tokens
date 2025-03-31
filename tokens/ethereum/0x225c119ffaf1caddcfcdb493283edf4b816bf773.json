@@ -1,0 +1,15 @@
+{
+  "symbol": "usualusdt",
+  "name": "MEV Capital Usual Boosted USDT",
+  "address": "0x225C119fFaf1CaddCfCDb493283eDF4b816Bf773",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52394/thumb/mevcapitalc.png?1733283255",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x225c119ffaf1caddcfcdb493283edf4b816bf773"
+  }
+}

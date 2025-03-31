@@ -1,0 +1,16 @@
+{
+  "symbol": "xpr",
+  "name": "XPR Network",
+  "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10941/thumb/Proton-Icon.png?1588283737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+    "binance-smart-chain": "0x5de3939b2f811a61d830e6f52d13b066881412ab"
+  }
+}

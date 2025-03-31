@@ -1,0 +1,15 @@
+{
+  "symbol": "adult",
+  "name": "Adult Playground",
+  "address": "0x565d3902d6A5A2D5CE28ff427423E88933334DD2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32053/thumb/0x565d3902d6a5a2d5ce28ff427423e88933334dd2.png?1696239132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x565d3902d6a5a2d5ce28ff427423e88933334dd2"
+  }
+}

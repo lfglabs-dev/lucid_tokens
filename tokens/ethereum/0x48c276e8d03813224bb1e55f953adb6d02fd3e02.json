@@ -1,0 +1,15 @@
+{
+  "symbol": "kuma",
+  "name": "Kuma Inu",
+  "address": "0x48C276e8d03813224bb1e55F953adB6d02FD3E02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15526/thumb/kuma_inu.PNG?1621128824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x48c276e8d03813224bb1e55f953adb6d02fd3e02"
+  }
+}

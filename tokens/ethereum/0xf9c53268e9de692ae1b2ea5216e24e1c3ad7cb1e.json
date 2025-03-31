@@ -1,0 +1,16 @@
+{
+  "symbol": "ido",
+  "name": "Idexo",
+  "address": "0xF9c53268e9de692AE1b2ea5216E24e1c3ad7CB1E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18523/thumb/qOiqm7T8_400x400.jpg?1632275628",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e",
+    "zksync": "0xdea6d5161978d36b5c0fa6a491faa754f4bc809c"
+  }
+}

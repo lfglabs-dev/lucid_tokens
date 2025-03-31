@@ -1,0 +1,15 @@
+{
+  "symbol": "@g",
+  "name": "Graphite Network",
+  "address": "0x440017A1b021006d556d7fc06A54c32E42Eb745B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54587/thumb/Logo.jpg?1740555504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x440017a1b021006d556d7fc06a54c32e42eb745b"
+  }
+}

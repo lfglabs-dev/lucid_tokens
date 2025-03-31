@@ -1,0 +1,15 @@
+{
+  "symbol": "yobase",
+  "name": "All Your Base",
+  "address": "0x551D0501Cd5Df92663C3d12c3201c9D70ba79998",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33595/thumb/Group_48095820logo_cmc.png?1702476376",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x551d0501cd5df92663c3d12c3201c9d70ba79998"
+  }
+}

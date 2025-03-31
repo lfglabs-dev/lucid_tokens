@@ -1,0 +1,16 @@
+{
+  "symbol": "lsk",
+  "name": "Lisk",
+  "address": "0x6033F7f88332B8db6ad452B7C6D5bB643990aE3f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/385/thumb/Lisk_Symbol_-_Blue.png?1573444104",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f",
+    "lisk": "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24"
+  }
+}

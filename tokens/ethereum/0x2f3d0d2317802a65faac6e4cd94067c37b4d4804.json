@@ -1,0 +1,15 @@
+{
+  "symbol": "dcard",
+  "name": "DECENTRACARD",
+  "address": "0x2F3d0d2317802A65FAAC6e4cd94067c37B4d4804",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34533/thumb/DC_Logo_5_200x200.png?1705323804",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2f3d0d2317802a65faac6e4cd94067c37b4d4804"
+  }
+}

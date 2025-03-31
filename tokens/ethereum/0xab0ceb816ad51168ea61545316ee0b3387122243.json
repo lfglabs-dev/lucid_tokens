@@ -1,0 +1,15 @@
+{
+  "symbol": "spec",
+  "name": "Speculate DAO",
+  "address": "0xab0ceB816Ad51168Ea61545316eE0B3387122243",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33617/thumb/Goin_Gecko.png?1702515106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xab0ceb816ad51168ea61545316ee0b3387122243"
+  }
+}

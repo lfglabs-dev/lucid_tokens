@@ -1,0 +1,15 @@
+{
+  "symbol": "vista",
+  "name": "Ethervista",
+  "address": "0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40014/thumb/ethervista.jpg?1725289970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc9bca88b04581699fab5aa276ccaff7df957cbbf"
+  }
+}

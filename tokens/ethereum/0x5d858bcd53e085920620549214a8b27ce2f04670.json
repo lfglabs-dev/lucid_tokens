@@ -1,0 +1,16 @@
+{
+  "symbol": "pop",
+  "name": "POP Network",
+  "address": "0x5D858bcd53E085920620549214a8b27CE2f04670",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7281/thumb/Logo_%28Light_Mode%29_%281%29.png?1644482888",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5d858bcd53e085920620549214a8b27ce2f04670",
+    "binance-smart-chain": "0x1bb76a939d6b7f5be6b95c4f9f822b02b4d62ced"
+  }
+}

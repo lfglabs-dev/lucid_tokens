@@ -1,0 +1,16 @@
+{
+  "symbol": ".com",
+  "name": ".com (Ordinals)",
+  "address": "0xFf9c1f21c621696C4f91cF781ec31Bd913EE2C26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33700/thumb/com200.jpg?1702823408",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ordinals": "5b097c9ea9ba59dfa2ce549729a6b896519c3b7a06be942a577b5838bfc05174i0",
+    "ethereum": "0xff9c1f21c621696c4f91cf781ec31bd913ee2c26"
+  }
+}

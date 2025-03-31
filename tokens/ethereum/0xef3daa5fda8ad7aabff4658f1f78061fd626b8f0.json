@@ -1,0 +1,15 @@
+{
+  "symbol": "muzz",
+  "name": "MUZZLE",
+  "address": "0xef3dAa5fDa8Ad7aabFF4658f1F78061fd626B8f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35527/thumb/muzz-token-200.png?1709024198",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xef3daa5fda8ad7aabff4658f1f78061fd626b8f0"
+  }
+}

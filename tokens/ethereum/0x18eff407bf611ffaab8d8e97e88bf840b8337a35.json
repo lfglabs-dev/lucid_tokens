@@ -1,0 +1,15 @@
+{
+  "symbol": "klear",
+  "name": "Klear",
+  "address": "0x18EFf407bf611ffaab8D8E97E88bf840b8337a35",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52293/thumb/Clear_icon_Negative_on_Color.png?1732966429",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x18eff407bf611ffaab8d8e97e88bf840b8337a35"
+  }
+}

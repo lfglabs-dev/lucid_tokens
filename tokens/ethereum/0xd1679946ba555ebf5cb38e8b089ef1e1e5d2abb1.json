@@ -1,0 +1,15 @@
+{
+  "symbol": "guardai",
+  "name": "GuardAI",
+  "address": "0xd1679946ba555eBF5cb38e8b089EF1E1e5D2ABB1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36588/thumb/huzFrv2d_400x400.jpg?1711948345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1679946ba555ebf5cb38e8b089ef1e1e5d2abb1"
+  }
+}

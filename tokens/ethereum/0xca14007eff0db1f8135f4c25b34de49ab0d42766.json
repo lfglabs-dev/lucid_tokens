@@ -1,0 +1,16 @@
+{
+  "symbol": "strk",
+  "name": "Starknet",
+  "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26433/thumb/starknet.png?1695344211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xca14007eff0db1f8135f4c25b34de49ab0d42766",
+    "starknet": "0x4718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "stfx",
+  "name": "STFX",
+  "address": "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28631/thumb/WqBqIWcQ_400x400.jpg?1672814767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9343e24716659a3551eb10aff9472a2dcad5db2d",
+    "solana": "HrqHpE4NQbSTjVtFSTm9i8omFfytggsS9UkccHWHWntx"
+  }
+}

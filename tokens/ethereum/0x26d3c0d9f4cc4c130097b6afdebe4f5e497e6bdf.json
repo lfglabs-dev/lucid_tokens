@@ -1,0 +1,23 @@
+{
+  "symbol": "mnt",
+  "name": "Mynth",
+  "address": "0x26D3C0D9F4cc4c130097b6aFdebe4F5e497E6Bdf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50513/thumb/mynth-token.png?1728031157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cardano": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf4d796e746820546f6b656e",
+    "tron": "TNzfB1nvRPusCn5UhQLxUbZaX7DFuWkxR4",
+    "ethereum": "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+    "the-open-network": "EQCjZD8oZl_0uzLmQawDmhcctlLKWKO0HameErlnDz_Mynth",
+    "binance-smart-chain": "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+    "arbitrum-one": "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+    "polygon-pos": "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+    "base": "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+    "solana": "MynthbcejYyY3yg8fzgPv2Y7NZrF2S4Y13wdGzAZPMv"
+  }
+}

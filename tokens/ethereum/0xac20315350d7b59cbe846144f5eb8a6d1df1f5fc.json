@@ -1,0 +1,18 @@
+{
+  "symbol": "rddt.d",
+  "name": "Dinari RDDT",
+  "address": "0xAC20315350d7B59cBE846144f5Eb8a6D1DF1F5fC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39618/thumb/Dinari-token-icon.png?1723148750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x97ec5dada8262bd922bffd54a93f5a11efe0b136",
+    "blast": "0xb66fb7a6baaece3edd6b4d506b0e2f0bae5fc6e0",
+    "ethereum": "0xac20315350d7b59cbe846144f5eb8a6d1df1f5fc",
+    "base": "0xa17c0e96c8b5e39b6fd670f01d7f021f66b930cd"
+  }
+}

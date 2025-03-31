@@ -1,0 +1,15 @@
+{
+  "symbol": "otacon",
+  "name": "Otacon AI",
+  "address": "0x0F17eeCcc84739b9450C88dE0429020e2DEC05eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32475/thumb/otacon_logo-square_200x200.png?1698285813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f17eeccc84739b9450c88de0429020e2dec05eb"
+  }
+}

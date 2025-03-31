@@ -1,0 +1,15 @@
+{
+  "symbol": "bbcc",
+  "name": "Bitcoin Black Credit Card",
+  "address": "0xBbCC7c16D56fc3B0C0a9A2CED36C74BCf73e683E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39280/thumb/download.png?1721452290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbbcc7c16d56fc3b0c0a9a2ced36c74bcf73e683e"
+  }
+}

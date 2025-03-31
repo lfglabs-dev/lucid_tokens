@@ -1,0 +1,15 @@
+{
+  "symbol": "dexed",
+  "name": "DEXED",
+  "address": "0xB6182b03d9AEA18b6b2A0e5E41d99F0F7f2E5EE9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35617/thumb/coingecko.png?1709283896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb6182b03d9aea18b6b2a0e5e41d99f0f7f2e5ee9"
+  }
+}

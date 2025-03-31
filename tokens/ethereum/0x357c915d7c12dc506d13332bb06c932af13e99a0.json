@@ -1,0 +1,15 @@
+{
+  "symbol": "luckyslp",
+  "name": "LuckysLeprecoin",
+  "address": "0x357c915D7c12dc506d13332Bb06C932aF13e99a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32303/thumb/Luckys_Leprecoin_New_Logo_200x200.png?1697187844",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x357c915d7c12dc506d13332bb06c932af13e99a0"
+  }
+}

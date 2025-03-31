@@ -1,0 +1,15 @@
+{
+  "symbol": "yneth",
+  "name": "YieldNest Restaked ETH",
+  "address": "0x09db87A538BD693E9d08544577d5cCfAA6373A48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37798/thumb/ynETH-YieldNest.png?1715589941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09db87a538bd693e9d08544577d5ccfaa6373a48"
+  }
+}

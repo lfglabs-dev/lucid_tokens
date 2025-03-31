@@ -1,0 +1,15 @@
+{
+  "symbol": "her",
+  "name": "Caroline",
+  "address": "0x5C2975269e74Cb3a8514E5b800A1e66C694d4Df8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30146/thumb/caroline.jpeg?1683509796",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c2975269e74cb3a8514e5b800a1e66c694d4df8"
+  }
+}

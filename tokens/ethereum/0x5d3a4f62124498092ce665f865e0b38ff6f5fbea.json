@@ -1,0 +1,15 @@
+{
+  "symbol": "idea",
+  "name": "Ideaology",
+  "address": "0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13938/thumb/idea_logo.png?1613022658",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5d3a4f62124498092ce665f865e0b38ff6f5fbea"
+  }
+}

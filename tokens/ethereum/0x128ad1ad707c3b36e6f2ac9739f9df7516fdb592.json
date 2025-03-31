@@ -1,0 +1,15 @@
+{
+  "symbol": "alfa",
+  "name": "alfa.society",
+  "address": "0x128ad1ad707c3B36e6F2ac9739f9dF7516FdB592",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31017/thumb/token_logo_listing.png?1689820893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x128ad1ad707c3b36e6f2ac9739f9df7516fdb592"
+  }
+}

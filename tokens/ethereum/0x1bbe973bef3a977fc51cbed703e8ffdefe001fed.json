@@ -1,0 +1,16 @@
+{
+  "symbol": "portal",
+  "name": "Portal",
+  "address": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35436/thumb/portal.jpeg?1708590254",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
+    "solana": "FMQjDvT1GztVxdvYgMBEde4L54fftFGx9m5GmbqeJGM5"
+  }
+}

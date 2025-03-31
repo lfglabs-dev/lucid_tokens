@@ -1,0 +1,15 @@
+{
+  "symbol": "msi",
+  "name": "Monkey Shit Inu",
+  "address": "0x2Be8e422cb4A5A7f217a8F1b0658952a79132F28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39077/thumb/IMG_8769.jpeg?1720249643",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2be8e422cb4a5a7f217a8f1b0658952a79132f28"
+  }
+}

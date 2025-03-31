@@ -1,0 +1,16 @@
+{
+  "symbol": "ithaca",
+  "name": "Ithaca Protocol",
+  "address": "0x1095AE55B62174D9EA3Bc6A4136acacaD461d7ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52502/thumb/ITHACA_Icon.png?1733472382",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x49f1d4db3ea1a64390e990c6debeac88eac007ca",
+    "ethereum": "0x1095ae55b62174d9ea3bc6a4136acacad461d7ce"
+  }
+}

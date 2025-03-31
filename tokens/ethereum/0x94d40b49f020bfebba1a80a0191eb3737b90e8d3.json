@@ -1,0 +1,15 @@
+{
+  "symbol": "mnte",
+  "name": "Mintera",
+  "address": "0x94D40B49F020BfeBbA1a80A0191EB3737B90E8d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28774/thumb/logo_coingecko.png?1674099944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x94d40b49f020bfebba1a80a0191eb3737b90e8d3"
+  }
+}

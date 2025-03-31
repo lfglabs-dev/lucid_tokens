@@ -1,0 +1,15 @@
+{
+  "symbol": "gods",
+  "name": "Gods Unchained",
+  "address": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17139/thumb/10631.png?1635718182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97"
+  }
+}

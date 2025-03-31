@@ -1,0 +1,15 @@
+{
+  "symbol": "wusd",
+  "name": "Wrapped USD",
+  "address": "0x068E3563b1c19590F822c0e13445c4FA1b9EEFa5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28854/thumb/glo.png?1674969980",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x068e3563b1c19590f822c0e13445c4fa1b9eefa5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "xrp",
+  "name": "HarryPotterObamaPacMan8Inu",
+  "address": "0x07E0EDf8ce600FB51d44F51E3348D77D67F298ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31241/thumb/Pacman_Logo200x200.png?1691717643",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07e0edf8ce600fb51d44f51e3348d77d67f298ae"
+  }
+}

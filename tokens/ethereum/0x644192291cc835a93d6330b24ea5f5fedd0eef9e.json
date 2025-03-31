@@ -1,0 +1,18 @@
+{
+  "symbol": "nxra",
+  "name": "Nexera",
+  "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29181/thumb/nxra.png?1677148772",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+    "binance-smart-chain": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+    "avalanche": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+    "polygon-pos": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e"
+  }
+}

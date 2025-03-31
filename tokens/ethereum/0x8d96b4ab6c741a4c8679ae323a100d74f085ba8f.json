@@ -1,0 +1,15 @@
+{
+  "symbol": "bzr",
+  "name": "Bazaars",
+  "address": "0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1657753265",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f"
+  }
+}

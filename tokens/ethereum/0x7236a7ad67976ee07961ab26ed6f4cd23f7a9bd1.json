@@ -1,0 +1,15 @@
+{
+  "symbol": "txn",
+  "name": "TXN Club",
+  "address": "0x7236A7Ad67976eE07961Ab26Ed6F4CD23F7a9bD1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33157/thumb/200x200.png?1700827374",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7236a7ad67976ee07961ab26ed6f4cd23f7a9bd1"
+  }
+}

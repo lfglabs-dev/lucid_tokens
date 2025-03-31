@@ -1,0 +1,15 @@
+{
+  "symbol": "zkgpt",
+  "name": "ZKGPT",
+  "address": "0x733Fd1B5Aa477d55070546922Ba1Bd3751C167C7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52893/thumb/BlackBG_%282%29.png?1734607382",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x733fd1b5aa477d55070546922ba1bd3751c167c7"
+  }
+}

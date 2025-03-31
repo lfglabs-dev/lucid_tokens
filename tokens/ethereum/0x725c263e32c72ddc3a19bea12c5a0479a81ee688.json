@@ -1,0 +1,15 @@
+{
+  "symbol": "bmi",
+  "name": "Bridge Mutual",
+  "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13808/thumb/bmi_logo.png?1612009598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688"
+  }
+}

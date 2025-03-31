@@ -1,0 +1,17 @@
+{
+  "symbol": "cybro",
+  "name": "CYBRO",
+  "address": "0xD58826d2C0bAbf1A60d8b508160b52E9C19AFf07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x963eec23618bbc8e1766661d5f263f18094ae4d5",
+    "binance-smart-chain": "0xa9972b1fac35fdd8cbdbaa315a002b2ad91d2ad6",
+    "ethereum": "0xd58826d2c0babf1a60d8b508160b52e9c19aff07"
+  }
+}

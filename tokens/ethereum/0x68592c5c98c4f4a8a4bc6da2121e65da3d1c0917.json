@@ -1,0 +1,19 @@
+{
+  "symbol": "usdlr",
+  "name": "Stable USDLR",
+  "address": "0x68592c5c98C4F4A8a4bC6dA2121E65Da3d1c0917",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33115/thumb/0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917.png?1700731571",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
+    "zksync": "0xb6841b40baafedf4e37935270357ff89df42e68e",
+    "mantle": "0x8fe7176f0bf63358ad9490fd24ac0bdb4dac33a8",
+    "linea": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
+    "arbitrum-one": "0x7e40b3e0fd0473e0240288d2b7618ac6f0c17e1b"
+  }
+}

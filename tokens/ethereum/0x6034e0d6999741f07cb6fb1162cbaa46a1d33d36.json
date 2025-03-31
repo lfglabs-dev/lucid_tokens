@@ -1,0 +1,15 @@
+{
+  "symbol": "vita-fast",
+  "name": "Molecules of Korolchuk IP-NFT",
+  "address": "0x6034e0d6999741f07cb6Fb1162cBAA46a1D33d36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33055/thumb/Vita-FAST_1024px.png?1700475313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6034e0d6999741f07cb6fb1162cbaa46a1d33d36"
+  }
+}

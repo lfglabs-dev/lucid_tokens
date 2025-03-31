@@ -1,0 +1,15 @@
+{
+  "symbol": "tnq",
+  "name": "TNQ",
+  "address": "0x47E5C76F155083F1aee39578311a2A5FaA938A82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36533/thumb/TNQ_LOGO.png?1711705168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x47e5c76f155083f1aee39578311a2a5faa938a82"
+  }
+}

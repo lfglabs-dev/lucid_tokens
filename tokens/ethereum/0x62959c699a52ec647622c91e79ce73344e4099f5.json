@@ -1,0 +1,15 @@
+{
+  "symbol": "dfa",
+  "name": "DeFine",
+  "address": "0x62959c699A52eC647622c91e79CE73344e4099f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17579/thumb/define.PNG?1628558827",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x62959c699a52ec647622c91e79ce73344e4099f5"
+  }
+}

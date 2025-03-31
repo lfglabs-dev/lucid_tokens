@@ -1,0 +1,15 @@
+{
+  "symbol": "cennz",
+  "name": "CENNZnet",
+  "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3408/thumb/CENNZ_ticker.png?1650943548",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1122b6a0e00dce0563082b6e2953f3a943855c1f"
+  }
+}

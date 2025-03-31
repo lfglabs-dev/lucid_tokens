@@ -1,0 +1,15 @@
+{
+  "symbol": "ken",
+  "name": "Ken",
+  "address": "0x7316D973b0269863BbfeD87302e11334E25eA565",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39535/thumb/b1.png?1722837663",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7316d973b0269863bbfed87302e11334e25ea565"
+  }
+}

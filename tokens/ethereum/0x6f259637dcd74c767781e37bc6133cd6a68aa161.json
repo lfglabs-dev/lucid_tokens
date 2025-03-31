@@ -1,0 +1,18 @@
+{
+  "symbol": "ht",
+  "name": "Huobi",
+  "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2822/thumb/huobi-token-logo.png?1547036992",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "near-protocol": "6f259637dcd74c767781e37bc6133cd6a68aa161.factory.bridge.near",
+    "elastos": "0xeceefc50f9aacf0795586ed90a8b9e24f55ce3f3",
+    "harmony-shard-0": "0xbaa0974354680b0e8146d64bb27fb92c03c4a2f2"
+  }
+}

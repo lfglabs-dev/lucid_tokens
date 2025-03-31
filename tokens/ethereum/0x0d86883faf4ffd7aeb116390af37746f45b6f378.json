@@ -1,0 +1,16 @@
+{
+  "symbol": "usd3",
+  "name": "Web 3 Dollar",
+  "address": "0x0d86883FAf4FfD7aEb116390af37746F45b6f378",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38073/thumb/usd3%28200_x_200_px%29.png?1716449060",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d86883faf4ffd7aeb116390af37746f45b6f378",
+    "base": "0xefb97aaf77993922ac4be4da8fbc9a2425322677"
+  }
+}

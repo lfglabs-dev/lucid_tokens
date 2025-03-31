@@ -1,0 +1,15 @@
+{
+  "symbol": "azchf",
+  "name": "Alpha ZCHF Vault",
+  "address": "0xFa7ED49Eb24A6117D8a3168EEE69D26b45C40C63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54777/thumb/Alpha_Logo_200x200.png?1741516812",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfa7ed49eb24a6117d8a3168eee69d26b45c40c63"
+  }
+}

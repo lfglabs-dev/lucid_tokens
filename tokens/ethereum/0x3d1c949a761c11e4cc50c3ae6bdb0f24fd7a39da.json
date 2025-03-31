@@ -1,0 +1,15 @@
+{
+  "symbol": "neura",
+  "name": "Neurahub",
+  "address": "0x3D1C949a761C11E4CC50c3aE6BdB0F24fD7A39DA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36471/thumb/Game_On_%282%29.png?1711524939",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3d1c949a761c11e4cc50c3ae6bdb0f24fd7a39da"
+  }
+}

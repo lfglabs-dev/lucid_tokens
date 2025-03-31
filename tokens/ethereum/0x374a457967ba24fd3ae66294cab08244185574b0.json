@@ -1,0 +1,21 @@
+{
+  "symbol": "bmsft",
+  "name": "Backed Microsoft",
+  "address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38915/thumb/b-MSFT-200x200.png?1719474832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x374a457967ba24fd3ae66294cab08244185574b0",
+    "xdai": "0x374a457967ba24fd3ae66294cab08244185574b0",
+    "ethereum": "0x374a457967ba24fd3ae66294cab08244185574b0",
+    "binance-smart-chain": "0x374a457967ba24fd3ae66294cab08244185574b0",
+    "avalanche": "0x374a457967ba24fd3ae66294cab08244185574b0",
+    "polygon-pos": "0x374a457967ba24fd3ae66294cab08244185574b0",
+    "base": "0x374a457967ba24fd3ae66294cab08244185574b0"
+  }
+}

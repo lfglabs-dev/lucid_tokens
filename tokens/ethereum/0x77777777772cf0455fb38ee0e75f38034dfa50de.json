@@ -1,0 +1,18 @@
+{
+  "symbol": "xy",
+  "name": "XY Finance",
+  "address": "0x77777777772cf0455fB38eE0e75f38034dFa50DE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21541/thumb/xy.png?1639913622",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
+    "binance-smart-chain": "0x666666661f9b6d8c581602aaa2f76cbead06c401",
+    "fantom": "0x444444443b0fcb2733b93f23c910580fba52fffa",
+    "polygon-pos": "0x55555555a687343c6ce28c8e1f6641dc71659fad"
+  }
+}

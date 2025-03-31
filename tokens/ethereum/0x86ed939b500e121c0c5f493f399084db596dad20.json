@@ -1,0 +1,15 @@
+{
+  "symbol": "spc",
+  "name": "SpaceChain (ERC-20)",
+  "address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6659/thumb/Spacechain.jpg?1547042861",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x86ed939b500e121c0c5f493f399084db596dad20"
+  }
+}

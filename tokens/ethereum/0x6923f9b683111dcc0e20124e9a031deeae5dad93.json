@@ -1,0 +1,15 @@
+{
+  "symbol": "hub",
+  "name": "Crypto Hub",
+  "address": "0x6923F9B683111DCc0e20124e9A031dEeAE5DaD93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32705/thumb/Untitled_design_%285%29.png?1698985521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6923f9b683111dcc0e20124e9a031deeae5dad93"
+  }
+}

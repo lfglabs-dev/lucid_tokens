@@ -1,0 +1,15 @@
+{
+  "symbol": "smudge",
+  "name": "Smudge Lord",
+  "address": "0x516e2758b044433371076a48127b8CFa7b0bDb43",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30268/thumb/logo-A.png?1683776274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x516e2758b044433371076a48127b8cfa7b0bdb43"
+  }
+}

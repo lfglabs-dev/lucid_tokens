@@ -1,0 +1,15 @@
+{
+  "symbol": "elx",
+  "name": "Elixir",
+  "address": "0x89A8c847f41C0dfA6c8B88638bACca8a0b777Da7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89a8c847f41c0dfa6c8b88638bacca8a0b777da7"
+  }
+}

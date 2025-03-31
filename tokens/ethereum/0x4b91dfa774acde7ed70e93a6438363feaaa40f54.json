@@ -1,0 +1,15 @@
+{
+  "symbol": "spe",
+  "name": "SavePlanetEarth",
+  "address": "0x4b91dfa774ACde7Ed70e93a6438363FEAaA40F54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19759/thumb/spe.png?1635829598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b91dfa774acde7ed70e93a6438363feaaa40f54"
+  }
+}

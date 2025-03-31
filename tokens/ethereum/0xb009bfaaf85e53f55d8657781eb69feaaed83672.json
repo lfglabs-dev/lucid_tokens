@@ -1,0 +1,15 @@
+{
+  "symbol": "egs",
+  "name": "EdgeSwap",
+  "address": "0xB009BFaAF85e53F55d8657781Eb69feAaed83672",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24878/thumb/egs.png?1649218020",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb009bfaaf85e53f55d8657781eb69feaaed83672"
+  }
+}

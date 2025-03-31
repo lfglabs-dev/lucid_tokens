@@ -1,0 +1,16 @@
+{
+  "symbol": "ppc",
+  "name": "Peercoin",
+  "address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4/thumb/peercoin-icon-green-transparent_6x.png?1547033591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x044d078f1c86508e13328842cc75ac021b272958",
+    "polygon-pos": "0x91e7e32c710661c44ae44d10aa86135d91c3ed65"
+  }
+}

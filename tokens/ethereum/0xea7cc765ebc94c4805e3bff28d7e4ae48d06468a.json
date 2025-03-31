@@ -1,0 +1,16 @@
+{
+  "symbol": "pad",
+  "name": "Pad.Fi",
+  "address": "0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18117/thumb/coin-on-white.png?1630553114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea7cc765ebc94c4805e3bff28d7e4ae48d06468a",
+    "aurora": "0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781"
+  }
+}

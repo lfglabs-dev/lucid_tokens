@@ -1,0 +1,15 @@
+{
+  "symbol": "fine",
+  "name": "This Is Fine - Ethereum",
+  "address": "0x1634e10C9155BE623B5a52d6CA01C7A904D89b0a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50699/thumb/This_Is_Fine.png?1728784353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1634e10c9155be623b5a52d6ca01c7a904d89b0a"
+  }
+}

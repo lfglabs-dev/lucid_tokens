@@ -1,0 +1,15 @@
+{
+  "symbol": "gltm",
+  "name": "Golteum",
+  "address": "0x556d4F40982CB95E0714989E0c229C42be8b1499",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28597/thumb/_GLTM-Token-Border200.png?1672275111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x556d4f40982cb95e0714989e0c229c42be8b1499"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cix",
+  "name": "Centurion Invest",
+  "address": "0x6d60A8dFb16D09F67D46fcd36A0Cd310078257ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28483/thumb/PHOTO-2022-05-27-11-34-42.jpg?1671073667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d60a8dfb16d09f67d46fcd36a0cd310078257ca"
+  }
+}

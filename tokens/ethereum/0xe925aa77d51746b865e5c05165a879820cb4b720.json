@@ -1,0 +1,15 @@
+{
+  "symbol": "ccash",
+  "name": "C-Cash",
+  "address": "0xE925Aa77D51746b865e5c05165A879820cb4b720",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31644/thumb/200x.png?1694145345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe925aa77d51746b865e5c05165a879820cb4b720"
+  }
+}

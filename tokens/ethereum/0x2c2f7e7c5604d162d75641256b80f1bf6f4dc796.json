@@ -1,0 +1,15 @@
+{
+  "symbol": "prare",
+  "name": "Polkarare",
+  "address": "0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15388/thumb/Image_from_iOS.png?1621145396",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c2f7e7c5604d162d75641256b80f1bf6f4dc796"
+  }
+}

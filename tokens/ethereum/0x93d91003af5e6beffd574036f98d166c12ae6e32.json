@@ -1,0 +1,15 @@
+{
+  "symbol": "rev",
+  "name": "REV",
+  "address": "0x93D91003aF5e6beffD574036F98d166c12AE6E32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53415/thumb/Frame_%288%29.png?1736334190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x93d91003af5e6beffd574036f98d166c12ae6e32"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "oni",
+  "name": "Onigiri",
+  "address": "0x7777Cec341E7434126864195adEf9B05DCC3489C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39522/thumb/Onigiri.jpg?1722790714",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7777cec341e7434126864195adef9b05dcc3489c"
+  }
+}

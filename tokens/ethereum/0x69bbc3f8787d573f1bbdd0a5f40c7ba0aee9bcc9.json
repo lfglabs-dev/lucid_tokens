@@ -1,0 +1,17 @@
+{
+  "symbol": "yup",
+  "name": "Yup",
+  "address": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12322/thumb/photo_2021-10-26_00-47-35.jpg?1635227479",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
+    "polygon-pos": "0x086373fad3447f7f86252fb59d56107e9e0faafa",
+    "base": "0x01ccf4941298a0b5ac4714c0e1799a2df8387048"
+  }
+}

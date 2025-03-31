@@ -1,0 +1,15 @@
+{
+  "symbol": "yai",
+  "name": "Ÿ",
+  "address": "0x477a3d269266994F15E9C43A8D9C0561C4928088",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36578/thumb/DP.png?1711944185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x477a3d269266994f15e9c43a8d9c0561c4928088"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "kncl",
+  "name": "Kyber Network Crystal Legacy",
+  "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/947/thumb/logo-kncl.png?1618984814",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+    "harmony-shard-0": "0x0a47d2dc4b7ee3d4d7fd471d993b0821621e1769",
+    "fantom": "0x765277eebeca2e31912c9946eae1021199b39c61"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "type",
+  "name": "TypeAI",
+  "address": "0x443459D45c30A03f90037d011CbE22e2183d3b12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34484/thumb/Type_AI_%28Custom%29.jpg?1705044610",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x443459d45c30a03f90037d011cbe22e2183d3b12"
+  }
+}

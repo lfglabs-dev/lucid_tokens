@@ -1,0 +1,15 @@
+{
+  "symbol": "snm",
+  "name": "SONM",
+  "address": "0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/861/thumb/sonm.png?1548609871",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x46d0dac0926fa16707042cadc23f1eb4141fe86b"
+  }
+}

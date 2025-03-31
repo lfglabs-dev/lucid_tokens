@@ -1,0 +1,15 @@
+{
+  "symbol": "shadowcats",
+  "name": "Shadowcats",
+  "address": "0x0018d5E01e53878F90FEAB02F1b2019a21adf8b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29140/thumb/Shadowcats.png?1676963378",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0018d5e01e53878f90feab02f1b2019a21adf8b1"
+  }
+}

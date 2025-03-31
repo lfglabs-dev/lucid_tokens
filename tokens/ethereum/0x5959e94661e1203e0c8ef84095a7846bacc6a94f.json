@@ -1,0 +1,15 @@
+{
+  "symbol": "zkai",
+  "name": "ZKCrypt AI",
+  "address": "0x5959e94661E1203e0c8Ef84095A7846bacc6A94F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51515/thumb/Official_logo.jpg?1731442824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5959e94661e1203e0c8ef84095a7846bacc6a94f"
+  }
+}

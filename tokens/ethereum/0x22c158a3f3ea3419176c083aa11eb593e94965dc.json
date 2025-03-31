@@ -1,0 +1,15 @@
+{
+  "symbol": "qtc",
+  "name": "Quantum Cloak",
+  "address": "0x22C158a3F3Ea3419176C083Aa11EB593e94965Dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38714/thumb/20240519_000404.jpg?1718406041",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x22c158a3f3ea3419176c083aa11eb593e94965dc"
+  }
+}

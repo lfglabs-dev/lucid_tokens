@@ -1,0 +1,15 @@
+{
+  "symbol": "baby",
+  "name": "Dancing Baby",
+  "address": "0xfF931a7946d2fA11CF9123EF0dc6F6C7c6cB60C4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32641/thumb/IMG_20231101_135519_737.jpg?1698889030",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xff931a7946d2fa11cf9123ef0dc6f6c7c6cb60c4"
+  }
+}

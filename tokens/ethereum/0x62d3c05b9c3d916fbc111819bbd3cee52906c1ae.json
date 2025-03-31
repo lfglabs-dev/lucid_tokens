@@ -1,0 +1,15 @@
+{
+  "symbol": "egame",
+  "name": "Every Game",
+  "address": "0x62d3c05b9C3d916FBC111819bbD3CEE52906C1Ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20758/thumb/egame.png?1637648306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x62d3c05b9c3d916fbc111819bbd3cee52906c1ae"
+  }
+}

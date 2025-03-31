@@ -1,0 +1,15 @@
+{
+  "symbol": "sani",
+  "name": "Sanin Inu",
+  "address": "0x4521C9aD6A3D4230803aB752Ed238BE11F8B342F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25222/thumb/B7r0ocfQ_400x400.jpg?1650892157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4521c9ad6a3d4230803ab752ed238be11f8b342f"
+  }
+}

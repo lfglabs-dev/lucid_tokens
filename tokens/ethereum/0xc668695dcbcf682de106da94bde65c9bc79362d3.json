@@ -1,0 +1,15 @@
+{
+  "symbol": "svpn",
+  "name": "Shadow Node",
+  "address": "0xc668695dcbCf682dE106Da94bDE65c9bc79362d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36124/thumb/Group_13127_copy_%28200p%29.png?1710502856",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc668695dcbcf682de106da94bde65c9bc79362d3"
+  }
+}

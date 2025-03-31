@@ -1,0 +1,16 @@
+{
+  "symbol": "unit0",
+  "name": "Unit0",
+  "address": "0x48B847cF774A5710F36f594b11fc10E2E59BbA72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51237/thumb/200%D1%85200.png?1730448085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "waves": "GjwAHMjqWzYR4LgoNy91CxUKAGJN79h2hseZoae4nU8t",
+    "ethereum": "0x48b847cf774a5710f36f594b11fc10e2e59bba72"
+  }
+}

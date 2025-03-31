@@ -1,0 +1,15 @@
+{
+  "symbol": "gotg",
+  "name": "Got Guaranteed",
+  "address": "0xceEB07Dd26b36287B6d109f0b06d7e8202Ce8c1D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26107/thumb/%EA%B0%93%EC%A7%80%EB%A1%9C%EA%B3%A0.png?1655882278",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d"
+  }
+}

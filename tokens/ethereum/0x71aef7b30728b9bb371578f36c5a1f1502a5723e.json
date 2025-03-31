@@ -1,0 +1,15 @@
+{
+  "symbol": "a1inch",
+  "name": "Aave v3 1INCH",
+  "address": "0x71Aef7b30728b9BB371578f36c5A1f1502a5723e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32906/thumb/1INCH.png?1699804523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x71aef7b30728b9bb371578f36c5a1f1502a5723e"
+  }
+}

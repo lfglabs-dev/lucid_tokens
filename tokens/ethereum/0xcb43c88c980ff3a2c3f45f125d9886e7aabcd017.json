@@ -1,0 +1,15 @@
+{
+  "symbol": "freak",
+  "name": "Freakoff",
+  "address": "0xcB43C88c980fF3A2C3f45f125d9886E7aabCD017",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50601/thumb/Asset_200x200x.png?1728453007",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb43c88c980ff3a2c3f45f125d9886e7aabcd017"
+  }
+}

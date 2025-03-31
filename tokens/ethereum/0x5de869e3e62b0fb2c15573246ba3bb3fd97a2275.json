@@ -1,0 +1,15 @@
+{
+  "symbol": "sheb",
+  "name": "Sheboshis",
+  "address": "0x5dE869E3E62B0FB2c15573246BA3Bb3Fd97a2275",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38917/thumb/SHEB_TOKEN.png?1719477724",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5de869e3e62b0fb2c15573246ba3bb3fd97a2275"
+  }
+}

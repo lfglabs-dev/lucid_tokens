@@ -1,0 +1,16 @@
+{
+  "symbol": "pond",
+  "name": "Marlin",
+  "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+    "arbitrum-one": "0xda0a57b710768ae17941a9fa33f8b720c8bd9ddd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "eva",
+  "name": "Evanesco Network",
+  "address": "0xd6cAF5Bd23CF057f5FcCCE295Dcc50C01C198707",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16722/thumb/evan.PNG?1624849154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707"
+  }
+}

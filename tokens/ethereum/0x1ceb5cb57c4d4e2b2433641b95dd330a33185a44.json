@@ -1,0 +1,17 @@
+{
+  "symbol": "kp3r",
+  "name": "Keep3rV1",
+  "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12966/thumb/kp3r_logo.jpg?1607057458",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+    "energi": "0x09f24e5e54db6705df1a1a71d2bd5eac0d692bea",
+    "fantom": "0x2a5062d22adcfaafbd5c541d4da82e4b450d4212"
+  }
+}

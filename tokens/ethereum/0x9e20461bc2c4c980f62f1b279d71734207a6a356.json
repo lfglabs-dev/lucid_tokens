@@ -1,0 +1,22 @@
+{
+  "symbol": "omni",
+  "name": "OmniCat",
+  "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33917/thumb/2023-12-21_21.39.10.jpg?1703321588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+    "canto": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+    "blast": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+    "binance-smart-chain": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+    "arbitrum-one": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+    "polygon-pos": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+    "base": "0xc48e605c7b722a57277e087a6170b9e227e5ac0a",
+    "solana": "7mmXL6Et4SbpDs2iXoZQ3oPEeXeAiyETxh1QjDNi5qnV"
+  }
+}

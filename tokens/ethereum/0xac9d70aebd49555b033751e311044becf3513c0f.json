@@ -1,0 +1,15 @@
+{
+  "symbol": "mtk",
+  "name": "Moonland Metaverse Token",
+  "address": "0xAC9D70aebd49555b033751E311044BECF3513c0f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50177/thumb/200px.png?1726164541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac9d70aebd49555b033751e311044becf3513c0f"
+  }
+}

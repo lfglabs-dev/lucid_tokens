@@ -1,0 +1,16 @@
+{
+  "symbol": "strp",
+  "name": "Strips Finance",
+  "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18327/thumb/Logo-Strips-200-x-200px---without-words.png?1631543556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+    "arbitrum-one": "0x326c33fd1113c1f29b35b4407f3d6312a8518431"
+  }
+}

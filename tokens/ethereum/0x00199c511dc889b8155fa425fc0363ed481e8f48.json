@@ -1,0 +1,15 @@
+{
+  "symbol": "brick",
+  "name": "Brick Block",
+  "address": "0x00199C511DC889B8155fa425fc0363Ed481e8f48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36982/thumb/IMG_1013.jpeg?1712943445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00199c511dc889b8155fa425fc0363ed481e8f48"
+  }
+}

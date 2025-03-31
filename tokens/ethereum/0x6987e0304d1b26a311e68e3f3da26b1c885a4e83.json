@@ -1,0 +1,15 @@
+{
+  "symbol": "kaeru",
+  "name": "Kaeru The Frog",
+  "address": "0x6987e0304d1b26a311E68e3f3Da26b1c885A4e83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38640/thumb/kaeru-meme-logo2.jpg?1718209155",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6987e0304d1b26a311e68e3f3da26b1c885a4e83"
+  }
+}

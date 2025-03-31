@@ -1,0 +1,15 @@
+{
+  "symbol": "aly",
+  "name": "Ally",
+  "address": "0xf2CDF38e24738bA379ffa38D47bc88a941dF5627",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9619/thumb/BTf_sTXi_400x400.jpg?1569854715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf2cdf38e24738ba379ffa38d47bc88a941df5627"
+  }
+}

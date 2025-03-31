@@ -1,0 +1,16 @@
+{
+  "symbol": "qkntl",
+  "name": "Quick Intel",
+  "address": "0xbcd4D5AC29E06e4973a1dDcd782cd035d04BC0b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29605/thumb/IMG_6589D0616DF1-1.jpeg?1679994169",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbcd4d5ac29e06e4973a1ddcd782cd035d04bc0b7",
+    "arbitrum-one": "0xbcd4d5ac29e06e4973a1ddcd782cd035d04bc0b7"
+  }
+}

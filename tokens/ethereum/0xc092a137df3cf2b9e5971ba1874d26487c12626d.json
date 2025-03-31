@@ -1,0 +1,15 @@
+{
+  "symbol": "ring",
+  "name": "Ring AI",
+  "address": "0xc092A137df3cF2B9e5971ba1874D26487C12626d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35995/thumb/Logo_PP_200x200_circle.png?1710315842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc092a137df3cf2b9e5971ba1874d26487c12626d"
+  }
+}

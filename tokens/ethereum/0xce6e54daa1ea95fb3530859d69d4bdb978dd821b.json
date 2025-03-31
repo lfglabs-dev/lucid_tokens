@@ -1,0 +1,15 @@
+{
+  "symbol": "orbk",
+  "name": "Ordibank",
+  "address": "0xCe6E54DaA1ea95fb3530859d69D4bdb978dd821b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35736/thumb/obank-logo-v2-edited.png?1709694153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xce6e54daa1ea95fb3530859d69d4bdb978dd821b"
+  }
+}

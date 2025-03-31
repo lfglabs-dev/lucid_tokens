@@ -1,0 +1,15 @@
+{
+  "symbol": "heel",
+  "name": "Good Dog",
+  "address": "0xf941D3AAbf2EE0F5589E68Ba6047b8329592B366",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27138/thumb/Heel_Circle.png?1662029905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf941d3aabf2ee0f5589e68ba6047b8329592b366"
+  }
+}

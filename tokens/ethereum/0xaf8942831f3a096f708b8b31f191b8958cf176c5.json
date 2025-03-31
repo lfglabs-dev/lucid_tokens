@@ -1,0 +1,15 @@
+{
+  "symbol": "nerf",
+  "name": "Neural Radiance Field",
+  "address": "0xaF8942831F3A096f708b8b31F191B8958Cf176c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29521/thumb/Neural_Radiance_Field.png?1679464106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf8942831f3a096f708b8b31f191b8958cf176c5"
+  }
+}

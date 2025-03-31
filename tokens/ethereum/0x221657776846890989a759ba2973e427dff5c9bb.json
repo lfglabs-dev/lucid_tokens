@@ -1,0 +1,16 @@
+{
+  "symbol": "rep",
+  "name": "Augur",
+  "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/309/thumb/REP.png?1596339859",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x221657776846890989a759ba2973e427dff5c9bb",
+    "energi": "0x2a2666f62157769d09a64488bbb51bd77036f6ce"
+  }
+}

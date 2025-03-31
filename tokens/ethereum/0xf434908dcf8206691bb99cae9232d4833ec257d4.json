@@ -1,0 +1,15 @@
+{
+  "symbol": "jack",
+  "name": "Blackjack.fun",
+  "address": "0xf434908dCf8206691bb99cae9232d4833ec257D4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32499/thumb/logo_J.png?1698309198",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf434908dcf8206691bb99cae9232d4833ec257d4"
+  }
+}

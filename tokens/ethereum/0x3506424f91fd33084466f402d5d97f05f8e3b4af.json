@@ -1,0 +1,15 @@
+{
+  "symbol": "chz",
+  "name": "Chiliz",
+  "address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8834/thumb/Chiliz.png?1561970540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+  }
+}

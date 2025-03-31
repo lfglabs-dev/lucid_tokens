@@ -1,0 +1,20 @@
+{
+  "symbol": "sis",
+  "name": "Symbiosis",
+  "address": "0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20805/thumb/SymbiosisFinance_logo-150x150.jpeg?1637707064",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
+    "scroll": "0x1467b62a6ae5cdcb10a6a8173cfe187dd2c5a136",
+    "zksync": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
+    "linea": "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d",
+    "binance-smart-chain": "0xf98b660adf2ed7d9d9d9daacc2fb0cace4f21835",
+    "arbitrum-one": "0x9e758b8a98a42d612b3d38b66a22074dc03d7370"
+  }
+}

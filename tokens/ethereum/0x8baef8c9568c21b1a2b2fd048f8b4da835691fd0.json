@@ -1,0 +1,15 @@
+{
+  "symbol": "usdz",
+  "name": "USD ZEE",
+  "address": "0x8baEF8c9568c21B1a2b2fd048F8b4Da835691fD0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24876/thumb/003.png?1649217016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8baef8c9568c21b1a2b2fd048f8b4da835691fd0"
+  }
+}

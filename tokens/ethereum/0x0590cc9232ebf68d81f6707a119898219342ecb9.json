@@ -1,0 +1,15 @@
+{
+  "symbol": "bcat",
+  "name": "BananaCat",
+  "address": "0x0590cc9232eBF68D81F6707A119898219342ecB9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32557/thumb/imresizer-1698351889115.jpg?1698503559",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0590cc9232ebf68d81f6707a119898219342ecb9"
+  }
+}

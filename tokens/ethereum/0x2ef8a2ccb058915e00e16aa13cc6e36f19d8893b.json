@@ -1,0 +1,15 @@
+{
+  "symbol": "vdo",
+  "name": "ValiDAO",
+  "address": "0x2ef8a2Ccb058915E00E16aA13Cc6E36F19D8893b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33748/thumb/4836d0198d309d761d24caba65f77305_360_360%281%29.jpg?1702945234",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2ef8a2ccb058915e00e16aa13cc6e36f19d8893b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rbnt",
+  "name": "Redbelly Network",
+  "address": "0xb45fFB51984d626Ee758b336C61Cf20990c6bF13",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34372/thumb/RBNT.jpg?1704728914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb45ffb51984d626ee758b336c61cf20990c6bf13"
+  }
+}

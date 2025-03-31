@@ -1,0 +1,15 @@
+{
+  "symbol": "palm",
+  "name": "PaLM AI",
+  "address": "0xf1df7305E4BAB3885caB5B1e4dFC338452a67891",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33097/thumb/IMG_7197.jpeg?1700636242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1df7305e4bab3885cab5b1e4dfc338452a67891"
+  }
+}

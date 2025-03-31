@@ -1,0 +1,16 @@
+{
+  "symbol": "3crv",
+  "name": "LP 3pool Curve",
+  "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12972/thumb/3pool_128.png?1603948039",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "avalanche": "0x1337bedc9d22ecbe766df105c9623922a27963ec"
+  }
+}

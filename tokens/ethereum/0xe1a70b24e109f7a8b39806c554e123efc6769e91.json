@@ -1,0 +1,15 @@
+{
+  "symbol": "lsdai",
+  "name": "Liquid Savings DAI",
+  "address": "0xe1A70B24E109F7A8b39806c554E123Efc6769E91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31219/thumb/lsdai-logo.png?1691478101",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe1a70b24e109f7a8b39806c554e123efc6769e91"
+  }
+}

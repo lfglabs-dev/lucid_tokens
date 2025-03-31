@@ -1,0 +1,16 @@
+{
+  "symbol": "urqa",
+  "name": "UREEQA",
+  "address": "0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14605/thumb/R_O2enOX_400x400.png?1617243310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1735db6ab5baa19ea55d0adceed7bcdc008b3136",
+    "avalanche": "0xbd3936ec8d83a5d4e73eca625ecfa006da8c8f52"
+  }
+}

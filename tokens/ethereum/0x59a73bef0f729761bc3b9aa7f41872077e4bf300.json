@@ -1,0 +1,15 @@
+{
+  "symbol": "sect",
+  "name": "SECT BOT",
+  "address": "0x59a73BEF0f729761bc3B9aA7F41872077E4Bf300",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50885/thumb/sect.jpg?1729492525",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x59a73bef0f729761bc3b9aa7f41872077e4bf300"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "yvsnx",
+  "name": "SNX yVault",
+  "address": "0xF29AE508698bDeF169B89834F76704C3B205aedf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28797/thumb/yvSNX-128-0xF29AE508698bDeF169B89834F76704C3B205aedf.png?1674226457",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf29ae508698bdef169b89834f76704c3b205aedf"
+  }
+}

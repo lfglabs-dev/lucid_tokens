@@ -1,0 +1,17 @@
+{
+  "symbol": "epoch",
+  "name": "Epoch Island",
+  "address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33684/thumb/EpochLogo_200x200.png?1702731332",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6",
+    "arbitrum-one": "0x4939ac5c1855302891c5888634b2f65cc30b9155",
+    "base": "0x287f0d88e29a3d7aeb4d0c10bae5b902db69b17d"
+  }
+}

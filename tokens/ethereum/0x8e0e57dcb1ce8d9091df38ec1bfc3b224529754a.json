@@ -1,0 +1,15 @@
+{
+  "symbol": "cah",
+  "name": "Moon Tropica",
+  "address": "0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28470/thumb/MTLOGO.png?1671001371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a"
+  }
+}

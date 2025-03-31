@@ -1,0 +1,15 @@
+{
+  "symbol": "paul",
+  "name": "Paul",
+  "address": "0x86B874397Ecc811C5D9c1Db2D8b68F3425D61A61",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52827/thumb/paul_200.jpg?1734434897",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x86b874397ecc811c5d9c1db2d8b68f3425d61a61"
+  }
+}

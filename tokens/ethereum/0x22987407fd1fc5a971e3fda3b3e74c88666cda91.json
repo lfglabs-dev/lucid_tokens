@@ -1,0 +1,15 @@
+{
+  "symbol": "srt",
+  "name": "Smart Reward Token",
+  "address": "0x22987407FD1fC5A971e3FDA3B3e74C88666cDa91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25035/thumb/me-44EyS_400x400.jpg?1649852504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x22987407fd1fc5a971e3fda3b3e74c88666cda91"
+  }
+}

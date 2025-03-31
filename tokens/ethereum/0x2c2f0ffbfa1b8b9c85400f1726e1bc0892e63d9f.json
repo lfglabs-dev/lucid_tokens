@@ -1,0 +1,15 @@
+{
+  "symbol": "rfsteth",
+  "name": "Return Finance Lido stETH",
+  "address": "0x2C2f0FFbFA1B8b9C85400f1726e1bc0892e63D9F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52934/thumb/download.png?1734711094",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c2f0ffbfa1b8b9c85400f1726e1bc0892e63d9f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fwb",
+  "name": "Friends with Benefits Network",
+  "address": "0x269877f972622D3c293FCa595c65cf34b7f527Ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33783/thumb/Group.png?1702981073",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x269877f972622d3c293fca595c65cf34b7f527ce"
+  }
+}

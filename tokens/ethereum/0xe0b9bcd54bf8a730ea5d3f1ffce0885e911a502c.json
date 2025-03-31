@@ -1,0 +1,16 @@
+{
+  "symbol": "zum",
+  "name": "ZUM",
+  "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9721/thumb/zum256x256.png?1571264005",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+    "avalanche": "0x63dc3ca01ff09e714c8108ffd6f8a3e0b8cd13e4"
+  }
+}

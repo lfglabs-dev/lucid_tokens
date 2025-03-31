@@ -1,0 +1,16 @@
+{
+  "symbol": "trio",
+  "name": "Maximus TRIO",
+  "address": "0xF55cD1e399e1cc3D95303048897a680be3313308",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27684/thumb/IMG_1127.PNG?1665214637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf55cd1e399e1cc3d95303048897a680be3313308",
+    "pulsechain": "0xf55cd1e399e1cc3d95303048897a680be3313308"
+  }
+}

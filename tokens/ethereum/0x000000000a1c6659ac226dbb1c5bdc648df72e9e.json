@@ -1,0 +1,15 @@
+{
+  "symbol": "looter",
+  "name": "Looter",
+  "address": "0x000000000a1c6659ac226dBB1C5BDC648DF72E9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35837/thumb/LMdtc2Xz_400x400_%281%29.jpg?1709889187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x000000000a1c6659ac226dbb1c5bdc648df72e9e"
+  }
+}

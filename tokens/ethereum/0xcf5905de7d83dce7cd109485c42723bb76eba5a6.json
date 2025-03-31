@@ -1,0 +1,18 @@
+{
+  "symbol": "ero.d",
+  "name": "Dinari ERO",
+  "address": "0xcF5905De7d83Dce7CD109485C42723bB76EBA5a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x071e1fd14fbacb2b856867043eb12ace1ee3cb52",
+    "ethereum": "0xcf5905de7d83dce7cd109485c42723bb76eba5a6",
+    "blast": "0x688a880ae19e766c6ad4b749a315ec25034a0645",
+    "base": "0xba921e840fb60adb0f92b2a977427fe8e5dd208c"
+  }
+}

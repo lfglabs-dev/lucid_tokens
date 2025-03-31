@@ -1,0 +1,15 @@
+{
+  "symbol": "option",
+  "name": "OptionsAI",
+  "address": "0xB67CF01958B1a06C330f5A46501Fe1Fb2Ec82Aaa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52700/thumb/logo_2_%282%29_%281%29.png?1734040404",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb67cf01958b1a06c330f5a46501fe1fb2ec82aaa"
+  }
+}

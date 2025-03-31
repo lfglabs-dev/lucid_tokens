@@ -1,0 +1,15 @@
+{
+  "symbol": "cosmic",
+  "name": "Cosmic Network",
+  "address": "0x55A05Cf8898dd1c582eef939Df645d5D235C6f74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37006/thumb/cosmic.jpeg?1713072590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x55a05cf8898dd1c582eef939df645d5d235c6f74"
+  }
+}

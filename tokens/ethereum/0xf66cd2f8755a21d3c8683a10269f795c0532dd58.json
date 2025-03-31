@@ -1,0 +1,15 @@
+{
+  "symbol": "coredao",
+  "name": "coreDAO",
+  "address": "0xf66Cd2f8755a21d3c8683a10269F795c0532Dd58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23745/thumb/coredao.png?1645273627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf66cd2f8755a21d3c8683a10269f795c0532dd58"
+  }
+}

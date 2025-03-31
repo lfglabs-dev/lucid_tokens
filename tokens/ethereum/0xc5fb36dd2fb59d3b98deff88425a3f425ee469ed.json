@@ -1,0 +1,15 @@
+{
+  "symbol": "tsuka",
+  "name": "Dejitaru Tsuka",
+  "address": "0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26405/thumb/Tsuka_200x200.png?1657923568",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed"
+  }
+}

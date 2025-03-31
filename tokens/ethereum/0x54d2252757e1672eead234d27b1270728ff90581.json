@@ -1,0 +1,16 @@
+{
+  "symbol": "bgb",
+  "name": "Bitget Token",
+  "address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11610/thumb/photo_2022-01-24_14-08-03.jpg?1643019457",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x54d2252757e1672eead234d27b1270728ff90581",
+    "morph-l2": "0x55d1f1879969bdbb9960d269974564c58dbc3238"
+  }
+}

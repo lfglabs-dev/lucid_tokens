@@ -1,0 +1,15 @@
+{
+  "symbol": "mongoose",
+  "name": "Mongoose",
+  "address": "0xa1817B6d8D890F3943b61648992730373B71f156",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21456/thumb/61b142508fba4235f29d57eb_Frame_24_%281%29.png?1639291023",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1817b6d8d890f3943b61648992730373b71f156"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dgk",
+  "name": "DIGIKA",
+  "address": "0xf4445049080Ae2FDe75aAf0c6e603fb55875F02C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55038/thumb/dgk-dark-800px.png?1743404518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c"
+  }
+}

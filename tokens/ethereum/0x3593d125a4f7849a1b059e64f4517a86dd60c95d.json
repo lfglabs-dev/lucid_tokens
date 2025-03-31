@@ -1,0 +1,21 @@
+{
+  "symbol": "om",
+  "name": "MANTRA",
+  "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12151/thumb/OM_3D_whtbg.png?1598332353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
+    "mantra": "uom",
+    "stargaze": "ibc/3BD86E80E000B52DA57C474A6A44E37F73D34E38A1FA79EE678E08D119FC555B",
+    "osmosis": "ibc/164807F6226F91990F358C6467EEE8B162E437BDCD3DADEC3F0CE20693720795",
+    "binance-smart-chain": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
+    "polygon-pos": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
+    "base": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "ply",
+  "name": "Aurigami",
+  "address": "0x1aB43204a195a0fD37EdeC621482AFd3792ef90b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24074/thumb/EbB5N8IN_400x400.jpg?1646230298",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "aurora": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
+    "near-protocol": "1ab43204a195a0fd37edec621482afd3792ef90b.factory.bridge.near",
+    "ethereum": "0x1ab43204a195a0fd37edec621482afd3792ef90b"
+  }
+}

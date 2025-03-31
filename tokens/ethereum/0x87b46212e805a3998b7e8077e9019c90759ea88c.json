@@ -1,0 +1,16 @@
+{
+  "symbol": "aga",
+  "name": "AgoraHub",
+  "address": "0x87B46212e805A3998B7e8077E9019c90759Ea88C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38230/thumb/agora-avatar-black.png?1716828738",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x87b46212e805a3998b7e8077e9019c90759ea88c",
+    "solana": "AGAxefyrPTi63FGL2ukJUTBtLJStDpiXMdtLRWvzambv"
+  }
+}

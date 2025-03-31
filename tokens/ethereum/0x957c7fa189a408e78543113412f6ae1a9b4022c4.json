@@ -1,0 +1,15 @@
+{
+  "symbol": "lf",
+  "name": "LF",
+  "address": "0x957c7fA189a408E78543113412f6Ae1a9b4022C4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54491/thumb/Zm2W3yS2_400x400.jpg?1739996813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x957c7fa189a408e78543113412f6ae1a9b4022c4"
+  }
+}

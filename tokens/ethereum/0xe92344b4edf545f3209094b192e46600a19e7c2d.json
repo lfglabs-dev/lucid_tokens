@@ -1,0 +1,15 @@
+{
+  "symbol": "zkml",
+  "name": "zKML",
+  "address": "0xE92344b4eDF545F3209094B192E46600A19E7C2D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe92344b4edf545f3209094b192e46600a19e7c2d"
+  }
+}

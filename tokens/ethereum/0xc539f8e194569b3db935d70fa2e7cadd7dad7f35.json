@@ -1,0 +1,15 @@
+{
+  "symbol": "czar",
+  "name": "Crypto Czar",
+  "address": "0xC539f8e194569b3DB935d70Fa2E7cadD7DAd7F35",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52020/thumb/NFo_R_8mUggCwXLFxrAFwBnAunYoq3M0lqAMXo4IgkfinEAQXP3QmRzgfYg-LrWwhu-AqzwJXBzeCX4TUSOjSHmrPuDp9yGpri5dVWqjq2XIHp5g_Q0tz7grAPEF4NO8czGoMDznKFJzfLdHdekmM27GQekMthFBkItQEGHqh4_yZncOB8_6W9o7GqCa1alQemlLDAQlhXhOjhD-J1_%281%29.jpg?1732350081",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc539f8e194569b3db935d70fa2e7cadd7dad7f35"
+  }
+}

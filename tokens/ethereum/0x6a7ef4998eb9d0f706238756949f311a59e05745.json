@@ -1,0 +1,15 @@
+{
+  "symbol": "ken",
+  "name": "Keysians Network",
+  "address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12141/thumb/Keysians_logo.jpg?1597542966",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a7ef4998eb9d0f706238756949f311a59e05745"
+  }
+}

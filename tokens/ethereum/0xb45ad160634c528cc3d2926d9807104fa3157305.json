@@ -1,0 +1,15 @@
+{
+  "symbol": "sdola",
+  "name": "sDOLA",
+  "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35495/thumb/sDOLAlogoFINAL.png?1708922289",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb45ad160634c528cc3d2926d9807104fa3157305"
+  }
+}

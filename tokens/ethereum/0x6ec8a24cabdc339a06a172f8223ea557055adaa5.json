@@ -1,0 +1,15 @@
+{
+  "symbol": "gnx",
+  "name": "Genaro Network",
+  "address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1361/thumb/genaro-network.png?1547035387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5"
+  }
+}

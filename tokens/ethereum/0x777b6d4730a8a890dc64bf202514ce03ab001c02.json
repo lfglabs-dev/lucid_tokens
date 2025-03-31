@@ -1,0 +1,15 @@
+{
+  "symbol": "bars",
+  "name": "Silver Standard",
+  "address": "0x777b6d4730A8a890dc64bf202514CE03ab001c02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39440/thumb/0x777b6d4730a8a890dc64bf202514ce03ab001c02.png?1722308609",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x777b6d4730a8a890dc64bf202514ce03ab001c02"
+  }
+}

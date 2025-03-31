@@ -1,0 +1,15 @@
+{
+  "symbol": "hao",
+  "name": "HistoryDAO",
+  "address": "0x3C4008eca800Ec1283E4cf500E68D06BFaBc00a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27318/thumb/5961657012978_.pic.jpg?1663316216",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3c4008eca800ec1283e4cf500e68d06bfabc00a8"
+  }
+}

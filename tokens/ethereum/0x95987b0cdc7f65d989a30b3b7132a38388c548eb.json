@@ -1,0 +1,17 @@
+{
+  "symbol": "purse",
+  "name": "Pundi X PURSE",
+  "address": "0x95987b0cdC7F65d989A30B3B7132a38388c548Eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20419/thumb/HobiV7k__400x400.jpg?1637018086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29a63f4b209c29b4dc47f06ffa896f32667dad2c",
+    "function-x": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
+    "ethereum": "0x95987b0cdc7f65d989a30b3b7132a38388c548eb"
+  }
+}

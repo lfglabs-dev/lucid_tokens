@@ -1,0 +1,15 @@
+{
+  "symbol": "berastone",
+  "name": "StakeStone Berachain Vault Token",
+  "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53143/thumb/beraSTONE.png?1735377526",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x97ad75064b20fb2b2447fed4fa953bf7f007a706"
+  }
+}

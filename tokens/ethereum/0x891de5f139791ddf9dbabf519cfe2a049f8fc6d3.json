@@ -1,0 +1,15 @@
+{
+  "symbol": "dibble",
+  "name": "Dibbles",
+  "address": "0x891de5f139791dDF9dBaBF519cfE2A049f8FC6d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34860/thumb/dibbles_logo.png?1706351813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x891de5f139791ddf9dbabf519cfe2a049f8fc6d3"
+  }
+}

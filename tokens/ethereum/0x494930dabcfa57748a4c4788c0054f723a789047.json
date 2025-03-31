@@ -1,0 +1,15 @@
+{
+  "symbol": "coomer",
+  "name": "COOMER",
+  "address": "0x494930DabCfa57748A4c4788c0054F723A789047",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39240/thumb/download_-_2024-07-16T000030.414.png?1721274025",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x494930dabcfa57748a4c4788c0054f723a789047"
+  }
+}

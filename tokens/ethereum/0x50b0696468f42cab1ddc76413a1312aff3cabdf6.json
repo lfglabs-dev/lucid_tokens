@@ -1,0 +1,15 @@
+{
+  "symbol": "closedai",
+  "name": "ClosedAI",
+  "address": "0x50B0696468F42CaB1ddc76413A1312Aff3cAbdf6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36143/thumb/CLOSEDAI.jpg?1710689243",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x50b0696468f42cab1ddc76413a1312aff3cabdf6"
+  }
+}

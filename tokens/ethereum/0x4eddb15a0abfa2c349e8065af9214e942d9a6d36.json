@@ -1,0 +1,16 @@
+{
+  "symbol": "xyro",
+  "name": "XYRO",
+  "address": "0x4eDDb15A0abfa2c349e8065aF9214E942d9A6D36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53895/thumb/xyro_logo_200px.png?1737665070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4eddb15a0abfa2c349e8065af9214e942d9a6d36",
+    "arbitrum-one": "0xaeac3b55c3522157ecda7ec8fcb86c832faa28af"
+  }
+}

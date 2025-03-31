@@ -1,0 +1,16 @@
+{
+  "symbol": "$roar",
+  "name": "Roaring Kitty",
+  "address": "0xD8C978de79E12728e38aa952a6cB4166F891790f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37954/thumb/roaring_kitty.png?1716091869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
+    "shibarium": "0xd1cb43c9d1859e57057770cb9ed0398736ad9d6f"
+  }
+}

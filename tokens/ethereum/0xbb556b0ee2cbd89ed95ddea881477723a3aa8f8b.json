@@ -1,0 +1,15 @@
+{
+  "symbol": "alca",
+  "name": "AliceNet",
+  "address": "0xBb556b0eE2CBd89ed95DdEA881477723A3Aa8F8b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29417/thumb/LinkedIn_-_Profile_300_x_300.png?1678673329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb556b0ee2cbd89ed95ddea881477723a3aa8f8b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gamer",
+  "name": "cyb3rgam3r420",
+  "address": "0xF89674f18309A2E97843c6e9B19C07c22cAEF6d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32071/thumb/GAMER_LOGO_200x200.png?1696325817",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf89674f18309a2e97843c6e9b19c07c22caef6d5"
+  }
+}

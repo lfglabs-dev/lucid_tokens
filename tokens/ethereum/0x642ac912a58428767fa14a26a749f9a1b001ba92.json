@@ -1,0 +1,15 @@
+{
+  "symbol": "xx",
+  "name": "XX",
+  "address": "0x642Ac912A58428767FA14a26A749f9A1b001bA92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31972/thumb/200.png?1695872555",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x642ac912a58428767fa14a26a749f9a1b001ba92"
+  }
+}

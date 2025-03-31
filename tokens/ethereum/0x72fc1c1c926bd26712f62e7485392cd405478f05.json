@@ -1,0 +1,15 @@
+{
+  "symbol": "bark",
+  "name": "Bark Gas Token",
+  "address": "0x72fc1c1C926bD26712F62e7485392Cd405478F05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34562/thumb/Bark_Gas_Token.png?1705400669",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72fc1c1c926bd26712f62e7485392cd405478f05"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "arcas",
+  "name": "Arcas",
+  "address": "0x570f09AC53b96929e3868f71864E36Ff6b1B67D7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17404/thumb/OGJSuTRA.png?1650330829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7ca058309053f90b39bfc58de1eda2a89e9c03a8",
+    "ethereum": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
+    "soneium": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7"
+  }
+}

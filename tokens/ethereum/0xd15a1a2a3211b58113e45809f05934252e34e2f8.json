@@ -1,0 +1,15 @@
+{
+  "symbol": "wzm",
+  "name": "Woozoo Music",
+  "address": "0xD15A1A2A3211b58113e45809f05934252E34e2F8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21891/thumb/logo_200_200_%281%29.png?1640228330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd15a1a2a3211b58113e45809f05934252e34e2f8"
+  }
+}

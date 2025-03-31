@@ -1,0 +1,15 @@
+{
+  "symbol": "xeroai",
+  "name": "Xero AI",
+  "address": "0xC5842df170b8C8D09EB851A8D5DB3dfa00669E3F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36539/thumb/Untitled_design_%285%29.png?1711708210",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5842df170b8c8d09eb851a8d5db3dfa00669e3f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "unleash",
+  "name": "UnleashClub",
+  "address": "0x0E9cc0F7E550BD43BD2af2214563C47699F96479",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30804/thumb/UnleashClub.png?1687413910",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e9cc0f7e550bd43bd2af2214563c47699f96479"
+  }
+}

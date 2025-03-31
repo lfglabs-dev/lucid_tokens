@@ -1,0 +1,15 @@
+{
+  "symbol": "noob",
+  "name": "Blast Royale",
+  "address": "0x06561dC5CEdCc012a4EA68609b17d41499622E4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50481/thumb/noob.jpg?1727862451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06561dc5cedcc012a4ea68609b17d41499622e4c"
+  }
+}

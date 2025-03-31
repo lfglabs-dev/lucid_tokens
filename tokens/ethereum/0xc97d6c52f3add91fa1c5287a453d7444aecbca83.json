@@ -1,0 +1,16 @@
+{
+  "symbol": "dzoo",
+  "name": "Degen Zoo",
+  "address": "0xc97d6C52F3ADD91Fa1c5287a453d7444aECBca83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29224/thumb/FAGWW5fe_400x400.jpeg?1677481253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc97d6c52f3add91fa1c5287a453d7444aecbca83",
+    "binance-smart-chain": "0x56d06a78ef8e95d6043341f24759e2834be6f97b"
+  }
+}

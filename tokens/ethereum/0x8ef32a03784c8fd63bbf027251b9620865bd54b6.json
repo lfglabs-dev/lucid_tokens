@@ -1,0 +1,15 @@
+{
+  "symbol": "bullet",
+  "name": "Bullet Gate Betting Token",
+  "address": "0x8ef32a03784c8Fd63bBf027251b9620865bD54B6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31242/thumb/2023-08-07_15.38.46.png?1691719623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8ef32a03784c8fd63bbf027251b9620865bd54b6"
+  }
+}

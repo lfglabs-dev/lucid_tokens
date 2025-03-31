@@ -1,0 +1,18 @@
+{
+  "symbol": "cfi",
+  "name": "CyberFi",
+  "address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13112/thumb/cyberfi_logo.jpeg?1605283367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+    "binance-smart-chain": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
+    "fantom": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
+    "polygon-pos": "0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "god",
+  "name": "GOD Coin",
+  "address": "0x4c746Edf20762dC201aC40135e0C13e400d23D58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33360/thumb/_kJ-LILu_400x400.jpg?1701603268",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c746edf20762dc201ac40135e0c13e400d23d58"
+  }
+}

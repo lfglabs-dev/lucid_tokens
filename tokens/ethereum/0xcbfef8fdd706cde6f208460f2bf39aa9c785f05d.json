@@ -1,0 +1,15 @@
+{
+  "symbol": "kine",
+  "name": "Kine Protocol",
+  "address": "0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14339/thumb/kine.jpg?1615474456",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d"
+  }
+}

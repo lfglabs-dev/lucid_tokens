@@ -1,0 +1,15 @@
+{
+  "symbol": "neos",
+  "name": "Neos.ai",
+  "address": "0xd2a08fF5F31d2F2d70C91960323C2ed31268ae25",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52441/thumb/NEOS.png?1733350936",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd2a08ff5f31d2f2d70c91960323c2ed31268ae25"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gfox",
+  "name": "Galaxy Fox",
+  "address": "0x8F1CecE048Cade6b8a05dFA2f90EE4025F4F2662",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34882/thumb/GFOX_LOGO.png?1706499381",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f1cece048cade6b8a05dfa2f90ee4025f4f2662"
+  }
+}

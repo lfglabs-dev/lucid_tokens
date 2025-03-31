@@ -1,0 +1,17 @@
+{
+  "symbol": "ceres",
+  "name": "Ceres",
+  "address": "0x2e7B0d4F9B2EaF782eD3D160e3a0a4b1a7930aDA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17959/thumb/sQLDgqx.png?1648442923",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "sora": "0x008bcfd2387d3fc453333557eecb0efe59fcba128769b2feefdd306e98e66440",
+    "astar": "0xe69583b62d7b7d8a568e1ec08f34b648589f4cf1",
+    "ethereum": "0x2e7b0d4f9b2eaf782ed3d160e3a0a4b1a7930ada"
+  }
+}

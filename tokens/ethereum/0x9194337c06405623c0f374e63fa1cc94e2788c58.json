@@ -1,0 +1,15 @@
+{
+  "symbol": "cybonk",
+  "name": "CYBONK",
+  "address": "0x9194337C06405623c0F374e63Fa1CC94e2788c58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35802/thumb/cybonk_%281%29.png?1709839583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9194337c06405623c0f374e63fa1cc94e2788c58"
+  }
+}

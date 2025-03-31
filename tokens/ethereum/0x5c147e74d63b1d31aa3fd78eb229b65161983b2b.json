@@ -1,0 +1,16 @@
+{
+  "symbol": "wflow",
+  "name": "Wrapped Flow",
+  "address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24045/thumb/wrapped-flow.png?1646187143",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
+    "flow-evm": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e"
+  }
+}

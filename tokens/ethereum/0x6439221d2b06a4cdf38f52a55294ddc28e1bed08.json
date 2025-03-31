@@ -1,0 +1,15 @@
+{
+  "symbol": "gnomy",
+  "name": "Gnomy",
+  "address": "0x6439221D2b06a4CDf38F52A55294Ddc28e1Bed08",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39145/thumb/Gnomy.png?1720766134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6439221d2b06a4cdf38f52a55294ddc28e1bed08"
+  }
+}

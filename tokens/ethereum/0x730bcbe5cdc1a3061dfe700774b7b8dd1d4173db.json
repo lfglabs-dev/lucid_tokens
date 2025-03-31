@@ -1,0 +1,15 @@
+{
+  "symbol": "wtf",
+  "name": "DaVinci",
+  "address": "0x730BCBe5Cdc1a3061Dfe700774b7B8dd1d4173DB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35734/thumb/IMG_8820.png?1709693722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x730bcbe5cdc1a3061dfe700774b7b8dd1d4173db"
+  }
+}

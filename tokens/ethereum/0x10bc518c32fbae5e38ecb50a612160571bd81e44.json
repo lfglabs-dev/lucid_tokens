@@ -1,0 +1,15 @@
+{
+  "symbol": "vro",
+  "name": "VeraOne",
+  "address": "0x10BC518c32fbAE5e38Ecb50A612160571bD81e44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11112/thumb/wsBaVF.png?1588639964",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x10bc518c32fbae5e38ecb50a612160571bd81e44"
+  }
+}

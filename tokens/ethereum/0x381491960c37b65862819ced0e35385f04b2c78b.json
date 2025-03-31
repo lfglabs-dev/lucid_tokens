@@ -1,0 +1,15 @@
+{
+  "symbol": "hachiko",
+  "name": "Hachiko",
+  "address": "0x381491960c37b65862819cEd0e35385f04B2C78B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38856/thumb/hachiko.jpeg?1719213544",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x381491960c37b65862819ced0e35385f04b2c78b"
+  }
+}

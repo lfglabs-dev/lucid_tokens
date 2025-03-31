@@ -1,0 +1,15 @@
+{
+  "symbol": "what",
+  "name": "WhatAI",
+  "address": "0x3f98eE6644B2C68a800C08fEfA97e6ecfbdBa248",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51383/thumb/1000001289.jpg?1730966987",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f98ee6644b2c68a800c08fefa97e6ecfbdba248"
+  }
+}

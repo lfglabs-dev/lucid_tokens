@@ -1,0 +1,15 @@
+{
+  "symbol": "wsb",
+  "name": "Wall Street Bets",
+  "address": "0x6f91D21de4e40b3B80636B6b3Ba425B636b798CF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32095/thumb/GOoZ5azT_400x400.jpg?1696413564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f91d21de4e40b3b80636b6b3ba425b636b798cf"
+  }
+}

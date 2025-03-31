@@ -1,0 +1,15 @@
+{
+  "symbol": "rivus",
+  "name": "RivusDAO",
+  "address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36965/thumb/IMG_0167.png?1712907932",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60e254e35dd712394b3aba7a1d19114732e143dd"
+  }
+}

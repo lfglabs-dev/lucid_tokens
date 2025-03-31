@@ -1,0 +1,15 @@
+{
+  "symbol": "dappx",
+  "name": "dAppstore",
+  "address": "0x00d8318E44780EdEEFcF3020A5448F636788883C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15780/thumb/large-logo.png?1621841062",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00d8318e44780edeefcf3020a5448f636788883c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "atx",
+  "name": "AUTOMATIX",
+  "address": "0xA28CbB24313dF3907b8D87685bAb2c1d0bd46B60",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39620/thumb/AUTOMATIX.png?1723174821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa28cbb24313df3907b8d87685bab2c1d0bd46b60"
+  }
+}

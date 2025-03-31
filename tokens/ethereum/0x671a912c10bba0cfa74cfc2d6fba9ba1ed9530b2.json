@@ -1,0 +1,15 @@
+{
+  "symbol": "yvlink",
+  "name": "LINK yVault",
+  "address": "0x671a912C10bba0CFA74Cfc2d6Fba9BA1ed9530B2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28791/thumb/yvLINK-128-0x671a912C10bba0CFA74Cfc2d6Fba9BA1ed9530B2.png?1674225194",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x671a912c10bba0cfa74cfc2d6fba9ba1ed9530b2"
+  }
+}

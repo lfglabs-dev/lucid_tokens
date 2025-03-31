@@ -1,0 +1,15 @@
+{
+  "symbol": "oxyz",
+  "name": "Oxya Origin",
+  "address": "0xD0623da373F754C4B6762209EA77De59B21DD667",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52862/thumb/Logo-white-glow_%281%29.png?1734542097",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd0623da373f754c4b6762209ea77de59b21dd667"
+  }
+}

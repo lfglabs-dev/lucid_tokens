@@ -1,0 +1,16 @@
+{
+  "symbol": "nbtc",
+  "name": "NexusBTC",
+  "address": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52630/thumb/NBTC-logo.png?1733837414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8bb97a618211695f5a6a889fac3546d1a573ea77",
+    "core": "0x8bb97a618211695f5a6a889fac3546d1a573ea77"
+  }
+}

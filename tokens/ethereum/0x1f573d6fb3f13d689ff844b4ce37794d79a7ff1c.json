@@ -1,0 +1,16 @@
+{
+  "symbol": "bnt",
+  "name": "Bancor Network",
+  "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/736/thumb/bancor-bnt.png?1628822309",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "energi": "0x9419e8edcf570a71eb0dd006602949742b711a80"
+  }
+}

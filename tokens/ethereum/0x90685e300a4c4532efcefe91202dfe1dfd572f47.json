@@ -1,0 +1,15 @@
+{
+  "symbol": "cta",
+  "name": "Cross The Ages",
+  "address": "0x90685e300A4c4532EFCeFE91202DfE1Dfd572F47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37692/thumb/little_cta_token_logo.png?1715231202",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x90685e300a4c4532efcefe91202dfe1dfd572f47"
+  }
+}

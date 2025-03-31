@@ -1,0 +1,15 @@
+{
+  "symbol": "atc",
+  "name": "Aster",
+  "address": "0x0eb3032bcAc2BE1fa95E296442F225edb80fc3CD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17325/thumb/atc.png?1627311439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0eb3032bcac2be1fa95e296442f225edb80fc3cd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fog",
+  "name": "FOGnet",
+  "address": "0x503cD987998824192578D0d7950148445667287c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31743/thumb/fognet_logo_512-pso36yibc3wmls8sg2l5arxqptos6g1glqowa3rgik.png?1694671743",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x503cd987998824192578d0d7950148445667287c"
+  }
+}

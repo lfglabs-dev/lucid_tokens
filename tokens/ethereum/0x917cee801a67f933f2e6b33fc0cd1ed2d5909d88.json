@@ -1,0 +1,15 @@
+{
+  "symbol": "weeths",
+  "name": "ether.fi weETHs",
+  "address": "0x917ceE801a67f933F2e6b33fC0cD1ED2d5909D88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40058/thumb/weETHs.jpeg?1725450281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x917cee801a67f933f2e6b33fc0cd1ed2d5909d88"
+  }
+}

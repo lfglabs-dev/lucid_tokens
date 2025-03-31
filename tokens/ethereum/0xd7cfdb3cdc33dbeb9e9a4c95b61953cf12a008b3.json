@@ -1,0 +1,15 @@
+{
+  "symbol": "bruh",
+  "name": "Bruh",
+  "address": "0xD7CFDb3cdc33dBeb9e9A4C95b61953Cf12A008b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39992/thumb/qde5osjQ_400x400.jpg?1725065185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7cfdb3cdc33dbeb9e9a4c95b61953cf12a008b3"
+  }
+}

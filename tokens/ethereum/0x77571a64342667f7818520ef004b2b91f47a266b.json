@@ -1,0 +1,15 @@
+{
+  "symbol": "snm",
+  "name": "SnailMoon",
+  "address": "0x77571a64342667f7818520eF004b2b91F47a266b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30401/thumb/SnailMoonCoingecko.png?1684371089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77571a64342667f7818520ef004b2b91f47a266b"
+  }
+}

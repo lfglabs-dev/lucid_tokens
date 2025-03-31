@@ -1,0 +1,15 @@
+{
+  "symbol": "moeth",
+  "name": "Eigenpie oETH",
+  "address": "0x310718274509a38cc5559a1ff48c5eDbE75a382B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37171/thumb/mOETH.png?1713508180",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x310718274509a38cc5559a1ff48c5edbe75a382b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "lott",
+  "name": "Beauty Bakery Linked Operation Transaction Technology",
+  "address": "0xbA93EF534094F8b7001ECe2691168140965341ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27688/thumb/LOTT.jpg?1665217304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba93ef534094f8b7001ece2691168140965341ab"
+  }
+}

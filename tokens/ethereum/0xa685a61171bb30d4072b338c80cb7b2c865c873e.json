@@ -1,0 +1,15 @@
+{
+  "symbol": "amana",
+  "name": "Aave MANA",
+  "address": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14267/thumb/aMANA.f89a1098.png?1615528680",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa685a61171bb30d4072b338c80cb7b2c865c873e"
+  }
+}

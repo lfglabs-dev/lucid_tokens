@@ -1,0 +1,15 @@
+{
+  "symbol": "$eva",
+  "name": "eVa-ai",
+  "address": "0x3566C8eE9780245e974e759a7716EA6BA0702588",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50364/thumb/2024-09-25_16.53.39.jpg?1727331857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3566c8ee9780245e974e759a7716ea6ba0702588"
+  }
+}

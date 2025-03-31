@@ -1,0 +1,15 @@
+{
+  "symbol": "universe",
+  "name": "Unicorn Metaverse",
+  "address": "0xf6f31B8AFBf8E3F7FC8246BEf26093F02838dA98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33077/thumb/rar4.JPG?1700549656",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf6f31b8afbf8e3f7fc8246bef26093f02838da98"
+  }
+}

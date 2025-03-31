@@ -1,0 +1,15 @@
+{
+  "symbol": "stat",
+  "name": "STAT",
+  "address": "0x4FC15c91a9c4A9efB404174464687E8e128730C2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26602/thumb/iShot_2022-07-28_13.08.32.png?1658984931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4fc15c91a9c4a9efb404174464687e8e128730c2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "osak",
+  "name": "Osaka Protocol",
+  "address": "0xa21Af1050F7B26e0cfF45ee51548254C41ED6b5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30911/thumb/osak_logo.png?1688693598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c",
+    "optimistic-ethereum": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "binance-smart-chain": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
+    "avalanche": "0x96e1056a8814de39c8c3cd0176042d6cecd807d7",
+    "arbitrum-one": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "polygon-pos": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
+    "base": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e"
+  }
+}

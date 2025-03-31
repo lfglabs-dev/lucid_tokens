@@ -1,0 +1,17 @@
+{
+  "symbol": "rjv",
+  "name": "Rejuve.AI",
+  "address": "0xa1f410f13B6007fCa76833ee7eb58478D47Bc5Ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29366/thumb/2023_Rejuve_Logo_-_Square_-_Teal.jpg?1678345338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1f410f13b6007fca76833ee7eb58478d47bc5ef",
+    "cardano": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78",
+    "binance-smart-chain": "0x602b6c6cce5f95c00603bd07d8fa7ebaf3747d44"
+  }
+}

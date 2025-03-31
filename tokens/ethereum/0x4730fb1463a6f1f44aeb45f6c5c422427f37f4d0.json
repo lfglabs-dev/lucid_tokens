@@ -1,0 +1,18 @@
+{
+  "symbol": "four",
+  "name": "4th Pillar FOUR",
+  "address": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3434/thumb/four-ticker-2021-256x256.png?1617702287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+    "binance-smart-chain": "0xd882739fca9cbae00f3821c4c65189e2d7e26147",
+    "polygon-pos": "0x48cbc913de09317df2365e6827df50da083701d5",
+    "solana": "DAtU322C23YpoZyWBm8szk12QyqHa9rUQe1EYXzbm1JE"
+  }
+}

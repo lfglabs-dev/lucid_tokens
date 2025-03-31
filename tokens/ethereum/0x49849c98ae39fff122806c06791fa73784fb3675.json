@@ -1,0 +1,15 @@
+{
+  "symbol": "renbtccurve",
+  "name": "LP renBTC Curve",
+  "address": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11957/thumb/Curvefi_renCrv_32.png?1596435739",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x49849c98ae39fff122806c06791fa73784fb3675"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "snpad",
+  "name": "SNPad",
+  "address": "0x772358ef6ed3e18BdE1263F7d229601c5fa81875",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38468/thumb/logo-snpad-200.png?1717618702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x772358ef6ed3e18bde1263f7d229601c5fa81875"
+  }
+}

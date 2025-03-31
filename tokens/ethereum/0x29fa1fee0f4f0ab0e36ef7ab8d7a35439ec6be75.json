@@ -1,0 +1,15 @@
+{
+  "symbol": "dvt",
+  "name": "SafeStake",
+  "address": "0x29FA1fee0F4F0Ab0e36eF7Ab8d7a35439eC6be75",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30016/thumb/safestake.png?1682500536",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x29fa1fee0f4f0ab0e36ef7ab8d7a35439ec6be75"
+  }
+}

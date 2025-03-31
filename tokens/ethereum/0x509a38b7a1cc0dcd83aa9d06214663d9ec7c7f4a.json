@@ -1,0 +1,15 @@
+{
+  "symbol": "bst",
+  "name": "Blocksquare",
+  "address": "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23924/thumb/XpkkqPVR_400x400.jpg?1645689021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a"
+  }
+}

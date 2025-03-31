@@ -1,0 +1,15 @@
+{
+  "symbol": "bmp",
+  "name": "BitmapPunks",
+  "address": "0xBBBB2D4d765c1e455E4896A64BA3883e914ABBBB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53387/thumb/logo_200x200.png?1736275823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbbbb2d4d765c1e455e4896a64ba3883e914abbbb"
+  }
+}

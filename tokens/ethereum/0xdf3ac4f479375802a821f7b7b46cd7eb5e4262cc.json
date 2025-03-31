@@ -1,0 +1,15 @@
+{
+  "symbol": "eusd",
+  "name": "eUSD",
+  "address": "0xdf3ac4F479375802A821f7b7b46Cd7EB5E4262cC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31603/thumb/eusd.png?1694054827",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdf3ac4f479375802a821f7b7b46cd7eb5e4262cc"
+  }
+}

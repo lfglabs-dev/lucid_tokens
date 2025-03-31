@@ -1,0 +1,15 @@
+{
+  "symbol": "fit",
+  "name": "Fit",
+  "address": "0x9B01637302B6Adfc2C82678e2A8D680CFF6337B7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30918/thumb/FIT_Token_1000.png?1688956436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b01637302b6adfc2c82678e2a8d680cff6337b7"
+  }
+}

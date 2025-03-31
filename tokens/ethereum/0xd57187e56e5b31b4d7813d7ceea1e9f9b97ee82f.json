@@ -1,0 +1,15 @@
+{
+  "symbol": "zkin",
+  "name": "zkInfra",
+  "address": "0xd57187E56e5B31B4d7813D7CEEa1E9f9b97ee82F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36517/thumb/IMG_20240327_124751_784.jpg?1711694787",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f"
+  }
+}

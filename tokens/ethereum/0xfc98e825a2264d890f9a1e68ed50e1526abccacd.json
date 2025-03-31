@@ -1,0 +1,15 @@
+{
+  "symbol": "mco2",
+  "name": "Moss Carbon Credit",
+  "address": "0xfC98e825A2264D890F9a1e68ed50E1526abCcacD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14414/thumb/ENtxnThA_400x400.jpg?1615948522",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd"
+  }
+}

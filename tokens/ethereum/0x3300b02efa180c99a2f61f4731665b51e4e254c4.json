@@ -1,0 +1,16 @@
+{
+  "symbol": "hmkr",
+  "name": "Hitmakr",
+  "address": "0x3300b02efa180c99a2F61f4731665b51e4E254C4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36660/thumb/HITMAKR_logo.png?1712042884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3300b02efa180c99a2f61f4731665b51e4e254c4",
+    "skale": "0x57a3d5faa172f5984cdcd4885fd4f0baac88e558"
+  }
+}

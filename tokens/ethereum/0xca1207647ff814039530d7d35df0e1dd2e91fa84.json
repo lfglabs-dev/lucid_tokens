@@ -1,0 +1,19 @@
+{
+  "symbol": "dht",
+  "name": "dHEDGE DAO",
+  "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12508/thumb/dht.png?1600752201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+    "optimistic-ethereum": "0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151",
+    "arbitrum-one": "0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65",
+    "polygon-pos": "0x8c92e38eca8210f4fcbf17f0951b198dd7668292",
+    "base": "0x54bc229d1cb15f8b6415efeab4290a40bc8b7d84"
+  }
+}

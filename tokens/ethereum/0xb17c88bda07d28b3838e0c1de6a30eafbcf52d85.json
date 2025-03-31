@@ -1,0 +1,15 @@
+{
+  "symbol": "shft",
+  "name": "Shyft Network",
+  "address": "0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14534/thumb/TOKEN-Gradient.png?1616768352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "fbtc",
+  "name": "Function ƒBTC",
+  "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39182/thumb/FBTC_LOGO.png?1720850455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+    "mantle": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+    "bob-network": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+    "binance-smart-chain": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+    "arbitrum-one": "0xc96de26018a54d51c097160568752c4e3bd6c364"
+  }
+}

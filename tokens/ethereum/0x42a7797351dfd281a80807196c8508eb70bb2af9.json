@@ -1,0 +1,15 @@
+{
+  "symbol": "ais",
+  "name": "AISociety",
+  "address": "0x42A7797351dFd281A80807196c8508Eb70bb2af9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32861/thumb/AIS_Symbol.png?1699669819",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42a7797351dfd281a80807196c8508eb70bb2af9"
+  }
+}

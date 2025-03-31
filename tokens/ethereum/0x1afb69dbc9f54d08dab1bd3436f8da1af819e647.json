@@ -1,0 +1,15 @@
+{
+  "symbol": "melos",
+  "name": "Melos Studio",
+  "address": "0x1afb69DBC9f54d08DAB1bD3436F8Da1af819E647",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24411/thumb/18551.png?1647558428",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1afb69dbc9f54d08dab1bd3436f8da1af819e647"
+  }
+}

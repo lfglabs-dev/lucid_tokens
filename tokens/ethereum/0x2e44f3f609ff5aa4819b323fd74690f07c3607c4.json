@@ -1,0 +1,15 @@
+{
+  "symbol": "pin",
+  "name": "PinLink",
+  "address": "0x2e44f3f609ff5aA4819B323FD74690f07C3607c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51611/thumb/200x00.png?1731616756",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2e44f3f609ff5aa4819b323fd74690f07c3607c4"
+  }
+}

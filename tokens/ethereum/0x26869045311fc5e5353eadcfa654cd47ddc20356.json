@@ -1,0 +1,15 @@
+{
+  "symbol": "$qtdao",
+  "name": "Quantum DAO",
+  "address": "0x26869045311FC5e5353EADCFA654CD47DDC20356",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39386/thumb/200x200.png?1721963420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x26869045311fc5e5353eadcfa654cd47ddc20356"
+  }
+}

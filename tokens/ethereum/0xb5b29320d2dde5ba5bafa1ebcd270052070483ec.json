@@ -1,0 +1,16 @@
+{
+  "symbol": "yieldeth",
+  "name": "YieldETH (Sommelier)",
+  "address": "0xb5b29320d2Dde5BA5BAFA1EbcD270052070483ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "kujira": "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
+    "ethereum": "0xb5b29320d2dde5ba5bafa1ebcd270052070483ec"
+  }
+}

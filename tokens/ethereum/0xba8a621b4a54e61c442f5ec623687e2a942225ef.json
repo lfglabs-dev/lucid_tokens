@@ -1,0 +1,16 @@
+{
+  "symbol": "quartz",
+  "name": "Sandclock",
+  "address": "0xbA8A621b4a54e61C442F5Ec623687e2a942225ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19368/thumb/sandclock.jpg?1635132501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "polygon-pos": "0xa91fe5a535967f52d3abebdffb3b306d964ace13"
+  }
+}

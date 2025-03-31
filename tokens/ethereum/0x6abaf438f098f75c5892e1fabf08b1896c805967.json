@@ -1,0 +1,15 @@
+{
+  "symbol": "blood",
+  "name": "Bloodboy",
+  "address": "0x6aBAf438f098F75C5892E1FABF08B1896C805967",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37279/thumb/bloodboy200x200icon.png?1713941790",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6abaf438f098f75c5892e1fabf08b1896c805967"
+  }
+}

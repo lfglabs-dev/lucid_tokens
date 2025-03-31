@@ -1,0 +1,16 @@
+{
+  "symbol": "amb",
+  "name": "AirDAO",
+  "address": "0xf4fB9BF10E489EA3Edb03E094939341399587b0C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1041/thumb/Avatar_Logo_Ambrosus.png?1644905963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf4fb9bf10e489ea3edb03e094939341399587b0c",
+    "binance-smart-chain": "0x96c7957030aa8b1fd3c6e0ee3d84c4695c6eae9c"
+  }
+}

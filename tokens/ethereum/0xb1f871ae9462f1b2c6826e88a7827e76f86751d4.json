@@ -1,0 +1,15 @@
+{
+  "symbol": "gny",
+  "name": "GNY",
+  "address": "0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5300/thumb/icon_gny.jpg?1601926183",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "kto",
+  "name": "Kounotori",
+  "address": "0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21251/thumb/KTO.png?1650528876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x616ef40d55c0d2c506f4d6873bda8090b79bf8fc"
+  }
+}

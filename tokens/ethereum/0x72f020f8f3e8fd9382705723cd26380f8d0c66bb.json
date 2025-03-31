@@ -1,0 +1,16 @@
+{
+  "symbol": "plot",
+  "name": "PlotX",
+  "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12795/thumb/PlotX.png?1611109969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+    "polygon-pos": "0xe82808eaa78339b06a691fd92e1be79671cad8d3"
+  }
+}

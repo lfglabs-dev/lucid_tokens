@@ -1,0 +1,15 @@
+{
+  "symbol": "znn",
+  "name": "Zenon",
+  "address": "0xb2e96a63479C2Edd2FD62b382c89D5CA79f572d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30753/thumb/zenon.jpg?1686747490",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb2e96a63479c2edd2fd62b382c89d5ca79f572d3"
+  }
+}

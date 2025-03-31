@@ -1,0 +1,17 @@
+{
+  "symbol": "sfp",
+  "name": "SafePal",
+  "address": "0x12e2b8033420270db2F3b328E32370Cb5B2Ca134",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13905/thumb/z_u91wou_400x400.jpg?1612798329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
+    "energi": "0x12490d720747e312be64029dfd475837ed285cfe",
+    "binance-smart-chain": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+  }
+}

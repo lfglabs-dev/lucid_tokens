@@ -1,0 +1,15 @@
+{
+  "symbol": "scalex",
+  "name": "SCALEX",
+  "address": "0xD1D2c1bC0d97880B67c504E20AE6f4fA2E03b823",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39967/thumb/SCALEX.jpeg?1724958463",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1d2c1bc0d97880b67c504e20ae6f4fa2e03b823"
+  }
+}

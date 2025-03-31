@@ -1,0 +1,15 @@
+{
+  "symbol": "mogu",
+  "name": "Mogutou",
+  "address": "0x3256CaDE5f8Cb1256AC2bd1E2D854Dec6d667bdF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38893/thumb/Mogutou.png?1719385573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3256cade5f8cb1256ac2bd1e2d854dec6d667bdf"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "factr",
+  "name": "Defactor",
+  "address": "0xe0bCEEF36F3a6eFDd5EEBFACD591423f8549B9D5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19201/thumb/jFLSu4U9_400x400.png?1650437050",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe0bceef36f3a6efdd5eebfacd591423f8549b9d5",
+    "polygon-pos": "0xe0bceef36f3a6efdd5eebfacd591423f8549b9d5",
+    "base": "0xd33c7b753ecaa85e5d5f5b5fd99dec59f26a087e"
+  }
+}

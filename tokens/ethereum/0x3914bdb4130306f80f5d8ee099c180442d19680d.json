@@ -1,0 +1,15 @@
+{
+  "symbol": "deploy",
+  "name": "Deployyyyer",
+  "address": "0x3914BDB4130306f80F5d8ee099C180442d19680D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50510/thumb/logo_200.png?1728013063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3914bdb4130306f80f5d8ee099c180442d19680d"
+  }
+}

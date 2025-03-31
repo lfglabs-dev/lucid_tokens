@@ -1,0 +1,15 @@
+{
+  "symbol": "booe",
+  "name": "Book of Ethereum",
+  "address": "0x289Ff00235D2b98b0145ff5D4435d3e92f9540a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37384/thumb/RGh5luer_400x400.jpg?1714230970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x289ff00235d2b98b0145ff5d4435d3e92f9540a6"
+  }
+}

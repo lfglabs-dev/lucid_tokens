@@ -1,0 +1,15 @@
+{
+  "symbol": "nxm",
+  "name": "Nexus Mutual",
+  "address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11810/thumb/nexus-mutual.jpg?1594547726",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
+  }
+}

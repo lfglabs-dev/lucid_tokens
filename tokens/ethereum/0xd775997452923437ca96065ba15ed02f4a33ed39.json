@@ -1,0 +1,15 @@
+{
+  "symbol": "dwif",
+  "name": "dragon wif hat",
+  "address": "0xd775997452923437ca96065bA15Ed02F4a33Ed39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36037/thumb/logo.png?1710397494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd775997452923437ca96065ba15ed02f4a33ed39"
+  }
+}

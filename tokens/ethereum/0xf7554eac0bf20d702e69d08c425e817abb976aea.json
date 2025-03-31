@@ -1,0 +1,15 @@
+{
+  "symbol": "maha",
+  "name": "Make America Healthy Again",
+  "address": "0xF7554EAC0bF20d702E69d08C425E817ABb976AeA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51449/thumb/MAHA_PFP_200.png?1731306877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf7554eac0bf20d702e69d08c425e817abb976aea"
+  }
+}

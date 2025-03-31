@@ -1,0 +1,15 @@
+{
+  "symbol": "yesp",
+  "name": "Yesports",
+  "address": "0x46ccA329970B33e1a007DD4ef0594A1cedb3E72a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29767/thumb/YESP_TOKEN.png?1681194310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x46cca329970b33e1a007dd4ef0594a1cedb3e72a"
+  }
+}

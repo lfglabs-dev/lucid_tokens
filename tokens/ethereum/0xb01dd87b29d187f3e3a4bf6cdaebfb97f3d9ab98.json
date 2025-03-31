@@ -1,0 +1,20 @@
+{
+  "symbol": "bold",
+  "name": "Liquity BOLD",
+  "address": "0xb01dd87B29d187F3E3a4Bf6cdAebfb97F3D9aB98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98",
+    "optimistic-ethereum": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+    "scroll": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+    "avalanche": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+    "arbitrum-one": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+    "base": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b"
+  }
+}

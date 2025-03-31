@@ -1,0 +1,15 @@
+{
+  "symbol": "aiepk",
+  "name": "EpiK Protocol",
+  "address": "0xac5B038058bcD0424C9c252c6487C25F032E5dDc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15188/thumb/epk.PNG?1620078400",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac5b038058bcd0424c9c252c6487c25f032e5ddc"
+  }
+}

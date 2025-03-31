@@ -1,0 +1,16 @@
+{
+  "symbol": "aleth",
+  "name": "Alchemix ETH",
+  "address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16271/thumb/uS04dyYy_400x400.jpeg?1663051098",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
+    "optimistic-ethereum": "0x3e29d3a9316dab217754d13b28646b76607c5f04"
+  }
+}

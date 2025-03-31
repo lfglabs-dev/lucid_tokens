@@ -1,0 +1,15 @@
+{
+  "symbol": "hope",
+  "name": "Hope.money",
+  "address": "0xc353Bf07405304AeaB75F4C2Fac7E88D6A68f98e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30971/thumb/HOPE.png?1689306921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc353bf07405304aeab75f4c2fac7e88d6a68f98e"
+  }
+}

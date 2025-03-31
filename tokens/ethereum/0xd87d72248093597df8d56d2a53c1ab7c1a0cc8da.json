@@ -1,0 +1,15 @@
+{
+  "symbol": "haha",
+  "name": "HAHA",
+  "address": "0xd87D72248093597df8D56d2a53C1ab7c1A0Cc8DA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30070/thumb/2.png?1683009976",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd87d72248093597df8d56d2a53c1ab7c1a0cc8da"
+  }
+}

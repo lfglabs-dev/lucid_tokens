@@ -1,0 +1,16 @@
+{
+  "symbol": "hopr",
+  "name": "HOPR",
+  "address": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14061/thumb/Shared_HOPR_logo_512px.png?1614073468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+    "xdai": "0xd057604a14982fe8d88c5fc25aac3267ea142a08"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "xnl",
+  "name": "Chronicle",
+  "address": "0x06A00715E6F92210Af9d7680B584931FAF71A833",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18413/thumb/xnl_logo.png?1633517024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06a00715e6f92210af9d7680b584931faf71a833",
+    "near-protocol": "06a00715e6f92210af9d7680b584931faf71a833.factory.bridge.near",
+    "aurora": "0x7ca1c28663b76cfde424a9494555b94846205585",
+    "binance-smart-chain": "0x5f26fa0c2ee5d3c0323d861d0c503f31ac212662"
+  }
+}

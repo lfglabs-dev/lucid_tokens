@@ -1,0 +1,15 @@
+{
+  "symbol": "toad",
+  "name": "Acid Toad",
+  "address": "0xAc1D3D7A8878E655cBb063D58E453540641f4117",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51402/thumb/Acid_Toad.png?1731085817",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac1d3d7a8878e655cbb063d58e453540641f4117"
+  }
+}

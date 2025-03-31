@@ -1,0 +1,18 @@
+{
+  "symbol": "zoo",
+  "name": "ZooCoin",
+  "address": "0x0c08638473CAfbCa3beb113616A1871F4bfaD4f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31230/thumb/zooc.jpeg?1691636263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c08638473cafbca3beb113616a1871f4bfad4f9",
+    "binance-smart-chain": "0x0226a6203e113253c5a7afad2f7c75a2e8324009",
+    "fantom": "0x90152f061f6697ab623e258aa6e8fbb177041371",
+    "polygon-pos": "0x0e62cadbaeec69b8b0f2e9d56510f925512837d2"
+  }
+}

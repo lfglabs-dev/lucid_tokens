@@ -1,0 +1,15 @@
+{
+  "symbol": "orx",
+  "name": "Ouroboros",
+  "address": "0xd536E7A9543Cf9867a580B45CEC7F748a1FE11eC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50947/thumb/OuroborosCG.png?1729585578",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd536e7a9543cf9867a580b45cec7f748a1fe11ec"
+  }
+}

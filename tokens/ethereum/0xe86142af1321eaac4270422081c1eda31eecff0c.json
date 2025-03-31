@@ -1,0 +1,16 @@
+{
+  "symbol": "yaystone",
+  "name": "Yay StakeStone Ether",
+  "address": "0xe86142af1321eaac4270422081c1EdA31eEcFf0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54279/thumb/logo_type.png?1738998748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe86142af1321eaac4270422081c1eda31eecff0c",
+    "soneium": "0x54e86315c03217b76a7466c302245fd10ebef25a"
+  }
+}

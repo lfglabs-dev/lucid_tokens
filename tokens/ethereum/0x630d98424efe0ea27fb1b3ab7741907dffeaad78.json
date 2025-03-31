@@ -1,0 +1,16 @@
+{
+  "symbol": "peak",
+  "name": "PEAKDEFI",
+  "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9626/thumb/PEAKDEFI_Logo_250x250.png?1603094772",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+    "binance-smart-chain": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
+  }
+}

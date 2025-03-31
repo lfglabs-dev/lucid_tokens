@@ -1,0 +1,15 @@
+{
+  "symbol": "vmpx",
+  "name": "VMPX",
+  "address": "0xb48Eb8368c9C6e9b0734de1Ef4ceB9f484B80b9C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb48eb8368c9c6e9b0734de1ef4ceb9f484b80b9c"
+  }
+}

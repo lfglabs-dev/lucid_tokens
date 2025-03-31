@@ -1,0 +1,16 @@
+{
+  "symbol": "fp",
+  "name": "Forgotten Playland",
+  "address": "0xEeee2A2E650697d2A8e8BC990C2f3d04203bE06f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35339/thumb/fop.jpeg?1708315779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeeee2a2e650697d2a8e8bc990c2f3d04203be06f",
+    "beam": "0xaff7314bc869ff4ab265ec7efa8e442f1d978d7a"
+  }
+}

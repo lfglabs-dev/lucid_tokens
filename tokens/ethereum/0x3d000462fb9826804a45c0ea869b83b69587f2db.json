@@ -1,0 +1,15 @@
+{
+  "symbol": "cmpt",
+  "name": "Spatial Computing",
+  "address": "0x3d000462Fb9826804a45c0EA869b83b69587F2dB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3d000462fb9826804a45c0ea869b83b69587f2db"
+  }
+}

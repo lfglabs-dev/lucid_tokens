@@ -1,0 +1,17 @@
+{
+  "symbol": "guild",
+  "name": "BlockchainSpace",
+  "address": "0x83E9F223e1edb3486F876EE888d76bFba26c475A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21271/thumb/BednjMw.png?1638857799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+    "binance-smart-chain": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+    "polygon-pos": "0xaff41da975501e5b71848c975834341777d1a473"
+  }
+}

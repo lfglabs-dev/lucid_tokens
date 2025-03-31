@@ -1,0 +1,16 @@
+{
+  "symbol": "mtd",
+  "name": "Minted",
+  "address": "0x809E130E10e787139c54e1d12d3D1971b7A675Bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26893/thumb/MTD_Token_%282%29.png?1660708482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0x0224010ba2d567ffa014222ed960d1fa43b8c8e1",
+    "ethereum": "0x809e130e10e787139c54e1d12d3d1971b7a675bf"
+  }
+}

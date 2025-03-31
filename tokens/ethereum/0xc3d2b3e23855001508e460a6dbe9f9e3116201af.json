@@ -1,0 +1,15 @@
+{
+  "symbol": "mars",
+  "name": "GATEWAY TO MARS",
+  "address": "0xc3D2B3e23855001508e460A6dbE9f9e3116201aF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34083/thumb/MARS-LOGO-BLACK-200x200.png?1703910355",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc3d2b3e23855001508e460a6dbe9f9e3116201af"
+  }
+}

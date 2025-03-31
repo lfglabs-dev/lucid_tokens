@@ -1,0 +1,15 @@
+{
+  "symbol": "hpo",
+  "name": "Hippocrat",
+  "address": "0xfE39C384D702914127a005523f9915ADDB9bd59b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4243/thumb/Webp.net-resizeimage_%2836%29.png?1547039574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe39c384d702914127a005523f9915addb9bd59b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bbl",
+  "name": "Beoble",
+  "address": "0xD979c468a68062e7bdff4Ba6DF7842DfD3492E0f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35011/thumb/beoble_200px.png?1707102471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd979c468a68062e7bdff4ba6df7842dfd3492e0f"
+  }
+}

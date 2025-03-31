@@ -1,0 +1,15 @@
+{
+  "symbol": "cvxfxs",
+  "name": "Convex FXS",
+  "address": "0xFEEf77d3f69374f66429C91d732A244f074bdf74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29001/thumb/cvxfxs.png?1675872793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfeef77d3f69374f66429c91d732a244f074bdf74"
+  }
+}

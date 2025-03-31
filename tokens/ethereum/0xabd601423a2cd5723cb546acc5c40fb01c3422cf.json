@@ -1,0 +1,15 @@
+{
+  "symbol": "babyx",
+  "name": "Baby X",
+  "address": "0xAbd601423a2cD5723CB546AcC5C40fb01C3422Cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32525/thumb/topimg.png?1698411093",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xabd601423a2cd5723cb546acc5c40fb01c3422cf"
+  }
+}

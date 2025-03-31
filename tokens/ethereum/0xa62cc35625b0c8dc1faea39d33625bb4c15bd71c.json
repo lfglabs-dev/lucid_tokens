@@ -1,0 +1,15 @@
+{
+  "symbol": "stmx",
+  "name": "StormX",
+  "address": "0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1369/thumb/StormX.png?1603113002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c"
+  }
+}

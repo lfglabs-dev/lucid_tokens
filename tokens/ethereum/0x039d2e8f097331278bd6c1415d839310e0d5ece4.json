@@ -1,0 +1,20 @@
+{
+  "symbol": "linda",
+  "name": "Linda",
+  "address": "0x039D2E8f097331278BD6c1415D839310E0D5Ece4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33699/thumb/linda-token-logo.png?1702823299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x82cc61354d78b846016b559e3ccd766fa7e793d5",
+    "ethereum": "0x039d2e8f097331278bd6c1415d839310e0d5ece4",
+    "binance-smart-chain": "0x039d2e8f097331278bd6c1415d839310e0d5ece4",
+    "avalanche": "0x039d2e8f097331278bd6c1415d839310e0d5ece4",
+    "arbitrum-one": "0x039d2e8f097331278bd6c1415d839310e0d5ece4",
+    "polygon-pos": "0x039d2e8f097331278bd6c1415d839310e0d5ece4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "bifi",
+  "name": "BiFi",
+  "address": "0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13671/thumb/ysYIu7Q.png?1610679337",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+    "fantom": "0xad260f380c9a30b1d60e4548a75010ede630b665"
+  }
+}

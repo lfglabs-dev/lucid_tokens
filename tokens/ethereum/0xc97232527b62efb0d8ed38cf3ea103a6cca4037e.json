@@ -1,0 +1,15 @@
+{
+  "symbol": "lp-ycrv",
+  "name": "LP Yearn CRV Vault",
+  "address": "0xc97232527B62eFb0D8ed38CF3EA103A6CcA4037e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27624/thumb/yearncrvlp_32.png?1664885596",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc97232527b62efb0d8ed38cf3ea103a6cca4037e"
+  }
+}

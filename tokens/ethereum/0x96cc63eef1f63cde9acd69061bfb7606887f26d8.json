@@ -1,0 +1,15 @@
+{
+  "symbol": "bvr",
+  "name": "Basketballverse",
+  "address": "0x96cc63EeF1F63CDE9ACd69061Bfb7606887f26d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50190/thumb/160x160_BVR_token.png?1726206107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96cc63eef1f63cde9acd69061bfb7606887f26d8"
+  }
+}

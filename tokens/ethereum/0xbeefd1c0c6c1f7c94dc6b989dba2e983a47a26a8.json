@@ -1,0 +1,15 @@
+{
+  "symbol": "steakusdl",
+  "name": "Steakhouse USDL Morpho Vault",
+  "address": "0xBEeFd1C0C6C1F7c94DC6b989DBA2E983A47A26A8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52412/thumb/steak-USDL.png?1733304721",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeefd1c0c6c1f7c94dc6b989dba2e983a47a26a8"
+  }
+}

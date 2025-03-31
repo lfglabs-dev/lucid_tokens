@@ -1,0 +1,16 @@
+{
+  "symbol": "goatseus",
+  "name": "Goatseus Act II",
+  "address": "0x6953Dcedb9fdFA31Fe630d3Dd1E9BCF893060260",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51539/thumb/download_%281%29.png?1731501204",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6953dcedb9fdfa31fe630d3dd1e9bcf893060260",
+    "solana": "3Gq3ogt5Su86msnQ7E2DEQyo5tkcRMVgfp8RVxmxB6R8"
+  }
+}

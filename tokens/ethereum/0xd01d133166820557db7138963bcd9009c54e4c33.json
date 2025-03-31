@@ -1,0 +1,15 @@
+{
+  "symbol": "cex",
+  "name": "ChainEx",
+  "address": "0xd01D133166820557db7138963BCD9009C54E4C33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33477/thumb/ChainEx-2.png?1702013835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd01d133166820557db7138963bcd9009c54e4c33"
+  }
+}

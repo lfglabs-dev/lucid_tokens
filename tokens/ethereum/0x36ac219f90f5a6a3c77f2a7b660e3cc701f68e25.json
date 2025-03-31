@@ -1,0 +1,15 @@
+{
+  "symbol": "xcm",
+  "name": "Coinmetro",
+  "address": "0x36ac219f90f5A6A3C77f2a7B660E3cC701f68e25",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3125/thumb/XCM_Token_Logo_.png?1646280053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25"
+  }
+}

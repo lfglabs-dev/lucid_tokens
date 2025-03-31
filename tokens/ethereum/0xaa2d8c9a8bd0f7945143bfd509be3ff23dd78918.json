@@ -1,0 +1,15 @@
+{
+  "symbol": "atnt",
+  "name": "Artizen",
+  "address": "0xAA2d8c9a8bd0F7945143bfD509bE3ff23dd78918",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27263/thumb/ATNT-symbol_200.png?1663059371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa2d8c9a8bd0f7945143bfd509be3ff23dd78918"
+  }
+}

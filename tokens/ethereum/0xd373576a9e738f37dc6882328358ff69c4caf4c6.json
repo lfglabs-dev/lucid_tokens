@@ -1,0 +1,16 @@
+{
+  "symbol": "zam",
+  "name": "Zam.io",
+  "address": "0xd373576a9e738F37Dc6882328358Ff69c4cAf4c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19522/thumb/zam.png?1635324134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbbcf57177d8752b21d080bf30a06ce20ad6333f8",
+    "ethereum": "0xd373576a9e738f37dc6882328358ff69c4caf4c6"
+  }
+}

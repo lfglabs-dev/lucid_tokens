@@ -1,0 +1,15 @@
+{
+  "symbol": "omira",
+  "name": "Omira",
+  "address": "0x06113abCeF9D163C026441b112e70c82EE1c4A79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52434/thumb/Logo200.jpeg?1733339919",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06113abcef9d163c026441b112e70c82ee1c4a79"
+  }
+}

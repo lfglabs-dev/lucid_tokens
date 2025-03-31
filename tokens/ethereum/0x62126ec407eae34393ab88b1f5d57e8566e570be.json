@@ -1,0 +1,15 @@
+{
+  "symbol": "mate",
+  "name": "Virtumate",
+  "address": "0x62126ec407eae34393ab88b1f5D57E8566E570Be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35520/thumb/IMG_9102.jpeg?1709006618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x62126ec407eae34393ab88b1f5d57e8566e570be"
+  }
+}

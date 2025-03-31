@@ -1,0 +1,15 @@
+{
+  "symbol": "pirb",
+  "name": "PIRB",
+  "address": "0x7ad16874759348F04B6B6119463D66C07aE54899",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31653/thumb/pirb_geckologo.png?1694167581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ad16874759348f04b6b6119463d66c07ae54899"
+  }
+}

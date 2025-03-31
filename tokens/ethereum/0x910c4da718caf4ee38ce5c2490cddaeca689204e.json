@@ -1,0 +1,15 @@
+{
+  "symbol": "waco",
+  "name": "Waste Digital Coin",
+  "address": "0x910c4DA718CAF4EE38cE5c2490CDDAEca689204e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19035/thumb/waco.png?1634197749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x910c4da718caf4ee38ce5c2490cddaeca689204e"
+  }
+}

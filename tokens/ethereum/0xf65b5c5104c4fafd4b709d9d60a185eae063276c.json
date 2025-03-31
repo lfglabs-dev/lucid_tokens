@@ -1,0 +1,15 @@
+{
+  "symbol": "tru",
+  "name": "Truebit Protocol",
+  "address": "0xf65B5C5104c4faFD4b709d9D60a185eAE063276c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15053/thumb/Truebit.png?1623296246",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c"
+  }
+}

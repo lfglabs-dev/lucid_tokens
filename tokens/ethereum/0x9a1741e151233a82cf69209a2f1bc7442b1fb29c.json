@@ -1,0 +1,15 @@
+{
+  "symbol": "dgi",
+  "name": "DeFi Growth Index",
+  "address": "0x9a1741E151233a82Cf69209A2F1bC7442B1fB29C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54639/thumb/Logomark_Sand_Background.png?1740815823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a1741e151233a82cf69209a2f1bc7442b1fb29c"
+  }
+}

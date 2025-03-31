@@ -1,0 +1,15 @@
+{
+  "symbol": "rtb",
+  "name": "Roundtable",
+  "address": "0x055999B83f9cADE9E3988A0f34Ef72817566800D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23715/thumb/Ni13Pg1K_400x400.jpg?1645110585",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x055999b83f9cade9e3988a0f34ef72817566800d"
+  }
+}

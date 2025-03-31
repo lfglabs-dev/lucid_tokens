@@ -1,0 +1,15 @@
+{
+  "symbol": "seai",
+  "name": "ServeFi AI",
+  "address": "0x6FcD2DB93082e85d662173a70feAf59B97860c3E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52831/thumb/servefi_logo.jpg?1734455089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6fcd2db93082e85d662173a70feaf59b97860c3e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "avent",
+  "name": "Aventa",
+  "address": "0xd9641fC2826Ecc9beBf4F3852fe4ED92a5239F02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50524/thumb/IMG_1828-ezgif.com-resize.png?1728144065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd9641fc2826ecc9bebf4f3852fe4ed92a5239f02"
+  }
+}

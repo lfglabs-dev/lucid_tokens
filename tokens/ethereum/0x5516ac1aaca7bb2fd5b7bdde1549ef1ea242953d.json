@@ -1,0 +1,15 @@
+{
+  "symbol": "detf",
+  "name": "Decentralized ETF",
+  "address": "0x5516AC1aaCa7BB2fD5b7bDDE1549Ef1Ea242953d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24232/thumb/image.jpg?1648448076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5516ac1aaca7bb2fd5b7bdde1549ef1ea242953d"
+  }
+}

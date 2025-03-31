@@ -1,0 +1,15 @@
+{
+  "symbol": "zelix",
+  "name": "ZELIX",
+  "address": "0x0257fFD7eA2eBba4aAA090C7AdBDD032A08c1F74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32453/thumb/ZELIX.jpg?1698240797",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0257ffd7ea2ebba4aaa090c7adbdd032a08c1f74"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "magic",
+  "name": "Treasure",
+  "address": "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18623/thumb/Magic.png?1635755672",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "ethereum": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a"
+  }
+}

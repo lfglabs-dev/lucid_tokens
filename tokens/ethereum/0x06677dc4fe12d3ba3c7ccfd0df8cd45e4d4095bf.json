@@ -1,0 +1,16 @@
+{
+  "symbol": "wqt",
+  "name": "Work Quest",
+  "address": "0x06677Dc4fE12d3ba3C7CCfD0dF8Cd45e4D4095bF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30040/thumb/JVAkGtGs_400x400.jpg?1682667670",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbc648cbd7b2b2c666f9f46ac5c5ce6ee77f9c407",
+    "ethereum": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf"
+  }
+}

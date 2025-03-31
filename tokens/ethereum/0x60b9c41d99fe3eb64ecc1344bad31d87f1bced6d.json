@@ -1,0 +1,17 @@
+{
+  "symbol": "stable",
+  "name": "Stable",
+  "address": "0x60b9C41d99FE3Eb64Ecc1344baD31D87f1bceD6D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31148/thumb/stable_200.png?1691031324",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8bf75bc68fd337dfd8186d731df8b3c2cb14b9e6",
+    "ethereum": "0x60b9c41d99fe3eb64ecc1344bad31d87f1bced6d",
+    "arbitrum-one": "0x666966ef3925b1c92fa355fda9722899f3e73451"
+  }
+}

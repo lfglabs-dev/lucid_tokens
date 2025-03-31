@@ -1,0 +1,15 @@
+{
+  "symbol": "vmc",
+  "name": "VMS Classic",
+  "address": "0xD0f3C49297a85C81bfE98bC0BdC966964c0E7173",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53401/thumb/VMS_LOGO_200.png?1736284240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd0f3c49297a85c81bfe98bc0bdc966964c0e7173"
+  }
+}

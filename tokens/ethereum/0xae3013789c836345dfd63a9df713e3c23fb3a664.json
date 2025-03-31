@@ -1,0 +1,15 @@
+{
+  "symbol": "geoff",
+  "name": "Geoff",
+  "address": "0xAe3013789C836345Dfd63a9DF713E3c23fB3A664",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54434/thumb/logo__%281%29.jpeg?1739706446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xae3013789c836345dfd63a9df713e3c23fb3a664"
+  }
+}

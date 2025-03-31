@@ -1,0 +1,18 @@
+{
+  "symbol": "pho.d",
+  "name": "Dinari PHO",
+  "address": "0x251530c7f24d6904A31425b9AFa24b0e1E5AAfdE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xad6a646c1b262586ef3a8b6c6304e7c9218ecac4",
+    "ethereum": "0x251530c7f24d6904a31425b9afa24b0e1e5aafde",
+    "blast": "0x93a9f06576cfe91e8c408467cd684df42ca23c23",
+    "base": "0xcc69d36075d563d010d829db7a9caa50b3487bb0"
+  }
+}

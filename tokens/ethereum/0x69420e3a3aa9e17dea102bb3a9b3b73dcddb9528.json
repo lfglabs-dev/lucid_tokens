@@ -1,0 +1,17 @@
+{
+  "symbol": "$elon",
+  "name": "Elon",
+  "address": "0x69420E3A3aa9E17Dea102Bb3a9b3B73dcDDB9528",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37515/thumb/elonlogo.png?1714630893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528",
+    "base": "0xb770fad3b3d059162a357047ddcf97fbe9fd7982",
+    "solana": "ACWJRei2VGU4tru1oxKHnfoJ3iachwpTeXfEPUNg5Tv"
+  }
+}

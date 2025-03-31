@@ -1,0 +1,15 @@
+{
+  "symbol": "diom",
+  "name": "DIOM",
+  "address": "0x8E456c9E283aaa67b2164FEae82d3E2082687d94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52364/thumb/1000001756.jpg?1733199673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e456c9e283aaa67b2164feae82d3e2082687d94"
+  }
+}

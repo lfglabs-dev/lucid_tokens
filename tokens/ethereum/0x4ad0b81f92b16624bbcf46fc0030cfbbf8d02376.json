@@ -1,0 +1,15 @@
+{
+  "symbol": "udai",
+  "name": "Unagii Dai",
+  "address": "0x4aD0b81f92B16624BBcF46FC0030cFBBf8d02376",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13782/thumb/uDAI.png?1611730113",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376"
+  }
+}

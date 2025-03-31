@@ -1,0 +1,16 @@
+{
+  "symbol": "sao",
+  "name": "Sator",
+  "address": "0x3EF389f264e07fFF3106A3926F2a166d1393086F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19410/thumb/sator-logo-CMC.png?1635211626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
+    "solana": "2HeykdKjzHKGm2LKHw8pDYwjKPiFEoXAz74dirhUgQvq"
+  }
+}

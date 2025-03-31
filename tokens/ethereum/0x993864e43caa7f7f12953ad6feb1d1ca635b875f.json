@@ -1,0 +1,16 @@
+{
+  "symbol": "sdao",
+  "name": "SingularityDAO",
+  "address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15385/thumb/singularitydao_icon_logo.png?1628255890",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+    "binance-smart-chain": "0x90ed8f1dc86388f14b64ba8fb4bbd23099f18240"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "sunc",
+  "name": "Sunrise",
+  "address": "0x692aCCdD8b86692427E0aa4752AE917Df01CC56F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17601/thumb/ticker_sunc_200_200.png?1628864229",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x692accdd8b86692427e0aa4752ae917df01cc56f"
+  }
+}

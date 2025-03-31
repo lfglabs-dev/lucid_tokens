@@ -1,0 +1,15 @@
+{
+  "symbol": "dvi",
+  "name": "Dvision Network",
+  "address": "0x10633216E7E8281e33c86F02Bf8e565a635D9770",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13020/thumb/WGAhHOLv_400x400.png?1604396086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x10633216e7e8281e33c86f02bf8e565a635d9770"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bmax",
+  "name": "BMAX",
+  "address": "0x116c4B65e14449947bC6fa1bbe844CB16A162d53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26427/thumb/BMAX_logo.png?1657929623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x116c4b65e14449947bc6fa1bbe844cb16a162d53"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "flex",
+  "name": "FLEX Coin",
+  "address": "0xFcF8eda095e37A41e002E266DaAD7efC1579bc0A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9108/thumb/coinflex_logo.png?1628750583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+    "smartbch": "0x98dd7ec28fb43b3c4c770ae532417015fa939dd3"
+  }
+}

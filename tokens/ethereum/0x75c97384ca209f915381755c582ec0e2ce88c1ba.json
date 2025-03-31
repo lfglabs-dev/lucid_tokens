@@ -1,0 +1,15 @@
+{
+  "symbol": "fine",
+  "name": "FINE",
+  "address": "0x75C97384cA209f915381755c582EC0E2cE88c1BA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31703/thumb/05220a_054ff0bb5d7c41db99db6332923ac4fd_mv2.png?1694575611",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x75c97384ca209f915381755c582ec0e2ce88c1ba"
+  }
+}

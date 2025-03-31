@@ -1,0 +1,15 @@
+{
+  "symbol": "atusd",
+  "name": "Aave TUSD",
+  "address": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14317/thumb/aTUSD.08592b49.png?1615528207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x101cc05f4a51c0319f570d5e146a8c625198e636"
+  }
+}

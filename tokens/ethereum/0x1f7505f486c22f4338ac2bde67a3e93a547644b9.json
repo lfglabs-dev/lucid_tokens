@@ -1,0 +1,15 @@
+{
+  "symbol": "cia",
+  "name": "Cat Intelligence Agency",
+  "address": "0x1F7505F486C22f4338Ac2BdE67a3e93a547644B9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34728/thumb/LaHndJY.jpeg?1705919266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f7505f486c22f4338ac2bde67a3e93a547644b9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ubsn",
+  "name": "Silent Notary",
+  "address": "0x86EFc496DcA70bcFD92D19194290e8457a375773",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1599/thumb/silent-notary.png?1548609544",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x86efc496dca70bcfd92d19194290e8457a375773"
+  }
+}

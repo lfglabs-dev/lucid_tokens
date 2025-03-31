@@ -1,0 +1,15 @@
+{
+  "symbol": "wusdn",
+  "name": "SMARDEX WRAPPED USDN",
+  "address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54043/thumb/wusdn-logo.png?1738077592",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x99999999999999cc837c997b882957dafdcb1af9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mumu",
+  "name": "Mumu",
+  "address": "0x2F573070E6090b3264Fe707e2C9F201716F123c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29921/thumb/Mumucoin-200x200.png?1682051838",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2f573070e6090b3264fe707e2c9f201716f123c7"
+  }
+}

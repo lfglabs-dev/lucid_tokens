@@ -1,0 +1,15 @@
+{
+  "symbol": "arcd",
+  "name": "Arcade",
+  "address": "0xe020B01B6fbD83066aa2e8ee0CCD1eB8d9Cc70bF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33112/thumb/IMG_6563.png?1700708371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe020b01b6fbd83066aa2e8ee0ccd1eb8d9cc70bf"
+  }
+}

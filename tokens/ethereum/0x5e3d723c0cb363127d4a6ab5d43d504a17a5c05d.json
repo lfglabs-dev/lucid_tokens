@@ -1,0 +1,15 @@
+{
+  "symbol": "erc-ai",
+  "name": "Euruka Tech",
+  "address": "0x5E3D723c0CB363127D4a6ab5D43d504A17a5c05D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53758/thumb/0B23D6E9-3239-4F57-B3B2-2085D1BF8457.jpeg?1737187205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5e3d723c0cb363127d4a6ab5d43d504a17a5c05d"
+  }
+}

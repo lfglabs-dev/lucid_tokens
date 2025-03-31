@@ -1,0 +1,15 @@
+{
+  "symbol": "steakeurcv",
+  "name": "Steakhouse EURCV Morpho Vault",
+  "address": "0xbeEF07E929F84466a591De130e4154667214F491",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52409/thumb/steakEURcv-wrapper.png?1733304439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef07e929f84466a591de130e4154667214f491"
+  }
+}

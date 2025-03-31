@@ -1,0 +1,15 @@
+{
+  "symbol": "bog",
+  "name": "Bogdanoff",
+  "address": "0x0BA74fb26Ca523f2dc22fa4318581CC2452eAbA1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30026/thumb/telegram-cloud-document-1-1809833204887060537_copia_2.png?1682582878",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ba74fb26ca523f2dc22fa4318581cc2452eaba1"
+  }
+}

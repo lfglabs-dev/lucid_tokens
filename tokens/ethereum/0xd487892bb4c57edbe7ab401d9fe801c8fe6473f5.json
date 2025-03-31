@@ -1,0 +1,15 @@
+{
+  "symbol": "hve2",
+  "name": "Uhive",
+  "address": "0xD487892BB4C57edBe7aB401d9fe801c8FE6473f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3811/thumb/hve2.png?1639045485",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd487892bb4c57edbe7ab401d9fe801c8fe6473f5"
+  }
+}

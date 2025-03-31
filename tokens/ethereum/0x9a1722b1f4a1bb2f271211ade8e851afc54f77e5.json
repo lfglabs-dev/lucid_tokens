@@ -1,0 +1,15 @@
+{
+  "symbol": "methx",
+  "name": "Eigenpie ETHx",
+  "address": "0x9a1722b1f4A1BB2F271211ade8e851aFc54F77E5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37169/thumb/mETHx.png?1713508078",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a1722b1f4a1bb2f271211ade8e851afc54f77e5"
+  }
+}

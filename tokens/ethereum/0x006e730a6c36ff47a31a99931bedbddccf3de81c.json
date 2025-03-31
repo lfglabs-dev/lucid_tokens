@@ -1,0 +1,15 @@
+{
+  "symbol": "race",
+  "name": "Race to a Billion",
+  "address": "0x006E730A6c36fF47A31A99931bEdbddccF3DE81c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54528/thumb/25952add6d22b6ed86b0b6e0-20250219030728.png?1740167945",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x006e730a6c36ff47a31a99931bedbddccf3de81c"
+  }
+}

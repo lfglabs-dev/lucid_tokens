@@ -1,0 +1,16 @@
+{
+  "symbol": "eeur",
+  "name": "ARYZE eEUR",
+  "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32421/thumb/ARYZE_eEUR.png?1698118176",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x735fa792e731a2e8f83f32eb539841b7b72e6d8f",
+    "ethereum": "0x735fa792e731a2e8f83f32eb539841b7b72e6d8f"
+  }
+}

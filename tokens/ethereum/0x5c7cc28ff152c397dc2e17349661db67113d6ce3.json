@@ -1,0 +1,15 @@
+{
+  "symbol": "vrtx",
+  "name": "VORTEX",
+  "address": "0x5c7cC28fF152C397Dc2e17349661dB67113D6CE3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54104/thumb/VORTEX_%281%29.jpg?1738265602",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c7cc28ff152c397dc2e17349661db67113d6ce3"
+  }
+}

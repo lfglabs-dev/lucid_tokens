@@ -1,0 +1,16 @@
+{
+  "symbol": "bplc",
+  "name": "BlackPearl",
+  "address": "0x426FC8BE95573230f6e6bc4af91873F0c67b21b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8931/thumb/EJIpComQ_400x400.png?1584653141",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x426fc8be95573230f6e6bc4af91873f0c67b21b4",
+    "binance-smart-chain": "0x65c8743a5a266c3512eabd34e65ade42d4355ef1"
+  }
+}

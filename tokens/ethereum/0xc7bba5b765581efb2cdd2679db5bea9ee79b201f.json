@@ -1,0 +1,15 @@
+{
+  "symbol": "gem",
+  "name": "Gems",
+  "address": "0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3945/thumb/Webp.net-resizeimage_%2817%29.jpg?1547038970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f"
+  }
+}

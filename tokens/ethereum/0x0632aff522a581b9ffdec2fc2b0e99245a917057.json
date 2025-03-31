@@ -1,0 +1,15 @@
+{
+  "symbol": "candy",
+  "name": "Andy's Cat",
+  "address": "0x0632AfF522A581B9FfdEC2fC2b0E99245A917057",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38403/thumb/1000007551.jpg?1717460653",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0632aff522a581b9ffdec2fc2b0e99245a917057"
+  }
+}

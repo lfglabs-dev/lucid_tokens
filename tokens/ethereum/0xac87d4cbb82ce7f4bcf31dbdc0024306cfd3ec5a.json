@@ -1,0 +1,16 @@
+{
+  "symbol": "kei",
+  "name": "KEI Finance",
+  "address": "0xac87d4Cbb82ce7F4bCF31dBDC0024306cfd3Ec5A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29840/thumb/200x200.png?1681718876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa06d505ec28fd9756a200d2b503a66103db98d09",
+    "ethereum": "0xac87d4cbb82ce7f4bcf31dbdc0024306cfd3ec5a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "geo",
+  "name": "GeoDB",
+  "address": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11130/thumb/geodb.png?1588941704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x147faf8de9d8d8daae129b187f0d02d819126750"
+  }
+}

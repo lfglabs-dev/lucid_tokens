@@ -1,0 +1,15 @@
+{
+  "symbol": "gas",
+  "name": "Gas DAO",
+  "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22086/thumb/SjrgK6sf_400x400.jpg?1640763291",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6bba316c48b49bd1eac44573c5c871ff02958469"
+  }
+}

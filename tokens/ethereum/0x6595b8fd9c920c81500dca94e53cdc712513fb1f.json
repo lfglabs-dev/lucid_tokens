@@ -1,0 +1,15 @@
+{
+  "symbol": "oly",
+  "name": "Olyverse",
+  "address": "0x6595b8fD9C920C81500dCa94e53Cdc712513Fb1f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13983/thumb/oly-logo.png?1613461530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "meg",
+  "name": "Meg4mint",
+  "address": "0x0eDe75B5f548E0D37F494368F4FA4982b6d0630a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31714/thumb/MEG_200px.png?1694580351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ede75b5f548e0d37f494368f4fa4982b6d0630a"
+  }
+}

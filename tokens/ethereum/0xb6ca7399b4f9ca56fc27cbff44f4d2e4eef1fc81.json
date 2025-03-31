@@ -1,0 +1,15 @@
+{
+  "symbol": "muse",
+  "name": "Muse DAO",
+  "address": "0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13230/thumb/muse_logo.png?1606460453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81"
+  }
+}

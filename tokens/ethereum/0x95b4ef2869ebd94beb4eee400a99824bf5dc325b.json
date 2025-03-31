@@ -1,0 +1,15 @@
+{
+  "symbol": "cmkr",
+  "name": "cMKR",
+  "address": "0x95b4eF2869eBD94BEb4eEE400a99824BF5DC325b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17528/thumb/cmkr.PNG?1628122490",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95b4ef2869ebd94beb4eee400a99824bf5dc325b"
+  }
+}

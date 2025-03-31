@@ -1,0 +1,20 @@
+{
+  "symbol": "order",
+  "name": "Orderly Network",
+  "address": "0xABD4C63d2616A5201454168269031355f4764337",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xabd4c63d2616a5201454168269031355f4764337",
+    "optimistic-ethereum": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+    "arbitrum-one": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+    "polygon-pos": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+    "base": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+    "solana": "ABt79MkRXUsoHuV2CVQT32YMXQhTparKFjmidQxgiQ6E"
+  }
+}

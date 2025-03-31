@@ -1,0 +1,15 @@
+{
+  "symbol": "papi",
+  "name": "PAPI (ETH)",
+  "address": "0x6dc469A3Ef387AD9619df7774388aE26439ac8D4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38443/thumb/2024-06-02_13.55.12-2_%281%29.jpg?1717552345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6dc469a3ef387ad9619df7774388ae26439ac8d4"
+  }
+}

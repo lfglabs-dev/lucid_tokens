@@ -1,0 +1,15 @@
+{
+  "symbol": "rock",
+  "name": "ROCK",
+  "address": "0x724Af984b63FD53fDEdb5dEd17063001e3Afc3e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39046/thumb/BLACK_CI_%281%29_copy.png?1720103318",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x724af984b63fd53fdedb5ded17063001e3afc3e5"
+  }
+}

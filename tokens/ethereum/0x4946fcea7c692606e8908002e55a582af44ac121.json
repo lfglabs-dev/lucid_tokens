@@ -1,0 +1,17 @@
+{
+  "symbol": "foam",
+  "name": "FOAM",
+  "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3345/thumb/K51lJQc.png?1547037959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4946fcea7c692606e8908002e55a582af44ac121",
+    "optimistic-ethereum": "0x79e6c6b6aaba4432fabacb30cc0c879d8f3e598e",
+    "base": "0x6059d0ed9368c36941514d2864fd114a84853d5a"
+  }
+}

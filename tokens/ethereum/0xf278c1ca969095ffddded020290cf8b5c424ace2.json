@@ -1,0 +1,15 @@
+{
+  "symbol": "ruff",
+  "name": "Ruff",
+  "address": "0xf278c1CA969095ffddDED020290cf8B5C424AcE2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2726/thumb/ruff.png?1548608556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf278c1ca969095ffddded020290cf8b5c424ace2"
+  }
+}

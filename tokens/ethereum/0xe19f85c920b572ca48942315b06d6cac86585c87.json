@@ -1,0 +1,15 @@
+{
+  "symbol": "pleb",
+  "name": "PLEB Token",
+  "address": "0xe19f85c920B572cA48942315B06D6cAc86585c87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29923/thumb/PLEBToken.png?1682135135",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe19f85c920b572ca48942315b06d6cac86585c87"
+  }
+}

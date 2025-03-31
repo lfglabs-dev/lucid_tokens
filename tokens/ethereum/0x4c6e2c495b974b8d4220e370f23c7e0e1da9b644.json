@@ -1,0 +1,15 @@
+{
+  "symbol": "smiley",
+  "name": "Smiley Coin",
+  "address": "0x4C6E2c495b974b8d4220E370F23c7e0e1da9b644",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30809/thumb/photo_2023-06-21_03-25-14.jpg?1687419153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c6e2c495b974b8d4220e370f23c7e0e1da9b644"
+  }
+}

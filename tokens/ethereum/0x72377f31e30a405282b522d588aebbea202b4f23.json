@@ -1,0 +1,15 @@
+{
+  "symbol": "vrn",
+  "name": "Varen",
+  "address": "0x72377f31e30a405282b522d588AEbbea202b4f23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17633/thumb/vrn.png?1636075314",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72377f31e30a405282b522d588aebbea202b4f23"
+  }
+}

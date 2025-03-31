@@ -1,0 +1,15 @@
+{
+  "symbol": "zaar",
+  "name": "Zaar",
+  "address": "0x95AC17CE4021417E25B8eDF807366fC3bE091B5E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30901/thumb/IMG_1778.png?1688619759",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95ac17ce4021417e25b8edf807366fc3be091b5e"
+  }
+}

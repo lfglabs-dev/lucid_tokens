@@ -1,0 +1,16 @@
+{
+  "symbol": "snt",
+  "name": "Status",
+  "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/779/thumb/status.png?1548610778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "energi": "0x6bb14afedc740dce4904b7a65807fe3b967f4c94"
+  }
+}

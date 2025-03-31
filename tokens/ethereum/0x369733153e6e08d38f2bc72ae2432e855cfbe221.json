@@ -1,0 +1,15 @@
+{
+  "symbol": "xalpha",
+  "name": "XALPHA.AI",
+  "address": "0x369733153E6E08d38F2BC72ae2432E855Cfbe221",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34503/thumb/d987826f-a259-4c8b-886d-a9609b39aa37.jpg?1705287151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x369733153e6e08d38f2bc72ae2432e855cfbe221"
+  }
+}

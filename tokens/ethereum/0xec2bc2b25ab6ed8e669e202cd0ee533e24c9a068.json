@@ -1,0 +1,15 @@
+{
+  "symbol": "zkex",
+  "name": "zkExchange",
+  "address": "0xec2bC2B25Ab6ED8e669E202CD0Ee533e24C9A068",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53740/thumb/IMG_4661.jpeg?1737151347",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec2bc2b25ab6ed8e669e202cd0ee533e24c9a068"
+  }
+}

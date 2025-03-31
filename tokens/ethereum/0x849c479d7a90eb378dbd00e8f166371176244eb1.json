@@ -1,0 +1,15 @@
+{
+  "symbol": "$muu",
+  "name": "MUU",
+  "address": "0x849C479D7A90Eb378dbD00E8f166371176244eb1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25620/thumb/lY8xHwF.jpg?1652857003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x849c479d7a90eb378dbd00e8f166371176244eb1"
+  }
+}

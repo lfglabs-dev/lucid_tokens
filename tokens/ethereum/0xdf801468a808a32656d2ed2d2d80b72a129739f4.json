@@ -1,0 +1,16 @@
+{
+  "symbol": "cube",
+  "name": "Somnium Space CUBEs",
+  "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10687/thumb/CUBE_icon.png?1617026861",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdf801468a808a32656d2ed2d2d80b72a129739f4",
+    "polygon-pos": "0x276c9cbaa4bdf57d7109a41e67bd09699536fa3d"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "layer",
+  "name": "UniLayer",
+  "address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12164/thumb/Unilayer.jpg?1597779313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b",
+    "harmony-shard-0": "0xe88699ad32d5a610987a3ba8519c06289549cca7",
+    "binance-smart-chain": "0xc2c23a86def9e9f5972a633b3d25f7ecbfa5e575"
+  }
+}

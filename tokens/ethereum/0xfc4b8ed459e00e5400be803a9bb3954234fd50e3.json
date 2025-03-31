@@ -1,0 +1,15 @@
+{
+  "symbol": "awbtc",
+  "name": "Aave WBTC v1",
+  "address": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11734/thumb/aWBTC.png?1593087741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc4b8ed459e00e5400be803a9bb3954234fd50e3"
+  }
+}

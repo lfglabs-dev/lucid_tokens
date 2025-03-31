@@ -1,0 +1,17 @@
+{
+  "symbol": "celr",
+  "name": "Celer Network",
+  "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4379/thumb/Celr.png?1554705437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+    "energi": "0x1833e138fadf220eb951a8590b8ba9058785ddde",
+    "arbitrum-one": "0x3a8b787f78d775aecfeea15706d4221b40f345ab"
+  }
+}

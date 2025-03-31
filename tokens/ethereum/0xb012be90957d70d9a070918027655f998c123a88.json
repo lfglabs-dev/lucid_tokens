@@ -1,0 +1,16 @@
+{
+  "symbol": "hmx",
+  "name": "Hermes DAO",
+  "address": "0xb012Be90957D70D9a070918027655F998C123a88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29283/thumb/Hermes_DAO.png?1677750686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "sora": "0x002d4e9e03f192cc33b128319a049f353db98fbf4d98f717fd0b7f66a0462142",
+    "ethereum": "0xb012be90957d70d9a070918027655f998c123a88"
+  }
+}

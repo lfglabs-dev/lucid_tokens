@@ -1,0 +1,17 @@
+{
+  "symbol": "crow",
+  "name": "CROW",
+  "address": "0x6325Cf7B3b645de6355E37e0e88F6fF0030f9e97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35968/thumb/Crow.png?1710265161",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "wemix-network": "0x770d9d14c4ae2f78dca810958c1d9b7ea4620289",
+    "ethereum": "0x6325cf7b3b645de6355e37e0e88f6ff0030f9e97",
+    "avalanche": "0xc99092c66d92dddaced9fcdd488b246923d098ef"
+  }
+}

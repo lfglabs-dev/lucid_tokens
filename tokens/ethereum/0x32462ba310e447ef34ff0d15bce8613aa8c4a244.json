@@ -1,0 +1,15 @@
+{
+  "symbol": "dhn",
+  "name": "Dohrnii",
+  "address": "0x32462bA310E447eF34FF0D15BCE8613aa8C4A244",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24966/thumb/dhn.png?1649586405",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32462ba310e447ef34ff0d15bce8613aa8c4a244"
+  }
+}

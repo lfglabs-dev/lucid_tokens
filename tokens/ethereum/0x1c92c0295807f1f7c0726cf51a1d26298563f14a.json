@@ -1,0 +1,15 @@
+{
+  "symbol": "cracer",
+  "name": "Coinracer Reloaded",
+  "address": "0x1c92c0295807F1f7C0726cf51A1D26298563F14A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35901/thumb/rnJCJjcJ_400x400.jpg?1710170518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1c92c0295807f1f7c0726cf51a1d26298563f14a"
+  }
+}

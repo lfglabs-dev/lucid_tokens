@@ -1,0 +1,15 @@
+{
+  "symbol": "ctb",
+  "name": "Content Bitcoin",
+  "address": "0x435F6a29b100123ae46A3E8Bf0541aB402949243",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53252/thumb/200x200.png?1735892352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x435f6a29b100123ae46a3e8bf0541ab402949243"
+  }
+}

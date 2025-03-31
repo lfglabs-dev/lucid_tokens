@@ -1,0 +1,15 @@
+{
+  "symbol": "inus",
+  "name": "MultiPlanetary Inus",
+  "address": "0x39207D2E2fEEF178FBdA8083914554C59D9f8c00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22648/thumb/logo.png?1644479310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x39207d2e2feef178fbda8083914554c59d9f8c00"
+  }
+}

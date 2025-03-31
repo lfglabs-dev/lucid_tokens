@@ -1,0 +1,16 @@
+{
+  "symbol": "paper",
+  "name": "Dope Wars Paper",
+  "address": "0x7aE1D57b58fA6411F32948314BadD83583eE0e8C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18166/thumb/paper_logo.png?1630859854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
+    "optimistic-ethereum": "0x00f932f0fe257456b32deda4758922e56a4f4b42"
+  }
+}

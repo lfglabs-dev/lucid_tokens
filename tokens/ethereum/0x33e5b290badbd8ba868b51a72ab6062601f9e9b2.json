@@ -1,0 +1,18 @@
+{
+  "symbol": "fbtc.d",
+  "name": "Dinari FBTC",
+  "address": "0x33E5b290bAdbD8Ba868b51a72ab6062601F9E9B2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53866/thumb/d-token-200.png?1737615424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x026fdf3024953cb2e8982bc11c67d336f37a5044",
+    "ethereum": "0x33e5b290badbd8ba868b51a72ab6062601f9e9b2",
+    "base": "0xca31298489e32041016ed95de4beea889335c5a5",
+    "blast": "0xbf26ece8626c30f6efc6518ac93a773d24e6ff83"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "oscar",
+  "name": "OSCAR",
+  "address": "0xeBb66a88cEdd12bfE3a289df6DFEe377F2963F12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50654/thumb/OscarLogo200X200.Png_%283%29cmc.Png?1728628946",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12"
+  }
+}

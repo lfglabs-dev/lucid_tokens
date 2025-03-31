@@ -1,0 +1,15 @@
+{
+  "symbol": "blocx",
+  "name": "BLOCX.",
+  "address": "0x4Ff57e25eeB7AFfbBB060e0BAd2E1759eFc8BeC4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31237/thumb/BLOCX_200x200.png?1691716080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4ff57e25eeb7affbbb060e0bad2e1759efc8bec4"
+  }
+}

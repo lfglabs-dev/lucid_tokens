@@ -1,0 +1,15 @@
+{
+  "symbol": "bbf",
+  "name": "Bubblefong",
+  "address": "0xDE075D9ADbD0240b4462F124af926452Ad0BAC91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24634/thumb/BBF-Token-200x200.png?1648460352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde075d9adbd0240b4462f124af926452ad0bac91"
+  }
+}

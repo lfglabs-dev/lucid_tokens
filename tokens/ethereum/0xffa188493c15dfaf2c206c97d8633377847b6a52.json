@@ -1,0 +1,20 @@
+{
+  "symbol": "wefi",
+  "name": "Wefi",
+  "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30540/thumb/wefi.png?1684981490",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
+    "zksync": "0x81e7186947fb59aaaaeb476a47daac60680cbbaf",
+    "linea": "0x60892e742d91d16be2cb0ffe847e85445989e30b",
+    "ethereum": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
+    "binance-smart-chain": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
+    "arbitrum-one": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "xcept",
+  "name": "XCeption",
+  "address": "0xac506C7DC601500E997caD42Ea446624ED40c743",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33298/thumb/logo_xception_200x200_-1.png?1701402623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac506c7dc601500e997cad42ea446624ed40c743"
+  }
+}

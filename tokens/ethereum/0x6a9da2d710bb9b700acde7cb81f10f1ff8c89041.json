@@ -1,0 +1,15 @@
+{
+  "symbol": "buidl-i",
+  "name": "BlackRock USD Institutional Digital Liquidity Fund - I Class",
+  "address": "0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54441/thumb/buidl.png?1739771414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a9da2d710bb9b700acde7cb81f10f1ff8c89041"
+  }
+}

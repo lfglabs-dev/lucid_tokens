@@ -1,0 +1,16 @@
+{
+  "symbol": "spay",
+  "name": "SpaceY 2025",
+  "address": "0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20499/thumb/spacey2025.PNG?1637132488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x58fad9e3c3ae54c9ba98c3f0e4bf88ab3e8cf3c5",
+    "binance-smart-chain": "0x13a637026df26f846d55acc52775377717345c06"
+  }
+}

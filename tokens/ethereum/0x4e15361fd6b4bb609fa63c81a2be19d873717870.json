@@ -1,0 +1,23 @@
+{
+  "symbol": "wftm",
+  "name": "Wrapped Fantom",
+  "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16036/thumb/Fantom.png?1622679930",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "tombchain": "0x4200000000000000000000000000000000000006",
+    "moonriver": "0xad12dab5959f30b9ff3c2d6709f53c335dc39908",
+    "harmony-shard-0": "0x39ab439897380ed10558666c4377facb0322ad48",
+    "telos": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+    "milkomeda-cardano": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+    "energi": "0xafdf614ea3e1c0d93730f6fc31f23ba30f17ecea",
+    "ethereum": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "binance-smart-chain": "0xad29abb318791d579433d831ed122afeaf29dcfe"
+  }
+}

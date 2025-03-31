@@ -1,0 +1,15 @@
+{
+  "symbol": "scotty",
+  "name": "ScottyTheAi",
+  "address": "0xc0dB17Bc219C5ca8746C29ee47862ee3Ad742F4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35052/thumb/scotty_new_logo.png?1707213209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a"
+  }
+}

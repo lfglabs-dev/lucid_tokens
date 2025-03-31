@@ -1,0 +1,15 @@
+{
+  "symbol": "milady",
+  "name": "Milady Vault (NFTX)",
+  "address": "0x227c7DF69D3ed1ae7574A1a7685fDEd90292EB48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26540/thumb/256x256.png?1658730893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48"
+  }
+}

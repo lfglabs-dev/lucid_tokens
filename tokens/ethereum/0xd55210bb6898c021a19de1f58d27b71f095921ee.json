@@ -1,0 +1,15 @@
+{
+  "symbol": "chkn",
+  "name": "Chickencoin",
+  "address": "0xD55210Bb6898C021a19de1F58d27b71f095921Ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36684/thumb/gekologo.jpg?1712070948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd55210bb6898c021a19de1f58d27b71f095921ee"
+  }
+}

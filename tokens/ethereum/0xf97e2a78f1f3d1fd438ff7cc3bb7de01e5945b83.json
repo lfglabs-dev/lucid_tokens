@@ -1,0 +1,16 @@
+{
+  "symbol": "ride",
+  "name": "holoride",
+  "address": "0xf97e2A78f1f3D1fD438ff7cC3BB7De01E5945B83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21626/thumb/RIDE_Token_Symbol_MASTER.png?1639734778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "elrond": "RIDE-7d18e9",
+    "ethereum": "0xf97e2a78f1f3d1fd438ff7cc3bb7de01e5945b83"
+  }
+}

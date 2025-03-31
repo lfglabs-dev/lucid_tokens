@@ -1,0 +1,15 @@
+{
+  "symbol": "azur",
+  "name": "Azuro Protocol",
+  "address": "0x9E6be44cC1236eEf7e1f197418592D363BedCd5A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38499/thumb/azuro.jpeg?1717727357",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9e6be44cc1236eef7e1f197418592d363bedcd5a"
+  }
+}

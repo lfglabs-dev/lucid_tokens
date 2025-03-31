@@ -1,0 +1,16 @@
+{
+  "symbol": "bbank",
+  "name": "blockbank",
+  "address": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15081/thumb/O0EZIVAu_400x400.jpg?1619656539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+    "binance-smart-chain": "0xf4b5470523ccd314c6b9da041076e7d79e0df267"
+  }
+}

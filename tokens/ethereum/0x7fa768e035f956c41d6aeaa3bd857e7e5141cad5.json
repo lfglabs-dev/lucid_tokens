@@ -1,0 +1,18 @@
+{
+  "symbol": "insteth",
+  "name": "Inception stETH",
+  "address": "0x7FA768E035F956c41d6aeaa3Bd857e7E5141CAd5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34954/thumb/Group_14.png?1706773546",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7fa768e035f956c41d6aeaa3bd857e7e5141cad5",
+    "linea": "0xd08c3f25862077056cb1b710937576af899a4959",
+    "optimistic-ethereum": "0xd08c3f25862077056cb1b710937576af899a4959",
+    "arbitrum-one": "0xd08c3f25862077056cb1b710937576af899a4959"
+  }
+}

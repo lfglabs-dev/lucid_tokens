@@ -1,0 +1,15 @@
+{
+  "symbol": "pepeg",
+  "name": "Pepe Girl",
+  "address": "0x8BCbef61ACd66537362f38167F11875134FfcD63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29896/thumb/pepe_sad_reverse_200X200.png?1681982341",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8bcbef61acd66537362f38167f11875134ffcd63"
+  }
+}

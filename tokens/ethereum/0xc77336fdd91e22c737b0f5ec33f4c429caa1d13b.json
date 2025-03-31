@@ -1,0 +1,15 @@
+{
+  "symbol": "balto",
+  "name": "BALTO",
+  "address": "0xc77336FdD91e22c737B0f5EC33f4c429Caa1D13b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51952/thumb/X_200.png?1732221678",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc77336fdd91e22c737b0f5ec33f4c429caa1d13b"
+  }
+}

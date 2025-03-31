@@ -1,0 +1,15 @@
+{
+  "symbol": "dacat",
+  "name": "daCat",
+  "address": "0x814A870726EdB7Dfc4798300ae1ce3E5Da0Ac467",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34801/thumb/200x200.png?1706075099",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x814a870726edb7dfc4798300ae1ce3e5da0ac467"
+  }
+}

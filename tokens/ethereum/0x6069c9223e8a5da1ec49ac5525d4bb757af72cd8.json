@@ -1,0 +1,15 @@
+{
+  "symbol": "musk",
+  "name": "MUSK Gold",
+  "address": "0x6069c9223e8a5DA1ec49ac5525d4BB757Af72Cd8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21696/thumb/musk-icon-200x200.png?1649329802",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8"
+  }
+}

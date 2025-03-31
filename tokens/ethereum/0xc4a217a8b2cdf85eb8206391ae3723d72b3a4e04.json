@@ -1,0 +1,18 @@
+{
+  "symbol": "bitb.d",
+  "name": "Dinari BITB",
+  "address": "0xc4a217A8b2Cdf85eB8206391ae3723d72B3A4E04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53863/thumb/d-token-200.png?1737614680",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x769ff50fd49900a6c53b2af049eacb83dad52bdf",
+    "blast": "0xa9053e91a9ea714023de577929c3e119264d80d6",
+    "ethereum": "0xc4a217a8b2cdf85eb8206391ae3723d72b3a4e04",
+    "base": "0x5ea14145f62dbf26fc7b0eb8fa8c71e1af468207"
+  }
+}

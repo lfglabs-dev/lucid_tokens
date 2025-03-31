@@ -1,0 +1,15 @@
+{
+  "symbol": "qbx",
+  "name": "QBX",
+  "address": "0x72FDc31f4a9a1EDF6B6132D3C1754F1CdcF5D9B1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52754/thumb/qbx-socials-pfp-t.png?1734192709",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72fdc31f4a9a1edf6b6132d3c1754f1cdcf5d9b1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "soon",
+  "name": "SoonVerse",
+  "address": "0x574D22E2555cAc0ce71e44778f6De2e7487aE229",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29448/thumb/1.png?1678868610",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x574d22e2555cac0ce71e44778f6de2e7487ae229"
+  }
+}

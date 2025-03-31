@@ -1,0 +1,15 @@
+{
+  "symbol": "pan",
+  "name": "Pantos",
+  "address": "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9639/thumb/Pantos-logo-compact.png?1619079883",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x536381a8628dbcc8c70ac9a30a7258442eab4c92"
+  }
+}

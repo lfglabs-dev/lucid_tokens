@@ -1,0 +1,15 @@
+{
+  "symbol": "$yield",
+  "name": "YieldStone",
+  "address": "0x8C19f7854b27758DDFfdcDC8908F22BF55e00736",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38766/thumb/CoinGecko_Logo.png?1718763237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c19f7854b27758ddffdcdc8908f22bf55e00736"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "trestle",
+  "name": "TRESTLE",
+  "address": "0xdE8CD13B812BcD82218754A740b27E76ec1e86aD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34992/thumb/PNG_-_Logo_-_3485x.png?1706943532",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde8cd13b812bcd82218754a740b27e76ec1e86ad"
+  }
+}

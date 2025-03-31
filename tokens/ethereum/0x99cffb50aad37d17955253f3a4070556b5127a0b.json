@@ -1,0 +1,15 @@
+{
+  "symbol": "mega",
+  "name": "MEGALODON",
+  "address": "0x99cFFb50aaD37D17955253F3a4070556b5127a0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33371/thumb/mega.jpg?1701620157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x99cffb50aad37d17955253f3a4070556b5127a0b"
+  }
+}

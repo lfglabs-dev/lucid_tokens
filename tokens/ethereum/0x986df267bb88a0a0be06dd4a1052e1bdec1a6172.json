@@ -1,0 +1,15 @@
+{
+  "symbol": "hq",
+  "name": "HyperQuant",
+  "address": "0x986df267Bb88A0a0be06DD4a1052E1BdEC1a6172",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39439/thumb/om93ubto_%281%29.png?1722308377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x986df267bb88a0a0be06dd4a1052e1bdec1a6172"
+  }
+}

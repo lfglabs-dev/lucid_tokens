@@ -1,0 +1,15 @@
+{
+  "symbol": "lfdog",
+  "name": "lifedog",
+  "address": "0x425087BF4969f45818c225aE30f8560cE518582e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52278/thumb/lifedog.png?1732895178",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x425087bf4969f45818c225ae30f8560ce518582e"
+  }
+}

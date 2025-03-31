@@ -1,0 +1,15 @@
+{
+  "symbol": "tara",
+  "name": "Taraxa",
+  "address": "0x2F42b7d686ca3EffC69778B6ED8493A7787b4d6E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4372/thumb/CPuCDZX.jpg?1616391360",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e"
+  }
+}

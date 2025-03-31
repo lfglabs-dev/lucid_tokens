@@ -1,0 +1,15 @@
+{
+  "symbol": "doggo",
+  "name": "Doggo Inu",
+  "address": "0x3739426e21D912B604C106f852d136bA58f61517",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50541/thumb/doggo_Inu_logo_200x200.png?1728285038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3739426e21d912b604c106f852d136ba58f61517"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "lon",
+  "name": "Tokenlon",
+  "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13454/thumb/lon_logo.png?1608701720",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0000000000095413afc295d19edeb1ad7b71c952",
+    "arbitrum-one": "0x55678cd083fcdc2947a0df635c93c838c89454a3"
+  }
+}

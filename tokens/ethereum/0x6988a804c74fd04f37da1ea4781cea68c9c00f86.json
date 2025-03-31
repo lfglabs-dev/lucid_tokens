@@ -1,0 +1,15 @@
+{
+  "symbol": "tribl",
+  "name": "Tribal Token",
+  "address": "0x6988A804C74Fd04F37DA1EA4781CEa68c9C00F86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27774/thumb/TRIBL_Logo_200x200.png?1665724961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6988a804c74fd04f37da1ea4781cea68c9c00f86"
+  }
+}

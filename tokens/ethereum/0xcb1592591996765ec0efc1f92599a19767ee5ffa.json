@@ -1,0 +1,17 @@
+{
+  "symbol": "bio",
+  "name": "Bio Protocol",
+  "address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53022/thumb/bio.jpg?1735011002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb1592591996765ec0efc1f92599a19767ee5ffa",
+    "base": "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2",
+    "solana": "bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ"
+  }
+}

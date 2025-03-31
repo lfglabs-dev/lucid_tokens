@@ -1,0 +1,17 @@
+{
+  "symbol": "rst",
+  "name": "Raini Studios Token",
+  "address": "0xBE03E60757f21f4b6fC8f16676AD9D5B1002E512",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32077/thumb/rst_200x200.png?1696333914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "beam": "0xe338aa35d844d5c1a4e052380dbfa939e0cce13f",
+    "ethereum": "0xbe03e60757f21f4b6fc8f16676ad9d5b1002e512",
+    "avalanche": "0x23675ba5d0a8075da5ba18756554e7633cea2c85"
+  }
+}

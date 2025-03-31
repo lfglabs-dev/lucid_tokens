@@ -1,0 +1,16 @@
+{
+  "symbol": "max",
+  "name": "Matr1x",
+  "address": "0xb7109df1a93f8fe2B8162c6207C9B846C1C68090",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39481/thumb/t05.png?1722465175",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb7109df1a93f8fe2b8162c6207c9b846c1c68090",
+    "polygon-pos": "0xbed0b9240bdbcc8e33f66d2ca650a5ef60a5bab0"
+  }
+}

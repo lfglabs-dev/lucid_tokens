@@ -1,0 +1,15 @@
+{
+  "symbol": "bull",
+  "name": "ETH BULL",
+  "address": "0x8C41455AAA8D6aba3150058D4964349294Bf78A3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52706/thumb/ETH_Bull_Profile_Picture_Telegram_512x512dpi.png?1734057892",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c41455aaa8d6aba3150058d4964349294bf78a3"
+  }
+}

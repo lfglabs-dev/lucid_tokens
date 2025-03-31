@@ -1,0 +1,16 @@
+{
+  "symbol": "savm",
+  "name": "SatoshiVM",
+  "address": "0x15e6E0D4ebeAC120F9a97e71FaA6a0235b85ED12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34659/thumb/SatoshiVM.jpeg?1705635248",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12",
+    "ordinals": "1ebca700d02609c7454c827d7fd0a0d988d7b62c3600f72c1bec54768980381ci0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "pen",
+  "name": "Pentagon Games",
+  "address": "0x5Ee3188A3f8aDee1D736EdD4AE85000105C88f66",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52921/thumb/icon-based-logo-cp.png?1734694881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ee3188a3f8adee1d736edd4ae85000105c88f66",
+    "arbitrum-one": "0x291a50e611035b6562a2374b8b44de70aa8d7896"
+  }
+}

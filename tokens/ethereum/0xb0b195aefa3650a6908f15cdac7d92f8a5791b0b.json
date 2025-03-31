@@ -1,0 +1,19 @@
+{
+  "symbol": "bob",
+  "name": "BOB",
+  "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27266/thumb/Bob-logo.png?1663073030",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "optimistic-ethereum": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "ethereum": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "binance-smart-chain": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "arbitrum-one": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
+  }
+}

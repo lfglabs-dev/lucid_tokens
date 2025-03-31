@@ -1,0 +1,15 @@
+{
+  "symbol": "xwbtc",
+  "name": "Leverage WBTC",
+  "address": "0x9f23562ec47249761222EF7Ac02b327a8C45Ba7D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39603/thumb/Screenshot_2024-08-07_at_7.58.00_PM-removebg-preview.png?1723065441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f23562ec47249761222ef7ac02b327a8c45ba7d"
+  }
+}

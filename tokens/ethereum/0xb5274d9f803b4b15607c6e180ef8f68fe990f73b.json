@@ -1,0 +1,15 @@
+{
+  "symbol": "$vox",
+  "name": "Neuravox",
+  "address": "0xB5274D9F803B4b15607c6E180EF8f68fE990F73b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53940/thumb/logo_vox_.png?1737785787",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb5274d9f803b4b15607c6e180ef8f68fe990f73b"
+  }
+}

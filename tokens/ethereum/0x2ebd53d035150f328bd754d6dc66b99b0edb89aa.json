@@ -1,0 +1,15 @@
+{
+  "symbol": "met",
+  "name": "Metronome",
+  "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3249/thumb/metronome.png?1548084800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2ebd53d035150f328bd754d6dc66b99b0edb89aa"
+  }
+}

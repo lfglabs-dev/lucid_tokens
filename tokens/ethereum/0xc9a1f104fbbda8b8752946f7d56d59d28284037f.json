@@ -1,0 +1,15 @@
+{
+  "symbol": "doug",
+  "name": "Doug",
+  "address": "0xC9a1f104FBbda8b8752946f7D56d59D28284037f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32639/thumb/DOUG_Logo_200x200.png?1698854273",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc9a1f104fbbda8b8752946f7d56d59d28284037f"
+  }
+}

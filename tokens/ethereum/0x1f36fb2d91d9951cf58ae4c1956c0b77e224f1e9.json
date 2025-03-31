@@ -1,0 +1,16 @@
+{
+  "symbol": "vcg",
+  "name": "VCGamers",
+  "address": "0x1F36FB2D91d9951Cf58aE4c1956C0b77e224F1E9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22371/thumb/VCG-Token-Logo-PNG.png?1643187590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1f36fb2d91d9951cf58ae4c1956c0b77e224f1e9",
+    "ethereum": "0x1f36fb2d91d9951cf58ae4c1956c0b77e224f1e9"
+  }
+}

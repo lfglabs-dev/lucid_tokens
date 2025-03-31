@@ -1,0 +1,15 @@
+{
+  "symbol": "dchf",
+  "name": "DeFi Franc",
+  "address": "0x045da4bFe02B320f4403674B3b7d121737727A36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28108/thumb/22249.png?1667544891",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x045da4bfe02b320f4403674b3b7d121737727a36"
+  }
+}

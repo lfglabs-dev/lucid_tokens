@@ -1,0 +1,16 @@
+{
+  "symbol": "newo",
+  "name": "New Order",
+  "address": "0x98585dFc8d9e7D48F0b1aE47ce33332CF4237D96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21440/thumb/new-order-icon-256px.png?1639125759",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+    "avalanche": "0x4bfc90322dd638f81f034517359bd447f8e0235a"
+  }
+}

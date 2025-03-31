@@ -1,0 +1,15 @@
+{
+  "symbol": "dew",
+  "name": "doge in a memes world",
+  "address": "0xa13eDD1A27Ab4Fb8982C033Acb082cdb5f98B79b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38390/thumb/1000027257.png?1717419113",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa13edd1a27ab4fb8982c033acb082cdb5f98b79b"
+  }
+}

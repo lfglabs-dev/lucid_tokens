@@ -1,0 +1,15 @@
+{
+  "symbol": "xnk",
+  "name": "Kinka",
+  "address": "0x722a89F1b925fE41883978219c2176AECc7D6699",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36217/thumb/kinka_logomark.png?1710838184",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x722a89f1b925fe41883978219c2176aecc7d6699"
+  }
+}

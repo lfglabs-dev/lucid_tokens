@@ -1,0 +1,17 @@
+{
+  "symbol": "enj",
+  "name": "Enjin Coin",
+  "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1102/thumb/enjin-coin-logo.png?1547035078",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "harmony-shard-0": "0xadbd41bfb4389de499535c14a8a3a12fead8f66a",
+    "energi": "0x204a90b57d15417864080df1cd6e907831c206a6"
+  }
+}

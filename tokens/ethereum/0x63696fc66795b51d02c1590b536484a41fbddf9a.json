@@ -1,0 +1,15 @@
+{
+  "symbol": "$well",
+  "name": "WELL3",
+  "address": "0x63696Fc66795B51d02c1590b536484A41fbDDF9a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39028/thumb/WELL3_Icon_for_CoinGecko_200px.png?1720020178",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x63696fc66795b51d02c1590b536484a41fbddf9a"
+  }
+}

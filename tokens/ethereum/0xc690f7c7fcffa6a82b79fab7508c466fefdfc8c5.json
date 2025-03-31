@@ -1,0 +1,15 @@
+{
+  "symbol": "lym",
+  "name": "Lympo",
+  "address": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2620/thumb/lympo_token.png?1547036775",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5"
+  }
+}

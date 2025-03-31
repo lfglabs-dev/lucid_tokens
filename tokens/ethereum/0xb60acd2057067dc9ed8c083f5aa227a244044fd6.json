@@ -1,0 +1,15 @@
+{
+  "symbol": "sttao",
+  "name": "Tensorplex Staked TAO",
+  "address": "0xB60acD2057067DC9ed8c083f5aa227a244044fD6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35330/thumb/stTAO_Logo.png?1708268881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb60acd2057067dc9ed8c083f5aa227a244044fd6"
+  }
+}

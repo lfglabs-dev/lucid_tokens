@@ -1,0 +1,15 @@
+{
+  "symbol": "nftfi",
+  "name": "NFTFI",
+  "address": "0x09D6F0F5A21f5BE4f59e209747E2d07F50BC694C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09d6f0f5a21f5be4f59e209747e2d07f50bc694c"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "gull",
+  "name": "GULL",
+  "address": "0xab5Bff303312E24dc77bB71a451343f9fEB20093",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "manta-pacific": "0x9582b518d28dc65945f8151c25e44a4e80504205",
+    "ethereum": "0xab5bff303312e24dc77bb71a451343f9feb20093"
+  }
+}

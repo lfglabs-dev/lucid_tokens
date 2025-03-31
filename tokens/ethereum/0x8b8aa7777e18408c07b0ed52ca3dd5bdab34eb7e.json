@@ -1,0 +1,15 @@
+{
+  "symbol": "pdx",
+  "name": "Paradox",
+  "address": "0x8b8aa7777E18408c07b0eD52cA3dD5bDab34Eb7E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35448/thumb/Paradox.png?1708620624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8b8aa7777e18408c07b0ed52ca3dd5bdab34eb7e"
+  }
+}

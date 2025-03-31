@@ -1,0 +1,15 @@
+{
+  "symbol": "re7usdc",
+  "name": "Re7 USDC",
+  "address": "0x60d715515d4411f7F43e4206dc5d4a3677f0eC78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51506/thumb/pngtree-usd-coin-usdc-digital-stablecoin-icon-technology-pay-web-vector-png-image_37843734.png?1731434195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60d715515d4411f7f43e4206dc5d4a3677f0ec78"
+  }
+}

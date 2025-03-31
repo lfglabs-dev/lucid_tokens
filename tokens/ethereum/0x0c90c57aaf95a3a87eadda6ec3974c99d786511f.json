@@ -1,0 +1,16 @@
+{
+  "symbol": "han",
+  "name": "HanChain",
+  "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27374/thumb/logo_200.png?1663732819",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c90c57aaf95a3a87eadda6ec3974c99d786511f",
+    "optimistic-ethereum": "0x50bce64397c75488465253c0a034b8097fea6578"
+  }
+}

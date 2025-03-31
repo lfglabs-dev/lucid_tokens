@@ -1,0 +1,15 @@
+{
+  "symbol": "dx",
+  "name": "DxChain",
+  "address": "0x973e52691176d36453868D9d86572788d27041A9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4700/thumb/VdZwy0Pv_400x400.png?1603089728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x973e52691176d36453868d9d86572788d27041a9"
+  }
+}

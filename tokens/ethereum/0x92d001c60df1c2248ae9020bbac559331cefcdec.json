@@ -1,0 +1,15 @@
+{
+  "symbol": "pochita",
+  "name": "Pochita",
+  "address": "0x92d001C60df1C2248aE9020BBAC559331CefCdec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50687/thumb/20241011_212314.png?1728777657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x92d001c60df1c2248ae9020bbac559331cefcdec"
+  }
+}

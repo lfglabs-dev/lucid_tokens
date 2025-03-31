@@ -1,0 +1,15 @@
+{
+  "symbol": "black",
+  "name": "BlackHole Protocol",
+  "address": "0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15124/thumb/blackhole.PNG?1620094580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2"
+  }
+}

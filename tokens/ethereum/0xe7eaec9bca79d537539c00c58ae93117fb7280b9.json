@@ -1,0 +1,15 @@
+{
+  "symbol": "dogep",
+  "name": "Doge Protocol",
+  "address": "0xE7eaec9Bca79d537539C00C58Ae93117fB7280b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23689/thumb/LjhKBldd_400x400.png?1645079751",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe7eaec9bca79d537539c00c58ae93117fb7280b9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "xvg",
+  "name": "Verge (ETH)",
+  "address": "0x85614A474dBeED440d5BBDB8aC50b0f22367F997",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32585/thumb/Verge_symbol_RGB.png?1698564509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x85614a474dbeed440d5bbdb8ac50b0f22367f997"
+  }
+}

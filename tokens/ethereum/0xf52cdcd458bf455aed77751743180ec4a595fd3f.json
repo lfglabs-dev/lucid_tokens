@@ -1,0 +1,15 @@
+{
+  "symbol": "idlesusdyield",
+  "name": "IdleSUSD (Yield)",
+  "address": "0xF52CDcD458bf455aeD77751743180eC4A595Fd3F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11934/thumb/idlesusdv3mmaxyield_32.png?1596263703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf52cdcd458bf455aed77751743180ec4a595fd3f"
+  }
+}

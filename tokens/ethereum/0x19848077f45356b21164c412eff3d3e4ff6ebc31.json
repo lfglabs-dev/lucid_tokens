@@ -1,0 +1,15 @@
+{
+  "symbol": "spike",
+  "name": "Spike",
+  "address": "0x19848077f45356b21164c412Eff3D3E4ff6Ebc31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38609/thumb/SPIKE.jpg?1718101548",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x19848077f45356b21164c412eff3d3e4ff6ebc31"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dogc",
+  "name": "DogeClub",
+  "address": "0xda8263d8ce3F726233f8b5585bcb86a3120a58B6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30733/thumb/200*200.png?1686650076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda8263d8ce3f726233f8b5585bcb86a3120a58b6"
+  }
+}

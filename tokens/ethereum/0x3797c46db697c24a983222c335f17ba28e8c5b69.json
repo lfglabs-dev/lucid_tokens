@@ -1,0 +1,16 @@
+{
+  "symbol": "umint",
+  "name": "UBS USD Money Market Investment Fund Token",
+  "address": "0x3797C46db697c24a983222c335F17Ba28e8c5b69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51913/thumb/DigiFT_logo-02-01.png?1732177768",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "",
+    "ethereum": "0x3797c46db697c24a983222c335f17ba28e8c5b69"
+  }
+}

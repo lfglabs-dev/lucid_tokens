@@ -1,0 +1,15 @@
+{
+  "symbol": "strdy",
+  "name": "Sturdy",
+  "address": "0xaeB3607eC434454ceB308f5Cd540875efb54309A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30581/thumb/SF-Dark-Logomark.png?1685417067",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaeb3607ec434454ceb308f5cd540875efb54309a"
+  }
+}

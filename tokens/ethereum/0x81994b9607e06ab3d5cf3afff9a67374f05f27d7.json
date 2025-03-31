@@ -1,0 +1,15 @@
+{
+  "symbol": "fusdt",
+  "name": "Flux USDT",
+  "address": "0x81994b9607e06ab3d5cF3AffF9a67374f05F27d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29581/thumb/fUSDT-320.png?1679813769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x81994b9607e06ab3d5cf3afff9a67374f05f27d7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "jpgd",
+  "name": "JPEG'd",
+  "address": "0xCE722f60F35C37aB295adc4E6bA45bCC7ca89Dd6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35303/thumb/jpgd.jpeg?1708095973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xce722f60f35c37ab295adc4e6ba45bcc7ca89dd6"
+  }
+}

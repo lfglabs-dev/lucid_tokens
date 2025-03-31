@@ -1,0 +1,15 @@
+{
+  "symbol": "stealth",
+  "name": "Stealth AI",
+  "address": "0xE27f31B020F95F90F0DB2AE0A5FAe3b505dF7A3e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52684/thumb/Stealth_AI_pfp_Twitter.png?1734028385",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe27f31b020f95f90f0db2ae0a5fae3b505df7a3e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "grok2.0",
+  "name": "Grok2.0",
+  "address": "0x87D907568A0761Ea45D2917E324557920668f224",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32942/thumb/G2C_200px.jpeg?1699874312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x87d907568a0761ea45d2917e324557920668f224"
+  }
+}

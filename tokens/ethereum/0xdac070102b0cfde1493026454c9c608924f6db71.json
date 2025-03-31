@@ -1,0 +1,15 @@
+{
+  "symbol": "popg",
+  "name": "POPG",
+  "address": "0xDaC070102b0CFDe1493026454c9C608924f6db71",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54752/thumb/logo_200x200.png?1741337502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdac070102b0cfde1493026454c9c608924f6db71"
+  }
+}

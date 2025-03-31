@@ -1,0 +1,15 @@
+{
+  "symbol": "ctcn",
+  "name": "Contracoin",
+  "address": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10801/thumb/Contracoin-symbol.png?1583881685",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8"
+  }
+}

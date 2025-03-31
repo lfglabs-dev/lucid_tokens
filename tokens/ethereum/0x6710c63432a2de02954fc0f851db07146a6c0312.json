@@ -1,0 +1,15 @@
+{
+  "symbol": "mfg",
+  "name": "Smart MFG",
+  "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1842/thumb/Smart_MFG_Cropped_Logo.png?1621422155",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6710c63432a2de02954fc0f851db07146a6c0312"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "nrdc",
+  "name": "Nordic Ai",
+  "address": "0x1EB7bd905855c483dB19F53C8c4d42Db42A159Fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36793/thumb/NordicAI_logo_%281%29.png?1712421635",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1eb7bd905855c483db19f53c8c4d42db42a159fc"
+  }
+}

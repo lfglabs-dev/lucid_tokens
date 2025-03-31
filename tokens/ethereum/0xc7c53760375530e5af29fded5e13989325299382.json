@@ -1,0 +1,15 @@
+{
+  "symbol": "wpc",
+  "name": "WORLD PEACE COIN",
+  "address": "0xC7C53760375530E5AF29Fded5E13989325299382",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32331/thumb/image01_%282%29_2.jpg?1697452381",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc7c53760375530e5af29fded5e13989325299382"
+  }
+}

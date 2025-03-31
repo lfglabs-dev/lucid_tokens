@@ -1,0 +1,16 @@
+{
+  "symbol": "kns",
+  "name": "Kenshi",
+  "address": "0xf1264873436A0771E440E2b28072FAfcC5EEBd01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30759/thumb/kenshi.jpg?1686834886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf1264873436a0771e440e2b28072fafcc5eebd01",
+    "ethereum": "0xf1264873436a0771e440e2b28072fafcc5eebd01"
+  }
+}

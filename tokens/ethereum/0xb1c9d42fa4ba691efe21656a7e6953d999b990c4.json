@@ -1,0 +1,15 @@
+{
+  "symbol": "kang",
+  "name": "Kangamoon",
+  "address": "0xB1c9D42FA4bA691eFe21656A7e6953d999B990c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37950/thumb/PIX._LOGO.png?1716055245",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb1c9d42fa4ba691efe21656a7e6953d999b990c4"
+  }
+}

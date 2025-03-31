@@ -1,0 +1,15 @@
+{
+  "symbol": "ocw",
+  "name": "OctopusWallet",
+  "address": "0x26c75c7d815efe6bF5a6decd17d20D1fdad96A08",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36095/thumb/200x200.png?1710481847",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x26c75c7d815efe6bf5a6decd17d20d1fdad96a08"
+  }
+}

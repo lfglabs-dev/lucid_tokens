@@ -1,0 +1,15 @@
+{
+  "symbol": "lvm",
+  "name": "LakeViewMeta",
+  "address": "0x5BB15141bb6DeF6d2BafeED8ff84BF889c0C573B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27097/thumb/200x200logo.png?1661999646",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5bb15141bb6def6d2bafeed8ff84bf889c0c573b"
+  }
+}

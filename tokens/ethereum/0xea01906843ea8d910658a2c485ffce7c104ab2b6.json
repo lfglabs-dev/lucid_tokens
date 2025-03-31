@@ -1,0 +1,15 @@
+{
+  "symbol": "qto",
+  "name": "Qtoken",
+  "address": "0xEA01906843Ea8D910658a2c485ffCe7C104AB2b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26024/thumb/8QyOrTCm_400x400.jpg?1655332588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea01906843ea8d910658a2c485ffce7c104ab2b6"
+  }
+}

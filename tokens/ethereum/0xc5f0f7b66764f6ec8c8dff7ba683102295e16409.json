@@ -1,0 +1,18 @@
+{
+  "symbol": "fdusd",
+  "name": "First Digital USD",
+  "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31079/thumb/firstfigital.jpeg?1690347713",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "sui": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+    "binance-smart-chain": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "solana": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "tru",
+  "name": "TrueFi",
+  "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13180/thumb/truefi_glyph_color.png?1617610941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+  }
+}

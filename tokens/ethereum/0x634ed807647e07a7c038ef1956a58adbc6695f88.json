@@ -1,0 +1,15 @@
+{
+  "symbol": "shezusd",
+  "name": "ShezmuUSD",
+  "address": "0x634Ed807647e07a7C038EF1956a58ADbc6695F88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39541/thumb/shezUSD.png?1722842027",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x634ed807647e07a7c038ef1956a58adbc6695f88"
+  }
+}

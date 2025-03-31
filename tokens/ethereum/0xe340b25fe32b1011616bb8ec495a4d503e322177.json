@@ -1,0 +1,15 @@
+{
+  "symbol": "aammunidaiusdc",
+  "name": "Aave AMM UniDAIUSDC",
+  "address": "0xE340B25fE32B1011616bb8EC495A4d503e322177",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17218/thumb/aAmmUniDAIUSDC.png?1626878648",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe340b25fe32b1011616bb8ec495a4d503e322177"
+  }
+}

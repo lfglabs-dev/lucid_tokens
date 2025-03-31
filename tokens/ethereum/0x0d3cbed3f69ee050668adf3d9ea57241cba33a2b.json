@@ -1,0 +1,15 @@
+{
+  "symbol": "pda",
+  "name": "PlayDapp",
+  "address": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14316/thumb/54023228.png?1615366911",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d3cbed3f69ee050668adf3d9ea57241cba33a2b"
+  }
+}

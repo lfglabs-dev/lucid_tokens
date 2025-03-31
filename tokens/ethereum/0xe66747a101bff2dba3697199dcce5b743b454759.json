@@ -1,0 +1,15 @@
+{
+  "symbol": "gt",
+  "name": "Gate",
+  "address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8183/thumb/gt.png?1556085624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe66747a101bff2dba3697199dcce5b743b454759"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "apxeth",
+  "name": "Dinero apxETH",
+  "address": "0x9Ba021B0a9b958B5E75cE9f6dff97C7eE52cb3E6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33609/thumb/apxETH-icon-transbg_72dpi.png?1702512027",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ba021b0a9b958b5e75ce9f6dff97c7ee52cb3e6"
+  }
+}

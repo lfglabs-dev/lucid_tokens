@@ -1,0 +1,16 @@
+{
+  "symbol": "hmt",
+  "name": "HUMAN Protocol",
+  "address": "0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16412/thumb/human_protocol.PNG?1623971316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867",
+    "polygon-pos": "0xc748b2a084f8efc47e086ccddd9b7e67aeb571bf"
+  }
+}

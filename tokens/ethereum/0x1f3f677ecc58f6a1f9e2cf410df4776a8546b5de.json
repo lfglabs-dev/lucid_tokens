@@ -1,0 +1,18 @@
+{
+  "symbol": "vndc",
+  "name": "VNDC",
+  "address": "0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9670/thumb/vndc-gold-coin.png?1571032826",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "onus": "0xc1d3a18c32c42d5c033c2d4bfc151db8fd2c9d81",
+    "kardiachain": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+    "ethereum": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
+    "binance-smart-chain": "0xdde5b33a56f3f1c22e5a6bd8429e6ad508bff24e"
+  }
+}

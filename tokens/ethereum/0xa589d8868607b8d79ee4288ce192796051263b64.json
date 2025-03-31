@@ -1,0 +1,15 @@
+{
+  "symbol": "tate",
+  "name": "TATE",
+  "address": "0xa589d8868607b8d79eE4288ce192796051263b64",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30034/thumb/Tate_logo_Coingecko.png?1682645481",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa589d8868607b8d79ee4288ce192796051263b64"
+  }
+}

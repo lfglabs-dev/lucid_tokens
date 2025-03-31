@@ -1,0 +1,17 @@
+{
+  "symbol": "stzeta",
+  "name": "Accumulated Finance Staked ZETA",
+  "address": "0xf38FEEdb0c85c1e1D6864c7513Ac646d28bb0Cfc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51117/thumb/stzeta.png?1730118280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zetachain": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
+    "ethereum": "0xf38feedb0c85c1e1d6864c7513ac646d28bb0cfc",
+    "binance-smart-chain": "0xcf123d8638266629fb02fc415ad47bd47de01a6b"
+  }
+}

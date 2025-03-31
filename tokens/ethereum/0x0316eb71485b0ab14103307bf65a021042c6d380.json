@@ -1,0 +1,16 @@
+{
+  "symbol": "hbtc",
+  "name": "Huobi BTC",
+  "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12407/thumb/Unknown-5.png?1599624896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+    "huobi-token": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea"
+  }
+}

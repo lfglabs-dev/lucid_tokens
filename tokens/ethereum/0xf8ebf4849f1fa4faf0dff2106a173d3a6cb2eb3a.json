@@ -1,0 +1,15 @@
+{
+  "symbol": "troll",
+  "name": "Troll",
+  "address": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29897/thumb/TROLL.jpeg?1681983038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf8ebf4849f1fa4faf0dff2106a173d3a6cb2eb3a"
+  }
+}

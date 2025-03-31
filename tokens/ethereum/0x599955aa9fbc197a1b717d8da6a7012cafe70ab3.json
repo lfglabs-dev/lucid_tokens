@@ -1,0 +1,15 @@
+{
+  "symbol": "bope",
+  "name": "Book of Pepe",
+  "address": "0x599955AA9fBc197a1b717d8da6a7012CAFe70ab3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36314/thumb/1240A08A-6ABE-4913-9B52-05EC784212B7.jpeg?1711092031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x599955aa9fbc197a1b717d8da6a7012cafe70ab3"
+  }
+}

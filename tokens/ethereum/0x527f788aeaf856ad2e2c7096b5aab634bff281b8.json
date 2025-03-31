@@ -1,0 +1,15 @@
+{
+  "symbol": "mua",
+  "name": "MUA DAO",
+  "address": "0x527F788aEaf856ad2E2c7096b5aAB634BFF281b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50662/thumb/mua.jpg?1728653935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x527f788aeaf856ad2e2c7096b5aab634bff281b8"
+  }
+}

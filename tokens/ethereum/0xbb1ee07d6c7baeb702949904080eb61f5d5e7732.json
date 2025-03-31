@@ -1,0 +1,15 @@
+{
+  "symbol": "dinu",
+  "name": "Dogey-Inu",
+  "address": "0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16374/thumb/512x512_dinu_logo.jpg?1623919813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732"
+  }
+}

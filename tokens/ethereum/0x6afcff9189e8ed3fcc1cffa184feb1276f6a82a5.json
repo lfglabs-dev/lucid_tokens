@@ -1,0 +1,16 @@
+{
+  "symbol": "pets",
+  "name": "PolkaPet World",
+  "address": "0x6afCFF9189e8ed3fCc1CFfa184FEB1276f6A82A5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19409/thumb/pets_polka.PNG?1635211453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5",
+    "moonriver": "0x1e0f2a75be02c025bd84177765f89200c04337da"
+  }
+}

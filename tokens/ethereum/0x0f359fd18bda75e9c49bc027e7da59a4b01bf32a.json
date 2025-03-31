@@ -1,0 +1,15 @@
+{
+  "symbol": "reusdc",
+  "name": "Relend USDC",
+  "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52077/thumb/Relend_Network_Primary_Logo.png?1732525950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a"
+  }
+}

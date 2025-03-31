@@ -1,0 +1,15 @@
+{
+  "symbol": "hsc",
+  "name": "HashCoin",
+  "address": "0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4989/thumb/hashfuture-logo.png?1531741876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2bba3cf6de6058cc1b4457ce00deb359e2703d7f"
+  }
+}

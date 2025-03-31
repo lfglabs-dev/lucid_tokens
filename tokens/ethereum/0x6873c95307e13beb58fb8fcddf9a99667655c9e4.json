@@ -1,0 +1,15 @@
+{
+  "symbol": "zkgun",
+  "name": "zkGUN",
+  "address": "0x6873C95307e13bEB58Fb8FCdDf9a99667655c9e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38492/thumb/pFlA_a6-_400x400.jpg?1717688716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6873c95307e13beb58fb8fcddf9a99667655c9e4"
+  }
+}

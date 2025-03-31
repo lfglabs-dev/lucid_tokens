@@ -1,0 +1,15 @@
+{
+  "symbol": "doggy",
+  "name": "DOGGY COIN",
+  "address": "0x09d92c109b475Dd513292C76544B4E250dA13faA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38168/thumb/200x200_%281%29.png?1716701882",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09d92c109b475dd513292c76544b4e250da13faa"
+  }
+}

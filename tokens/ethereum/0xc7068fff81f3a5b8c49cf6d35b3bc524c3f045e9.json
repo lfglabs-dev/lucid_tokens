@@ -1,0 +1,15 @@
+{
+  "symbol": "$myst",
+  "name": "MYST",
+  "address": "0xC7068FFf81F3a5B8C49CF6d35B3Bc524c3f045e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52954/thumb/IMG_2230.jpeg?1734796848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc7068fff81f3a5b8c49cf6d35b3bc524c3f045e9"
+  }
+}

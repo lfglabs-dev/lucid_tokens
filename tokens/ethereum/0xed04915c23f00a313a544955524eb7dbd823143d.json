@@ -1,0 +1,16 @@
+{
+  "symbol": "ach",
+  "name": "Alchemy Pay",
+  "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed04915c23f00a313a544955524eb7dbd823143d",
+    "binance-smart-chain": "0xbc7d6b50616989655afd682fb42743507003056d"
+  }
+}

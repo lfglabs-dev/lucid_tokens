@@ -1,0 +1,15 @@
+{
+  "symbol": "btse",
+  "name": "BTSE Token",
+  "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10807/thumb/BTSE_logo_Square.jpeg?1583965964",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x666d875c600aa06ac1cf15641361dec3b00432ef"
+  }
+}

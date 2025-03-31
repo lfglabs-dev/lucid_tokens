@@ -1,0 +1,15 @@
+{
+  "symbol": "xls",
+  "name": "ELIS",
+  "address": "0x6c862f803fF42A97D4A483AB761256ad8c90f4F8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13613/thumb/Elis-Symbol-Green.png?1610285892",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c862f803ff42a97d4a483ab761256ad8c90f4f8"
+  }
+}

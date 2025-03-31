@@ -1,0 +1,18 @@
+{
+  "symbol": "hapi",
+  "name": "HAPI",
+  "address": "0xD9c2D319Cd7e6177336b0a9c93c21cb48d84Fb54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14298/thumb/R9i2HjAL_400x400.jpg?1615332438",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+    "near-protocol": "d9c2d319cd7e6177336b0a9c93c21cb48d84fb54.factory.bridge.near",
+    "binance-smart-chain": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+    "solana": "6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm"
+  }
+}

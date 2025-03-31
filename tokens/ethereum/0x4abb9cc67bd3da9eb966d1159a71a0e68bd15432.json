@@ -1,0 +1,16 @@
+{
+  "symbol": "kel",
+  "name": "KelVPN",
+  "address": "0x4ABB9cC67BD3da9Eb966d1159A71a0e68BD15432",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14851/thumb/logokelvpn200x200.png?1618797379",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432",
+    "binance-smart-chain": "0x4e1b16ef22935a575a6811d4616f98c4077e4408"
+  }
+}

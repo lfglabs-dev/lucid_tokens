@@ -1,0 +1,15 @@
+{
+  "symbol": "artx",
+  "name": "ARTX",
+  "address": "0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14652/thumb/logo_black_cmc.png?1617556500",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x741b0428efdf4372a8df6fb54b018db5e5ab7710"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wfca",
+  "name": "World Friendship Cash",
+  "address": "0xae4533189C7281501F04bA4b7c37e3ADeD402902",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31997/thumb/wfca.jpg?1695970084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xae4533189c7281501f04ba4b7c37e3aded402902"
+  }
+}

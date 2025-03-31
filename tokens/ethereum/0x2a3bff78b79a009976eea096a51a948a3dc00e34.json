@@ -1,0 +1,15 @@
+{
+  "symbol": "wild",
+  "name": "Wilder World",
+  "address": "0x2a3bFF78B79A009976EeA096a51A948a3dC00e34",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15407/thumb/WWLogo_Gradient_Cirlce.png?1620743969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2a3bff78b79a009976eea096a51a948a3dc00e34"
+  }
+}

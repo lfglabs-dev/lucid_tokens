@@ -1,0 +1,15 @@
+{
+  "symbol": "lnex",
+  "name": "Lunex Network",
+  "address": "0x6d3C9269BD1Bc9426798a752EcEBbD749E5eDaA8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50442/thumb/IMG_20240924_111415_429.jpg?1727769595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d3c9269bd1bc9426798a752ecebbd749e5edaa8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "audai",
+  "name": "AuditAI",
+  "address": "0xA26B04B41162b0d7c2e1e2f9a33B752E28304a49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53235/thumb/AuditAI.jpg?1735811417",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa26b04b41162b0d7c2e1e2f9a33b752e28304a49"
+  }
+}

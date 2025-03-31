@@ -1,0 +1,15 @@
+{
+  "symbol": "scriv",
+  "name": "SCRIV",
+  "address": "0xD76050f75627e508fa14b84036fbF40b8cC549BD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5684/thumb/Al7TZrAN_400x400.jpg?1547041554",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd76050f75627e508fa14b84036fbf40b8cc549bd"
+  }
+}

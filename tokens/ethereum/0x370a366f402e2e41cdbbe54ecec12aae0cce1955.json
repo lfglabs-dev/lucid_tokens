@@ -1,0 +1,15 @@
+{
+  "symbol": "$toad",
+  "name": "Toad Killer",
+  "address": "0x370a366f402e2e41CDBbE54EcEC12aaE0cce1955",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30234/thumb/toad_icon200.png?1683644900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x370a366f402e2e41cdbbe54ecec12aae0cce1955"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "web",
+  "name": "Web",
+  "address": "0x2b81945875f892afF04AF0A298d35FB2cF848c7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32957/thumb/WEB300.jpg?1699971838",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2b81945875f892aff04af0a298d35fb2cf848c7b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dgcs",
+  "name": "Aktionariat Green Consensus AG Tokenized Shares",
+  "address": "0x4E1A609eC87cF6477613F515F6eB64eF2D31089a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33372/thumb/GCS.png?1701648529",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e1a609ec87cf6477613f515f6eb64ef2d31089a"
+  }
+}

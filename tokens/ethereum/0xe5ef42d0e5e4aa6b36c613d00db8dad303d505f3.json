@@ -1,0 +1,15 @@
+{
+  "symbol": "msot",
+  "name": "BTour Chain",
+  "address": "0xe5eF42D0E5E4Aa6B36c613d00Db8dad303d505F3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13141/thumb/BTour_Icon.png?1605595523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5ef42d0e5e4aa6b36c613d00db8dad303d505f3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "kron",
+  "name": "Kronos Bot",
+  "address": "0x37f5ac1B0c1a07d19270983D6889C181a0A3d6F7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51838/thumb/Main_Logo.png?1732045567",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x37f5ac1b0c1a07d19270983d6889c181a0a3d6f7"
+  }
+}

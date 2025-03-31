@@ -1,0 +1,15 @@
+{
+  "symbol": "jest",
+  "name": "Jester",
+  "address": "0xA4Bc2B90743294E5E6fd3321A9A131947f7785dB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39549/thumb/jester-token-DARK-200px.png?1722892159",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa4bc2b90743294e5e6fd3321a9a131947f7785db"
+  }
+}

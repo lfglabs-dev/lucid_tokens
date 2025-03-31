@@ -1,0 +1,15 @@
+{
+  "symbol": "tcp",
+  "name": "The Crypto Prophecies",
+  "address": "0x06576eB3B212d605B797dC15523d9Dc9F4F66DB4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15054/thumb/tcp.PNG?1619579195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4"
+  }
+}

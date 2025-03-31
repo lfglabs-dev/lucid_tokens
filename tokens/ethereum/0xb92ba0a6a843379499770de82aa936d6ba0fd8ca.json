@@ -1,0 +1,17 @@
+{
+  "symbol": "you",
+  "name": "Youwho",
+  "address": "0xb92ba0A6a843379499770dE82Aa936d6bA0fd8CA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25353/thumb/youwho_200.png?1651312259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb583961e033dfe0fff161952f7ba21c411b6103d",
+    "ethereum": "0xb92ba0a6a843379499770de82aa936d6ba0fd8ca",
+    "arbitrum-one": "0x2fac624899a844e0628bfdcc70efcd25f6e90b95"
+  }
+}

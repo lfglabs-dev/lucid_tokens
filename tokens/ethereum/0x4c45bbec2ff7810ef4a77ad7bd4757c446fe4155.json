@@ -1,0 +1,15 @@
+{
+  "symbol": "jngl",
+  "name": "Jungle Labz",
+  "address": "0x4C45bbEc2fF7810ef4a77ad7BD4757C446Fe4155",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31742/thumb/Jungle.png?1694671625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c45bbec2ff7810ef4a77ad7bd4757c446fe4155"
+  }
+}

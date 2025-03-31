@@ -1,0 +1,15 @@
+{
+  "symbol": "booh",
+  "name": "Booh World (ETH)",
+  "address": "0xC18B4C1e0b4d4d0F1e9627F25399F5073079Ac3D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51632/thumb/BOOH_COIN_-_LOGO_%2815%29_%284%29.png?1731685555",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc18b4c1e0b4d4d0f1e9627f25399f5073079ac3d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bxx",
+  "name": "Baanx",
+  "address": "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17108/thumb/BXX_Token_logo.png?1626311836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6b1a8f210ec6b7b6643cea3583fb0c079f367898"
+  }
+}

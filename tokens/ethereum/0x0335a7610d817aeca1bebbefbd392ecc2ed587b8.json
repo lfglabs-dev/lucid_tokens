@@ -1,0 +1,16 @@
+{
+  "symbol": "nitro",
+  "name": "Nitro League",
+  "address": "0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21668/thumb/_X6vYBDM_400x400.jpg?1639705848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0335a7610d817aeca1bebbefbd392ecc2ed587b8",
+    "polygon-pos": "0x695fc8b80f344411f34bdbcb4e621aa69ada384b"
+  }
+}

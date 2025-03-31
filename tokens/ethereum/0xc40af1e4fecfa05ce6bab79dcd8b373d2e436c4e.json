@@ -1,0 +1,16 @@
+{
+  "symbol": "$hokk",
+  "name": "Hokkaidu Inu",
+  "address": "0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34890/thumb/photo_2024-01-29_10-03-33.jpg?1706541503",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e",
+    "base": "0xd857af86a2c5b4f46fc7cb8032bd4f5625577eeb"
+  }
+}

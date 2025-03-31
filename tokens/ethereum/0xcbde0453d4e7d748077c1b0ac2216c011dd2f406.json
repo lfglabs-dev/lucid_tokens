@@ -1,0 +1,15 @@
+{
+  "symbol": "terminus",
+  "name": "Terminus",
+  "address": "0xCBdE0453d4E7D748077c1b0Ac2216C011DD2f406",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50307/thumb/terminus.jpg?1727057343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcbde0453d4e7d748077c1b0ac2216c011dd2f406"
+  }
+}

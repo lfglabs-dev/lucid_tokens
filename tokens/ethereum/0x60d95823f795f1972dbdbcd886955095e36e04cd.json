@@ -1,0 +1,15 @@
+{
+  "symbol": "genie",
+  "name": "GENIE AI",
+  "address": "0x60d95823F795F1972dBDbcd886955095E36E04Cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53037/thumb/Genie-AIPFP_%281%29.png?1735073052",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60d95823f795f1972dbdbcd886955095e36e04cd"
+  }
+}

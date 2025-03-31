@@ -1,0 +1,15 @@
+{
+  "symbol": "fwsteth",
+  "name": "Fluid Wrapped Staked ETH",
+  "address": "0x2411802D8BEA09be0aF8fD8D08314a63e706b29C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38032/thumb/fwsteth.png?1716322853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2411802d8bea09be0af8fd8d08314a63e706b29c"
+  }
+}

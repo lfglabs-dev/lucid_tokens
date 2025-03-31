@@ -1,0 +1,15 @@
+{
+  "symbol": "wruni",
+  "name": "Wrapped RUNI",
+  "address": "0xEC56840be7C495CBf98c0157B458cD207Ff85Da1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39066/thumb/wruni.jpeg?1720171780",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec56840be7c495cbf98c0157b458cd207ff85da1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "node",
+  "name": "Nodez",
+  "address": "0x3B24ED67481A80609AF2F8913A45Da2049547CfD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50428/thumb/Nodez.png?1727693104",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3b24ed67481a80609af2f8913a45da2049547cfd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "chikun",
+  "name": "Arise Chikun",
+  "address": "0x9A7703338730b82A803ba050dF55f9B3959f3fB2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31043/thumb/WJyGMMxM_400x400.jpg?1689857335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a7703338730b82a803ba050df55f9b3959f3fb2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "sudo",
+  "name": "sudoswap",
+  "address": "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27151/thumb/sudo.png?1662105271",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9"
+  }
+}

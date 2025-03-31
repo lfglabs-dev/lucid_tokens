@@ -1,0 +1,18 @@
+{
+  "symbol": "jeur",
+  "name": "Jarvis Synthetic Euro",
+  "address": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15725/thumb/jEUR.png?1634046044",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+    "xdai": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
+    "binance-smart-chain": "0x23b8683ff98f9e4781552dfe6f12aa32814924e8",
+    "polygon-pos": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c"
+  }
+}

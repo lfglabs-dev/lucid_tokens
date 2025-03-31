@@ -1,0 +1,15 @@
+{
+  "symbol": "bgpt",
+  "name": "BlockGPT",
+  "address": "0x089729b0786C8803cff972c16e402f3344d079eA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30872/thumb/blockgpt_logo_transp_%281%29.png?1688374596",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x089729b0786c8803cff972c16e402f3344d079ea"
+  }
+}

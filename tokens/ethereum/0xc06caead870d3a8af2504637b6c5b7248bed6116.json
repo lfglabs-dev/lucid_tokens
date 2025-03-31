@@ -1,0 +1,15 @@
+{
+  "symbol": "business",
+  "name": "Business Coin",
+  "address": "0xc06caEAd870d3a8AF2504637B6C5b7248BEd6116",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52061/thumb/bsinesslogo.jpg?1732457220",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc06caead870d3a8af2504637b6c5b7248bed6116"
+  }
+}

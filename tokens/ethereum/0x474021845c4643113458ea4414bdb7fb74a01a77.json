@@ -1,0 +1,16 @@
+{
+  "symbol": "uno",
+  "name": "Lunos",
+  "address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15073/thumb/c0vbqVE.png?1632814516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+    "binance-smart-chain": "0x474021845c4643113458ea4414bdb7fb74a01a77"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "clev",
+  "name": "CLever",
+  "address": "0x72953a5C32413614d24C29c84a66AE4B59581Bbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27727/thumb/%E6%88%AA%E5%B1%8F2022-10-12_%E4%B8%8A%E5%8D%8810.40.19.png?1665550689",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72953a5c32413614d24c29c84a66ae4b59581bbf"
+  }
+}

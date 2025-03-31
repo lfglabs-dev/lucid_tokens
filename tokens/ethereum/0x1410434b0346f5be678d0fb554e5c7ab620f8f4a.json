@@ -1,0 +1,15 @@
+{
+  "symbol": "kan",
+  "name": "BitKan",
+  "address": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4651/thumb/kan-token.png?1547039917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a"
+  }
+}

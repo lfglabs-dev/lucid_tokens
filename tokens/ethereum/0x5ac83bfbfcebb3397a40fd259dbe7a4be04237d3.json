@@ -1,0 +1,15 @@
+{
+  "symbol": "lbt",
+  "name": "Lyfebloc",
+  "address": "0x5AC83BfbFcebb3397A40fD259dBE7a4bE04237d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30021/thumb/LBT_Token.png?1682565005",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ac83bfbfcebb3397a40fd259dbe7a4be04237d3"
+  }
+}

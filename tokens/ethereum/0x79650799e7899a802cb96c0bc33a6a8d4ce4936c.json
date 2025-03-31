@@ -1,0 +1,15 @@
+{
+  "symbol": "ait",
+  "name": "AICHAIN",
+  "address": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2525/thumb/aichain.png?1547036638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x79650799e7899a802cb96c0bc33a6a8d4ce4936c"
+  }
+}

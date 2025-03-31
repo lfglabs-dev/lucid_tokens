@@ -1,0 +1,15 @@
+{
+  "symbol": "gol",
+  "name": "GogolCoin",
+  "address": "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14824/thumb/GOL.png?1618559300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x083d41d6dd21ee938f0c055ca4fb12268df0efac"
+  }
+}

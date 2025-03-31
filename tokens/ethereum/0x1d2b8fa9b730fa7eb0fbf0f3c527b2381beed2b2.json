@@ -1,0 +1,15 @@
+{
+  "symbol": "qmind",
+  "name": "QMind",
+  "address": "0x1D2B8fA9b730Fa7Eb0FBF0f3c527b2381BeED2b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52861/thumb/1000001991.jpg?1734541985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1d2b8fa9b730fa7eb0fbf0f3c527b2381beed2b2"
+  }
+}

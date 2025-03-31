@@ -1,0 +1,15 @@
+{
+  "symbol": "cwt",
+  "name": "CoinW",
+  "address": "0x901eA3606D567f9F1e964639D5CBb8659080Be8A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31999/thumb/cwt_%281%29.jpeg?1695983799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x901ea3606d567f9f1e964639d5cbb8659080be8a"
+  }
+}

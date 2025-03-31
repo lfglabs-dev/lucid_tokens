@@ -1,0 +1,16 @@
+{
+  "symbol": "cp",
+  "name": "Cookies Protocol",
+  "address": "0x5BDC32663Ec75E85ff4abc2CAe7ae8B606A2CFCa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28432/thumb/IMG_20221207_200805_897.jpg?1670556204",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf9d3d8b25b95bcda979025b74fdfa7ac3f380f9f",
+    "ethereum": "0x5bdc32663ec75e85ff4abc2cae7ae8b606a2cfca"
+  }
+}

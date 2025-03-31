@@ -1,0 +1,15 @@
+{
+  "symbol": "herb",
+  "name": "Herbalist",
+  "address": "0x04A020325024F130988782bd5276e53595e8d16E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6892/thumb/herbalist-token-twitter.png?1547043247",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x04a020325024f130988782bd5276e53595e8d16e"
+  }
+}

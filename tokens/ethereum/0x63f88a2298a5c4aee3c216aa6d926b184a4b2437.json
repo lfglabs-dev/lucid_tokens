@@ -1,0 +1,16 @@
+{
+  "symbol": "game",
+  "name": "GameCredits",
+  "address": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/193/thumb/XlQmXoU.png?1595304945",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+    "polygon-pos": "0x8d1566569d5b695d44a9a234540f68d393cdc40d"
+  }
+}

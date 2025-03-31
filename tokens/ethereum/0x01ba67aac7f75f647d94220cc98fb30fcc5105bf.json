@@ -1,0 +1,17 @@
+{
+  "symbol": "lyra",
+  "name": "Lyra Finance",
+  "address": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21490/thumb/Add-a-heading-26.png?1639364177",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+    "optimistic-ethereum": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+    "arbitrum-one": "0x079504b86d38119f859c4194765029f692b7b7aa"
+  }
+}

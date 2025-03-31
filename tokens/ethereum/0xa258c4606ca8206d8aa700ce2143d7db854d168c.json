@@ -1,0 +1,15 @@
+{
+  "symbol": "yvweth",
+  "name": "WETH yVault",
+  "address": "0xa258C4606Ca8206D8aA700cE2143D7db854D168c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28793/thumb/yvWETH-128-0xa258C4606Ca8206D8aA700cE2143D7db854D168c.png?1674225513",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa258c4606ca8206d8aa700ce2143d7db854d168c"
+  }
+}

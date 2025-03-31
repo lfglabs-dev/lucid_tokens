@@ -1,0 +1,15 @@
+{
+  "symbol": "hbt",
+  "name": "HyperBC",
+  "address": "0x32fd949E1953b21b7a8232EF4259Cd708B4e0847",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32003/thumb/hbt_%281%29.png?1695986676",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32fd949e1953b21b7a8232ef4259cd708b4e0847"
+  }
+}

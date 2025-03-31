@@ -1,0 +1,16 @@
+{
+  "symbol": "xtk",
+  "name": "xToken",
+  "address": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14089/thumb/xtk_logo.png?1650508832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
+    "arbitrum-one": "0xf0a5717ec0883ee56438932b0fe4a20822735fba"
+  }
+}

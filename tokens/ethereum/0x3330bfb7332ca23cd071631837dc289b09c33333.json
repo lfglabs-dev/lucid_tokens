@@ -1,0 +1,16 @@
+{
+  "symbol": "rbc",
+  "name": "Rubic",
+  "address": "0x3330BFb7332cA23cd071631837dC289B09C33333",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12629/thumb/200x200.png?1607952509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3330bfb7332ca23cd071631837dc289b09c33333",
+    "arbitrum-one": "0x10aaed289a7b1b0155bf4b86c862f297e84465e0"
+  }
+}

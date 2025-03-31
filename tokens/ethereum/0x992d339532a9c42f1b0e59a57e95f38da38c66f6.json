@@ -1,0 +1,15 @@
+{
+  "symbol": "soul",
+  "name": "Soulsaver",
+  "address": "0x992D339532A9C42F1b0E59A57e95F38da38c66F6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27494/thumb/SOUL_LOGO.png?1664268950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x992d339532a9c42f1b0e59a57e95f38da38c66f6"
+  }
+}

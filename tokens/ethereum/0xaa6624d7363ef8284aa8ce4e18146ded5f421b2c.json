@@ -1,0 +1,15 @@
+{
+  "symbol": "0dog",
+  "name": "Bitcoin Dogs",
+  "address": "0xAA6624D7363Ef8284aA8ce4e18146dEd5f421b2c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39840/thumb/0DOG.png?1724288227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa6624d7363ef8284aa8ce4e18146ded5f421b2c"
+  }
+}

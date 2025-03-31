@@ -1,0 +1,15 @@
+{
+  "symbol": "nexis",
+  "name": "Nexis Tools",
+  "address": "0x7ca9403Ba20aC9E649C8dBa53f920663540985a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51451/thumb/photo_5872768573963879411_x.png?1731309881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ca9403ba20ac9e649c8dba53f920663540985a9"
+  }
+}

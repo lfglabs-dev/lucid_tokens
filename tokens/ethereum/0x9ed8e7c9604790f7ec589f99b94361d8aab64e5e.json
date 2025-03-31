@@ -1,0 +1,16 @@
+{
+  "symbol": "unistake",
+  "name": "Unistake",
+  "address": "0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12813/thumb/unistake.png?1612346684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e",
+    "harmony-shard-0": "0x1ec56f91d61f2c2cb1af0a2b9bb8d7984f0a6626"
+  }
+}

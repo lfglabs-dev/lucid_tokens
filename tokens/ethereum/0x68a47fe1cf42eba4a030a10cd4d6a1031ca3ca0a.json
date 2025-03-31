@@ -1,0 +1,15 @@
+{
+  "symbol": "tet",
+  "name": "Tectum",
+  "address": "0x68A47Fe1CF42eBa4a030a10CD4D6a1031Ca3CA0a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29575/thumb/Icon_TET.png?1679740721",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a"
+  }
+}

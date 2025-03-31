@@ -1,0 +1,15 @@
+{
+  "symbol": "mist",
+  "name": "Alchemist",
+  "address": "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14655/thumb/79158662.png?1617589045",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "algt",
+  "name": "AlgoTrade",
+  "address": "0xcb39637e7C03c2AC25405adb8d95035f2668b0d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52296/thumb/Vector_%281%29.png?1733041383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb39637e7c03c2ac25405adb8d95035f2668b0d6"
+  }
+}

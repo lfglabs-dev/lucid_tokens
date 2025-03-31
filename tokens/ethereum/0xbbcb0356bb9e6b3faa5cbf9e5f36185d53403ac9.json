@@ -1,0 +1,21 @@
+{
+  "symbol": "bcoin",
+  "name": "Backed Coinbase Global",
+  "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31872/thumb/b-COIN-200x200.png?1695351481",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
+    "xdai": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
+    "ethereum": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
+    "binance-smart-chain": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
+    "avalanche": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
+    "arbitrum-one": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
+    "base": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9"
+  }
+}

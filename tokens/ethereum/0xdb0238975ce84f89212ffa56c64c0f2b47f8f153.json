@@ -1,0 +1,15 @@
+{
+  "symbol": "$flork",
+  "name": "Flork",
+  "address": "0xDB0238975Ce84f89212FFA56C64C0f2b47F8f153",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38978/thumb/200x200-transparent.png?1719801167",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb0238975ce84f89212ffa56c64c0f2b47f8f153"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "badger",
+  "name": "Badger",
+  "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13287/thumb/badger_dao_logo.jpg?1607054976",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+    "xdai": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
+    "harmony-shard-0": "0x06b19a0ce12dc71f1c7a6dd39e8983e089c40e0d",
+    "energi": "0x32e6842a6ea6a913687885ac856c2493b5b12f6f",
+    "fantom": "0x753fbc5800a8c8e3fb6dc6415810d627a387dfc9",
+    "arbitrum-one": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e"
+  }
+}

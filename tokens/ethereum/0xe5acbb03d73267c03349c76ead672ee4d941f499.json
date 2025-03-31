@@ -1,0 +1,15 @@
+{
+  "symbol": "beam",
+  "name": "BEAM",
+  "address": "0xE5AcBB03D73267c03349c76EaD672Ee4d941F499",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7339/thumb/BEAM.png?1558013729",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5acbb03d73267c03349c76ead672ee4d941f499"
+  }
+}

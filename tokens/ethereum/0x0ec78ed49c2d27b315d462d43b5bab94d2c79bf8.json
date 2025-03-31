@@ -1,0 +1,15 @@
+{
+  "symbol": "meow",
+  "name": "MEOW",
+  "address": "0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21530/thumb/UlyJW87D_400x400.jpg?1639384115",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8"
+  }
+}

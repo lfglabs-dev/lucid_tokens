@@ -1,0 +1,15 @@
+{
+  "symbol": "cydx",
+  "name": "CyberDEX",
+  "address": "0xA0084063Ea01D5F09E56EF3fF6232A9e18B0BACD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39335/thumb/cydx_logo_transparent.png?1721797034",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0084063ea01d5f09e56ef3ff6232a9e18b0bacd"
+  }
+}

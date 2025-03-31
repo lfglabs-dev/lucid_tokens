@@ -1,0 +1,15 @@
+{
+  "symbol": "dfx",
+  "name": "CoinDesk DeFi Select Index",
+  "address": "0x188D12Eb13a5Eadd0867074ce8354B1AD6f4790b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54604/thumb/2e9cc244-ba69-4965-930b-226c2829c6b6.jpg?1740639795",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x188d12eb13a5eadd0867074ce8354b1ad6f4790b"
+  }
+}

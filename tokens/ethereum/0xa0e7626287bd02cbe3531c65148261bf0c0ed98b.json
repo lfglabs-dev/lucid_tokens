@@ -1,0 +1,15 @@
+{
+  "symbol": "sgt",
+  "name": "Shill Guard Token",
+  "address": "0xa0e7626287Bd02Cbe3531C65148261Bf0c0Ed98b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33176/thumb/SHILL_GUARD_TOKEN_SGT_LOGO.png?1700923841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0e7626287bd02cbe3531c65148261bf0c0ed98b"
+  }
+}

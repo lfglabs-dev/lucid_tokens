@@ -1,0 +1,15 @@
+{
+  "symbol": "pe",
+  "name": "PE",
+  "address": "0xbD32bEC7C76D28aA054Fc0C907D601b9263E22c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38438/thumb/IMG_9474.png?1717538836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbd32bec7c76d28aa054fc0c907d601b9263e22c7"
+  }
+}

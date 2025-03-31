@@ -1,0 +1,15 @@
+{
+  "symbol": "kermit",
+  "name": "Kermit",
+  "address": "0x53250B5DFA8C911547aFeAf18DB025024C8E919A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29858/thumb/Kermit.png?1681867984",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x53250b5dfa8c911547afeaf18db025024c8e919a"
+  }
+}

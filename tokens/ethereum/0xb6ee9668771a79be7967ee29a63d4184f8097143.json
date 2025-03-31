@@ -1,0 +1,16 @@
+{
+  "symbol": "cxo",
+  "name": "CargoX",
+  "address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2580/thumb/cargox.png?1547738832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
+    "polygon-pos": "0xf2ae0038696774d65e67892c9d301c5f2cbbda58"
+  }
+}

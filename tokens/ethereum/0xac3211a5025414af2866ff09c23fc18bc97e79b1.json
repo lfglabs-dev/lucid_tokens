@@ -1,0 +1,16 @@
+{
+  "symbol": "dov",
+  "name": "Dovu [OLD]",
+  "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1072/thumb/Dovu_Earth_72x72_leaf_blue.png?1615259361",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+    "binance-smart-chain": "0xc9457161320210d22f0d0d5fc1309acb383d4609"
+  }
+}

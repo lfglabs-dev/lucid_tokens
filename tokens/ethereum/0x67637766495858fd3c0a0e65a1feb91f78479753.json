@@ -1,0 +1,18 @@
+{
+  "symbol": "ba.d",
+  "name": "Dinari BA",
+  "address": "0x67637766495858fd3C0a0e65A1FEB91F78479753",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54038/thumb/d-token-200.png?1738075918",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6b8ba11c987795fe11fe23f15e1f3d0f3e4e0bba",
+    "ethereum": "0x67637766495858fd3c0a0e65a1feb91f78479753",
+    "blast": "0x00d7dd69a18e346cb5050ebff7529c11a57cac7f",
+    "base": "0x8a2a4899316f302a05006ee6d2998afa26f96253"
+  }
+}

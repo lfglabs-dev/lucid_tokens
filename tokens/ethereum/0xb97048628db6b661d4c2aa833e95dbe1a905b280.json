@@ -1,0 +1,15 @@
+{
+  "symbol": "pay",
+  "name": "TenX",
+  "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/775/thumb/TenX-Icon-CircleBlack.png?1553766360",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb97048628db6b661d4c2aa833e95dbe1a905b280"
+  }
+}

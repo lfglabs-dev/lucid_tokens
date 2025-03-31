@@ -1,0 +1,15 @@
+{
+  "symbol": "ctc",
+  "name": "Creditcoin",
+  "address": "0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10569/thumb/ctc.png?1644650695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419"
+  }
+}

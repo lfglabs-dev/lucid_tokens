@@ -1,0 +1,15 @@
+{
+  "symbol": "squid",
+  "name": "Squid Game",
+  "address": "0x561Cf9121E89926c27FA1cfC78dFcC4C422937a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33074/thumb/photo_2023-11-17_14.18.23.jpeg?1700542677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x561cf9121e89926c27fa1cfc78dfcc4c422937a4"
+  }
+}

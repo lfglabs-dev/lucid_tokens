@@ -1,0 +1,15 @@
+{
+  "symbol": "keep",
+  "name": "Keep Finance",
+  "address": "0xBf40440703A3F7092b2e73c2F7868727275DBbda",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35699/thumb/Keep-icon-200*200.png?1709550148",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf40440703a3f7092b2e73c2f7868727275dbbda"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "srk",
+  "name": "SparkPoint",
+  "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8371/thumb/SRK.png?1614675526",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
+    "harmony-shard-0": "0x9500a1fbef7014dbd384633fd20bb1e6916d6fca"
+  }
+}

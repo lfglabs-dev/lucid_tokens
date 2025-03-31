@@ -1,0 +1,16 @@
+{
+  "symbol": "ccv2",
+  "name": "CryptoCart V2",
+  "address": "0x612E1726435fE38dD49A0B35b4065B56f49c8F11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15210/thumb/DP7-T6rox-400x400_%281%29.png?1638928576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x612e1726435fe38dd49a0b35b4065b56f49c8f11",
+    "binance-smart-chain": "0x612e1726435fe38dd49a0b35b4065b56f49c8f11"
+  }
+}

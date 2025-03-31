@@ -1,0 +1,15 @@
+{
+  "symbol": "legion",
+  "name": "Legion",
+  "address": "0xb2a25f7D864636E44Bc1Bf7a316897652Bf07463",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38762/thumb/IMQc9NyH_400x400.jpg?1718749785",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb2a25f7d864636e44bc1bf7a316897652bf07463"
+  }
+}

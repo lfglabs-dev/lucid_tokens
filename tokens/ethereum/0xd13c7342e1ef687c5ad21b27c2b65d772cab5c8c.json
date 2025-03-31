@@ -1,0 +1,15 @@
+{
+  "symbol": "uos",
+  "name": "Ultra",
+  "address": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4480/thumb/Ultra.png?1563356418",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c"
+  }
+}

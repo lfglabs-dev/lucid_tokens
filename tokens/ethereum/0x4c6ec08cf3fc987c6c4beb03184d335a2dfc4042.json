@@ -1,0 +1,16 @@
+{
+  "symbol": "paint",
+  "name": "MurAll",
+  "address": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14103/thumb/paint_logo_200x200.png?1614325640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042",
+    "polygon-pos": "0x7c28f627ea3aec8b882b51eb1935f66e5b875714"
+  }
+}

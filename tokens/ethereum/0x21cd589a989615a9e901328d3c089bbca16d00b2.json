@@ -1,0 +1,15 @@
+{
+  "symbol": "xmoney",
+  "name": "X Money",
+  "address": "0x21cD589a989615A9e901328D3c089bbca16d00b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53341/thumb/9nIPZq-f_400x400.jpg?1736154641",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x21cd589a989615a9e901328d3c089bbca16d00b2"
+  }
+}

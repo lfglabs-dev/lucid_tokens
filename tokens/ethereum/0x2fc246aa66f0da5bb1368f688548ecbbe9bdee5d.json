@@ -1,0 +1,15 @@
+{
+  "symbol": "temco",
+  "name": "TEMCO",
+  "address": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6210/thumb/bSZ7HUuS_400x400.jpg?1549002381",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
+  }
+}

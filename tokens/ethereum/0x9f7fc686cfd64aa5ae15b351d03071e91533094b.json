@@ -1,0 +1,16 @@
+{
+  "symbol": "trace",
+  "name": "Trace Network Labs",
+  "address": "0x9F7fC686CfD64aA5Ae15b351d03071e91533094b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23266/thumb/93mryokp_400x400.png?1643413792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b",
+    "polygon-pos": "0x4287f07cbe6954f9f0decd91d0705c926d8d03a4"
+  }
+}

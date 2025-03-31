@@ -1,0 +1,15 @@
+{
+  "symbol": "mxnt",
+  "name": "Mexican Peso Tether",
+  "address": "0xed03Ed872159e199065401b6d0D487d78d9464AA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26087/thumb/MXNT_green.jpg?1655772424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed03ed872159e199065401b6d0d487d78d9464aa"
+  }
+}

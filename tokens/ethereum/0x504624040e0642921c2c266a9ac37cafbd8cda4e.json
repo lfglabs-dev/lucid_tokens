@@ -1,0 +1,15 @@
+{
+  "symbol": "love",
+  "name": "Love Power Coin",
+  "address": "0x504624040e0642921C2c266a9aC37CafBd8cDa4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37561/thumb/LOVE.jpg?1714874439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x504624040e0642921c2c266a9ac37cafbd8cda4e"
+  }
+}

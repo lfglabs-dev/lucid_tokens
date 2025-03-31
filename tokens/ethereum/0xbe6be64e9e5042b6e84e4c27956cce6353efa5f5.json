@@ -1,0 +1,15 @@
+{
+  "symbol": "beg",
+  "name": "Beg",
+  "address": "0xbe6bE64e9E5042B6e84E4c27956cCE6353efa5f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32799/thumb/beg100px.png?1699446876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe6be64e9e5042b6e84e4c27956cce6353efa5f5"
+  }
+}

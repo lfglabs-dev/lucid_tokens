@@ -1,0 +1,15 @@
+{
+  "symbol": "aidi",
+  "name": "Aidi Finance",
+  "address": "0xE3e24b4eA87935e15bbE99A24E9AcE9998e4614d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29675/thumb/aidi_finance.png?1680580501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe3e24b4ea87935e15bbe99a24e9ace9998e4614d"
+  }
+}

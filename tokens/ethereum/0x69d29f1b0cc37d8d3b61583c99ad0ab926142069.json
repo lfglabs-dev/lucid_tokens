@@ -1,0 +1,15 @@
+{
+  "symbol": "ǝԁǝԁ",
+  "name": "Pepe Inverted",
+  "address": "0x69D29F1b0cC37d8d3B61583c99Ad0ab926142069",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31948/thumb/photo_2023-09-25_14-05-49.jpg?1695726196",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69d29f1b0cc37d8d3b61583c99ad0ab926142069"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bvm",
+  "name": "BVM",
+  "address": "0x069d89974f4edaBde69450f9cF5CF7D8Cbd2568D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35938/thumb/twitter-pfp.png?1710232498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x069d89974f4edabde69450f9cf5cf7d8cbd2568d"
+  }
+}

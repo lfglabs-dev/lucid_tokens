@@ -1,0 +1,16 @@
+{
+  "symbol": "party",
+  "name": "Maximus Pool Party",
+  "address": "0x4581AF35199BBde87a89941220e04E27ce4b0099",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35369/thumb/Party.png?1708401334",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4581af35199bbde87a89941220e04e27ce4b0099",
+    "pulsechain": "0x4581af35199bbde87a89941220e04e27ce4b0099"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cvx",
+  "name": "Convex Finance",
+  "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15585/thumb/convex.png?1621256328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ti",
+  "name": "Titanium22",
+  "address": "0xC5170Dd7386247CDB8c48545C803F5D0E3347022",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31197/thumb/TI-AVATAR-1.jpg?1691147697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5170dd7386247cdb8c48545c803f5d0e3347022"
+  }
+}

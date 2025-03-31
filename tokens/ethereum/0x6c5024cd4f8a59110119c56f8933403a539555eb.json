@@ -1,0 +1,15 @@
+{
+  "symbol": "asusd",
+  "name": "Aave SUSD",
+  "address": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14266/thumb/aSUSD.9b00ffc6.png?1615528241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c5024cd4f8a59110119c56f8933403a539555eb"
+  }
+}

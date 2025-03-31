@@ -1,0 +1,15 @@
+{
+  "symbol": "morra",
+  "name": "Morra",
+  "address": "0xd9ADfB67381D392C6e9671F64cDD9014BFcD74F2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33180/thumb/CGicon.png?1700924946",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd9adfb67381d392c6e9671f64cdd9014bfcd74f2"
+  }
+}

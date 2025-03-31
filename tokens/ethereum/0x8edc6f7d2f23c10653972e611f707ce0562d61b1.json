@@ -1,0 +1,15 @@
+{
+  "symbol": "mdx",
+  "name": "MultiDEX AI",
+  "address": "0x8eDc6F7d2F23C10653972E611f707ce0562d61B1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35403/thumb/Multidex.jpg?1708499023",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8edc6f7d2f23c10653972e611f707ce0562d61b1"
+  }
+}

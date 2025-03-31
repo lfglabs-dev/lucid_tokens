@@ -1,0 +1,15 @@
+{
+  "symbol": "catalorian",
+  "name": "Catalorian",
+  "address": "0x8bAF5d75CaE25c7dF6d1E0d26C52d19Ee848301a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50257/thumb/Catalorian.png?1726723515",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8baf5d75cae25c7df6d1e0d26c52d19ee848301a"
+  }
+}

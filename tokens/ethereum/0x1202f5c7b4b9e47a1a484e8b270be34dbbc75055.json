@@ -1,0 +1,15 @@
+{
+  "symbol": "wstusr",
+  "name": "Resolv wstUSR",
+  "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"
+  }
+}

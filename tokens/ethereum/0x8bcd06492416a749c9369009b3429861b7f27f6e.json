@@ -1,0 +1,19 @@
+{
+  "symbol": "blkc",
+  "name": "BlackHat Coin",
+  "address": "0x8BCd06492416a749C9369009b3429861b7F27F6E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15987/thumb/logo_light.png?1622537905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8626264b6a1b4e920905efd381002aba52ea0eea",
+    "the-open-network": "EQD-J6UqYQezuUm6SlPDnHwTxXqo4uHys_fle_zKvM5nYJkA",
+    "ethereum": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
+    "arbitrum-one": "0x8626264b6a1b4e920905efd381002aba52ea0eea",
+    "polygon-pos": "0x8626264b6a1b4e920905efd381002aba52ea0eea"
+  }
+}

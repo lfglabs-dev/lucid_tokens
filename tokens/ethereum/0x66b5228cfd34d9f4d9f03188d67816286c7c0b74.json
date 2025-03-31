@@ -1,0 +1,15 @@
+{
+  "symbol": "volt",
+  "name": "VOLT.WIN",
+  "address": "0x66b5228CfD34d9f4d9f03188d67816286C7c0b74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50438/thumb/VOLTCG.png?1727749014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x66b5228cfd34d9f4d9f03188d67816286c7c0b74"
+  }
+}

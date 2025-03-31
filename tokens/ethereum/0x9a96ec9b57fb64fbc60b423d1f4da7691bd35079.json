@@ -1,0 +1,16 @@
+{
+  "symbol": "ajna",
+  "name": "Ajna Protocol",
+  "address": "0x9a96ec9B57Fb64FbC60B423d1f4da7691Bd35079",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30187/thumb/AJNA-Icon-200.png?1683601845",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
+    "base": "0x7f05a7a9af2f5a07d1e64877c8dc37a64a22508e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "leeroy",
+  "name": "LEEROY JENKINS",
+  "address": "0x1e971b5b21367888239f00Da16F0A6b0efFeCb03",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32774/thumb/IMG_20231106_175636_467.jpg?1699343781",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1e971b5b21367888239f00da16f0a6b0effecb03"
+  }
+}

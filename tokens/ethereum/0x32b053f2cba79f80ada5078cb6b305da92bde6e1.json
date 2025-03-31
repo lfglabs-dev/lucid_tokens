@@ -1,0 +1,15 @@
+{
+  "symbol": "neural",
+  "name": "NEURALAI",
+  "address": "0x32B053F2CBA79F80ada5078cb6b305da92BDe6e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36341/thumb/transparent.png?1711180715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32b053f2cba79f80ada5078cb6b305da92bde6e1"
+  }
+}

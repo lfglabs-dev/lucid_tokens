@@ -1,0 +1,15 @@
+{
+  "symbol": "sgt",
+  "name": "AI Avatar",
+  "address": "0x5b649C07E7Ba0a1C529DEAabEd0b47699919B4a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30549/thumb/Suzuverse.png?1684998480",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2"
+  }
+}

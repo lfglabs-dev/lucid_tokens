@@ -1,0 +1,19 @@
+{
+  "symbol": "gohm",
+  "name": "Governance OHM",
+  "address": "0x0ab87046fBb341D058F17CBC4c1133F25a20a52f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21129/thumb/token_wsOHM_logo.png?1638764900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+    "fantom": "0x91fa20244fb509e8289ca630e5db3e9166233fdc",
+    "avalanche": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
+    "arbitrum-one": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1",
+    "polygon-pos": "0xd8ca34fd379d9ca3c6ee3b3905678320f5b45195"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "spectre",
+  "name": "Spectre AI",
+  "address": "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33066/thumb/spectre_logo_transp_200x200.png?1700498926",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9cf0ed013e67db12ca3af8e7506fe401aa14dad6"
+  }
+}

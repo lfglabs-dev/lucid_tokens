@@ -1,0 +1,16 @@
+{
+  "symbol": "defy",
+  "name": "DEFY",
+  "address": "0x205eD31C867bF715E4182137Af95AFE9177Cd8E7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26877/thumb/8ybr83fb0ca45cm1yvrcaclwbvcp.jpeg?1660622066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x205ed31c867bf715e4182137af95afe9177cd8e7",
+    "polygon-pos": "0xbf9f916bbda29a7f990f5f55c7607d94d7c3a60b"
+  }
+}

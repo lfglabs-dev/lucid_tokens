@@ -1,0 +1,15 @@
+{
+  "symbol": "dsai",
+  "name": "DeSend Ai",
+  "address": "0xB27782Fdb56352A684686A852374eF20910457e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38318/thumb/logo_icon_dark_2_%281%29.png?1717053662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb27782fdb56352a684686a852374ef20910457e2"
+  }
+}

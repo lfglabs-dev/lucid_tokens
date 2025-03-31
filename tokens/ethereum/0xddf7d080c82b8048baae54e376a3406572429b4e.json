@@ -1,0 +1,24 @@
+{
+  "symbol": "oooooo",
+  "name": "GODDOG",
+  "address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "blast": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "linea": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "optimistic-ethereum": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "binance-smart-chain": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "fantom": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "avalanche": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "arbitrum-one": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "polygon-pos": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "base": "0xddf7d080c82b8048baae54e376a3406572429b4e"
+  }
+}

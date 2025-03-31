@@ -1,0 +1,15 @@
+{
+  "symbol": "vibe",
+  "name": "VIBE",
+  "address": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/948/thumb/vibe.png?1547034809",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe8ff5c9c75deb346acac493c463c8950be03dfba"
+  }
+}

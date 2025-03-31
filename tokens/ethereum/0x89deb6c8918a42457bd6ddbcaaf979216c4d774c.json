@@ -1,0 +1,15 @@
+{
+  "symbol": "hai",
+  "name": "HapticAI",
+  "address": "0x89DeB6C8918a42457bD6ddBCAaf979216C4D774C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36939/thumb/logo.png?1712850711",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89deb6c8918a42457bd6ddbcaaf979216c4d774c"
+  }
+}

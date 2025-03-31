@@ -1,0 +1,15 @@
+{
+  "symbol": "$pixe",
+  "name": "Pixel",
+  "address": "0x6a26Edf3bBC9F154ca9175216CEB9812f5305e6E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35251/thumb/WhatsApp_Image_2024-02-13_at_23.30.19.jpeg?1707992256",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a26edf3bbc9f154ca9175216ceb9812f5305e6e"
+  }
+}

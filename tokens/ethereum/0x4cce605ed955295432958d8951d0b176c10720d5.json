@@ -1,0 +1,17 @@
+{
+  "symbol": "audd",
+  "name": "Novatti Australian Digital Dollar",
+  "address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33263/thumb/AUDD-Logo-Blue_512.png?1701319895",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4cce605ed955295432958d8951d0b176c10720d5",
+    "xrp": "rUN5Zxt3K1AnMRJgEWywDJT8QDMMeLH5ok",
+    "stellar": "GDC7X2MXTYSAKUUGAIQ7J7RPEIM7GXSAIWFYWWH4GLNFECQVJJLB2EEU"
+  }
+}

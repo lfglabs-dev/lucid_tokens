@@ -1,0 +1,15 @@
+{
+  "symbol": "nimbus",
+  "name": "Nimbus Network",
+  "address": "0xBE4D9c8C638B5f0864017d7F6A04b66c42953847",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37937/thumb/IMG_20240516_123501_843.jpg?1715942211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe4d9c8c638b5f0864017d7f6a04b66c42953847"
+  }
+}

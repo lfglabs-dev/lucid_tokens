@@ -1,0 +1,15 @@
+{
+  "symbol": "1984",
+  "name": "1984",
+  "address": "0x4278A8944Cf63753b13E9f726BBC1192412988D8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51918/thumb/8e6f199cc5c210ac9f86eded3d12066.jpg?1732181027",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4278a8944cf63753b13e9f726bbc1192412988d8"
+  }
+}

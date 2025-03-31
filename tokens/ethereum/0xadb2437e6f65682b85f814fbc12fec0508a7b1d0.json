@@ -1,0 +1,15 @@
+{
+  "symbol": "uncx",
+  "name": "UNCX Network",
+  "address": "0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12871/thumb/unicrypt_logo.png?1603178739",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0"
+  }
+}

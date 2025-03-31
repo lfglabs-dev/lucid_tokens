@@ -1,0 +1,15 @@
+{
+  "symbol": "gear",
+  "name": "Gearbox",
+  "address": "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21630/thumb/gear.png?1640330291",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba3335588d9403515223f109edc4eb7269a9ab5d"
+  }
+}

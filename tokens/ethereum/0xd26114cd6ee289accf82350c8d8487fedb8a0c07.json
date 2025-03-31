@@ -1,0 +1,16 @@
+{
+  "symbol": "omg",
+  "name": "OMG Network",
+  "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1591167168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+    "boba": "0xe1e2ec9a85c607092668789581251115bcbd20de"
+  }
+}

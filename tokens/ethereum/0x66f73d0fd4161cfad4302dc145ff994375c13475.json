@@ -1,0 +1,15 @@
+{
+  "symbol": "dxgm",
+  "name": "DexGame",
+  "address": "0x66F73D0fD4161cfad4302DC145Ff994375c13475",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21084/thumb/dxgm-token.png?1638310949",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x66f73d0fd4161cfad4302dc145ff994375c13475"
+  }
+}

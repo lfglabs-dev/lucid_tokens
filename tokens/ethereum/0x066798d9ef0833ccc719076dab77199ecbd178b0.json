@@ -1,0 +1,16 @@
+{
+  "symbol": "sake",
+  "name": "SakeSwap",
+  "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12428/thumb/sake.png?1599777402",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x066798d9ef0833ccc719076dab77199ecbd178b0",
+    "binance-smart-chain": "0x8bd778b12b15416359a227f0533ce2d91844e1ed"
+  }
+}

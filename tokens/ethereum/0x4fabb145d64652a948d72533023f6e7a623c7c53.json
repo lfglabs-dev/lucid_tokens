@@ -1,0 +1,15 @@
+{
+  "symbol": "busd",
+  "name": "BUSD",
+  "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+  }
+}

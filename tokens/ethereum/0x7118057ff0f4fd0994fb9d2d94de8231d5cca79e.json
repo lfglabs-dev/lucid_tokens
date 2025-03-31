@@ -1,0 +1,17 @@
+{
+  "symbol": "source",
+  "name": "ReSource Protocol",
+  "address": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20740/thumb/source.png?1637749215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "celo": "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe",
+    "ethereum": "0x7118057ff0f4fd0994fb9d2d94de8231d5cca79e",
+    "binance-smart-chain": "0xea136fc555e695ba96d22e10b7e2151c4c6b2a20"
+  }
+}

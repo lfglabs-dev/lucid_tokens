@@ -1,0 +1,15 @@
+{
+  "symbol": "toybox",
+  "name": "Memefi Toybox 404",
+  "address": "0xb9f69c75a3b67425474f8bCab9a3626d8b8249e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35147/thumb/200x200_MemeFI_logo.png?1707552368",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb9f69c75a3b67425474f8bcab9a3626d8b8249e1"
+  }
+}

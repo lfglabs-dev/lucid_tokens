@@ -1,0 +1,15 @@
+{
+  "symbol": "meta",
+  "name": "Metadium",
+  "address": "0xDE2F7766C8BF14CA67193128535E5c7454f8387C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5247/thumb/META_Logo_black.png?1548833790",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde2f7766c8bf14ca67193128535e5c7454f8387c"
+  }
+}

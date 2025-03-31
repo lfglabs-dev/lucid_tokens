@@ -1,0 +1,16 @@
+{
+  "symbol": "zcx",
+  "name": "Unizen",
+  "address": "0xC52C326331E9Ce41F04484d3B5E5648158028804",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14830/thumb/7xjpHaG.png?1618564961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc52c326331e9ce41f04484d3b5e5648158028804",
+    "polygon-pos": "0xdd75542611d57c4b6e68168b14c3591c539022ed"
+  }
+}

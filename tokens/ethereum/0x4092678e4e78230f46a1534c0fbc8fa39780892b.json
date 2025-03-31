@@ -1,0 +1,15 @@
+{
+  "symbol": "ocn",
+  "name": "Odyssey",
+  "address": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2559/thumb/ocn.png?1547036683",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4092678e4e78230f46a1534c0fbc8fa39780892b"
+  }
+}

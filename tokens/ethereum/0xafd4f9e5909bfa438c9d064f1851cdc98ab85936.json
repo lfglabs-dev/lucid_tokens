@@ -1,0 +1,15 @@
+{
+  "symbol": "n.e.r.d",
+  "name": "Never Experienced Real Daylight ",
+  "address": "0xAfD4f9E5909bfa438C9d064f1851CDc98AB85936",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51487/thumb/1000001469.jpg?1731405475",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xafd4f9e5909bfa438c9d064f1851cdc98ab85936"
+  }
+}

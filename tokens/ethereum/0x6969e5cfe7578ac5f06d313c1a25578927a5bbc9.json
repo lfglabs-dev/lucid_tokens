@@ -1,0 +1,15 @@
+{
+  "symbol": "morti",
+  "name": "Morti",
+  "address": "0x6969E5CFe7578aC5F06D313C1A25578927a5bBC9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50477/thumb/morti_hd200X200.png?1727850651",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6969e5cfe7578ac5f06d313c1a25578927a5bbc9"
+  }
+}

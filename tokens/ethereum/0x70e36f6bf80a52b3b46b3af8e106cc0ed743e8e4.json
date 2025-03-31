@@ -1,0 +1,15 @@
+{
+  "symbol": "ccomp",
+  "name": "cCOMP",
+  "address": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12840/thumb/1_z8UrVtod3bme4-J_pXAQQA_2x.png?1602936322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4"
+  }
+}

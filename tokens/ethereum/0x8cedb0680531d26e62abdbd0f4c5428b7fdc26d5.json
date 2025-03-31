@@ -1,0 +1,15 @@
+{
+  "symbol": "$micro",
+  "name": "Micro GPT",
+  "address": "0x8CEDb0680531d26e62ABdBd0F4c5428b7fDC26d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37633/thumb/0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5.jpg?1715101374",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5"
+  }
+}

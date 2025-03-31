@@ -1,0 +1,15 @@
+{
+  "symbol": "$zkitty",
+  "name": "ZKitty Bot",
+  "address": "0x7DF18E4eFD6e6f73cfb462937dAC40FE42533016",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31474/thumb/AnN0reNi_400x400.jpg?1693186831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7df18e4efd6e6f73cfb462937dac40fe42533016"
+  }
+}

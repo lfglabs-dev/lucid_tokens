@@ -1,0 +1,17 @@
+{
+  "symbol": "ppdex",
+  "name": "Pepedex",
+  "address": "0xf1F508c7C9f0d1b15a76fbA564eEf2d956220cf7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13022/thumb/output-onlinepngtools-1.png?1604720841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+    "fantom": "0x4272dd51961a5181ace0dc7eb6f9807311345559",
+    "polygon-pos": "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e"
+  }
+}

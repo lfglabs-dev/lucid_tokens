@@ -1,0 +1,16 @@
+{
+  "symbol": "bor",
+  "name": "BoringDAO [OLD]",
+  "address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12917/thumb/bor_logo.png?1603607502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+    "binance-smart-chain": "0x92d7756c60dcfd4c689290e8a9f4d263b3b32241"
+  }
+}

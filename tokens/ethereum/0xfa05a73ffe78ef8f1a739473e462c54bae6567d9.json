@@ -1,0 +1,15 @@
+{
+  "symbol": "lun",
+  "name": "Lunyr",
+  "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/735/thumb/lunyr.png?1547976492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfa05a73ffe78ef8f1a739473e462c54bae6567d9"
+  }
+}

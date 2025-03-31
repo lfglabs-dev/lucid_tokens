@@ -1,0 +1,16 @@
+{
+  "symbol": "lamb",
+  "name": "Lambda",
+  "address": "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4703/thumb/Lambda-Logo.png?1547219112",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8971f9fd7196e5cee2c1032b50f656855af7dd26",
+    "osmosis": "ibc/80825E8F04B12D914ABEADB1F4D39C04755B12C8402F6876EE3168450C0A90BB"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fofo",
+  "name": "FOFO Token",
+  "address": "0x27f103f86070Cc639FEf262787a16887D22D8415",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30438/thumb/01_%281%29_copy.png?1684471585",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x27f103f86070cc639fef262787a16887d22d8415"
+  }
+}

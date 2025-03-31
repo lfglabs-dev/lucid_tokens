@@ -1,0 +1,15 @@
+{
+  "symbol": "macke",
+  "name": "Mackerel",
+  "address": "0xD69a0A9682F679f50e34dE40105A93BEbB2fF43d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33618/thumb/macke-icon.png?1702528445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd69a0a9682f679f50e34de40105a93bebb2ff43d"
+  }
+}

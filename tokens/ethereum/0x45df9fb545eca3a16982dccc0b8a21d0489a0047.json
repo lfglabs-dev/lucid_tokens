@@ -1,0 +1,16 @@
+{
+  "symbol": "voy",
+  "name": "Voy Finance",
+  "address": "0x45DF9fb545ECA3A16982dccc0B8A21D0489a0047",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30304/thumb/Profile_Picture_2.png?1683873325",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x823bbb870b0eb86bd7ec0bcc98c84b46a0f99ac7",
+    "ethereum": "0x45df9fb545eca3a16982dccc0b8a21d0489a0047"
+  }
+}

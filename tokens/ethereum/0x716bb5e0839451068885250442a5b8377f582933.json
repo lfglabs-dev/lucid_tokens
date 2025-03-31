@@ -1,0 +1,15 @@
+{
+  "symbol": "fofar",
+  "name": "Fofar0x71",
+  "address": "0x716BB5E0839451068885250442A5B8377F582933",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38392/thumb/20240601_012800.jpg?1717421870",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x716bb5e0839451068885250442a5b8377f582933"
+  }
+}

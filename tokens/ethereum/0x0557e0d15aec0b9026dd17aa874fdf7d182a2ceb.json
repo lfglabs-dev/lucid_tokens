@@ -1,0 +1,15 @@
+{
+  "symbol": "cfxq",
+  "name": "CFX Quantum",
+  "address": "0x0557E0d15aeC0b9026dD17aA874fDf7d182A2cEB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15031/thumb/CFXQ_TOKEN_LOGO_200x200.png?1619500058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0557e0d15aec0b9026dd17aa874fdf7d182a2ceb"
+  }
+}

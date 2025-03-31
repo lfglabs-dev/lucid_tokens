@@ -1,0 +1,15 @@
+{
+  "symbol": "rai",
+  "name": "Reploy",
+  "address": "0xc575BD129848Ce06A460A19466c30E1D0328F52C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53036/thumb/rai-icon.png?1735072446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc575bd129848ce06a460a19466c30e1d0328f52c"
+  }
+}

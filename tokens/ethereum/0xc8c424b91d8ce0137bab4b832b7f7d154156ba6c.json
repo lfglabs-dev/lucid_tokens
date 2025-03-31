@@ -1,0 +1,15 @@
+{
+  "symbol": "apm",
+  "name": "apM Coin",
+  "address": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10069/thumb/PvDCvh5h_400x400.png?1575460334",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c"
+  }
+}

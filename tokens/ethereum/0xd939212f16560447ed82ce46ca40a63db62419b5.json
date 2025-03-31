@@ -1,0 +1,15 @@
+{
+  "symbol": "myc",
+  "name": "Mega Yacht Cult",
+  "address": "0xD939212F16560447ED82ce46cA40A63DB62419B5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32456/thumb/Untitled_design_%283%29_%281%29.png?1698241312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd939212f16560447ed82ce46ca40a63db62419b5"
+  }
+}

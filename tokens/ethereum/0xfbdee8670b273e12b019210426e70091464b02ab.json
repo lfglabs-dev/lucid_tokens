@@ -1,0 +1,15 @@
+{
+  "symbol": "mc.wm",
+  "name": "MEV Capital M^0 Morpho Vault",
+  "address": "0xfbDEE8670b273E12b019210426E70091464b02Ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51335/thumb/m0-vault-mev.png?1730814418",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfbdee8670b273e12b019210426e70091464b02ab"
+  }
+}

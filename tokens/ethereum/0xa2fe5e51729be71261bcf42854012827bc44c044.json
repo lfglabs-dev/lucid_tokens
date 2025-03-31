@@ -1,0 +1,15 @@
+{
+  "symbol": "burn",
+  "name": "BURN",
+  "address": "0xA2fe5E51729BE71261BcF42854012827BC44c044",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32652/thumb/Burn.jpg?1698895268",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa2fe5e51729be71261bcf42854012827bc44c044"
+  }
+}

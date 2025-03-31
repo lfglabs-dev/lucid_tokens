@@ -1,0 +1,15 @@
+{
+  "symbol": "usdq",
+  "name": "Quantoz USDQ",
+  "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51852/thumb/USDQ_1000px_Color.png?1732071232",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc83e27f270cce0a3a3a29521173a83f402c1768b"
+  }
+}

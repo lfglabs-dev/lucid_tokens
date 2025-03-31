@@ -1,0 +1,15 @@
+{
+  "symbol": "raft",
+  "name": "Raft",
+  "address": "0x4C5Cb5D87709387f8821709f7a6664f00DcF0C93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30915/thumb/Logomark_Transparent_Background_200x200.png?1688723305",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c5cb5d87709387f8821709f7a6664f00dcf0c93"
+  }
+}

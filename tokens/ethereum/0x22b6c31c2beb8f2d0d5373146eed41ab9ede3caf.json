@@ -1,0 +1,15 @@
+{
+  "symbol": "coc",
+  "name": "The Cocktailbar",
+  "address": "0x22B6C31c2bEB8f2d0d5373146Eed41Ab9eDe3caf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13121/thumb/coc.png?1647079316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf"
+  }
+}

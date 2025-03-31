@@ -1,0 +1,15 @@
+{
+  "symbol": "earth",
+  "name": "PaleBlueDot",
+  "address": "0xbf5Badfae2d219943DCD9652D1cE65960b8A1e0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37816/thumb/IMG_20240412_095619_714.jpg?1715654576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf5badfae2d219943dcd9652d1ce65960b8a1e0c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "x",
+  "name": "XAI",
+  "address": "0xaFe53EEa0cfE20198328890B69107D5Fd8159A77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31117/thumb/LOGO.jpg?1690529187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xafe53eea0cfe20198328890b69107d5fd8159a77"
+  }
+}

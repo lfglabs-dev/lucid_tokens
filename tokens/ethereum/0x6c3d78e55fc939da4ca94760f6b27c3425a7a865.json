@@ -1,0 +1,15 @@
+{
+  "symbol": "megadeath",
+  "name": "MEGADEATH (PEPE)",
+  "address": "0x6c3D78E55FC939dA4CA94760F6B27c3425a7A865",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38075/thumb/Megadeth_Logo_200x200_PNG.png?1716449151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c3d78e55fc939da4ca94760f6b27c3425a7a865"
+  }
+}

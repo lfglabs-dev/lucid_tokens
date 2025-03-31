@@ -1,0 +1,15 @@
+{
+  "symbol": "wel",
+  "name": "Welshare Health Token",
+  "address": "0x1E762e1FAc176bbB341656035daf5601b1C69Be5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51035/thumb/coingecko.png?1729795697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1e762e1fac176bbb341656035daf5601b1c69be5"
+  }
+}

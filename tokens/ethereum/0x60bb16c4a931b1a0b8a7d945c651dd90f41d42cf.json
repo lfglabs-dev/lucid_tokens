@@ -1,0 +1,15 @@
+{
+  "symbol": "fbx",
+  "name": "Finance Blocks",
+  "address": "0x60BB16c4A931b1a0B8A7D945C651DD90f41D42Cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24117/thumb/financeblocksshadow.png?1646380305",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60bb16c4a931b1a0b8a7d945c651dd90f41d42cf"
+  }
+}

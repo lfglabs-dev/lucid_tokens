@@ -1,0 +1,15 @@
+{
+  "symbol": "tai",
+  "name": "TaiNet",
+  "address": "0x5BECD80848E096D065f27C3b1498553C705C77eD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50903/thumb/photo_2024-10-15_20-05-36.jpg?1729520417",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5becd80848e096d065f27c3b1498553c705c77ed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "nftfn",
+  "name": "NFTFN",
+  "address": "0x9a64977eBF739DFf35eD4281a4b5E833BFdB1314",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36624/thumb/NFTFN_TokenPng_%281%29.png?1711982088",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a64977ebf739dff35ed4281a4b5e833bfdb1314"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "husby",
+  "name": "HUSBY",
+  "address": "0x41D06390b935356b46aD6750bdA30148Ad2044A4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40115/thumb/Copy_of_HUSBY-logo_%28500_x_500_px%29_%28200_x_200_px%29.png?1725829546",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x41d06390b935356b46ad6750bda30148ad2044a4"
+  }
+}

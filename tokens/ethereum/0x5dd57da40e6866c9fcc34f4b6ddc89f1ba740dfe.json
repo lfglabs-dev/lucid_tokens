@@ -1,0 +1,16 @@
+{
+  "symbol": "bright",
+  "name": "BrightID",
+  "address": "0x5dD57Da40e6866C9FcC34F4b6DDC89F1BA740DfE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18415/thumb/bright.PNG?1631841211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+    "xdai": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e"
+  }
+}

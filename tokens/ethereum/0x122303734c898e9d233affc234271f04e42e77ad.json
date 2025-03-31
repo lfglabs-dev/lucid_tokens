@@ -1,0 +1,15 @@
+{
+  "symbol": "cat",
+  "name": "Maxwell the spinning cat",
+  "address": "0x122303734c898e9d233afFc234271f04E42E77aD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35859/thumb/maxwell-cg.png?1709896910",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x122303734c898e9d233affc234271f04e42e77ad"
+  }
+}

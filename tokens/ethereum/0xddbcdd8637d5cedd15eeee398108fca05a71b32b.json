@@ -1,0 +1,15 @@
+{
+  "symbol": "crai",
+  "name": "Cryptify AI",
+  "address": "0xDdbcDD8637d5CEDd15EeEe398108FCa05A71b32b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50455/thumb/cryptify-ai-logo-200x200.png?1727781104",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xddbcdd8637d5cedd15eeee398108fca05a71b32b"
+  }
+}

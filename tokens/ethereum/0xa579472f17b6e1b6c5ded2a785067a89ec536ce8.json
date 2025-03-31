@@ -1,0 +1,15 @@
+{
+  "symbol": "addon",
+  "name": "AddOn Ai",
+  "address": "0xa579472f17b6E1b6C5dED2A785067a89EC536ce8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53515/thumb/addonai.jpg?1736573362",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa579472f17b6e1b6c5ded2a785067a89ec536ce8"
+  }
+}

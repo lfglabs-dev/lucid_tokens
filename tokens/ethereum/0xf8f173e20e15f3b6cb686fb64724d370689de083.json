@@ -1,0 +1,15 @@
+{
+  "symbol": "hei",
+  "name": "Heima",
+  "address": "0xF8F173E20e15f3b6CB686FB64724D370689De083",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54379/thumb/heima.png?1739444240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf8f173e20e15f3b6cb686fb64724d370689de083"
+  }
+}

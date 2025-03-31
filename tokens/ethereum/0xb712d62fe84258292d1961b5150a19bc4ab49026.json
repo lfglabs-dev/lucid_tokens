@@ -1,0 +1,17 @@
+{
+  "symbol": "xchng",
+  "name": "Chainge",
+  "address": "0xb712d62fE84258292d1961B5150a19bC4Ab49026",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16526/thumb/symbol-only-on-dark.png?1636532794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fusion-network": "0xab1f7e5bf2587543fe41f268c59d35da95f046e0",
+    "ethereum": "0xb712d62fe84258292d1961b5150a19bc4ab49026",
+    "arbitrum-one": "0x51c601dc278eb2cfea8e52c4caa35b3d6a9a2c26"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ess",
+  "name": "Essentia",
+  "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2483/thumb/Essentia-token.jpg?1547036604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc05987bd2be489accf0f509e44b0145d68240f7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "lgndx",
+  "name": "LegendX",
+  "address": "0xDB04fb08378129621634C151E9b61FEf56947920",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40141/thumb/TLCG.PNG?1725992538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb04fb08378129621634c151e9b61fef56947920"
+  }
+}

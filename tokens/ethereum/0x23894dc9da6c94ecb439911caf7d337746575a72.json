@@ -1,0 +1,15 @@
+{
+  "symbol": "jam",
+  "name": "Geojam",
+  "address": "0x23894DC9da6c94ECb439911cAF7d337746575A72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24648/thumb/ey40AzBN_400x400.jpg?1648507272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x23894dc9da6c94ecb439911caf7d337746575a72"
+  }
+}

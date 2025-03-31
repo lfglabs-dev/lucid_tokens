@@ -1,0 +1,18 @@
+{
+  "symbol": "sail",
+  "name": "Clipper SAIL",
+  "address": "0xd8F1460044925d2D5c723C7054cd9247027415B7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31380/thumb/SAIL-Logo.png?1692721042",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd8f1460044925d2d5c723c7054cd9247027415b7",
+    "optimistic-ethereum": "0x7a1263ec3bf0a19e25c553b8a2c312e903262c5e",
+    "arbitrum-one": "0xb52bd62ee0cf462fa9ccbda4bf27fe84d9ab6cf7",
+    "polygon-pos": "0xd1a718f77ab5d22e3955050658d7f65ae857a85e"
+  }
+}

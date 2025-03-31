@@ -1,0 +1,17 @@
+{
+  "symbol": "xen",
+  "name": "XEN Crypto",
+  "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27713/thumb/Xen.jpeg?1665453190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
+    "ethereumpow": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+    "avalanche": "0xc0c5aa69dbe4d6dddfbc89c0957686ec60f24389"
+  }
+}

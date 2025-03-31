@@ -1,0 +1,15 @@
+{
+  "symbol": "ston",
+  "name": "Ston",
+  "address": "0xdC47f2Ba852669B178699449E50682D6CEAF8C07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13001/thumb/ston-v2-200x200.png?1604284194",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc47f2ba852669b178699449e50682d6ceaf8c07"
+  }
+}

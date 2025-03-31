@@ -1,0 +1,15 @@
+{
+  "symbol": "inx",
+  "name": "InsightX",
+  "address": "0x67f3086F7823eaF35f5aAADfB2E9b9c5B09578CF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32552/thumb/android-chrome-192x192.png?1698480297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x67f3086f7823eaf35f5aaadfb2e9b9c5b09578cf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ksc",
+  "name": "KStarCoin",
+  "address": "0x990E081A7B7d3Ccba26a2f49746A68CC4fF73280",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1630/thumb/ksc.png?1547035850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x990e081a7b7d3ccba26a2f49746a68cc4ff73280"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "msi",
+  "name": "Martin Shkreli Inu",
+  "address": "0xc4C75F2A0cB1a9ACc33929512dc9733EA1Fd6fde",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26365/thumb/jEYEUxUI_400x400.jpeg?1657600080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde",
+    "binance-smart-chain": "0xe05d1c28b3f8127b5b058f101198ede30fe3961d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "uno",
+  "name": "Uno",
+  "address": "0x4604151D4c98D1EeA200b0d6bfFb79a2613182aA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54781/thumb/output-onlinepngtools_4.png?1741518111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4604151d4c98d1eea200b0d6bffb79a2613182aa"
+  }
+}

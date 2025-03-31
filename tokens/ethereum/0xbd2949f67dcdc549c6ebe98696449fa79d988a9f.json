@@ -1,0 +1,15 @@
+{
+  "symbol": "emtrg",
+  "name": "Meter Governance mapped by Meter.io",
+  "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12175/thumb/Dark-blue-icon-transparent-vector-white-icon200x200.png?1597819237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f"
+  }
+}

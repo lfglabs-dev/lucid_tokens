@@ -1,0 +1,15 @@
+{
+  "symbol": "spot",
+  "name": "Defispot",
+  "address": "0xe635EFcfAc44C5f44508f4d17c3a96CB4Ce421dD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36813/thumb/Defispot_200x200_icon.jpg?1712548786",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe635efcfac44c5f44508f4d17c3a96cb4ce421dd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "doggo",
+  "name": "Doggo",
+  "address": "0x240Cd7b53d364a208eD41f8cEd4965D11F571B7a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50316/thumb/doggo-fotor-200200.png?1727110207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x240cd7b53d364a208ed41f8ced4965d11f571b7a"
+  }
+}

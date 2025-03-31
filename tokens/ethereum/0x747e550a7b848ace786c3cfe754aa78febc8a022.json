@@ -1,0 +1,15 @@
+{
+  "symbol": "dodo",
+  "name": "DODO",
+  "address": "0x747E550a7B848acE786C3CFe754Aa78feBC8A022",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35955/thumb/listings.png?1710252222",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x747e550a7b848ace786c3cfe754aa78febc8a022"
+  }
+}

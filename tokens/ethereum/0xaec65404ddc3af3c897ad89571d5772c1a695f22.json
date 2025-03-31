@@ -1,0 +1,18 @@
+{
+  "symbol": "phx",
+  "name": "Phoenix Finance",
+  "address": "0xAeC65404DdC3af3C897AD89571d5772C1A695F22",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17675/thumb/phx_logo.png?1628832432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaec65404ddc3af3c897ad89571d5772c1a695f22",
+    "wanchain": "0xf17c59bf0f6326da7a8cc2ce417e4f53a26707bd",
+    "binance-smart-chain": "0xac86e5f9ba48d680516df50c72928c2ec50f3025",
+    "polygon-pos": "0x9c6bfedc14b5c23e3900889436edca7805170f01"
+  }
+}

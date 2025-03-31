@@ -1,0 +1,15 @@
+{
+  "symbol": "pepy",
+  "name": "Pepy coin",
+  "address": "0xa1e349faC47e50b42Cd323C4285EF4622b60a5e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36966/thumb/pepy_cr_%281%29.jpg?1712908045",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1e349fac47e50b42cd323c4285ef4622b60a5e0"
+  }
+}

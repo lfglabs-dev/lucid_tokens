@@ -1,0 +1,16 @@
+{
+  "symbol": "bobby",
+  "name": "Kennedy Memecoin",
+  "address": "0xa462bdE22D98335E18A21555b6752dB93a937cFf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37105/thumb/Screenshot_2024-04-10_at_7.45.30_PM.png?1713322477",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa462bde22d98335e18a21555b6752db93a937cff",
+    "solana": "4geJykZY92d2mZk8zgWDrKoz4BDcSjp7DJdNvH8GoH5f"
+  }
+}

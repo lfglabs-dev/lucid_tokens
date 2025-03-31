@@ -1,0 +1,15 @@
+{
+  "symbol": "bnq",
+  "name": "BitNasdaq",
+  "address": "0xEAA78305C19A292e5c141108f0880333A840a2bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/33463/thumb/BNQ_Token.png?1701928201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeaa78305c19a292e5c141108f0880333a840a2bc"
+  }
+}

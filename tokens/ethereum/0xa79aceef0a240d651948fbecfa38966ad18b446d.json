@@ -1,0 +1,15 @@
+{
+  "symbol": "sedge",
+  "name": "Social Edge",
+  "address": "0xa79Aceef0a240d651948fbeCfA38966aD18B446d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52933/thumb/IMG_9236%281%29_%281%29.png?1734709541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa79aceef0a240d651948fbecfa38966ad18b446d"
+  }
+}

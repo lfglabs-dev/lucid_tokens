@@ -1,0 +1,17 @@
+{
+  "symbol": "dino",
+  "name": "DinoLFG",
+  "address": "0x49642110B712C1FD7261Bc074105E9E44676c68F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28239/thumb/photo_2022-11-16_04-57-23.jpg?1668581540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x49642110b712c1fd7261bc074105e9e44676c68f",
+    "pulsechain": "0xfd3a511cb1c435d6a6e471392902bf4a83773d9c",
+    "solana": "33eWALS9GkzSMS3EsKSdYCsrUiMdQDgX2QzGx4vA9wE8"
+  }
+}

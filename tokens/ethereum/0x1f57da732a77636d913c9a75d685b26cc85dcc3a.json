@@ -1,0 +1,15 @@
+{
+  "symbol": "ol",
+  "name": "OPENLOOT",
+  "address": "0x1F57da732A77636D913C9a75d685B26CC85DCC3A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51801/thumb/_OPENLOOT_token-icon_black_%282%29.png?1731989426",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f57da732a77636d913c9a75d685b26cc85dcc3a"
+  }
+}

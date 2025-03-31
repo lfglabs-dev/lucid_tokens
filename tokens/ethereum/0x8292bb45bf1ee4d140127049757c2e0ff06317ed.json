@@ -1,0 +1,16 @@
+{
+  "symbol": "rlusd",
+  "name": "Ripple USD",
+  "address": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39651/thumb/stablecoin-visual_%281%29.png?1723461146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xrp": "rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De",
+    "ethereum": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed"
+  }
+}

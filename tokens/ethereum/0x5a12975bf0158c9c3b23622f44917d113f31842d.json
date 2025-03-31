@@ -1,0 +1,15 @@
+{
+  "symbol": "koma",
+  "name": "Komari",
+  "address": "0x5A12975bF0158C9C3B23622f44917D113F31842D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50520/thumb/photo_2024-10-04_19.17.42_copia.jpeg?1728090916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5a12975bf0158c9c3b23622f44917d113f31842d"
+  }
+}

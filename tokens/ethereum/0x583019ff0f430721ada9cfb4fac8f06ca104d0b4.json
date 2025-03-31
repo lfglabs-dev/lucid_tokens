@@ -1,0 +1,15 @@
+{
+  "symbol": "st-yeth",
+  "name": "Staked Yearn Ether",
+  "address": "0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32222/thumb/yearn.fi__%281%29.png?1696837250",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x583019ff0f430721ada9cfb4fac8f06ca104d0b4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "diamond",
+  "name": "Diamond Inu",
+  "address": "0xCfffCd2C6294BBB01Ca55CBB4a281bDCf532c1Ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37735/thumb/1000007003.jpg?1715337557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcfffcd2c6294bbb01ca55cbb4a281bdcf532c1ce"
+  }
+}

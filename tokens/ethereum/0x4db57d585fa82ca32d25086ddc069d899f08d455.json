@@ -1,0 +1,15 @@
+{
+  "symbol": "enoch",
+  "name": "Enoch",
+  "address": "0x4db57D585fa82Ca32d25086DDc069d899f08D455",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30810/thumb/20230619_001351.png?1687419457",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4db57d585fa82ca32d25086ddc069d899f08d455"
+  }
+}

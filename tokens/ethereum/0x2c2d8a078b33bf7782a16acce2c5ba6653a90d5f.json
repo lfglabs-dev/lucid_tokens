@@ -1,0 +1,19 @@
+{
+  "symbol": "l3usd",
+  "name": "L3USD",
+  "address": "0x2C2D8a078B33bf7782a16AcCE2C5BA6653a90D5f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26937/thumb/L3USD.png?1660999834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x5f0456f728e2d59028b4f5b8ad8c604100724c6a",
+    "tombchain": "0x94bb580d7f99c30f125669bfaf8164d5ff6436e7",
+    "ethereum": "0x2c2d8a078b33bf7782a16acce2c5ba6653a90d5f",
+    "binance-smart-chain": "0xdea12c8c23994ea2d88ed99ee1bdc0ff56f7f9d1",
+    "polygon-pos": "0x2c2d8a078b33bf7782a16acce2c5ba6653a90d5f"
+  }
+}

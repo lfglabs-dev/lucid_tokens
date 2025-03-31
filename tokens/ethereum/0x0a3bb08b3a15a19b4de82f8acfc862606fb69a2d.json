@@ -1,0 +1,20 @@
+{
+  "symbol": "iusd",
+  "name": "iZUMi Bond USD",
+  "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25388/thumb/iusd-logo-symbol-10k%E5%A4%A7%E5%B0%8F.png?1651660620",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
+    "scroll": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
+    "merlin-chain": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
+    "manta-pacific": "0x078f712f038a95beea94f036cadb49188a90604b",
+    "arbitrum-one": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
+    "polygon-pos": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d"
+  }
+}

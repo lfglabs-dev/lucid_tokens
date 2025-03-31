@@ -1,0 +1,15 @@
+{
+  "symbol": "fjo",
+  "name": "Fjord Foundry",
+  "address": "0x69457A1C9Ec492419344DA01Daf0DF0e0369d5D0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36510/thumb/fjord.png?1711682800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69457a1c9ec492419344da01daf0df0e0369d5d0"
+  }
+}

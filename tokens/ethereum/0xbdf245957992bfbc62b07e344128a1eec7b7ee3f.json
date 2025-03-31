@@ -1,0 +1,17 @@
+{
+  "symbol": "mbtc",
+  "name": "Babypie Wrapped BTC",
+  "address": "0xbDf245957992bfBC62B07e344128a1EEc7b7eE3f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50314/thumb/mbtc_%281%29.png?1727079604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbdf245957992bfbc62b07e344128a1eec7b7ee3f",
+    "binance-smart-chain": "0x7c1cca5b25fa0bc9af9275fb53cba89dc172b878",
+    "arbitrum-one": "0x2172fad929e857ddfd7ddc31e24904438434cb0b"
+  }
+}

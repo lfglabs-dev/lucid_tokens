@@ -1,0 +1,15 @@
+{
+  "symbol": "aiat",
+  "name": "AI Analysis Token",
+  "address": "0x0501b9188436E35bB10F35998c40ADC079003866",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33672/thumb/aia-logo-icon200.png?1702702028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0501b9188436e35bb10f35998c40adc079003866"
+  }
+}

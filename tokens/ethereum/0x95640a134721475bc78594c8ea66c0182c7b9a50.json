@@ -1,0 +1,15 @@
+{
+  "symbol": "mxh",
+  "name": "Metroxynth",
+  "address": "0x95640a134721475bc78594c8Ea66C0182C7B9A50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34346/thumb/metroxynth-logo-200x200.png?1704698264",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95640a134721475bc78594c8ea66c0182c7b9a50"
+  }
+}

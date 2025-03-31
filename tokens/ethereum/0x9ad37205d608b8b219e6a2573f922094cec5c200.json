@@ -1,0 +1,24 @@
+{
+  "symbol": "izi",
+  "name": "iZUMi Finance",
+  "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21791/thumb/izumi-logo-symbol.png?1640053924",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ad37205d608b8b219e6a2573f922094cec5c200",
+    "manta-pacific": "0x91647632245cabf3d66121f86c387ae0ad295f9a",
+    "zksync": "0x16a9494e257703797d747540f01683952547ee5b",
+    "scroll": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "mantle": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "linea": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "binance-smart-chain": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "arbitrum-one": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "polygon-pos": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "base": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747"
+  }
+}

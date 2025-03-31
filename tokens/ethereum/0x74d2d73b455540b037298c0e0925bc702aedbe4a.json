@@ -1,0 +1,15 @@
+{
+  "symbol": "meow",
+  "name": "Schrodinger",
+  "address": "0x74d2d73B455540B037298c0e0925BC702AEDbE4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19649/thumb/kitty_dinger.png?1636332557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x74d2d73b455540b037298c0e0925bc702aedbe4a"
+  }
+}

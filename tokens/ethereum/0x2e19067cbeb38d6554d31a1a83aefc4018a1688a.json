@@ -1,0 +1,15 @@
+{
+  "symbol": "cbk",
+  "name": "Coinback",
+  "address": "0x2e19067Cbeb38d6554d31a1a83aefc4018A1688a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31576/thumb/F1090BAA-54E3-4F9A-AFAA-57BA89E144CB.PNG?1693824421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2e19067cbeb38d6554d31a1a83aefc4018a1688a"
+  }
+}

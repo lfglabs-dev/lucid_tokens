@@ -1,0 +1,15 @@
+{
+  "symbol": "gof",
+  "name": "Golff",
+  "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12445/thumb/_x-AmLBv_400x400.jpg?1599902833",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c"
+  }
+}

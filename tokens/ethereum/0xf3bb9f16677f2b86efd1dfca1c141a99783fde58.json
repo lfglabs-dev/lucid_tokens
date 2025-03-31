@@ -1,0 +1,15 @@
+{
+  "symbol": "crown",
+  "name": "Crown Token",
+  "address": "0xF3Bb9F16677F2B86EfD1DFca1c141A99783Fde58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30161/thumb/Crown_Token_200_200.png?1683527391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf3bb9f16677f2b86efd1dfca1c141a99783fde58"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "valor",
+  "name": "Smart Valor",
+  "address": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7231/thumb/smart_valor.png?1555925772",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a"
+  }
+}

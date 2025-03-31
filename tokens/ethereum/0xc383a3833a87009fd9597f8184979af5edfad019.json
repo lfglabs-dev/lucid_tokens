@@ -1,0 +1,15 @@
+{
+  "symbol": "ieth",
+  "name": "iETH v1",
+  "address": "0xc383a3833A87009fD9597F8184979AF5eDFad019",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25822/thumb/iETH_100x100.png?1654055637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc383a3833a87009fd9597f8184979af5edfad019"
+  }
+}

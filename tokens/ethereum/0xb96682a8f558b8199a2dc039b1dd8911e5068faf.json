@@ -1,0 +1,15 @@
+{
+  "symbol": "ect",
+  "name": "Ecotrader",
+  "address": "0xb96682A8F558B8199A2Dc039b1dD8911E5068FaF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54992/thumb/Eco_DS.png?1743063491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb96682a8f558b8199a2dc039b1dd8911e5068faf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "smart",
+  "name": "Smart Game Finance",
+  "address": "0xce20BB92CCF9BbF5091ef85649E71E552819AD8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29072/thumb/smart.png?1676428534",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xce20bb92ccf9bbf5091ef85649e71e552819ad8c"
+  }
+}

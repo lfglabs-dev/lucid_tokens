@@ -1,0 +1,15 @@
+{
+  "symbol": "freedom",
+  "name": "FREEDOM",
+  "address": "0xB49bF1dbDc567b997733093880734F030174474c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51025/thumb/200_200_logo.jpg?1729770840",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb49bf1dbdc567b997733093880734f030174474c"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ice",
+  "name": "Ice Open Network",
+  "address": "0x79F05c263055BA20EE0e814ACD117C20CAA10e0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34674/thumb/ice.jpeg?1705663609",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc335df7c25b72eec661d5aa32a7c2b7b2a1d1874",
+    "ethereum": "0x79f05c263055ba20ee0e814acd117c20caa10e0c"
+  }
+}

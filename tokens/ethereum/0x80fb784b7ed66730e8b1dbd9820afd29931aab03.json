@@ -1,0 +1,15 @@
+{
+  "symbol": "lend",
+  "name": "Aave [OLD]",
+  "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1365/thumb/ethlend.png?1547394586",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
+  }
+}

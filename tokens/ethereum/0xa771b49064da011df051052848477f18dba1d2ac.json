@@ -1,0 +1,15 @@
+{
+  "symbol": "hns",
+  "name": "Handshake",
+  "address": "0xA771b49064Da011DF051052848477f18DbA1d2Ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10562/thumb/circle-handshakeLogo.png?1613668983",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa771b49064da011df051052848477f18dba1d2ac"
+  }
+}

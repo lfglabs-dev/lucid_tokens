@@ -1,0 +1,15 @@
+{
+  "symbol": "bitg",
+  "name": "BitGate",
+  "address": "0x3973C606B493EeE0E14B2b5654d5c4049cE9C2d9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38121/thumb/BitGate.png?1716537470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3973c606b493eee0e14b2b5654d5c4049ce9c2d9"
+  }
+}

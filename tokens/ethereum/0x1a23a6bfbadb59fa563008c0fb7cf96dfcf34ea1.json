@@ -1,0 +1,15 @@
+{
+  "symbol": "cofi",
+  "name": "CoFiX",
+  "address": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12781/thumb/dnPnSkfa_400x400.png?1602885321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a23a6bfbadb59fa563008c0fb7cf96dfcf34ea1"
+  }
+}

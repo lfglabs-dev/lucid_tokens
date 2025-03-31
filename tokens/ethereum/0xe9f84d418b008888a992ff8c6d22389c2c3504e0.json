@@ -1,0 +1,16 @@
+{
+  "symbol": "base",
+  "name": "Maximus BASE",
+  "address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27683/thumb/IMG_1131.PNG?1665214262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0",
+    "pulsechain": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0"
+  }
+}

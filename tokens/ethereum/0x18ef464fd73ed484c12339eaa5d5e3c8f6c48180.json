@@ -1,0 +1,15 @@
+{
+  "symbol": "$coffee",
+  "name": "Coffee AI",
+  "address": "0x18eF464fD73Ed484c12339eAa5d5E3C8f6C48180",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51729/thumb/IMG_5635.jpeg?1731914309",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x18ef464fd73ed484c12339eaa5d5e3c8f6c48180"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "kaai",
+  "name": "KanzzAI",
+  "address": "0xa7d48da33cF6AC74Ed2Ba71b7E33005DC51ADbB7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51818/thumb/logo_blackbg.png?1732034730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa7d48da33cf6ac74ed2ba71b7e33005dc51adbb7"
+  }
+}

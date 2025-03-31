@@ -1,0 +1,15 @@
+{
+  "symbol": "ynlsde",
+  "name": "YieldNest Restaked LSD - Eigenlayer",
+  "address": "0x35Ec69A77B79c255e5d47D5A3BdbEFEfE342630c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39842/thumb/ynLSDe.png?1724293737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x35ec69a77b79c255e5d47d5a3bdbefefe342630c"
+  }
+}

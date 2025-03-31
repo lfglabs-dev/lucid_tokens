@@ -1,0 +1,15 @@
+{
+  "symbol": "buffi",
+  "name": "Bufficorn",
+  "address": "0x4C1b1302220D7DE5c22B495E78b72F2Dd2457d45",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39878/thumb/BUFFI200.jpg?1724618678",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c1b1302220d7de5c22b495e78b72f2dd2457d45"
+  }
+}

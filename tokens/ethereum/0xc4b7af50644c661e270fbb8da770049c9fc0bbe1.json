@@ -1,0 +1,15 @@
+{
+  "symbol": "gos",
+  "name": "Gelios",
+  "address": "0xc4B7aF50644c661e270FBb8da770049C9FC0bBE1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2324/thumb/gls.png?1696503213",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4b7af50644c661e270fbb8da770049c9fc0bbe1"
+  }
+}

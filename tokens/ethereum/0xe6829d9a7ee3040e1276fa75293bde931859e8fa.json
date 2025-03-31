@@ -1,0 +1,16 @@
+{
+  "symbol": "cmeth",
+  "name": "Mantle Restaked ETH",
+  "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51114/thumb/symbol.png?1730117724",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
+    "mantle": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "alusd",
+  "name": "Aave v3 LUSD",
+  "address": "0x3Fe6a295459FAe07DF8A0ceCC36F37160FE86AA9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32894/thumb/LUSD.png?1699789893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692",
+    "optimistic-ethereum": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+    "ethereum": "0x3fe6a295459fae07df8a0cecc36f37160fe86aa9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dorkl",
+  "name": "DORK LORD (ETH)",
+  "address": "0x94Be6962be41377d5BedA8dFe1b100F3BF0eaCf3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31654/thumb/%E1%97%AAO%E1%96%87K_%E1%92%AAO%E1%96%87%E1%97%AA.png?1694167698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x94be6962be41377d5beda8dfe1b100f3bf0eacf3"
+  }
+}

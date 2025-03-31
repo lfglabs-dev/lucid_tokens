@@ -1,0 +1,16 @@
+{
+  "symbol": "poli",
+  "name": "Polinate",
+  "address": "0xa1a36D3537bBe375Cc9694795F663DDC8D516Db9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18096/thumb/Polinate_Games___Guilds_Elements-05.png?1648806645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1a36d3537bbe375cc9694795f663ddc8d516db9",
+    "polygon-pos": "0x6fb54ffe60386ac33b722be13d2549dd87bf63af"
+  }
+}

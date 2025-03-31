@@ -1,0 +1,15 @@
+{
+  "symbol": "gec",
+  "name": "Gecoin",
+  "address": "0xe304283C3e60Cefaf7eA514007Cf4E8fdC3d869d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25646/thumb/62162f0d583e5a047dc02e7e_gecoin_200x200.png?1653019356",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe304283c3e60cefaf7ea514007cf4e8fdc3d869d"
+  }
+}

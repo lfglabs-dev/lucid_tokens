@@ -1,0 +1,15 @@
+{
+  "symbol": "para",
+  "name": "Para",
+  "address": "0xD16fd95D949F996e3808EeEa0e3881C59E76EF1E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24652/thumb/PARAW_200x200-.png?1648629516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd16fd95d949f996e3808eeea0e3881c59e76ef1e"
+  }
+}

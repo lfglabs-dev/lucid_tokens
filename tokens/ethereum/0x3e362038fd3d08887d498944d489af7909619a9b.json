@@ -1,0 +1,15 @@
+{
+  "symbol": "chow",
+  "name": "CHOW CHOW",
+  "address": "0x3E362038fD3d08887d498944D489aF7909619a9B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34803/thumb/CHOW_CHOW.png?1706094366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e362038fd3d08887d498944d489af7909619a9b"
+  }
+}

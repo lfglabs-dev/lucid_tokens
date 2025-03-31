@@ -1,0 +1,15 @@
+{
+  "symbol": "allin",
+  "name": "All In",
+  "address": "0x9B2b931d6AB97B6A887b2C5d8529537E6FE73Ebe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28411/thumb/IMG_20221206_124556_908.png?1670387132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b2b931d6ab97b6a887b2c5d8529537e6fe73ebe"
+  }
+}

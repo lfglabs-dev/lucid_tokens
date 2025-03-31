@@ -1,0 +1,15 @@
+{
+  "symbol": "qudefi",
+  "name": "Qudefi",
+  "address": "0x1842F548295b222C56939745d8DDf74981d40030",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50843/thumb/QuLabs_Transparent_Bg_%281%29_%281%29.png?1729296480",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1842f548295b222c56939745d8ddf74981d40030"
+  }
+}

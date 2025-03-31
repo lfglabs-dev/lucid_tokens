@@ -1,0 +1,15 @@
+{
+  "symbol": "twb",
+  "name": "TargetWatch Bot",
+  "address": "0xacDbfcBD4D6d4e9fe72C3bA4280D728AB2aCE30F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33086/thumb/TARGET_%283%29.png?1700602262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xacdbfcbd4d6d4e9fe72c3ba4280d728ab2ace30f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "scai",
+  "name": "SecureChain AI",
+  "address": "0xE35009059cb55ded065027e9832A2c564AFF7512",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31680/thumb/SCAI-icon-3.png?1694400642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x051a66a7750098fb1ec6548d36e275bb23749a78",
+    "ethereum": "0xe35009059cb55ded065027e9832a2c564aff7512"
+  }
+}

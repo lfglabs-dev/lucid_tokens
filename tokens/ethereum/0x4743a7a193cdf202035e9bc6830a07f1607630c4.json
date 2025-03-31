@@ -1,0 +1,15 @@
+{
+  "symbol": "guy",
+  "name": "Family Guy",
+  "address": "0x4743a7a193cdF202035e9Bc6830A07f1607630C4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30435/thumb/photo_2023-05-16_18-24-10_%281%29.png?1684470217",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4743a7a193cdf202035e9bc6830a07f1607630c4"
+  }
+}

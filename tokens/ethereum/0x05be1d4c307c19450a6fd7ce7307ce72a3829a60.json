@@ -1,0 +1,15 @@
+{
+  "symbol": "imf",
+  "name": "International Meme Fund",
+  "address": "0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52031/thumb/imf-coingecko-200px.png?1732365603",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x05be1d4c307c19450a6fd7ce7307ce72a3829a60"
+  }
+}

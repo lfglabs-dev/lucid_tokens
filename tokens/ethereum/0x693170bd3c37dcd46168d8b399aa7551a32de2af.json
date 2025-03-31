@@ -1,0 +1,15 @@
+{
+  "symbol": "taoshard",
+  "name": "TAO Subnet Sharding",
+  "address": "0x693170bd3c37DCD46168d8b399AA7551A32de2aF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36051/thumb/LOGO_COIN_2-removebg-preview.png?1710402750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x693170bd3c37dcd46168d8b399aa7551a32de2af"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ptu",
+  "name": "Pintu",
+  "address": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20281/thumb/image_1_8dd79a68aa.png?1636733599",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc229c69eb3bb51828d0caa3509a05a51083898dd"
+  }
+}

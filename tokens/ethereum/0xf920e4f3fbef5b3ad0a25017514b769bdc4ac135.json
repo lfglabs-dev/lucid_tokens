@@ -1,0 +1,15 @@
+{
+  "symbol": "bax",
+  "name": "BABB",
+  "address": "0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2168/thumb/babb.png?1547036466",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135"
+  }
+}

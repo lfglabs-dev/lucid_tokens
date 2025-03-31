@@ -1,0 +1,15 @@
+{
+  "symbol": "kai",
+  "name": "Komputai",
+  "address": "0xe75F2AcaFbA1aD56C5eD712ffbc1d31910e74396",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37145/thumb/W0WXzwID_400x400.png?1713444313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe75f2acafba1ad56c5ed712ffbc1d31910e74396"
+  }
+}

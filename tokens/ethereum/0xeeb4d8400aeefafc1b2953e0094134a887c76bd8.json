@@ -1,0 +1,16 @@
+{
+  "symbol": "avail",
+  "name": "Avail",
+  "address": "0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37372/thumb/avail-logo.png?1714145201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeeb4d8400aeefafc1b2953e0094134a887c76bd8",
+    "base": "0xd89d90d26b48940fa8f58385fe84625d468e057a"
+  }
+}

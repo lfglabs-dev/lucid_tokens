@@ -1,0 +1,15 @@
+{
+  "symbol": "arca",
+  "name": "ArcheriumAi",
+  "address": "0xBF358f7023D6fd0D11AC284EB47B877C1AF635Aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53038/thumb/0xbf358f7023d6fd0d11ac284eb47b877c1af635aa.jpg?1735073519",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf358f7023d6fd0d11ac284eb47b877c1af635aa"
+  }
+}

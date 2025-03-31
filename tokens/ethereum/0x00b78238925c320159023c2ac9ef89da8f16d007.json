@@ -1,0 +1,15 @@
+{
+  "symbol": "vps",
+  "name": "VPS Ai",
+  "address": "0x00B78238925C320159023C2AC9ef89dA8f16D007",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36250/thumb/200px_Logo.png?1710924510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00b78238925c320159023c2ac9ef89da8f16d007"
+  }
+}

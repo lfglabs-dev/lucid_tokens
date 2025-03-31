@@ -1,0 +1,16 @@
+{
+  "symbol": "creo",
+  "name": "Creo Engine",
+  "address": "0xe636f94a71eC52Cc61eF21787aE351AD832347B7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25419/thumb/17000.png?1651736080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9521728bf66a867bc65a93ece4a543d817871eb7",
+    "ethereum": "0xe636f94a71ec52cc61ef21787ae351ad832347b7"
+  }
+}

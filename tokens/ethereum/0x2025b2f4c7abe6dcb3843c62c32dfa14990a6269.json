@@ -1,0 +1,15 @@
+{
+  "symbol": "snek",
+  "name": "ETH Snek",
+  "address": "0x2025b2F4c7ABe6dcb3843c62c32dfa14990a6269",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53186/thumb/SNEK200.jpg?1735582640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2025b2f4c7abe6dcb3843c62c32dfa14990a6269"
+  }
+}

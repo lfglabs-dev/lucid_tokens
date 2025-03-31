@@ -1,0 +1,15 @@
+{
+  "symbol": "hope",
+  "name": "History of Pepe",
+  "address": "0x3B37A9caF74ead14E521D46AF0bF00737d827828",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38014/thumb/Hope1.png?1716276210",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3b37a9caf74ead14e521d46af0bf00737d827828"
+  }
+}

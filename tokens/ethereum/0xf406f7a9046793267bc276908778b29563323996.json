@@ -1,0 +1,16 @@
+{
+  "symbol": "vision",
+  "name": "APY.vision",
+  "address": "0xF406F7A9046793267bc276908778B29563323996",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13288/thumb/apyvisionlogo200circle.png?1607059042",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf406f7a9046793267bc276908778b29563323996",
+    "polygon-pos": "0x034b2090b579228482520c589dbd397c53fc51cc"
+  }
+}

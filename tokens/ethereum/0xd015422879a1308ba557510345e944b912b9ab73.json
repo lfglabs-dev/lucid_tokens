@@ -1,0 +1,15 @@
+{
+  "symbol": "$trump",
+  "name": "FreeTrump",
+  "address": "0xD015422879A1308ba557510345E944B912b9aB73",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34699/thumb/photo_2024-01-19_11-00-46.jpg?1705859328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd015422879a1308ba557510345e944b912b9ab73"
+  }
+}

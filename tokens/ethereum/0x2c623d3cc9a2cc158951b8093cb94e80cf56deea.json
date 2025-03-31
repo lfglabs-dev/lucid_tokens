@@ -1,0 +1,15 @@
+{
+  "symbol": "nex",
+  "name": "NexAI",
+  "address": "0x2C623D3cC9a2Cc158951b8093cB94e80cf56DeEA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31056/thumb/NexAI-LOGO_200x200.png?1689926100",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c623d3cc9a2cc158951b8093cb94e80cf56deea"
+  }
+}

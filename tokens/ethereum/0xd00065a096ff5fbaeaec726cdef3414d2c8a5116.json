@@ -1,0 +1,15 @@
+{
+  "symbol": "magnus",
+  "name": "Emotional Support Dog",
+  "address": "0xd00065A096fF5fbAEAEc726cdEF3414D2c8a5116",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52345/thumb/Magnus.jpg?1733132014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd00065a096ff5fbaeaec726cdef3414d2c8a5116"
+  }
+}

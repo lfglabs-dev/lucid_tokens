@@ -1,0 +1,17 @@
+{
+  "symbol": "eusd",
+  "name": "Electronic USD",
+  "address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28445/thumb/eusd.png?1670579597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f",
+    "arbitrum-one": "0x12275dcb9048680c4be40942ea4d92c74c63b844",
+    "base": "0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4"
+  }
+}

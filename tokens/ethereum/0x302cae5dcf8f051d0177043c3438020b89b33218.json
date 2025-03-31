@@ -1,0 +1,15 @@
+{
+  "symbol": "boost",
+  "name": "Boost",
+  "address": "0x302CAe5dcf8f051d0177043C3438020b89b33218",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17657/thumb/02FjG1Og.png?1628757020",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x302cae5dcf8f051d0177043c3438020b89b33218"
+  }
+}

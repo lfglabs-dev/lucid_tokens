@@ -1,0 +1,15 @@
+{
+  "symbol": "gst-eth",
+  "name": "STEPN Green Satoshi Token on ETH",
+  "address": "0x473037de59cf9484632f4A27B509CFE8d4a31404",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26528/thumb/gst_eth.png?1658487279",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x473037de59cf9484632f4a27b509cfe8d4a31404"
+  }
+}

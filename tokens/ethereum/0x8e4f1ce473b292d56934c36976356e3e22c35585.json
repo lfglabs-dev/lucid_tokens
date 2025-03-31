@@ -1,0 +1,15 @@
+{
+  "symbol": "fias",
+  "name": "FIAS",
+  "address": "0x8e4F1ce473b292D56934C36976356E3E22c35585",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55026/thumb/fias-logomark-new200x200.png?1743245947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e4f1ce473b292d56934c36976356e3e22c35585"
+  }
+}

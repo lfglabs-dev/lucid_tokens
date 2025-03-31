@@ -1,0 +1,15 @@
+{
+  "symbol": "ggmt",
+  "name": "GG MetaGame",
+  "address": "0x76aAb5FD2243d99EAc92d4d9EBF23525d3ACe4Ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37040/thumb/200x200_GG_MetaGame.png?1713162096",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x76aab5fd2243d99eac92d4d9ebf23525d3ace4ec"
+  }
+}

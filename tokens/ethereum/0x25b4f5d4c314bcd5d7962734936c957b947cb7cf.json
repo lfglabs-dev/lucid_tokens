@@ -1,0 +1,15 @@
+{
+  "symbol": "tgc",
+  "name": "TG.Casino",
+  "address": "0x25B4f5D4C314bCD5d7962734936C957B947cb7CF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34473/thumb/TGC_Logo_200x200.png?1704998035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x25b4f5d4c314bcd5d7962734936c957b947cb7cf"
+  }
+}

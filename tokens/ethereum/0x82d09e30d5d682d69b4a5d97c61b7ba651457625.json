@@ -1,0 +1,16 @@
+{
+  "symbol": "tkn",
+  "name": "Token Name Service",
+  "address": "0x82D09e30d5D682D69B4A5d97C61b7BA651457625",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39886/thumb/Tri-gradient_Group_5135_2x.png?1724682287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625",
+    "base": "0x78b3c724a2f663d11373c4a1978689271895256f"
+  }
+}

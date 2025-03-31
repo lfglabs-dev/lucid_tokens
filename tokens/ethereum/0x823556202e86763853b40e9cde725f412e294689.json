@@ -1,0 +1,15 @@
+{
+  "symbol": "asto",
+  "name": "Altered State Machine",
+  "address": "0x823556202e86763853b40e9cDE725f412e294689",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24893/thumb/ASTO.png?1649303806",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x823556202e86763853b40e9cde725f412e294689"
+  }
+}

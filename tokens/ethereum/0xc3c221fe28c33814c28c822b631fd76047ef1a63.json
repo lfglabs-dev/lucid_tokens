@@ -1,0 +1,15 @@
+{
+  "symbol": "mm",
+  "name": "Millimeter",
+  "address": "0xC3c221fE28c33814c28c822b631fd76047eF1a63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12941/thumb/mm%EB%A1%9C%EA%B3%A0-2.png?1603765868",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc3c221fe28c33814c28c822b631fd76047ef1a63"
+  }
+}

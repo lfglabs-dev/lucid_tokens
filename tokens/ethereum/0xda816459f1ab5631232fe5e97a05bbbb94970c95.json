@@ -1,0 +1,15 @@
+{
+  "symbol": "yvdai",
+  "name": "yvDAI",
+  "address": "0xdA816459F1AB5631232FE5e97a05BBBb94970c95",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28743/thumb/yvdai.png?1673842143",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda816459f1ab5631232fe5e97a05bbbb94970c95"
+  }
+}

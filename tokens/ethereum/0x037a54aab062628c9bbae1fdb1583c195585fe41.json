@@ -1,0 +1,15 @@
+{
+  "symbol": "lcx",
+  "name": "LCX",
+  "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1574327008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x037a54aab062628c9bbae1fdb1583c195585fe41"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "groggo",
+  "name": "Groggo By Matt Furie",
+  "address": "0x420110D74c4c3ea14043A09E81FAD53e1932F54c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50957/thumb/groggo.webp?1729587900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x420110d74c4c3ea14043a09e81fad53e1932f54c"
+  }
+}

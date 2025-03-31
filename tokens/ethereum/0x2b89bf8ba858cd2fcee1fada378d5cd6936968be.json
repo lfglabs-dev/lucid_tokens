@@ -1,0 +1,15 @@
+{
+  "symbol": "wscrt",
+  "name": "Secret (ERC20)",
+  "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13767/thumb/Secret_S_Black_Coingecko.png?1611667298",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be"
+  }
+}

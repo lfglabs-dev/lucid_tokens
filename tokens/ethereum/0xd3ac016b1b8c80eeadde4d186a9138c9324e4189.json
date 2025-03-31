@@ -1,0 +1,23 @@
+{
+  "symbol": "ok",
+  "name": "Okcash",
+  "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/274/thumb/okcash.png?1548330217",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x523821d20a283d955f6205b4c9252779cd0f964b",
+    "optimistic-ethereum": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+    "ethereum": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+    "fantom": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+    "avalanche": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+    "arbitrum-one": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+    "polygon-pos": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+    "base": "0x979584b07e1e14c7718c9fdab2e35bbb5fec2c59",
+    "solana": "HvPrYvgJiBtwUC7H4bi8L5bqnirFPWc2J9NdVy6UFiZm"
+  }
+}

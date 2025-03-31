@@ -1,0 +1,16 @@
+{
+  "symbol": "perl",
+  "name": "PERL.eco",
+  "address": "0xeca82185adCE47f39c684352B0439f030f860318",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4682/thumb/PERL.eco-Icon-green_6x.png?1624365340",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeca82185adce47f39c684352b0439f030f860318",
+    "polygon-pos": "0xb121fcd122daaa153bb8a102754127b2682645cb"
+  }
+}

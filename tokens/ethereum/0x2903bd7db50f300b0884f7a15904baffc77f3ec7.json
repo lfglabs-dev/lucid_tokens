@@ -1,0 +1,16 @@
+{
+  "symbol": "arc",
+  "name": "Arcade",
+  "address": "0x2903Bd7dB50f300b0884f7a15904bAffc77f3eC7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36682/thumb/Arcade_200_x_200.png?1712067926",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2903bd7db50f300b0884f7a15904baffc77f3ec7",
+    "avalanche": "0xfa7664f2385743b73369bdc9427cdb2a942af809"
+  }
+}

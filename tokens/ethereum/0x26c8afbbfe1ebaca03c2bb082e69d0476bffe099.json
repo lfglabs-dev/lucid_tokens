@@ -1,0 +1,17 @@
+{
+  "symbol": "cell",
+  "name": "Cellframe",
+  "address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14465/thumb/cellframe-coingecko.png?1644483414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+    "cellframe": "0xB1F56F4BD0C8F3F99BE753F8F223C9754C116ED593A488E2D605593F8F4956E5",
+    "binance-smart-chain": "0xd98438889ae7364c7e2a3540547fad042fb24642"
+  }
+}

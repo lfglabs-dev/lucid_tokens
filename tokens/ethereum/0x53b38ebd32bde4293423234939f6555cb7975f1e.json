@@ -1,0 +1,15 @@
+{
+  "symbol": "fomeow",
+  "name": "fomeow",
+  "address": "0x53b38ebd32bDe4293423234939F6555Cb7975f1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38769/thumb/1000097859.jpg?1718767927",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x53b38ebd32bde4293423234939f6555cb7975f1e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pepurai",
+  "name": "PEPURAI",
+  "address": "0x9863BcC2Fb23dfDf5fE275Aa4C5575a32A580911",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31702/thumb/Pepurai-_LOGO_%282%29.png?1694575307",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9863bcc2fb23dfdf5fe275aa4c5575a32a580911"
+  }
+}

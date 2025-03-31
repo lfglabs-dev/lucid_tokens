@@ -1,0 +1,15 @@
+{
+  "symbol": "evire",
+  "name": "Evire",
+  "address": "0x7ceEc758dfe5EF8C32cDe7b2259CC79B1891E8ED",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38922/thumb/200x200.png?1719517028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ceec758dfe5ef8c32cde7b2259cc79b1891e8ed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "zen",
+  "name": "Zenith",
+  "address": "0x3bBBB6a231d0a1a12c6b79Ba5BC2Ed6358Db5160",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35861/thumb/o7lSBgbb_400x400.jpg?1709921042",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3bbbb6a231d0a1a12c6b79ba5bc2ed6358db5160"
+  }
+}

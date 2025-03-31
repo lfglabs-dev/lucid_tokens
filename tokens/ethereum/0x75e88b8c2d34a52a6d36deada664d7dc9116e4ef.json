@@ -1,0 +1,15 @@
+{
+  "symbol": "zrs",
+  "name": "Zaros",
+  "address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37060/thumb/zrs.png?1713175430",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x75e88b8c2d34a52a6d36deada664d7dc9116e4ef"
+  }
+}

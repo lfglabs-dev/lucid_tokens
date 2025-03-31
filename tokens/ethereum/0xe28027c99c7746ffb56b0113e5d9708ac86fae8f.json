@@ -1,0 +1,16 @@
+{
+  "symbol": "king",
+  "name": "KING Coin",
+  "address": "0xE28027c99C7746fFb56B0113e5d9708aC86fAE8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30183/thumb/king.png?1683600013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "solana": "9noXzpXnkyEcKF3AeXqUHTdR59V5uvrRBUZ9bwfQwxeq",
+    "ethereum": "0xe28027c99c7746ffb56b0113e5d9708ac86fae8f"
+  }
+}

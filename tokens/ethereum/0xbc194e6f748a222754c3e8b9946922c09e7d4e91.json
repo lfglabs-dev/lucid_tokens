@@ -1,0 +1,16 @@
+{
+  "symbol": "lev",
+  "name": "Lever Network",
+  "address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15323/thumb/lever.PNG?1620513101",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91",
+    "binance-smart-chain": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91"
+  }
+}

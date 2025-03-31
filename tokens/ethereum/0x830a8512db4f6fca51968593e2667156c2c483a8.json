@@ -1,0 +1,16 @@
+{
+  "symbol": "wen",
+  "name": "WEN Token",
+  "address": "0x830a8512db4F6fCA51968593E2667156C2c483A8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30400/thumb/kxtrOzUd_400x400.jpg?1684370899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x830a8512db4f6fca51968593e2667156c2c483a8",
+    "polygon-pos": "0x11a88f949c0592238959142653bb6847c6523d81"
+  }
+}

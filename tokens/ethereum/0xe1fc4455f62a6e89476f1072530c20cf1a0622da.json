@@ -1,0 +1,15 @@
+{
+  "symbol": "phtr",
+  "name": "Phuture",
+  "address": "0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16071/thumb/phuture.png?1637302684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe1fc4455f62a6e89476f1072530c20cf1a0622da"
+  }
+}

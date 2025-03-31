@@ -1,0 +1,16 @@
+{
+  "symbol": "cats",
+  "name": "CatCoin Token",
+  "address": "0xD4B92b1700615afAE333B9D16D28Eb55E8E689B8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23569/thumb/17318.png?1644475322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2f0c6e147974bfbf7da557b88643d74c324053a2",
+    "ethereum": "0xd4b92b1700615afae333b9d16d28eb55e8e689b8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "avatly",
+  "name": "Avatly",
+  "address": "0x5fa3418D828e5Cd3c61A66e0fC7FA4a35dadF960",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33922/thumb/28738.png?1703370955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5fa3418d828e5cd3c61a66e0fc7fa4a35dadf960"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "sanin",
+  "name": "Sanin",
+  "address": "0xd3C5BdBc6De5Ea3899a28f6cd419f29c09fa749f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50888/thumb/SZYAAWuw_400x400_%281%29.jpg?1729501616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd3c5bdbc6de5ea3899a28f6cd419f29c09fa749f"
+  }
+}

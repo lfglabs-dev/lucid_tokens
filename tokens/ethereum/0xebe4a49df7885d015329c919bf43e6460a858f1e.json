@@ -1,0 +1,15 @@
+{
+  "symbol": "shk",
+  "name": "iShook",
+  "address": "0xEBE4a49dF7885d015329c919bF43e6460a858F1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3037/thumb/shk.png?1696503772",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xebe4a49df7885d015329c919bf43e6460a858f1e"
+  }
+}

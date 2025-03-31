@@ -1,0 +1,15 @@
+{
+  "symbol": "taonu",
+  "name": "TAO INU",
+  "address": "0x4e9fcD48Af4738e3bF1382009dC1e93eBFCE698F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33145/thumb/photo_2023-11-21_23.13.35.jpeg?1700821870",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4e9fcd48af4738e3bf1382009dc1e93ebfce698f"
+  }
+}

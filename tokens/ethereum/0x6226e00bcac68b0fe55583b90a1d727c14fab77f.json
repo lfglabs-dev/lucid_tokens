@@ -1,0 +1,16 @@
+{
+  "symbol": "mtv",
+  "name": "MultiVAC",
+  "address": "0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4937/thumb/MultiVAC.png?1558598585",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+    "binance-smart-chain": "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1"
+  }
+}

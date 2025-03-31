@@ -1,0 +1,15 @@
+{
+  "symbol": "hemule",
+  "name": "Hemule",
+  "address": "0xeAA63125dd63f10874F99CdBbb18410e7Fc79dD3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33798/thumb/photo_2023-12-18_04-47-31.jpg?1702990624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeaa63125dd63f10874f99cdbbb18410e7fc79dd3"
+  }
+}

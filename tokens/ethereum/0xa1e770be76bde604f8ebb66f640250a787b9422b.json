@@ -1,0 +1,15 @@
+{
+  "symbol": "deb",
+  "name": "AndUsChain",
+  "address": "0xA1E770be76BDe604F8Ebb66f640250a787B9422B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20842/thumb/DEB.png?1637743593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1e770be76bde604f8ebb66f640250a787b9422b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wnz",
+  "name": "Winnerz",
+  "address": "0x02795795196F563fDafCE8Dd97fCA4871dEd51C3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34924/thumb/wnz.jpeg?1706666326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x02795795196f563fdafce8dd97fca4871ded51c3"
+  }
+}

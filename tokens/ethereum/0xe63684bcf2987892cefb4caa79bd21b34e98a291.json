@@ -1,0 +1,15 @@
+{
+  "symbol": "kfc",
+  "name": "Chicken",
+  "address": "0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12569/thumb/download.png?1600840301",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe63684bcf2987892cefb4caa79bd21b34e98a291"
+  }
+}

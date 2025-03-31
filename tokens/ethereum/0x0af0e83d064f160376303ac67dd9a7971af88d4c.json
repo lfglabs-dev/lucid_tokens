@@ -1,0 +1,15 @@
+{
+  "symbol": "meslbr",
+  "name": "Match Finance esLBR",
+  "address": "0x0aF0E83D064f160376303ac67DD9A7971AF88d4C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0af0e83d064f160376303ac67dd9a7971af88d4c"
+  }
+}

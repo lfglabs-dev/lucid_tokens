@@ -1,0 +1,15 @@
+{
+  "symbol": "xmx",
+  "name": "XMax",
+  "address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4643/thumb/xmx.png?1574682262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f8c45b896784a1e408526b9300519ef8660209c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cet",
+  "name": "CoinEx",
+  "address": "0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4817/thumb/coinex-token.png?1547040183",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
+  }
+}

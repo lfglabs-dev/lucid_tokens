@@ -1,0 +1,16 @@
+{
+  "symbol": "rekt",
+  "name": "Rekt",
+  "address": "0xdd3B11eF34cd511a2DA159034a05fcb94D806686",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdd3b11ef34cd511a2da159034a05fcb94d806686",
+    "base": "0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba"
+  }
+}

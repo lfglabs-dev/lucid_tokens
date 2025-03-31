@@ -1,0 +1,15 @@
+{
+  "symbol": "devt",
+  "name": "DeHorizon",
+  "address": "0xB5c578947de0fd71303F71F2C3d41767438bD0de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21373/thumb/A3RjDqet_400x400.jpg?1639031847",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb5c578947de0fd71303f71f2c3d41767438bd0de"
+  }
+}

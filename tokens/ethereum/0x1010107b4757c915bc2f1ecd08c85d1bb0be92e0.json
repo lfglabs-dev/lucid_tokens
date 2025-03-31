@@ -1,0 +1,15 @@
+{
+  "symbol": "brain",
+  "name": "Brain Frog",
+  "address": "0x1010107B4757C915BC2F1Ecd08c85D1bB0be92e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53693/thumb/Brain_Frog.png?1737056725",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1010107b4757c915bc2f1ecd08c85d1bb0be92e0"
+  }
+}

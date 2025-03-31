@@ -1,0 +1,23 @@
+{
+  "symbol": "stg",
+  "name": "Stargate Finance",
+  "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1647654518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+    "optimistic-ethereum": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
+    "linea": "0x808d7c71ad2ba3fa531b068a2417c63106bc0949",
+    "binance-smart-chain": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+    "fantom": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "avalanche": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "arbitrum-one": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+    "polygon-pos": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "base": "0xe3b53af74a4bf62ae5511055290838050bf764df"
+  }
+}

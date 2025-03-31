@@ -1,0 +1,15 @@
+{
+  "symbol": "zik",
+  "name": "ZIK coin",
+  "address": "0xD4419C2d3DAA986Dc30444Fa333a846be44Fd1eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39265/thumb/IMG-20240627-WA0168.jpg?1721360189",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb"
+  }
+}

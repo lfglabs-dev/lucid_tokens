@@ -1,0 +1,19 @@
+{
+  "symbol": "dzhv",
+  "name": "DizzyHavoc",
+  "address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35575/thumb/dizzyhavoc_circle_3_200_200_transparentBg.png?1709194317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe",
+    "binance-smart-chain": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe",
+    "avalanche": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe",
+    "arbitrum-one": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe",
+    "base": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe"
+  }
+}

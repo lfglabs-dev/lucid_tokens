@@ -1,0 +1,15 @@
+{
+  "symbol": "cirus",
+  "name": "Cirus",
+  "address": "0xA01199c61841Fce3b3daFB83FeFC1899715c8756",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17798/thumb/8p0Bvi90_400x400.jpg?1629281912",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa01199c61841fce3b3dafb83fefc1899715c8756"
+  }
+}

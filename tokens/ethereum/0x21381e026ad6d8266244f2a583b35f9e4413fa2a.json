@@ -1,0 +1,16 @@
+{
+  "symbol": "form",
+  "name": "Formation FI",
+  "address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16145/thumb/FORM.png?1623119824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x21381e026ad6d8266244f2a583b35f9e4413fa2a",
+    "binance-smart-chain": "0x25a528af62e56512a19ce8c3cab427807c28cc19"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fusdt",
+  "name": "Fluid Tether USD",
+  "address": "0x5C20B550819128074FD538Edf79791733ccEdd18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38031/thumb/fusdt.png?1716322799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c20b550819128074fd538edf79791733ccedd18"
+  }
+}

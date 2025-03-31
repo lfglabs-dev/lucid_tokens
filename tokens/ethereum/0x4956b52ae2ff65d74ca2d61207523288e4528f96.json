@@ -1,0 +1,15 @@
+{
+  "symbol": "rlp",
+  "name": "Resolv RLP",
+  "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4956b52ae2ff65d74ca2d61207523288e4528f96"
+  }
+}

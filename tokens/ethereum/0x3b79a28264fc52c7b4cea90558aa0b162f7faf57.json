@@ -1,0 +1,18 @@
+{
+  "symbol": "wmemo",
+  "name": "Wonderful Memories",
+  "address": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22392/thumb/wmemo.png?1641792100",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+    "ethereum": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
+    "fantom": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52",
+    "arbitrum-one": "0xecf2adaff1de8a512f6e8bfe67a2c836edb25da3"
+  }
+}

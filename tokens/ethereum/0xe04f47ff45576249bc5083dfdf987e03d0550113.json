@@ -1,0 +1,18 @@
+{
+  "symbol": "sama",
+  "name": "Moonsama",
+  "address": "0xE04F47FF45576249bc5083DFDf987e03d0550113",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28308/thumb/Small.png?1669340181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "beam": "0x0650c20d8b536da43818578071d43cddd8ffe854",
+    "exosama": "0x8c992cba48189a79204223d106fcb1d797a5f87a",
+    "ethereum": "0xe04f47ff45576249bc5083dfdf987e03d0550113",
+    "base": "0x63228048121877a9e0f52020834a135074e8207c"
+  }
+}

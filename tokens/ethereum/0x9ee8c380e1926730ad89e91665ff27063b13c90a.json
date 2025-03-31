@@ -1,0 +1,15 @@
+{
+  "symbol": "ca",
+  "name": "Coupon Assets",
+  "address": "0x9ee8c380E1926730aD89e91665FF27063b13c90A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32202/thumb/ca.jpg?1696746380",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ee8c380e1926730ad89e91665ff27063b13c90a"
+  }
+}

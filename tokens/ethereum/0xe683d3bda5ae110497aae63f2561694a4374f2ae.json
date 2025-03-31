@@ -1,0 +1,15 @@
+{
+  "symbol": "trumpsfight",
+  "name": "TrumpsFight",
+  "address": "0xE683d3BDa5AE110497aAe63f2561694A4374F2aE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50796/thumb/IMG_2779.jpeg?1729235564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe683d3bda5ae110497aae63f2561694a4374f2ae"
+  }
+}

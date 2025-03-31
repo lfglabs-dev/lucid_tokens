@@ -1,0 +1,15 @@
+{
+  "symbol": "keth",
+  "name": "Stakehouse kETH",
+  "address": "0xE0C28A5A2da3920946E8Bf821F61F7BEA311048b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33656/thumb/kETH.png?1702597766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe0c28a5a2da3920946e8bf821f61f7bea311048b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "block",
+  "name": "BlockGames",
+  "address": "0x8fc17671D853341D9e8B001F5Fc3C892d09CB53A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36976/thumb/QTR7pMsP_400x400.jpg?1712911941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8fc17671d853341d9e8b001f5fc3c892d09cb53a"
+  }
+}

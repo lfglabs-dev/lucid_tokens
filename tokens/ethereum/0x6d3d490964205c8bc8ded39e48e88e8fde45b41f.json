@@ -1,0 +1,15 @@
+{
+  "symbol": "gooch",
+  "name": "Gooch",
+  "address": "0x6d3D490964205c8bC8DeD39e48e88E8Fde45b41f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30290/thumb/gooch.jpg?1683866049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d3d490964205c8bc8ded39e48e88e8fde45b41f"
+  }
+}

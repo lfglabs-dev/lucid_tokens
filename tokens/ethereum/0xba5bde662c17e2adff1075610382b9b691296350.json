@@ -1,0 +1,15 @@
+{
+  "symbol": "rare",
+  "name": "SuperRare",
+  "address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba5bde662c17e2adff1075610382b9b691296350"
+  }
+}

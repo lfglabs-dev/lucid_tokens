@@ -1,0 +1,15 @@
+{
+  "symbol": "aqt",
+  "name": "Alpha Quark",
+  "address": "0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12872/thumb/alpha_quark_logo.png?1605169527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93"
+  }
+}

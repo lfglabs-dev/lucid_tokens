@@ -1,0 +1,15 @@
+{
+  "symbol": "vlt",
+  "name": "Bankroll Vault",
+  "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11638/thumb/vlt-200.png?1592272725",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6b785a0322126826d8226d77e173d75dafb84d11"
+  }
+}

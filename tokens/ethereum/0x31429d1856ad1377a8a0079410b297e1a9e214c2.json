@@ -1,0 +1,15 @@
+{
+  "symbol": "angle",
+  "name": "ANGLE",
+  "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19060/thumb/ANGLE_Token_Logo.png?1635281291",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x31429d1856ad1377a8a0079410b297e1a9e214c2"
+  }
+}

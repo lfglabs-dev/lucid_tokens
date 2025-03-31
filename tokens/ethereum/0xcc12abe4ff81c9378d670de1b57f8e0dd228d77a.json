@@ -1,0 +1,15 @@
+{
+  "symbol": "aren",
+  "name": "Aave REN",
+  "address": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14249/thumb/aREN.382be386.png?1615528633",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a"
+  }
+}

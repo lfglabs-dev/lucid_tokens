@@ -1,0 +1,15 @@
+{
+  "symbol": "eye",
+  "name": "EyeTech",
+  "address": "0xb146823Fb8EA064d14bA1a52e3E55CdE09AFfF2D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31896/thumb/200.png?1695639930",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb146823fb8ea064d14ba1a52e3e55cde09afff2d"
+  }
+}

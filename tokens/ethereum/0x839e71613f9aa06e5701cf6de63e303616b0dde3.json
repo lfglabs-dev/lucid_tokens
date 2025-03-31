@@ -1,0 +1,16 @@
+{
+  "symbol": "vvs",
+  "name": "VVS Finance",
+  "address": "0x839e71613f9aA06E5701CF6de63E303616B0DDE3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20210/thumb/8glAYOTM_400x400.jpg?1636667919",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0x2d03bece6747adc00e1a131bba1469c15fd11e03",
+    "ethereum": "0x839e71613f9aa06e5701cf6de63e303616b0dde3"
+  }
+}

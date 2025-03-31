@@ -1,0 +1,15 @@
+{
+  "symbol": "cweb",
+  "name": "Coinweb",
+  "address": "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21607/thumb/Logo_200x200.png?1641566717",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04"
+  }
+}

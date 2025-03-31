@@ -1,0 +1,17 @@
+{
+  "symbol": "trvl",
+  "name": "Dtravel",
+  "address": "0xd47bDF574B4F76210ed503e0EFe81B58Aa061F3d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20911/thumb/trvl.jpeg?1649390006",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+    "binance-smart-chain": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f",
+    "base": "0x74aa9bb52b36a378a6e641b86d7acb76dc9b3940"
+  }
+}

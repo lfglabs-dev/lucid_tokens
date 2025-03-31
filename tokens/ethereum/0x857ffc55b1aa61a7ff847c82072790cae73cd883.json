@@ -1,0 +1,15 @@
+{
+  "symbol": "eefi",
+  "name": "Elastic Finance Token",
+  "address": "0x857FfC55B1Aa61A7fF847C82072790cAE73cd883",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37075/thumb/EEFI.jpg?1713247518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x857ffc55b1aa61a7ff847c82072790cae73cd883"
+  }
+}

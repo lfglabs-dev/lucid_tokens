@@ -1,0 +1,15 @@
+{
+  "symbol": "wlyx",
+  "name": "Wrapped LYX (SigmaSwap)",
+  "address": "0x0808E6C4400BdE1d70Db0d02170b67DE05E07eF5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34338/thumb/wLYX.png?1704679928",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0808e6c4400bde1d70db0d02170b67de05e07ef5"
+  }
+}

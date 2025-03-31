@@ -1,0 +1,16 @@
+{
+  "symbol": "bzrx",
+  "name": "bZx Protocol",
+  "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11811/thumb/bzrx.png?1594563172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x56d811088235f11c8920698a204a5010a788f4b3",
+    "energi": "0xe19ab0a7f5bf5b243e011bd070cf9e26296f7ebc"
+  }
+}

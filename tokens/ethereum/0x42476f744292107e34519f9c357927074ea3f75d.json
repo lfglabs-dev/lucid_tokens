@@ -1,0 +1,16 @@
+{
+  "symbol": "loom",
+  "name": "Loom Network (NEW)",
+  "address": "0x42476F744292107e34519F9c357927074Ea3F75D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14735/thumb/LOOM.png?1617967111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42476f744292107e34519f9c357927074ea3f75d",
+    "energi": "0xb506a79b296b78965f0a5c15e1474b026c23d9fa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "garbage",
+  "name": "Garbage",
+  "address": "0x619e398858a3110dF4d89056a15A40338a01e65F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33624/thumb/CircleLogo_200x200_EH_%281%29.png?1702532702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x619e398858a3110df4d89056a15a40338a01e65f"
+  }
+}

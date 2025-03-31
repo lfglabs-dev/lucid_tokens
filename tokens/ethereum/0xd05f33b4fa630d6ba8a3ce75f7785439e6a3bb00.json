@@ -1,0 +1,15 @@
+{
+  "symbol": "flochi",
+  "name": "Flochi Inu",
+  "address": "0xD05F33b4Fa630D6Ba8A3ce75F7785439e6A3bB00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38545/thumb/92yZhbXv_400x400.jpg?1717928366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd05f33b4fa630d6ba8a3ce75f7785439e6a3bb00"
+  }
+}

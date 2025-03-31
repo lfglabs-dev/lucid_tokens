@@ -1,0 +1,15 @@
+{
+  "symbol": "jj",
+  "name": "JEJE",
+  "address": "0x1FDD61eF9a5C31B9a2abC7D39c139c779e8412Af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38083/thumb/1000023826.png?1716476656",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af"
+  }
+}

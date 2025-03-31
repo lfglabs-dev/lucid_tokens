@@ -1,0 +1,17 @@
+{
+  "symbol": "zbu",
+  "name": "Zeebu",
+  "address": "0xe77f6aCD24185e149e329C1C0F479201b9Ec2f4B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31145/thumb/200x200_Front_token.png?1691028767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe77f6acd24185e149e329c1c0f479201b9ec2f4b",
+    "binance-smart-chain": "0x4d3dc895a9edb234dfa3e303a196c009dc918f84",
+    "base": "0x2c8c89c442436cc6c0a77943e09c8daf49da3161"
+  }
+}

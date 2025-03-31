@@ -1,0 +1,15 @@
+{
+  "symbol": "cjpy",
+  "name": "Convertible JPY Token",
+  "address": "0x1cfa5641c01406aB8AC350dEd7d735ec41298372",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31356/thumb/CJPY_logo.png?1692613700",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1cfa5641c01406ab8ac350ded7d735ec41298372"
+  }
+}

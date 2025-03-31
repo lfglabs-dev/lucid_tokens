@@ -1,0 +1,15 @@
+{
+  "symbol": "nmai",
+  "name": "NomotaAI",
+  "address": "0x837EE5a664d51Bc2e7d26EB63cFfEb48e037bdE2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37055/thumb/logo_spaced_200.png?1713171582",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x837ee5a664d51bc2e7d26eb63cffeb48e037bde2"
+  }
+}

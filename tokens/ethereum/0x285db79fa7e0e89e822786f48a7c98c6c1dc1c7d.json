@@ -1,0 +1,15 @@
+{
+  "symbol": "mic",
+  "name": "Magic Internet Cash",
+  "address": "0x285DB79fa7e0e89E822786F48A7c98C6c1dC1c7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31405/thumb/MICsmall.png?1692843767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x285db79fa7e0e89e822786f48a7c98c6c1dc1c7d"
+  }
+}

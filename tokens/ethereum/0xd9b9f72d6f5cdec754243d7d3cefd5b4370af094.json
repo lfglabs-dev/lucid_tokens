@@ -1,0 +1,15 @@
+{
+  "symbol": "lgas",
+  "name": "Laser Gas",
+  "address": "0xD9b9f72D6F5cdec754243d7D3CeFD5b4370Af094",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39701/thumb/Untitled_design_%2838%29.png?1723692917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd9b9f72d6f5cdec754243d7d3cefd5b4370af094"
+  }
+}

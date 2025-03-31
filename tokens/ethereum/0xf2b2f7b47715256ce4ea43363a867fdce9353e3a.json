@@ -1,0 +1,17 @@
+{
+  "symbol": "brise",
+  "name": "Bitgert",
+  "address": "0xF2B2f7b47715256Ce4eA43363a867fdce9353e3A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17388/thumb/bitrise.PNG?1627522379",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+    "ethereum": "0xf2b2f7b47715256ce4ea43363a867fdce9353e3a",
+    "solana": "ErSZNwsamWjR9Hj2o18GLwVyTkooyGbdptjMjuv72X8A"
+  }
+}

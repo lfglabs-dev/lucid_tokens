@@ -1,0 +1,15 @@
+{
+  "symbol": "sweet",
+  "name": "Sweet",
+  "address": "0x2dF7D0E4903029717c949CaD204075A3D75C8806",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31959/thumb/0x2df7d0e4903029717c949cad204075a3d75c8806.png?1695727227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2df7d0e4903029717c949cad204075a3d75c8806"
+  }
+}

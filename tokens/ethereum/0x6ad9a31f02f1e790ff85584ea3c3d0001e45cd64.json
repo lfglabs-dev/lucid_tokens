@@ -1,0 +1,15 @@
+{
+  "symbol": "c2h6",
+  "name": "Ethane",
+  "address": "0x6aD9a31f02F1E790fF85584EA3c3D0001E45cd64",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31118/thumb/Ethane200x200.png?1690530269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6ad9a31f02f1e790ff85584ea3c3d0001e45cd64"
+  }
+}

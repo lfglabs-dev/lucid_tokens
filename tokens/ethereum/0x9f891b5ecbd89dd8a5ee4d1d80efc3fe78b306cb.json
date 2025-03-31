@@ -1,0 +1,15 @@
+{
+  "symbol": "sonik",
+  "name": "SONIK",
+  "address": "0x9F891b5ECbd89DD8A5Ee4d1D80EfC3fE78b306CB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31693/thumb/Sonik_Logo_%281%29.png?1694427999",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f891b5ecbd89dd8a5ee4d1d80efc3fe78b306cb"
+  }
+}

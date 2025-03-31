@@ -1,0 +1,15 @@
+{
+  "symbol": "zeta",
+  "name": "stoicDAO",
+  "address": "0xB281d84989c06e2A6CCdC5eA7BF1663c79a1c31A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33343/thumb/lCisSJAU_400x400.jpg?1701528682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a"
+  }
+}

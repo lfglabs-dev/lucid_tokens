@@ -1,0 +1,18 @@
+{
+  "symbol": "ghst",
+  "name": "Aavegotchi",
+  "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12467/thumb/ghst_200.png?1600750321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+    "energi": "0x4bd75f8c7e067ea9b6e2dfbecd99d805396bc5ff",
+    "polygon-pos": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+    "base": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb"
+  }
+}

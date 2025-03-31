@@ -1,0 +1,15 @@
+{
+  "symbol": "astro",
+  "name": "AstroTools",
+  "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12345/thumb/AT-flat-purple_logo.png?1599190828",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcbd55d4ffc43467142761a764763652b48b969ff"
+  }
+}

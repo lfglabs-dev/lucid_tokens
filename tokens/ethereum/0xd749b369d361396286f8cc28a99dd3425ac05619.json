@@ -1,0 +1,15 @@
+{
+  "symbol": "brettei",
+  "name": "Brettei",
+  "address": "0xd749B369d361396286f8CC28a99Dd3425AC05619",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38596/thumb/IMAGE_2024-06-08_22_47_06.jpg?1718094678",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd749b369d361396286f8cc28a99dd3425ac05619"
+  }
+}

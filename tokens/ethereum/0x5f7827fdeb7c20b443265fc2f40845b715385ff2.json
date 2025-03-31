@@ -1,0 +1,15 @@
+{
+  "symbol": "eurcv",
+  "name": "EUR CoinVertible",
+  "address": "0x5F7827FDeb7c20b443265Fc2F40845B715385Ff2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33415/thumb/eurcv_%281%29.png?1701752017",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5f7827fdeb7c20b443265fc2f40845b715385ff2"
+  }
+}

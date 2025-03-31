@@ -1,0 +1,16 @@
+{
+  "symbol": "hid",
+  "name": "Hypersign Identity",
+  "address": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16158/thumb/hypersign_ONLYlogo_Yellow.png?1623140987",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
+    "polygon-pos": "0x87847703d4bb4fcd42db887ffdcb94496e77e3ab"
+  }
+}

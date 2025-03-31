@@ -1,0 +1,16 @@
+{
+  "symbol": "aria20",
+  "name": "Arianee",
+  "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5054/thumb/Aria_Logo_256.png?1610097866",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
+    "polygon-pos": "0x46f48fbdedaa6f5500993bede9539ef85f4bee8e"
+  }
+}

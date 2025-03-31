@@ -1,0 +1,15 @@
+{
+  "symbol": "hlg",
+  "name": "Holograph",
+  "address": "0x740df024CE73f589ACD5E8756b377ef8C6558BaB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37721/thumb/Holograph_Logo_Black.png?1715332686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x740df024ce73f589acd5e8756b377ef8c6558bab"
+  }
+}

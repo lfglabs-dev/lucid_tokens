@@ -1,0 +1,21 @@
+{
+  "symbol": "ctsi",
+  "name": "Cartesi",
+  "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11038/thumb/cartesi.png?1592288021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+    "optimistic-ethereum": "0xec6adef5e1006bb305bb1975333e8fc4071295bf",
+    "binance-smart-chain": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+    "avalanche": "0x6b289cceaa8639e3831095d75a3e43520fabf552",
+    "arbitrum-one": "0x319f865b287fcc10b30d8ce6144e8b6d1b476999",
+    "polygon-pos": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
+    "base": "0x259fac10c5cbfefe3e710e1d9467f70a76138d45"
+  }
+}

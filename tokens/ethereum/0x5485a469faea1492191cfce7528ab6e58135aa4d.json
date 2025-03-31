@@ -1,0 +1,15 @@
+{
+  "symbol": "osmi",
+  "name": "OSMI",
+  "address": "0x5485a469fAEa1492191Cfce7528AB6E58135aA4d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51526/thumb/OSMI_Icon_-_Black.png?1731497258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5485a469faea1492191cfce7528ab6e58135aa4d"
+  }
+}

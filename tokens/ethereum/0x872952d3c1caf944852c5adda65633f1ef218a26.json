@@ -1,0 +1,19 @@
+{
+  "symbol": "lqdx",
+  "name": "Reddex",
+  "address": "0x872952d3c1Caf944852c5ADDa65633F1Ef218A26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33627/thumb/LQDX.png?1702533263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x872952d3c1caf944852c5adda65633f1ef218a26",
+    "onus": "0x872952d3c1caf944852c5adda65633f1ef218a26",
+    "mantle": "0x872952d3c1caf944852c5adda65633f1ef218a26",
+    "ethereum": "0x872952d3c1caf944852c5adda65633f1ef218a26",
+    "avalanche": "0x872952d3c1caf944852c5adda65633f1ef218a26"
+  }
+}

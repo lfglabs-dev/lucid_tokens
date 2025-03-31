@@ -1,0 +1,15 @@
+{
+  "symbol": "nftx",
+  "name": "NFTX",
+  "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13574/thumb/NFTX_%28Real%29.jpg?1613449530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+  }
+}

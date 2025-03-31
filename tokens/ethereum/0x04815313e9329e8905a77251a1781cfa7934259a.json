@@ -1,0 +1,16 @@
+{
+  "symbol": "hood",
+  "name": "wagmicatgirlkanye420etfmoon1000x",
+  "address": "0x04815313E9329e8905A77251A1781CfA7934259a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33843/thumb/Hood.png?1703121051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x04815313e9329e8905a77251a1781cfa7934259a",
+    "solana": "AGyUuFvYGnUUXWG6GUKga4B3MGmBuEZ9hGqY73n76XpJ"
+  }
+}

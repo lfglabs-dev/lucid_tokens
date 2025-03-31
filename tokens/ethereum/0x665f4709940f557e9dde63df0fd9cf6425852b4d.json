@@ -1,0 +1,15 @@
+{
+  "symbol": "halving",
+  "name": "Halving",
+  "address": "0x665f4709940F557E9dDe63DF0FD9cF6425852b4D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35732/thumb/halving_%284%29.png?1709691354",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x665f4709940f557e9dde63df0fd9cf6425852b4d"
+  }
+}

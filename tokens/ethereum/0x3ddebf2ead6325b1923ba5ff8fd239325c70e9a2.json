@@ -1,0 +1,15 @@
+{
+  "symbol": "brain",
+  "name": "Sebra AI",
+  "address": "0x3dDeBf2Ead6325B1923bA5ff8fd239325c70e9A2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38549/thumb/Group_810sa.png?1717935407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ddebf2ead6325b1923ba5ff8fd239325c70e9a2"
+  }
+}

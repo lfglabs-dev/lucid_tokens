@@ -1,0 +1,15 @@
+{
+  "symbol": "xpass",
+  "name": "X-PASS",
+  "address": "0xb0dF0E6133Ce2bAe93F1bB1737Ed3f39593c67f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50897/thumb/X-PASS.png?1729507412",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb0df0e6133ce2bae93f1bb1737ed3f39593c67f5"
+  }
+}

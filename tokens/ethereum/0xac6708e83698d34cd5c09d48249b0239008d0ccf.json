@@ -1,0 +1,15 @@
+{
+  "symbol": "fortknox",
+  "name": "Fort Knox",
+  "address": "0xAC6708e83698d34CD5c09d48249B0239008d0cCf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54779/thumb/Fort_Knox.jpg?1741517347",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac6708e83698d34cd5c09d48249b0239008d0ccf"
+  }
+}

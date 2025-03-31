@@ -1,0 +1,15 @@
+{
+  "symbol": "cat",
+  "name": "Mooncat CAT",
+  "address": "0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12177/thumb/happy2-2.jpg?1619593488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3"
+  }
+}

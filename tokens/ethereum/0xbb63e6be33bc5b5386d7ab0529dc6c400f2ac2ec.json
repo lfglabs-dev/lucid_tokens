@@ -1,0 +1,15 @@
+{
+  "symbol": "cuck",
+  "name": "Cuckadoodledoo",
+  "address": "0xBb63E6BE33Bc5B5386d7ab0529Dc6C400F2AC2eC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31631/thumb/Cuckman__%281%29.png?1694076763",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb63e6be33bc5b5386d7ab0529dc6c400f2ac2ec"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "adx",
+  "name": "AdEx",
+  "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/847/thumb/ambireadex.png?1634704581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+    "binance-smart-chain": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
+    "polygon-pos": "0xdda7b23d2d72746663e7939743f929a3d85fc975"
+  }
+}

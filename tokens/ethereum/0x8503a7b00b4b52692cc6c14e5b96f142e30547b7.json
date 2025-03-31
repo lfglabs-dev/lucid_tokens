@@ -1,0 +1,19 @@
+{
+  "symbol": "meed",
+  "name": "Meeds DAO",
+  "address": "0x8503a7b00B4b52692cC6c14e5b96F142E30547b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24281/thumb/s-YfFWYu_400x400.png?1647218173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8503a7b00b4b52692cc6c14e5b96f142e30547b7",
+    "optimistic-ethereum": "0xdd462e9399624dfcf73018793bd50a7ef47940b9",
+    "arbitrum-one": "0xe4db3652ac7f88c5712717fd774676bf4aa56769",
+    "polygon-pos": "0x6aca77cf3bab0c4e8210a09b57b07854a995289a",
+    "base": "0xd9df947d2a8f9c28c37af7cb7c526022fb14efa2"
+  }
+}

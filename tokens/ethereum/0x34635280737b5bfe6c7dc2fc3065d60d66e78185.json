@@ -1,0 +1,15 @@
+{
+  "symbol": "cvxprisma",
+  "name": "Convex Prisma",
+  "address": "0x34635280737b5BFe6c7DC2FC3065D60d66e78185",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32961/thumb/cvxprisma_transparent.png?1700018848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x34635280737b5bfe6c7dc2fc3065d60d66e78185"
+  }
+}

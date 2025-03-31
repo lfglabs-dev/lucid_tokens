@@ -1,0 +1,15 @@
+{
+  "symbol": "runner",
+  "name": "Runner on ETH",
+  "address": "0x6fD46112C8ec76e7940dBfdC150774EE6EFf27B2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51454/thumb/Homestar_Runner.png?1731316763",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6fd46112c8ec76e7940dbfdc150774ee6eff27b2"
+  }
+}

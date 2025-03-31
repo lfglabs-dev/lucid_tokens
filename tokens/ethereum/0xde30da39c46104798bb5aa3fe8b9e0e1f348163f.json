@@ -1,0 +1,16 @@
+{
+  "symbol": "gtc",
+  "name": "Gitcoin",
+  "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+    "near-protocol": "de30da39c46104798bb5aa3fe8b9e0e1f348163f.factory.bridge.near"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "froglic",
+  "name": "Pink Hood Froglicker",
+  "address": "0x4aBD5745F326932B1b673bfa592a20d7BB6bc455",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38972/thumb/Pink_Hood_Froglicker.png?1719713058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4abd5745f326932b1b673bfa592a20d7bb6bc455"
+  }
+}

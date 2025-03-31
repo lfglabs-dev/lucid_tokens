@@ -1,0 +1,16 @@
+{
+  "symbol": "lmt",
+  "name": "Lympo Market",
+  "address": "0x327673aE6B33Bd3d90f0096870059994f30Dc8AF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15155/thumb/coin_%282%29.png?1619995483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
+    "binance-smart-chain": "0x9617857e191354dbea0b714d78bc59e57c411087"
+  }
+}

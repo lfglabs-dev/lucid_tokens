@@ -1,0 +1,15 @@
+{
+  "symbol": "crpt",
+  "name": "Crypterium",
+  "address": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1901/thumb/crypt.png?1547036205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
+  }
+}

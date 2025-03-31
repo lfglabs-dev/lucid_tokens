@@ -1,0 +1,21 @@
+{
+  "symbol": "zro",
+  "name": "LayerZero",
+  "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28206/thumb/ftxG9_TJ_400x400.jpeg?1668396420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "optimistic-ethereum": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "binance-smart-chain": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "avalanche": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "arbitrum-one": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "polygon-pos": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "base": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "upc",
+  "name": "UPCX",
+  "address": "0x487d62468282Bd04ddf976631C23128A425555EE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33308/thumb/02_UPC_logo_RGB_black_200_200.png?1701409035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x487d62468282bd04ddf976631c23128a425555ee"
+  }
+}

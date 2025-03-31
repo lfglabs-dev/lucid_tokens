@@ -1,0 +1,18 @@
+{
+  "symbol": "gyen",
+  "name": "GYEN",
+  "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14191/thumb/icon_gyen_200_200.png?1614843343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc08512927d12348f6620a698105e1baac6ecd911",
+    "stellar": "GYEN:GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
+    "arbitrum-one": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7",
+    "solana": "Crn4x1Y2HUKko7ox2EZMT6N2t2ZyH7eKtwkBGVnhEq1g"
+  }
+}

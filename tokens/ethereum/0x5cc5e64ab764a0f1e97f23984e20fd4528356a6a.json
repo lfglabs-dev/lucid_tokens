@@ -1,0 +1,18 @@
+{
+  "symbol": "xrgb",
+  "name": "XRGB",
+  "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35447/thumb/log2.png?1708620430",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+    "linea": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+    "binance-smart-chain": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+    "base": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a"
+  }
+}

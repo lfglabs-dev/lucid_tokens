@@ -1,0 +1,15 @@
+{
+  "symbol": "satt",
+  "name": "SaTT",
+  "address": "0xDf49C9f599A0A9049D97CFF34D0C30E468987389",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4070/thumb/r3s9XKk.png?1623046839",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdf49c9f599a0a9049d97cff34d0c30e468987389"
+  }
+}

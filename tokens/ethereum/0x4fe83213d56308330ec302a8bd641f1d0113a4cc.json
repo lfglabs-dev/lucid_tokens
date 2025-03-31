@@ -1,0 +1,16 @@
+{
+  "symbol": "nu",
+  "name": "NuCypher",
+  "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3318/thumb/photo1198982838879365035.jpg?1547037916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
+    "energi": "0x44f26117e6c7f6aa4ba8c9f068246f973423bcd0"
+  }
+}

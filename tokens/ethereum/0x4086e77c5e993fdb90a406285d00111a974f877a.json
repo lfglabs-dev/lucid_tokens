@@ -1,0 +1,16 @@
+{
+  "symbol": "brwl",
+  "name": "Blockchain Brawlers",
+  "address": "0x4086E77C5E993FDB90a406285d00111a974F877a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24701/thumb/fuDdvI8Y_400x400.png?1648642627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4086e77c5e993fdb90a406285d00111a974f877a",
+    "wax": "BRWL-wax-brawlertoken"
+  }
+}

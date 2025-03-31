@@ -1,0 +1,15 @@
+{
+  "symbol": "leox",
+  "name": "LEOX",
+  "address": "0xa444EC96Ee01bB219A44B285De47bf33C3447ad5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29980/thumb/LEOX-LOGO-BLACK-2.jpg?1682406402",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa444ec96ee01bb219a44b285de47bf33c3447ad5"
+  }
+}

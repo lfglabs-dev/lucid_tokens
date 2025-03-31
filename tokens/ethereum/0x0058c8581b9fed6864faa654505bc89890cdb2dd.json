@@ -1,0 +1,15 @@
+{
+  "symbol": "bs9000",
+  "name": "BabySmurf9000",
+  "address": "0x0058C8581B9FEd6864faa654505bC89890cdB2dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32088/thumb/651b1d9e97a1e5d967e6eb3a_2023-10-02_12.38.30_%281%29.jpg?1696412701",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0058c8581b9fed6864faa654505bc89890cdb2dd"
+  }
+}

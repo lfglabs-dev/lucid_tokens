@@ -1,0 +1,18 @@
+{
+  "symbol": "dep",
+  "name": "DEAPCOIN",
+  "address": "0x1A3496C18d558bd9C6C8f609E1B129f67AB08163",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10970/thumb/DEAPcoin_01.png?1586741677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+    "binance-smart-chain": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+    "avalanche": "0xd4d026322c88c2d49942a75dff920fcfbc5614c1",
+    "solana": "BgwQjVNMWvt2d8CN51CsbniwRWyZ9H9HfHkEsvikeVuZ"
+  }
+}

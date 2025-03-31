@@ -1,0 +1,15 @@
+{
+  "symbol": "idlewbtcyield",
+  "name": "IdleWBTC (Best Yield)",
+  "address": "0x8C81121B15197fA0eEaEE1DC75533419DcfD3151",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11936/thumb/idlewbtcv3maxyield_32.png?1596263736",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c81121b15197fa0eeaee1dc75533419dcfd3151"
+  }
+}

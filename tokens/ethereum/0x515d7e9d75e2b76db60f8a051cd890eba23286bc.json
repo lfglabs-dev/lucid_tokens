@@ -1,0 +1,15 @@
+{
+  "symbol": "gdao",
+  "name": "Governor DAO",
+  "address": "0x515d7E9D75E2b76DB60F8a051Cd890eBa23286Bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13140/thumb/GDAOlogo2-bird.png?1605591842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc"
+  }
+}

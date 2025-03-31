@@ -1,0 +1,15 @@
+{
+  "symbol": "wethdydx",
+  "name": "dYdX",
+  "address": "0x46b2DeAe6eFf3011008EA27EA36b7c27255ddFA9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32595/thumb/dydx.png?1698673699",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x46b2deae6eff3011008ea27ea36b7c27255ddfa9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "arai",
+  "name": "Aave RAI",
+  "address": "0xc9BC48c72154ef3e5425641a3c747242112a46AF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17245/thumb/aRAI_2x.png?1626942652",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc9bc48c72154ef3e5425641a3c747242112a46af"
+  }
+}

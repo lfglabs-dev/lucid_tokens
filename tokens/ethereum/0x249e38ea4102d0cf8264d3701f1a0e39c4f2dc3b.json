@@ -1,0 +1,15 @@
+{
+  "symbol": "ufo",
+  "name": "UFO Gaming",
+  "address": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16801/thumb/ufo.png?1644048038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b"
+  }
+}

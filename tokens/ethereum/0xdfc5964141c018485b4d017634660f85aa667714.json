@@ -1,0 +1,15 @@
+{
+  "symbol": "odin",
+  "name": "Odin Liquidity Network",
+  "address": "0xDfC5964141c018485b4d017634660f85aa667714",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50953/thumb/GYqJ4CTXkAAsvzc.jpg?1729586738",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdfc5964141c018485b4d017634660f85aa667714"
+  }
+}

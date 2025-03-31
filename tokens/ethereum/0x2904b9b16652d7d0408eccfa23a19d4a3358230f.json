@@ -1,0 +1,15 @@
+{
+  "symbol": "pure",
+  "name": "Puriever",
+  "address": "0x2904b9b16652d7d0408EcCfA23A19D4A3358230f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12600/thumb/200x200_pure_logo.png?1600999358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2904b9b16652d7d0408eccfa23a19d4a3358230f"
+  }
+}

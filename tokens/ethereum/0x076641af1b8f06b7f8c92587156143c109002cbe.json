@@ -1,0 +1,15 @@
+{
+  "symbol": "sop",
+  "name": "SoPay",
+  "address": "0x076641aF1B8f06B7f8C92587156143C109002cbe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6736/thumb/sopay.png?1548609877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x076641af1b8f06b7f8c92587156143c109002cbe"
+  }
+}

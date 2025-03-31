@@ -1,0 +1,15 @@
+{
+  "symbol": "$dave",
+  "name": "Dave Coin",
+  "address": "0x7f4c5447af6A96d8eeAEE1d932338cFc57890dbD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30703/thumb/davelogo_transparent200x200.png?1686545135",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7f4c5447af6a96d8eeaee1d932338cfc57890dbd"
+  }
+}

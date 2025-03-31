@@ -1,0 +1,16 @@
+{
+  "symbol": "dar",
+  "name": "Mines of Dalarnia",
+  "address": "0x081131434f93063751813C619Ecca9C4dC7862a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19837/thumb/dar.png?1636014223",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+    "ethereum": "0x081131434f93063751813c619ecca9c4dc7862a3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "euus",
+  "name": "Nexus Pro EUUS",
+  "address": "0x735AcDEDd91a80334Ff72f07BFf41E1eEcF26677",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39080/thumb/euus.png?1720270492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x735acdedd91a80334ff72f07bff41e1eecf26677"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "stz",
+  "name": "99Starz",
+  "address": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21467/thumb/stz.png?1639651623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f5294df68f871241c4b18fcf78ebd8ac18ab654",
+    "binance-smart-chain": "0x7fe378c5e0b5c32af2ecc8829bedf02245a0e4ef",
+    "polygon-pos": "0x2c92a8a41f4b806a6f6f1f7c9d9dec78dcd8c18e"
+  }
+}

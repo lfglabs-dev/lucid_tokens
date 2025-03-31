@@ -1,0 +1,16 @@
+{
+  "symbol": "hi",
+  "name": "hi Dollar",
+  "address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17618/thumb/unnamed_%281%29.png?1628665739",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4f6e93aeddc11dc22268488465babcaf09399ac",
+    "binance-smart-chain": "0x77087ab5df23cfb52449a188e80e9096201c2097"
+  }
+}

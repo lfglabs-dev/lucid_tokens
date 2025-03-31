@@ -1,0 +1,15 @@
+{
+  "symbol": "ylay",
+  "name": "Yelay",
+  "address": "0xAEe5913FFd19dBcA4Fd1eF6F3925ed0414407d37",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50915/thumb/yelay_icon_2.png?1729579311",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaee5913ffd19dbca4fd1ef6f3925ed0414407d37"
+  }
+}

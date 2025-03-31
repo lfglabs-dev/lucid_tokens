@@ -1,0 +1,15 @@
+{
+  "symbol": "scot",
+  "name": "Scotcoin",
+  "address": "0x0cF7356E2d13ae2B57e77286284984A5FC8F88b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54356/thumb/logo.png?1739384345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0cf7356e2d13ae2b57e77286284984a5fc8f88b3"
+  }
+}

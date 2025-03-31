@@ -1,0 +1,16 @@
+{
+  "symbol": "fer",
+  "name": "Ferro",
+  "address": "0x2f32b39023dA7d6A6486A85d12B346EB9C2A0D19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26111/thumb/FER_Token.png?1655887206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0x39bc1e38c842c60775ce37566d03b41a7a66c782",
+    "ethereum": "0x2f32b39023da7d6a6486a85d12b346eb9c2a0d19"
+  }
+}

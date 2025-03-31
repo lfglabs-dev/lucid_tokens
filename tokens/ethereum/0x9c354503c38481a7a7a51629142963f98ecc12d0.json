@@ -1,0 +1,15 @@
+{
+  "symbol": "ogv",
+  "name": "Origin DeFi Governance",
+  "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26353/thumb/rz2at4uV_400x400.jpeg?1657590477",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9c354503c38481a7a7a51629142963f98ecc12d0"
+  }
+}

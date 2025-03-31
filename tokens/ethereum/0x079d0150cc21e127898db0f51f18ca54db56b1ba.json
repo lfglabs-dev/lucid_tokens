@@ -1,0 +1,15 @@
+{
+  "symbol": "btcact",
+  "name": "BITCOIN Act",
+  "address": "0x079D0150cC21e127898Db0f51f18Ca54DB56B1BA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51636/thumb/BITCOIN_Act.png?1731687056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x079d0150cc21e127898db0f51f18ca54db56b1ba"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "standard",
+  "name": "Construct",
+  "address": "0xDA0c94c73D127eE191955FB46bACd7FF999b2bcd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20119/thumb/stquY-WB_400x400.jpg?1636522705",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda0c94c73d127ee191955fb46bacd7ff999b2bcd"
+  }
+}

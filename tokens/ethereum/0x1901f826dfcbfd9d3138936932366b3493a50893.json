@@ -1,0 +1,18 @@
+{
+  "symbol": "sphynx",
+  "name": "Sphynx Labs",
+  "address": "0x1901F826DFcbfD9D3138936932366b3493A50893",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30142/thumb/photo_2023-05-03_21.44.17.jpeg?1683280938",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa776f5b86cc520861f55a261515264e3bd86e72e",
+    "bitgert": "0x3f3d3a2a698af53676cef6aca6bfe6a0ce913c0c",
+    "ethereum": "0x1901f826dfcbfd9d3138936932366b3493a50893",
+    "cronos": "0xa776f5b86cc520861f55a261515264e3bd86e72e"
+  }
+}

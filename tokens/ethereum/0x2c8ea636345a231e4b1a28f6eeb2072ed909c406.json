@@ -1,0 +1,15 @@
+{
+  "symbol": "memelon",
+  "name": "Meme Elon Doge Floki",
+  "address": "0x2C8eA636345a231e4b1a28F6EEb2072Ed909c406",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32609/thumb/MEMELON.jpg?1698733326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c8ea636345a231e4b1a28f6eeb2072ed909c406"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "mnft",
+  "name": "Mongol NFT",
+  "address": "0x3235B13708F178Af6F110dE7177ED5De10c1093d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23718/thumb/swI93LWg_400x400.jpg?1645160446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3235b13708f178af6f110de7177ed5de10c1093d",
+    "binance-smart-chain": "0x3235b13708f178af6f110de7177ed5de10c1093d",
+    "polygon-pos": "0x3235b13708f178af6f110de7177ed5de10c1093d"
+  }
+}

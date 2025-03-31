@@ -1,0 +1,15 @@
+{
+  "symbol": "idleusdcyield",
+  "name": "IdleUSDC (Yield)",
+  "address": "0x5274891bEC421B39D23760c04A6755eCB444797C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11932/thumb/idleusdcv3_32.png?1596263673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5274891bec421b39d23760c04a6755ecb444797c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gdt",
+  "name": "Gradient Protocol",
+  "address": "0x396c95abE154b3b2eD204Cf45c8726AA7ad47A4D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37305/thumb/1000199694.jpg?1713952287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x396c95abe154b3b2ed204cf45c8726aa7ad47a4d"
+  }
+}

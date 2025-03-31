@@ -1,0 +1,15 @@
+{
+  "symbol": "barron",
+  "name": "Mini Donald",
+  "address": "0x1F70300BCe8c2302780BD0a153ebb75B8CA7efCb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39157/thumb/BARRON200.jpg?1720775302",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f70300bce8c2302780bd0a153ebb75b8ca7efcb"
+  }
+}

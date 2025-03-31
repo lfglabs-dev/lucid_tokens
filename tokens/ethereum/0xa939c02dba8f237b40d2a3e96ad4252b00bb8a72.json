@@ -1,0 +1,15 @@
+{
+  "symbol": "mlseth",
+  "name": "Eigenpie LsETH",
+  "address": "0xa939C02DbA8F237b40d2A3E96AD4252b00Bb8a72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37205/thumb/mLsETH.png?1713764884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa939c02dba8f237b40d2a3e96ad4252b00bb8a72"
+  }
+}

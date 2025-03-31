@@ -1,0 +1,15 @@
+{
+  "symbol": "lends",
+  "name": "Lends",
+  "address": "0x2C06BA9e7F0dACcbC1f6A33EA67e85bb68fbEE3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35015/thumb/logo-200x200.png?1707107578",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c06ba9e7f0daccbc1f6a33ea67e85bb68fbee3a"
+  }
+}

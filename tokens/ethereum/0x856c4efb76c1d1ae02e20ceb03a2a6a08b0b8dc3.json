@@ -1,0 +1,15 @@
+{
+  "symbol": "oeth",
+  "name": "Origin Ether",
+  "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29733/thumb/OETH.png?1681094770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3"
+  }
+}

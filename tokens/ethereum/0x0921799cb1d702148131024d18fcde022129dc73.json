@@ -1,0 +1,16 @@
+{
+  "symbol": "ll",
+  "name": "LightLink",
+  "address": "0x0921799CB1d702148131024d18fCdE022129Dc73",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35357/thumb/lightlink-ticker-200.png?1708362303",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "lightlink": "0xd9d7123552fa2bedb2348bb562576d67f6e8e96e",
+    "ethereum": "0x0921799cb1d702148131024d18fcde022129dc73"
+  }
+}

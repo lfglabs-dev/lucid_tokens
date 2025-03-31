@@ -1,0 +1,15 @@
+{
+  "symbol": "usyc",
+  "name": "Hashnote USYC",
+  "address": "0x136471a34f6ef19fE571EFFC1CA711fdb8E49f2b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51054/thumb/Hashnote_Logo-icon-only_dark_200x200.png?1729873943",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x136471a34f6ef19fe571effc1ca711fdb8e49f2b"
+  }
+}

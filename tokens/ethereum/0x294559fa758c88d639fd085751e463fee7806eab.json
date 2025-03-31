@@ -1,0 +1,15 @@
+{
+  "symbol": "metal",
+  "name": "Metal Blockchain",
+  "address": "0x294559FA758C88D639Fd085751e463FEe7806eab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27222/thumb/metal-chain.png?1662685566",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x294559fa758c88d639fd085751e463fee7806eab"
+  }
+}

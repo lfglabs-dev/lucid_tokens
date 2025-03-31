@@ -1,0 +1,15 @@
+{
+  "symbol": "gdag",
+  "name": "GhostDAG.org",
+  "address": "0x8BF30e9F44E5d068A9d0C20DA22660997a532e33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33152/thumb/GD256.png?1700825767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8bf30e9f44e5d068a9d0c20da22660997a532e33"
+  }
+}

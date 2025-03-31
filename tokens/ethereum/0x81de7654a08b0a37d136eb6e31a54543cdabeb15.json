@@ -1,0 +1,15 @@
+{
+  "symbol": "odds",
+  "name": "OddsNotify",
+  "address": "0x81De7654a08B0A37D136EB6e31a54543cDAbEb15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52638/thumb/OddsNotify.png?1733870704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x81de7654a08b0a37d136eb6e31a54543cdabeb15"
+  }
+}

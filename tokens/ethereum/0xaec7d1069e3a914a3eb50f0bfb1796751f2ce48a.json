@@ -1,0 +1,16 @@
+{
+  "symbol": "s4f",
+  "name": "S4FE",
+  "address": "0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7405/thumb/logo_%284%29.png?1547085640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+    "binance-smart-chain": "0x788d2780992222360f674cc12c36478870b8e6ed"
+  }
+}

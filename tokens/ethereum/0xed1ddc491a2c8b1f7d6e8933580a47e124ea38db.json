@@ -1,0 +1,15 @@
+{
+  "symbol": "ioc",
+  "name": "Intelligence On Chain",
+  "address": "0xeD1DdC491A2c8b1f7D6e8933580a47E124EA38db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32418/thumb/IMG_20231017_174915_959.jpg?1698116981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed1ddc491a2c8b1f7d6e8933580a47e124ea38db"
+  }
+}

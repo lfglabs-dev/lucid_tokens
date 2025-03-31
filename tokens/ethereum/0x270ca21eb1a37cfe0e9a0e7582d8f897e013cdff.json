@@ -1,0 +1,15 @@
+{
+  "symbol": "dogius",
+  "name": "Dogius Maximus",
+  "address": "0x270Ca21eB1a37CfE0e9a0e7582d8F897E013CdFf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53336/thumb/6030575220131219447.jpg?1736153573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x270ca21eb1a37cfe0e9a0e7582d8f897e013cdff"
+  }
+}

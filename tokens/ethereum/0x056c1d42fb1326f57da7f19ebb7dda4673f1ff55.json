@@ -1,0 +1,16 @@
+{
+  "symbol": "gains",
+  "name": "Gains",
+  "address": "0x056C1D42Fb1326f57da7f19eBB7dDA4673f1FF55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14681/thumb/GAINS_Token_200x200.png?1617796172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x056c1d42fb1326f57da7f19ebb7dda4673f1ff55",
+    "binance-smart-chain": "0xf1c3e69494e27bf067c4076a6f244a46446719d6"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "hpo",
+  "name": "Hippo Wallet",
+  "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28089/thumb/b77170dd-1dd1-4581-91b2-e352794fa045.jpg?1667446200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa0ed3c520dc0632657ad2eaaf19e26c4fd431a84",
+    "moonbeam": "0x823d826d3ab6956ba934893f325e7c323faaf6ca",
+    "binance-smart-chain": "0xa0ed3c520dc0632657ad2eaaf19e26c4fd431a84"
+  }
+}

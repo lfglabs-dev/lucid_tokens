@@ -1,0 +1,15 @@
+{
+  "symbol": "cbg",
+  "name": "Chainbing",
+  "address": "0x1900E8B5619a3596745F715d0427Fe617c729BA9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18052/thumb/j3saoPU.png?1630330010",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1900e8b5619a3596745f715d0427fe617c729ba9"
+  }
+}

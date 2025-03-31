@@ -1,0 +1,16 @@
+{
+  "symbol": "ybusd",
+  "name": "Veno Yield Bearing USD",
+  "address": "0xFA59075DfCE274E028b58BdDFcC3D709960F594a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39977/thumb/Rectangle_381.png?1724994276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos-zkevm": "0xb1ece5b548766215272bafcfa36396b06cd9e4c9",
+    "ethereum": "0xfa59075dfce274e028b58bddfcc3d709960f594a"
+  }
+}

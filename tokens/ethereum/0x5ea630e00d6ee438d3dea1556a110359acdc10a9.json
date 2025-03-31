@@ -1,0 +1,15 @@
+{
+  "symbol": "sdpendle",
+  "name": "Stake DAO sdPENDLE",
+  "address": "0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40059/thumb/PENDLE.png?1725450655",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ea630e00d6ee438d3dea1556a110359acdc10a9"
+  }
+}

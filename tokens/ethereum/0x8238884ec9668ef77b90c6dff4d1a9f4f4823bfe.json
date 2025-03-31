@@ -1,0 +1,16 @@
+{
+  "symbol": "usdo",
+  "name": "OpenEden OpenDollar",
+  "address": "0x8238884Ec9668Ef77B90C6dfF4D1a9F4F4823BFe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53750/thumb/USDO_LOGO-white.png?1737181887",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe",
+    "base": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0"
+  }
+}

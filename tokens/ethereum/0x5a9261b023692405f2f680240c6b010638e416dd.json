@@ -1,0 +1,15 @@
+{
+  "symbol": "jan",
+  "name": "Storm Warfare",
+  "address": "0x5a9261B023692405F2F680240C6B010638e416Dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35045/thumb/janus_token.jpeg?1707201471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5a9261b023692405f2f680240c6b010638e416dd"
+  }
+}

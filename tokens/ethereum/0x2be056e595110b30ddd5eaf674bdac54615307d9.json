@@ -1,0 +1,15 @@
+{
+  "symbol": "apuff",
+  "name": "Airpuff",
+  "address": "0x2BE056e595110B30ddd5eaF674BdAC54615307d9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36622/thumb/Airpuff_Icon.jpeg?1711980913",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2be056e595110b30ddd5eaf674bdac54615307d9"
+  }
+}

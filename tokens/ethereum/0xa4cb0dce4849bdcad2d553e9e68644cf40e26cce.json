@@ -1,0 +1,17 @@
+{
+  "symbol": "baked",
+  "name": "Baked",
+  "address": "0xa4cb0dCe4849BdcAd2d553E9e68644Cf40E26ccE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19178/thumb/rebaked-logo-full.png?1634613132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce",
+    "aurora": "0x8973c9ec7b79fe880697cdbca744892682764c37",
+    "polygon-pos": "0x32515ffdc3a84cfbf9ad4db14ef8f0a535c7afd6"
+  }
+}

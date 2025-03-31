@@ -1,0 +1,15 @@
+{
+  "symbol": "ojee",
+  "name": "VIMworld OJEE",
+  "address": "0x31C5DEc1F10Dc084B95c239734dEa0ADb9C97C9C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40061/thumb/OJEE.png?1725459098",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x31c5dec1f10dc084b95c239734dea0adb9c97c9c"
+  }
+}

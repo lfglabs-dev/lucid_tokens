@@ -1,0 +1,15 @@
+{
+  "symbol": "miharu",
+  "name": "Smiling Dolphin",
+  "address": "0x5981E98440E41fa993B26912B080922b8Ed023c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50695/thumb/dolphin_200x200.jpg?1728782469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5981e98440e41fa993b26912b080922b8ed023c3"
+  }
+}

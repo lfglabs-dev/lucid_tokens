@@ -1,0 +1,15 @@
+{
+  "symbol": "mon",
+  "name": "MON",
+  "address": "0xc555D625828c4527d477e595fF1Dd5801B4a600e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37395/thumb/MON_Token.png?1714315637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc555d625828c4527d477e595ff1dd5801b4a600e"
+  }
+}

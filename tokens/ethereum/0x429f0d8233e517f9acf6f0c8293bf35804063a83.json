@@ -1,0 +1,15 @@
+{
+  "symbol": "power",
+  "name": "Powerloom",
+  "address": "0x429F0d8233e517f9acf6F0C8293BF35804063a83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53319/thumb/powerloom-200px.png?1736086027",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x429f0d8233e517f9acf6f0c8293bf35804063a83"
+  }
+}

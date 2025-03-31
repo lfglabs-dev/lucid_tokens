@@ -1,0 +1,15 @@
+{
+  "symbol": "ogsm",
+  "name": "OG SMINEM",
+  "address": "0x9778ac3D5A2f916aA9aBf1eb85C207d990ca2655",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32574/thumb/Sminem_portrait__2_-removebg-preview.png?1698554514",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9778ac3d5a2f916aa9abf1eb85c207d990ca2655"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "spurdo",
+  "name": "SPURDO ON ETH",
+  "address": "0x3927FB89F34BbeE63351A6340558Eebf51A19FB8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38645/thumb/SPP.jpg?1718210631",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3927fb89f34bbee63351a6340558eebf51a19fb8"
+  }
+}

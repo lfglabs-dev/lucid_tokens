@@ -1,0 +1,15 @@
+{
+  "symbol": "nina",
+  "name": "NinaPumps",
+  "address": "0x697a79AF2De4Af9E9aA0D08905374556AD1353bB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31910/thumb/pqT9YDIi_400x400-removebg-preview_%281%29.png?1695643005",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x697a79af2de4af9e9aa0d08905374556ad1353bb"
+  }
+}

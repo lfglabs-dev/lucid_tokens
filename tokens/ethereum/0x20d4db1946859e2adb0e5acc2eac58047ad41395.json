@@ -1,0 +1,15 @@
+{
+  "symbol": "mooney",
+  "name": "Moon DAO",
+  "address": "0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22905/thumb/cVWTHdA.png?1645690722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20d4db1946859e2adb0e5acc2eac58047ad41395"
+  }
+}

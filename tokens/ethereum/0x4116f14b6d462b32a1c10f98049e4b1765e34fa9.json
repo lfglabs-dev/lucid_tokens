@@ -1,0 +1,15 @@
+{
+  "symbol": "moov",
+  "name": "dotmoovs",
+  "address": "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15817/thumb/dotmoovs-symbol-gradient.png?1635332626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4116f14b6d462b32a1c10f98049e4b1765e34fa9"
+  }
+}

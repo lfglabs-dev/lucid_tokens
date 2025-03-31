@@ -1,0 +1,15 @@
+{
+  "symbol": "eveai",
+  "name": "Eve AI",
+  "address": "0x05fE069626543842439Ef90D9FA1633640c50cF1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29830/thumb/200-X-200.png?1681714843",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x05fe069626543842439ef90d9fa1633640c50cf1"
+  }
+}

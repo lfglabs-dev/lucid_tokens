@@ -1,0 +1,18 @@
+{
+  "symbol": "$skol",
+  "name": "Skol",
+  "address": "0xB369dACa21eE035312176Eb8Cf9d88ce97E0aA95",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95",
+    "pulsechain": "0x791367770e068208104fc1b5c1e15f3f5f4d143d",
+    "binance-smart-chain": "0xe406281569308b8dced15e95894052272900e332",
+    "solana": "3F4aTvvQBdtWj672kNYRenMtMG4jwQE63redg2cN4tCm"
+  }
+}

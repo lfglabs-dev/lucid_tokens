@@ -1,0 +1,15 @@
+{
+  "symbol": "aset",
+  "name": "AssetLink",
+  "address": "0x0E6641E62BAA87d77E01aB1C7e9d2F323f26942B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33907/thumb/Logo3D-NOBG.png?1703241821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e6641e62baa87d77e01ab1c7e9d2f323f26942b"
+  }
+}

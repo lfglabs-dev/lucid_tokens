@@ -1,0 +1,15 @@
+{
+  "symbol": "imx",
+  "name": "Immutable",
+  "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17233/thumb/imx.png?1636691817",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+  }
+}

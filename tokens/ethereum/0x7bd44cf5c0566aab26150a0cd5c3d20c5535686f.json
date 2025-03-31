@@ -1,0 +1,15 @@
+{
+  "symbol": "evilpepe",
+  "name": "Evil Pepe",
+  "address": "0x7bD44cF5c0566AAB26150A0cd5c3D20C5535686F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31201/thumb/IMG_20230803_120336_441.png?1691378621",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7bd44cf5c0566aab26150a0cd5c3d20c5535686f"
+  }
+}

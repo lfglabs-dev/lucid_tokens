@@ -1,0 +1,15 @@
+{
+  "symbol": "onyx",
+  "name": "Onyx (∑, ∆)",
+  "address": "0x9155EF3F1A5B5fb43a1bbEb198CC0a7DaF482679",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50502/thumb/IMG_20241003_141732_688.png?1727975639",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9155ef3f1a5b5fb43a1bbeb198cc0a7daf482679"
+  }
+}

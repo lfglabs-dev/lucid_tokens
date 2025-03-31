@@ -1,0 +1,15 @@
+{
+  "symbol": "kbt",
+  "name": "KoinBay Token",
+  "address": "0x41B13e815308485f7f1Af5AfcC64A01519085609",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35670/thumb/KB_200x200_symbol.png?1709487144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x41b13e815308485f7f1af5afcc64a01519085609"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "nsbt",
+  "name": "Neutrino System Base",
+  "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13268/thumb/83005f7ab1.png?1606877707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "waves": "6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g",
+    "ethereum": "0x9d79d5b61de59d882ce90125b18f74af650acb93"
+  }
+}

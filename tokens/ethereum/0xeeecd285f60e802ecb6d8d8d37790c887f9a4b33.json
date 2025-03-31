@@ -1,0 +1,15 @@
+{
+  "symbol": "tom",
+  "name": "Big Tom",
+  "address": "0xEeECd285F60e802ecB6d8d8D37790C887f9A4B33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38555/thumb/huyah_%281%29.jpg?1717999187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeeecd285f60e802ecb6d8d8d37790c887f9a4b33"
+  }
+}

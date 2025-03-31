@@ -1,0 +1,16 @@
+{
+  "symbol": "lld",
+  "name": "Liberland LLD",
+  "address": "0x054c9D4C6F4EA4E14391addD1812106c97D05690",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33625/thumb/Liberland_Dollar_Square_200px.png?1702532879",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x054c9d4c6f4ea4e14391addd1812106c97d05690",
+    "solana": "GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16"
+  }
+}

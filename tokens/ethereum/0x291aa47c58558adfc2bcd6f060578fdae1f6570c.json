@@ -1,0 +1,17 @@
+{
+  "symbol": "mbase",
+  "name": "Minebase",
+  "address": "0x291aa47C58558aDfc2bCD6f060578FDAE1F6570C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27313/thumb/mbase.png?1663312352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x291aa47c58558adfc2bcd6f060578fdae1f6570c",
+    "binance-smart-chain": "0x291aa47c58558adfc2bcd6f060578fdae1f6570c",
+    "polygon-pos": "0x291aa47c58558adfc2bcd6f060578fdae1f6570c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "hype",
+  "name": "Hyperbolic Protocol",
+  "address": "0x85225Ed797fd4128Ac45A992C46eA4681a7A15dA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30743/thumb/HP_200x200.png?1686725112",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x85225ed797fd4128ac45a992c46ea4681a7a15da"
+  }
+}

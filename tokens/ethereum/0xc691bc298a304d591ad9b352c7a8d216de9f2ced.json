@@ -1,0 +1,15 @@
+{
+  "symbol": "pola",
+  "name": "Polaris Share",
+  "address": "0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13817/thumb/tHQrxdYQ_400x400.png?1612051098",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc691bc298a304d591ad9b352c7a8d216de9f2ced"
+  }
+}

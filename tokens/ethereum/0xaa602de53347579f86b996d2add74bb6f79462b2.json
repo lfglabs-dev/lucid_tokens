@@ -1,0 +1,15 @@
+{
+  "symbol": "zmt",
+  "name": "Zipmex",
+  "address": "0xaa602dE53347579f86b996D2Add74bb6F79462b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13866/thumb/ZMT_Token.png?1637241562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa602de53347579f86b996d2add74bb6f79462b2"
+  }
+}

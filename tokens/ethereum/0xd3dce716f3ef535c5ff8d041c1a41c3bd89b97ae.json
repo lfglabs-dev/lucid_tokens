@@ -1,0 +1,16 @@
+{
+  "symbol": "scusd",
+  "name": "Rings scUSD",
+  "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
+    "sonic": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae"
+  }
+}

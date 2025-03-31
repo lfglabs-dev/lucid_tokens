@@ -1,0 +1,15 @@
+{
+  "symbol": "mint",
+  "name": "Public Mint",
+  "address": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14106/thumb/Public_Mint_Icon_200x200.png?1614333027",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059"
+  }
+}

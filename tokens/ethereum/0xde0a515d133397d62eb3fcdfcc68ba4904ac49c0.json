@@ -1,0 +1,15 @@
+{
+  "symbol": "shnj",
+  "name": "Shinji",
+  "address": "0xdE0a515D133397d62EB3FcDfCc68Ba4904Ac49c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51619/thumb/photo_2024-11-11_20-06-00.jpg?1731649427",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde0a515d133397d62eb3fcdfcc68ba4904ac49c0"
+  }
+}

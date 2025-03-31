@@ -1,0 +1,15 @@
+{
+  "symbol": "mxc",
+  "name": "Moonchain",
+  "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4604/thumb/MXC-app-icon10242x.png?1597628240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e"
+  }
+}

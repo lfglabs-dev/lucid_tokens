@@ -1,0 +1,15 @@
+{
+  "symbol": "handz",
+  "name": "Handz of Gods",
+  "address": "0x9baa12A9E3B9dC355f162082762f95626367D087",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31531/thumb/40B0eCTs_400x400.jpg?1693784719",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9baa12a9e3b9dc355f162082762f95626367d087"
+  }
+}

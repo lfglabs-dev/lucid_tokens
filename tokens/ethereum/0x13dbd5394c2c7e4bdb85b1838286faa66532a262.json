@@ -1,0 +1,15 @@
+{
+  "symbol": "tzu",
+  "name": "Sun Tzu",
+  "address": "0x13DBd5394c2c7E4bDb85B1838286Faa66532A262",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30689/thumb/TZU_CG.png?1686278367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x13dbd5394c2c7e4bdb85b1838286faa66532a262"
+  }
+}

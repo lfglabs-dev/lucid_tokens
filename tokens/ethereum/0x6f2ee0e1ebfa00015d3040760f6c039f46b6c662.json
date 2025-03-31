@@ -1,0 +1,15 @@
+{
+  "symbol": "omnit",
+  "name": "OmniTensor",
+  "address": "0x6f2eE0e1eBFA00015D3040760F6c039f46B6c662",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52670/thumb/gecko.png?1734016986",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f2ee0e1ebfa00015d3040760f6c039f46b6c662"
+  }
+}

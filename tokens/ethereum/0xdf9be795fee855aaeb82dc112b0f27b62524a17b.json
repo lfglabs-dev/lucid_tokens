@@ -1,0 +1,18 @@
+{
+  "symbol": "spus.d",
+  "name": "Dinari SPUS",
+  "address": "0xDF9BE795fee855AAeb82dc112b0f27B62524a17B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2594a6392832b341b76b60e8b00f42094e30b1b3",
+    "ethereum": "0xdf9be795fee855aaeb82dc112b0f27b62524a17b",
+    "blast": "0x5e9e14b2386a9cd3d2ed510285d3389b34d48640",
+    "base": "0x69fe3ee4f41e85a5431bb95bbe897f967845e5aa"
+  }
+}

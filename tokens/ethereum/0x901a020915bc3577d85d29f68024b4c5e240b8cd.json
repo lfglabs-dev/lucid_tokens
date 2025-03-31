@@ -1,0 +1,16 @@
+{
+  "symbol": "blastup",
+  "name": "BlastUP",
+  "address": "0x901a020915bC3577D85d29F68024B4c5E240B8cD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36054/thumb/blastup_icon_logo.png?1710403683",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6",
+    "ethereum": "0x901a020915bc3577d85d29f68024b4c5e240b8cd"
+  }
+}

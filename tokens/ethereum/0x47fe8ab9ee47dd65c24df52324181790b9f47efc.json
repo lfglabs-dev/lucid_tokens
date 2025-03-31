@@ -1,0 +1,15 @@
+{
+  "symbol": "aweth",
+  "name": "Alpha WETH Vault",
+  "address": "0x47fe8Ab9eE47DD65c24df52324181790b9F47EfC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54543/thumb/alpha_vaults_icon_coingecko.png?1740218951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x47fe8ab9ee47dd65c24df52324181790b9f47efc"
+  }
+}

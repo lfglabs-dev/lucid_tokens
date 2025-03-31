@@ -1,0 +1,15 @@
+{
+  "symbol": "hachi",
+  "name": "Hachiko Inu",
+  "address": "0x95Af148DCDC6B36B977ADDF7ea2599C5e0483263",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38768/thumb/photo_2024-06-14_18-35-26.jpg?1718767443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95af148dcdc6b36b977addf7ea2599c5e0483263"
+  }
+}

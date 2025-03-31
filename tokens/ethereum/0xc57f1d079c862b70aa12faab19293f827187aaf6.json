@@ -1,0 +1,15 @@
+{
+  "symbol": "glg",
+  "name": "Gilgeous",
+  "address": "0xC57F1d079c862b70AA12FAAb19293F827187aAf6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30241/thumb/GLG_200x200.jpg?1683690884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc57f1d079c862b70aa12faab19293f827187aaf6"
+  }
+}

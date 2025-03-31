@@ -1,0 +1,15 @@
+{
+  "symbol": "locus",
+  "name": "Locus Chain",
+  "address": "0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6903/thumb/32169759_2050428658545017_7287666225423843328_n.jpg?1547043264",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc64500dd7b0f1794807e67802f8abbf5f8ffb054"
+  }
+}

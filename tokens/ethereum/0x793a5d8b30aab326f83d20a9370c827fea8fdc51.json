@@ -1,0 +1,15 @@
+{
+  "symbol": "giac",
+  "name": "Gorilla In A Coupe",
+  "address": "0x793A5D8b30Aab326F83d20a9370C827fEA8Fdc51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36016/thumb/Gorilla_In_A_Coupe.png?1710326800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x793a5d8b30aab326f83d20a9370c827fea8fdc51"
+  }
+}

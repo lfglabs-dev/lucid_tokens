@@ -1,0 +1,17 @@
+{
+  "symbol": "opch",
+  "name": "Opticash",
+  "address": "0x4d4d883f920f7c0C36a1bE71a02Aa0cde2AA22d1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29362/thumb/opticash_logo_256*256.jpg?1678265000",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d4d883f920f7c0c36a1be71a02aa0cde2aa22d1",
+    "binance-smart-chain": "0x4d4d883f920f7c0c36a1be71a02aa0cde2aa22d1",
+    "polygon-pos": "0x4d4d883f920f7c0c36a1be71a02aa0cde2aa22d1"
+  }
+}

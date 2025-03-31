@@ -1,0 +1,15 @@
+{
+  "symbol": "aura",
+  "name": "Aura AI",
+  "address": "0x5d19d39852BF99Bc4344483CbCe3C9fF8f026B43",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52896/thumb/AURA_%281%29.jpg?1734619401",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5d19d39852bf99bc4344483cbce3c9ff8f026b43"
+  }
+}

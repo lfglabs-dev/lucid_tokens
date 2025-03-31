@@ -1,0 +1,15 @@
+{
+  "symbol": "digau",
+  "name": "Dignity Gold",
+  "address": "0x394D14D78850E516Fa5Eb88F843ef43196e136b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37183/thumb/dignitygold_32.png?1713514309",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x394d14d78850e516fa5eb88f843ef43196e136b0"
+  }
+}

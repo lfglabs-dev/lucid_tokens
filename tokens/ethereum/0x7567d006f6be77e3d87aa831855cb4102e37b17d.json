@@ -1,0 +1,15 @@
+{
+  "symbol": "thnd",
+  "name": "Three Hundred AI",
+  "address": "0x7567d006f6be77E3D87Aa831855CB4102E37b17D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7567d006f6be77e3d87aa831855cb4102e37b17d"
+  }
+}

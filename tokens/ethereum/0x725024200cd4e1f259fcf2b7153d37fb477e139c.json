@@ -1,0 +1,15 @@
+{
+  "symbol": "flovi",
+  "name": "Flovi Inu",
+  "address": "0x725024200Cd4e1f259FCF2b7153d37Fb477e139C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36734/thumb/1000038565.jpg?1712171719",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x725024200cd4e1f259fcf2b7153d37fb477e139c"
+  }
+}

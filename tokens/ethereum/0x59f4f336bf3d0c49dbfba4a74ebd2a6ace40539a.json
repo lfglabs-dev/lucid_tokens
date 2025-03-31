@@ -1,0 +1,17 @@
+{
+  "symbol": "cat",
+  "name": "Catcoin",
+  "address": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25279/thumb/logo_%281%29.png?1651126078",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+    "ethereum": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+    "solana": "7hWcHohzwtLddDUG81H2PkWq6KEkMtSDNkYXsso18Fy3"
+  }
+}

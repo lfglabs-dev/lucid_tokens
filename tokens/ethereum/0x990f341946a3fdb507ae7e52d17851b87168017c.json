@@ -1,0 +1,15 @@
+{
+  "symbol": "strong",
+  "name": "Strong",
+  "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12092/thumb/STRONG-Token-256x256.png?1597823573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x990f341946a3fdb507ae7e52d17851b87168017c"
+  }
+}

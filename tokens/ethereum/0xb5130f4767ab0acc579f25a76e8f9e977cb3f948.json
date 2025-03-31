@@ -1,0 +1,17 @@
+{
+  "symbol": "god",
+  "name": "Godcoin",
+  "address": "0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53848/thumb/GodcoinTickerIcon_02.png?1737582816",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
+    "base": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
+    "arbitrum-nova": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948"
+  }
+}

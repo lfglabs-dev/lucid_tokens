@@ -1,0 +1,15 @@
+{
+  "symbol": "zent",
+  "name": "ZENTU",
+  "address": "0x3E985250CB137fc1Ff55922116934C5982d29F85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40039/thumb/Zentu-logo-200x200.png?1725391708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e985250cb137fc1ff55922116934c5982d29f85"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "hyve",
+  "name": "Hyve",
+  "address": "0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13072/thumb/MKHXNbf.png?1604899269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd794dd1cada4cf79c9eebaab8327a1b0507ef7d4",
+    "binance-smart-chain": "0xf6565a97dc832d93dc83b75ee9aa5c7e8ecb0f9d",
+    "fantom": "0x90b89e881961e1053aeaddba13217d56f747349a",
+    "polygon-pos": "0x61aee582896064ecd5d85d66a32ddeb5574a699d"
+  }
+}

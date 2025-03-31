@@ -1,0 +1,15 @@
+{
+  "symbol": "whl",
+  "name": "WhaleRoom",
+  "address": "0x2aF72850c504dDD3c1876C66a914cAee7Ff8a46A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14328/thumb/ArEX8tkV_400x400.png?1615432175",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2af72850c504ddd3c1876c66a914caee7ff8a46a"
+  }
+}

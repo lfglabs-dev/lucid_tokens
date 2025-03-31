@@ -1,0 +1,15 @@
+{
+  "symbol": "page",
+  "name": "Page",
+  "address": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19015/thumb/Page_Icon_LG.png?1634182470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60e683c6514edd5f758a55b6f393bebbafaa8d5e"
+  }
+}

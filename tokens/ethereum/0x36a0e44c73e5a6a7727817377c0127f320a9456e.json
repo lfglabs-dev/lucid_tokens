@@ -1,0 +1,15 @@
+{
+  "symbol": "wmpc",
+  "name": "Wrapped MPC",
+  "address": "0x36a0e44c73E5A6A7727817377c0127f320a9456E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52137/thumb/mpc.png?1732640780",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x36a0e44c73e5a6a7727817377c0127f320a9456e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mbd",
+  "name": "MBD Financials",
+  "address": "0xaAf449Bf8A33a32575C31BA8CBb90612Dd95aCFa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25617/thumb/mbd-transparent_%281%29.png?1652856277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaaf449bf8a33a32575c31ba8cbb90612dd95acfa"
+  }
+}

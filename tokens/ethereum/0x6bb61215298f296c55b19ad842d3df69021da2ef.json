@@ -1,0 +1,15 @@
+{
+  "symbol": "dop",
+  "name": "Drops Ownership Power",
+  "address": "0x6bB61215298F296C55b19Ad842D3Df69021DA2ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15696/thumb/dop.png?1640325078",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6bb61215298f296c55b19ad842d3df69021da2ef"
+  }
+}

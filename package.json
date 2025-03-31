@@ -1,0 +1,20 @@
+{
+	"name": "lucid_tokens",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"process-tokens": "node process-tokens.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"commander": "^13.1.0",
+		"ethers": "^5.8.0",
+		"fs-extra": "^11.3.0",
+		"node-fetch": "^2.7.0",
+		"ora": "^8.2.0",
+		"p-limit": "^6.2.0"
+	}
+}

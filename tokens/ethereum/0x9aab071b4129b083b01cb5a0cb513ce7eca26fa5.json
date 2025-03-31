@@ -1,0 +1,16 @@
+{
+  "symbol": "hunt",
+  "name": "Hunt",
+  "address": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7989/thumb/HUNT.png?1571024256",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+    "base": "0x37f0c2915cecc7e977183b8543fc0864d03e064c"
+  }
+}

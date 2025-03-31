@@ -1,0 +1,15 @@
+{
+  "symbol": "arch",
+  "name": "Archimedes Finance",
+  "address": "0x73C69d24ad28e2d43D03CBf35F79fE26EBDE1011",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28970/thumb/arch.png?1675748083",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011"
+  }
+}

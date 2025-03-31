@@ -1,0 +1,15 @@
+{
+  "symbol": "apugurl",
+  "name": "Apu Gurl",
+  "address": "0x069F01CDD1E32D7BaB5fc81527df191835136C9D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38445/thumb/Apu_Gurl200.png?1717555433",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x069f01cdd1e32d7bab5fc81527df191835136c9d"
+  }
+}

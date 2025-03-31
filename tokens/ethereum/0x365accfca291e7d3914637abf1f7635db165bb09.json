@@ -1,0 +1,15 @@
+{
+  "symbol": "fxn",
+  "name": "f(x) Protocol",
+  "address": "0x365AccFCa291e7D3914637ABf1F7635dB165Bb09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31889/thumb/FXN_200x200.png?1695378568",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x365accfca291e7d3914637abf1f7635db165bb09"
+  }
+}

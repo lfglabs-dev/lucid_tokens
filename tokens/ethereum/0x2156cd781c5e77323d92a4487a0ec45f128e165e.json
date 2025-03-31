@@ -1,0 +1,15 @@
+{
+  "symbol": "bl00p",
+  "name": "BL00P",
+  "address": "0x2156CD781c5e77323D92A4487a0eC45F128e165E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50197/thumb/200x200.png?1726237993",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2156cd781c5e77323d92a4487a0ec45f128e165e"
+  }
+}

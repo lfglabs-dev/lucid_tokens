@@ -1,0 +1,15 @@
+{
+  "symbol": "hakka",
+  "name": "Hakka Finance",
+  "address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12163/thumb/Hakka-icon.png?1597746776",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd"
+  }
+}

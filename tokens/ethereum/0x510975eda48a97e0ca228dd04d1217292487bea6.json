@@ -1,0 +1,16 @@
+{
+  "symbol": "gxe",
+  "name": "PROJECT XENO",
+  "address": "0x510975edA48A97E0cA228dD04d1217292487bea6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29000/thumb/gxe.png?1675845303",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x510975eda48a97e0ca228dd04d1217292487bea6",
+    "ethereum": "0x510975eda48a97e0ca228dd04d1217292487bea6"
+  }
+}

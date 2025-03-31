@@ -1,0 +1,15 @@
+{
+  "symbol": "srn",
+  "name": "Sirin Labs",
+  "address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1872/thumb/sirin-labs-token.png?1548609584",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25"
+  }
+}

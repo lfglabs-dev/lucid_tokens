@@ -1,0 +1,16 @@
+{
+  "symbol": "anime",
+  "name": "Animecoin",
+  "address": "0x4DC26fC5854e7648a064a4ABD590bBE71724C277",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53575/thumb/anime.jpg?1736748703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x37a645648df29205c6261289983fb04ecd70b4b3",
+    "ethereum": "0x4dc26fc5854e7648a064a4abd590bbe71724c277"
+  }
+}

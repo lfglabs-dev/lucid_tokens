@@ -1,0 +1,15 @@
+{
+  "symbol": "senso",
+  "name": "SENSO",
+  "address": "0xC19B6A4Ac7C7Cc24459F08984Bbd09664af17bD1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11064/thumb/senso.png?1587776458",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1"
+  }
+}

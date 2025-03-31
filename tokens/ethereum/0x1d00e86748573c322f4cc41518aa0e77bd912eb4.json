@@ -1,0 +1,15 @@
+{
+  "symbol": "usde",
+  "name": "Ethereum Reserve Dollar USDE",
+  "address": "0x1d00E86748573C322f4cc41518AA0e77BD912Eb4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33542/thumb/USDE_200*200.png?1702383206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1d00e86748573c322f4cc41518aa0e77bd912eb4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "croc",
+  "name": "CrocBot",
+  "address": "0xcaa79Bf8B1d00Bf3D4f6dbEC6221955871C04618",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31382/thumb/Frame_123.png?1692758038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcaa79bf8b1d00bf3d4f6dbec6221955871c04618"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "superbid",
+  "name": "SuperBid",
+  "address": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14179/thumb/sign_super_bid.png?1617964829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0563dce613d559a47877ffd1593549fb9d3510d6"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ria",
+  "name": "Calvaria: DoE",
+  "address": "0x9b110Fda4E20DB18Ad7052f8468a455de7449eb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28817/thumb/icon200x200.png?1674460652",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b110fda4e20db18ad7052f8468a455de7449eb6",
+    "polygon-pos": "0xf9cea445c2ac1668f50caa2c2924f93606a4a37d"
+  }
+}

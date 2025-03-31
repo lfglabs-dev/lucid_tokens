@@ -1,0 +1,15 @@
+{
+  "symbol": "$shibashoot",
+  "name": "Shibashootout",
+  "address": "0xdBCC27ecC60CFf70Bd483f79b039f680F1f8aF0B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52013/thumb/1000002896.png?1732346538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdbcc27ecc60cff70bd483f79b039f680f1f8af0b"
+  }
+}

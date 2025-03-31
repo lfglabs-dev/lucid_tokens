@@ -1,0 +1,16 @@
+{
+  "symbol": "para",
+  "name": "Paralink Network",
+  "address": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15789/thumb/para.PNG?1621893038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3a8d5bc8a8948b68dfc0ce9c14ac4150e083518c",
+    "binance-smart-chain": "0x076ddce096c93dcf5d51fe346062bf0ba9523493"
+  }
+}

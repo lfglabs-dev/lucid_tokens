@@ -1,0 +1,15 @@
+{
+  "symbol": "own",
+  "name": "Otherworld",
+  "address": "0x2d81F9460Bd21e8578350A4f06e62848ED4BB27e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38925/thumb/OW_Black_200_200.png?1719525901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2d81f9460bd21e8578350a4f06e62848ed4bb27e"
+  }
+}

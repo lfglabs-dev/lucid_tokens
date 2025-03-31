@@ -1,0 +1,15 @@
+{
+  "symbol": "srune",
+  "name": "sRUNE",
+  "address": "0x0352557B007A4Aae1511C114409b932F06F9E2f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14953/thumb/sRUNE.png?1619129376",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0352557b007a4aae1511c114409b932f06f9e2f4"
+  }
+}

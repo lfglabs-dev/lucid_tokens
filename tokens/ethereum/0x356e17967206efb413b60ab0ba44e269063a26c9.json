@@ -1,0 +1,15 @@
+{
+  "symbol": "ocisly",
+  "name": "Of Course I Still Love You",
+  "address": "0x356e17967206eFb413b60AB0Ba44E269063A26c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32035/thumb/IMG_20230927_151428_156_%281%29.jpg?1696233696",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x356e17967206efb413b60ab0ba44e269063a26c9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "silkroad",
+  "name": "SuperMarioPorsche911Inu",
+  "address": "0x1142866f451d9d5281C5C8349a332bD338e552a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31649/thumb/smp911i_logo400x400_%283%29.jpg?1694147579",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1142866f451d9d5281c5c8349a332bd338e552a1"
+  }
+}

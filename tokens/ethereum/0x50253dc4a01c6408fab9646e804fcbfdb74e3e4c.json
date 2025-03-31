@@ -1,0 +1,16 @@
+{
+  "symbol": "insfrax",
+  "name": "Inception Restaked sFRAX",
+  "address": "0x50253dc4a01c6408Fab9646e804FCbFDb74e3E4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51972/thumb/insFRAX.png?1732282141",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x50253dc4a01c6408fab9646e804fcbfdb74e3e4c",
+    "fraxtal": "0x157743261c3ba961e92421b268a881aece450d41"
+  }
+}

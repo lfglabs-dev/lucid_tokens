@@ -1,0 +1,15 @@
+{
+  "symbol": "apy",
+  "name": "APY.Finance",
+  "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13041/thumb/1*AvkD-OLocausbxqUzezZ0A.png?1604577922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95a4492f028aa1fd432ea71146b433e7b4446611"
+  }
+}

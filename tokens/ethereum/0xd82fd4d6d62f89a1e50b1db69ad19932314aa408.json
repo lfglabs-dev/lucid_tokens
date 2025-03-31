@@ -1,0 +1,15 @@
+{
+  "symbol": "liq",
+  "name": "Liquis",
+  "address": "0xD82fd4D6D62f89A1E50b1db69AD19932314aa408",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31587/thumb/Liqblue.png?1693992933",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd82fd4d6d62f89a1e50b1db69ad19932314aa408"
+  }
+}

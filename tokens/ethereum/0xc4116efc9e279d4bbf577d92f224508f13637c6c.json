@@ -1,0 +1,15 @@
+{
+  "symbol": "dhub",
+  "name": "DevHub AI",
+  "address": "0xc4116EFc9E279D4Bbf577D92f224508f13637C6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39956/thumb/DevHub_Logo.png?1724905592",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4116efc9e279d4bbf577d92f224508f13637c6c"
+  }
+}

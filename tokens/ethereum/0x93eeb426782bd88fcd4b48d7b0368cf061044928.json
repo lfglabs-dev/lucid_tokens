@@ -1,0 +1,15 @@
+{
+  "symbol": "trg",
+  "name": "The Rug Game",
+  "address": "0x93eEB426782BD88fCD4B48D7b0368CF061044928",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28750/thumb/TRG_Logo_Circular_200px.png?1673925129",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x93eeb426782bd88fcd4b48d7b0368cf061044928"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "raid",
+  "name": "Raid",
+  "address": "0x154e35c2b0024B3e079c5c5e4fC31c979c189cCB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18133/thumb/raid_200_oswlvz.png?1630631876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+    "ethereum": "0x154e35c2b0024b3e079c5c5e4fc31c979c189ccb"
+  }
+}

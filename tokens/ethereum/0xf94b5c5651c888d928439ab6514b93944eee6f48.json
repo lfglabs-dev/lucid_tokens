@@ -1,0 +1,16 @@
+{
+  "symbol": "yld",
+  "name": "Yield App",
+  "address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13365/thumb/Icon_Blue.png?1607917500",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf94b5c5651c888d928439ab6514b93944eee6f48",
+    "polygon-pos": "0x4cebdbcb286101a17d3ea1f7fe7bbded2b2053dd"
+  }
+}

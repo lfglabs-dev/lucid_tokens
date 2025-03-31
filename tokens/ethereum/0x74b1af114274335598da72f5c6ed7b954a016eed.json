@@ -1,0 +1,15 @@
+{
+  "symbol": "hit",
+  "name": "HitBTC",
+  "address": "0x74b1Af114274335598da72f5C6ed7b954a016EeD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16395/thumb/JgMkz95.png?1623909204",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x74b1af114274335598da72f5c6ed7b954a016eed"
+  }
+}

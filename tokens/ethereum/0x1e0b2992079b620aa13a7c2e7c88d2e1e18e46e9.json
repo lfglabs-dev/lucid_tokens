@@ -1,0 +1,16 @@
+{
+  "symbol": "kompete",
+  "name": "KOMPETE",
+  "address": "0x1E0b2992079B620AA13A7c2E7c88D2e1E18E46E9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24298/thumb/sdkSQyZ.jpeg?1647268750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
+    "base": "0x8f019931375454fe4ee353427eb94e2e0c9e0a8c"
+  }
+}

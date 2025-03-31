@@ -1,0 +1,15 @@
+{
+  "symbol": "neuroni",
+  "name": "Neuroni AI",
+  "address": "0x922e2708462c7a3d014D8344F7C4d92b27ECf332",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28887/thumb/200X200.png?1675154213",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x922e2708462c7a3d014d8344f7c4d92b27ecf332"
+  }
+}

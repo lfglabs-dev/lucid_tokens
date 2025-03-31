@@ -1,0 +1,15 @@
+{
+  "symbol": "dfndr",
+  "name": "Defender Bot",
+  "address": "0x3F57C35633cb29834Bb7577ba8052EaB90f52a02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34816/thumb/defenderbott.png?1706173844",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f57c35633cb29834bb7577ba8052eab90f52a02"
+  }
+}

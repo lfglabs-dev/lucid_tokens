@@ -1,0 +1,15 @@
+{
+  "symbol": "cart",
+  "name": "CryptoArt.Ai",
+  "address": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17583/thumb/logo-64.png?1629277823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c8c8d560048f34e5f7f8ad71f2f81a89dbd273e"
+  }
+}

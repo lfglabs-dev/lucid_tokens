@@ -1,0 +1,15 @@
+{
+  "symbol": "swot",
+  "name": "Swot AI",
+  "address": "0xb39364b51d2C97b62b838Bc5213B8627eB469101",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35281/thumb/HLL21bqf_400x400_%281%29.jpg?1708054966",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb39364b51d2c97b62b838bc5213b8627eb469101"
+  }
+}

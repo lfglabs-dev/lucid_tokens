@@ -1,0 +1,16 @@
+{
+  "symbol": "ousd",
+  "name": "Origin Dollar",
+  "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12589/thumb/ousd-logo-200x200.png?1600943287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+    "astar": "0x29f6e49c6e3397c3a84f715885f9f233a441165c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "arbot",
+  "name": "Alpha Radar AI",
+  "address": "0x723696965F47B990Dff00064FcaCa95F0Ee01123",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31873/thumb/Alpha_Radar_Bot_logo200*200.png?1695351590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x723696965f47b990dff00064fcaca95f0ee01123"
+  }
+}

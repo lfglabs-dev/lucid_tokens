@@ -1,0 +1,16 @@
+{
+  "symbol": "dgmv",
+  "name": "DigiMetaverse",
+  "address": "0x8EEdEFe828A0f16C8fc80e46a87Bc0f1De2d960c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23701/thumb/DigiCorpLabs_token.png?1645081296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8eedefe828a0f16c8fc80e46a87bc0f1de2d960c",
+    "binance-smart-chain": "0xe336a772532650bc82828e9620dd0d5a3b78bfe8"
+  }
+}

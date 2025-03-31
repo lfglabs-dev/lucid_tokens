@@ -1,0 +1,15 @@
+{
+  "symbol": "rkr",
+  "name": "Reaktor",
+  "address": "0xb970E14Df2161c0A2f32EBA35901f2446581b482",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33291/thumb/REAKTOR.png?1701400698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb970e14df2161c0a2f32eba35901f2446581b482"
+  }
+}

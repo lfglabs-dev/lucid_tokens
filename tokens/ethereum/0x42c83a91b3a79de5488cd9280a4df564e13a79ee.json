@@ -1,0 +1,15 @@
+{
+  "symbol": "mirai",
+  "name": "MIRAI",
+  "address": "0x42c83a91B3a79dE5488CD9280A4dF564e13A79EE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39736/thumb/image-2.jpg?1723779468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42c83a91b3a79de5488cd9280a4df564e13a79ee"
+  }
+}

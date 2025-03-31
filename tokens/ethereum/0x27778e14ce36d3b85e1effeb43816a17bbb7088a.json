@@ -1,0 +1,15 @@
+{
+  "symbol": "lgold",
+  "name": "Lyfe Gold",
+  "address": "0x27778E14Ce36d3B85e1efFeB43816a17bBB7088A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14938/thumb/LGOLD-Logo-200.png?1619082558",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x27778e14ce36d3b85e1effeb43816a17bbb7088a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "core",
+  "name": "CoreConnect",
+  "address": "0x90edf25B14393350f0C1b5B12B6Cb3cD3781Fb4A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39857/thumb/CoreConnect.png?1724372995",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x90edf25b14393350f0c1b5b12b6cb3cd3781fb4a"
+  }
+}

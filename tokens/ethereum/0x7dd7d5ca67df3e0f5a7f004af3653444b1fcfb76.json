@@ -1,0 +1,15 @@
+{
+  "symbol": "brrr",
+  "name": "Brrr de Money",
+  "address": "0x7dD7D5Ca67Df3e0f5A7f004aF3653444b1fcFB76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51493/thumb/photo_4999152207114907246_y.jpg?1731406857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7dd7d5ca67df3e0f5a7f004af3653444b1fcfb76"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "dusty",
+  "name": "Dusty",
+  "address": "0x614A48C41BE6BA6762B63A92Cc33cFb5E8149332",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53180/thumb/cg.png?1735562146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x614a48c41be6ba6762b63a92cc33cfb5e8149332"
+  }
+}

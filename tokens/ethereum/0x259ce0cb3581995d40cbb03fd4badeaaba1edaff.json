@@ -1,0 +1,15 @@
+{
+  "symbol": "sxs",
+  "name": "SphereSXS",
+  "address": "0x259cE0cb3581995d40CBb03fd4BaDeaABA1EDAFf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27924/thumb/sxs.png?1666356415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x259ce0cb3581995d40cbb03fd4badeaaba1edaff"
+  }
+}

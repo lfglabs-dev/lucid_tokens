@@ -1,0 +1,20 @@
+{
+  "symbol": "jpyc",
+  "name": "JPY Coin",
+  "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25971/thumb/WoZ8rruL_400x400.png?1655102508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "xdai": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "shiden network": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "astar": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "avalanche": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "polygon-pos": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb"
+  }
+}

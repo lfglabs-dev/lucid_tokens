@@ -1,0 +1,15 @@
+{
+  "symbol": "olt",
+  "name": "OneLedger",
+  "address": "0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3422/thumb/One_Ledger.jpeg?1547038108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64a60493d888728cf42616e034a0dfeae38efcf0"
+  }
+}

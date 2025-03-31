@@ -1,0 +1,16 @@
+{
+  "symbol": "social",
+  "name": "Phavercoin",
+  "address": "0xD3C68968137317a57a9bAbeacC7707Ec433548B4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50304/thumb/Phavercoin-_Social-MAIN-purple-logo-square.png?1727024458",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd3c68968137317a57a9babeacc7707ec433548b4",
+    "base": "0xd3c68968137317a57a9babeacc7707ec433548b4"
+  }
+}

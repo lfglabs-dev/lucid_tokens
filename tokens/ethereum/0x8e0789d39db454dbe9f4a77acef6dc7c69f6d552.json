@@ -1,0 +1,15 @@
+{
+  "symbol": "inwsteths",
+  "name": "Inception Restaked stETH Symbiotic",
+  "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52515/thumb/inwstETHs.png?1733499299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552"
+  }
+}

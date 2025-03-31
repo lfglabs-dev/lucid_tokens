@@ -1,0 +1,15 @@
+{
+  "symbol": "ebtc",
+  "name": "eBTC",
+  "address": "0x661c70333AA1850CcDBAe82776Bb436A0fCfeEfB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37189/thumb/ebtc-logo_3.png?1713669815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x661c70333aa1850ccdbae82776bb436a0fcfeefb"
+  }
+}

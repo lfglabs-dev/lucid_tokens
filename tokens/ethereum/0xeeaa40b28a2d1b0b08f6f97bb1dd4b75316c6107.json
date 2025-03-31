@@ -1,0 +1,18 @@
+{
+  "symbol": "govi",
+  "name": "CVI",
+  "address": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13875/thumb/GOVI.png?1612451531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+    "zksync": "0xd63ef5e9c628c8a0e8984cdfb7444aee44b09044",
+    "arbitrum-one": "0x07e49d5de43dda6162fa28d24d5935c151875283",
+    "polygon-pos": "0x43df9c0a1156c96cea98737b511ac89d0e2a1f46"
+  }
+}

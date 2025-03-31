@@ -1,0 +1,15 @@
+{
+  "symbol": "honk",
+  "name": "Pepoclown",
+  "address": "0xD8E8438CF7bEEd13cFABC82F300Fb6573962c9e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38498/thumb/Pepoclown.png?1717709240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd8e8438cf7beed13cfabc82f300fb6573962c9e3"
+  }
+}

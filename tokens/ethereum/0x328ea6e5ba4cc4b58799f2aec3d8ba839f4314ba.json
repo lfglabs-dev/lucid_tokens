@@ -1,0 +1,17 @@
+{
+  "symbol": "$trumaga",
+  "name": "TrumpMAGA",
+  "address": "0x328Ea6e5Ba4cc4B58799F2AEC3d8BA839f4314Ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38857/thumb/WhatsApp_Image_2024-06-12_at_11.14.02_3d0ef63bPNJ.png?1719214002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x328ea6e5ba4cc4b58799f2aec3d8ba839f4314ba",
+    "saita-chain": "0x328ea6e5ba4cc4b58799f2aec3d8ba839f4314ba",
+    "ethereum": "0x328ea6e5ba4cc4b58799f2aec3d8ba839f4314ba"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pledge",
+  "name": "Pledge",
+  "address": "0x910812c44eD2a3B611E4b051d9D83A88d652E2DD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52564/thumb/X4CjxjKI.png?1733671958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x910812c44ed2a3b611e4b051d9d83a88d652e2dd"
+  }
+}

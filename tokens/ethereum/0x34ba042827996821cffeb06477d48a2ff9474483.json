@@ -1,0 +1,15 @@
+{
+  "symbol": "shib2.0",
+  "name": "Shib2.0",
+  "address": "0x34ba042827996821CFFEB06477D48a2Ff9474483",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30940/thumb/unnamed.jpg?1689083941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x34ba042827996821cffeb06477d48a2ff9474483"
+  }
+}

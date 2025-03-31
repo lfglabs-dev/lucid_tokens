@@ -1,0 +1,15 @@
+{
+  "symbol": "lucky",
+  "name": "Luckyinu",
+  "address": "0xD1c8fa30fded3E0031dC24C1646D74108b096cc2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34998/thumb/Luckyinu_%281%29.png?1706955605",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1c8fa30fded3e0031dc24c1646d74108b096cc2"
+  }
+}

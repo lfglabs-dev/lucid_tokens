@@ -1,0 +1,15 @@
+{
+  "symbol": "2dai",
+  "name": "2DAI.io",
+  "address": "0xB44b653f147569d88a684cBf6549e1968E8B2A1d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30542/thumb/2dai.jpg?1684983815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb44b653f147569d88a684cbf6549e1968e8b2a1d"
+  }
+}

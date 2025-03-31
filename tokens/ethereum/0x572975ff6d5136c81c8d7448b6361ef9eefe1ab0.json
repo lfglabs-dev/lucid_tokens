@@ -1,0 +1,16 @@
+{
+  "symbol": "wstusdt",
+  "name": "Wrapped Staked USDT",
+  "address": "0x572975FF6d5136c81c8d7448B6361eF9EEfE1AB0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31160/thumb/wstusdt.jpeg?1691048590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "tron": "TGkxzkDKyMeq2T7edKnyjZoFypyzjkkssq",
+    "ethereum": "0x572975ff6d5136c81c8d7448b6361ef9eefe1ab0"
+  }
+}

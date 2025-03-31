@@ -1,0 +1,16 @@
+{
+  "symbol": "cswap",
+  "name": "CrossSwap",
+  "address": "0xe0b0C16038845BEd3fCf70304D3e167Df81ce225",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18002/thumb/cross.png?1630078540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe0b0c16038845bed3fcf70304d3e167df81ce225",
+    "ethereum": "0xe0b0c16038845bed3fcf70304d3e167df81ce225"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "hsf",
+  "name": "Hillstone Finance",
+  "address": "0xbA6B0dbb2bA8dAA8F5D6817946393Aef8D3A4487",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22335/thumb/logo_-_2022-01-07T094430.368.png?1641519883",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487",
+    "binance-smart-chain": "0xda8929a6338f408cc78c1845fb4f71bffd2cfcfb"
+  }
+}

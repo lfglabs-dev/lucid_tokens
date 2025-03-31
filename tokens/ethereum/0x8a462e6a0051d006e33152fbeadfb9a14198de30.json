@@ -1,0 +1,15 @@
+{
+  "symbol": "fyde",
+  "name": "Fyde",
+  "address": "0x8a462E6a0051d006E33152FBEaDFB9A14198DE30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50603/thumb/Logo.png?1728468299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a462e6a0051d006e33152fbeadfb9a14198de30"
+  }
+}

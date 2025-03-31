@@ -1,0 +1,15 @@
+{
+  "symbol": "daram",
+  "name": "Daram",
+  "address": "0xaD86b91A1D1Db15A4CD34D0634bbD4eCAcB5b61a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50866/thumb/daram.jpg?1729315813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad86b91a1d1db15a4cd34d0634bbd4ecacb5b61a"
+  }
+}

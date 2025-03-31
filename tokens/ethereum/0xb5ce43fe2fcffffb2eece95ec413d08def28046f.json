@@ -1,0 +1,15 @@
+{
+  "symbol": "pelo",
+  "name": "PepElon",
+  "address": "0xb5cE43fE2fcFfFfb2EeCE95EC413d08Def28046F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31371/thumb/7gd1S3fr_400x400.jpg?1692695896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb5ce43fe2fcffffb2eece95ec413d08def28046f"
+  }
+}

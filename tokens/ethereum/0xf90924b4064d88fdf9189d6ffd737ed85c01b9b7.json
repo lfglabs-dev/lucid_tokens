@@ -1,0 +1,15 @@
+{
+  "symbol": "gfn",
+  "name": "GameFinity",
+  "address": "0xf90924B4064D88fdf9189D6FfD737ED85C01B9B7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40111/thumb/Gamefinity_Logo_JPG.jpg?1725826614",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf90924b4064d88fdf9189d6ffd737ed85c01b9b7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ohmi",
+  "name": "One Hundred Million Inu",
+  "address": "0x4159862bcF6B4393A80550b1ed03DFfa6f90533C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28625/thumb/ohmi_icon_circle.png?1672716079",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4159862bcf6b4393a80550b1ed03dffa6f90533c"
+  }
+}

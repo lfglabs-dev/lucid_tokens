@@ -1,0 +1,16 @@
+{
+  "symbol": "spwn",
+  "name": "Bitspawn",
+  "address": "0xe516D78d784C77D479977BE58905B3f2b1111126",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16513/thumb/token_logo.png?1631603192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe516d78d784c77d479977be58905b3f2b1111126",
+    "solana": "5U9QqCPhqXAJcEv9uyzFJd5zhN93vuPk1aNNkXnUfPnt"
+  }
+}

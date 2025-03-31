@@ -1,0 +1,15 @@
+{
+  "symbol": "otsea",
+  "name": "OTSea",
+  "address": "0x5dA151B95657e788076D04d56234Bd93e409CB09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31900/thumb/photo_2023-09-17_16-46-21.jpg?1695640697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5da151b95657e788076d04d56234bd93e409cb09"
+  }
+}

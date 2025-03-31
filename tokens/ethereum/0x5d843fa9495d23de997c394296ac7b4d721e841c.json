@@ -1,0 +1,21 @@
+{
+  "symbol": "relay",
+  "name": "Relay Chain",
+  "address": "0x5D843Fa9495d23dE997C394296ac7B4D721E841c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17816/thumb/relay-logo-200.png?1629339288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5d843fa9495d23de997c394296ac7b4d721e841c",
+    "moonriver": "0xad7f1844696652dda7959a49063bffccafafefe7",
+    "metis-andromeda": "0xfe282af5f9eb59c30a3f78789eeffa704188bdd4",
+    "binance-smart-chain": "0xe338d4250a4d959f88ff8789eaae8c32700bd175",
+    "avalanche": "0x78c42324016cd91d1827924711563fb66e33a83a",
+    "arbitrum-one": "0x1426cf37caa89628c4da2864e40cf75e6d66ac6b",
+    "polygon-pos": "0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d"
+  }
+}

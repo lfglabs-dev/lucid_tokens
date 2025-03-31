@@ -1,0 +1,15 @@
+{
+  "symbol": "pdx",
+  "name": "PDX Coin",
+  "address": "0x6a8fee0E33Cb65a7E8D21BadCA62E87639ef74B3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25095/thumb/vBi23nWw_400x400.jpg?1650271510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a8fee0e33cb65a7e8d21badca62e87639ef74b3"
+  }
+}

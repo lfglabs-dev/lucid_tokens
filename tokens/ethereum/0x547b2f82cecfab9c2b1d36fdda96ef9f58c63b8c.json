@@ -1,0 +1,15 @@
+{
+  "symbol": "txt",
+  "name": "Taxa Network",
+  "address": "0x547b2F82ceCfAb9C2B1D36fddA96eF9F58C63B8C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x547b2f82cecfab9c2b1d36fdda96ef9f58c63b8c"
+  }
+}

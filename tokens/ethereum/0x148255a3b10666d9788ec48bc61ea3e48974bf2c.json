@@ -1,0 +1,15 @@
+{
+  "symbol": "dmcc",
+  "name": "Decentralized Music Chain",
+  "address": "0x148255a3b10666D9788Ec48BC61Ea3e48974bf2C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34760/thumb/feed.jpeg?1705985058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x148255a3b10666d9788ec48bc61ea3e48974bf2c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "film",
+  "name": "Gala Film",
+  "address": "0xe344Fb85b4FAb79e0ef32cE77c00732CE8566244",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52665/thumb/_FILM_UI-icon.png?1734010638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe344fb85b4fab79e0ef32ce77c00732ce8566244"
+  }
+}

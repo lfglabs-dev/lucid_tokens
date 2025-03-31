@@ -1,0 +1,15 @@
+{
+  "symbol": "punk",
+  "name": "Punk Vault (NFTX)",
+  "address": "0x269616D549D7e8Eaa82DFb17028d0B212D11232A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17018/thumb/Punk.png?1626086346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x269616d549d7e8eaa82dfb17028d0b212d11232a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "upi",
+  "name": "Pawtocol",
+  "address": "0x70D2b7C19352bB76e4409858FF5746e500f2B67c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12186/thumb/pawtocol.jpg?1597962008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
+    "binance-smart-chain": "0x0d35a2b85c5a63188d566d104bebf7c694334ee4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "clips",
+  "name": "Clips",
+  "address": "0xeCbEE2fAE67709F718426DDC3bF770B26B95eD20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30151/thumb/clips-logo.png?1683516039",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xecbee2fae67709f718426ddc3bf770b26b95ed20"
+  }
+}

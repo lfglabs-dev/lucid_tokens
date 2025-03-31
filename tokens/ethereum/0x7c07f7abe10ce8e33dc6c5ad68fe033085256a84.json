@@ -1,0 +1,15 @@
+{
+  "symbol": "iceth",
+  "name": "Interest Compounding ETH Index",
+  "address": "0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24483/thumb/icETH-token-logo.png?1647826356",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84"
+  }
+}

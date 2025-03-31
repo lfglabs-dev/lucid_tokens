@@ -1,0 +1,15 @@
+{
+  "symbol": "veri",
+  "name": "Veritaseum",
+  "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/695/thumb/veritaseum.png?1547034460",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374"
+  }
+}

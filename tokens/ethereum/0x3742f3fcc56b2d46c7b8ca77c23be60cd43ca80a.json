@@ -1,0 +1,15 @@
+{
+  "symbol": "stavail",
+  "name": "Deq Staked AVAIL",
+  "address": "0x3742f3Fcc56B2d46c7B8CA77c23be60Cd43Ca80a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51343/thumb/stAVAIL_200x200.png?1730824445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3742f3fcc56b2d46c7b8ca77c23be60cd43ca80a"
+  }
+}

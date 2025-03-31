@@ -1,0 +1,15 @@
+{
+  "symbol": "daeta",
+  "name": "DÆTA",
+  "address": "0x641C0F8b889F8336A69f464ddAE3733e3dE3788A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52190/thumb/coingecko.png?1732728016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x641c0f8b889f8336a69f464ddae3733e3de3788a"
+  }
+}

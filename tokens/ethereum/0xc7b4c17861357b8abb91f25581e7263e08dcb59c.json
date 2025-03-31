@@ -1,0 +1,15 @@
+{
+  "symbol": "asnx",
+  "name": "Aave v3 SNX",
+  "address": "0xC7B4c17861357B8ABB91F25581E7263E08DCB59c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32902/thumb/SNX.png?1699802376",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc7b4c17861357b8abb91f25581e7263e08dcb59c"
+  }
+}

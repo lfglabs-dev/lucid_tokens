@@ -1,0 +1,18 @@
+{
+  "symbol": "degen",
+  "name": "Degen",
+  "address": "0xfee293840D23B0B2De8C55e1Cf7A9F01C157767c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34515/thumb/degen200x200.png?1705288895",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+    "ethereum": "0xfee293840d23b0b2de8c55e1cf7a9f01c157767c",
+    "arbitrum-one": "0x9f07f8a82cb1af1466252e505b7b7ddee103bc91",
+    "solana": "A7n89LqW67HJKzJkdWZa2xojuK4N5GBKHz3dfjATCZPz"
+  }
+}

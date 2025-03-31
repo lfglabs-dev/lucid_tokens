@@ -1,0 +1,15 @@
+{
+  "symbol": "impt",
+  "name": "IMPT",
+  "address": "0x04C17b9D3b29A78F7Bd062a57CF44FC633e71f85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28486/thumb/IMPT_logo.png?1671077901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x04c17b9d3b29a78f7bd062a57cf44fc633e71f85"
+  }
+}

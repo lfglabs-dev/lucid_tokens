@@ -1,0 +1,15 @@
+{
+  "symbol": "dev",
+  "name": "Dev Protocol",
+  "address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11560/thumb/Dev_Protocol__CoinGecko_Logo___Jan.18.2021_.png?1611021474",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26"
+  }
+}

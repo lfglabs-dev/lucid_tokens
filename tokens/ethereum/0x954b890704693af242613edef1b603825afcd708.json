@@ -1,0 +1,15 @@
+{
+  "symbol": "card",
+  "name": "Cardstack",
+  "address": "0x954b890704693af242613edEf1B603825afcD708",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3247/thumb/cardstack.png?1547037769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x954b890704693af242613edef1b603825afcd708"
+  }
+}

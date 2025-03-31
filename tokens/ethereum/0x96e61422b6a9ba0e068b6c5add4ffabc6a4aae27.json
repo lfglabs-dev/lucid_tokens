@@ -1,0 +1,15 @@
+{
+  "symbol": "ibeur",
+  "name": "Iron Bank EUR",
+  "address": "0x96E61422b6A9bA0e068B6c5ADd4fFaBC6a4aae27",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17285/thumb/Iron_Bank_Euro.png?1627900506",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27"
+  }
+}

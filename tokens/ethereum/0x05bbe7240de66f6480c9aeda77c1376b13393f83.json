@@ -1,0 +1,15 @@
+{
+  "symbol": "xno",
+  "name": "Xeno",
+  "address": "0x05bBe7240De66F6480C9aeda77C1376B13393F83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13830/thumb/XNO_logo_200x200.png?1612168285",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x05bbe7240de66f6480c9aeda77c1376b13393f83"
+  }
+}

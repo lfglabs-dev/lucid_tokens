@@ -1,0 +1,15 @@
+{
+  "symbol": "steakwbtc",
+  "name": "Steakhouse WBTC Morpho Vault",
+  "address": "0xbeEf094333AEdD535c130958c204E84f681FD9FA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52401/thumb/steakWBTC.png?1733299058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef094333aedd535c130958c204e84f681fd9fa"
+  }
+}

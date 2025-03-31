@@ -1,0 +1,15 @@
+{
+  "symbol": "aver",
+  "name": "Aver AI",
+  "address": "0xd347514c12d6ACbBec08ceeA127bC5e57DDb2847",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53541/thumb/Aver_Dextools.png?1736598569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd347514c12d6acbbec08ceea127bc5e57ddb2847"
+  }
+}

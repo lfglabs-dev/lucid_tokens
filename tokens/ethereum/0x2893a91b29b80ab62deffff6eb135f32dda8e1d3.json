@@ -1,0 +1,15 @@
+{
+  "symbol": "fai",
+  "name": "FORTIFY AI",
+  "address": "0x2893A91B29b80aB62dEfFFF6Eb135f32DDA8e1D3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53739/thumb/fortify.jpg?1737151133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2893a91b29b80ab62deffff6eb135f32dda8e1d3"
+  }
+}

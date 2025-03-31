@@ -1,0 +1,15 @@
+{
+  "symbol": "cydoge",
+  "name": "Cyberdoge",
+  "address": "0x6DC6A27822aE2cA3A47dA39A2f2bBd525dD693F8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34085/thumb/CD_Logo_200x200.png?1703910686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6dc6a27822ae2ca3a47da39a2f2bbd525dd693f8"
+  }
+}

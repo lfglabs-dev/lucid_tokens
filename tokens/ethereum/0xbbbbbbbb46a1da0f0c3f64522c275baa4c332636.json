@@ -1,0 +1,16 @@
+{
+  "symbol": "zkb",
+  "name": "ZKBase",
+  "address": "0xBBBbbBBB46A1dA0F0C3F64522c275BAA4C332636",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13585/thumb/zkspace_logo.png?1644486208",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbbbbbbbb46a1da0f0c3f64522c275baa4c332636",
+    "energi": "0xc4efad8386124927fb46b146526625e143e5a63a"
+  }
+}

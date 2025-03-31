@@ -1,0 +1,15 @@
+{
+  "symbol": "cnc",
+  "name": "Conic",
+  "address": "0x9aE380F0272E2162340a5bB646c354271c0F5cFC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24747/thumb/MJEDO-OY_400x400.png?1648785199",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ae380f0272e2162340a5bb646c354271c0f5cfc"
+  }
+}

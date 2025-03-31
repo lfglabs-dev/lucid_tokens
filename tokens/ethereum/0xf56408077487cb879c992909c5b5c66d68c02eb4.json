@@ -1,0 +1,16 @@
+{
+  "symbol": "riot",
+  "name": "Riot Racers",
+  "address": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19238/thumb/jyxvIbmJ_400x400.png?1634774849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf56408077487cb879c992909c5b5c66d68c02eb4",
+    "polygon-pos": "0x4ff0b68abc2b9e4e1401e9b691dba7d66b264ac8"
+  }
+}

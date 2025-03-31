@@ -1,0 +1,16 @@
+{
+  "symbol": "dgtx",
+  "name": "Digitex",
+  "address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2188/thumb/DGTX.png?1616385887",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09",
+    "polygon-pos": "0xe749ea14a2d18e361ed092ebefba64d77a8b4eac"
+  }
+}

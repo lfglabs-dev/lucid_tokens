@@ -1,0 +1,15 @@
+{
+  "symbol": "dect",
+  "name": "DEC Token",
+  "address": "0xDB99B0477574Ac0B2d9c8cec56B42277DA3fdb82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54986/thumb/dectoken_dect_logo_200_200.png?1743058530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb99b0477574ac0b2d9c8cec56b42277da3fdb82"
+  }
+}

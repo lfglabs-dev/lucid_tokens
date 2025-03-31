@@ -1,0 +1,16 @@
+{
+  "symbol": "mpro",
+  "name": "Metapro",
+  "address": "0xD88611A629265C9AF294FFDD2E7fa4546612273e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35128/thumb/mpro.jpeg?1707440015",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd88611a629265c9af294ffdd2e7fa4546612273e",
+    "base": "0xd88611a629265c9af294ffdd2e7fa4546612273e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "nai",
+  "name": "Nimbus AI",
+  "address": "0x32f4768FC4A238A58fc9da408d9a0Da4333012E4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53697/thumb/Nimbus_AI.png?1737064616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32f4768fc4a238a58fc9da408d9a0da4333012e4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cypepe",
+  "name": "CyPepe",
+  "address": "0x80A88dc663fa256E34ecb5a47314702313b162A5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38434/thumb/1000020333.jpg?1717535504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80a88dc663fa256e34ecb5a47314702313b162a5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pndc",
+  "name": "PondCoin",
+  "address": "0x423f4e6138E475D85CF7Ea071AC92097Ed631eea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31215/thumb/pond-coin.jpeg?1691468704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x423f4e6138e475d85cf7ea071ac92097ed631eea"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "knine",
+  "name": "K9 Finance DAO",
+  "address": "0x91fbB2503AC69702061f1AC6885759Fc853e6EaE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35824/thumb/k9_200_X_200.png?1709886958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x91fbb2503ac69702061f1ac6885759fc853e6eae",
+    "shibarium": "0x91fbb2503ac69702061f1ac6885759fc853e6eae"
+  }
+}

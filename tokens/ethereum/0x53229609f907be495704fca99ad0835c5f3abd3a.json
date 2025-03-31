@@ -1,0 +1,15 @@
+{
+  "symbol": "rintaro",
+  "name": "Rintaro",
+  "address": "0x53229609F907be495704fCa99Ad0835C5f3abd3A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50273/thumb/_lseaRSN_400x400.jpg?1726765973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x53229609f907be495704fca99ad0835c5f3abd3a"
+  }
+}

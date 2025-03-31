@@ -1,0 +1,15 @@
+{
+  "symbol": "mzero",
+  "name": "MetaZero",
+  "address": "0x328a268b191ef593B72498a9e8a481C086EB21be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33759/thumb/1500x500-3.jpeg?1702960079",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x328a268b191ef593b72498a9e8a481c086eb21be"
+  }
+}

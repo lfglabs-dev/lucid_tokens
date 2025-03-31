@@ -1,0 +1,19 @@
+{
+  "symbol": "dogeverse",
+  "name": "DogeVerse",
+  "address": "0x62F03b52c377FeA3EB71D451a95ad86C818755D1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38495/thumb/DogeVerse_200x200.png?1717692269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
+    "binance-smart-chain": "0xc6c58f600917de512cd02d2b6ed595ab54b4c30f",
+    "polygon-pos": "0x38022a157b95c52d43abcac9bd09f028a1079105",
+    "base": "0x004aa1586011f3454f487eac8d0d5c647d646c69",
+    "solana": "7xZCdhj7rGhnKndRpU3NHgZhbFMkPLP2ErDr1AS8Chsx"
+  }
+}

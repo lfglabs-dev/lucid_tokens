@@ -1,0 +1,15 @@
+{
+  "symbol": "remilia",
+  "name": "Charlotte Fang",
+  "address": "0x206a5Ec55C531574130691cf9Ada0fD711d5f710",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50852/thumb/IMG_0474.jpeg?1729300650",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x206a5ec55c531574130691cf9ada0fd711d5f710"
+  }
+}

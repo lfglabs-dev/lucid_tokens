@@ -1,0 +1,15 @@
+{
+  "symbol": "ori",
+  "name": "Origent Ai",
+  "address": "0x3E43EFbfA058d351a926FC611E997F2338ADc2a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53389/thumb/twitter_dp.png?1736276659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e43efbfa058d351a926fc611e997f2338adc2a4"
+  }
+}

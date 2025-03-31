@@ -1,0 +1,26 @@
+{
+  "symbol": "bal",
+  "name": "Balancer",
+  "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11683/thumb/Balancer.png?1592792958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "xdai": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
+    "polygon-zkevm": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
+    "optimistic-ethereum": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
+    "near-protocol": "ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near",
+    "harmony-shard-0": "0xdc5f76104d0b8d2bf2c2bbe06cdfe17004e9010f",
+    "huobi-token": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
+    "energi": "0x9b817c6e9a38e604606aea3ad6ed271ce8eaa9d6",
+    "avalanche": "0xe15bcb9e0ea69e6ab9fa080c4c4a5632896298c3",
+    "arbitrum-one": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+    "polygon-pos": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+    "base": "0x4158734d47fc9692176b5085e0f52ee0da5d47f1"
+  }
+}

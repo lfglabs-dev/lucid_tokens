@@ -1,0 +1,15 @@
+{
+  "symbol": "sluglord",
+  "name": "🌻ᔕᒪᑌGᒪOᖇᗪ🌻",
+  "address": "0x5791254F5D7a4D7Ce4Dda0391CE15812B65aC2A2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37559/thumb/SLUGLORD_200x200.jpeg?1714871868",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5791254f5d7a4d7ce4dda0391ce15812b65ac2a2"
+  }
+}

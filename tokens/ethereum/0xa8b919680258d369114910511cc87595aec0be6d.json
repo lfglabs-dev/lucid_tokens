@@ -1,0 +1,16 @@
+{
+  "symbol": "lyxe",
+  "name": "LUKSO [OLD]",
+  "address": "0xA8b919680258d369114910511cc87595aec0be6D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11423/thumb/1_QAHTciwVhD7SqVmfRW70Pw.png?1590110612",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa8b919680258d369114910511cc87595aec0be6d",
+    "harmony-shard-0": "0x8a8ca151562a68ed3732fd963ec4e0e713b39bb3"
+  }
+}

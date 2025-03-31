@@ -1,0 +1,15 @@
+{
+  "symbol": "espr",
+  "name": "Espresso Bot",
+  "address": "0xA3c31927A092BD54eb9A0B5DfE01D9DB5028BD4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31091/thumb/Espresso.png?1690448832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa3c31927a092bd54eb9a0b5dfe01d9db5028bd4f"
+  }
+}

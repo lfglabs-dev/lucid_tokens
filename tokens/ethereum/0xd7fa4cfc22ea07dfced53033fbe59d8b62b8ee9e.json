@@ -1,0 +1,15 @@
+{
+  "symbol": "vyper",
+  "name": "VYPER.WIN",
+  "address": "0xd7fa4cFC22eA07DfCeD53033fbE59d8b62B8Ee9E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51398/thumb/VYPER200x200.png?1731084074",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7fa4cfc22ea07dfced53033fbe59d8b62b8ee9e"
+  }
+}

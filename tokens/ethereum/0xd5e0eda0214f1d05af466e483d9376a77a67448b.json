@@ -1,0 +1,15 @@
+{
+  "symbol": "trala",
+  "name": "TRALA TOKEN",
+  "address": "0xD5e0eda0214f1d05af466E483d9376a77A67448b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38900/thumb/TRALA.png?1719456891",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd5e0eda0214f1d05af466e483d9376a77a67448b"
+  }
+}

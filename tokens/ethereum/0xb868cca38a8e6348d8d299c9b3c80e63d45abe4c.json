@@ -1,0 +1,15 @@
+{
+  "symbol": "fusion",
+  "name": "Fusion AI",
+  "address": "0xB868Cca38a8E6348d8D299c9b3C80e63d45Abe4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53342/thumb/Qutj32Bf_400x400.jpg?1736154839",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb868cca38a8e6348d8d299c9b3c80e63d45abe4c"
+  }
+}

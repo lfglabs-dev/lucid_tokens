@@ -1,0 +1,15 @@
+{
+  "symbol": "blendr",
+  "name": "Blendr Network",
+  "address": "0x84018071282d4B2996272659D9C01cB08DD7327F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35765/thumb/Blendr_Network.png?1709752266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x84018071282d4b2996272659d9c01cb08dd7327f"
+  }
+}

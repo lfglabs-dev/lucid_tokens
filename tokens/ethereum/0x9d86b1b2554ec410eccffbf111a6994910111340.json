@@ -1,0 +1,15 @@
+{
+  "symbol": "open",
+  "name": "Open Platform",
+  "address": "0x9D86b1B2554ec410ecCFfBf111A6994910111340",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2953/thumb/open-platform.png?1548330231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9d86b1b2554ec410eccffbf111a6994910111340"
+  }
+}

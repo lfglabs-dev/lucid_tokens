@@ -1,0 +1,15 @@
+{
+  "symbol": "cep",
+  "name": "CEREAL",
+  "address": "0x4168BbC34BaEa34e55721809911bcA5baAEF6ba6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10469/thumb/57414069_286321078958466_8377709696580059136_n.jpg?1579733292",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4168bbc34baea34e55721809911bca5baaef6ba6"
+  }
+}

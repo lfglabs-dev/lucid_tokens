@@ -1,0 +1,15 @@
+{
+  "symbol": "caw",
+  "name": "A Hunters Dream",
+  "address": "0xf3b9569F82B18aEf890De263B84189bd33EBe452",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25130/thumb/JbxuuZvC_400x400.jpg?1650414046",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf3b9569f82b18aef890de263b84189bd33ebe452"
+  }
+}

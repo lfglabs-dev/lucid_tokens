@@ -1,0 +1,15 @@
+{
+  "symbol": "$blk",
+  "name": "BLK2100",
+  "address": "0x210028b5a1E9efFb93Ce31006a18629F31131093",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51417/thumb/BLK2100.png?1731167537",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x210028b5a1e9effb93ce31006a18629f31131093"
+  }
+}

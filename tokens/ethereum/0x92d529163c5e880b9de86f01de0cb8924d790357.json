@@ -1,0 +1,15 @@
+{
+  "symbol": "eye",
+  "name": "Eyeverse",
+  "address": "0x92d529163c5e880b9De86f01De0cB8924D790357",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28623/thumb/EYE.png?1672709171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x92d529163c5e880b9de86f01de0cb8924d790357"
+  }
+}

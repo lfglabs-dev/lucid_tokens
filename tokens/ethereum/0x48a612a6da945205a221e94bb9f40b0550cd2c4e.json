@@ -1,0 +1,15 @@
+{
+  "symbol": "sttia",
+  "name": "Bridged stTIA (Hyperlane)",
+  "address": "0x48A612A6da945205a221E94BB9F40B0550Cd2C4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39913/thumb/stTIA.png?1724785466",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x48a612a6da945205a221e94bb9f40b0550cd2c4e"
+  }
+}

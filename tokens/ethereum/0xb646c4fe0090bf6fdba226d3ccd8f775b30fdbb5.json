@@ -1,0 +1,15 @@
+{
+  "symbol": "culo",
+  "name": "Culo (ETH)",
+  "address": "0xb646c4fE0090Bf6fdbA226D3ccd8f775b30fDbB5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51964/thumb/CULO-ETH.jpg?1732274364",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb646c4fe0090bf6fdba226d3ccd8f775b30fdbb5"
+  }
+}

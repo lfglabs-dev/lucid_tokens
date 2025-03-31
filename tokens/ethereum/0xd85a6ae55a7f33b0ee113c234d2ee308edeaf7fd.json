@@ -1,0 +1,16 @@
+{
+  "symbol": "cbk",
+  "name": "Cobak",
+  "address": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13459/thumb/cbk-128-128.png?1608760936",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd85a6ae55a7f33b0ee113c234d2ee308edeaf7fd",
+    "polygon-pos": "0x4ec203dd0699fac6adaf483cdd2519bc05d2c573"
+  }
+}

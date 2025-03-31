@@ -1,0 +1,16 @@
+{
+  "symbol": "mft",
+  "name": "Mainframe",
+  "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3293/thumb/hifi_logo.png?1613102742",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
+    "energi": "0x9594e7431144e80178b1bc6849edcba7d2d5bb27"
+  }
+}

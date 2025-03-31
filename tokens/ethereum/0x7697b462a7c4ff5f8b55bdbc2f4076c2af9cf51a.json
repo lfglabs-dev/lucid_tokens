@@ -1,0 +1,15 @@
+{
+  "symbol": "sarco",
+  "name": "Sarcophagus",
+  "address": "0x7697B462A7c4Ff5F8b55BDBC2F4076c2aF9cF51A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15091/thumb/E2S2-CcUcAAyNxD.jpeg?1622519884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a"
+  }
+}

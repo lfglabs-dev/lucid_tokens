@@ -1,0 +1,15 @@
+{
+  "symbol": "un",
+  "name": "UNIT DAO",
+  "address": "0x93109Af5638bE68ed2D0E094F618777ff1051d28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34306/thumb/UNITDao.png?1704614014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x93109af5638be68ed2d0e094f618777ff1051d28"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "hoichi",
+  "name": "Hoichi",
+  "address": "0xC4EE0aA2d993ca7C9263eCFa26c6f7e13009d2b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27227/thumb/3dBs4VvW_400x400.jpeg?1662711951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4ee0aa2d993ca7c9263ecfa26c6f7e13009d2b6"
+  }
+}

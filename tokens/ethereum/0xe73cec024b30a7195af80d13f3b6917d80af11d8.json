@@ -1,0 +1,15 @@
+{
+  "symbol": "goat",
+  "name": "GOATED",
+  "address": "0xe73cEC024b30a7195AF80d13F3b6917d80af11D8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34735/thumb/IMG_20240121_025525_360.jpg?1705943971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe73cec024b30a7195af80d13f3b6917d80af11d8"
+  }
+}

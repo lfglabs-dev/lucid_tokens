@@ -1,0 +1,19 @@
+{
+  "symbol": "tlos",
+  "name": "Telos",
+  "address": "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7588/thumb/TLOS_200.png?1629277084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+    "binance-smart-chain": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+    "avalanche": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+    "arbitrum-one": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+    "polygon-pos": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d"
+  }
+}

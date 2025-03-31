@@ -1,0 +1,17 @@
+{
+  "symbol": "dxd",
+  "name": "DXdao",
+  "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11148/thumb/dxdao.png?1607999331",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+    "xdai": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
+    "arbitrum-one": "0xc3ae0333f0f34aa734d5493276223d95b8f9cb37"
+  }
+}

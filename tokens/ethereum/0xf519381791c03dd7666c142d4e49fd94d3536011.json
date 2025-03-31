@@ -1,0 +1,17 @@
+{
+  "symbol": "asia",
+  "name": "Asia Coin",
+  "address": "0xF519381791C03DD7666C142D4E49Fd94d3536011",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18589/thumb/Ou7mp_R1TQ5B9vsBiZ8oQnSv36M6hiA2hESxV_7YSw0.png?1632556422",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf519381791c03dd7666c142d4e49fd94d3536011",
+    "binance-smart-chain": "0xebaffc2d2ea7c66fb848c48124b753f93a0a90ec",
+    "polygon-pos": "0x50bcbc40306230713239ae1bddd5eefeeaa273dc"
+  }
+}

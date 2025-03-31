@@ -1,0 +1,15 @@
+{
+  "symbol": "yvlusd",
+  "name": "LUSD yVault",
+  "address": "0x378cb52b00F9D0921cb46dFc099CFf73b42419dC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28788/thumb/yvLUSD-128-0x378cb52b00F9D0921cb46dFc099CFf73b42419dC.png?1674224700",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x378cb52b00f9d0921cb46dfc099cff73b42419dc"
+  }
+}

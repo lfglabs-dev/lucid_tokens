@@ -1,0 +1,15 @@
+{
+  "symbol": "bsen",
+  "name": "Baby Sen by Sentio",
+  "address": "0xC04207Ebf4BBBD81C14596b78Ece7CD8c17fB5Cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53673/thumb/Baby_Sen_by_Sentio.jpg?1737008175",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc04207ebf4bbbd81c14596b78ece7cd8c17fb5cf"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "emp",
+  "name": "Empyreal",
+  "address": "0x39D5313C3750140E5042887413bA8AA6145a9bd2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31374/thumb/emplogotransparent_%281%29.png?1692698603",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x772598e9e62155d7fdfe65fdf01eb5a53a8465be",
+    "base": "0x39d5313c3750140e5042887413ba8aa6145a9bd2",
+    "ethereum": "0x39d5313c3750140e5042887413ba8aa6145a9bd2"
+  }
+}

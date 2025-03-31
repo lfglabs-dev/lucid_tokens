@@ -1,0 +1,15 @@
+{
+  "symbol": "vader",
+  "name": "Vader Protocol",
+  "address": "0x2602278EE1882889B946eb11DC0E810075650983",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20497/thumb/AcF08Jk1_400x400.jpg?1637131991",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2602278ee1882889b946eb11dc0e810075650983"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "carrot",
+  "name": "Carrot by Puffer",
+  "address": "0x282A69142bac47855C3fbE1693FcC4bA3B4d5Ed6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54106/thumb/_CARROT_token_200x200_%281%29.png?1738306842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x282a69142bac47855c3fbe1693fcc4ba3b4d5ed6"
+  }
+}

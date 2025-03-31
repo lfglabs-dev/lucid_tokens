@@ -1,0 +1,16 @@
+{
+  "symbol": "oraix",
+  "name": "OraiDEX",
+  "address": "0x2d869aE129e308F94Cc47E66eaefb448CEe0d03e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28104/thumb/oraix.png?1667544148",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2d869ae129e308f94cc47e66eaefb448cee0d03e",
+    "oraichain": "orai1hn8w33cqvysun2aujk5sv33tku4pgcxhhnsxmvnkfvdxagcx0p8qa4l98q"
+  }
+}

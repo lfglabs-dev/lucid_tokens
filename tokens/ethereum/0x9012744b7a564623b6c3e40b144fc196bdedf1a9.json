@@ -1,0 +1,15 @@
+{
+  "symbol": "oxn",
+  "name": "0xNumber",
+  "address": "0x9012744B7A564623b6C3E40b144fc196bdeDf1A9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33870/thumb/200x200.png?1703131812",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9012744b7a564623b6c3e40b144fc196bdedf1a9"
+  }
+}

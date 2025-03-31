@@ -1,0 +1,16 @@
+{
+  "symbol": "soso",
+  "name": "SoSoValue",
+  "address": "0x76A0e27618462bDAC7a29104bdcfFf4E6BFCea2D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53919/thumb/soso.jpg?1737717378",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d",
+    "base": "0x624e2e7fdc8903165f64891672267ab0fcb98831"
+  }
+}

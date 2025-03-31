@@ -1,0 +1,16 @@
+{
+  "symbol": "crfi",
+  "name": "CrossFi",
+  "address": "0x8848812BD31AEEe33313C10A840FfC3169078C5b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15162/thumb/11901619752967_.pic_hd.png?1620006681",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xae20bc46300bab5d85612c6bc6ea87ea0f186035",
+    "ethereum": "0x8848812bd31aeee33313c10a840ffc3169078c5b"
+  }
+}

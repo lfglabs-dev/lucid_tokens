@@ -1,0 +1,15 @@
+{
+  "symbol": "zsc",
+  "name": "Zeusshield",
+  "address": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1009/thumb/zeusshield.png?1548761440",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63"
+  }
+}

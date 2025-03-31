@@ -1,0 +1,15 @@
+{
+  "symbol": "ibit",
+  "name": "InfinityBit Token",
+  "address": "0xA3cB87080e68AD54D00573983D935Fa85d168FDE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31562/thumb/rmCDUca8_400x400.jpg?1693806264",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa3cb87080e68ad54d00573983d935fa85d168fde"
+  }
+}

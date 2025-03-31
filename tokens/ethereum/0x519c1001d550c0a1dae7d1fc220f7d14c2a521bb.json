@@ -1,0 +1,16 @@
+{
+  "symbol": "pswap",
+  "name": "Polkaswap",
+  "address": "0x519C1001D550C0a1DaE7d1fC220f7d14c2A521BB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15475/thumb/pswap-token-logomark-ticker-icon-200px-transparent-optimized.png?1622447028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+    "sora": "0x0200050000000000000000000000000000000000000000000000000000000000"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "izumi",
+  "name": "Izumi-chan",
+  "address": "0x13063Bed4BeBbe542005e191c459d2cFa96b98E1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51226/thumb/New_logo.png?1730394857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x13063bed4bebbe542005e191c459d2cfa96b98e1"
+  }
+}

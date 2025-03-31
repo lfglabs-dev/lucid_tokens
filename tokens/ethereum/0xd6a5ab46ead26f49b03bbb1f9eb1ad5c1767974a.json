@@ -1,0 +1,16 @@
+{
+  "symbol": "emon",
+  "name": "Ethermon",
+  "address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15889/thumb/LtET0reH_400x400.jpg?1622213962",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
+    "polygon-pos": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a"
+  }
+}

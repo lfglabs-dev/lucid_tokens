@@ -1,0 +1,16 @@
+{
+  "symbol": "cbu",
+  "name": "Banque Universal",
+  "address": "0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8112/thumb/png_tr.png?1554952499",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcef46305d096fa876dd23048bf80f9345282e3fc",
+    "binance-smart-chain": "0x912ef48f4da0c68d6c7c6d0b35d4e62e71771f33"
+  }
+}

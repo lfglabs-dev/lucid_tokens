@@ -1,0 +1,15 @@
+{
+  "symbol": "lcr",
+  "name": "LaunchR",
+  "address": "0xbA00357FD9348Da1aDBaE9B2867B6B596EbA4F24",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39129/thumb/LaunchR_coin_gecko.jpg?1720669555",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba00357fd9348da1adbae9b2867b6b596eba4f24"
+  }
+}

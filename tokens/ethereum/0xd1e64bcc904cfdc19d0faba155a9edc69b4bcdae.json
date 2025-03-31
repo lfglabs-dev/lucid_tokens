@@ -1,0 +1,15 @@
+{
+  "symbol": "pika",
+  "name": "Pikamoon",
+  "address": "0xD1e64bcc904Cfdc19d0FABA155a9EdC69b4bcdAe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36366/thumb/Pikamoon.png?1711336684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1e64bcc904cfdc19d0faba155a9edc69b4bcdae"
+  }
+}

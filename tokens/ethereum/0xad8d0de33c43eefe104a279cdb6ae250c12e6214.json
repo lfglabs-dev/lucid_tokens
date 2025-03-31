@@ -1,0 +1,15 @@
+{
+  "symbol": "naruto",
+  "name": "Naruto",
+  "address": "0xAD8D0de33C43eEFe104A279cDB6Ae250C12e6214",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29963/thumb/logo.jpg?1682389582",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad8d0de33c43eefe104a279cdb6ae250c12e6214"
+  }
+}

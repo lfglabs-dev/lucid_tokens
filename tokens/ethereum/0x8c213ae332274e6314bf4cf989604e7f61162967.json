@@ -1,0 +1,15 @@
+{
+  "symbol": "dongo",
+  "name": "Dongo AI",
+  "address": "0x8c213AE332274e6314Bf4cF989604e7f61162967",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36058/thumb/983a295f-f391-404c-a77e-ce41dcbd1ab5.jpg?1710404588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c213ae332274e6314bf4cf989604e7f61162967"
+  }
+}

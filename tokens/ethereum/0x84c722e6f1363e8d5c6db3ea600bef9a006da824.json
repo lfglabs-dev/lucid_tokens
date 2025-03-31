@@ -1,0 +1,15 @@
+{
+  "symbol": "msb",
+  "name": "Misbloc",
+  "address": "0x84c722e6F1363E8D5C6dB3eA600bEF9a006Da824",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13021/thumb/xREV4lXV.png?1604396822",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x84c722e6f1363e8d5c6db3ea600bef9a006da824"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "soup",
+  "name": "soup.game",
+  "address": "0x28cFE98c33b8A8Bb5F5aC5068A95D9db6bEE5FfD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54298/thumb/SOUP_LOGO_200x200_.jpg?1739164200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x28cfe98c33b8a8bb5f5ac5068a95d9db6bee5ffd"
+  }
+}

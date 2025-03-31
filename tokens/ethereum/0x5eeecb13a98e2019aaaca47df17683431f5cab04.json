@@ -1,0 +1,18 @@
+{
+  "symbol": "ssdx",
+  "name": "SpunkySDX",
+  "address": "0x5eeecb13a98e2019aaacA47DF17683431F5CAb04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52469/thumb/spunkysdx.png?1733412208",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xdb40357fbc1eb1038c5df94c1cd7b7fd3f434480",
+    "ethereum": "0x5eeecb13a98e2019aaaca47df17683431f5cab04",
+    "binance-smart-chain": "0x4fa159afacdbd56d67434ca0de4573214708a846",
+    "base": "0x62bba099edd65740c0d192ffe84973b1aae682d2"
+  }
+}

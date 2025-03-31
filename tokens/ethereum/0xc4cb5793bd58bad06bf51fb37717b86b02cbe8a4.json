@@ -1,0 +1,15 @@
+{
+  "symbol": "credit",
+  "name": "PROXI DeFi",
+  "address": "0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12212/thumb/_credit.png?1598235420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4"
+  }
+}

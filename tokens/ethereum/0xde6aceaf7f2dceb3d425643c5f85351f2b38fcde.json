@@ -1,0 +1,15 @@
+{
+  "symbol": "hq",
+  "name": "HQ",
+  "address": "0xde6AcEAF7F2dCEB3d425643C5F85351f2B38FcdE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53766/thumb/_HQ_TOKEN_FINAL_200x200_small_%281%29.png?1737193051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde6aceaf7f2dceb3d425643c5f85351f2b38fcde"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "powr",
+  "name": "Powerledger",
+  "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1104/thumb/power-ledger.png?1547035082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+    "energi": "0xd1bbc2a68b97a8ae4b423bbf534e767ef6275a30"
+  }
+}

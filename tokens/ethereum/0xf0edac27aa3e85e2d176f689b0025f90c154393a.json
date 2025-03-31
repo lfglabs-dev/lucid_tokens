@@ -1,0 +1,15 @@
+{
+  "symbol": "lovesnoopy",
+  "name": "I LOVE SNOOPY",
+  "address": "0xF0EDAC27Aa3E85E2D176F689B0025f90C154393a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30340/thumb/dAlRqD6r_400x400.jpg?1684160560",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf0edac27aa3e85e2d176f689b0025f90c154393a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "temple",
+  "name": "TempleDAO",
+  "address": "0x470EBf5f030Ed85Fc1ed4C2d36B9DD02e77CF1b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20040/thumb/LPK15ZOW_400x400.jpg?1636425070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7"
+  }
+}

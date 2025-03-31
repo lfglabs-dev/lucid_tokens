@@ -1,0 +1,15 @@
+{
+  "symbol": "wfio",
+  "name": "Wrapped FIO",
+  "address": "0xbEA269038Eb75BdAB47a9C04D0F5c572d94b93D5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29183/thumb/fio_light_favicon_transparent_200x200.png?1677200040",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbea269038eb75bdab47a9c04d0f5c572d94b93d5"
+  }
+}

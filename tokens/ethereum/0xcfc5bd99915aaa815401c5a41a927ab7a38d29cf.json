@@ -1,0 +1,15 @@
+{
+  "symbol": "thusd",
+  "name": "Threshold USD",
+  "address": "0xCFC5bD99915aAa815401C5a41A927aB7a38d29cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32274/thumb/thusd.png?1697180081",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcfc5bd99915aaa815401c5a41a927ab7a38d29cf"
+  }
+}

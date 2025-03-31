@@ -1,0 +1,15 @@
+{
+  "symbol": "geke",
+  "name": "Geke",
+  "address": "0x471A202f69D6e975DA55E363daB1bDB2e86E0c0f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30332/thumb/geke.jpg?1684142638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x471a202f69d6e975da55e363dab1bdb2e86e0c0f"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "aleph",
+  "name": "Aleph.im",
+  "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11676/thumb/Monochram-aleph.png?1608483725",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+    "binance-smart-chain": "0x82d2f8e02afb160dd5a480a617692e62de9038c4",
+    "avalanche": "0xc0fbc4967259786c743361a5885ef49380473dcf",
+    "base": "0xc0fbc4967259786c743361a5885ef49380473dcf"
+  }
+}

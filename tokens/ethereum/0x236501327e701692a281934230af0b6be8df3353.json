@@ -1,0 +1,15 @@
+{
+  "symbol": "flt",
+  "name": "Fluence",
+  "address": "0x236501327e701692a281934230AF0b6BE8Df3353",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36339/thumb/fluence.png?1711106498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x236501327e701692a281934230af0b6be8df3353"
+  }
+}

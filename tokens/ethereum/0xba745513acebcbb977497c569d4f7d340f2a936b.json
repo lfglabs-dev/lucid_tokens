@@ -1,0 +1,16 @@
+{
+  "symbol": "mftu",
+  "name": "Mainstream For The Underground",
+  "address": "0xbA745513ACEbcBb977497C569D4F7d340f2A936B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5519/thumb/Mainstream_for_the_underground.png?1534426154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba745513acebcbb977497c569d4f7d340f2a936b",
+    "polygon-pos": "0xc46a37fbbe433ef24bc7b9388c8728ddcf3ca87c"
+  }
+}

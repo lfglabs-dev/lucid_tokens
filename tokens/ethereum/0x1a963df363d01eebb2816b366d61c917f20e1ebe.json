@@ -1,0 +1,15 @@
+{
+  "symbol": "$mememe",
+  "name": "MEMEME",
+  "address": "0x1A963Df363D01EEBB2816b366d61C917F20e1EbE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29965/thumb/MEMEME_token_image_200px.png?1682389841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a963df363d01eebb2816b366d61c917f20e1ebe"
+  }
+}

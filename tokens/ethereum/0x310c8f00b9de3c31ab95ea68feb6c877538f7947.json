@@ -1,0 +1,15 @@
+{
+  "symbol": "undead",
+  "name": "Undead Blocks",
+  "address": "0x310C8F00b9dE3c31Ab95ea68feb6C877538f7947",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25382/thumb/AB0Uemhlw6jR.png?1651488079",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x310c8f00b9de3c31ab95ea68feb6c877538f7947"
+  }
+}

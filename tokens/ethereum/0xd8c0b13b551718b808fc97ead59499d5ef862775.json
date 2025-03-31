@@ -1,0 +1,16 @@
+{
+  "symbol": "music",
+  "name": "Gala Music",
+  "address": "0xD8c0b13B551718b808fc97eAd59499d5Ef862775",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33472/thumb/gmusic.jpeg?1701947141",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "galachain": "0xd8c0b13b551718b808fc97ead59499d5ef862775",
+    "ethereum": "0xd8c0b13b551718b808fc97ead59499d5ef862775"
+  }
+}

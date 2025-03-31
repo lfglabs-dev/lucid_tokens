@@ -1,0 +1,15 @@
+{
+  "symbol": "mwbeth",
+  "name": "Eigenpie wBETH",
+  "address": "0xE46a5E19B19711332e33F33c2DB3eA143e86Bc10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37164/thumb/mwBETH.png?1713505825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe46a5e19b19711332e33f33c2db3ea143e86bc10"
+  }
+}

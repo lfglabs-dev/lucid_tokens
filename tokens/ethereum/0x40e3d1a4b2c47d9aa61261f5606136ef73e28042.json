@@ -1,0 +1,15 @@
+{
+  "symbol": "serv",
+  "name": "OpenServ",
+  "address": "0x40e3d1A4B2C47d9AA61261F5606136ef73E28042",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51430/thumb/tw_profile_picture_logomark_%284%29.png?1731195650",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x40e3d1a4b2c47d9aa61261f5606136ef73e28042"
+  }
+}

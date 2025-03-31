@@ -1,0 +1,17 @@
+{
+  "symbol": "cgv",
+  "name": "Cogito Finance",
+  "address": "0xaeF420fd77477d9Dc8B46D704D44dD09d6c27866",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30731/thumb/CGV_logo_32.png?1686648683",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1bdaf9ddd7658d8049391971d1fd48c0484f66ec",
+    "cardano": "3d547a7bb805648f86c4c14e5c4df14044ad59753f0a2946d70f8d3c",
+    "ethereum": "0xaef420fd77477d9dc8b46d704d44dd09d6c27866"
+  }
+}

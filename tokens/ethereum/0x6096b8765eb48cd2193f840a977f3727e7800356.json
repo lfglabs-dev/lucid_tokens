@@ -1,0 +1,15 @@
+{
+  "symbol": "crab",
+  "name": "CRABBY",
+  "address": "0x6096b8765Eb48cd2193F840a977f3727e7800356",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39035/thumb/unnamed.jpg?1720038984",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6096b8765eb48cd2193f840a977f3727e7800356"
+  }
+}

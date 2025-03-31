@@ -1,0 +1,15 @@
+{
+  "symbol": "mxna",
+  "name": "Machina",
+  "address": "0x0a2A015A15A8E019aBc386FEE88B8A6d7A0D90df",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53718/thumb/mxna-logo.png?1737124441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0a2a015a15a8e019abc386fee88b8a6d7a0d90df"
+  }
+}

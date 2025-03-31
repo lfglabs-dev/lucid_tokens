@@ -1,0 +1,15 @@
+{
+  "symbol": "fatguy",
+  "name": "FAT GUY",
+  "address": "0x5277f67A2BE2e1A241613c357F26Ae12458BF2C9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39762/thumb/Fatguy_%281%29.png?1723904089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5277f67a2be2e1a241613c357f26ae12458bf2c9"
+  }
+}

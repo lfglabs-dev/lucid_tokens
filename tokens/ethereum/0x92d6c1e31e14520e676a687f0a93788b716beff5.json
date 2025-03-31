@@ -1,0 +1,15 @@
+{
+  "symbol": "ethdydx",
+  "name": "dYdX",
+  "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17500/thumb/hjnIm9bV.jpg?1628009360",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x92d6c1e31e14520e676a687f0a93788b716beff5"
+  }
+}

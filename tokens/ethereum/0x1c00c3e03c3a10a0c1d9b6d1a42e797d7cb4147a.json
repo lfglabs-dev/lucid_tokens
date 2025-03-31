@@ -1,0 +1,15 @@
+{
+  "symbol": "arca",
+  "name": "Legend of Arcadia",
+  "address": "0x1c00c3E03C3a10a0C1d9B6d1A42e797d7CB4147a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39564/thumb/ARCA.png?1722925525",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1c00c3e03c3a10a0c1d9b6d1a42e797d7cb4147a"
+  }
+}

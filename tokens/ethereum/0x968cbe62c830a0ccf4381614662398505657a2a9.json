@@ -1,0 +1,15 @@
+{
+  "symbol": "tpy",
+  "name": "Thrupenny",
+  "address": "0x968Cbe62c830A0Ccf4381614662398505657A2A9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26799/thumb/rsz_1mpmojfho_400x400.png?1660189540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x968cbe62c830a0ccf4381614662398505657a2a9"
+  }
+}

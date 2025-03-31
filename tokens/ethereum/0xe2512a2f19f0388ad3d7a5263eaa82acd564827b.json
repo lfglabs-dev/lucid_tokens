@@ -1,0 +1,16 @@
+{
+  "symbol": "shido",
+  "name": "Shido Network",
+  "address": "0xe2512A2f19F0388aD3D7A5263eaA82AcD564827b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32070/thumb/SHIDO.png?1696321188",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe2512a2f19f0388ad3d7a5263eaa82acd564827b",
+    "osmosis": "ibc/62B50BB1DAEAD2A92D6C6ACAC118F4ED8CBE54265DCF5688E8D0A0A978AA46E7"
+  }
+}

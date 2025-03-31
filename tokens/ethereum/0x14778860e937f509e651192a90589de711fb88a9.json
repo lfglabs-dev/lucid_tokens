@@ -1,0 +1,18 @@
+{
+  "symbol": "cyber",
+  "name": "CYBER",
+  "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31274/thumb/cyberconnect.png?1692101771",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x14778860e937f509e651192a90589de711fb88a9",
+    "cyber": "0x14778860e937f509e651192a90589de711fb88a9",
+    "optimistic-ethereum": "0x14778860e937f509e651192a90589de711fb88a9",
+    "binance-smart-chain": "0x14778860e937f509e651192a90589de711fb88a9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "la",
+  "name": "LA",
+  "address": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1051/thumb/LA_token.png?1605772040",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+  }
+}

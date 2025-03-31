@@ -1,0 +1,16 @@
+{
+  "symbol": "early",
+  "name": "EarlyFans",
+  "address": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37614/thumb/Logo_200x200.png?1715061001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x7135b32e9903bdb4e19a8b1d22fc2038964b8451",
+    "ethereum": "0x7135b32e9903bdb4e19a8b1d22fc2038964b8451"
+  }
+}

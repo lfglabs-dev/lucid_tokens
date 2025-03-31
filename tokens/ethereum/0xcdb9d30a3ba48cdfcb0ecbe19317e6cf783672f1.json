@@ -1,0 +1,15 @@
+{
+  "symbol": "mndcc",
+  "name": "Mondo Community Coin",
+  "address": "0xCDb9D30a3BA48CdfCB0EcbE19317E6cf783672f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18680/thumb/mndcc_bildmarke_256px.png?1632965673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1"
+  }
+}

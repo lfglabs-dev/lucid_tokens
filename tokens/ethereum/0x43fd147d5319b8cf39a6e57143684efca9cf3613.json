@@ -1,0 +1,15 @@
+{
+  "symbol": "re7tbtc",
+  "name": "Re7 tBTC",
+  "address": "0x43fD147d5319B8Cf39a6e57143684Efca9CF3613",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51508/thumb/26133.png?1731434284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x43fd147d5319b8cf39a6e57143684efca9cf3613"
+  }
+}

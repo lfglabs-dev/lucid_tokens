@@ -1,0 +1,15 @@
+{
+  "symbol": "aur",
+  "name": "Aurix",
+  "address": "0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14372/thumb/gold-brown-2.png?1615769158",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e98e5401adcb0d76f4debfc3d794b3031f48790"
+  }
+}

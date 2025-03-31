@@ -1,0 +1,16 @@
+{
+  "symbol": "peusd",
+  "name": "peg-eUSD",
+  "address": "0xD585aaafA2B58b1CD75092B51ade9Fa4Ce52F247",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31521/thumb/peUSD_200x200.png?1693486541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd585aaafa2b58b1cd75092b51ade9fa4ce52f247",
+    "arbitrum-one": "0xdce765f021410b3266aa0053c93cb4535f1e12e0"
+  }
+}

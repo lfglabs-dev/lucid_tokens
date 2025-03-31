@@ -1,0 +1,15 @@
+{
+  "symbol": "mph",
+  "name": "88mph",
+  "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13137/thumb/yfU-_Tcj_400x400.png?1605581509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8888801af4d980682e47f1a9036e589479e835c5"
+  }
+}

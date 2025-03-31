@@ -1,0 +1,15 @@
+{
+  "symbol": "nihao",
+  "name": "Nihao",
+  "address": "0xC3681A720605bD6F8fe9A2FaBff6A7CDEcDc605D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30619/thumb/nihaowhitecat.png?1685772299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc3681a720605bd6f8fe9a2fabff6a7cdecdc605d"
+  }
+}

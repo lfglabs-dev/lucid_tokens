@@ -1,0 +1,15 @@
+{
+  "symbol": "thn",
+  "name": "Throne",
+  "address": "0x2E95Cea14dd384429EB3c4331B776c4CFBB6FCD9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16965/thumb/aXhD3i_g_400x400.jpg?1625804145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "lyfe",
+  "name": "Lyfe",
+  "address": "0xd87de4cCef2c2FE651bc4d130cb1A365248f21fA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28608/thumb/lyfe-32.png?1672388850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd87de4ccef2c2fe651bc4d130cb1a365248f21fa"
+  }
+}

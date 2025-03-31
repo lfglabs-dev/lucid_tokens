@@ -1,0 +1,17 @@
+{
+  "symbol": "aura",
+  "name": "Aura Finance",
+  "address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png?1654784187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "xdai": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "base": "0x1509706a6c66ca549ff0cb464de88231ddbe213b"
+  }
+}

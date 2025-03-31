@@ -1,0 +1,15 @@
+{
+  "symbol": "99btc",
+  "name": "99 Bitcoins",
+  "address": "0xc2eB40516Ecaac04aE9964934983D1E9EbDF51FD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39633/thumb/99BTC_Logo_%282%29.png?1723266382",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc2eb40516ecaac04ae9964934983d1e9ebdf51fd"
+  }
+}

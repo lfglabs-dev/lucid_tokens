@@ -1,0 +1,15 @@
+{
+  "symbol": "snibbu",
+  "name": "Snibbu",
+  "address": "0xAeE9bA9CE49fe810417A36408e34D9962b653E78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35933/thumb/Screenshot_2024-03-10_at_03.46.37.png?1710226031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaee9ba9ce49fe810417a36408e34d9962b653e78"
+  }
+}

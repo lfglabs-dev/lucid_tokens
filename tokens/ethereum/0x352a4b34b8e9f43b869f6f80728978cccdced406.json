@@ -1,0 +1,15 @@
+{
+  "symbol": "sdlx",
+  "name": "SoundLinX",
+  "address": "0x352A4B34B8e9f43B869F6F80728978CCcDCED406",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37299/thumb/200x200_logo.png?1713951254",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x352a4b34b8e9f43b869f6f80728978cccdced406"
+  }
+}

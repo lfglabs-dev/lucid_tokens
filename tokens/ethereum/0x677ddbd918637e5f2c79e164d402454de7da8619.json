@@ -1,0 +1,15 @@
+{
+  "symbol": "vusd",
+  "name": "Vesper V-Dollar",
+  "address": "0x677ddbd918637E5F2c79e164D402454dE7dA8619",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16253/thumb/Vesper_Token_600.png?1623394697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x677ddbd918637e5f2c79e164d402454de7da8619"
+  }
+}

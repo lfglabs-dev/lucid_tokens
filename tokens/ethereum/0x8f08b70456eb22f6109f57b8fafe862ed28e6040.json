@@ -1,0 +1,15 @@
+{
+  "symbol": "king",
+  "name": "King Protocol",
+  "address": "0x8F08B70456eb22f6109F57b8fafE862ED28E6040",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51041/thumb/LRT2-200x200.png?1729826728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f08b70456eb22f6109f57b8fafe862ed28e6040"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pano",
+  "name": "PanoVerse",
+  "address": "0x3850952491606A0E420Eb929B1a2E1A450d013F1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32812/thumb/0x3850952491606a0e420eb929b1a2e1a450d013f1.png?1699544500",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3850952491606a0e420eb929b1a2e1a450d013f1"
+  }
+}

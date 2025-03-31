@@ -1,0 +1,15 @@
+{
+  "symbol": "kol",
+  "name": "ProtoKOLs",
+  "address": "0xd888A5460fFFA4B14340DD9Fe2710cbABd520659",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50923/thumb/token_logo_protokols.png?1729581216",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd888a5460fffa4b14340dd9fe2710cbabd520659"
+  }
+}

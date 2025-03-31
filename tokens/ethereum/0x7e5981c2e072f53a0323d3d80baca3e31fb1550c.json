@@ -1,0 +1,15 @@
+{
+  "symbol": "jovjou",
+  "name": "JovJou",
+  "address": "0x7e5981c2E072F53a0323D3d80bAca3e31fb1550c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32424/thumb/jj_2.png?1698118523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7e5981c2e072f53a0323d3d80baca3e31fb1550c"
+  }
+}

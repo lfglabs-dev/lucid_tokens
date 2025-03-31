@@ -1,0 +1,15 @@
+{
+  "symbol": "gtusdc",
+  "name": "Gauntlet USDC Prime Morpho Vault",
+  "address": "0xdd0f28e19C1780eb6396170735D45153D261490d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51338/thumb/usdc.png?1730814917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdd0f28e19c1780eb6396170735d45153d261490d"
+  }
+}

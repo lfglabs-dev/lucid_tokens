@@ -1,0 +1,16 @@
+{
+  "symbol": "gizmo",
+  "name": "GIZMO",
+  "address": "0xb538d9f3e1Ae450827618519ACd96086Fc4C0a59",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39993/thumb/a12.jpg?1725065734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb538d9f3e1ae450827618519acd96086fc4c0a59",
+    "solana": "6Pz3LdoipwFor2w9tGKfnLZZkJvucwbEef8yV9kvtE2M"
+  }
+}

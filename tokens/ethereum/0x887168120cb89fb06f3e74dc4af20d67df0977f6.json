@@ -1,0 +1,16 @@
+{
+  "symbol": "skrt",
+  "name": "Sekuritance",
+  "address": "0x887168120cb89Fb06F3E74Dc4AF20D67dF0977f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15495/thumb/skrt.png?1621053881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x887168120cb89fb06f3e74dc4af20d67df0977f6",
+    "polygon-pos": "0xe51e88dd08499762b8e4eb3a9f3da9b8e79608c3"
+  }
+}

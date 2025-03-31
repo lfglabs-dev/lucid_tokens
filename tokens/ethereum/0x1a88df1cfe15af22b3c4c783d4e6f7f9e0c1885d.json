@@ -1,0 +1,15 @@
+{
+  "symbol": "stkgho",
+  "name": "Aave stkGHO",
+  "address": "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34849/thumb/stkgho.png?1706260099",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d"
+  }
+}

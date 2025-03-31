@@ -1,0 +1,15 @@
+{
+  "symbol": "tear",
+  "name": "TEAR",
+  "address": "0x299a1503E88433C0Fd1BD68625C25C5a703eb64f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35416/thumb/tearcoin.png?1708507106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x299a1503e88433c0fd1bd68625c25c5a703eb64f"
+  }
+}

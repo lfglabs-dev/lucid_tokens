@@ -1,0 +1,19 @@
+{
+  "symbol": "ali",
+  "name": "Artificial Liquid Intelligence",
+  "address": "0x6B0b3a982b4634aC68dD83a4DBF02311cE324181",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22062/thumb/alethea-logo-transparent-colored.png?1642748848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+    "cronos": "0x45c135c1cdce8d25a3b729a28659561385c52671",
+    "polygon-pos": "0xbfc70507384047aa74c29cdc8c5cb88d0f7213ac",
+    "base": "0x97c806e7665d3afd84a8fe1837921403d59f3dcc",
+    "solana": "9wvorGtBJ8gyLorFTmwXWcymPoGVUBn6MRzHwFpCdCeC"
+  }
+}

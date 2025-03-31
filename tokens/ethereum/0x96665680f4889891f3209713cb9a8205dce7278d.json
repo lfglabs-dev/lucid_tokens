@@ -1,0 +1,15 @@
+{
+  "symbol": "$nxcp",
+  "name": "Nyx Cipher",
+  "address": "0x96665680f4889891f3209713cb9a8205Dce7278D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50323/thumb/IMG_5182.jpeg?1727161877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96665680f4889891f3209713cb9a8205dce7278d"
+  }
+}

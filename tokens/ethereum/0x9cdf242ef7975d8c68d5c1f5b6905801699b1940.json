@@ -1,0 +1,15 @@
+{
+  "symbol": "white",
+  "name": "WhiteRock",
+  "address": "0x9cdf242Ef7975D8c68D5C1F5B6905801699b1940",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52513/thumb/logo_%2827%29.png?1733497755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9cdf242ef7975d8c68d5c1f5b6905801699b1940"
+  }
+}

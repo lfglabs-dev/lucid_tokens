@@ -1,0 +1,15 @@
+{
+  "symbol": "jason",
+  "name": "Jason (Eth)",
+  "address": "0x4D243E8F511045f0d5f9d0288BC628737b10c079",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36232/thumb/jason_%281%29.jpeg?1710906316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d243e8f511045f0d5f9d0288bc628737b10c079"
+  }
+}

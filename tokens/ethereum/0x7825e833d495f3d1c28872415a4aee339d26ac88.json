@@ -1,0 +1,17 @@
+{
+  "symbol": "wtlos",
+  "name": "Wrapped Telos",
+  "address": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23952/thumb/tL4cEmvt_400x400.png?1645772510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "telos": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "ethereum": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
+    "binance-smart-chain": "0xb6c53431608e626ac81a9776ac3e999c5556717c"
+  }
+}

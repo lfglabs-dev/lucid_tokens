@@ -1,0 +1,15 @@
+{
+  "symbol": "zurr",
+  "name": "ZURRENCY",
+  "address": "0x89509aA1D14a8E1E5364Ec4C3B041213bcDbe08D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22240/thumb/logo.png?1641274307",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89509aa1d14a8e1e5364ec4c3b041213bcdbe08d"
+  }
+}

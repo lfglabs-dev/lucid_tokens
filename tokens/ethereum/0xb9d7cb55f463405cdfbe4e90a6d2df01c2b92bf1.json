@@ -1,0 +1,15 @@
+{
+  "symbol": "auni",
+  "name": "Aave UNI",
+  "address": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17247/thumb/aUNI_2x.png?1626942594",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1"
+  }
+}

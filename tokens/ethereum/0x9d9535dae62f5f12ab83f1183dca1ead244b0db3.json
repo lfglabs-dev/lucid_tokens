@@ -1,0 +1,16 @@
+{
+  "symbol": "ybr",
+  "name": "YieldBricks",
+  "address": "0x9d9535Dae62F5f12aB83F1183DCa1eAd244b0DB3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51471/thumb/fjord-token-logo-darkbg.png?1731384618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x11920f139a3121c2836e01551d43f95b3c31159c",
+    "ethereum": "0x9d9535dae62f5f12ab83f1183dca1ead244b0db3"
+  }
+}

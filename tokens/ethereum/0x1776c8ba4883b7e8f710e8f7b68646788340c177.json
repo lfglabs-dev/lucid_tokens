@@ -1,0 +1,15 @@
+{
+  "symbol": "ptc",
+  "name": "Patriots Coin",
+  "address": "0x1776c8ba4883B7e8F710E8F7b68646788340C177",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39188/thumb/1000059715.png?1720855615",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1776c8ba4883b7e8f710e8f7b68646788340c177"
+  }
+}

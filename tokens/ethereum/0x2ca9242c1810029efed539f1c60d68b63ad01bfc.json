@@ -1,0 +1,15 @@
+{
+  "symbol": "anvl",
+  "name": "Anvil",
+  "address": "0x2Ca9242c1810029Efed539F1c60D68B63AD01BFc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50825/thumb/anvil-logo_%281%29.png?1729240436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2ca9242c1810029efed539f1c60d68b63ad01bfc"
+  }
+}

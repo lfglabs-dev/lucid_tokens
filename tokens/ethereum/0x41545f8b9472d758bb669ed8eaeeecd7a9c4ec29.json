@@ -1,0 +1,16 @@
+{
+  "symbol": "fort",
+  "name": "Forta",
+  "address": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25060/thumb/Forta_200x200.png?1649996875",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+    "polygon-pos": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1"
+  }
+}

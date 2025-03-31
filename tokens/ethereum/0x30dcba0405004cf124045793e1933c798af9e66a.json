@@ -1,0 +1,16 @@
+{
+  "symbol": "ydf",
+  "name": "Yieldification",
+  "address": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26699/thumb/logo.png?1659609811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x30dcba0405004cf124045793e1933c798af9e66a",
+    "arbitrum-one": "0x30dcba0405004cf124045793e1933c798af9e66a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cpu",
+  "name": "CPUcoin",
+  "address": "0x6D52DfeFb16BB9Cdc78bfCA09061e44574886626",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9544/thumb/uaz.ms.png?1624024119",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d52dfefb16bb9cdc78bfca09061e44574886626"
+  }
+}

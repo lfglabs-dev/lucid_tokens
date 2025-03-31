@@ -1,0 +1,15 @@
+{
+  "symbol": "fb",
+  "name": "Fenerbahçe",
+  "address": "0xFB19075D77a0F111796FB259819830F4780f1429",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17711/thumb/FB_Logo.png?1629082961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfb19075d77a0f111796fb259819830f4780f1429"
+  }
+}

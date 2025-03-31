@@ -1,0 +1,15 @@
+{
+  "symbol": "0xp",
+  "name": "0xPrivacy",
+  "address": "0x46b7Cb31A4A6375C69A6D0B9ed9261fB649ADb83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50591/thumb/photo_2024-09-30_13-46-26.jpg?1728443504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x46b7cb31a4a6375c69a6d0b9ed9261fb649adb83"
+  }
+}

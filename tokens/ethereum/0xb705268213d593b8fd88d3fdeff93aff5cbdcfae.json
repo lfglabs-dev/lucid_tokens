@@ -1,0 +1,16 @@
+{
+  "symbol": "idex",
+  "name": "IDEX",
+  "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2565/thumb/logomark-purple-286x286.png?1638362736",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+    "polygon-pos": "0x9cb74c8032b007466865f060ad2c46145d45553d"
+  }
+}

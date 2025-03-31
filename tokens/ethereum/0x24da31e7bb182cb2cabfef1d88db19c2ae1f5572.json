@@ -1,0 +1,15 @@
+{
+  "symbol": "shik",
+  "name": "Shikoku",
+  "address": "0x24dA31e7BB182cb2cABfEF1d88db19C2AE1f5572",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28560/thumb/shikoku_inu02.png?1671706822",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x24da31e7bb182cb2cabfef1d88db19c2ae1f5572"
+  }
+}

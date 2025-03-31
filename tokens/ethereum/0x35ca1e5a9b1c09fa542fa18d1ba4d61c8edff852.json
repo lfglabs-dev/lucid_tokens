@@ -1,0 +1,16 @@
+{
+  "symbol": "schrodi",
+  "name": "Schrodi",
+  "address": "0x35cA1E5A9B1c09Fa542Fa18D1Ba4D61c8eDfF852",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36255/thumb/apzs3q26_200x200.jpg?1710927534",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x35ca1e5a9b1c09fa542fa18d1ba4d61c8edff852",
+    "arbitrum-one": "0x35ca1e5a9b1c09fa542fa18d1ba4d61c8edff852"
+  }
+}

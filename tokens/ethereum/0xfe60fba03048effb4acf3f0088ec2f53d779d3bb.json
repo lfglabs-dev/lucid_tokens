@@ -1,0 +1,15 @@
+{
+  "symbol": "3d3d",
+  "name": "3d3d",
+  "address": "0xFE60FbA03048EfFB4aCf3f0088Ec2f53d779D3BB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30232/thumb/200x200_2.PNG?1683643581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe60fba03048effb4acf3f0088ec2f53d779d3bb"
+  }
+}

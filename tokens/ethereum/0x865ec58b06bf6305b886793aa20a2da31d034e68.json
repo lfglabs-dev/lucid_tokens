@@ -1,0 +1,15 @@
+{
+  "symbol": "moc",
+  "name": "Mossland",
+  "address": "0x865ec58b06bF6305B886793AA20A2da31D034E68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2374/thumb/moc.png?1547036557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x865ec58b06bf6305b886793aa20a2da31d034e68"
+  }
+}

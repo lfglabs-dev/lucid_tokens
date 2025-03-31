@@ -1,0 +1,15 @@
+{
+  "symbol": "ooks",
+  "name": "Onooks",
+  "address": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16281/thumb/onooks-logo.png?1623637635",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69d9905b2e5f6f5433212b7f3c954433f23c1572"
+  }
+}

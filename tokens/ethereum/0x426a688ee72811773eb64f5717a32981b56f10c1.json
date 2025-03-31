@@ -1,0 +1,15 @@
+{
+  "symbol": "amc",
+  "name": "AMC",
+  "address": "0x426a688eE72811773eB64F5717A32981B56F10c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38792/thumb/IMG_1856.jpeg?1718857656",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x426a688ee72811773eb64f5717a32981b56f10c1"
+  }
+}

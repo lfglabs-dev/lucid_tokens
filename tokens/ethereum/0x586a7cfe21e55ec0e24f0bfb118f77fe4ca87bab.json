@@ -1,0 +1,15 @@
+{
+  "symbol": "crypto",
+  "name": "BetbuInu",
+  "address": "0x586a7cFE21E55ec0E24f0bfB118F77fE4cA87bab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31298/thumb/Betbu.jpeg?1692339202",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab"
+  }
+}

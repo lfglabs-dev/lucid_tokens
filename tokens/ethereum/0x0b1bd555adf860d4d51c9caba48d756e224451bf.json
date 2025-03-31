@@ -1,0 +1,15 @@
+{
+  "symbol": "esport",
+  "name": "Esportplayer",
+  "address": "0x0b1bD555adf860d4d51c9CAba48d756e224451BF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52466/thumb/200x200.png?1733411059",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0b1bd555adf860d4d51c9caba48d756e224451bf"
+  }
+}

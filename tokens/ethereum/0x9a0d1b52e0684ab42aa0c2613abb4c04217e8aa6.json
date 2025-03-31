@@ -1,0 +1,15 @@
+{
+  "symbol": "munchy",
+  "name": "Boys Club Munchy",
+  "address": "0x9a0d1b52E0684Ab42Aa0c2613aBb4C04217E8Aa6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38754/thumb/Boys_Club_Munchy.png?1718706573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9a0d1b52e0684ab42aa0c2613abb4c04217e8aa6"
+  }
+}

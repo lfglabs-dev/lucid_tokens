@@ -1,0 +1,16 @@
+{
+  "symbol": "karate",
+  "name": "Karate Combat",
+  "address": "0x80008BCD713c38AF90a9930288D446bc3bD2E684",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30384/thumb/karate.jpg?1684302528",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80008bcd713c38af90a9930288d446bc3bd2e684",
+    "hedera-hashgraph": "0.0.2283230"
+  }
+}

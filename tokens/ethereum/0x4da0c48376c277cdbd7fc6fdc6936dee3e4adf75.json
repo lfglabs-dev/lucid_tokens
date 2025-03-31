@@ -1,0 +1,16 @@
+{
+  "symbol": "epik",
+  "name": "Epik Prime",
+  "address": "0x4da0C48376C277cdBd7Fc6FdC6936DEE3e4AdF75",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17907/thumb/EPIK_Prime_LOGO.jpg?1630738458",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75",
+    "binance-smart-chain": "0x368ce786ea190f32439074e8d22e12ecb718b44c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cxt",
+  "name": "Covalent X Token",
+  "address": "0x7ABc8A5768E6bE61A6c693a6e4EAcb5B60602C4D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39177/thumb/CXT_Ticker.png?1720829918",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7abc8a5768e6be61a6c693a6e4eacb5b60602c4d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "reth2",
+  "name": "rETH2",
+  "address": "0x20BC832ca081b91433ff6c17f85701B6e92486c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16570/thumb/red256.png?1624495231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20bc832ca081b91433ff6c17f85701b6e92486c5"
+  }
+}

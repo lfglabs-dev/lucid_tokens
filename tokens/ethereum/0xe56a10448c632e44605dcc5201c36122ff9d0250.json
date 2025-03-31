@@ -1,0 +1,15 @@
+{
+  "symbol": "hedge",
+  "name": "HedgeFi",
+  "address": "0xe56a10448C632E44605dCc5201c36122FF9D0250",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50413/thumb/HedgeFi.png?1727677756",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe56a10448c632e44605dcc5201c36122ff9d0250"
+  }
+}

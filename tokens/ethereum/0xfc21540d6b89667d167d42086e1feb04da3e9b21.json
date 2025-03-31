@@ -1,0 +1,15 @@
+{
+  "symbol": "infi",
+  "name": "Infinet",
+  "address": "0xFC21540d6B89667D167D42086E1feb04DA3E9B21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50171/thumb/Twitter_Profile_image_400x400.jpg?1726137498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc21540d6b89667d167d42086e1feb04da3e9b21"
+  }
+}

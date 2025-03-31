@@ -1,0 +1,22 @@
+{
+  "symbol": "wusdm",
+  "name": "Wrapped USDM",
+  "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33785/thumb/wUSDM_PNG_240px.png?1702981552",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "avalanche": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "celo": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "optimistic-ethereum": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "zksync": "0xa900cbe7739c96d2b153a273953620a701d5442b",
+    "arbitrum-one": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "polygon-pos": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "base": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812"
+  }
+}

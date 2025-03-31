@@ -1,0 +1,15 @@
+{
+  "symbol": "api3",
+  "name": "API3",
+  "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13256/thumb/api3.jpg?1606751424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0b38210ea11411557c13457d4da7dc6ea731b88a"
+  }
+}

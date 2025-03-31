@@ -1,0 +1,17 @@
+{
+  "symbol": "gud",
+  "name": "Gud Tech",
+  "address": "0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53326/thumb/Logo.png?1736127749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zircuit": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+    "ethereum": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+    "base": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d"
+  }
+}

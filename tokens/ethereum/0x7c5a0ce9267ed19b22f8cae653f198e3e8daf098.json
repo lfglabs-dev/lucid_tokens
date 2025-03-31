@@ -1,0 +1,15 @@
+{
+  "symbol": "san",
+  "name": "Santiment Network",
+  "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/797/thumb/santiment-network-token.png?1547034571",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098"
+  }
+}

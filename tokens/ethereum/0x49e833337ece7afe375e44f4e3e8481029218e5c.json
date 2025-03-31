@@ -1,0 +1,15 @@
+{
+  "symbol": "value",
+  "name": "Value DeFi",
+  "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12525/thumb/value_logo_-_500x500.png?1601478115",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+  }
+}

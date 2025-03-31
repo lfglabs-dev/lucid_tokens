@@ -1,0 +1,15 @@
+{
+  "symbol": "cove",
+  "name": "Cove DAO",
+  "address": "0x32fb7D6E0cBEb9433772689aA4647828Cc7cbBA8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38023/thumb/cove.png?1716316667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32fb7d6e0cbeb9433772689aa4647828cc7cbba8"
+  }
+}

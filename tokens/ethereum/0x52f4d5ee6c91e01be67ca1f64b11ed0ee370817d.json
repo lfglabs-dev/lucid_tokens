@@ -1,0 +1,15 @@
+{
+  "symbol": "cia",
+  "name": "CIA",
+  "address": "0x52F4D5EE6c91e01Be67CA1F64b11eD0EE370817d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21569/thumb/Untitled-design-24.png?1641975750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x52f4d5ee6c91e01be67ca1f64b11ed0ee370817d"
+  }
+}

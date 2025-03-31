@@ -1,0 +1,15 @@
+{
+  "symbol": "agrs",
+  "name": "Agoras: Tau Net",
+  "address": "0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/399/thumb/agrs.png?1639622234",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda"
+  }
+}

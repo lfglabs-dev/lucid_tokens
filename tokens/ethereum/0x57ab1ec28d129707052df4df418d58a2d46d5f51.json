@@ -1,0 +1,17 @@
+{
+  "symbol": "susd",
+  "name": "sUSD",
+  "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+    "fantom": "0x0e1694483ebb3b74d3054e383840c6cf011e518e",
+    "arbitrum-one": "0xa970af1a584579b618be4d69ad6f73459d112f95"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "blaze",
+  "name": "Titan Blaze",
+  "address": "0xfcd7cceE4071aA4ecFAC1683b7CC0aFeCAF42A36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38968/thumb/200x200.png?1719712323",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfcd7ccee4071aa4ecfac1683b7cc0afecaf42a36"
+  }
+}

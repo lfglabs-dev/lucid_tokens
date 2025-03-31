@@ -1,0 +1,16 @@
+{
+  "symbol": "credi",
+  "name": "Credefi",
+  "address": "0xaE6e307c3Fe9E922E5674DBD7F830Ed49c014c6B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21396/thumb/e1QbZ4qQ_400x400.jpg?1639042835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xae6e307c3fe9e922e5674dbd7f830ed49c014c6b",
+    "binance-smart-chain": "0x2235e79086dd23135119366da45851c741874e5b"
+  }
+}

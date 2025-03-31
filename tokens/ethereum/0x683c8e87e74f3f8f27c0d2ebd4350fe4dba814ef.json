@@ -1,0 +1,15 @@
+{
+  "symbol": "xgn",
+  "name": "0xGen",
+  "address": "0x683C8e87E74F3f8f27C0D2EBd4350Fe4DbA814eF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38722/thumb/logo-200.png?1718477413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x683c8e87e74f3f8f27c0d2ebd4350fe4dba814ef"
+  }
+}

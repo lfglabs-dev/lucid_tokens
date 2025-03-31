@@ -1,0 +1,15 @@
+{
+  "symbol": "ezrez",
+  "name": "Renzo Restaked REZ",
+  "address": "0x77B1183e730275f6A8024Ce53d54bcC12B368f60",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52730/thumb/REZ.png?1734102389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77b1183e730275f6a8024ce53d54bcc12b368f60"
+  }
+}

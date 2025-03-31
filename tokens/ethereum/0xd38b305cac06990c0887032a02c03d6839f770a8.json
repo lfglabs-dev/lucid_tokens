@@ -1,0 +1,16 @@
+{
+  "symbol": "lgct",
+  "name": "Legacy Token",
+  "address": "0xD38B305CaC06990c0887032A02C03D6839f770A8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50673/thumb/token2d.jpg?1728682508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd38b305cac06990c0887032a02c03d6839f770a8",
+    "binance-smart-chain": "0xd38b305cac06990c0887032a02c03d6839f770a8"
+  }
+}

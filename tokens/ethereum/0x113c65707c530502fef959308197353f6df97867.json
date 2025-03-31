@@ -1,0 +1,15 @@
+{
+  "symbol": "joker",
+  "name": "The Joker Coin",
+  "address": "0x113C65707C530502FEf959308197353f6DF97867",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36845/thumb/1000020014.png?1712582992",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x113c65707c530502fef959308197353f6df97867"
+  }
+}

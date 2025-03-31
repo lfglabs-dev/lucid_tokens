@@ -1,0 +1,21 @@
+{
+  "symbol": "bnvda",
+  "name": "Backed NVIDIA",
+  "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38911/thumb/b-NVDA-200x200.png?1719474429",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495",
+    "xdai": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495",
+    "ethereum": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495",
+    "binance-smart-chain": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495",
+    "avalanche": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495",
+    "polygon-pos": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495",
+    "base": "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "p2ps",
+  "name": "P2P solutions foundation",
+  "address": "0x4527a3B4A8A150403090a99b87efFC96F2195047",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2798/thumb/p2ps.png?1547036973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4527a3b4a8a150403090a99b87effc96f2195047"
+  }
+}

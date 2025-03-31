@@ -1,0 +1,15 @@
+{
+  "symbol": "aknc",
+  "name": "Aave v3 KNC",
+  "address": "0x5b502e3796385E1e9755d7043B9C945C3aCCeC9C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32908/thumb/kyber.png?1699817281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5b502e3796385e1e9755d7043b9c945c3accec9c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "steakm",
+  "name": "Steakhouse M Morpho Vault",
+  "address": "0xbEEf0075e03A5cE0D84d4ACcF3481363E0584F5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52410/thumb/steak-coin-hole.png?1733304497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef0075e03a5ce0d84d4accf3481363e0584f5c"
+  }
+}

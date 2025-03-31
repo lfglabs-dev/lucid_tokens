@@ -1,0 +1,15 @@
+{
+  "symbol": "hoppy",
+  "name": "Hoppy",
+  "address": "0x6E79B51959CF968d87826592f46f819F92466615",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37197/thumb/IMG_20240419_013423_844.jpg?1713677587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e79b51959cf968d87826592f46f819f92466615"
+  }
+}

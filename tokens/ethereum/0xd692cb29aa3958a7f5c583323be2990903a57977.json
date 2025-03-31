@@ -1,0 +1,15 @@
+{
+  "symbol": "quant",
+  "name": "QUANT",
+  "address": "0xD692Cb29Aa3958A7f5C583323Be2990903A57977",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50846/thumb/Screenshot_2024-10-10_at_00.56.27.png?1729298694",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd692cb29aa3958a7f5c583323be2990903a57977"
+  }
+}

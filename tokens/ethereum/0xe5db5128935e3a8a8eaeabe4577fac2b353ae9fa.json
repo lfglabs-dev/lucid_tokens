@@ -1,0 +1,15 @@
+{
+  "symbol": "aurk",
+  "name": "Aurk AI",
+  "address": "0xE5dB5128935e3a8a8eAEABe4577Fac2b353aE9fA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52771/thumb/ayrk_%281%29.jpg?1734278412",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5db5128935e3a8a8eaeabe4577fac2b353ae9fa"
+  }
+}

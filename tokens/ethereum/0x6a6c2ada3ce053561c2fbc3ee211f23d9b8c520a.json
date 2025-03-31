@@ -1,0 +1,15 @@
+{
+  "symbol": "ton",
+  "name": "TON Community",
+  "address": "0x6a6c2adA3Ce053561C2FbC3eE211F23d9b8C520a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12334/thumb/ton.jpg?1599128436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a"
+  }
+}

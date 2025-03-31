@@ -1,0 +1,15 @@
+{
+  "symbol": "bft",
+  "name": "BnkToTheFuture",
+  "address": "0x01fF50f8b7f74E4f00580d9596cd3D0d6d6E326f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3468/thumb/bnktothefuture.png?1547351865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f"
+  }
+}

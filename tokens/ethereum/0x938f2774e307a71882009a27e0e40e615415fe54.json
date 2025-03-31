@@ -1,0 +1,15 @@
+{
+  "symbol": "oprv",
+  "name": "Opriva AI",
+  "address": "0x938F2774E307A71882009A27E0e40e615415fE54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53053/thumb/Logo.png?1735150345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x938f2774e307a71882009a27e0e40e615415fe54"
+  }
+}

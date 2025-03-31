@@ -1,0 +1,19 @@
+{
+  "symbol": "amkt",
+  "name": "Alongside Crypto Market Index",
+  "address": "0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28496/thumb/AMKT-Circle.png?1671108971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf17a3fe536f8f7847f1385ec1bc967b2ca9cae8d",
+    "optimistic-ethereum": "0xc27d9bc194a648fe3069955a5126699c4e49351c",
+    "arbitrum-one": "0x498c620c7c91c6eba2e3cd5485383f41613b7eb6",
+    "polygon-pos": "0xb87904db461005fc716a6bf9f2d451c33b10b80b",
+    "base": "0x13f4196cc779275888440b3000ae533bbbbc3166"
+  }
+}

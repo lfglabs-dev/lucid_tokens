@@ -1,0 +1,15 @@
+{
+  "symbol": "reap",
+  "name": "ReapChain",
+  "address": "0x1fc5EF0337AEA85C5f9198853a6E3A579a7A6987",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13109/thumb/REAP.jpg?1605259422",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987"
+  }
+}

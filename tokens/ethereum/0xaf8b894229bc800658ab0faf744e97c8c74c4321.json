@@ -1,0 +1,15 @@
+{
+  "symbol": "lemon",
+  "name": "Black Lemon AI",
+  "address": "0xAf8b894229bC800658aB0FAF744E97C8C74C4321",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52580/thumb/Lemon_200x200.jpg?1733693503",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf8b894229bc800658ab0faf744e97c8c74c4321"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "ush",
+  "name": "unshETHing_Token",
+  "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29337/thumb/unsheth_large_logo.png?1678175082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe60779cc1b2c1d0580611c526a8df0e3f870ec48",
+    "binance-smart-chain": "0x91d6d6af7635b7b23a8ced9508117965180e2362",
+    "arbitrum-one": "0x51a80238b5738725128d3a3e06ab41c1d4c05c74"
+  }
+}

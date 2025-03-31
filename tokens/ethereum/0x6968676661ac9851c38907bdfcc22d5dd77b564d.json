@@ -1,0 +1,15 @@
+{
+  "symbol": "boysclub",
+  "name": "Matt Furie's Boys Club",
+  "address": "0x6968676661Ac9851C38907bDfcC22d5Dd77b564d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38572/thumb/1000007540.jpg?1718009196",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6968676661ac9851c38907bdfcc22d5dd77b564d"
+  }
+}

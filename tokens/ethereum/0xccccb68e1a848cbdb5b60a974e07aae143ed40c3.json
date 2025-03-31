@@ -1,0 +1,15 @@
+{
+  "symbol": "topia",
+  "name": "TOPIA",
+  "address": "0xcccCb68e1A848CBDB5b60a974E07aAE143ed40C3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31283/thumb/TOPIA-Token-CMC-CG-Compatible.png?1692166375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xccccb68e1a848cbdb5b60a974e07aae143ed40c3"
+  }
+}

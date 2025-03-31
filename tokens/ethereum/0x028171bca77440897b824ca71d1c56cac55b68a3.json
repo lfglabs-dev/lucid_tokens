@@ -1,0 +1,17 @@
+{
+  "symbol": "adai",
+  "name": "Aave DAI",
+  "address": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14242/thumb/aDAI.84b6c41f.png?1615528749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+    "harmony-shard-0": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "fantom": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee"
+  }
+}

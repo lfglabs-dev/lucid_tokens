@@ -1,0 +1,15 @@
+{
+  "symbol": "mnta",
+  "name": "Moneta",
+  "address": "0x5b342F03D126314d925Fa57A45654f92905e6451",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39831/thumb/Moneta.jpeg?1724210251",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5b342f03d126314d925fa57a45654f92905e6451"
+  }
+}

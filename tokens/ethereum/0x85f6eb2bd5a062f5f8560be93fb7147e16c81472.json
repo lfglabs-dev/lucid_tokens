@@ -1,0 +1,16 @@
+{
+  "symbol": "fly",
+  "name": "Franklin",
+  "address": "0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14810/thumb/fly_logo_sq_bArtboard_4.png?1626420796",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
+    "binance-smart-chain": "0x681fd3e49a6188fc526784ee70aa1c269ee2b887"
+  }
+}

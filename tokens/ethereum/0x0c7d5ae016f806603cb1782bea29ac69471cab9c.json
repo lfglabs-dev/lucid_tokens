@@ -1,0 +1,16 @@
+{
+  "symbol": "bfc",
+  "name": "Bifrost",
+  "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4639/thumb/bifrost_32.png?1608520677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
+    "fantom": "0x84c882a4d8eb448ce086ea19418ca0f32f106117"
+  }
+}

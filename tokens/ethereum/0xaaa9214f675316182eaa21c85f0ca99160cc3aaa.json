@@ -1,0 +1,16 @@
+{
+  "symbol": "qanx",
+  "name": "QANplatform",
+  "address": "0xAAA9214F675316182Eaa21C85f0Ca99160CC3AAA",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
+    "binance-smart-chain": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa"
+  }
+}

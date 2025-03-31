@@ -1,0 +1,15 @@
+{
+  "symbol": "elmnt",
+  "name": "Element 280",
+  "address": "0xe9A53C43a0B58706e67341C4055de861e29Ee943",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51869/thumb/Logo.png?1732095523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9a53c43a0b58706e67341c4055de861e29ee943"
+  }
+}

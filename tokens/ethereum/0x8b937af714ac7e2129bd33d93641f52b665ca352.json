@@ -1,0 +1,15 @@
+{
+  "symbol": "jizz",
+  "name": "JizzRocket",
+  "address": "0x8b937AF714aC7E2129bD33D93641F52b665Ca352",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28985/thumb/bLQvXuh_%281%29.png?1675818176",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8b937af714ac7e2129bd33d93641f52b665ca352"
+  }
+}

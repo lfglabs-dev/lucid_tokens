@@ -1,0 +1,15 @@
+{
+  "symbol": "$ads",
+  "name": "Alkimi",
+  "address": "0x3106a0a076BeDAE847652F42ef07FD58589E001f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17979/thumb/alkimi.PNG?1630022799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3106a0a076bedae847652f42ef07fd58589e001f"
+  }
+}

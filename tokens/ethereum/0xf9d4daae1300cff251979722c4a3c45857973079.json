@@ -1,0 +1,15 @@
+{
+  "symbol": "castle",
+  "name": "bitcastle",
+  "address": "0xf9d4DAaE1300CfF251979722C4A3C45857973079",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26551/thumb/blue_logo03.png?1658753049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf9d4daae1300cff251979722c4a3c45857973079"
+  }
+}

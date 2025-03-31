@@ -1,0 +1,15 @@
+{
+  "symbol": "arpl",
+  "name": "Aave v3 RPL",
+  "address": "0xB76CF92076adBF1D9C39294FA8e7A67579FDe357",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32909/thumb/RPL.png?1699817497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb76cf92076adbf1d9c39294fa8e7a67579fde357"
+  }
+}

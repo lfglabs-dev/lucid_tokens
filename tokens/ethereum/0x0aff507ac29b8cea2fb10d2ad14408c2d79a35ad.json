@@ -1,0 +1,15 @@
+{
+  "symbol": "talk",
+  "name": "CrypTalk",
+  "address": "0x0AFf507aC29B8CEA2FB10d2ad14408c2d79A35AD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54965/thumb/bRKUOO7n_400x400.jpg?1742905904",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0aff507ac29b8cea2fb10d2ad14408c2d79a35ad"
+  }
+}

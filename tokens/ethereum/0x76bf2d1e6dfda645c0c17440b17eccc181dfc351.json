@@ -1,0 +1,16 @@
+{
+  "symbol": "ybeth",
+  "name": "Veno Yield Bearing ETH",
+  "address": "0x76bf2D1e6dFda645c0c17440B17Eccc181dfC351",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39978/thumb/Rectangle_381.png?1724994497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos-zkevm": "0xf226a595b83056ff3d26b827e3d5b0896e4392a9",
+    "ethereum": "0x76bf2d1e6dfda645c0c17440b17eccc181dfc351"
+  }
+}

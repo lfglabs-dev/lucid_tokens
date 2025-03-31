@@ -1,0 +1,15 @@
+{
+  "symbol": "gem",
+  "name": "Opal",
+  "address": "0x0447D3454b25935eeD47F65b4Bd22b9b23bE326a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34925/thumb/opal.jpeg?1706671563",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0447d3454b25935eed47f65b4bd22b9b23be326a"
+  }
+}

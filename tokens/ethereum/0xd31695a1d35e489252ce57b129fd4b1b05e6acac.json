@@ -1,0 +1,16 @@
+{
+  "symbol": "tkp",
+  "name": "TOKPIE",
+  "address": "0xd31695a1d35E489252CE57b129FD4b1B05E6AcaC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3731/thumb/tokpie-200x200.png?1562207865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+    "binance-smart-chain": "0x7849ed1447250d0b896f89b58f3075b127ca29b3"
+  }
+}

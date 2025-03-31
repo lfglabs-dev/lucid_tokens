@@ -1,0 +1,15 @@
+{
+  "symbol": "wfai",
+  "name": "WaifuAI",
+  "address": "0x8A001303158670E284950565164933372807cD48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30606/thumb/waifuai.jpg?1685599837",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a001303158670e284950565164933372807cd48"
+  }
+}

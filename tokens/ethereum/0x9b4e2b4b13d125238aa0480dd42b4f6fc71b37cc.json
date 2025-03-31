@@ -1,0 +1,15 @@
+{
+  "symbol": "mt",
+  "name": "MyToken",
+  "address": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4109/thumb/2712.png?1547039296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc"
+  }
+}

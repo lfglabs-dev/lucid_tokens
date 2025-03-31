@@ -1,0 +1,15 @@
+{
+  "symbol": "ald",
+  "name": "Aladdin DAO",
+  "address": "0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18277/thumb/78200839.png?1631234134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d"
+  }
+}

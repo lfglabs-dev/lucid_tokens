@@ -1,0 +1,16 @@
+{
+  "symbol": "cgx",
+  "name": "Forkast",
+  "address": "0xdBDE08d475bd50E2D1A6af34c7b10DD430D8396e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53714/thumb/CGX_%282%29-2.png?1737093384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdbde08d475bd50e2d1a6af34c7b10dd430d8396e",
+    "ronin": "0x656fe582b4c6dc95c598ea54dc820eb36152e2f7"
+  }
+}

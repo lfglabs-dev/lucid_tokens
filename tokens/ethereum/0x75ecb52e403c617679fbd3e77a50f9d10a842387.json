@@ -1,0 +1,15 @@
+{
+  "symbol": "csr",
+  "name": "CSR",
+  "address": "0x75Ecb52e403C617679FBd3e77A50f9d10A842387",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25585/thumb/CSR-LOGO-200x200-1.png?1652767956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x75ecb52e403c617679fbd3e77a50f9d10a842387"
+  }
+}

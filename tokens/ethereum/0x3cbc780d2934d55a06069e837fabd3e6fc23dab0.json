@@ -1,0 +1,15 @@
+{
+  "symbol": "dbx",
+  "name": "DBX",
+  "address": "0x3CBc780D2934d55A06069e837fABd3e6Fc23DAB0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15682/thumb/logo.png?1646903349",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3cbc780d2934d55a06069e837fabd3e6fc23dab0"
+  }
+}

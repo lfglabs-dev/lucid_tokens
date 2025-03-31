@@ -1,0 +1,16 @@
+{
+  "symbol": "usde",
+  "name": "Ethena USDe",
+  "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33613/thumb/3466ef_3c088c66c7d941e8856339d0bddf33cc_mv2.png?1702514458",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "solana": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT"
+  }
+}

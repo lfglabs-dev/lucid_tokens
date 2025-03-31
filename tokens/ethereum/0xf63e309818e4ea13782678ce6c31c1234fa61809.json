@@ -1,0 +1,15 @@
+{
+  "symbol": "janet",
+  "name": "Janet",
+  "address": "0xF63E309818E4EA13782678CE6C31C1234fa61809",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50977/thumb/Janet.jpg?1729634541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf63e309818e4ea13782678ce6c31c1234fa61809"
+  }
+}

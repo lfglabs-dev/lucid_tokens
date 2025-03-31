@@ -1,0 +1,16 @@
+{
+  "symbol": "gyfi",
+  "name": "Gyroscope",
+  "address": "0x70c4430f9d98B4184A4ef3E44CE10c320a8B7383",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23584/thumb/Gyroscope_logo_transparent.png?1644647696",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70c4430f9d98b4184a4ef3e44ce10c320a8b7383",
+    "base": "0xc63529297de076eb15fcbe873ae9136e446cfbb9"
+  }
+}

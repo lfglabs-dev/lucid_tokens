@@ -1,0 +1,15 @@
+{
+  "symbol": "asap",
+  "name": "Asap Sniper Bot",
+  "address": "0x6522f491Df42651cf5E6636B7261Adaa096d095F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30707/thumb/LOGO_%281%29.jpeg?1686548085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6522f491df42651cf5e6636b7261adaa096d095f"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "$bssb",
+  "name": "BitStable Finance",
+  "address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f",
+    "bouncebit": "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f",
+    "binance-smart-chain": "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f"
+  }
+}

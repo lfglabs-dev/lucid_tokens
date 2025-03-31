@@ -1,0 +1,16 @@
+{
+  "symbol": "ldy",
+  "name": "Ledgity Token",
+  "address": "0x482dF7483a52496F4C65AB499966dfcdf4DDFDbc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35046/thumb/ldy-token.png?1707204910",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x482df7483a52496f4c65ab499966dfcdf4ddfdbc",
+    "arbitrum-one": "0x999faf0af2ff109938eefe6a7bf91ca56f0d07e1"
+  }
+}

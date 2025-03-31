@@ -1,0 +1,15 @@
+{
+  "symbol": "kabo",
+  "name": "KaboChan",
+  "address": "0x0C5cB676E38D6973837b9496F6524835208145a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34631/thumb/KaboChan.png?1705548332",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c5cb676e38d6973837b9496f6524835208145a2"
+  }
+}

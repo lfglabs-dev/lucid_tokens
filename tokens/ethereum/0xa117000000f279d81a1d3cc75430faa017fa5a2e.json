@@ -1,0 +1,16 @@
+{
+  "symbol": "ant",
+  "name": "Aragon",
+  "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/681/thumb/JelZ58cv_400x400.png?1601449653",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+    "energi": "0x4b3686eec98b2b89102f2830003097c7d4e1f691"
+  }
+}

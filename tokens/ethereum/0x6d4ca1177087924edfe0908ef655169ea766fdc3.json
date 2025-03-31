@@ -1,0 +1,15 @@
+{
+  "symbol": "hedgehog",
+  "name": "Hedgehog",
+  "address": "0x6d4CA1177087924edfE0908ef655169EA766FDc3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28552/thumb/hedgie.png?1671696815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d4ca1177087924edfe0908ef655169ea766fdc3"
+  }
+}

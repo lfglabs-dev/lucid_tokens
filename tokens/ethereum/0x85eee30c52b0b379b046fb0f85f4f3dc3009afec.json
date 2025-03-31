@@ -1,0 +1,17 @@
+{
+  "symbol": "keep",
+  "name": "Keep Network",
+  "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "harmony-shard-0": "0x43bf77db5e784b263a459141bdcdf5cf6987936d",
+    "energi": "0x9caa73156981600f4d276a10f80970a171abc1d1"
+  }
+}

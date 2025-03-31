@@ -1,0 +1,15 @@
+{
+  "symbol": "ineigen",
+  "name": "Inception Restaked EIGEN",
+  "address": "0xf21014B114bb976F890E15c19900cE9bE5Fb1e12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50637/thumb/inEIGEN.png?1728547931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf21014b114bb976f890e15c19900ce9be5fb1e12"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gua",
+  "name": "GUA",
+  "address": "0x393f1D49425d94f47b26E591a9D111df5cD61065",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39748/thumb/1000009358.jpg?1723782519",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x393f1d49425d94f47b26e591a9d111df5cd61065"
+  }
+}

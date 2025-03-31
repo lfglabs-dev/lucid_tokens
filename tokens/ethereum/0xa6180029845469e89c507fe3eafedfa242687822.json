@@ -1,0 +1,15 @@
+{
+  "symbol": "neiro",
+  "name": "Neiro",
+  "address": "0xa6180029845469E89C507fE3EAfeDFa242687822",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50742/thumb/photo_2024-09-16_18-38-15.jpg?1728947801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa6180029845469e89c507fe3eafedfa242687822"
+  }
+}

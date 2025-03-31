@@ -1,0 +1,15 @@
+{
+  "symbol": "hydra",
+  "name": "HYDRA",
+  "address": "0xCC7ed2ab6c3396DdBc4316D2d7C1b59ff9d2091F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50284/thumb/IMG_4909.png?1726810420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcc7ed2ab6c3396ddbc4316d2d7c1b59ff9d2091f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "xmw",
+  "name": "Morphware",
+  "address": "0x391cF4b21F557c935C7f670218Ef42C21bd8d686",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50298/thumb/morphware_200_200.png?1727020889",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x391cf4b21f557c935c7f670218ef42c21bd8d686"
+  }
+}

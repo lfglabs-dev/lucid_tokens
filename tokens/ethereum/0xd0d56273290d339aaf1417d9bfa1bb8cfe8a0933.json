@@ -1,0 +1,15 @@
+{
+  "symbol": "foom",
+  "name": "Foom",
+  "address": "0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31308/thumb/f.png?1692346491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd0d56273290d339aaf1417d9bfa1bb8cfe8a0933"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ctr",
+  "name": "Concentrator",
+  "address": "0xb3Ad645dB386D7F6D753B2b9C3F4B853DA6890B8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26364/thumb/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1.jpg?1657596066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8"
+  }
+}

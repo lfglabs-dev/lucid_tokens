@@ -1,0 +1,16 @@
+{
+  "symbol": "rss3",
+  "name": "RSS3",
+  "address": "0xc98D64DA73a6616c42117b582e832812e7B8D57F",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23575/thumb/RSS3.png?1644494645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "rss3-vsl": "0x4200000000000000000000000000000000000042",
+    "ethereum": "0xc98d64da73a6616c42117b582e832812e7b8d57f"
+  }
+}

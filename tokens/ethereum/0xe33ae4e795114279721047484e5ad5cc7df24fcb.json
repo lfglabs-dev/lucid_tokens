@@ -1,0 +1,15 @@
+{
+  "symbol": "mcf",
+  "name": "MCFinance",
+  "address": "0xE33AE4E795114279721047484E5ad5cc7DF24fcB",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17608/thumb/arFRQ0b.png?1628650181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe33ae4e795114279721047484e5ad5cc7df24fcb"
+  }
+}

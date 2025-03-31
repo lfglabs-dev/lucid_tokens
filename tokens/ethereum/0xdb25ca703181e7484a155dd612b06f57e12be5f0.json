@@ -1,0 +1,15 @@
+{
+  "symbol": "yvyfi",
+  "name": "YFI yVault",
+  "address": "0xdb25cA703181E7484a155DD612b06f57E12Be5F0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28785/thumb/yvYFI-128-0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1.png?1674199541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb25ca703181e7484a155dd612b06f57e12be5f0"
+  }
+}

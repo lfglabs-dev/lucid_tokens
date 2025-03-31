@@ -1,0 +1,15 @@
+{
+  "symbol": "mazze",
+  "name": "Mazze",
+  "address": "0x4A029F7bCf33AcB03547D8fA7be840347973e24e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35548/thumb/logo200x200.png?1709094900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4a029f7bcf33acb03547d8fa7be840347973e24e"
+  }
+}

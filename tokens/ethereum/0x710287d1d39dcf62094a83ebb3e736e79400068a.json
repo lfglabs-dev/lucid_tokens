@@ -1,0 +1,16 @@
+{
+  "symbol": "enqai",
+  "name": "enqAI",
+  "address": "0x710287D1D39DCf62094A83EBB3e736e79400068a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29908/thumb/rm383-17-removebg-preview.png?1681987995",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x710287d1d39dcf62094a83ebb3e736e79400068a",
+    "arbitrum-one": "0xadd5620057336f868eae78a451c503ae7b576bad"
+  }
+}

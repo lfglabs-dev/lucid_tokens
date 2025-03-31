@@ -1,0 +1,15 @@
+{
+  "symbol": "agusd",
+  "name": "Aave GUSD",
+  "address": "0xD37EE7e4f452C6638c96536e68090De8cBcdb583",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17246/thumb/aGUSD_2x.png?1626942603",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583"
+  }
+}

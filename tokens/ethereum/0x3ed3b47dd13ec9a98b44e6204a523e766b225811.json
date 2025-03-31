@@ -1,0 +1,17 @@
+{
+  "symbol": "ausdt",
+  "name": "Aave USDT",
+  "address": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14243/thumb/aUSDT.78f5faae.png?1615528400",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+    "harmony-shard-0": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "fantom": "0x6ab707aca953edaefbc4fd23ba73294241490620"
+  }
+}

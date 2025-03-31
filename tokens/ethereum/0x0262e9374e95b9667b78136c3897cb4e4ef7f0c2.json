@@ -1,0 +1,16 @@
+{
+  "symbol": "fakt",
+  "name": "Medifakt",
+  "address": "0x0262E9374E95B9667B78136C3897Cb4e4Ef7f0c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25248/thumb/fxOi9ZYI_400x400.png?1651031310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0262e9374e95b9667b78136c3897cb4e4ef7f0c2",
+    "polygon-pos": "0xcb64cdeb45def1c513fd890e7e76a865bae46060"
+  }
+}

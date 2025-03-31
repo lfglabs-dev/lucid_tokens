@@ -1,0 +1,17 @@
+{
+  "symbol": "ethix",
+  "name": "Ethix",
+  "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
+    "xdai": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
+    "celo": "0x9995cc8f20db5896943afc8ee0ba463259c931ed"
+  }
+}

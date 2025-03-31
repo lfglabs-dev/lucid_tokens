@@ -1,0 +1,15 @@
+{
+  "symbol": "trumpcoin",
+  "name": "MAGA: Fight for Trump",
+  "address": "0x03dCee0d21ab39614c768DAb67BFC33B0Fc0A047",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39480/thumb/Token_Logo_256x256px_V2.png?1722464874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x03dcee0d21ab39614c768dab67bfc33b0fc0a047"
+  }
+}

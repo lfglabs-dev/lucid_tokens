@@ -1,0 +1,16 @@
+{
+  "symbol": "strm",
+  "name": "Streamer Inu",
+  "address": "0x8162b5Bc8F651007cC38a09F557BaB2Bf4CEFb5b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27994/thumb/logo.png?1666922914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8162b5bc8f651007cc38a09f557bab2bf4cefb5b",
+    "base": "0xfe4717f60ac5603dc6863700cd8ecf805908688d"
+  }
+}

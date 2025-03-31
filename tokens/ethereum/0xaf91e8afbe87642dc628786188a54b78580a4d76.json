@@ -1,0 +1,15 @@
+{
+  "symbol": "foy",
+  "name": "Fund Of Yours",
+  "address": "0xAf91E8aFbe87642dC628786188a54B78580A4d76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16648/thumb/foy200.png?1624591862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf91e8afbe87642dc628786188a54b78580a4d76"
+  }
+}

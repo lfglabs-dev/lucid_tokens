@@ -1,0 +1,15 @@
+{
+  "symbol": "mega",
+  "name": "MEGAonEth",
+  "address": "0x5C2d8B2c6c0289aa514F42E0b5423F20b99177AC",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53577/thumb/eu-logov2.png?1736748985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c2d8b2c6c0289aa514f42e0b5423f20b99177ac"
+  }
+}

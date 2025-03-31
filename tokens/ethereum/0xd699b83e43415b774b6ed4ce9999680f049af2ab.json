@@ -1,0 +1,15 @@
+{
+  "symbol": "bubsy",
+  "name": "Bubsy AI",
+  "address": "0xD699B83e43415B774B6ed4ce9999680F049aF2ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37612/thumb/Bubsy_Logo_%28200px%29.png?1715057915",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd699b83e43415b774b6ed4ce9999680f049af2ab"
+  }
+}

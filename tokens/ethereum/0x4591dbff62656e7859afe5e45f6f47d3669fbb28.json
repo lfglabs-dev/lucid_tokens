@@ -1,0 +1,15 @@
+{
+  "symbol": "mkusd",
+  "name": "Prisma mkUSD",
+  "address": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31519/thumb/mkUSD_200.png?1693455969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4591dbff62656e7859afe5e45f6f47d3669fbb28"
+  }
+}

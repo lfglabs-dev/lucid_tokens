@@ -1,0 +1,15 @@
+{
+  "symbol": "eeigen",
+  "name": "ether.fi Staked EIGEN",
+  "address": "0xE77076518A813616315EaAba6cA8e595E845EeE9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50838/thumb/eEIGEN-200x200.png?1729294443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe77076518a813616315eaaba6ca8e595e845eee9"
+  }
+}

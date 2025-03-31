@@ -1,0 +1,17 @@
+{
+  "symbol": "ionx",
+  "name": "Charged Particles",
+  "address": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15836/thumb/DrKjSQMH_400x400.png?1622080222",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+    "mode": "0x77e7bcfee826b12cd498faa9831d7055b7478272",
+    "polygon-pos": "0x01b317bc5ed573faa112ef64dd029f407cecb155"
+  }
+}

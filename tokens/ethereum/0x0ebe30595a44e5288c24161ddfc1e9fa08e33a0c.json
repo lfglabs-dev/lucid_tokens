@@ -1,0 +1,15 @@
+{
+  "symbol": "nyan",
+  "name": "Nyan Meme Coin",
+  "address": "0x0ebE30595a44E5288C24161dDfC1E9fa08E33a0C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30197/thumb/n0z-571z_400x400.png?1683609656",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ebe30595a44e5288c24161ddfc1e9fa08e33a0c"
+  }
+}

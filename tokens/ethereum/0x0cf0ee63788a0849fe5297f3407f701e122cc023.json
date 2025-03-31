@@ -1,0 +1,15 @@
+{
+  "symbol": "xdata",
+  "name": "Streamr XDATA",
+  "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1115/thumb/streamr.png?1547035101",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+  }
+}

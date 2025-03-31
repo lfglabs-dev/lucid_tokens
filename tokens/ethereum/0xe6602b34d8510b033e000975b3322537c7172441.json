@@ -1,0 +1,15 @@
+{
+  "symbol": "frr",
+  "name": "Frontrow",
+  "address": "0xe6602B34D8510B033E000975B3322537c7172441",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21658/thumb/uZsO4yI7_400x400.jpg?1639697777",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe6602b34d8510b033e000975b3322537c7172441"
+  }
+}

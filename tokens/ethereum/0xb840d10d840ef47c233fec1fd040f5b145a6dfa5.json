@@ -1,0 +1,15 @@
+{
+  "symbol": "streeth",
+  "name": "STREETH",
+  "address": "0xB840d10D840eF47c233FEC1fd040F5B145a6DfA5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24954/thumb/streeth.png?1649507723",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb840d10d840ef47c233fec1fd040f5b145a6dfa5"
+  }
+}

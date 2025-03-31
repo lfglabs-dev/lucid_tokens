@@ -1,0 +1,15 @@
+{
+  "symbol": "honk",
+  "name": "Clown Pepe",
+  "address": "0x5efcEA234f7547de4569aad1215FA5D2adACeD38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29890/thumb/Honk.png?1681981583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5efcea234f7547de4569aad1215fa5d2adaced38"
+  }
+}

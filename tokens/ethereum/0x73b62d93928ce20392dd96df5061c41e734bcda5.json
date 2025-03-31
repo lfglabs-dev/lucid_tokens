@@ -1,0 +1,15 @@
+{
+  "symbol": "block inn",
+  "name": "INN",
+  "address": "0x73B62d93928CE20392dD96Df5061c41E734BcDA5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51489/thumb/Group_7522.png?1731405789",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x73b62d93928ce20392dd96df5061c41e734bcda5"
+  }
+}

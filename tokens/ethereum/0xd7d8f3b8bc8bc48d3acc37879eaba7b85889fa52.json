@@ -1,0 +1,15 @@
+{
+  "symbol": "clh",
+  "name": "ClearDAO",
+  "address": "0xD7D8f3b8Bc8bC48d3AcC37879EABA7b85889FA52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22389/thumb/clh_small_logo_png.png?1643194446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52"
+  }
+}

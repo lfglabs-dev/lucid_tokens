@@ -1,0 +1,15 @@
+{
+  "symbol": "unreal",
+  "name": "Unreal AI",
+  "address": "0xb39A0Dae3C2aFd1F3C55AD47D1c7A0Bb6C1CA260",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39988/thumb/IMG_20240829_211938_645.jpg?1725028076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb39a0dae3c2afd1f3c55ad47d1c7a0bb6c1ca260"
+  }
+}

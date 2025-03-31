@@ -1,0 +1,16 @@
+{
+  "symbol": "utk",
+  "name": "xMoney",
+  "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1824/thumb/300x300_logo.png?1570520533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+    "elrond": "UTK-2f80e9"
+  }
+}

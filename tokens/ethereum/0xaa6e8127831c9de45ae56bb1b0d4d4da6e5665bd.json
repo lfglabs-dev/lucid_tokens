@@ -1,0 +1,15 @@
+{
+  "symbol": "eth2x-fli",
+  "name": "Index Coop - ETH 2x Flexible Leverage Index",
+  "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14392/thumb/ETH2x-FLI_%281%29.png?1615875910",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd"
+  }
+}

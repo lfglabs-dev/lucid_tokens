@@ -1,0 +1,15 @@
+{
+  "symbol": "create",
+  "name": "Create AI",
+  "address": "0xa2D4af83f7403285bC1041700737663F8ac43380",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50361/thumb/Create_AI.png?1727331011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa2d4af83f7403285bc1041700737663f8ac43380"
+  }
+}

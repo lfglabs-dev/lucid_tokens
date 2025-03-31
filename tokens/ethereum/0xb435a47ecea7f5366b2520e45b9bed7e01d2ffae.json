@@ -1,0 +1,15 @@
+{
+  "symbol": "nems",
+  "name": "The Nemesis",
+  "address": "0xb435A47eCea7F5366b2520e45B9beD7E01d2FFAe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30590/thumb/NEMS_200X200px.png?1685497909",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb435a47ecea7f5366b2520e45b9bed7e01d2ffae"
+  }
+}

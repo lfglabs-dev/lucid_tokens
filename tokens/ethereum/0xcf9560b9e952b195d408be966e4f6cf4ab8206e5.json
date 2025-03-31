@@ -1,0 +1,15 @@
+{
+  "symbol": "evil",
+  "name": "Doctor Evil",
+  "address": "0xcf9560B9E952b195D408BE966E4f6Cf4Ab8206E5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31240/thumb/EvilLogo200x200.png?1691717411",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcf9560b9e952b195d408be966e4f6cf4ab8206e5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "4ever",
+  "name": "4EVERLAND",
+  "address": "0xe355De6a6043b0580Ff5A26b46051A4809B12793",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52783/thumb/4everland.jpg?1734287106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe355de6a6043b0580ff5a26b46051a4809b12793"
+  }
+}

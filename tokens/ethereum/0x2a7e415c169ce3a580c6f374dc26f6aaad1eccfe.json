@@ -1,0 +1,16 @@
+{
+  "symbol": "hachi",
+  "name": "Hachi",
+  "address": "0x2a7e415C169cE3a580c6F374Dc26f6Aaad1EccFe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29262/thumb/HACHI_main_logo__.png?1677658543",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
+    "shibarium": "0xabe27f4d040b448fba19e387b5f5707a75c4a66b"
+  }
+}

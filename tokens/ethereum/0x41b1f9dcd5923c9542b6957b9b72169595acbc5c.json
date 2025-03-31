@@ -1,0 +1,15 @@
+{
+  "symbol": "cheems",
+  "name": "Cheems CTO",
+  "address": "0x41B1f9dcd5923c9542b6957B9B72169595ACBc5C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50385/thumb/Cheems.png?1727427250",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x41b1f9dcd5923c9542b6957b9b72169595acbc5c"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "steur",
+  "name": "Angle Staked EURA",
+  "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32036/thumb/stEUR-x4.png?1696233741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x004626a008b1acdc4c74ab51644093b155e59a23",
+    "xdai": "0x004626a008b1acdc4c74ab51644093b155e59a23",
+    "arbitrum-one": "0x004626a008b1acdc4c74ab51644093b155e59a23"
+  }
+}

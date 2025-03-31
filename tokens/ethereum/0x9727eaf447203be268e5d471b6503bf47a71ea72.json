@@ -1,0 +1,15 @@
+{
+  "symbol": "arky",
+  "name": "Arky",
+  "address": "0x9727eaf447203be268e5D471b6503Bf47A71eA72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37557/thumb/ARKY200.png?1714840130",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9727eaf447203be268e5d471b6503bf47a71ea72"
+  }
+}

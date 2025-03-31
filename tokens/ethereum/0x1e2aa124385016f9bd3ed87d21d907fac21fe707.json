@@ -1,0 +1,16 @@
+{
+  "symbol": "hivp",
+  "name": "HiveSwap",
+  "address": "0x1e2aA124385016F9BD3ed87d21D907Fac21FE707",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38237/thumb/HIVP.jpg?1716863296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "map-protocol": "0x69c43364667cf6279016bbec76445174c78f142d",
+    "ethereum": "0x1e2aa124385016f9bd3ed87d21d907fac21fe707"
+  }
+}

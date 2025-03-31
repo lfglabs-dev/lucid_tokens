@@ -1,0 +1,15 @@
+{
+  "symbol": "botx",
+  "name": "BOTXCOIN",
+  "address": "0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6827/thumb/botx.jpg?1548317786",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1"
+  }
+}

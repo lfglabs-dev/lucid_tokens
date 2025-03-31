@@ -1,0 +1,17 @@
+{
+  "symbol": "pbr",
+  "name": "PolkaBridge",
+  "address": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13744/thumb/symbol-whitebg200x200.png?1611377553",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+    "binance-smart-chain": "0x3c1b057cb7aceb4f2c4d889a29febec30a6a3146",
+    "polygon-pos": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0"
+  }
+}

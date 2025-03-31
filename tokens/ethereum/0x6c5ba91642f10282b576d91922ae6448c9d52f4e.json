@@ -1,0 +1,16 @@
+{
+  "symbol": "pha",
+  "name": "PHALA",
+  "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12451/thumb/phala.png?1600061318",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+    "sora": "0x0033271716eec64234a5324506c4558de27b7c23c42f3e3b74801f98bdfeebf7"
+  }
+}

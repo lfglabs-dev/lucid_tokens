@@ -1,0 +1,15 @@
+{
+  "symbol": "dbi",
+  "name": "Don't Buy Inu",
+  "address": "0x2dE509bf0014ddF697b220bE628213034d320EcE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28058/thumb/1Artboard_1_%282%29.png?1667298091",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2de509bf0014ddf697b220be628213034d320ece"
+  }
+}

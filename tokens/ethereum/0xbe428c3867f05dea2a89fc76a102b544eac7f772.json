@@ -1,0 +1,15 @@
+{
+  "symbol": "cvt",
+  "name": "CyberVein",
+  "address": "0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3886/thumb/CyberVein_LOGO.png?1616062326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe428c3867f05dea2a89fc76a102b544eac7f772"
+  }
+}

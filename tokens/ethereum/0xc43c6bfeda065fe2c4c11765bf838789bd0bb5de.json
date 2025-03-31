@@ -1,0 +1,15 @@
+{
+  "symbol": "red",
+  "name": "RedStone",
+  "address": "0xc43C6bfeDA065fE2c4c11765Bf838789bd0BB5dE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53640/thumb/RedStone_logo_tylko_znak.png?1736959329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "amkr",
+  "name": "Aave v3 MKR",
+  "address": "0x8A458A9dc9048e005d22849F470891b840296619",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32889/thumb/mkr.png?1699774767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a458a9dc9048e005d22849f470891b840296619"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "truu",
+  "name": "Truth",
+  "address": "0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54518/thumb/Truth.jpg?1740120538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdae0fafd65385e7775cf75b1398735155ef6acd2"
+  }
+}

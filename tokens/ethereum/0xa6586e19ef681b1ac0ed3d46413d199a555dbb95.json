@@ -1,0 +1,15 @@
+{
+  "symbol": "letsgo",
+  "name": "Lets Go Brandon",
+  "address": "0xA6586E19EF681b1AC0ED3D46413D199a555dBB95",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24034/thumb/3zKU0T83_400x400.jpeg?1646117523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa6586e19ef681b1ac0ed3d46413d199a555dbb95"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bspt",
+  "name": "Blocksport",
+  "address": "0xa350DA05405cc204e551C4eeD19C3039646528d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23735/thumb/lUjOcgBNs1fSMbGND5bmUMSKaVYybK5oDblEFgqX5Tvcg89_U3yzRRHzcR5UMpzObjlps5ZpumoYjtP9R2ddgsUkP0xyw3p5R_VMAh5qIQfUu8IGicH2xEzzwHM5ayPOh8PaO_BEFxjvYlYpt1Fknz6OdOhQrTBhh8kBfG0De1HEGZLe7dJGKnoLRzlyYkzYcIimMy-rzp2swB.jpg?1645174474",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa350da05405cc204e551c4eed19c3039646528d5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "zuzalu",
+  "name": "Zuzalu Inu",
+  "address": "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34552/thumb/Safeimagekit-resized-img_%2822%29.png?1705368533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249"
+  }
+}

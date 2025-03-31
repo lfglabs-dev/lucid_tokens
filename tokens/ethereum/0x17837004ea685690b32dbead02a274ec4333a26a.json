@@ -1,0 +1,15 @@
+{
+  "symbol": "bear",
+  "name": "Bear Inu",
+  "address": "0x17837004eA685690b32dbEaD02a274Ec4333A26a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29517/thumb/bear.png?1679394237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x17837004ea685690b32dbead02a274ec4333a26a"
+  }
+}

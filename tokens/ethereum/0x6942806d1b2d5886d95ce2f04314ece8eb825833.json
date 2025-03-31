@@ -1,0 +1,15 @@
+{
+  "symbol": "groyper",
+  "name": "Groyper",
+  "address": "0x6942806D1B2d5886D95cE2f04314ece8eb825833",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38196/thumb/Logo200x200.jpg?1716790893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6942806d1b2d5886d95ce2f04314ece8eb825833"
+  }
+}

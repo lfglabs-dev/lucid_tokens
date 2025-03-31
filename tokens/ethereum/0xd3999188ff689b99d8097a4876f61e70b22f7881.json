@@ -1,0 +1,15 @@
+{
+  "symbol": "spurdo",
+  "name": "Spurdo Spärde",
+  "address": "0xD3999188fF689b99d8097A4876f61E70b22F7881",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38383/thumb/spurdo200.png?1717386253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd3999188ff689b99d8097a4876f61e70b22f7881"
+  }
+}

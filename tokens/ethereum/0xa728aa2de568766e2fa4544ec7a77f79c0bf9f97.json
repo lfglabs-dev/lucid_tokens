@@ -1,0 +1,15 @@
+{
+  "symbol": "jok",
+  "name": "JokInTheBox",
+  "address": "0xA728Aa2De568766E2Fa4544Ec7A77f79c0bf9F97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37363/thumb/jok_pp_2_200X200.png?1714110620",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa728aa2de568766e2fa4544ec7a77f79c0bf9f97"
+  }
+}

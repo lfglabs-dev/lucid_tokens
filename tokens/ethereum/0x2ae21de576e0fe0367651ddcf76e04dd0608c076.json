@@ -1,0 +1,15 @@
+{
+  "symbol": "gambit",
+  "name": "Gambit",
+  "address": "0x2aE21DE576E0Fe0367651dDCF76e04dD0608c076",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36070/thumb/oHwe1V3Q_400x400.jpg?1710406381",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2ae21de576e0fe0367651ddcf76e04dd0608c076"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "djt",
+  "name": "TrumpChain",
+  "address": "0x968496Dd59EFc1Caa11e94FDA99eA67Db7be5cd9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50794/thumb/Trumpchain_Logo_200x200.png?1729234183",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x968496dd59efc1caa11e94fda99ea67db7be5cd9"
+  }
+}

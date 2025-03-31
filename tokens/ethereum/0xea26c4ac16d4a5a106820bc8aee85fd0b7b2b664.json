@@ -1,0 +1,16 @@
+{
+  "symbol": "qkc",
+  "name": "QuarkChain",
+  "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3849/thumb/quarkchain.png?1548387524",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+    "energi": "0x02c6c53930b20bced86ddf64007bebcd923e1093"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "genie",
+  "name": "GenieBot",
+  "address": "0x56978E609F2cab06F77c5C8Fd75166FcD8f09BD8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30874/thumb/IMG_0334.jpeg?1688375117",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x56978e609f2cab06f77c5c8fd75166fcd8f09bd8"
+  }
+}

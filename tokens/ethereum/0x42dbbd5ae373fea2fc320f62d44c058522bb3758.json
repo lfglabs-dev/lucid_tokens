@@ -1,0 +1,16 @@
+{
+  "symbol": "mem",
+  "name": "Memecoin",
+  "address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16370/thumb/mem_gold_200x200_copy.png?1623821100",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+    "polygon-pos": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758"
+  }
+}

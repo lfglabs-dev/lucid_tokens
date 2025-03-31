@@ -1,0 +1,15 @@
+{
+  "symbol": "blur",
+  "name": "Blur",
+  "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28453/thumb/blur.png?1670745921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5283d291dbcf85356a21ba090e6db59121208b44"
+  }
+}

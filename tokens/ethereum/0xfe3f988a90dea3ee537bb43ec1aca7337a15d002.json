@@ -1,0 +1,15 @@
+{
+  "symbol": "phx",
+  "name": "PHOENIX",
+  "address": "0xfe3F988a90dEa3eE537BB43eC1aCa7337A15D002",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52760/thumb/PNGlogo200x200.png?1734247590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe3f988a90dea3ee537bb43ec1aca7337a15d002"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fatal",
+  "name": "Fatalismftw",
+  "address": "0x841a3083074b1a40b644bf2ba2491a731b6da277",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53836/thumb/0x841a3083074b1a40b644bf2ba2491a731b6da277.JPG?1737559153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x841a3083074b1a40b644bf2ba2491a731b6da277"
+  }
+}

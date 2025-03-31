@@ -1,0 +1,15 @@
+{
+  "symbol": "ltao",
+  "name": "LinkTao",
+  "address": "0xBf7BC9E63635dC11b335D52b0349d0100A53A1a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35963/thumb/Tao.jpeg?1710258313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf7bc9e63635dc11b335d52b0349d0100a53a1a7"
+  }
+}

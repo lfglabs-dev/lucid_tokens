@@ -1,0 +1,15 @@
+{
+  "symbol": "star",
+  "name": "Sponstar",
+  "address": "0x04Cd37283E0F921B4a8838Fee72e4264c87A692B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52882/thumb/sponstar.jpg?1734593920",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x04cd37283e0f921b4a8838fee72e4264c87a692b"
+  }
+}

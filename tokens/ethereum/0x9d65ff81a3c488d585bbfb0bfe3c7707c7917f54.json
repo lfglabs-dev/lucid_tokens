@@ -1,0 +1,15 @@
+{
+  "symbol": "ssv",
+  "name": "SSV Network",
+  "address": "0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19155/thumb/ssv.png?1638181902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "tsuji",
+  "name": "Tsutsuji Doge's Sister",
+  "address": "0x2E6a60492fB5b58F5b5D08c7cAFc75e740E6Dc8e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39607/thumb/Tsutsuji_Doge's_sister.png?1723090280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2e6a60492fb5b58f5b5d08c7cafc75e740e6dc8e"
+  }
+}

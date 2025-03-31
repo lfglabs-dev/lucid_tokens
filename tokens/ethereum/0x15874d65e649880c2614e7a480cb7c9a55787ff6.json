@@ -1,0 +1,16 @@
+{
+  "symbol": "emax",
+  "name": "EthereumMax",
+  "address": "0x15874d65e649880c2614e7a480cb7c9A55787FF6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15540/thumb/EMAX-Coin-Final2000x.png?1639402630",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x15874d65e649880c2614e7a480cb7c9a55787ff6",
+    "arbitrum-one": "0x123389c2f0e9194d9ba98c21e63c375b67614108"
+  }
+}

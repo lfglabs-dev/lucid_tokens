@@ -1,0 +1,15 @@
+{
+  "symbol": "gf",
+  "name": "GuildFi",
+  "address": "0xAaEf88cEa01475125522e117BFe45cF32044E238",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20933/thumb/guildfi-logo-200.png?1638003537",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaaef88cea01475125522e117bfe45cf32044e238"
+  }
+}

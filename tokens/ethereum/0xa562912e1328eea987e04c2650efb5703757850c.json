@@ -1,0 +1,15 @@
+{
+  "symbol": "drops",
+  "name": "Drops",
+  "address": "0xA562912e1328eEA987E04c2650EfB5703757850C",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35795/thumb/IMG_1170_%282%29.jpeg?1709801958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa562912e1328eea987e04c2650efb5703757850c"
+  }
+}

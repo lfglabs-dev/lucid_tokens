@@ -1,0 +1,16 @@
+{
+  "symbol": "fcp",
+  "name": "Filipcoin",
+  "address": "0xb6Dd77FD132dcAa10F1858734e838a0FA7431580",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21354/thumb/filip.PNG?1639000706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x155e8a74dac3d8560ddabbc26aa064b764535193",
+    "ethereum": "0xb6dd77fd132dcaa10f1858734e838a0fa7431580"
+  }
+}

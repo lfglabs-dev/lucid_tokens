@@ -1,0 +1,15 @@
+{
+  "symbol": "pixfi",
+  "name": "Pixelverse",
+  "address": "0xd795eb12034C2b77d787a22292c26fab5f5C70Aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38279/thumb/pixelverse_logo.png?1716993023",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd795eb12034c2b77d787a22292c26fab5f5c70aa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "derp",
+  "name": "Derp Coin",
+  "address": "0x878fCC2bdccCFf8c56812607b9a58F29b274C4f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30262/thumb/logo-200x200-transparent.png?1683773074",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x878fcc2bdcccff8c56812607b9a58f29b274c4f0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "tribe",
+  "name": "Tribe",
+  "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14575/thumb/tribe.PNG?1617487954",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "doge1",
+  "name": "DOGE-1",
+  "address": "0xD721706581d97eCd202bBab5c71b5a85f0F78E69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32298/thumb/200.png?1697185878",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd721706581d97ecd202bbab5c71b5a85f0f78e69"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ondoai",
+  "name": "Ondo DeFAI",
+  "address": "0xFA1b1f13080857Bf373de0De93970c96d2C29FD0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53971/thumb/ondoai-logo.jpg?1737804840",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfa1b1f13080857bf373de0de93970c96d2c29fd0"
+  }
+}

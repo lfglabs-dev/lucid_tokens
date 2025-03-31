@@ -1,0 +1,15 @@
+{
+  "symbol": "aita",
+  "name": "AITA",
+  "address": "0xa9F94F19abf3089d535B1dE2Cc058A365Ea716c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29910/thumb/Screenshot_2023-04-14_at_17.23.46.png?1681990052",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa9f94f19abf3089d535b1de2cc058a365ea716c7"
+  }
+}

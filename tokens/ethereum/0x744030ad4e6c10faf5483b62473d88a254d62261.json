@@ -1,0 +1,15 @@
+{
+  "symbol": "nlk",
+  "name": "NuLink",
+  "address": "0x744030Ad4E6c10fAf5483b62473D88a254d62261",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37665/thumb/nulink.jpeg?1715176269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x744030ad4e6c10faf5483b62473d88a254d62261"
+  }
+}

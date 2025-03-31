@@ -1,0 +1,15 @@
+{
+  "symbol": "gai",
+  "name": "Generaitiv",
+  "address": "0x0d8ca4b20b115D4DA5c13DC45Dd582A5de3e78BF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29158/thumb/logo-200x200.png?1677039466",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d8ca4b20b115d4da5c13dc45dd582a5de3e78bf"
+  }
+}

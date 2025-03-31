@@ -1,0 +1,15 @@
+{
+  "symbol": "ooki",
+  "name": "Ooki",
+  "address": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21719/thumb/Ooki.png?1640699416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0de05f6447ab4d22c8827449ee4ba2d5c288379b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ausdt",
+  "name": "Alloy Tether",
+  "address": "0x9EEAD9ce15383CaEED975427340b3A369410CFBF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38747/thumb/ausdt.png?1718681185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9eead9ce15383caeed975427340b3a369410cfbf"
+  }
+}

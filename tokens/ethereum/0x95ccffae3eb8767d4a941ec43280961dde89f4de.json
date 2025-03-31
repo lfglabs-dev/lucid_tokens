@@ -1,0 +1,15 @@
+{
+  "symbol": "tbank",
+  "name": "TaoBank",
+  "address": "0x95CcffaE3Eb8767D4a941Ec43280961dde89F4dE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35612/thumb/200x200.png?1709281616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x95ccffae3eb8767d4a941ec43280961dde89f4de"
+  }
+}

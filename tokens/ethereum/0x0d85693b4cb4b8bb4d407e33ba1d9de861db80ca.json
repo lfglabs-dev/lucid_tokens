@@ -1,0 +1,15 @@
+{
+  "symbol": "pvgo",
+  "name": "Privago AI",
+  "address": "0x0d85693B4cb4b8bB4d407e33Ba1d9De861db80ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36836/thumb/bbb2.jpg?1712560493",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0d85693b4cb4b8bb4d407e33ba1d9de861db80ca"
+  }
+}

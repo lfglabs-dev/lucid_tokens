@@ -1,0 +1,15 @@
+{
+  "symbol": "chdd",
+  "name": "CHEDDA",
+  "address": "0xa110260a67FbBB6226F563844eEaF29e8c018Bb7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55002/thumb/Chesdda_Social-02.png?1743156830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa110260a67fbbb6226f563844eeaf29e8c018bb7"
+  }
+}

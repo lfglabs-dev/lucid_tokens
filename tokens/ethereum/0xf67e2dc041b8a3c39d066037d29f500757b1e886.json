@@ -1,0 +1,15 @@
+{
+  "symbol": "susdn",
+  "name": "seed USDN",
+  "address": "0xF67e2dC041b8A3c39d066037d29f500757b1e886",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51987/thumb/usdn-logo.webp?1732293624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf67e2dc041b8a3c39d066037d29f500757b1e886"
+  }
+}

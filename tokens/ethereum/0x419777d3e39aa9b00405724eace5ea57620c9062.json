@@ -1,0 +1,15 @@
+{
+  "symbol": "paw",
+  "name": "PAW",
+  "address": "0x419777D3E39AA9b00405724EaCE5ea57620c9062",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32118/thumb/IMG_20231003_090631_153.jpg?1696586039",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x419777d3e39aa9b00405724eace5ea57620c9062"
+  }
+}

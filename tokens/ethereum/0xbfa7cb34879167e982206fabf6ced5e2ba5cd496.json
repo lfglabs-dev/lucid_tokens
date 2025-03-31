@@ -1,0 +1,15 @@
+{
+  "symbol": "squirry",
+  "name": "Squirry",
+  "address": "0xBFA7Cb34879167e982206fAbf6Ced5e2Ba5CD496",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39109/thumb/200x200.png?1720585805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbfa7cb34879167e982206fabf6ced5e2ba5cd496"
+  }
+}

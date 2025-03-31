@@ -1,0 +1,16 @@
+{
+  "symbol": "bad",
+  "name": "Bad Idea AI",
+  "address": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30871/thumb/Bad_idea.jpeg?1688373590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
+    "shibarium": "0xef99cd3e619c058658043f8775ed9077105d8581"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "cere",
+  "name": "Cere Network",
+  "address": "0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20008/thumb/cere.png?1636366576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "acq",
+  "name": "Acquire.Fi",
+  "address": "0x4BDCb66B968060D9390C1D12bd29734496205581",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27199/thumb/ACQisotypeSept2022_1000x1000px.png?1662566695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4bdcb66b968060d9390c1d12bd29734496205581"
+  }
+}

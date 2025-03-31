@@ -1,0 +1,15 @@
+{
+  "symbol": "twin",
+  "name": "Twin Protocol",
+  "address": "0x48fd84c0dFC47F1b61eD6a86367895AaA6ad2a45",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50990/thumb/Full_Logo.jpg?1729668252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x48fd84c0dfc47f1b61ed6a86367895aaa6ad2a45"
+  }
+}

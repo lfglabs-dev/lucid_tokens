@@ -1,0 +1,15 @@
+{
+  "symbol": "hay",
+  "name": "HayCoin",
+  "address": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32336/thumb/aIQ_R6PJ_400x400.jpg?1697453080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfa3e941d1f6b7b10ed84a0c211bfa8aee907965e"
+  }
+}

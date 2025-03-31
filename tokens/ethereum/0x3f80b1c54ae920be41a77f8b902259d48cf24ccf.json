@@ -1,0 +1,17 @@
+{
+  "symbol": "kernel",
+  "name": "KernelDAO",
+  "address": "0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54326/thumb/kernel.png?1739292685",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf",
+    "binance-smart-chain": "0x9ecaf80c1303cca8791afbc0ad405c8a35e8d9f1",
+    "arbitrum-one": "0x6e401189c8a68d05562c9bab7f674f910821eacf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "beardy",
+  "name": "Bearded Dragon",
+  "address": "0x32C6F1c1731Ff8F98eE2EDe8954f696446307846",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x32c6f1c1731ff8f98ee2ede8954f696446307846"
+  }
+}

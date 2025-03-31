@@ -1,0 +1,16 @@
+{
+  "symbol": "boys",
+  "name": "Boys Club",
+  "address": "0x706987611C5d2052541D64ef8f036916807c916A",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53636/thumb/Coin200.png?1736956240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x706987611c5d2052541d64ef8f036916807c916a",
+    "solana": "9cLx6w1fN6b67VxsGxaFaCTgQcNqsA51p4uMWdkgQqmC"
+  }
+}

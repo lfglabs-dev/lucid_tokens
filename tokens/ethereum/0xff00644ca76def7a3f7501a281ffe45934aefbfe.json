@@ -1,0 +1,15 @@
+{
+  "symbol": "gang",
+  "name": "Shadow Wizard Money Gang",
+  "address": "0xff00644CA76DEF7a3F7501a281fFE45934AeFBfe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32452/thumb/logo.png?1698240659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xff00644ca76def7a3f7501a281ffe45934aefbfe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "inu",
+  "name": "Inu on ETH",
+  "address": "0xF7D75a5E807b5345Eb7aaB8CC9a2f9E2175eb88e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38906/thumb/Inu.png?1719470626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf7d75a5e807b5345eb7aab8cc9a2f9e2175eb88e"
+  }
+}

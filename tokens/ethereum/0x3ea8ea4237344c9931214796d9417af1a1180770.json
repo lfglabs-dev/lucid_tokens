@@ -1,0 +1,16 @@
+{
+  "symbol": "flx",
+  "name": "Flux Protocol",
+  "address": "0x3Ea8ea4237344C9931214796d9417Af1A1180770",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21137/thumb/flux-flx.jpeg?1638372222",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ea8ea4237344c9931214796d9417af1a1180770",
+    "aurora": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af"
+  }
+}

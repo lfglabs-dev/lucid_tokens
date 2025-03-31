@@ -1,0 +1,15 @@
+{
+  "symbol": "$locg",
+  "name": "LOCG",
+  "address": "0x60Eb57d085C59932d5fAa6c6026268A4386927d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15175/thumb/LOC_GAME.png?1620025060",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60eb57d085c59932d5faa6c6026268a4386927d0"
+  }
+}

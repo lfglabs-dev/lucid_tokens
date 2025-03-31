@@ -1,0 +1,15 @@
+{
+  "symbol": "jacy",
+  "name": "JACY",
+  "address": "0x916c5DE09cF63f6602d1e1793FB41F6437814A62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19740/thumb/tBwbvjZK_400x400.jpg?1641803022",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x916c5de09cf63f6602d1e1793fb41f6437814a62"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "choppy",
+  "name": "Choppy",
+  "address": "0xF938346D7117534222B48D09325A6B8162B3A9E7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35731/thumb/200x200.png?1709691279",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf938346d7117534222b48d09325a6b8162b3a9e7"
+  }
+}

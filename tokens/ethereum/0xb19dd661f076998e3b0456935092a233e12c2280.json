@@ -1,0 +1,16 @@
+{
+  "symbol": "um",
+  "name": "Continuum World",
+  "address": "0xb19Dd661F076998e3B0456935092a233e12C2280",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18798/thumb/Moneda.png?1633474110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb19dd661f076998e3b0456935092a233e12c2280",
+    "polygon-pos": "0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a"
+  }
+}

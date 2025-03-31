@@ -1,0 +1,17 @@
+{
+  "symbol": "mchc",
+  "name": "MCH Coin",
+  "address": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15399/thumb/MCHC.jpg?1620721307",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
+    "oasys": "0x5b1cc635e524cabb63a581c050c895534755f297",
+    "polygon-pos": "0xee7666aacaefaa6efeef62ea40176d3eb21953b9"
+  }
+}

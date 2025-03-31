@@ -1,0 +1,16 @@
+{
+  "symbol": "pib",
+  "name": "Pibble",
+  "address": "0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2972/thumb/pibble.jpg?1551683103",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
+    "klay-token": "0xafde910130c335fa5bd5fe991053e3e0a49dce7b"
+  }
+}

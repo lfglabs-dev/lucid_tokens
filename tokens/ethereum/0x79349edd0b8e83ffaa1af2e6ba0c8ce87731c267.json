@@ -1,0 +1,15 @@
+{
+  "symbol": "wcd",
+  "name": "WcDonalds",
+  "address": "0x79349edD0B8E83ffaa1AF2E6BA0C8CE87731C267",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35897/thumb/wcdonalds.png?1710163437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x79349edd0b8e83ffaa1af2e6ba0c8ce87731c267"
+  }
+}

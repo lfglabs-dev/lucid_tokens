@@ -1,0 +1,15 @@
+{
+  "symbol": "conan",
+  "name": "Conan",
+  "address": "0x85D19fb57CA7DA715695FCf347CA2169144523a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35566/thumb/IMG_20240227_061234_892.jpg?1709182894",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x85d19fb57ca7da715695fcf347ca2169144523a7"
+  }
+}

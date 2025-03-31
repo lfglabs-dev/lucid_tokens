@@ -1,0 +1,15 @@
+{
+  "symbol": "mds",
+  "name": "MediShares",
+  "address": "0x66186008C1050627F979d464eABb258860563dbE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1343/thumb/medishares.png?1547978625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x66186008c1050627f979d464eabb258860563dbe"
+  }
+}

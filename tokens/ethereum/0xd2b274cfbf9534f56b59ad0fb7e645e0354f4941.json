@@ -1,0 +1,15 @@
+{
+  "symbol": "xdoge",
+  "name": "XDOGE",
+  "address": "0xd2b274CfBf9534f56b59aD0FB7e645e0354f4941",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31107/thumb/photo_2023-07-25_13.59.23.jpeg?1690516177",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd2b274cfbf9534f56b59ad0fb7e645e0354f4941"
+  }
+}

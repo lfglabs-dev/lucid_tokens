@@ -1,0 +1,15 @@
+{
+  "symbol": "reusd",
+  "name": "Resupply USD",
+  "address": "0x57aB1E0003F623289CD798B1824Be09a793e4Bec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54836/thumb/reusd-icon-black-200px.png?1741970002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x57ab1e0003f623289cd798b1824be09a793e4bec"
+  }
+}

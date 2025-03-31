@@ -1,0 +1,15 @@
+{
+  "symbol": "sendr",
+  "name": "Sendr",
+  "address": "0x1eE2b89458EB12F93f7f01972c39589b99A8ed5a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50874/thumb/sendr_%281%29.jpeg?1729407462",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1ee2b89458eb12f93f7f01972c39589b99a8ed5a"
+  }
+}

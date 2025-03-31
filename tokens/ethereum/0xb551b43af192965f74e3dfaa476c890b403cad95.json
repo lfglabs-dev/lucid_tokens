@@ -1,0 +1,15 @@
+{
+  "symbol": "data",
+  "name": "DataBot",
+  "address": "0xb551b43AF192965F74e3dfAA476C890B403caD95",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31508/thumb/Databot_LOGO_coingecko.png?1693361296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb551b43af192965f74e3dfaa476c890b403cad95"
+  }
+}

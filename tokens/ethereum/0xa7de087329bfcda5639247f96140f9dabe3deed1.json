@@ -1,0 +1,16 @@
+{
+  "symbol": "sta",
+  "name": "Statera",
+  "address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11472/thumb/Statera.png?1590415353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa7de087329bfcda5639247f96140f9dabe3deed1",
+    "fantom": "0x89d5e71e275b4be094df9551627bcf4e3b24ce22"
+  }
+}

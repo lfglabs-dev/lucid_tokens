@@ -1,0 +1,17 @@
+{
+  "symbol": "borg",
+  "name": "SwissBorg",
+  "address": "0x64d0f55Cd8C7133a9D7102b13987235F486F2224",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2117/thumb/YJUrRy7r_400x400.png?1589794215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
+    "energi": "0x5666444647f4fd66decf411d69f994b8244ebee3",
+    "solana": "3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z"
+  }
+}

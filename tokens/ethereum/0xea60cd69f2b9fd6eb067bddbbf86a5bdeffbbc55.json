@@ -1,0 +1,15 @@
+{
+  "symbol": "wecan",
+  "name": "Wecan",
+  "address": "0xeA60CD69F2B9fD6Eb067bdDBbF86a5BdeFfbBc55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32150/thumb/Wecan_logo_RGB.png?1696597439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea60cd69f2b9fd6eb067bddbbf86a5bdeffbbc55"
+  }
+}

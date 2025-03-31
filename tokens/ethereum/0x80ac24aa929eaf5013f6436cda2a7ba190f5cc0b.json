@@ -1,0 +1,15 @@
+{
+  "symbol": "syrupusdc",
+  "name": "SyrupUSDC",
+  "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54658/thumb/syrup_logo-_200x200.jpg?1740895597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b"
+  }
+}

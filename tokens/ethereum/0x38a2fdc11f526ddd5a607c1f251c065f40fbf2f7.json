@@ -1,0 +1,16 @@
+{
+  "symbol": "phnx",
+  "name": "PhoenixDAO",
+  "address": "0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11523/thumb/Token_Icon.png?1618447147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38a2fdc11f526ddd5a607c1f251c065f40fbf2f7",
+    "polygon-pos": "0x92c59f1cc9a322670cca29594e4d994d48bdfd36"
+  }
+}

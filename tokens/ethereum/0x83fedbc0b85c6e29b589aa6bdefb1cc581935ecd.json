@@ -1,0 +1,16 @@
+{
+  "symbol": "ustb",
+  "name": "Re.al US T-Bill",
+  "address": "0x83feDBc0B85c6e29B589aA6BdefB1Cc581935ECD",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38174/thumb/ustb.png?1716780607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "re-al": "0x83fedbc0b85c6e29b589aa6bdefb1cc581935ecd",
+    "ethereum": "0x83fedbc0b85c6e29b589aa6bdefb1cc581935ecd"
+  }
+}

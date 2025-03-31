@@ -1,0 +1,15 @@
+{
+  "symbol": "vitarna",
+  "name": "VitaRNA",
+  "address": "0x7b66E84Be78772a3afAF5ba8c1993a1B5D05F9C2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38565/thumb/VITARNA_512px.png?1718005667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7b66e84be78772a3afaf5ba8c1993a1b5d05f9c2"
+  }
+}

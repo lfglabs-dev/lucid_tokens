@@ -1,0 +1,15 @@
+{
+  "symbol": "yvusdc",
+  "name": "USDC yVault",
+  "address": "0xa354F35829Ae975e850e23e9615b11Da1B3dC4DE",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28779/thumb/yvUSDC-128-0xe2F6b9773BF3A015E2aA70741Bde1498bdB9425b.png?1674182395",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa354f35829ae975e850e23e9615b11da1b3dc4de"
+  }
+}

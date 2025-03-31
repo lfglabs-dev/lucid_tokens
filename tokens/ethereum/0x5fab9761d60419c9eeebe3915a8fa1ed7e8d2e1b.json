@@ -1,0 +1,17 @@
+{
+  "symbol": "dimo",
+  "name": "DIMO",
+  "address": "0x5fab9761d60419C9eeEbe3915A8FA1ed7e8d2E1B",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28383/thumb/Token_Logo.png?1670052785",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe261d618a959afffd53168cd07d12e37b26761db",
+    "iotex": "0x61db9b084326d2251ccb0252c18fd9b0e887ca4f",
+    "ethereum": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "arb",
+  "name": "Arbitrum",
+  "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16547/thumb/arbitrium.png?1624418103",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "arbitrum-nova": "0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad",
+    "ethereum": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "clear",
+  "name": "Everclear",
+  "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52496/thumb/photo_2024-06-03_12-14-59_%281%29.png?1733450397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+  }
+}

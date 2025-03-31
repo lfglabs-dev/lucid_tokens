@@ -1,0 +1,15 @@
+{
+  "symbol": "mstr",
+  "name": "MSTR2100",
+  "address": "0x42069026EAC8Eee0Fd9b5f7aDFa4f6E6D69a2B39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50600/thumb/MSTR2100.png?1728446322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42069026eac8eee0fd9b5f7adfa4f6e6d69a2b39"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "oishii",
+  "name": "Dog Food Token",
+  "address": "0xa1b014878D47c0836eD79163ddec55985AdB7023",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50682/thumb/2024-10-12_08.52.53_%281%29.jpg?1728747071",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa1b014878d47c0836ed79163ddec55985adb7023"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "tst",
+  "name": "TaoStack",
+  "address": "0x6EEf75b8f067b5853a36Da5561f52A8f22FAA9AF",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36720/thumb/Logomark_Taostack.png?1712129260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6eef75b8f067b5853a36da5561f52a8f22faa9af"
+  }
+}

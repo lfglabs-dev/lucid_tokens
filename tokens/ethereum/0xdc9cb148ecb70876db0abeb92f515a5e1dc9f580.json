@@ -1,0 +1,15 @@
+{
+  "symbol": "gbtc",
+  "name": "Green Bitcoin",
+  "address": "0xdc9CB148ECb70876db0aBeB92f515a5E1dc9f580",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37001/thumb/Green_Bitcoin.png?1713070667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc9cb148ecb70876db0abeb92f515a5e1dc9f580"
+  }
+}

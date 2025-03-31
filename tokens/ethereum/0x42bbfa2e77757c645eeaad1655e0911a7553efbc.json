@@ -1,0 +1,16 @@
+{
+  "symbol": "boba",
+  "name": "Boba Network",
+  "address": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+    "boba": "0xa18bf3994c0cc6e3b63ac420308e5383f53120d7"
+  }
+}

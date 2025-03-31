@@ -1,0 +1,15 @@
+{
+  "symbol": "mpl",
+  "name": "Maple",
+  "address": "0x33349B282065b0284d756F0577FB39c158F935e6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14097/thumb/photo_2021-05-03_14.20.41.jpeg?1620022863",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33349b282065b0284d756f0577fb39c158f935e6"
+  }
+}

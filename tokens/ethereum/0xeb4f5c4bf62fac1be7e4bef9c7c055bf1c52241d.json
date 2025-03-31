@@ -1,0 +1,15 @@
+{
+  "symbol": "runic",
+  "name": "Runic Chain",
+  "address": "0xeb4F5c4bF62faC1be7e4BEf9c7C055BF1C52241D",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36044/thumb/logo.png?1710401096",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeb4f5c4bf62fac1be7e4bef9c7c055bf1c52241d"
+  }
+}

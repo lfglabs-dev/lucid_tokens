@@ -1,7 +1,7 @@
 {
   "symbol": "mag",
   "name": "Magnify Cash",
-  "address": "0x71DA932ccdA723BA3ab730C976bC66DaAF9C598c",
+  "address": "0x71da932ccda723ba3ab730c976bc66daaf9c598c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

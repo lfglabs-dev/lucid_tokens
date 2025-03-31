@@ -1,7 +1,7 @@
 {
   "symbol": "nerf",
   "name": "Neural Radiance Field",
-  "address": "0xaF8942831F3A096f708b8b31F191B8958Cf176c5",
+  "address": "0xaf8942831f3a096f708b8b31f191b8958cf176c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

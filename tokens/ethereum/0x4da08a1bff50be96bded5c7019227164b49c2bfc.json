@@ -1,7 +1,7 @@
 {
   "symbol": "mononoke-inu",
   "name": "Mononoke Inu",
-  "address": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc",
+  "address": "0x4da08a1bff50be96bded5c7019227164b49c2bfc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

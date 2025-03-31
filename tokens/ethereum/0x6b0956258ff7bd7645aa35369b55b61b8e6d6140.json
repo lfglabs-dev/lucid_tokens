@@ -1,7 +1,7 @@
 {
   "symbol": "lucky",
   "name": "Maximus LUCKY",
-  "address": "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
+  "address": "0x6b0956258ff7bd7645aa35369b55b61b8e6d6140",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

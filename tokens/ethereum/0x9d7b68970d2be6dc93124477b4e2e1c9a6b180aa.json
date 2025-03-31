@@ -1,7 +1,7 @@
 {
   "symbol": "dede",
   "name": "Dede",
-  "address": "0x9D7b68970d2be6dc93124477b4E2e1C9A6b180aA",
+  "address": "0x9d7b68970d2be6dc93124477b4e2e1c9a6b180aa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

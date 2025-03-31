@@ -1,7 +1,7 @@
 {
   "symbol": "csr",
   "name": "CSR",
-  "address": "0x75Ecb52e403C617679FBd3e77A50f9d10A842387",
+  "address": "0x75ecb52e403c617679fbd3e77a50f9d10a842387",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

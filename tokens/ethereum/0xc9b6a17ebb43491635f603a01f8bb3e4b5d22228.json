@@ -1,7 +1,7 @@
 {
   "symbol": "maga",
   "name": "MAGA Coin ETH",
-  "address": "0xc9b6A17EbB43491635F603A01f8Bb3e4B5D22228",
+  "address": "0xc9b6a17ebb43491635f603a01f8bb3e4b5d22228",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

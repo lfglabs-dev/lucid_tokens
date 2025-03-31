@@ -1,7 +1,7 @@
 {
   "symbol": "qhub",
   "name": "QHUB",
-  "address": "0x6dDa263994aAB33F5Ed612294E26f2A13DF0dA05",
+  "address": "0x6dda263994aab33f5ed612294e26f2a13df0da05",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

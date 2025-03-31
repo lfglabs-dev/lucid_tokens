@@ -1,7 +1,7 @@
 {
   "symbol": "neko",
   "name": "The Neko",
-  "address": "0x1E9D0bB190Ac34492aa11B80D28c1C86487a341F",
+  "address": "0x1e9d0bb190ac34492aa11b80d28c1c86487a341f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

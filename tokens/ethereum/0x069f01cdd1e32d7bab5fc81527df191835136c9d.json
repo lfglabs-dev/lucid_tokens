@@ -1,7 +1,7 @@
 {
   "symbol": "apugurl",
   "name": "Apu Gurl",
-  "address": "0x069F01CDD1E32D7BaB5fc81527df191835136C9D",
+  "address": "0x069f01cdd1e32d7bab5fc81527df191835136c9d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lunc",
   "name": "Terra Classic (Wormhole)",
-  "address": "0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
+  "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
     "oasis": "0x4f43717b20ae319aa50bc5b2349b93af5f7ac823",
     "ethereum": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
     "binance-smart-chain": "0x156ab3346823b651294766e23e6cf87254d68962",

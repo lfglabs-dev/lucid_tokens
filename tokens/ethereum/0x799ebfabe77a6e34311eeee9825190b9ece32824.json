@@ -1,7 +1,7 @@
 {
   "symbol": "btrst",
   "name": "Braintrust",
-  "address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+  "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

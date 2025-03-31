@@ -1,7 +1,7 @@
 {
   "symbol": "colon",
   "name": "Colon",
-  "address": "0xD09Eb9099faC55eDCbF4965e0A866779ca365a0C",
+  "address": "0xd09eb9099fac55edcbf4965e0a866779ca365a0c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

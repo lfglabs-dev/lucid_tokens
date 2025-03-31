@@ -1,7 +1,7 @@
 {
   "symbol": "dolz",
   "name": "DOLZ.io",
-  "address": "0xe939F011a3d8fC0AA874c97e8156053a903D7176",
+  "address": "0xe939f011a3d8fc0aa874c97e8156053a903d7176",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

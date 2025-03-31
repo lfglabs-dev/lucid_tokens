@@ -1,7 +1,7 @@
 {
   "symbol": "amas",
   "name": "Amasa",
-  "address": "0x65a8fbA02F641a13Bb7B01d5E1129b0521004f52",
+  "address": "0x65a8fba02f641a13bb7b01d5e1129b0521004f52",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

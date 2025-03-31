@@ -1,7 +1,7 @@
 {
   "symbol": "dummy",
   "name": "DUMMY",
-  "address": "0x445bd590A01fe6709d4f13A8F579c1e4846921db",
+  "address": "0x445bd590a01fe6709d4f13a8f579c1e4846921db",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

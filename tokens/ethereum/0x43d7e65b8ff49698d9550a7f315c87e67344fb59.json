@@ -1,7 +1,7 @@
 {
   "symbol": "shia",
   "name": "Shiba Saga",
-  "address": "0x43D7E65B8fF49698D9550a7F315c87E67344FB59",
+  "address": "0x43d7e65b8ff49698d9550a7f315c87e67344fb59",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

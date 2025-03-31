@@ -1,7 +1,7 @@
 {
   "symbol": "spus.d",
   "name": "Dinari SPUS",
-  "address": "0xDF9BE795fee855AAeb82dc112b0f27B62524a17B",
+  "address": "0xdf9be795fee855aaeb82dc112b0f27b62524a17b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

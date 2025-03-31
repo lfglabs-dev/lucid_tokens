@@ -1,7 +1,7 @@
 {
   "symbol": "$node",
   "name": "NodelyAI",
-  "address": "0xFF284f2E8CcE4CD2f4537d8a9369482B545908FB",
+  "address": "0xff284f2e8cce4cd2f4537d8a9369482b545908fb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

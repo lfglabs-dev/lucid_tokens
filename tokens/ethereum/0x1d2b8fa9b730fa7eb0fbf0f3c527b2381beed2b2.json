@@ -1,7 +1,7 @@
 {
   "symbol": "qmind",
   "name": "QMind",
-  "address": "0x1D2B8fA9b730Fa7Eb0FBF0f3c527b2381BeED2b2",
+  "address": "0x1d2b8fa9b730fa7eb0fbf0f3c527b2381beed2b2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

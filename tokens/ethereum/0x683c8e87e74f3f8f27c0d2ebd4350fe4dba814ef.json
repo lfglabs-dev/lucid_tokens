@@ -1,7 +1,7 @@
 {
   "symbol": "xgn",
   "name": "0xGen",
-  "address": "0x683C8e87E74F3f8f27C0D2EBd4350Fe4DbA814eF",
+  "address": "0x683c8e87e74f3f8f27c0d2ebd4350fe4dba814ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

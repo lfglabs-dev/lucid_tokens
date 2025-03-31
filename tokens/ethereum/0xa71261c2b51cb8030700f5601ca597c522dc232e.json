@@ -1,7 +1,7 @@
 {
   "symbol": "sage",
   "name": "Sage Market",
-  "address": "0xa71261C2b51cB8030700F5601Ca597c522dc232e",
+  "address": "0xa71261c2b51cb8030700f5601ca597c522dc232e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

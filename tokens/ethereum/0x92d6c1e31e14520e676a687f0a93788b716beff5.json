@@ -1,7 +1,7 @@
 {
   "symbol": "ethdydx",
   "name": "dYdX",
-  "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+  "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

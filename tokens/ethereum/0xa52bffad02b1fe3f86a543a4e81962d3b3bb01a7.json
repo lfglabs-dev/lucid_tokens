@@ -1,7 +1,7 @@
 {
   "symbol": "ducker",
   "name": "Duckereum",
-  "address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
+  "address": "0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

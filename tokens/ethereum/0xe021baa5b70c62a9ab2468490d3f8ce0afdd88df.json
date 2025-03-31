@@ -1,7 +1,7 @@
 {
   "symbol": "sor",
   "name": "Sorra",
-  "address": "0xE021bAa5b70C62A9ab2468490D3f8ce0AfDd88dF",
+  "address": "0xe021baa5b70c62a9ab2468490d3f8ce0afdd88df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

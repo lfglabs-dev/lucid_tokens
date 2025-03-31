@@ -1,7 +1,7 @@
 {
   "symbol": "rlc",
   "name": "iExec RLC",
-  "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+  "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x607f4c5bb672230e8672085532f7e901544a7375",
-    "energi": "0xb4ff17b5e93c40ff09326b0d538118022f02dc2b",
-    "sora": "0x008294f7b08f568a661de2b248c34fc574e7e0012a12ef7959eb1a5c6b349e09"
+    "energi": "0xb4ff17b5e93c40ff09326b0d538118022f02dc2b"
   }
 }

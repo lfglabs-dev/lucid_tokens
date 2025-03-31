@@ -1,7 +1,7 @@
 {
   "symbol": "yvuni",
   "name": "UNI yVault",
-  "address": "0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42",
+  "address": "0xfbeb78a723b8087fd2ea7ef1afec93d35e8bed42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

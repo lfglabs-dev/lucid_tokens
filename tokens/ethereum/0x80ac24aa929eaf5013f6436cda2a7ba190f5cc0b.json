@@ -1,7 +1,7 @@
 {
   "symbol": "syrupusdc",
   "name": "SyrupUSDC",
-  "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+  "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

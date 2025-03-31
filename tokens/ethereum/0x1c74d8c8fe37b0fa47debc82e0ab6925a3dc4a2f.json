@@ -1,7 +1,7 @@
 {
   "symbol": "stpr",
   "name": "Strike Protocol",
-  "address": "0x1c74d8C8FE37B0fA47deBc82E0AB6925A3DC4a2F",
+  "address": "0x1c74d8c8fe37b0fa47debc82e0ab6925a3dc4a2f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

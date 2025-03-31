@@ -1,7 +1,7 @@
 {
   "symbol": "nut",
   "name": "NutCoin",
-  "address": "0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC",
+  "address": "0x473f4068073cd5b2ab0e4cc8e146f9edc6fb52cc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x473f4068073cd5b2ab0e4cc8e146f9edc6fb52cc",
     "arbitrum-one": "0x8697841b82c71fcbd9e58c15f6de68cd1c63fd02",
-    "base": "0x6a9431b9ecce9dde3f7a32391d5b61c5ad11e4a0",
-    "solana": "3KkQ3AaMs2nZoKvYzGnh5bwRocAGFFFzDWUR4hLT7JpF"
+    "base": "0x6a9431b9ecce9dde3f7a32391d5b61c5ad11e4a0"
   }
 }

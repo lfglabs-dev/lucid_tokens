@@ -1,7 +1,7 @@
 {
   "symbol": "bars",
   "name": "Banksters",
-  "address": "0x5189688Ac92a1Eba1710bcba94Ab25c695A4dfa2",
+  "address": "0x5189688ac92a1eba1710bcba94ab25c695a4dfa2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

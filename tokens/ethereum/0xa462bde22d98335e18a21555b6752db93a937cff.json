@@ -1,7 +1,7 @@
 {
   "symbol": "bobby",
   "name": "Kennedy Memecoin",
-  "address": "0xa462bdE22D98335E18A21555b6752dB93a937cFf",
+  "address": "0xa462bde22d98335e18a21555b6752db93a937cff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xa462bde22d98335e18a21555b6752db93a937cff",
-    "solana": "4geJykZY92d2mZk8zgWDrKoz4BDcSjp7DJdNvH8GoH5f"
+    "ethereum": "0xa462bde22d98335e18a21555b6752db93a937cff"
   }
 }

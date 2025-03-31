@@ -1,7 +1,7 @@
 {
   "symbol": "fung",
   "name": "Fungify Token",
-  "address": "0x0e4e7F2AecF408AFF4f82f067677050239bdC58A",
+  "address": "0x0e4e7f2aecf408aff4f82f067677050239bdc58a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "chex",
   "name": "CHEX Token",
-  "address": "0x9Ce84F6A69986a83d92C324df10bC8E64771030f",
+  "address": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
     "binance-smart-chain": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
-    "base": "0xc43f3ae305a92043bd9b62ebd2fe14f7547ee485",
-    "solana": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e"
+    "base": "0xc43f3ae305a92043bd9b62ebd2fe14f7547ee485"
   }
 }

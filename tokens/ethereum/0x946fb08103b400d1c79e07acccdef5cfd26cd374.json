@@ -1,7 +1,7 @@
 {
   "symbol": "kip",
   "name": "KIP",
-  "address": "0x946fb08103b400d1c79e07acCCDEf5cfd26cd374",
+  "address": "0x946fb08103b400d1c79e07acccdef5cfd26cd374",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

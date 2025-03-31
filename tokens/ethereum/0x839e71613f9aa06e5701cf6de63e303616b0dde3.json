@@ -1,7 +1,7 @@
 {
   "symbol": "vvs",
   "name": "VVS Finance",
-  "address": "0x839e71613f9aA06E5701CF6de63E303616B0DDE3",
+  "address": "0x839e71613f9aa06e5701cf6de63e303616b0dde3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

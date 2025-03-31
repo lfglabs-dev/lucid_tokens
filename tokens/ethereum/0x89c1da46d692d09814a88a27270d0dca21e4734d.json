@@ -1,7 +1,7 @@
 {
   "symbol": "gm",
   "name": "GM Frens",
-  "address": "0x89C1DA46D692D09814a88a27270D0DCa21e4734d",
+  "address": "0x89c1da46d692d09814a88a27270d0dca21e4734d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

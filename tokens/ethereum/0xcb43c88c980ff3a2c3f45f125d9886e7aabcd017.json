@@ -1,7 +1,7 @@
 {
   "symbol": "freak",
   "name": "Freakoff",
-  "address": "0xcB43C88c980fF3A2C3f45f125d9886E7aabCD017",
+  "address": "0xcb43c88c980ff3a2c3f45f125d9886e7aabcd017",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

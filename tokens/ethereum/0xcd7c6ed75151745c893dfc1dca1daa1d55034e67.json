@@ -1,7 +1,7 @@
 {
   "symbol": "riot.d",
   "name": "Dinari RIOT",
-  "address": "0xcd7C6Ed75151745C893DFC1Dca1dAa1D55034E67",
+  "address": "0xcd7c6ed75151745c893dfc1dca1daa1d55034e67",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

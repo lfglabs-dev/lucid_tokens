@@ -1,7 +1,7 @@
 {
   "symbol": "prtg",
   "name": "Pre-Retogeum",
-  "address": "0xBD04ccc050058a6A422851fA6c0F92BB65EB06ca",
+  "address": "0xbd04ccc050058a6a422851fa6c0f92bb65eb06ca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

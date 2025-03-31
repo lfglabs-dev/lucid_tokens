@@ -1,7 +1,7 @@
 {
   "symbol": "$fame",
   "name": "FAME- Rumble Kong League",
-  "address": "0x26827f7F51769eA21f94BA98bA64F5d0dc8988F9",
+  "address": "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

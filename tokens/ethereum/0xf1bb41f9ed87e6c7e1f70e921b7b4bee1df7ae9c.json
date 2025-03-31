@@ -1,7 +1,7 @@
 {
   "symbol": "dcoin",
   "name": "Dogcoin",
-  "address": "0xf1BB41F9eD87e6c7E1F70e921b7B4bee1Df7Ae9c",
+  "address": "0xf1bb41f9ed87e6c7e1f70e921b7b4bee1df7ae9c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

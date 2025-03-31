@@ -1,7 +1,7 @@
 {
   "symbol": "nemo",
   "name": "Nemo Sum",
-  "address": "0xb60FDF036F2ad584f79525B5da76C5c531283A1B",
+  "address": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b",
-    "solana": "GiN6u4pYqQB1tUNCTxN8n8aM1N2hDmtqaKWCSiAv1uLW"
+    "ethereum": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b"
   }
 }

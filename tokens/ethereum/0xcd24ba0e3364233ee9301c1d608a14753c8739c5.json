@@ -1,7 +1,7 @@
 {
   "symbol": "south",
   "name": "DeepSouth AI",
-  "address": "0xcD24ba0e3364233Ee9301c1D608a14753C8739C5",
+  "address": "0xcd24ba0e3364233ee9301c1d608a14753c8739c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "zkj",
   "name": "Polyhedra Network",
-  "address": "0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+  "address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

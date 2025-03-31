@@ -1,7 +1,7 @@
 {
   "symbol": "bytes",
   "name": "Neo Tokyo",
-  "address": "0xa19f5264F7D7Be11c451C093D8f92592820Bea86",
+  "address": "0xa19f5264f7d7be11c451c093d8f92592820bea86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "smt",
   "name": "SmartMesh",
-  "address": "0x21f15966E07a10554C364b988e91DaB01D32794A",
+  "address": "0x21f15966e07a10554c364b988e91dab01d32794a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

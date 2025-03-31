@@ -1,7 +1,7 @@
 {
   "symbol": "msm",
   "name": "MusmeCoin",
-  "address": "0x2C3b62CdeaB213ff58ad24fe8bBDF224c7F66Dce",
+  "address": "0x2c3b62cdeab213ff58ad24fe8bbdf224c7f66dce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

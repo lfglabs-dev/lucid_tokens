@@ -1,7 +1,7 @@
 {
   "symbol": "eeyor",
   "name": "Eeyor",
-  "address": "0x07c904D8c04323EF9Fe6BF13AaEbA05b62c54825",
+  "address": "0x07c904d8c04323ef9fe6bf13aaeba05b62c54825",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x07c904d8c04323ef9fe6bf13aaeba05b62c54825",
-    "solana": "5kyEDexp9ExmFUVcbKmNy5QXQWhHBsPaLt1MieBXZBYj"
+    "ethereum": "0x07c904d8c04323ef9fe6bf13aaeba05b62c54825"
   }
 }

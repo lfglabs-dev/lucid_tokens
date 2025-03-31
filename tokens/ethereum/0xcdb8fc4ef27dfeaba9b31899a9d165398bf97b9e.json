@@ -1,7 +1,7 @@
 {
   "symbol": "ethos",
   "name": "Ethos",
-  "address": "0xcdb8fc4Ef27dfEAbA9b31899a9d165398bF97b9e",
+  "address": "0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

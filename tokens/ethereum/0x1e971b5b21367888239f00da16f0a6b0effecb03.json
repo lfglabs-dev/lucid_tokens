@@ -1,7 +1,7 @@
 {
   "symbol": "leeroy",
   "name": "LEEROY JENKINS",
-  "address": "0x1e971b5b21367888239f00Da16F0A6b0efFeCb03",
+  "address": "0x1e971b5b21367888239f00da16f0a6b0effecb03",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

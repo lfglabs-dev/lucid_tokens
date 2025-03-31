@@ -1,7 +1,7 @@
 {
   "symbol": "mega",
   "name": "Make ETH Great Again",
-  "address": "0xc06bF3589345A81f0C2845E4Db76bdb64BBBbc9D",
+  "address": "0xc06bf3589345a81f0c2845e4db76bdb64bbbbc9d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "unleash",
   "name": "UnleashClub",
-  "address": "0x0E9cc0F7E550BD43BD2af2214563C47699F96479",
+  "address": "0x0e9cc0f7e550bd43bd2af2214563c47699f96479",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

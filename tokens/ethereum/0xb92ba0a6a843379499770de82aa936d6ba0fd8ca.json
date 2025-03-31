@@ -1,7 +1,7 @@
 {
   "symbol": "you",
   "name": "Youwho",
-  "address": "0xb92ba0A6a843379499770dE82Aa936d6bA0fd8CA",
+  "address": "0xb92ba0a6a843379499770de82aa936d6ba0fd8ca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

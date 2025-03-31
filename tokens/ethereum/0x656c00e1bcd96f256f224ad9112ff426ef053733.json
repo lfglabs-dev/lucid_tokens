@@ -1,7 +1,7 @@
 {
   "symbol": "efi",
   "name": "Efinity",
-  "address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+  "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

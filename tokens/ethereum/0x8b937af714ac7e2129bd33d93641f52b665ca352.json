@@ -1,7 +1,7 @@
 {
   "symbol": "jizz",
   "name": "JizzRocket",
-  "address": "0x8b937AF714aC7E2129bD33D93641F52b665Ca352",
+  "address": "0x8b937af714ac7e2129bd33d93641f52b665ca352",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

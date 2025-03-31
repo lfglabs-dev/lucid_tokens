@@ -1,7 +1,7 @@
 {
   "symbol": "bezoge",
   "name": "Bezoge Earth",
-  "address": "0xDC349913d53b446485E98b76800b6254f43Df695",
+  "address": "0xdc349913d53b446485e98b76800b6254f43df695",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

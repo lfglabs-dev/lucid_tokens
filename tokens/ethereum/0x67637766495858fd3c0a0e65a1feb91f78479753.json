@@ -1,7 +1,7 @@
 {
   "symbol": "ba.d",
   "name": "Dinari BA",
-  "address": "0x67637766495858fd3C0a0e65A1FEB91F78479753",
+  "address": "0x67637766495858fd3c0a0e65a1feb91f78479753",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

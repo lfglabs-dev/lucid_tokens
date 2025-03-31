@@ -1,7 +1,7 @@
 {
   "symbol": "limon",
   "name": "LimoncelloAI",
-  "address": "0x6D3f7AF0BA8003A2DE0335bCCD957921380b2D9E",
+  "address": "0x6d3f7af0ba8003a2de0335bccd957921380b2d9e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

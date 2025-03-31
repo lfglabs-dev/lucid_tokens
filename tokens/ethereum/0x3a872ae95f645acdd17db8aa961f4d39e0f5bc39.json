@@ -1,7 +1,7 @@
 {
   "symbol": "brln",
   "name": "Brillion",
-  "address": "0x3a872aE95F645aCDd17DB8aA961F4D39E0f5bC39",
+  "address": "0x3a872ae95f645acdd17db8aa961f4d39e0f5bc39",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

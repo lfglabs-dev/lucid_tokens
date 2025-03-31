@@ -1,7 +1,7 @@
 {
   "symbol": "dop",
   "name": "Data Ownership Protocol",
-  "address": "0x97A9a15168C22B3C137E6381037E1499C8ad0978",
+  "address": "0x97a9a15168c22b3c137e6381037e1499c8ad0978",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

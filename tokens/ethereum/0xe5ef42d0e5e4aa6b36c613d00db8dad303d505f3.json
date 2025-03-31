@@ -1,7 +1,7 @@
 {
   "symbol": "msot",
   "name": "BTour Chain",
-  "address": "0xe5eF42D0E5E4Aa6B36c613d00Db8dad303d505F3",
+  "address": "0xe5ef42d0e5e4aa6b36c613d00db8dad303d505f3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

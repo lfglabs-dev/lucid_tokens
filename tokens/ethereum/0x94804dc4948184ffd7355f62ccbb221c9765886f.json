@@ -1,7 +1,7 @@
 {
   "symbol": "rage",
   "name": "Rage.Fan",
-  "address": "0x94804dc4948184fFd7355f62Ccbb221c9765886F",
+  "address": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

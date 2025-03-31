@@ -1,7 +1,7 @@
 {
   "symbol": "toto",
   "name": "Tiamonds",
-  "address": "0xC214A0B73Ce4c30594B4173219e885691254801b",
+  "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

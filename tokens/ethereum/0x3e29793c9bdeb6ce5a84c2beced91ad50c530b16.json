@@ -1,7 +1,7 @@
 {
   "symbol": "zoom",
   "name": "ChainZoom",
-  "address": "0x3E29793C9BdEB6ce5A84C2BEceD91AD50c530b16",
+  "address": "0x3e29793c9bdeb6ce5a84c2beced91ad50c530b16",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

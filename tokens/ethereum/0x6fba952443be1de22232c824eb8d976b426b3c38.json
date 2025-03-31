@@ -1,7 +1,7 @@
 {
   "symbol": "kochi",
   "name": "Kochi Ken ETH",
-  "address": "0x6FbA952443be1de22232c824eb8D976B426B3C38",
+  "address": "0x6fba952443be1de22232c824eb8d976b426b3c38",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

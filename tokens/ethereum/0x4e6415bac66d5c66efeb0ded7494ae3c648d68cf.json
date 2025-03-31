@@ -1,7 +1,7 @@
 {
   "symbol": "ree",
   "name": "REECOIN",
-  "address": "0x4E6415baC66d5C66eFEB0ded7494ae3c648d68cf",
+  "address": "0x4e6415bac66d5c66efeb0ded7494ae3c648d68cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

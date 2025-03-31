@@ -1,7 +1,7 @@
 {
   "symbol": "early",
   "name": "EarlyFans",
-  "address": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
+  "address": "0x7135b32e9903bdb4e19a8b1d22fc2038964b8451",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

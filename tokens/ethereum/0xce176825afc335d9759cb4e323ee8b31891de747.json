@@ -1,7 +1,7 @@
 {
   "symbol": "chwy",
   "name": "CHWY",
-  "address": "0xCE176825AFC335d9759cB4e323eE8b31891DE747",
+  "address": "0xce176825afc335d9759cb4e323ee8b31891de747",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

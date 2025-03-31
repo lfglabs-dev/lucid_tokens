@@ -1,7 +1,7 @@
 {
   "symbol": "jack",
   "name": "Blackjack.fun",
-  "address": "0xf434908dCf8206691bb99cae9232d4833ec257D4",
+  "address": "0xf434908dcf8206691bb99cae9232d4833ec257d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

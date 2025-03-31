@@ -1,7 +1,7 @@
 {
   "symbol": "vista",
   "name": "Ethervista",
-  "address": "0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf",
+  "address": "0xc9bca88b04581699fab5aa276ccaff7df957cbbf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

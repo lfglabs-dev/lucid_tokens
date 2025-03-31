@@ -1,7 +1,7 @@
 {
   "symbol": "aurabal",
   "name": "Aura BAL",
-  "address": "0x616e8BfA43F920657B3497DBf40D6b1A02D4608d",
+  "address": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

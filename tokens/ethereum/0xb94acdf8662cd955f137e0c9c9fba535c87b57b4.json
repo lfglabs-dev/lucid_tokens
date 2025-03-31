@@ -1,7 +1,7 @@
 {
   "symbol": "lisa",
   "name": "Mona Token",
-  "address": "0xB94AcDF8662CD955F137E0C9c9fbA535c87b57B4",
+  "address": "0xb94acdf8662cd955f137e0c9c9fba535c87b57b4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dgtx",
   "name": "Digitex",
-  "address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
+  "address": "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

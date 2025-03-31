@@ -1,7 +1,7 @@
 {
   "symbol": "stos",
   "name": "Stratos",
-  "address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
+  "address": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc",
-    "osmosis": "ibc/ABD49F44559CB3E557CC458459CB6A67CEBD66E23C7674A0B2B445230BDA1F6C"
+    "ethereum": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc"
   }
 }

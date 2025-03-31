@@ -1,7 +1,7 @@
 {
   "symbol": "wbcoin",
   "name": "Wrapped Backed Coinbase Global",
-  "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+  "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

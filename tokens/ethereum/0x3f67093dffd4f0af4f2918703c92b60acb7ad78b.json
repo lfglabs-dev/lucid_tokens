@@ -1,7 +1,7 @@
 {
   "symbol": "21btc",
   "name": "21.co Wrapped BTC",
-  "address": "0x3f67093dfFD4F0aF4f2918703C92B60ACB7AD78b",
+  "address": "0x3f67093dffd4f0af4f2918703c92b60acb7ad78b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "21BTCo9hWHjGYYUQQLqjLgDBxjcn8vDt4Zic7TB3UbNE",
     "ethereum": "0x3f67093dffd4f0af4f2918703c92b60acb7ad78b"
   }
 }

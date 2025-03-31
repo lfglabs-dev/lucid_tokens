@@ -1,7 +1,7 @@
 {
   "symbol": "idlesusdyield",
   "name": "IdleSUSD (Yield)",
-  "address": "0xF52CDcD458bf455aeD77751743180eC4A595Fd3F",
+  "address": "0xf52cdcd458bf455aed77751743180ec4a595fd3f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

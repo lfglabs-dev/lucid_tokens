@@ -1,7 +1,7 @@
 {
   "symbol": "avg",
   "name": "Avocado DAO",
-  "address": "0xa41F142b6eb2b164f8164CAE0716892Ce02f311f",
+  "address": "0xa41f142b6eb2b164f8164cae0716892ce02f311f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

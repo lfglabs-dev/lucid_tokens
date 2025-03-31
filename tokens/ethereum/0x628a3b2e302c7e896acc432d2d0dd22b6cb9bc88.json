@@ -1,7 +1,7 @@
 {
   "symbol": "lmwr",
   "name": "LimeWire",
-  "address": "0x628A3b2E302C7e896AcC432D2d0dD22B6cb9bc88",
+  "address": "0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

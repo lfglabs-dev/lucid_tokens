@@ -1,7 +1,7 @@
 {
   "symbol": "steak",
   "name": "Steak",
-  "address": "0xC4c244F1dbCA07083feE35220D2169957c275e68",
+  "address": "0xc4c244f1dbca07083fee35220d2169957c275e68",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

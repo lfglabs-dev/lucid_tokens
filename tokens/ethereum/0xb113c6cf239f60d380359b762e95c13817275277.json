@@ -1,7 +1,7 @@
 {
   "symbol": "bmex",
   "name": "BitMEX",
-  "address": "0xB113c6CF239F60D380359b762E95C13817275277",
+  "address": "0xb113c6cf239f60d380359b762e95c13817275277",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

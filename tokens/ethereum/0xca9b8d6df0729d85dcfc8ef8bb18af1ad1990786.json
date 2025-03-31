@@ -1,7 +1,7 @@
 {
   "symbol": "catboy",
   "name": "Catboy",
-  "address": "0xcA9b8D6df0729D85DCfc8eF8Bb18af1aD1990786",
+  "address": "0xca9b8d6df0729d85dcfc8ef8bb18af1ad1990786",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

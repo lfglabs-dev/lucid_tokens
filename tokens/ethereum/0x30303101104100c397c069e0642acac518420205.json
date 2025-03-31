@@ -1,7 +1,7 @@
 {
   "symbol": "pc",
   "name": "Playable Coin",
-  "address": "0x30303101104100C397C069E0642ACaC518420205",
+  "address": "0x30303101104100c397c069e0642acac518420205",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

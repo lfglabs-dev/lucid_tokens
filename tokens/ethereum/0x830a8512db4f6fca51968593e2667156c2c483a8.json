@@ -1,7 +1,7 @@
 {
   "symbol": "wen",
   "name": "WEN Token",
-  "address": "0x830a8512db4F6fCA51968593E2667156C2c483A8",
+  "address": "0x830a8512db4f6fca51968593e2667156c2c483a8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

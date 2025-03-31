@@ -1,7 +1,7 @@
 {
   "symbol": "crypt",
   "name": "Cryptify",
-  "address": "0x5F8b6827Ec4C0De4787E19C30D9EDA1e264a7858",
+  "address": "0x5f8b6827ec4c0de4787e19c30d9eda1e264a7858",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

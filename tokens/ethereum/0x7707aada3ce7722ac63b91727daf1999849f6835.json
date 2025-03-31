@@ -1,7 +1,7 @@
 {
   "symbol": "bnk",
   "name": "Bankera",
-  "address": "0x7707aAdA3Ce7722Ac63B91727DAF1999849F6835",
+  "address": "0x7707aada3ce7722ac63b91727daf1999849f6835",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

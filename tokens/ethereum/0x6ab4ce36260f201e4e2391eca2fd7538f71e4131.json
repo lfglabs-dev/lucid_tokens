@@ -1,7 +1,7 @@
 {
   "symbol": "ai",
   "name": "Flourishing AI",
-  "address": "0x6aB4CE36260F201e4E2391Eca2FD7538f71e4131",
+  "address": "0x6ab4ce36260f201e4e2391eca2fd7538f71e4131",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

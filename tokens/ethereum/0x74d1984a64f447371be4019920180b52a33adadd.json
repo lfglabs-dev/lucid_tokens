@@ -1,7 +1,7 @@
 {
   "symbol": "inslisbnb",
   "name": "Inception Restaked slisBNB",
-  "address": "0x74D1984A64F447371Be4019920180b52A33aDAdD",
+  "address": "0x74d1984a64f447371be4019920180b52a33adadd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

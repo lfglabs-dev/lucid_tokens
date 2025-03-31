@@ -1,7 +1,7 @@
 {
   "symbol": "wmpc",
   "name": "Wrapped MPC",
-  "address": "0x36a0e44c73E5A6A7727817377c0127f320a9456E",
+  "address": "0x36a0e44c73e5a6a7727817377c0127f320a9456e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "nly.d",
   "name": "Dinari NLY",
-  "address": "0x2CAD08360009226261ab4d32684aacDbBeC3F8dA",
+  "address": "0x2cad08360009226261ab4d32684aacdbbec3f8da",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

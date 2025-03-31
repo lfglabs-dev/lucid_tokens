@@ -1,7 +1,7 @@
 {
   "symbol": "lake",
   "name": "Data Lake",
-  "address": "0xF9Ca9523E5b5A42C3018C62B084Db8543478C400",
+  "address": "0xf9ca9523e5b5a42c3018c62b084db8543478c400",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

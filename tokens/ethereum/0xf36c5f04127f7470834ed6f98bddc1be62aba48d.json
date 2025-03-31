@@ -1,7 +1,7 @@
 {
   "symbol": "cai",
   "name": "CryptoAI",
-  "address": "0xf36C5f04127F7470834ed6f98bDDC1BE62aba48D",
+  "address": "0xf36c5f04127f7470834ed6f98bddc1be62aba48d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

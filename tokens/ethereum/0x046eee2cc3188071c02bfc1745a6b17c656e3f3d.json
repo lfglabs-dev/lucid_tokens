@@ -1,7 +1,7 @@
 {
   "symbol": "rlb",
   "name": "Rollbit Coin",
-  "address": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
+  "address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

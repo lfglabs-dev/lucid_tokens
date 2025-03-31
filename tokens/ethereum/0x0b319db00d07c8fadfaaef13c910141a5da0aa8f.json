@@ -1,7 +1,7 @@
 {
   "symbol": "ftusd",
   "name": "Fluid TUSD",
-  "address": "0x0B319dB00d07C8fAdfaAEf13C910141a5dA0aa8F",
+  "address": "0x0b319db00d07c8fadfaaef13c910141a5da0aa8f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

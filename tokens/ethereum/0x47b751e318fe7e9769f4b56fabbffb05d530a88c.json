@@ -1,7 +1,7 @@
 {
   "symbol": "pmw",
   "name": "Photon Milky Way",
-  "address": "0x47b751e318Fe7E9769F4b56fABBffB05D530A88C",
+  "address": "0x47b751e318fe7e9769f4b56fabbffb05d530a88c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

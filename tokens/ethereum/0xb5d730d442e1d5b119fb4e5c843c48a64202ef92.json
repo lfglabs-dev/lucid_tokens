@@ -1,7 +1,7 @@
 {
   "symbol": "sabai",
   "name": "Sabai Protocol",
-  "address": "0xb5d730D442e1D5B119Fb4E5c843c48a64202ef92",
+  "address": "0xb5d730d442e1d5b119fb4e5c843c48a64202ef92",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

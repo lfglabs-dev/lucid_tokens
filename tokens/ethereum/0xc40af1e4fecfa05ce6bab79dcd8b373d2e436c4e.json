@@ -1,7 +1,7 @@
 {
   "symbol": "$hokk",
   "name": "Hokkaidu Inu",
-  "address": "0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E",
+  "address": "0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

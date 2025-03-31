@@ -1,7 +1,7 @@
 {
   "symbol": "patex",
   "name": "Patex",
-  "address": "0xFD4f2Caf941B6d737382DCe420b368DE3FC7f2D4",
+  "address": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

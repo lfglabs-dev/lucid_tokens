@@ -1,7 +1,7 @@
 {
   "symbol": "ele",
   "name": "EigenElephant",
-  "address": "0xE1E1E2dd585C0B10995C4Ef292aa9a0795f95811",
+  "address": "0xe1e1e2dd585c0b10995c4ef292aa9a0795f95811",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "uds",
   "name": "Undeads Games",
-  "address": "0x712bd4Beb54C6B958267d9dB0259abdBb0BFF606",
+  "address": "0x712bd4beb54c6b958267d9db0259abdbb0bff606",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

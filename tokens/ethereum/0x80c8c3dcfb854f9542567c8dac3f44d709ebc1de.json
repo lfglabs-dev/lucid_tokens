@@ -1,7 +1,7 @@
 {
   "symbol": "milk2",
   "name": "Spaceswap MILK2",
-  "address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
+  "address": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

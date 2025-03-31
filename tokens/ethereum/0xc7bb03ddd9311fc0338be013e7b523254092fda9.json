@@ -1,7 +1,7 @@
 {
   "symbol": "n",
   "name": "nsurance",
-  "address": "0xc7bb03ddD9311fc0338bE013E7B523254092Fda9",
+  "address": "0xc7bb03ddd9311fc0338be013e7b523254092fda9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

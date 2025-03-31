@@ -1,7 +1,7 @@
 {
   "symbol": "tkai",
   "name": "TAIKAI",
-  "address": "0x7C5b267ED81009aa7374B5CA7E5137Da47045bA8",
+  "address": "0x7c5b267ed81009aa7374b5ca7e5137da47045ba8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

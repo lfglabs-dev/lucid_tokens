@@ -1,7 +1,7 @@
 {
   "symbol": "lyfe",
   "name": "Lyfe",
-  "address": "0xd87de4cCef2c2FE651bc4d130cb1A365248f21fA",
+  "address": "0xd87de4ccef2c2fe651bc4d130cb1a365248f21fa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

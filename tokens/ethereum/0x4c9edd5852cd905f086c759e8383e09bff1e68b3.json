@@ -1,7 +1,7 @@
 {
   "symbol": "usde",
   "name": "Ethena USDe",
-  "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+  "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
-    "solana": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT"
+    "ethereum": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
   }
 }

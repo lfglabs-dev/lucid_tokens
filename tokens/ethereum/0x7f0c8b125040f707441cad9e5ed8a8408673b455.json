@@ -1,7 +1,7 @@
 {
   "symbol": "nebo",
   "name": "Kinetic Kollective",
-  "address": "0x7f0c8B125040f707441cad9e5eD8a8408673b455",
+  "address": "0x7f0c8b125040f707441cad9e5ed8a8408673b455",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

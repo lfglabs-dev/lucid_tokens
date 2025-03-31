@@ -1,7 +1,7 @@
 {
   "symbol": "lan",
   "name": "Lanify",
-  "address": "0xc01b1979e2244Dc94e67891df0Af4F7885e57fD4",
+  "address": "0xc01b1979e2244dc94e67891df0af4f7885e57fd4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cah",
   "name": "Moon Tropica",
-  "address": "0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A",
+  "address": "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "frog",
   "name": "FrogSwap",
-  "address": "0x4fEe21439F2b95b72da2F9f901b3956f27fE91D5",
+  "address": "0x4fee21439f2b95b72da2f9f901b3956f27fe91d5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

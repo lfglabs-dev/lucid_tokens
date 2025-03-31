@@ -1,7 +1,7 @@
 {
   "symbol": "epoch",
   "name": "Epoch Island",
-  "address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
+  "address": "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

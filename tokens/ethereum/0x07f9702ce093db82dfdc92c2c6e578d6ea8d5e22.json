@@ -1,7 +1,7 @@
 {
   "symbol": "obt",
   "name": "Oobit",
-  "address": "0x07F9702ce093db82dfdC92c2C6E578d6EA8D5E22",
+  "address": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

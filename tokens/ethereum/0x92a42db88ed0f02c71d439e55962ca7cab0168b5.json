@@ -1,7 +1,7 @@
 {
   "symbol": "trdg",
   "name": "TRDGtoken",
-  "address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+  "address": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

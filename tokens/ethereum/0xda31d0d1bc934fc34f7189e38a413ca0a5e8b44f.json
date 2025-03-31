@@ -1,7 +1,7 @@
 {
   "symbol": "$bssb",
   "name": "BitStable Finance",
-  "address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+  "address": "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

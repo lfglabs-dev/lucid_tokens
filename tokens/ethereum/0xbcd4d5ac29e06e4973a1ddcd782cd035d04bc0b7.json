@@ -1,7 +1,7 @@
 {
   "symbol": "qkntl",
   "name": "Quick Intel",
-  "address": "0xbcd4D5AC29E06e4973a1dDcd782cd035d04BC0b7",
+  "address": "0xbcd4d5ac29e06e4973a1ddcd782cd035d04bc0b7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

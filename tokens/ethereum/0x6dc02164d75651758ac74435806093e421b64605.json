@@ -1,7 +1,7 @@
 {
   "symbol": "wchi",
   "name": "XAYA",
-  "address": "0x6DC02164d75651758aC74435806093E421b64605",
+  "address": "0x6dc02164d75651758ac74435806093e421b64605",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

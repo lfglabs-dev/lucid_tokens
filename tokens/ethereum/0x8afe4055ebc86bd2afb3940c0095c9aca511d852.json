@@ -1,7 +1,7 @@
 {
   "symbol": "aius",
   "name": "Arbius",
-  "address": "0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852",
+  "address": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

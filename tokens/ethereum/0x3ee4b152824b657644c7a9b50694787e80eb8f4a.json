@@ -1,7 +1,7 @@
 {
   "symbol": "bazed",
   "name": "Bazed Games",
-  "address": "0x3eE4B152824b657644c7A9B50694787e80EB8F4a",
+  "address": "0x3ee4b152824b657644c7a9b50694787e80eb8f4a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tail",
   "name": "Tail",
-  "address": "0xFeeeef4D7b4Bf3cc8BD012D02D32Ba5fD3D51e31",
+  "address": "0xfeeeef4d7b4bf3cc8bd012d02d32ba5fd3d51e31",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

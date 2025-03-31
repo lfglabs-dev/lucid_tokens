@@ -1,7 +1,7 @@
 {
   "symbol": "shib0.5",
   "name": "Half Shiba Inu",
-  "address": "0x8Eb94A06b4716093DBfE335cbdb098DEb2dcdE1b",
+  "address": "0x8eb94a06b4716093dbfe335cbdb098deb2dcde1b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "sexy",
   "name": "Settled EthXY Token",
-  "address": "0xc52FaFDc900cB92Ae01E6E4F8979aF7f436e2EB2",
+  "address": "0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

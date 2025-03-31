@@ -1,7 +1,7 @@
 {
   "symbol": "ncdt",
   "name": "nuco.cloud",
-  "address": "0xE0C8b298db4cfFE05d1bEA0bb1BA414522B33C1B",
+  "address": "0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

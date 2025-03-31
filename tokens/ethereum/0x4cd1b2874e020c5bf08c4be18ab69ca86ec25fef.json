@@ -1,7 +1,7 @@
 {
   "symbol": "cryorat",
   "name": "CRYORAT",
-  "address": "0x4cd1B2874e020C5bf08c4bE18Ab69ca86EC25fEf",
+  "address": "0x4cd1b2874e020c5bf08c4be18ab69ca86ec25fef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

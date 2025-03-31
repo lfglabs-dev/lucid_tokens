@@ -1,7 +1,7 @@
 {
   "symbol": "dog",
   "name": "dog",
-  "address": "0x162bb2Bb5FB03976a69dD25bB9afcE6140dB1433",
+  "address": "0x162bb2bb5fb03976a69dd25bb9afce6140db1433",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

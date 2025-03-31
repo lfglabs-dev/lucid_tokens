@@ -1,7 +1,7 @@
 {
   "symbol": "husd",
   "name": "HUSD",
-  "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
+  "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
     "huobi-token": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
-    "sora": "0x008ba21aa988b21e86d5b25ed9ea690d28a6ba6c5ba9037424c215fd5b193c32",
     "elastos": "0xf9ca2ea3b1024c0db31adb224b407441becc18bb",
     "cube": "0x9db853f46dd7d541d0fba1c8b6b7e7b1d8ff58d3"
   }

@@ -1,7 +1,7 @@
 {
   "symbol": "owct",
   "name": "One World Chain",
-  "address": "0xbC68Ff3b062bc588603D71EC8d4273391EdF152c",
+  "address": "0xbc68ff3b062bc588603d71ec8d4273391edf152c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dub",
   "name": "DUBX",
-  "address": "0x75CE16D11B83605aa039D40d7d846ff23064Fb65",
+  "address": "0x75ce16d11b83605aa039d40d7d846ff23064fb65",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

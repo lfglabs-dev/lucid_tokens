@@ -1,7 +1,7 @@
 {
   "symbol": "grok",
   "name": "First GROK AI",
-  "address": "0x0ee27a1f959Ea7EA2aA171A7e2E48FD9f17BB8EB",
+  "address": "0x0ee27a1f959ea7ea2aa171a7e2e48fd9f17bb8eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pausd",
   "name": "Parallel USD",
-  "address": "0x571f54D23cDf2211C83E9A0CbD92AcA36c48Fa02",
+  "address": "0x571f54d23cdf2211c83e9a0cbd92aca36c48fa02",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

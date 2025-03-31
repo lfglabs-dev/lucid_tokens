@@ -1,7 +1,7 @@
 {
   "symbol": "zoot",
   "name": "Zoo",
-  "address": "0x1341A2257fa7b770420Ef70616f888056f90926c",
+  "address": "0x1341a2257fa7b770420ef70616f888056f90926c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

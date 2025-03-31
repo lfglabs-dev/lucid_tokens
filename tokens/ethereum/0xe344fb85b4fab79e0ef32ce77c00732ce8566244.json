@@ -1,7 +1,7 @@
 {
   "symbol": "film",
   "name": "Gala Film",
-  "address": "0xe344Fb85b4FAb79e0ef32cE77c00732CE8566244",
+  "address": "0xe344fb85b4fab79e0ef32ce77c00732ce8566244",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

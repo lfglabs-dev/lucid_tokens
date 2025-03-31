@@ -1,7 +1,7 @@
 {
   "symbol": "pkf",
   "name": "Red Kite",
-  "address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
+  "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

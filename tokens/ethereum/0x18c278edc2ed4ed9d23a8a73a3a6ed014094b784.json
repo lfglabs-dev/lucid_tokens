@@ -1,7 +1,7 @@
 {
   "symbol": "btcw.d",
   "name": "Dinari BTCW",
-  "address": "0x18c278Edc2ED4ed9D23A8A73A3a6eD014094B784",
+  "address": "0x18c278edc2ed4ed9d23a8a73a3a6ed014094b784",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

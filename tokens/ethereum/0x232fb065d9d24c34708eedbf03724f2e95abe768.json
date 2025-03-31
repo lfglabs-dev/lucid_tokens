@@ -1,7 +1,7 @@
 {
   "symbol": "sheesha",
   "name": "Sheesha Finance (ERC20)",
-  "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+  "address": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

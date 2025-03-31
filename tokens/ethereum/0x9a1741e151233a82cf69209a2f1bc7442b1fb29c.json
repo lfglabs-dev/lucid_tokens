@@ -1,7 +1,7 @@
 {
   "symbol": "dgi",
   "name": "DeFi Growth Index",
-  "address": "0x9a1741E151233a82Cf69209A2F1bC7442B1fB29C",
+  "address": "0x9a1741e151233a82cf69209a2f1bc7442b1fb29c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

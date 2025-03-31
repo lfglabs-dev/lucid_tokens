@@ -1,7 +1,7 @@
 {
   "symbol": "czar",
   "name": "Crypto Czar",
-  "address": "0xC539f8e194569b3DB935d70Fa2E7cadD7DAd7F35",
+  "address": "0xc539f8e194569b3db935d70fa2e7cadd7dad7f35",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

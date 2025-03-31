@@ -1,7 +1,7 @@
 {
   "symbol": "saito",
   "name": "Saito",
-  "address": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
+  "address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

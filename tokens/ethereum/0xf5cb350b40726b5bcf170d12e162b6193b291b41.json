@@ -1,7 +1,7 @@
 {
   "symbol": "bis",
   "name": "Bismuth",
-  "address": "0xf5cB350b40726B5BcF170d12e162B6193b291B41",
+  "address": "0xf5cb350b40726b5bcf170d12e162b6193b291b41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

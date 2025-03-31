@@ -1,7 +1,7 @@
 {
   "symbol": "aweth",
   "name": "Alpha WETH Vault",
-  "address": "0x47fe8Ab9eE47DD65c24df52324181790b9F47EfC",
+  "address": "0x47fe8ab9ee47dd65c24df52324181790b9f47efc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

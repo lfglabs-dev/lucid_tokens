@@ -1,7 +1,7 @@
 {
   "symbol": "lblock",
   "name": "Lucky Block",
-  "address": "0x2b867efD2dE4Ad2B583Ca0CB3dF9C4040Ef4D329",
+  "address": "0x2b867efd2de4ad2b583ca0cb3df9c4040ef4d329",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

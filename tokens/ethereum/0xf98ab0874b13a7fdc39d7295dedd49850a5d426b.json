@@ -1,7 +1,7 @@
 {
   "symbol": "kira",
   "name": "KIRA",
-  "address": "0xf98AB0874b13a7Fdc39D7295DEdd49850A5D426B",
+  "address": "0xf98ab0874b13a7fdc39d7295dedd49850a5d426b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

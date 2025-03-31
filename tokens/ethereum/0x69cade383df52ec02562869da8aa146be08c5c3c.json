@@ -1,7 +1,7 @@
 {
   "symbol": "vtrading",
   "name": "Vtrading",
-  "address": "0x69CadE383dF52ec02562869Da8Aa146Be08c5c3c",
+  "address": "0x69cade383df52ec02562869da8aa146be08c5c3c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

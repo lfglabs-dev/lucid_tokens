@@ -1,7 +1,7 @@
 {
   "symbol": "tsa",
   "name": "TensorScan AI",
-  "address": "0xf02c2dC9b3cB7F1ba21CCd82dFf4ebC92da8996F",
+  "address": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

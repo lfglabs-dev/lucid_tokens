@@ -1,7 +1,7 @@
 {
   "symbol": "xmw",
   "name": "Morphware",
-  "address": "0x391cF4b21F557c935C7f670218Ef42C21bd8d686",
+  "address": "0x391cf4b21f557c935c7f670218ef42c21bd8d686",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

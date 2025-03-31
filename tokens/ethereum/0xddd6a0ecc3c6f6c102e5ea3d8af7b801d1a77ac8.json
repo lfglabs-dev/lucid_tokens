@@ -1,7 +1,7 @@
 {
   "symbol": "unix",
   "name": "UniX",
-  "address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+  "address": "0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

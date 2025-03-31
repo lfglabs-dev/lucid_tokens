@@ -1,7 +1,7 @@
 {
   "symbol": "fmt",
   "name": "Finminity",
-  "address": "0x99c6e435eC259A7E8d65E1955C9423DB624bA54C",
+  "address": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

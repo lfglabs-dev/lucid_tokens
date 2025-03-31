@@ -1,7 +1,7 @@
 {
   "symbol": "spc",
   "name": "SpaceChain (ERC-20)",
-  "address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
+  "address": "0x86ed939b500e121c0c5f493f399084db596dad20",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

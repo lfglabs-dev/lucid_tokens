@@ -1,7 +1,7 @@
 {
   "symbol": "moox",
   "name": "MOOxMOO",
-  "address": "0x77EbCf0659BBf4e68d8ce6D84bb25c5CdE207b97",
+  "address": "0x77ebcf0659bbf4e68d8ce6d84bb25c5cde207b97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pepetr",
   "name": "Pepe Treasure",
-  "address": "0xfFb032d971469fd358f11a4192c4e0b852DF5190",
+  "address": "0xffb032d971469fd358f11a4192c4e0b852df5190",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

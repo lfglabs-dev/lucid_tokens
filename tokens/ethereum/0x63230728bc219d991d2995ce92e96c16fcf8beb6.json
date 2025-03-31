@@ -1,7 +1,7 @@
 {
   "symbol": "kct",
   "name": "Konnect",
-  "address": "0x63230728bc219d991D2995ce92E96C16Fcf8beB6",
+  "address": "0x63230728bc219d991d2995ce92e96c16fcf8beb6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

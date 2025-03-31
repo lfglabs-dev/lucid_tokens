@@ -1,7 +1,7 @@
 {
   "symbol": "rwb",
   "name": "RawBlock",
-  "address": "0xF614E54D972bAb297172765Ca83683288f3eae36",
+  "address": "0xf614e54d972bab297172765ca83683288f3eae36",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

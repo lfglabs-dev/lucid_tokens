@@ -1,7 +1,7 @@
 {
   "symbol": "dia",
   "name": "DIA",
-  "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+  "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
-    "sora": "0x001f7a13792061236adfc93fa3aa8bad1dc8a8e8f889432b3d8d416b986f2c43",
     "binance-smart-chain": "0x99956d38059cf7beda96ec91aa7bb2477e0901dd"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "deci",
   "name": "Maximus DECI",
-  "address": "0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6",
+  "address": "0x6b32022693210cd2cfc466b9ac0085de8fc34ea6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

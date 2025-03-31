@@ -1,7 +1,7 @@
 {
   "symbol": "tera",
   "name": "Terareum [OLD]",
-  "address": "0x009668A9691e456972c8ec4Cc84e99486308b84D",
+  "address": "0x009668a9691e456972c8ec4cc84e99486308b84d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

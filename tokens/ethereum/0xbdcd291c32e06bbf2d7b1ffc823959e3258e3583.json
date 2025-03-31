@@ -1,7 +1,7 @@
 {
   "symbol": "wasd",
   "name": "WASD Studios",
-  "address": "0xbDcD291C32e06bBf2d7B1fFc823959E3258E3583",
+  "address": "0xbdcd291c32e06bbf2d7b1ffc823959e3258e3583",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "hmq",
   "name": "Humaniq",
-  "address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
+  "address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

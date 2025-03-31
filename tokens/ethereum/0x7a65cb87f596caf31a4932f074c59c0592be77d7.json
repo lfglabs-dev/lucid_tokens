@@ -1,7 +1,7 @@
 {
   "symbol": "zypto",
   "name": "Zypto Token",
-  "address": "0x7A65CB87F596Caf31a4932f074c59c0592bE77D7",
+  "address": "0x7a65cb87f596caf31a4932f074c59c0592be77d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

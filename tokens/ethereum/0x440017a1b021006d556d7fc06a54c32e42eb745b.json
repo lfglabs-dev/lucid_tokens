@@ -1,7 +1,7 @@
 {
   "symbol": "@g",
   "name": "Graphite Network",
-  "address": "0x440017A1b021006d556d7fc06A54c32E42Eb745B",
+  "address": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

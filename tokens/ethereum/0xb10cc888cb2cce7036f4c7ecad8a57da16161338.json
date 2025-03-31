@@ -1,7 +1,7 @@
 {
   "symbol": "switch",
   "name": "Switch Token",
-  "address": "0xb10cc888cB2CcE7036F4c7ECAd8a57Da16161338",
+  "address": "0xb10cc888cb2cce7036f4c7ecad8a57da16161338",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pano",
   "name": "PanoVerse",
-  "address": "0x3850952491606A0E420Eb929B1a2E1A450d013F1",
+  "address": "0x3850952491606a0e420eb929b1a2e1a450d013f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

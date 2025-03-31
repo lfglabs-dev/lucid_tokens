@@ -1,7 +1,7 @@
 {
   "symbol": "sandy",
   "name": "SANDY",
-  "address": "0xc033f6932f71c6ff1DE3177F90dfF24B70E50618",
+  "address": "0xc033f6932f71c6ff1de3177f90dff24b70e50618",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

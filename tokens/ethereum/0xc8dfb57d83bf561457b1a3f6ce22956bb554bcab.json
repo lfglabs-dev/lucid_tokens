@@ -1,7 +1,7 @@
 {
   "symbol": "trdm",
   "name": "TradeMaster.ninja",
-  "address": "0xc8DFb57d83bF561457b1A3f6CE22956BB554bCab",
+  "address": "0xc8dfb57d83bf561457b1a3f6ce22956bb554bcab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

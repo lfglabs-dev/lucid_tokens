@@ -1,7 +1,7 @@
 {
   "symbol": "amkr",
   "name": "Aave MKR v1",
-  "address": "0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
+  "address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

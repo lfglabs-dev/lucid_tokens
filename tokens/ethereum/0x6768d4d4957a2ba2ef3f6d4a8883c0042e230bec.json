@@ -1,7 +1,7 @@
 {
   "symbol": "mf",
   "name": "MonkeyFi",
-  "address": "0x6768d4D4957A2Ba2EF3f6D4a8883c0042e230BEC",
+  "address": "0x6768d4d4957a2ba2ef3f6d4a8883c0042e230bec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

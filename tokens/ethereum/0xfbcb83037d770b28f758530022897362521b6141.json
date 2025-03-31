@@ -1,7 +1,7 @@
 {
   "symbol": "byb",
   "name": "BiorBank",
-  "address": "0xfbcb83037d770b28F758530022897362521b6141",
+  "address": "0xfbcb83037d770b28f758530022897362521b6141",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

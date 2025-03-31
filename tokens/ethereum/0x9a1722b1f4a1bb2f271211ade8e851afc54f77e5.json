@@ -1,7 +1,7 @@
 {
   "symbol": "methx",
   "name": "Eigenpie ETHx",
-  "address": "0x9a1722b1f4A1BB2F271211ade8e851aFc54F77E5",
+  "address": "0x9a1722b1f4a1bb2f271211ade8e851afc54f77e5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

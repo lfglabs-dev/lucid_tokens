@@ -1,7 +1,7 @@
 {
   "symbol": "gs",
   "name": "Genesis Shards",
-  "address": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
+  "address": "0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

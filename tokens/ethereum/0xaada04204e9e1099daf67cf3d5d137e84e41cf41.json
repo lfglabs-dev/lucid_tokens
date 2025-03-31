@@ -1,7 +1,7 @@
 {
   "symbol": "peepo",
   "name": "Peepo",
-  "address": "0xaADA04204e9e1099DaF67cf3D5D137E84E41CF41",
+  "address": "0xaada04204e9e1099daf67cf3d5d137e84e41cf41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

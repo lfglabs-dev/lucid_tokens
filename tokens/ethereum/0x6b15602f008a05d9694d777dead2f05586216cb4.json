@@ -1,7 +1,7 @@
 {
   "symbol": "cyg",
   "name": "Cyclix Games",
-  "address": "0x6b15602f008a05D9694D777dEaD2F05586216cB4",
+  "address": "0x6b15602f008a05d9694d777dead2f05586216cb4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

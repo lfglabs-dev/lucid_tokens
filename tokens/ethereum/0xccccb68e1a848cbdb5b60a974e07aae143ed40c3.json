@@ -1,7 +1,7 @@
 {
   "symbol": "topia",
   "name": "TOPIA",
-  "address": "0xcccCb68e1A848CBDB5b60a974E07aAE143ed40C3",
+  "address": "0xccccb68e1a848cbdb5b60a974e07aae143ed40c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

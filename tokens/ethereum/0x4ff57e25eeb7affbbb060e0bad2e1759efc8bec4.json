@@ -1,7 +1,7 @@
 {
   "symbol": "blocx",
   "name": "BLOCX.",
-  "address": "0x4Ff57e25eeB7AFfbBB060e0BAd2E1759eFc8BeC4",
+  "address": "0x4ff57e25eeb7affbbb060e0bad2e1759efc8bec4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

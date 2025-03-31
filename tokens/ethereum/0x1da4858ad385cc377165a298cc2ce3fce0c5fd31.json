@@ -1,7 +1,7 @@
 {
   "symbol": "ccs",
   "name": "CloutContracts",
-  "address": "0x1da4858ad385cc377165A298CC2CE3fce0C5fD31",
+  "address": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

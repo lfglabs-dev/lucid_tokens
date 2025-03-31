@@ -1,7 +1,7 @@
 {
   "symbol": "iro",
   "name": "Iro-Chan",
-  "address": "0xba2Ae4e0a9c6ECaF172015Aa2cdd70a21F5A290B",
+  "address": "0xba2ae4e0a9c6ecaf172015aa2cdd70a21f5a290b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

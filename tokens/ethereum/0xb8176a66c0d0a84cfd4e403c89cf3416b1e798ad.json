@@ -1,7 +1,7 @@
 {
   "symbol": "bitbedr",
   "name": "BITBEDR",
-  "address": "0xb8176a66c0d0A84cfD4e403c89cF3416b1e798Ad",
+  "address": "0xb8176a66c0d0a84cfd4e403c89cf3416b1e798ad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

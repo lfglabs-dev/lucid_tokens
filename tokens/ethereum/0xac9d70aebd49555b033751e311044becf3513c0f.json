@@ -1,7 +1,7 @@
 {
   "symbol": "mtk",
   "name": "Moonland Metaverse Token",
-  "address": "0xAC9D70aebd49555b033751E311044BECF3513c0f",
+  "address": "0xac9d70aebd49555b033751e311044becf3513c0f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wizard",
   "name": "WIZARD Vault (NFTX)",
-  "address": "0x87931E7AD81914e7898d07c68F145fC0A553D8Fb",
+  "address": "0x87931e7ad81914e7898d07c68f145fc0a553d8fb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

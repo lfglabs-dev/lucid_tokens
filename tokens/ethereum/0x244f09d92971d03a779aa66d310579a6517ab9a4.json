@@ -1,7 +1,7 @@
 {
   "symbol": "harambe",
   "name": "CTO Harambe",
-  "address": "0x244f09d92971D03A779aA66d310579A6517AB9A4",
+  "address": "0x244f09d92971d03a779aa66d310579a6517ab9a4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

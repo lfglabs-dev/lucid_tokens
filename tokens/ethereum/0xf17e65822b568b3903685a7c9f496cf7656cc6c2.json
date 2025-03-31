@@ -1,7 +1,7 @@
 {
   "symbol": "bico",
   "name": "Biconomy",
-  "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
+  "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

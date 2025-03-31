@@ -1,7 +1,7 @@
 {
   "symbol": "kalis",
   "name": "Kalichain",
-  "address": "0x9802296cC5B76FF2FC6DD6De372f47F96bC0347a",
+  "address": "0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a",
-    "solana": "6esFN1wc1apB3QRqPeivYsFZJ96QsRSjUcy3zXqt5chN"
+    "ethereum": "0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a"
   }
 }

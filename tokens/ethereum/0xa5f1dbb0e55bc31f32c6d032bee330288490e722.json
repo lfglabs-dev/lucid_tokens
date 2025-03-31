@@ -1,7 +1,7 @@
 {
   "symbol": "dbd",
   "name": "Day By Day",
-  "address": "0xA5f1DbB0e55bc31f32c6d032BeE330288490e722",
+  "address": "0xa5f1dbb0e55bc31f32c6d032bee330288490e722",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

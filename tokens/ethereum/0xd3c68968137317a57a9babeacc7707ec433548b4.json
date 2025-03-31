@@ -1,7 +1,7 @@
 {
   "symbol": "social",
   "name": "Phavercoin",
-  "address": "0xD3C68968137317a57a9bAbeacC7707Ec433548B4",
+  "address": "0xd3c68968137317a57a9babeacc7707ec433548b4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bulei",
   "name": "Bulei",
-  "address": "0x069e4Aa272d17D9625aa3B6F863C7EF6CfB96713",
+  "address": "0x069e4aa272d17d9625aa3b6f863c7ef6cfb96713",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

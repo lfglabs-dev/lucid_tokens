@@ -1,7 +1,7 @@
 {
   "symbol": "xrp20",
   "name": "XRP20",
-  "address": "0xE4aB0bE415e277d82C38625B72BD7DeA232C2E7d",
+  "address": "0xe4ab0be415e277d82c38625b72bd7dea232c2e7d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cbk",
   "name": "Cobak",
-  "address": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+  "address": "0xd85a6ae55a7f33b0ee113c234d2ee308edeaf7fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

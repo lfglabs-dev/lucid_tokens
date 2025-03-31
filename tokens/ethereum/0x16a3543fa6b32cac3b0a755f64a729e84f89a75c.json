@@ -1,7 +1,7 @@
 {
   "symbol": "tensor",
   "name": "Wrapped Hypertensor",
-  "address": "0x16A3543Fa6B32CAC3B0A755f64A729E84f89a75C",
+  "address": "0x16a3543fa6b32cac3b0a755f64a729e84f89a75c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

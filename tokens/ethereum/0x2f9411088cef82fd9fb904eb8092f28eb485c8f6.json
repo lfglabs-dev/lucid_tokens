@@ -1,7 +1,7 @@
 {
   "symbol": "ath",
   "name": "Athens",
-  "address": "0x2F9411088cEF82Fd9fB904Eb8092f28eB485C8F6",
+  "address": "0x2f9411088cef82fd9fb904eb8092f28eb485c8f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "casinu",
   "name": "Casinu Inu",
-  "address": "0x1b54a6Fa1360BD71A0f28F77A1D6fBA215d498C3",
+  "address": "0x1b54a6fa1360bd71a0f28f77a1d6fba215d498c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

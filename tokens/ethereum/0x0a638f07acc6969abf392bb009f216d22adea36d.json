@@ -1,7 +1,7 @@
 {
   "symbol": "bkn",
   "name": "Brickken",
-  "address": "0x0A638F07ACc6969abF392bB009f216D22aDEa36d",
+  "address": "0x0a638f07acc6969abf392bb009f216d22adea36d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

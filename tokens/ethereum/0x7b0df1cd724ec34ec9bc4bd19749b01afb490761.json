@@ -1,7 +1,7 @@
 {
   "symbol": "koin",
   "name": "Kittekoin",
-  "address": "0x7b0DF1Cd724Ec34eC9Bc4Bd19749b01AfB490761",
+  "address": "0x7b0df1cd724ec34ec9bc4bd19749b01afb490761",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

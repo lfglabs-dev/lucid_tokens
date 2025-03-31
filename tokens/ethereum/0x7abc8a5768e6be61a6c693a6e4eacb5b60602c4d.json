@@ -1,7 +1,7 @@
 {
   "symbol": "cxt",
   "name": "Covalent X Token",
-  "address": "0x7ABc8A5768E6bE61A6c693a6e4EAcb5B60602C4D",
+  "address": "0x7abc8a5768e6be61a6c693a6e4eacb5b60602c4d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

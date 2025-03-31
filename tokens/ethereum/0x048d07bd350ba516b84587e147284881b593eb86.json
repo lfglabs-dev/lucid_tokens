@@ -1,7 +1,7 @@
 {
   "symbol": "synk",
   "name": "Synk",
-  "address": "0x048d07Bd350ba516b84587E147284881B593Eb86",
+  "address": "0x048d07bd350ba516b84587e147284881b593eb86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

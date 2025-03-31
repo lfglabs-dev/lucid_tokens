@@ -1,7 +1,7 @@
 {
   "symbol": "align",
   "name": "Aligned",
-  "address": "0x50614CC8e44F7814549c223aA31db9296e58057c",
+  "address": "0x50614cc8e44f7814549c223aa31db9296e58057c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

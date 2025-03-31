@@ -1,7 +1,7 @@
 {
   "symbol": "qdx",
   "name": "Quidax",
-  "address": "0x1780933e83B09371cf716f3630FE5a422a66A39e",
+  "address": "0x1780933e83b09371cf716f3630fe5a422a66a39e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

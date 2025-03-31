@@ -1,7 +1,7 @@
 {
   "symbol": "1art",
   "name": "OneArt",
-  "address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+  "address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

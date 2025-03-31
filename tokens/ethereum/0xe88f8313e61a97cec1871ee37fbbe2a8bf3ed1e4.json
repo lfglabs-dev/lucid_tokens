@@ -1,7 +1,7 @@
 {
   "symbol": "val",
   "name": "Sora Validator",
-  "address": "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4",
+  "address": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
-    "sora": "0x0200040000000000000000000000000000000000000000000000000000000000"
+    "ethereum": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4"
   }
 }

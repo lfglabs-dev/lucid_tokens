@@ -1,7 +1,7 @@
 {
   "symbol": "bf",
   "name": "Bitforex",
-  "address": "0x5b71BEE9D961b1B848f8485EEC8d8787f80217F5",
+  "address": "0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "punk",
   "name": "PunkCity",
-  "address": "0xaf6a1125D4cc55a4110dc63CD2Ff6e005AfB8676",
+  "address": "0xaf6a1125d4cc55a4110dc63cd2ff6e005afb8676",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "the-open-network": "EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq",
     "ethereum": "0xaf6a1125d4cc55a4110dc63cd2ff6e005afb8676"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "avrk",
   "name": "Avarik Saga",
-  "address": "0x607f451f850CB612a07b37b6315be23F55165610",
+  "address": "0x607f451f850cb612a07b37b6315be23f55165610",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

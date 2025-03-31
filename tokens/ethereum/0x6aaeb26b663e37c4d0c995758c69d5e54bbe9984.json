@@ -1,7 +1,7 @@
 {
   "symbol": "onai",
   "name": "Onchain AI",
-  "address": "0x6Aaeb26b663E37c4D0C995758c69d5e54bBE9984",
+  "address": "0x6aaeb26b663e37c4d0c995758c69d5e54bbe9984",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

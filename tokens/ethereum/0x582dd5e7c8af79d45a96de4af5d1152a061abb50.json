@@ -1,7 +1,7 @@
 {
   "symbol": "rizz",
   "name": "Rizz",
-  "address": "0x582dD5e7C8AF79d45a96dE4af5D1152a061aBb50",
+  "address": "0x582dd5e7c8af79d45a96de4af5d1152a061abb50",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x582dd5e7c8af79d45a96de4af5d1152a061abb50",
-    "base": "0x6ce7c23b917284e21d55cea20acaeb2bc58594be",
-    "solana": "F2WVwKFRPqE3gMKw22swL5DHgkbdwgEfvhKCoicygcWB"
+    "base": "0x6ce7c23b917284e21d55cea20acaeb2bc58594be"
   }
 }

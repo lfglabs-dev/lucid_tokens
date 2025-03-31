@@ -1,7 +1,7 @@
 {
   "symbol": "gmeme",
   "name": "GoodMeme",
-  "address": "0x238CEFec182679C27a3035713416fA0a8198B302",
+  "address": "0x238cefec182679c27a3035713416fa0a8198b302",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

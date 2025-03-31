@@ -1,7 +1,7 @@
 {
   "symbol": "swat",
   "name": "SWTCoin",
-  "address": "0xc0F1728d9513EFC316D0E93A0758c992f88b0809",
+  "address": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

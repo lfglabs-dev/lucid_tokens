@@ -1,7 +1,7 @@
 {
   "symbol": "bmoney",
   "name": "B-MONEY",
-  "address": "0xF10Da48D4aaA8D784C5E369Cb998E263cfE32AA8",
+  "address": "0xf10da48d4aaa8d784c5e369cb998e263cfe32aa8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

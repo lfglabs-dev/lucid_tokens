@@ -1,7 +1,7 @@
 {
   "symbol": "hoodrat",
   "name": "Hoodrat",
-  "address": "0xDee6cDd28Da9f51e3A8421395973894a884F3B2D",
+  "address": "0xdee6cdd28da9f51e3a8421395973894a884f3b2d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

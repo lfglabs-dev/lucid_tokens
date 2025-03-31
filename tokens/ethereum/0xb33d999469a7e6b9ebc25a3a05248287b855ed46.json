@@ -1,7 +1,7 @@
 {
   "symbol": "flock",
   "name": "Flockerz",
-  "address": "0xb33D999469a7e6b9EbC25A3a05248287b855eD46",
+  "address": "0xb33d999469a7e6b9ebc25a3a05248287b855ed46",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

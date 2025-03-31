@@ -1,7 +1,7 @@
 {
   "symbol": "pkn",
   "name": "Poken",
-  "address": "0xdf09a216Fac5ADC3e640Db418C0b956076509503",
+  "address": "0xdf09a216fac5adc3e640db418c0b956076509503",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

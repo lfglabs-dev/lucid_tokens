@@ -1,7 +1,7 @@
 {
   "symbol": "buy",
   "name": "Buying.com",
-  "address": "0x396eC402B42066864C406d1ac3bc86B575003ed8",
+  "address": "0x396ec402b42066864c406d1ac3bc86b575003ed8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "algorand": "137020565",
     "ethereum": "0x396ec402b42066864c406d1ac3bc86b575003ed8",
     "binance-smart-chain": "0x40225c6277b29bf9056b4acb7ee1512cbff11671"
   }

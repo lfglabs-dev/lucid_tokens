@@ -1,7 +1,7 @@
 {
   "symbol": "babypepe",
   "name": "Baby Pepe",
-  "address": "0x69babE9811CC86dCfC3B8f9a14de6470Dd18EDA4",
+  "address": "0x69babe9811cc86dcfc3b8f9a14de6470dd18eda4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

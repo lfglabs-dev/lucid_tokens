@@ -1,7 +1,7 @@
 {
   "symbol": "zkin",
   "name": "zkInfra",
-  "address": "0xd57187E56e5B31B4d7813D7CEEa1E9f9b97ee82F",
+  "address": "0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

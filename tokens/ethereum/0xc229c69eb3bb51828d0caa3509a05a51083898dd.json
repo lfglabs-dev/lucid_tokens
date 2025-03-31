@@ -1,7 +1,7 @@
 {
   "symbol": "ptu",
   "name": "Pintu",
-  "address": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd",
+  "address": "0xc229c69eb3bb51828d0caa3509a05a51083898dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

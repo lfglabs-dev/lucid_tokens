@@ -1,7 +1,7 @@
 {
   "symbol": "detensor",
   "name": "DeTensor",
-  "address": "0xe6f4a40156C9E8c7Addda66848bbb99FDEdeCF84",
+  "address": "0xe6f4a40156c9e8c7addda66848bbb99fdedecf84",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

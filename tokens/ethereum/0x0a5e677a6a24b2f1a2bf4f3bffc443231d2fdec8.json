@@ -1,7 +1,7 @@
 {
   "symbol": "usx",
   "name": "dForce USD",
-  "address": "0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8",
+  "address": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "asnx",
   "name": "Aave v3 SNX",
-  "address": "0xC7B4c17861357B8ABB91F25581E7263E08DCB59c",
+  "address": "0xc7b4c17861357b8abb91f25581e7263e08dcb59c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lcai",
   "name": "Lightchain AI",
-  "address": "0x9cA8530CA349c966Fe9ef903Df17a75B8A778927",
+  "address": "0x9ca8530ca349c966fe9ef903df17a75b8a778927",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

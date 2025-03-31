@@ -1,7 +1,7 @@
 {
   "symbol": "asia",
   "name": "Asia Coin",
-  "address": "0xF519381791C03DD7666C142D4E49Fd94d3536011",
+  "address": "0xf519381791c03dd7666c142d4e49fd94d3536011",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

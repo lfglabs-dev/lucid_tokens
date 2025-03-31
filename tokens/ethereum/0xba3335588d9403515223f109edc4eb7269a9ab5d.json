@@ -1,7 +1,7 @@
 {
   "symbol": "gear",
   "name": "Gearbox",
-  "address": "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D",
+  "address": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

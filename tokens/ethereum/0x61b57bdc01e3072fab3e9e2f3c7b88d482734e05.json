@@ -1,7 +1,7 @@
 {
   "symbol": "mzm",
   "name": "MetaZooMee",
-  "address": "0x61B57bDC01E3072fAB3e9E2F3c7b88d482734E05",
+  "address": "0x61b57bdc01e3072fab3e9e2f3c7b88d482734e05",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

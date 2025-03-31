@@ -1,7 +1,7 @@
 {
   "symbol": "bd20",
   "name": "BRC-20 DEX",
-  "address": "0x312d43881860807fA04b193d69744D087fC3308a",
+  "address": "0x312d43881860807fa04b193d69744d087fc3308a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "earth",
   "name": "PaleBlueDot",
-  "address": "0xbf5Badfae2d219943DCD9652D1cE65960b8A1e0c",
+  "address": "0xbf5badfae2d219943dcd9652d1ce65960b8a1e0c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

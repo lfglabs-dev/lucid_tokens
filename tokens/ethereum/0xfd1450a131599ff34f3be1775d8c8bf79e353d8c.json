@@ -1,7 +1,7 @@
 {
   "symbol": "shiba",
   "name": "Shiba",
-  "address": "0xfD1450a131599ff34f3Be1775D8c8Bf79E353D8c",
+  "address": "0xfd1450a131599ff34f3be1775d8c8bf79e353d8c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

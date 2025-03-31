@@ -1,7 +1,7 @@
 {
   "symbol": "bbadger",
   "name": "Badger Sett Badger",
-  "address": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
+  "address": "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "apn",
   "name": "Apron",
-  "address": "0xd4342a57eCf2Fe7ffA37c33cb8f63b1500e575E6",
+  "address": "0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

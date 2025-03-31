@@ -1,7 +1,7 @@
 {
   "symbol": "pleb",
   "name": "Plebbit",
-  "address": "0xEA81DaB2e0EcBc6B5c4172DE4c22B6Ef6E55Bd8f",
+  "address": "0xea81dab2e0ecbc6b5c4172de4c22b6ef6e55bd8f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

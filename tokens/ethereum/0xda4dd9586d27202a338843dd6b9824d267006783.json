@@ -1,7 +1,7 @@
 {
   "symbol": "ect",
   "name": "Echain Network",
-  "address": "0xda4Dd9586D27202A338843Dd6B9824d267006783",
+  "address": "0xda4dd9586d27202a338843dd6b9824d267006783",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

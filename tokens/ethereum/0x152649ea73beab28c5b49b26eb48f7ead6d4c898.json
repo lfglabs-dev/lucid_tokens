@@ -1,7 +1,7 @@
 {
   "symbol": "cake",
   "name": "PancakeSwap",
-  "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
+  "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -14,7 +14,6 @@
     "zksync": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
     "polygon-zkevm": "0x0d1e753a25ebda689453309112904807625befbe",
     "opbnb": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c",
-    "aptos": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
     "linea": "0x0d1e753a25ebda689453309112904807625befbe",
     "ethereum": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
     "arbitrum-one": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",

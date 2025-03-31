@@ -1,7 +1,7 @@
 {
   "symbol": "paf",
   "name": "Pacific",
-  "address": "0x6a969D379700B2E5EA4E684d273d63C1c050Ba49",
+  "address": "0x6a969d379700b2e5ea4e684d273d63c1c050ba49",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

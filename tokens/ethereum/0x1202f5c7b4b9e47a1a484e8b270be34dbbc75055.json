@@ -1,7 +1,7 @@
 {
   "symbol": "wstusr",
   "name": "Resolv wstUSR",
-  "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
+  "address": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

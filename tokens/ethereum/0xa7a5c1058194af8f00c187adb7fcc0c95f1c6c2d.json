@@ -1,7 +1,7 @@
 {
   "symbol": "spiz",
   "name": "SPACE-iZ",
-  "address": "0xa7A5c1058194Af8F00c187adB7FcC0c95f1C6c2d",
+  "address": "0xa7a5c1058194af8f00c187adb7fcc0c95f1c6c2d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pyges",
   "name": "Pyges",
-  "address": "0x96e99106d9c58573171dd6C19d767d2aE7ec0435",
+  "address": "0x96e99106d9c58573171dd6c19d767d2ae7ec0435",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

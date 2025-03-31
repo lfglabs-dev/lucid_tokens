@@ -1,7 +1,7 @@
 {
   "symbol": "mtd",
   "name": "Minted",
-  "address": "0x809E130E10e787139c54e1d12d3D1971b7A675Bf",
+  "address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

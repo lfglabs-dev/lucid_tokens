@@ -1,7 +1,7 @@
 {
   "symbol": "daeta",
   "name": "DÆTA",
-  "address": "0x641C0F8b889F8336A69f464ddAE3733e3dE3788A",
+  "address": "0x641c0f8b889f8336a69f464ddae3733e3de3788a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

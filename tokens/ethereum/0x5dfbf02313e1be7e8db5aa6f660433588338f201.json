@@ -1,7 +1,7 @@
 {
   "symbol": "pepejr",
   "name": "Pepe Junior",
-  "address": "0x5DFbF02313E1bE7E8db5aA6F660433588338f201",
+  "address": "0x5dfbf02313e1be7e8db5aa6f660433588338f201",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

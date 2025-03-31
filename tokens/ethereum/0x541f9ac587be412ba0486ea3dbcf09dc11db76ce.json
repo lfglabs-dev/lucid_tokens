@@ -1,7 +1,7 @@
 {
   "symbol": "nebula",
   "name": "Nebula",
-  "address": "0x541f9ac587bE412BA0486Ea3dBCF09dC11db76Ce",
+  "address": "0x541f9ac587be412ba0486ea3dbcf09dc11db76ce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

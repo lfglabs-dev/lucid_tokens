@@ -1,7 +1,7 @@
 {
   "symbol": "vitarna",
   "name": "VitaRNA",
-  "address": "0x7b66E84Be78772a3afAF5ba8c1993a1B5D05F9C2",
+  "address": "0x7b66e84be78772a3afaf5ba8c1993a1b5d05f9c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

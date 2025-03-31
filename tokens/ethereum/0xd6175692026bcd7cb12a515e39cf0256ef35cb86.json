@@ -1,7 +1,7 @@
 {
   "symbol": "bonzi",
   "name": "Bonzi",
-  "address": "0xD6175692026BcD7Cb12A515e39cF0256eF35cb86",
+  "address": "0xd6175692026bcd7cb12a515e39cf0256ef35cb86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

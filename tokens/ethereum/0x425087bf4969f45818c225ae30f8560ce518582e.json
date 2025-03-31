@@ -1,7 +1,7 @@
 {
   "symbol": "lfdog",
   "name": "lifedog",
-  "address": "0x425087BF4969f45818c225aE30f8560cE518582e",
+  "address": "0x425087bf4969f45818c225ae30f8560ce518582e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

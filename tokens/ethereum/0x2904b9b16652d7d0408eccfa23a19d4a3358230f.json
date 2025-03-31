@@ -1,7 +1,7 @@
 {
   "symbol": "pure",
   "name": "Puriever",
-  "address": "0x2904b9b16652d7d0408EcCfA23A19D4A3358230f",
+  "address": "0x2904b9b16652d7d0408eccfa23a19d4a3358230f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

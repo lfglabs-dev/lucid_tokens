@@ -1,7 +1,7 @@
 {
   "symbol": "ryo",
   "name": "RYO Coin",
-  "address": "0x4C7fe8F97dB97CbCcC76989AB742afc66ca6e75C",
+  "address": "0x4c7fe8f97db97cbccc76989ab742afc66ca6e75c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

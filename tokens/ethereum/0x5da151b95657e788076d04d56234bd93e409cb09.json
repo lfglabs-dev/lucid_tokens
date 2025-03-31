@@ -1,7 +1,7 @@
 {
   "symbol": "otsea",
   "name": "OTSea",
-  "address": "0x5dA151B95657e788076D04d56234Bd93e409CB09",
+  "address": "0x5da151b95657e788076d04d56234bd93e409cb09",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

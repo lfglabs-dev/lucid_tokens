@@ -1,7 +1,7 @@
 {
   "symbol": "zap",
   "name": "Zap",
-  "address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
+  "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
-    "binance-smart-chain": "0xc5326b32e8baef125acd68f8bc646fd646104f1c",
-    "solana": "HxPoEHMt1vKeqjKCePcqTj6yYgn6Xqq1fKTY3Pjx4YrX"
+    "binance-smart-chain": "0xc5326b32e8baef125acd68f8bc646fd646104f1c"
   }
 }

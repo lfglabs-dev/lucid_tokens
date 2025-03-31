@@ -1,7 +1,7 @@
 {
   "symbol": "dd",
   "name": "DuckDAO",
-  "address": "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F",
+  "address": "0x7d51888c5abb7cdfa9cdd6a50673c7f8afaccd7f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

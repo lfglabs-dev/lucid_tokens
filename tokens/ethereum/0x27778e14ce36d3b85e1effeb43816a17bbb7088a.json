@@ -1,7 +1,7 @@
 {
   "symbol": "lgold",
   "name": "Lyfe Gold",
-  "address": "0x27778E14Ce36d3B85e1efFeB43816a17bBB7088A",
+  "address": "0x27778e14ce36d3b85e1effeb43816a17bbb7088a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

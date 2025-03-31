@@ -1,7 +1,7 @@
 {
   "symbol": "bc",
   "name": "Blood Crystal",
-  "address": "0x4b6d036d0BC62A633aCca6d10956E9dbBB16748f",
+  "address": "0x4b6d036d0bc62a633acca6d10956e9dbbb16748f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

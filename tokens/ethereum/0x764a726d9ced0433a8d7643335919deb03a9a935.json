@@ -1,7 +1,7 @@
 {
   "symbol": "pokt",
   "name": "Pocket Network",
-  "address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
+  "address": "0x764a726d9ced0433a8d7643335919deb03a9a935",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -15,7 +15,6 @@
     "binance-smart-chain": "0x764a726d9ced0433a8d7643335919deb03a9a935",
     "arbitrum-one": "0x764a726d9ced0433a8d7643335919deb03a9a935",
     "polygon-pos": "0x764a726d9ced0433a8d7643335919deb03a9a935",
-    "base": "0x764a726d9ced0433a8d7643335919deb03a9a935",
-    "solana": "6CAsXfiCXZfP8APCG6Vma2DFMindopxiqYQN4LSQfhoC"
+    "base": "0x764a726d9ced0433a8d7643335919deb03a9a935"
   }
 }

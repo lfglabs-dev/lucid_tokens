@@ -1,7 +1,7 @@
 {
   "symbol": "ranker",
   "name": "RankerDao",
-  "address": "0x6431FA4B812a2DCC062A38CB55cc7D18135AdEAd",
+  "address": "0x6431fa4b812a2dcc062a38cb55cc7d18135adead",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

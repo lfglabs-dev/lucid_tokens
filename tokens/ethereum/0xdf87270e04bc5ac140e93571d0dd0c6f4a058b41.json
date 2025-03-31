@@ -1,7 +1,7 @@
 {
   "symbol": "mlh",
   "name": "Moolahverse",
-  "address": "0xdf87270E04Bc5Ac140E93571D0DD0C6F4a058B41",
+  "address": "0xdf87270e04bc5ac140e93571d0dd0c6f4a058b41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

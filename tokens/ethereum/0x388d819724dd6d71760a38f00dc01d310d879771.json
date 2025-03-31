@@ -1,7 +1,7 @@
 {
   "symbol": "jm",
   "name": "JustMoney",
-  "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
+  "address": "0x388d819724dd6d71760a38f00dc01d310d879771",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "tron": "TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR",
     "bittorrent": "0x388d819724dd6d71760a38f00dc01d310d879771",
     "ethereum": "0x388d819724dd6d71760a38f00dc01d310d879771",
     "binance-smart-chain": "0x388d819724dd6d71760a38f00dc01d310d879771",

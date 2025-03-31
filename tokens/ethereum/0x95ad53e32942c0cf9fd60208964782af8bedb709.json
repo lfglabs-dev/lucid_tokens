@@ -1,7 +1,7 @@
 {
   "symbol": "kuma",
   "name": "Kuma",
-  "address": "0x95Ad53E32942C0cF9fD60208964782aF8BeDb709",
+  "address": "0x95ad53e32942c0cf9fd60208964782af8bedb709",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

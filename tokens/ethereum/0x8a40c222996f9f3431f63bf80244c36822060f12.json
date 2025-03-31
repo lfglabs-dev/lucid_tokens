@@ -1,7 +1,7 @@
 {
   "symbol": "fxf",
   "name": "FINXFLO",
-  "address": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
+  "address": "0x8a40c222996f9f3431f63bf80244c36822060f12",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x8a40c222996f9f3431f63bf80244c36822060f12",
-    "tron": "TSNr126nQ8HKfXREqrqkBnxoQNHS5qJLg5"
+    "ethereum": "0x8a40c222996f9f3431f63bf80244c36822060f12"
   }
 }

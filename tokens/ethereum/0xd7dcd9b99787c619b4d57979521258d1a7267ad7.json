@@ -1,7 +1,7 @@
 {
   "symbol": "evry",
   "name": "Evrynet",
-  "address": "0xd7DCd9B99787C619b4D57979521258D1A7267ad7",
+  "address": "0xd7dcd9b99787c619b4d57979521258d1a7267ad7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

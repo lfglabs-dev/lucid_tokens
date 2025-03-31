@@ -1,7 +1,7 @@
 {
   "symbol": "balls",
   "name": "Big Balls",
-  "address": "0x9eA59Db651A3c79a8d52A394a49dA8E9A214d6Ae",
+  "address": "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

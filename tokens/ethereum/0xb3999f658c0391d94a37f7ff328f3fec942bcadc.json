@@ -1,7 +1,7 @@
 {
   "symbol": "hft",
   "name": "Hashflow",
-  "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+  "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

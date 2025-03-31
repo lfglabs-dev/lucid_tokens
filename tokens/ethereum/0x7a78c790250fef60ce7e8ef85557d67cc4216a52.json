@@ -1,7 +1,7 @@
 {
   "symbol": "gluteu",
   "name": "Gluteus Maximus by Virtuals",
-  "address": "0x7A78c790250FEf60ce7E8Ef85557d67Cc4216A52",
+  "address": "0x7a78c790250fef60ce7e8ef85557d67cc4216a52",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "base": "0x06a63c498ef95ad1fa4fff841955e512b4b2198a",
-    "ethereum": "0x7a78c790250fef60ce7e8ef85557d67cc4216a52",
-    "solana": "mMykZc4tun2kFNgxbd7WiApAoGEaX8bxFuHjxzjnkrV"
+    "ethereum": "0x7a78c790250fef60ce7e8ef85557d67cc4216a52"
   }
 }

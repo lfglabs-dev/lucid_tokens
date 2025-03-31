@@ -1,7 +1,7 @@
 {
   "symbol": "mdi",
   "name": "Medicle",
-  "address": "0x848896470d989F30503d8f883c331f63b73b66Ea",
+  "address": "0x848896470d989f30503d8f883c331f63b73b66ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

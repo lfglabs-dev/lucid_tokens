@@ -1,7 +1,7 @@
 {
   "symbol": "opti",
   "name": "Optimus AI",
-  "address": "0x562E362876c8Aee4744FC2c6aaC8394C312d215d",
+  "address": "0x562e362876c8aee4744fc2c6aac8394c312d215d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

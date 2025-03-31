@@ -1,7 +1,7 @@
 {
   "symbol": "jart",
   "name": "JournArt",
-  "address": "0xf3E07812eBC8604fdDB0AA35ff79a03F48f48948",
+  "address": "0xf3e07812ebc8604fddb0aa35ff79a03f48f48948",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

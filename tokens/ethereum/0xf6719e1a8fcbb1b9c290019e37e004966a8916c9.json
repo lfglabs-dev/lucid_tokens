@@ -1,7 +1,7 @@
 {
   "symbol": "pgen",
   "name": "Polygen",
-  "address": "0xf6719e1A8fcBB1B9c290019E37e004966A8916C9",
+  "address": "0xf6719e1a8fcbb1b9c290019e37e004966a8916c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

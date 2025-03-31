@@ -1,7 +1,7 @@
 {
   "symbol": "ausdc",
   "name": "Aave v1 USDC",
-  "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+  "address": "0x9ba00d6856a4edf4665bca2c2309936572473b7e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

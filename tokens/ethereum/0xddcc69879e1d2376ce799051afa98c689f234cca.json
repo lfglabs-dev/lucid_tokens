@@ -1,7 +1,7 @@
 {
   "symbol": "smrt",
   "name": "SmartMoney",
-  "address": "0xDDcc69879e1d2376ce799051afa98C689F234ccA",
+  "address": "0xddcc69879e1d2376ce799051afa98c689f234cca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "monke",
   "name": "Monke",
-  "address": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
+  "address": "0xc8168d5665f4418353728ac970713e09c0b7c20e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

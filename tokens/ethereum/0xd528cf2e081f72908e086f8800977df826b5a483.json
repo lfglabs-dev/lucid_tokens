@@ -1,7 +1,7 @@
 {
   "symbol": "pbx",
   "name": "Paribus",
-  "address": "0xD528cf2E081f72908e086F8800977df826B5a483",
+  "address": "0xd528cf2e081f72908e086f8800977df826b5a483",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xd528cf2e081f72908e086f8800977df826b5a483",
-    "cardano": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
     "arbitrum-one": "0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403"
   }
 }

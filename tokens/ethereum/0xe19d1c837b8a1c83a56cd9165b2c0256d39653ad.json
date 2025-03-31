@@ -1,7 +1,7 @@
 {
   "symbol": "sdfxn",
   "name": "Stake DAO FXN",
-  "address": "0xe19d1c837B8A1C83A56cD9165b2c0256D39653aD",
+  "address": "0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

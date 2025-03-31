@@ -1,7 +1,7 @@
 {
   "symbol": "raca",
   "name": "Radio Caca",
-  "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+  "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

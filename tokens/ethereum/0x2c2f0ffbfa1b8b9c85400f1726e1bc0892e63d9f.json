@@ -1,7 +1,7 @@
 {
   "symbol": "rfsteth",
   "name": "Return Finance Lido stETH",
-  "address": "0x2C2f0FFbFA1B8b9C85400f1726e1bc0892e63D9F",
+  "address": "0x2c2f0ffbfa1b8b9c85400f1726e1bc0892e63d9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

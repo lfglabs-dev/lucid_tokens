@@ -1,7 +1,7 @@
 {
   "symbol": "dega",
   "name": "DEGA",
-  "address": "0x97aeE01ed2aabAd9F54692f94461AE761D225f17",
+  "address": "0x97aee01ed2aabad9f54692f94461ae761d225f17",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

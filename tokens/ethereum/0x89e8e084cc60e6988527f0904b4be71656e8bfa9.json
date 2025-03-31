@@ -1,7 +1,7 @@
 {
   "symbol": "smog",
   "name": "Smog",
-  "address": "0x89E8E084cC60e6988527f0904b4bE71656e8bFA9",
+  "address": "0x89e8e084cc60e6988527f0904b4be71656e8bfa9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "FS66v5XYtJAFo14LiPz5HT93EUMAHmYipCfQhLpU4ss8",
     "ethereum": "0x89e8e084cc60e6988527f0904b4be71656e8bfa9"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "anim",
   "name": "Animalia",
-  "address": "0xFbcb5cBEDEebCC55dCd136D34Db1DaaF74cf67E8",
+  "address": "0xfbcb5cbedeebcc55dcd136d34db1daaf74cf67e8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

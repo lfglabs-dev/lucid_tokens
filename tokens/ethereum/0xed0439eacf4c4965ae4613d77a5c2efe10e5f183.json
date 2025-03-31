@@ -1,7 +1,7 @@
 {
   "symbol": "shroom",
   "name": "Niftyx Protocol",
-  "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "address": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

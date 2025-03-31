@@ -1,7 +1,7 @@
 {
   "symbol": "nova",
   "name": "Nova",
-  "address": "0xD0b3A986FfF305854a7238A8e099Cce1ced01a3d",
+  "address": "0xd0b3a986fff305854a7238a8e099cce1ced01a3d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "arx",
   "name": "ARCS",
-  "address": "0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1",
+  "address": "0x7d8daff6d70cead12c6f077048552cf89130a2b1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "defend",
   "name": "BlockDefend AI",
-  "address": "0x9511FF502f982643935a39206F98a6C18D4527CF",
+  "address": "0x9511ff502f982643935a39206f98a6c18d4527cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

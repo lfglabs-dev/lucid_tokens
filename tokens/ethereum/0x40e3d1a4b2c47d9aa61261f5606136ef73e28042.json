@@ -1,7 +1,7 @@
 {
   "symbol": "serv",
   "name": "OpenServ",
-  "address": "0x40e3d1A4B2C47d9AA61261F5606136ef73E28042",
+  "address": "0x40e3d1a4b2c47d9aa61261f5606136ef73e28042",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

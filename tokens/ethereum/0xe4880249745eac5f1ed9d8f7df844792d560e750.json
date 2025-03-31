@@ -1,7 +1,7 @@
 {
   "symbol": "ustbl",
   "name": "Spiko US T-Bills Money Market Fund",
-  "address": "0xe4880249745eAc5F1eD9d8F7DF844792D560e750",
+  "address": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
-    "starknet": "0x020ff2f6021ada9edbceaf31b96f9f67b746662a6e6b2bc9d30c0d3e290a71f6",
     "arbitrum-one": "0x021289588cd81dc1ac87ea91e91607eef68303f5",
     "polygon-pos": "0xe4880249745eac5f1ed9d8f7df844792d560e750"
   }

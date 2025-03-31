@@ -1,7 +1,7 @@
 {
   "symbol": "bnq",
   "name": "BitNasdaq",
-  "address": "0xEAA78305C19A292e5c141108f0880333A840a2bc",
+  "address": "0xeaa78305c19a292e5c141108f0880333a840a2bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

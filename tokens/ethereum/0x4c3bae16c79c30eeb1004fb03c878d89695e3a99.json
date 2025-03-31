@@ -1,7 +1,7 @@
 {
   "symbol": "autumn",
   "name": "Autumn",
-  "address": "0x4c3bAe16c79c30eEB1004Fb03C878d89695e3a99",
+  "address": "0x4c3bae16c79c30eeb1004fb03c878d89695e3a99",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

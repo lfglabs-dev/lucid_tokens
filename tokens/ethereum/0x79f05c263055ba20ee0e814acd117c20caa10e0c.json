@@ -1,7 +1,7 @@
 {
   "symbol": "ice",
   "name": "Ice Open Network",
-  "address": "0x79F05c263055BA20EE0e814ACD117C20CAA10e0c",
+  "address": "0x79f05c263055ba20ee0e814acd117c20caa10e0c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

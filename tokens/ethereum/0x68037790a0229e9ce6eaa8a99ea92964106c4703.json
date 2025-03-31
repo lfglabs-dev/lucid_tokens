@@ -1,7 +1,7 @@
 {
   "symbol": "par",
   "name": "Parallel",
-  "address": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+  "address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

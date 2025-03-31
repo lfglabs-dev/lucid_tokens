@@ -1,7 +1,7 @@
 {
   "symbol": "ausdt",
   "name": "Aave v3 USDT",
-  "address": "0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+  "address": "0x23878914efe38d27c4d67ab83ed1b93a74d4086a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

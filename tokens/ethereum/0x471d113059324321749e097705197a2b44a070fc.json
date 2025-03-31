@@ -1,7 +1,7 @@
 {
   "symbol": "kng",
   "name": "Kanga Exchange",
-  "address": "0x471d113059324321749E097705197a2B44A070FC",
+  "address": "0x471d113059324321749e097705197a2b44a070fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

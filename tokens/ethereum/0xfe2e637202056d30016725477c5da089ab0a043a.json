@@ -1,7 +1,7 @@
 {
   "symbol": "seth2",
   "name": "sETH2",
-  "address": "0xFe2e637202056d30016725477c5da089Ab0A043A",
+  "address": "0xfe2e637202056d30016725477c5da089ab0a043a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

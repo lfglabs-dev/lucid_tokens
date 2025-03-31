@@ -1,7 +1,7 @@
 {
   "symbol": "ibex",
   "name": "Impermax",
-  "address": "0xF655C8567E0f213e6C634CD2A68d992152161dC6",
+  "address": "0xf655c8567e0f213e6c634cd2a68d992152161dc6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

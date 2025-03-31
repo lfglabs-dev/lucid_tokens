@@ -1,7 +1,7 @@
 {
   "symbol": "arcd",
   "name": "Arcade",
-  "address": "0xe020B01B6fbD83066aa2e8ee0CCD1eB8d9Cc70bF",
+  "address": "0xe020b01b6fbd83066aa2e8ee0ccd1eb8d9cc70bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

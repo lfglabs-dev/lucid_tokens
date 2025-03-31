@@ -1,7 +1,7 @@
 {
   "symbol": "cvxfxs",
   "name": "Convex FXS",
-  "address": "0xFEEf77d3f69374f66429C91d732A244f074bdf74",
+  "address": "0xfeef77d3f69374f66429c91d732a244f074bdf74",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

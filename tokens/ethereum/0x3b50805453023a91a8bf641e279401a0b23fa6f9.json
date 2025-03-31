@@ -1,7 +1,7 @@
 {
   "symbol": "rez",
   "name": "Renzo",
-  "address": "0x3B50805453023a91a8bf641e279401a0b23FA6F9",
+  "address": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
-    "solana": "3DK98MXPz8TRuim7rfQnebSLpA7VSoc79Bgiee1m4Zw5"
+    "ethereum": "0x3b50805453023a91a8bf641e279401a0b23fa6f9"
   }
 }

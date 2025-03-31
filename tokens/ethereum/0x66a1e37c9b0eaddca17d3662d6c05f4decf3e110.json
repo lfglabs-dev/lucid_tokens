@@ -1,7 +1,7 @@
 {
   "symbol": "usr",
   "name": "Resolv USR",
-  "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+  "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

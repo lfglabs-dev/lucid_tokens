@@ -1,7 +1,7 @@
 {
   "symbol": "ocd",
   "name": "On-Chain Dynamics",
-  "address": "0x017E9Db34fC69Af0dC7c7b4b33511226971cDdc7",
+  "address": "0x017e9db34fc69af0dc7c7b4b33511226971cddc7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "neirei",
   "name": "Neirei",
-  "address": "0x1d4FB9BfA1967BE6cA74819e28b98C2aA5AE8B59",
+  "address": "0x1d4fb9bfa1967be6ca74819e28b98c2aa5ae8b59",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

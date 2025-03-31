@@ -1,7 +1,7 @@
 {
   "symbol": "maai",
   "name": "Mars AI",
-  "address": "0x716457d3Ee671231e3a9fd320940E88aC247a733",
+  "address": "0x716457d3ee671231e3a9fd320940e88ac247a733",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

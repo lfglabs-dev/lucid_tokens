@@ -1,7 +1,7 @@
 {
   "symbol": "niox",
   "name": "Autonio",
-  "address": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
+  "address": "0xc813ea5e3b48bebeedb796ab42a30c5599b01740",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

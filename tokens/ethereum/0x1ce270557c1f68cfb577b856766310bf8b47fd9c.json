@@ -1,7 +1,7 @@
 {
   "symbol": "mong",
   "name": "MongCoin",
-  "address": "0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C",
+  "address": "0x1ce270557c1f68cfb577b856766310bf8b47fd9c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cost.d",
   "name": "Dinari COST",
-  "address": "0xE5AD37798dAA0231279859d4699CF8f466e8b020",
+  "address": "0xe5ad37798daa0231279859d4699cf8f466e8b020",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

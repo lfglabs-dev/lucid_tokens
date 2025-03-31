@@ -1,7 +1,7 @@
 {
   "symbol": "hold",
   "name": "Everybody",
-  "address": "0x68B36248477277865c64DFc78884Ef80577078F3",
+  "address": "0x68b36248477277865c64dfc78884ef80577078f3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

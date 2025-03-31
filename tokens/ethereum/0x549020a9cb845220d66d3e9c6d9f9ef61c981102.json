@@ -1,7 +1,7 @@
 {
   "symbol": "sidus",
   "name": "Sidus",
-  "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+  "address": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

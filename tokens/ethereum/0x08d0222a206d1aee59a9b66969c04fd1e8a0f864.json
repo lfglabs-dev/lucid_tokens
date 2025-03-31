@@ -1,7 +1,7 @@
 {
   "symbol": "momo v2",
   "name": "Momo v2",
-  "address": "0x08D0222A206D1AeE59A9b66969c04FD1e8A0f864",
+  "address": "0x08d0222a206d1aee59a9b66969c04fd1e8a0f864",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

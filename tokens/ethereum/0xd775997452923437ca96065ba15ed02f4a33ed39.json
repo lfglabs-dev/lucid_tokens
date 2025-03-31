@@ -1,7 +1,7 @@
 {
   "symbol": "dwif",
   "name": "dragon wif hat",
-  "address": "0xd775997452923437ca96065bA15Ed02F4a33Ed39",
+  "address": "0xd775997452923437ca96065ba15ed02f4a33ed39",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

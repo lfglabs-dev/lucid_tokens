@@ -1,7 +1,7 @@
 {
   "symbol": "nfai",
   "name": "Not Financial Advice",
-  "address": "0x17c50D62E6E8D20d2DC18e9AD79c43263D0720d9",
+  "address": "0x17c50d62e6e8d20d2dc18e9ad79c43263d0720d9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

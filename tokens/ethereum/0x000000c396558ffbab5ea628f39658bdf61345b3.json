@@ -1,7 +1,7 @@
 {
   "symbol": "bunni",
   "name": "Bunni",
-  "address": "0x000000C396558ffbAB5Ea628f39658Bdf61345b3",
+  "address": "0x000000c396558ffbab5ea628f39658bdf61345b3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

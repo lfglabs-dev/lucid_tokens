@@ -1,7 +1,7 @@
 {
   "symbol": "egbp",
   "name": "ARYZE eGBP",
-  "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+  "address": "0xd711d7d893de57dc13ff465763218770bd42db1d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

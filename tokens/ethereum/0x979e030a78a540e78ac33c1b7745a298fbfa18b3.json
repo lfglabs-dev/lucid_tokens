@@ -1,7 +1,7 @@
 {
   "symbol": "gpul",
   "name": "GPULABS",
-  "address": "0x979E030a78A540e78AC33C1B7745a298fbFA18B3",
+  "address": "0x979e030a78a540e78ac33c1b7745a298fbfa18b3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

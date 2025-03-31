@@ -1,7 +1,7 @@
 {
   "symbol": "wizard",
   "name": "Wizard Cat",
-  "address": "0x4a7C9897aE01Ff08d6E3820507a6b967bdbFfA29",
+  "address": "0x4a7c9897ae01ff08d6e3820507a6b967bdbffa29",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

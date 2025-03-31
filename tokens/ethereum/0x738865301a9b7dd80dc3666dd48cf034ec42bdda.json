@@ -1,7 +1,7 @@
 {
   "symbol": "agrs",
   "name": "Agoras: Tau Net",
-  "address": "0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa",
+  "address": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mc.usd0",
   "name": "MEV Capital USD0 Morpho Vault",
-  "address": "0xC0A14627D6a23f70c809777CEd873238581C1032",
+  "address": "0xc0a14627d6a23f70c809777ced873238581c1032",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

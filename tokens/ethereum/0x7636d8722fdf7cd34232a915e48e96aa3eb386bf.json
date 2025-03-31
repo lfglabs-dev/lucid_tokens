@@ -1,7 +1,7 @@
 {
   "symbol": "sfi",
   "name": "Singularity Finance",
-  "address": "0x7636D8722Fdf7cd34232a915E48e96aA3eB386BF",
+  "address": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

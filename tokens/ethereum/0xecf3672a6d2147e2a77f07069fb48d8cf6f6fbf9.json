@@ -1,7 +1,7 @@
 {
   "symbol": "inmeth",
   "name": "Inception mETH",
-  "address": "0xeCf3672A6d2147E2A77f07069Fb48d8Cf6F6Fbf9",
+  "address": "0xecf3672a6d2147e2a77f07069fb48d8cf6f6fbf9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

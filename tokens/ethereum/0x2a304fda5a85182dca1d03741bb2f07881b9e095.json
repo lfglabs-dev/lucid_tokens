@@ -1,7 +1,7 @@
 {
   "symbol": "dco",
   "name": "DCOMY",
-  "address": "0x2a304FDa5a85182dCA1D03741bB2F07881b9e095",
+  "address": "0x2a304fda5a85182dca1d03741bb2f07881b9e095",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cate",
   "name": "CateCoin",
-  "address": "0x051fb509e4A775FABd257611eeA1efaed8F91359",
+  "address": "0x051fb509e4a775fabd257611eea1efaed8f91359",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

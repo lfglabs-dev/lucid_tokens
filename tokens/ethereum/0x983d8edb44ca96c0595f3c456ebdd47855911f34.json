@@ -1,7 +1,7 @@
 {
   "symbol": "war",
   "name": "War Legends",
-  "address": "0x983d8edB44Ca96c0595f3c456ebdD47855911f34",
+  "address": "0x983d8edb44ca96c0595f3c456ebdd47855911f34",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

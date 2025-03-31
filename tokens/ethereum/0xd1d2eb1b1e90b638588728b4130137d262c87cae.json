@@ -1,7 +1,7 @@
 {
   "symbol": "gala",
   "name": "GALA",
-  "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+  "address": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

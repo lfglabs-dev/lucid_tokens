@@ -1,7 +1,7 @@
 {
   "symbol": "aiat",
   "name": "AI Analysis Token",
-  "address": "0x0501b9188436E35bB10F35998c40ADC079003866",
+  "address": "0x0501b9188436e35bb10f35998c40adc079003866",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

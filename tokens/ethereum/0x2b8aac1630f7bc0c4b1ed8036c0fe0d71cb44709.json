@@ -1,7 +1,7 @@
 {
   "symbol": "mask",
   "name": "Wojak Mask",
-  "address": "0x2B8AAC1630F7BC0C4b1ed8036C0fe0D71cB44709",
+  "address": "0x2b8aac1630f7bc0c4b1ed8036c0fe0d71cb44709",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

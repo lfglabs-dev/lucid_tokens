@@ -1,7 +1,7 @@
 {
   "symbol": "epic",
   "name": "Epic Chain",
-  "address": "0x94314a14Df63779c99C0764a30e0CD22fA78fC0E",
+  "address": "0x94314a14df63779c99c0764a30e0cd22fa78fc0e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ant",
   "name": "Aragon",
-  "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+  "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

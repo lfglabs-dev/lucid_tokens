@@ -1,7 +1,7 @@
 {
   "symbol": "gmat",
   "name": "GoWithMi",
-  "address": "0xB13dE094Cc5CEe6C4cC0A3737bf0290166D9Ca5D",
+  "address": "0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "kizuna",
   "name": "Kizuna",
-  "address": "0x470c8950C0c3aA4B09654bC73b004615119A44b5",
+  "address": "0x470c8950c0c3aa4b09654bc73b004615119a44b5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

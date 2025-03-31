@@ -1,7 +1,7 @@
 {
   "symbol": "sworld",
   "name": "Seedworld",
-  "address": "0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA",
+  "address": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

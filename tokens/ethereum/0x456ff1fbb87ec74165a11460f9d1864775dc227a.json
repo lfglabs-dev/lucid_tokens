@@ -1,7 +1,7 @@
 {
   "symbol": "$moxi",
   "name": "MOX AI",
-  "address": "0x456fF1fbB87Ec74165a11460F9D1864775Dc227A",
+  "address": "0x456ff1fbb87ec74165a11460f9d1864775dc227a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

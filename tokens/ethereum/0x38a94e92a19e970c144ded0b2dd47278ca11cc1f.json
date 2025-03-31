@@ -1,7 +1,7 @@
 {
   "symbol": "f9",
   "name": "Falcon Nine",
-  "address": "0x38A94e92A19E970c144DEd0B2DD47278CA11CC1F",
+  "address": "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

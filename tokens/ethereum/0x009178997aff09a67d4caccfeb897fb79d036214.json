@@ -1,7 +1,7 @@
 {
   "symbol": "1sol",
   "name": "1Sol",
-  "address": "0x009178997aFf09A67D4cACcFeB897Fb79d036214",
+  "address": "0x009178997aff09a67d4caccfeb897fb79d036214",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

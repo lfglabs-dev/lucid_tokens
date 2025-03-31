@@ -1,7 +1,7 @@
 {
   "symbol": "chikun",
   "name": "Arise Chikun",
-  "address": "0x9A7703338730b82A803ba050dF55f9B3959f3fB2",
+  "address": "0x9a7703338730b82a803ba050df55f9b3959f3fb2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

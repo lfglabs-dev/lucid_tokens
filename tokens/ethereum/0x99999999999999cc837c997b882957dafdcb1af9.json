@@ -1,7 +1,7 @@
 {
   "symbol": "wusdn",
   "name": "SMARDEX WRAPPED USDN",
-  "address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
+  "address": "0x99999999999999cc837c997b882957dafdcb1af9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

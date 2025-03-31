@@ -1,7 +1,7 @@
 {
   "symbol": "ondoai",
   "name": "Ondo DeFAI",
-  "address": "0xFA1b1f13080857Bf373de0De93970c96d2C29FD0",
+  "address": "0xfa1b1f13080857bf373de0de93970c96d2c29fd0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

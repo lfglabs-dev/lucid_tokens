@@ -1,7 +1,7 @@
 {
   "symbol": "agx",
   "name": "AGIX",
-  "address": "0xE2432110C32D0717E33c245fe0CFA2B26c07f47a",
+  "address": "0xe2432110c32d0717e33c245fe0cfa2b26c07f47a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

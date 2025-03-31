@@ -1,7 +1,7 @@
 {
   "symbol": "props",
   "name": "Props",
-  "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+  "address": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

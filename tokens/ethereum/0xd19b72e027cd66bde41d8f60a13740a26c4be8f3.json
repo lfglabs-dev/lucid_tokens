@@ -1,7 +1,7 @@
 {
   "symbol": "suiai",
   "name": "SUI Agents",
-  "address": "0xd19b72e027cD66bDe41d8f60a13740A26C4be8f3",
+  "address": "0xd19b72e027cd66bde41d8f60a13740a26c4be8f3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xd19b72e027cd66bde41d8f60a13740a26c4be8f3",
-    "sui": "0xdc083ed335b5fe342cca1d5887530336246ed7d80da6bcecbc7c1becb88074ee::mycoin::MYCOIN"
+    "ethereum": "0xd19b72e027cd66bde41d8f60a13740a26c4be8f3"
   }
 }

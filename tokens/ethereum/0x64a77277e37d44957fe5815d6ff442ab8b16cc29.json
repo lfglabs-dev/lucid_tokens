@@ -1,7 +1,7 @@
 {
   "symbol": "dawgs",
   "name": "SpaceDawgs",
-  "address": "0x64A77277e37D44957FE5815d6FF442ab8b16cC29",
+  "address": "0x64a77277e37d44957fe5815d6ff442ab8b16cc29",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

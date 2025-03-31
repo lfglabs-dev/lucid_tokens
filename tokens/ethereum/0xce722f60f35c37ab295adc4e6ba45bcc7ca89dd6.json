@@ -1,7 +1,7 @@
 {
   "symbol": "jpgd",
   "name": "JPEG'd",
-  "address": "0xCE722f60F35C37aB295adc4E6bA45bCC7ca89Dd6",
+  "address": "0xce722f60f35c37ab295adc4e6ba45bcc7ca89dd6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

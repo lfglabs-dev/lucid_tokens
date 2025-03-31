@@ -1,7 +1,7 @@
 {
   "symbol": "yel",
   "name": "Yel.Finance",
-  "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+  "address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

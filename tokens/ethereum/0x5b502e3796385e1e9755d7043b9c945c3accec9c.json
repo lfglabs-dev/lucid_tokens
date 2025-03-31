@@ -1,7 +1,7 @@
 {
   "symbol": "aknc",
   "name": "Aave v3 KNC",
-  "address": "0x5b502e3796385E1e9755d7043B9C945C3aCCeC9C",
+  "address": "0x5b502e3796385e1e9755d7043b9c945c3accec9c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

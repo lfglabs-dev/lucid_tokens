@@ -1,7 +1,7 @@
 {
   "symbol": "ehash",
   "name": "EHash",
-  "address": "0x2942E3B38E33123965bfbc21E802bE943a76bbC6",
+  "address": "0x2942e3b38e33123965bfbc21e802be943a76bbc6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

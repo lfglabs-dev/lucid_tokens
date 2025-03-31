@@ -1,7 +1,7 @@
 {
   "symbol": "txn",
   "name": "TXN Club",
-  "address": "0x7236A7Ad67976eE07961Ab26Ed6F4CD23F7a9bD1",
+  "address": "0x7236a7ad67976ee07961ab26ed6f4cd23f7a9bd1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

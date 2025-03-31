@@ -1,7 +1,7 @@
 {
   "symbol": "trumpius",
   "name": "Trumpius Maximus",
-  "address": "0x47000A7B27a75D44FfaDfe9D0B97fA04D569B323",
+  "address": "0x47000a7b27a75d44ffadfe9d0b97fa04d569b323",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "monopoly",
   "name": "Meta Monopoly",
-  "address": "0x7d4A7be025652995364E0E232063abd9e8d65e6E",
+  "address": "0x7d4a7be025652995364e0e232063abd9e8d65e6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

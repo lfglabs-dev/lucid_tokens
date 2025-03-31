@@ -1,7 +1,7 @@
 {
   "symbol": "zik",
   "name": "Ziktalk",
-  "address": "0x88303FeD02b31dB9C7a9eafB711dA9eF4A03e5D3",
+  "address": "0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

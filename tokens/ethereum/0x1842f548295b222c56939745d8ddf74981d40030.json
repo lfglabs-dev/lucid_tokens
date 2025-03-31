@@ -1,7 +1,7 @@
 {
   "symbol": "qudefi",
   "name": "Qudefi",
-  "address": "0x1842F548295b222C56939745d8DDf74981d40030",
+  "address": "0x1842f548295b222c56939745d8ddf74981d40030",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

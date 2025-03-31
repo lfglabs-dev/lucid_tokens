@@ -1,7 +1,7 @@
 {
   "symbol": "svpn",
   "name": "Shadow Node",
-  "address": "0xc668695dcbCf682dE106Da94bDE65c9bc79362d3",
+  "address": "0xc668695dcbcf682de106da94bde65c9bc79362d3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

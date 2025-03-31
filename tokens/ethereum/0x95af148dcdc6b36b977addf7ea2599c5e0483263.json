@@ -1,7 +1,7 @@
 {
   "symbol": "hachi",
   "name": "Hachiko Inu",
-  "address": "0x95Af148DCDC6B36B977ADDF7ea2599C5e0483263",
+  "address": "0x95af148dcdc6b36b977addf7ea2599c5e0483263",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

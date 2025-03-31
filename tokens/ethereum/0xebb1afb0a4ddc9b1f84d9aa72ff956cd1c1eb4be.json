@@ -1,7 +1,7 @@
 {
   "symbol": "emrld",
   "name": "The Emerald Company",
-  "address": "0xeBB1AFb0A4ddC9b1f84D9Aa72FF956cD1c1Eb4be",
+  "address": "0xebb1afb0a4ddc9b1f84d9aa72ff956cd1c1eb4be",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

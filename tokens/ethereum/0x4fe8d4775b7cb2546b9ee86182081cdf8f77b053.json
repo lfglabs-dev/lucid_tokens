@@ -1,7 +1,7 @@
 {
   "symbol": "kaiju",
   "name": "KAIJUNO8",
-  "address": "0x4fE8d4775b7cB2546b9eE86182081CDF8f77B053",
+  "address": "0x4fe8d4775b7cb2546b9ee86182081cdf8f77b053",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

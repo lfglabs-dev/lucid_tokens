@@ -1,7 +1,7 @@
 {
   "symbol": "vmpx",
   "name": "VMPX",
-  "address": "0xb48Eb8368c9C6e9b0734de1Ef4ceB9f484B80b9C",
+  "address": "0xb48eb8368c9c6e9b0734de1ef4ceb9f484b80b9c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

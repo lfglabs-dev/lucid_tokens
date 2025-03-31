@@ -1,7 +1,7 @@
 {
   "symbol": "app",
   "name": "RWAX",
-  "address": "0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
+  "address": "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,8 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439",
-    "injective": "peggy0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
-    "binance-smart-chain": "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439",
-    "solana": "Fdxex2V4Ldun1aFhPsuGKfzPrrE1ay4UM8xt92EaL5N4"
+    "binance-smart-chain": "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439"
   }
 }

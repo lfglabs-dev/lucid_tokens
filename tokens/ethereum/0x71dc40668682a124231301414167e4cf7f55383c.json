@@ -1,7 +1,7 @@
 {
   "symbol": "mimir",
   "name": "Mimir",
-  "address": "0x71dc40668682a124231301414167E4CF7f55383C",
+  "address": "0x71dc40668682a124231301414167e4cf7f55383c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "$yield",
   "name": "YieldStone",
-  "address": "0x8C19f7854b27758DDFfdcDC8908F22BF55e00736",
+  "address": "0x8c19f7854b27758ddffdcdc8908f22bf55e00736",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pumlx",
   "name": "PUMLx",
-  "address": "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
+  "address": "0x8c088775e4139af116ac1fa6f281bbf71e8c1c73",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

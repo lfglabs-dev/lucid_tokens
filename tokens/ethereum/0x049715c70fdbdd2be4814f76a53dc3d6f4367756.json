@@ -1,7 +1,7 @@
 {
   "symbol": "nezuko",
   "name": "Nezuko",
-  "address": "0x049715C70fDbdD2be4814f76a53Dc3D6F4367756",
+  "address": "0x049715c70fdbdd2be4814f76a53dc3d6f4367756",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

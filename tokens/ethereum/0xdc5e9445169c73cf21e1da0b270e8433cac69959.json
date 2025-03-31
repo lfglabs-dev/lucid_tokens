@@ -1,7 +1,7 @@
 {
   "symbol": "ethereum",
   "name": "Ketaicoin",
-  "address": "0xDC5E9445169C73Cf21e1da0B270e8433caC69959",
+  "address": "0xdc5e9445169c73cf21e1da0b270e8433cac69959",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

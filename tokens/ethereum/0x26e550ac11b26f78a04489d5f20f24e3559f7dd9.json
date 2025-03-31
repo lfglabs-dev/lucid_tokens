@@ -1,7 +1,7 @@
 {
   "symbol": "kekius",
   "name": "Kekius Maximus",
-  "address": "0x26E550AC11B26f78A04489d5F20f24E3559f7Dd9",
+  "address": "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

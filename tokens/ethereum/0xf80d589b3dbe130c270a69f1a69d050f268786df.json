@@ -1,7 +1,7 @@
 {
   "symbol": "dam",
   "name": "Datamine",
-  "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+  "address": "0xf80d589b3dbe130c270a69f1a69d050f268786df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

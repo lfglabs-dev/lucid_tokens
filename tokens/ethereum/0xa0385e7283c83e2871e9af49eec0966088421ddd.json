@@ -1,7 +1,7 @@
 {
   "symbol": "ape",
   "name": "Ape",
-  "address": "0xa0385E7283C83e2871E9aF49EEC0966088421ddD",
+  "address": "0xa0385e7283c83e2871e9af49eec0966088421ddd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

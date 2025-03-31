@@ -1,7 +1,7 @@
 {
   "symbol": "pac",
   "name": "America Pac",
-  "address": "0x4C44A8B7823B80161Eb5E6D80c014024752607F2",
+  "address": "0x4c44a8b7823b80161eb5e6d80c014024752607f2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

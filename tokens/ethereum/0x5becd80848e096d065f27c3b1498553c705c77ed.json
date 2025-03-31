@@ -1,7 +1,7 @@
 {
   "symbol": "tai",
   "name": "TaiNet",
-  "address": "0x5BECD80848E096D065f27C3b1498553C705C77eD",
+  "address": "0x5becd80848e096d065f27c3b1498553c705c77ed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

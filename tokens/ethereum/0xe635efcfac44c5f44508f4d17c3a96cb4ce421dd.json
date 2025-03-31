@@ -1,7 +1,7 @@
 {
   "symbol": "spot",
   "name": "Defispot",
-  "address": "0xe635EFcfAc44C5f44508f4d17c3a96CB4Ce421dD",
+  "address": "0xe635efcfac44c5f44508f4d17c3a96cb4ce421dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

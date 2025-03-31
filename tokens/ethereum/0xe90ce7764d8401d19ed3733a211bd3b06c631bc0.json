@@ -1,7 +1,7 @@
 {
   "symbol": "pod",
   "name": "The Other Party",
-  "address": "0xE90CE7764d8401d19ed3733a211bd3b06c631Bc0",
+  "address": "0xe90ce7764d8401d19ed3733a211bd3b06c631bc0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

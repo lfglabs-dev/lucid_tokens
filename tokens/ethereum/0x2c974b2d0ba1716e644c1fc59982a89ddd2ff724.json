@@ -1,7 +1,7 @@
 {
   "symbol": "vib",
   "name": "Viberate",
-  "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
+  "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "hgeth",
   "name": "High Growth ETH",
-  "address": "0xc824A08dB624942c5E5F330d56530cD1598859fD",
+  "address": "0xc824a08db624942c5e5f330d56530cd1598859fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

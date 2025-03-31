@@ -1,7 +1,7 @@
 {
   "symbol": "cgeth.hashkey",
   "name": "cgETH Hashkey Cloud",
-  "address": "0xc60a9145D9e9f1152218e7da6df634b7a74aE444",
+  "address": "0xc60a9145d9e9f1152218e7da6df634b7a74ae444",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

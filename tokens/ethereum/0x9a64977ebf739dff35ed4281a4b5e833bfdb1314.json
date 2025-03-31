@@ -1,7 +1,7 @@
 {
   "symbol": "nftfn",
   "name": "NFTFN",
-  "address": "0x9a64977eBF739DFf35eD4281a4b5E833BFdB1314",
+  "address": "0x9a64977ebf739dff35ed4281a4b5e833bfdb1314",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "miharu",
   "name": "Smiling Dolphin",
-  "address": "0x5981E98440E41fa993B26912B080922b8Ed023c3",
+  "address": "0x5981e98440e41fa993b26912b080922b8ed023c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "felix",
   "name": "FELIX",
-  "address": "0x6F3cBE18e9381dEc6026e6Cb8166C13944fCFeE1",
+  "address": "0x6f3cbe18e9381dec6026e6cb8166c13944fcfee1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

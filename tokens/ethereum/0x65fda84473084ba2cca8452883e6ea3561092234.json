@@ -1,7 +1,7 @@
 {
   "symbol": "rkfi",
   "name": "Arkefi",
-  "address": "0x65FdA84473084bA2CcA8452883E6eA3561092234",
+  "address": "0x65fda84473084ba2cca8452883e6ea3561092234",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

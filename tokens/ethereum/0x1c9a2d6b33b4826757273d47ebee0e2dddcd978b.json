@@ -1,7 +1,7 @@
 {
   "symbol": "ffrax",
   "name": "Flux FRAX",
-  "address": "0x1C9A2d6b33B4826757273D47ebEe0e2DddcD978B",
+  "address": "0x1c9a2d6b33b4826757273d47ebee0e2dddcd978b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

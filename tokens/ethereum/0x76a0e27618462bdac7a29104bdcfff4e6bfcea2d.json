@@ -1,7 +1,7 @@
 {
   "symbol": "soso",
   "name": "SoSoValue",
-  "address": "0x76A0e27618462bDAC7a29104bdcfFf4E6BFCea2D",
+  "address": "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

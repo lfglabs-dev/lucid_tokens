@@ -1,7 +1,7 @@
 {
   "symbol": "eden",
   "name": "EDEN",
-  "address": "0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559",
+  "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

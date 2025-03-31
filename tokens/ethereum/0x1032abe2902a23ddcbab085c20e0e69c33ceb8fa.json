@@ -1,7 +1,7 @@
 {
   "symbol": "snake",
   "name": "Pepe Predator",
-  "address": "0x1032abe2902a23dDCbaB085C20E0e69c33cEB8fA",
+  "address": "0x1032abe2902a23ddcbab085c20e0e69c33ceb8fa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

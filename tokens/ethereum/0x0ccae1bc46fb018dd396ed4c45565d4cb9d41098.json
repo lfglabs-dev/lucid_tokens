@@ -1,7 +1,7 @@
 {
   "symbol": "misha",
   "name": "MISHA",
-  "address": "0x0CCAe1Bc46Fb018DD396Ed4c45565d4Cb9d41098",
+  "address": "0x0ccae1bc46fb018dd396ed4c45565d4cb9d41098",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "weeths",
   "name": "ether.fi weETHs",
-  "address": "0x917ceE801a67f933F2e6b33fC0cD1ED2d5909D88",
+  "address": "0x917cee801a67f933f2e6b33fc0cd1ed2d5909d88",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

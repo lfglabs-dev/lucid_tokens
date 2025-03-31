@@ -1,7 +1,7 @@
 {
   "symbol": "omnia",
   "name": "Omnia Protocol",
-  "address": "0x2E7e487D84B5BAbA5878A9833fb394bC89633Fd7",
+  "address": "0x2e7e487d84b5baba5878a9833fb394bc89633fd7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "glq",
   "name": "GraphLinq Chain",
-  "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+  "address": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

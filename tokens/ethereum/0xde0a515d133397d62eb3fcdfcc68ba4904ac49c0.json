@@ -1,7 +1,7 @@
 {
   "symbol": "shnj",
   "name": "Shinji",
-  "address": "0xdE0a515D133397d62EB3FcDfCc68Ba4904Ac49c0",
+  "address": "0xde0a515d133397d62eb3fcdfcc68ba4904ac49c0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

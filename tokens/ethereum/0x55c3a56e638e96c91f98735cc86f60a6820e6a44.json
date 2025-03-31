@@ -1,7 +1,7 @@
 {
   "symbol": "gav",
   "name": "GavCoin",
-  "address": "0x55c3A56e638e96C91F98735CC86F60a6820e6A44",
+  "address": "0x55c3a56e638e96c91f98735cc86f60a6820e6a44",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

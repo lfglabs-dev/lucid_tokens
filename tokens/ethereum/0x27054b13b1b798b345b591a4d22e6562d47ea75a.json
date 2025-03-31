@@ -1,7 +1,7 @@
 {
   "symbol": "ast",
   "name": "AirSwap",
-  "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+  "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

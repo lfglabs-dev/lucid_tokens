@@ -1,7 +1,7 @@
 {
   "symbol": "runevm",
   "name": "RUNEVM",
-  "address": "0x72d4BC91FbD9b257EaE62a5758288D9797c9a76a",
+  "address": "0x72d4bc91fbd9b257eae62a5758288d9797c9a76a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

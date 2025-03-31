@@ -1,7 +1,7 @@
 {
   "symbol": "berastone",
   "name": "StakeStone Berachain Vault Token",
-  "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
+  "address": "0x97ad75064b20fb2b2447fed4fa953bf7f007a706",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

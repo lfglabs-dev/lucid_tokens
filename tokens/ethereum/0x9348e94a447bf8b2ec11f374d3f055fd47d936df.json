@@ -1,7 +1,7 @@
 {
   "symbol": "flag",
   "name": "For Loot And Glory",
-  "address": "0x9348E94A447bF8B2ec11f374D3F055FD47d936Df",
+  "address": "0x9348e94a447bf8b2ec11f374d3f055fd47d936df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

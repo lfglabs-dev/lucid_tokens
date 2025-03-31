@@ -1,7 +1,7 @@
 {
   "symbol": "memelon",
   "name": "Meme Elon Doge Floki",
-  "address": "0x2C8eA636345a231e4b1a28F6EEb2072Ed909c406",
+  "address": "0x2c8ea636345a231e4b1a28f6eeb2072ed909c406",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

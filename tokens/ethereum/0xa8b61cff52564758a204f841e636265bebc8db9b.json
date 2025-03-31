@@ -1,7 +1,7 @@
 {
   "symbol": "yield",
   "name": "Yield Protocol",
-  "address": "0xa8B61CfF52564758A204F841E636265bEBC8db9B",
+  "address": "0xa8b61cff52564758a204f841e636265bebc8db9b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

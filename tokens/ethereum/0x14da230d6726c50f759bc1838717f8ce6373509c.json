@@ -1,7 +1,7 @@
 {
   "symbol": "kat",
   "name": "Kambria",
-  "address": "0x14da230d6726C50F759Bc1838717F8CE6373509C",
+  "address": "0x14da230d6726c50f759bc1838717f8ce6373509c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

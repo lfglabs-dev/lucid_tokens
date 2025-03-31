@@ -1,7 +1,7 @@
 {
   "symbol": "cat",
   "name": "Maxwell the spinning cat",
-  "address": "0x122303734c898e9d233afFc234271f04E42E77aD",
+  "address": "0x122303734c898e9d233affc234271f04e42e77ad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

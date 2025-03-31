@@ -1,7 +1,7 @@
 {
   "symbol": "aio",
   "name": "All In One Wallet",
-  "address": "0xb2F79d891F11bC8E9805dB135defc04EAD8d780E",
+  "address": "0xb2f79d891f11bc8e9805db135defc04ead8d780e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

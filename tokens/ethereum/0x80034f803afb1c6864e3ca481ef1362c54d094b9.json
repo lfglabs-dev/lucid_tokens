@@ -1,7 +1,7 @@
 {
   "symbol": "$npi",
   "name": "Non-Playable Inu",
-  "address": "0x80034F803afb1C6864E3cA481eF1362c54D094b9",
+  "address": "0x80034f803afb1c6864e3ca481ef1362c54d094b9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

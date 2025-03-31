@@ -1,7 +1,7 @@
 {
   "symbol": "conan",
   "name": "Conan",
-  "address": "0x85D19fb57CA7DA715695FCf347CA2169144523a7",
+  "address": "0x85d19fb57ca7da715695fcf347ca2169144523a7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

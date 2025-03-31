@@ -1,7 +1,7 @@
 {
   "symbol": "lyra",
   "name": "Lyra Finance",
-  "address": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
+  "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

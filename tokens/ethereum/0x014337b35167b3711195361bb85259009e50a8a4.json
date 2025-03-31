@@ -1,7 +1,7 @@
 {
   "symbol": "dnode",
   "name": "DecentraNode",
-  "address": "0x014337b35167b3711195361Bb85259009e50a8a4",
+  "address": "0x014337b35167b3711195361bb85259009e50a8a4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

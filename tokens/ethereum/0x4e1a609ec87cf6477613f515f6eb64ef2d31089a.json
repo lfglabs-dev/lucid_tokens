@@ -1,7 +1,7 @@
 {
   "symbol": "dgcs",
   "name": "Aktionariat Green Consensus AG Tokenized Shares",
-  "address": "0x4E1A609eC87cF6477613F515F6eB64eF2D31089a",
+  "address": "0x4e1a609ec87cf6477613f515f6eb64ef2d31089a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

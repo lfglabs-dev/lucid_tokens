@@ -1,7 +1,7 @@
 {
   "symbol": "tsai",
   "name": "TesseractAI",
-  "address": "0xE1C8d908f0e495Cf6D8459547d1d28B72bF04bf2",
+  "address": "0xe1c8d908f0e495cf6d8459547d1d28b72bf04bf2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

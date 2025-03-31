@@ -1,7 +1,7 @@
 {
   "symbol": "yvsusd",
   "name": "sUSD yVault",
-  "address": "0xa5cA62D95D24A4a350983D5B8ac4EB8638887396",
+  "address": "0xa5ca62d95d24a4a350983d5b8ac4eb8638887396",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

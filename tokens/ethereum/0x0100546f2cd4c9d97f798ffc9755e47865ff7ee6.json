@@ -1,7 +1,7 @@
 {
   "symbol": "aleth",
   "name": "Alchemix ETH",
-  "address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+  "address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

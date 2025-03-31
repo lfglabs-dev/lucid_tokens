@@ -1,7 +1,7 @@
 {
   "symbol": "ten",
   "name": "Tokenomy",
-  "address": "0xDD16eC0F66E54d453e6756713E533355989040E4",
+  "address": "0xdd16ec0f66e54d453e6756713e533355989040e4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

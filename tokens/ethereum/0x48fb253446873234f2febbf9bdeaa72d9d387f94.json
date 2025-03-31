@@ -1,7 +1,7 @@
 {
   "symbol": "vbnt",
   "name": "Bancor Governance",
-  "address": "0x48Fb253446873234F2fEBbF9BdeAA72d9d387f94",
+  "address": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

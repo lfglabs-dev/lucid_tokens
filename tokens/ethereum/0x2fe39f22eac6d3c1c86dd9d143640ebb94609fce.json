@@ -1,7 +1,7 @@
 {
   "symbol": "jdc",
   "name": "JD Coin",
-  "address": "0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE",
+  "address": "0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "psps",
   "name": "BobaCat",
-  "address": "0x03049b395147713ae53C0617093675B4b86dDE78",
+  "address": "0x03049b395147713ae53c0617093675b4b86dde78",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

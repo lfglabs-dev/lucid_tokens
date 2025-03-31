@@ -1,7 +1,7 @@
 {
   "symbol": "chap",
   "name": "Chappie",
-  "address": "0x414cbF31c62D99515bfD66497B495a585b52F703",
+  "address": "0x414cbf31c62d99515bfd66497b495a585b52f703",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

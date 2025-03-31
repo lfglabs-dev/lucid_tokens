@@ -1,7 +1,7 @@
 {
   "symbol": "mco2",
   "name": "Moss Carbon Credit",
-  "address": "0xfC98e825A2264D890F9a1e68ed50E1526abCcacD",
+  "address": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

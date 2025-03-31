@@ -1,7 +1,7 @@
 {
   "symbol": "smart",
   "name": "Smart AI",
-  "address": "0xFE7290b932Cd0D5aEc29c57394E87cDaA41cC054",
+  "address": "0xfe7290b932cd0d5aec29c57394e87cdaa41cc054",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

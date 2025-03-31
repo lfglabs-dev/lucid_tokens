@@ -1,7 +1,7 @@
 {
   "symbol": "pols",
   "name": "Polkastarter",
-  "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+  "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

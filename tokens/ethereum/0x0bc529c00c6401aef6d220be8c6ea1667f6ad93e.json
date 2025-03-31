@@ -1,7 +1,7 @@
 {
   "symbol": "yfi",
   "name": "yearn.finance",
-  "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+  "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -13,11 +13,9 @@
     "ethereum": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
     "xdai": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
     "optimistic-ethereum": "0x9046d36440290ffde54fe0dd84db8b1cfee9107b",
-    "near-protocol": "0bc529c00c6401aef6d220be8c6ea1667f6ad93e.factory.bridge.near",
     "energi": "0x2726dd5efb3a209a54c512e9562a2045b8f45dbc",
     "huobi-token": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
     "harmony-shard-0": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
-    "sora": "0x002676c3edea5b08bc0f9b6809a91aa313b7da35e28b190222e9dc032bf1e662",
     "fantom": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
     "avalanche": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
     "arbitrum-one": "0x82e3a8f066a6989666b031d916c43672085b1582",

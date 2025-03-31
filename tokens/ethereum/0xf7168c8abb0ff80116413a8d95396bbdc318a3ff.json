@@ -1,7 +1,7 @@
 {
   "symbol": "keke",
   "name": "KEK",
-  "address": "0xf7168c8AbB0ff80116413a8d95396BBdC318A3fF",
+  "address": "0xf7168c8abb0ff80116413a8d95396bbdc318a3ff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

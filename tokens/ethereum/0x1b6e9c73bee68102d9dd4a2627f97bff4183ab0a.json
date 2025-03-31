@@ -1,7 +1,7 @@
 {
   "symbol": "ole",
   "name": "OpenLeverage",
-  "address": "0x1B6e9c73beE68102d9dd4A2627f97bFf4183ab0A",
+  "address": "0x1b6e9c73bee68102d9dd4a2627f97bff4183ab0a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

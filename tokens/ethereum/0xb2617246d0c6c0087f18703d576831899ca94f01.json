@@ -11,9 +11,7 @@
   },
   "platforms": {
     "ethereum": "0xb2617246d0c6c0087f18703d576831899ca94f01",
-    "injective": "peggy0xb2617246d0c6c0087f18703d576831899ca94f01",
     "binance-smart-chain": "0x8c907e0a72c3d55627e853f4ec6a96b0c8771145",
-    "polygon-pos": "0x7bebd226154e865954a87650faefa8f485d36081",
-    "solana": "26f12PmBk77wQV1TzLe8XKkNBvMFggbuypxdtMLzNLzz"
+    "polygon-pos": "0x7bebd226154e865954a87650faefa8f485d36081"
   }
 }

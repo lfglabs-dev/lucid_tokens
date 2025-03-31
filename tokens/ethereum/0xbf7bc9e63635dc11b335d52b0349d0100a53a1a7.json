@@ -1,7 +1,7 @@
 {
   "symbol": "ltao",
   "name": "LinkTao",
-  "address": "0xBf7BC9E63635dC11b335D52b0349d0100A53A1a7",
+  "address": "0xbf7bc9e63635dc11b335d52b0349d0100a53a1a7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

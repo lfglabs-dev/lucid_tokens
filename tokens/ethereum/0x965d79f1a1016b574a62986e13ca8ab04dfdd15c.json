@@ -1,7 +1,7 @@
 {
   "symbol": "m2",
   "name": "M2",
-  "address": "0x965d79F1A1016B574a62986e13Ca8Ab04DfdD15C",
+  "address": "0x965d79f1a1016b574a62986e13ca8ab04dfdd15c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

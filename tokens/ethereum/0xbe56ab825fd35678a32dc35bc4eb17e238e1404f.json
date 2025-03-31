@@ -1,7 +1,7 @@
 {
   "symbol": "digits",
   "name": "Digits DAO",
-  "address": "0xBE56ab825fD35678A32dc35bc4EB17e238e1404F",
+  "address": "0xbe56ab825fd35678a32dc35bc4eb17e238e1404f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

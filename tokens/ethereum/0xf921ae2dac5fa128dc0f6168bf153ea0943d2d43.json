@@ -1,7 +1,7 @@
 {
   "symbol": "fire",
   "name": "Fire Protocol",
-  "address": "0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43",
+  "address": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

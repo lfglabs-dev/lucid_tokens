@@ -1,7 +1,7 @@
 {
   "symbol": "xv",
   "name": "XV",
-  "address": "0x34DCE75a3D1910CC9D188aA5a75fb9ADDCAe0fcC",
+  "address": "0x34dce75a3d1910cc9d188aa5a75fb9addcae0fcc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

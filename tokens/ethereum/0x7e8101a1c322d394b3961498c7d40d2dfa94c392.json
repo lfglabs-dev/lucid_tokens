@@ -1,7 +1,7 @@
 {
   "symbol": "wbnvda",
   "name": "Wrapped bNVDA",
-  "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+  "address": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

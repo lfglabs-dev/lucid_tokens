@@ -1,7 +1,7 @@
 {
   "symbol": "nogs",
   "name": "Noggles",
-  "address": "0x5Fa20D59d2A907E5FEd9Fb80B4A8D9F0d069a48D",
+  "address": "0x5fa20d59d2a907e5fed9fb80b4a8d9f0d069a48d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

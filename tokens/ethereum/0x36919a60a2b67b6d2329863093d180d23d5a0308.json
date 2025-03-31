@@ -1,7 +1,7 @@
 {
   "symbol": "kusunoki",
   "name": "Kusunoki Samurai",
-  "address": "0x36919a60a2B67B6d2329863093D180d23d5A0308",
+  "address": "0x36919a60a2b67b6d2329863093d180d23d5a0308",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "xfund",
   "name": "xFUND",
-  "address": "0x892A6f9dF0147e5f079b0993F486F9acA3c87881",
+  "address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
-    "sora": "0x007e908e399cc73f3dad9f02f9c5c83a7adcd07e78dd91676ff3c002e245d8e9"
+    "ethereum": "0x892a6f9df0147e5f079b0993f486f9aca3c87881"
   }
 }

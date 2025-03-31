@@ -1,7 +1,7 @@
 {
   "symbol": "volt",
   "name": "VOLT.WIN",
-  "address": "0x66b5228CfD34d9f4d9f03188d67816286C7c0b74",
+  "address": "0x66b5228cfd34d9f4d9f03188d67816286c7c0b74",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

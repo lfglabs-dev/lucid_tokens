@@ -1,7 +1,7 @@
 {
   "symbol": "cats",
   "name": "CatCoin Token",
-  "address": "0xD4B92b1700615afAE333B9D16D28Eb55E8E689B8",
+  "address": "0xd4b92b1700615afae333b9d16d28eb55e8e689b8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "azuki",
   "name": "Azuki",
-  "address": "0x910524678C0B1B23FFB9285a81f99C29C11CBaEd",
+  "address": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

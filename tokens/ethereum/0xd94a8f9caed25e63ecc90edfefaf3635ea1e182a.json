@@ -1,7 +1,7 @@
 {
   "symbol": "scomp",
   "name": "Stablecomp",
-  "address": "0xd94A8f9caeD25E63eCc90EDfefAf3635eA1e182a",
+  "address": "0xd94a8f9caed25e63ecc90edfefaf3635ea1e182a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

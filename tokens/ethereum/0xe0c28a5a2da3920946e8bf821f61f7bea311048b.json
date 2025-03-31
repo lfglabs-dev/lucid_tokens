@@ -1,7 +1,7 @@
 {
   "symbol": "keth",
   "name": "Stakehouse kETH",
-  "address": "0xE0C28A5A2da3920946E8Bf821F61F7BEA311048b",
+  "address": "0xe0c28a5a2da3920946e8bf821f61f7bea311048b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

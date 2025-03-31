@@ -1,7 +1,7 @@
 {
   "symbol": "uwbtc",
   "name": "Unagii Wrapped Bitcoin",
-  "address": "0x3aF5Ba94C29a8407785f5f6d90eF5d69a8EB2436",
+  "address": "0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

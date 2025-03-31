@@ -1,7 +1,7 @@
 {
   "symbol": "hyve",
   "name": "Hyve",
-  "address": "0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4",
+  "address": "0xd794dd1cada4cf79c9eebaab8327a1b0507ef7d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tlm",
   "name": "Alien Worlds",
-  "address": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
+  "address": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72",
-    "wax": "TLM-wax-alien.worlds",
     "binance-smart-chain": "0x2222227e22102fe3322098e4cbfe18cfebd57c95"
   }
 }

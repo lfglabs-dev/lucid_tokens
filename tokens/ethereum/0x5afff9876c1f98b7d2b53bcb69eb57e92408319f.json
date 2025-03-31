@@ -1,7 +1,7 @@
 {
   "symbol": "mesa",
   "name": "metavisa",
-  "address": "0x5AFFF9876C1F98b7d2b53bCB69EB57e92408319F",
+  "address": "0x5afff9876c1f98b7d2b53bcb69eb57e92408319f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

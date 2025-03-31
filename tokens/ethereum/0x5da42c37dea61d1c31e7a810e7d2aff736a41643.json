@@ -1,7 +1,7 @@
 {
   "symbol": "yes",
   "name": "Yes Chad",
-  "address": "0x5da42c37dEa61d1C31E7a810E7d2aFf736A41643",
+  "address": "0x5da42c37dea61d1c31e7a810e7d2aff736a41643",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x5da42c37dea61d1c31e7a810e7d2aff736a41643",
-    "solana": "6brGsbvP1PTitDGGsz1TXF2CvvvRkS5QvQA8UH3ooe7i"
+    "ethereum": "0x5da42c37dea61d1c31e7a810e7d2aff736a41643"
   }
 }

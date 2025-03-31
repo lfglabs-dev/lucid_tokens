@@ -1,7 +1,7 @@
 {
   "symbol": "dgk",
   "name": "DIGIKA",
-  "address": "0xf4445049080Ae2FDe75aAf0c6e603fb55875F02C",
+  "address": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ston",
   "name": "Ston",
-  "address": "0xdC47f2Ba852669B178699449E50682D6CEAF8C07",
+  "address": "0xdc47f2ba852669b178699449e50682d6ceaf8c07",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

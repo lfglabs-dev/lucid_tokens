@@ -1,7 +1,7 @@
 {
   "symbol": "locus",
   "name": "Locus Chain",
-  "address": "0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
+  "address": "0xc64500dd7b0f1794807e67802f8abbf5f8ffb054",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

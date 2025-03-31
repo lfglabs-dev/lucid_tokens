@@ -1,7 +1,7 @@
 {
   "symbol": "wbmstr",
   "name": "Wrapped bMSTR",
-  "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+  "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ichi",
   "name": "ICHI",
-  "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+  "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

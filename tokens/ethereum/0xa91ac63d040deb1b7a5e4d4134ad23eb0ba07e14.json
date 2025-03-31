@@ -1,7 +1,7 @@
 {
   "symbol": "bel",
   "name": "Bella Protocol",
-  "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
+  "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

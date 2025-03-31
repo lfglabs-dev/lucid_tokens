@@ -1,7 +1,7 @@
 {
   "symbol": "$dcay",
   "name": "Whispers Of Decay",
-  "address": "0x0DB56f603E754F3539157e2B207eFf10A4ebd641",
+  "address": "0x0db56f603e754f3539157e2b207eff10a4ebd641",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

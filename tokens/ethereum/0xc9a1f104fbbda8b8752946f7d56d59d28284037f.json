@@ -1,7 +1,7 @@
 {
   "symbol": "doug",
   "name": "Doug",
-  "address": "0xC9a1f104FBbda8b8752946f7D56d59D28284037f",
+  "address": "0xc9a1f104fbbda8b8752946f7d56d59d28284037f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

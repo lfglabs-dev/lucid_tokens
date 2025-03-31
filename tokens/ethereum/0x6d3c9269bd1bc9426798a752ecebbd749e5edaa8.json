@@ -1,7 +1,7 @@
 {
   "symbol": "lnex",
   "name": "Lunex Network",
-  "address": "0x6d3C9269BD1Bc9426798a752EcEBbD749E5eDaA8",
+  "address": "0x6d3c9269bd1bc9426798a752ecebbd749e5edaa8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "aegis",
   "name": "Aegis Ai",
-  "address": "0x55A8f6c6b3Aa58ad6D1f26f6AFeDEd78F32E19f4",
+  "address": "0x55a8f6c6b3aa58ad6d1f26f6afeded78f32e19f4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

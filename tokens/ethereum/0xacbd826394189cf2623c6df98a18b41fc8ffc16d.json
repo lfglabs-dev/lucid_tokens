@@ -1,7 +1,7 @@
 {
   "symbol": "n1",
   "name": "NFTify",
-  "address": "0xaCbd826394189Cf2623C6DF98a18b41fC8fFC16D",
+  "address": "0xacbd826394189cf2623c6df98a18b41fc8ffc16d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "gec",
   "name": "Gecoin",
-  "address": "0xe304283C3e60Cefaf7eA514007Cf4E8fdC3d869d",
+  "address": "0xe304283c3e60cefaf7ea514007cf4e8fdc3d869d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

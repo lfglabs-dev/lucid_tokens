@@ -1,7 +1,7 @@
 {
   "symbol": "mxh",
   "name": "Metroxynth",
-  "address": "0x95640a134721475bc78594c8Ea66C0182C7B9A50",
+  "address": "0x95640a134721475bc78594c8ea66c0182c7b9a50",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

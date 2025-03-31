@@ -1,7 +1,7 @@
 {
   "symbol": "xion",
   "name": "XION",
-  "address": "0x24D7ad9402717F429A81925fe7643B78918EdA8B",
+  "address": "0x24d7ad9402717f429a81925fe7643b78918eda8b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "vai",
   "name": "VAIOT",
-  "address": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+  "address": "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mollars",
   "name": "MollarsToken",
-  "address": "0x385d65Ed9241E415cFC689C3e0BCf5aB2f0505c2",
+  "address": "0x385d65ed9241e415cfc689c3e0bcf5ab2f0505c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

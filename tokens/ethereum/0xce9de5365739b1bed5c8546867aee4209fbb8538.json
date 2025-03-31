@@ -1,7 +1,7 @@
 {
   "symbol": "thug",
   "name": "Thug Life",
-  "address": "0xCe9DE5365739B1BEd5C8546867AeE4209FbB8538",
+  "address": "0xce9de5365739b1bed5c8546867aee4209fbb8538",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

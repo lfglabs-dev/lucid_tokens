@@ -1,7 +1,7 @@
 {
   "symbol": "lsdai",
   "name": "Liquid Savings DAI",
-  "address": "0xe1A70B24E109F7A8b39806c554E123Efc6769E91",
+  "address": "0xe1a70b24e109f7a8b39806c554e123efc6769e91",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

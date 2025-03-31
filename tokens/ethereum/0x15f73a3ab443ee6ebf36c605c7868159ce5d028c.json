@@ -1,7 +1,7 @@
 {
   "symbol": "sst",
   "name": "SmartsetToken",
-  "address": "0x15F73a3AB443ee6EbF36c605C7868159cE5d028C",
+  "address": "0x15f73a3ab443ee6ebf36c605c7868159ce5d028c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

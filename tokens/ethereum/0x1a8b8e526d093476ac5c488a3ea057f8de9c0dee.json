@@ -1,7 +1,7 @@
 {
   "symbol": "jeff",
   "name": "JEFFWorld Token",
-  "address": "0x1a8B8e526D093476ac5C488a3eA057f8DE9C0dEe",
+  "address": "0x1a8b8e526d093476ac5c488a3ea057f8de9c0dee",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

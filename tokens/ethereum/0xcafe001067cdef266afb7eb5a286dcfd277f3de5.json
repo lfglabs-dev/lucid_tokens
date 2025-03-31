@@ -1,7 +1,7 @@
 {
   "symbol": "psp",
   "name": "ParaSwap",
-  "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+  "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "arg",
   "name": "Aragon Protocol",
-  "address": "0xf23114FA21AF278Fa342d980740cb8b89fC82105",
+  "address": "0xf23114fa21af278fa342d980740cb8b89fc82105",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

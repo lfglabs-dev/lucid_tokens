@@ -1,7 +1,7 @@
 {
   "symbol": "ord",
   "name": "ordinex",
-  "address": "0xBe00734799A67a62Af2819825580318aC1B1E4Ec",
+  "address": "0xbe00734799a67a62af2819825580318ac1b1e4ec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

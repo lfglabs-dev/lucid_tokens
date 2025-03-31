@@ -1,7 +1,7 @@
 {
   "symbol": "btl",
   "name": "Bitlocus",
-  "address": "0x93e32efaFd24973d45f363A76D73ccB9Edf59986",
+  "address": "0x93e32efafd24973d45f363a76d73ccb9edf59986",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "terra": "terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl",
     "ethereum": "0x93e32efafd24973d45f363a76d73ccb9edf59986",
     "binance-smart-chain": "0x51e7b598c9155b9dccb04eb42519f6eec9c841e9"
   }

@@ -1,7 +1,7 @@
 {
   "symbol": "zunusd",
   "name": "Zunami USD",
-  "address": "0x8C0D76C9B18779665475F3E212D9Ca1Ed6A1A0e6",
+  "address": "0x8c0d76c9b18779665475f3e212d9ca1ed6a1a0e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

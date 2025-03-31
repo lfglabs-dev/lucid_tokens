@@ -1,7 +1,7 @@
 {
   "symbol": "mx",
   "name": "MX",
-  "address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+  "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

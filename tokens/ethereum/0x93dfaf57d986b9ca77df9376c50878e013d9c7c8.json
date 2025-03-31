@@ -1,7 +1,7 @@
 {
   "symbol": "rare",
   "name": "Unique One",
-  "address": "0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8",
+  "address": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
-    "sora": "0x0047e323378d23116261954e67836f350c45625124bbadb35404d9109026feb5"
+    "ethereum": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8"
   }
 }

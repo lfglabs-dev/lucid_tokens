@@ -1,7 +1,7 @@
 {
   "symbol": "dnow",
   "name": "DuelNow",
-  "address": "0x8074836637eB9cC73a01a65D5700907Fc639c4E9",
+  "address": "0x8074836637eb9cc73a01a65d5700907fc639c4e9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

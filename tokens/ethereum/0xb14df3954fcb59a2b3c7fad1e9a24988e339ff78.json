@@ -1,7 +1,7 @@
 {
   "symbol": "o3d",
   "name": "Origin3D",
-  "address": "0xb14df3954FCb59A2B3c7Fad1e9a24988E339ff78",
+  "address": "0xb14df3954fcb59a2b3c7fad1e9a24988e339ff78",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

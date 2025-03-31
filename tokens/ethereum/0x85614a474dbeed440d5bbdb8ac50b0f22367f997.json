@@ -1,7 +1,7 @@
 {
   "symbol": "xvg",
   "name": "Verge (ETH)",
-  "address": "0x85614A474dBeED440d5BBDB8aC50b0f22367F997",
+  "address": "0x85614a474dbeed440d5bbdb8ac50b0f22367f997",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

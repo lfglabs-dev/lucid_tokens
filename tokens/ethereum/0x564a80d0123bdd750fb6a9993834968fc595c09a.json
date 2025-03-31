@@ -1,7 +1,7 @@
 {
   "symbol": "subf",
   "name": "Super Best Friends",
-  "address": "0x564A80d0123Bdd750fb6A9993834968fc595C09A",
+  "address": "0x564a80d0123bdd750fb6a9993834968fc595c09a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

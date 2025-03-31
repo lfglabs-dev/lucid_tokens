@@ -1,7 +1,7 @@
 {
   "symbol": "god",
   "name": "Godcoin",
-  "address": "0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948",
+  "address": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

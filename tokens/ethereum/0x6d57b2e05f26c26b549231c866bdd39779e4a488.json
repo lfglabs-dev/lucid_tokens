@@ -1,7 +1,7 @@
 {
   "symbol": "vnxau",
   "name": "VNX Gold",
-  "address": "0x6d57B2E05F26C26b549231c866bdd39779e4a488",
+  "address": "0x6d57b2e05f26c26b549231c866bdd39779e4a488",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,8 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x6d57b2e05f26c26b549231c866bdd39779e4a488",
-    "tezos": "KT1LSH97386CURN9FgRNqdQJoHaHY6e1vxUv",
-    "polygon-pos": "0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400",
-    "solana": "9TPL8droGJ7jThsq4momaoz6uhTcvX2SeMqipoPmNa8R"
+    "polygon-pos": "0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400"
   }
 }

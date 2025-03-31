@@ -1,7 +1,7 @@
 {
   "symbol": "msi",
   "name": "Monkey Shit Inu",
-  "address": "0x2Be8e422cb4A5A7f217a8F1b0658952a79132F28",
+  "address": "0x2be8e422cb4a5a7f217a8f1b0658952a79132f28",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

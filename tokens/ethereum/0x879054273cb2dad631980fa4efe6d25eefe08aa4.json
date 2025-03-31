@@ -1,7 +1,7 @@
 {
   "symbol": "msfrxeth",
   "name": "Eigenpie frxETH",
-  "address": "0x879054273cb2DAD631980Fa4efE6d25eeFe08AA4",
+  "address": "0x879054273cb2dad631980fa4efe6d25eefe08aa4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

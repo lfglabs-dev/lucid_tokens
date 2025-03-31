@@ -1,7 +1,7 @@
 {
   "symbol": "sln",
   "name": "Smart Layer Network",
-  "address": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14",
+  "address": "0xdb82c0d91e057e05600c8f8dc836beb41da6df14",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -16,7 +16,6 @@
     "polygon-zkevm": "0x62e2ea221e8fe0233ccabc0297b542b16ef3e8fa",
     "zksync": "0x14c64a6e09511207b7746f1b6a76f9d8fa4f695f",
     "mint": "0xa356c6c6dc0fec7eb14778269fa4fc38a4fb3d1f",
-    "scroll": "18",
     "binance-smart-chain": "0x82a8884200bf6df1f719de76570db18535ed94c3",
     "polygon-pos": "0x1fe78e67ad10ba3a9583e672cac0480737d1b9f7",
     "base": "0xef0b105b4f2ce61d2a7ae62d03b1f4cb6c4fbeec"

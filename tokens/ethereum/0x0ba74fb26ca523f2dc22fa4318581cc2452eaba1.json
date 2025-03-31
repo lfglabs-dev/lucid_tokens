@@ -1,7 +1,7 @@
 {
   "symbol": "bog",
   "name": "Bogdanoff",
-  "address": "0x0BA74fb26Ca523f2dc22fa4318581CC2452eAbA1",
+  "address": "0x0ba74fb26ca523f2dc22fa4318581cc2452eaba1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

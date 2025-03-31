@@ -1,7 +1,7 @@
 {
   "symbol": "flip",
   "name": "Chainflip",
-  "address": "0x826180541412D574cf1336d22c0C0a287822678A",
+  "address": "0x826180541412d574cf1336d22c0c0a287822678a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

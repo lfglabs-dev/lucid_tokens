@@ -1,7 +1,7 @@
 {
   "symbol": "ogn",
   "name": "Origin Token",
-  "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+  "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

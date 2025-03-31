@@ -1,7 +1,7 @@
 {
   "symbol": "boo",
   "name": "Spookyswap",
-  "address": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
+  "address": "0x55af5865807b196bd0197e0902746f31fbccfa58",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

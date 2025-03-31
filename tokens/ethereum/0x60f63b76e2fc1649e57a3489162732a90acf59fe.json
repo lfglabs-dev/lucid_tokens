@@ -1,7 +1,7 @@
 {
   "symbol": "flurry",
   "name": "Flurry Finance",
-  "address": "0x60F63B76E2Fc1649E57a3489162732A90ACf59FE",
+  "address": "0x60f63b76e2fc1649e57a3489162732a90acf59fe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

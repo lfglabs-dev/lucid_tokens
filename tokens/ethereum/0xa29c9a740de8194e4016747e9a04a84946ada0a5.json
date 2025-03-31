@@ -1,7 +1,7 @@
 {
   "symbol": "numi",
   "name": "NUMINE Token",
-  "address": "0xa29C9a740De8194e4016747E9A04a84946ada0a5",
+  "address": "0xa29c9a740de8194e4016747e9a04a84946ada0a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

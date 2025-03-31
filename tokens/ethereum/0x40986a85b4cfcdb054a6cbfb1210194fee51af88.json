@@ -1,7 +1,7 @@
 {
   "symbol": "ufarm",
   "name": "UniFarm",
-  "address": "0x40986a85B4cFCDb054A6CBFB1210194fee51af88",
+  "address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

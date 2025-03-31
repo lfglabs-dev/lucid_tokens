@@ -1,7 +1,7 @@
 {
   "symbol": "vest",
   "name": "DAO Invest",
-  "address": "0x1f19f83fC9a25F3C861260143E36c17706257986",
+  "address": "0x1f19f83fc9a25f3c861260143e36c17706257986",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

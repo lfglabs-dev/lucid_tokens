@@ -1,7 +1,7 @@
 {
   "symbol": "noone",
   "name": "No One",
-  "address": "0x296233E84c1D7bfF11121BF6D60f0FFA39C3f0cf",
+  "address": "0x296233e84c1d7bff11121bf6d60f0ffa39c3f0cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

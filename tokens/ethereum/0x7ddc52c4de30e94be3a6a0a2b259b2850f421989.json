@@ -1,7 +1,7 @@
 {
   "symbol": "gomining",
   "name": "GoMining Token",
-  "address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+  "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,8 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
-    "the-open-network": "EQD0laik0FgHV8aNfRhebi8GDG2rpDyKGXem0MBfya_Ew1-8",
-    "binance-smart-chain": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
-    "solana": "3KzAE8dPyJRgZ36Eh81v7WPwi6dm7bDhdMb8EAus2RAf"
+    "binance-smart-chain": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989"
   }
 }

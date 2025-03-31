@@ -1,7 +1,7 @@
 {
   "symbol": "volta",
   "name": "Volta Club",
-  "address": "0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76",
+  "address": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

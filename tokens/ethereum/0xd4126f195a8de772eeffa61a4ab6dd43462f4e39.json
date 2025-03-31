@@ -1,7 +1,7 @@
 {
   "symbol": "hikari",
   "name": "Hikari Protocol",
-  "address": "0xd4126f195a8de772EeFfa61a4aB6dd43462F4e39",
+  "address": "0xd4126f195a8de772eeffa61a4ab6dd43462f4e39",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

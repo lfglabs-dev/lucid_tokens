@@ -1,7 +1,7 @@
 {
   "symbol": "omusd",
   "name": "OpenMoney USD",
-  "address": "0xd3043D66Afe00344C115f7f81D18277C5c718FF8",
+  "address": "0xd3043d66afe00344c115f7f81d18277c5c718ff8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

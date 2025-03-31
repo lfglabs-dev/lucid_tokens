@@ -1,7 +1,7 @@
 {
   "symbol": "giza",
   "name": "Giza",
-  "address": "0x590830dFDf9A3F68aFCDdE2694773dEBDF267774",
+  "address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

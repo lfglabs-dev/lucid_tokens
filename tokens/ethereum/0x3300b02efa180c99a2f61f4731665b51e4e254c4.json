@@ -1,7 +1,7 @@
 {
   "symbol": "hmkr",
   "name": "Hitmakr",
-  "address": "0x3300b02efa180c99a2F61f4731665b51e4E254C4",
+  "address": "0x3300b02efa180c99a2f61f4731665b51e4e254c4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

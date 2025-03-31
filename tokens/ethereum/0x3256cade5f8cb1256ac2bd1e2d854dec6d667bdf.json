@@ -1,7 +1,7 @@
 {
   "symbol": "mogu",
   "name": "Mogutou",
-  "address": "0x3256CaDE5f8Cb1256AC2bd1E2D854Dec6d667bdF",
+  "address": "0x3256cade5f8cb1256ac2bd1e2d854dec6d667bdf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

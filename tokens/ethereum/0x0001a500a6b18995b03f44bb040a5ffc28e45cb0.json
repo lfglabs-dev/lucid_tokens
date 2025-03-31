@@ -1,7 +1,7 @@
 {
   "symbol": "olas",
   "name": "Autonolas",
-  "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+  "address": "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -17,7 +17,6 @@
     "celo": "0xacffae8e57ec6e394eb1b41939a8cf7892dbdc51",
     "mode": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
     "xdai": "0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f",
-    "polygon-pos": "0xfef5d947472e72efbb2e388c730b7428406f2f95",
-    "solana": "Ez3nzG9ofodYCvEmw73XhQ87LWNYVRM2s7diB5tBZPyM"
+    "polygon-pos": "0xfef5d947472e72efbb2e388c730b7428406f2f95"
   }
 }

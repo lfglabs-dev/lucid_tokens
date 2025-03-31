@@ -1,7 +1,7 @@
 {
   "symbol": "virtual",
   "name": "Virtuals Protocol",
-  "address": "0x44ff8620b8cA30902395A7bD3F2407e1A091BF73",
+  "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
-    "solana": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
     "base": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b"
   }
 }

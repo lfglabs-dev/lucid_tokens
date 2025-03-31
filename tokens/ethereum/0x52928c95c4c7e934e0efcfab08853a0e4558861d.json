@@ -1,7 +1,7 @@
 {
   "symbol": "hart",
   "name": "Hara",
-  "address": "0x52928C95C4C7e934E0EfcfAB08853A0E4558861d",
+  "address": "0x52928c95c4c7e934e0efcfab08853a0e4558861d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

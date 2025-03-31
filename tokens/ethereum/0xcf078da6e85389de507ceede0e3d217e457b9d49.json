@@ -1,7 +1,7 @@
 {
   "symbol": "skai",
   "name": "Skillful AI",
-  "address": "0xCF078DA6e85389de507ceeDE0E3d217e457B9d49",
+  "address": "0xcf078da6e85389de507ceede0e3d217e457b9d49",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

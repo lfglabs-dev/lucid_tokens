@@ -1,7 +1,7 @@
 {
   "symbol": "woeth",
   "name": "Wrapped OETH",
-  "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+  "address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

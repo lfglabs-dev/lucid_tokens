@@ -1,7 +1,7 @@
 {
   "symbol": "ai.com",
   "name": "AI.COM",
-  "address": "0x9d1A74967ECa155782edF8e84782C74DB33FC499",
+  "address": "0x9d1a74967eca155782edf8e84782c74db33fc499",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

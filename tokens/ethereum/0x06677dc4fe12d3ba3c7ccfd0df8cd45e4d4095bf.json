@@ -1,7 +1,7 @@
 {
   "symbol": "wqt",
   "name": "Work Quest",
-  "address": "0x06677Dc4fE12d3ba3C7CCfD0dF8Cd45e4D4095bF",
+  "address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

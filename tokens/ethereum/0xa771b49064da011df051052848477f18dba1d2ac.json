@@ -1,7 +1,7 @@
 {
   "symbol": "hns",
   "name": "Handshake",
-  "address": "0xA771b49064Da011DF051052848477f18DbA1d2Ac",
+  "address": "0xa771b49064da011df051052848477f18dba1d2ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

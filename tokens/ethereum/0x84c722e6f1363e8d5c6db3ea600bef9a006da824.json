@@ -1,7 +1,7 @@
 {
   "symbol": "msb",
   "name": "Misbloc",
-  "address": "0x84c722e6F1363E8D5C6dB3eA600bEF9a006Da824",
+  "address": "0x84c722e6f1363e8d5c6db3ea600bef9a006da824",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

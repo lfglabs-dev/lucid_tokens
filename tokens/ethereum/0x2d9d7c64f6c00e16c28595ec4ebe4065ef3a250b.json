@@ -1,7 +1,7 @@
 {
   "symbol": "gfy",
   "name": "go fu*k yourself.",
-  "address": "0x2D9D7c64F6c00e16C28595ec4EbE4065ef3A250b",
+  "address": "0x2d9d7c64f6c00e16c28595ec4ebe4065ef3a250b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x2d9d7c64f6c00e16c28595ec4ebe4065ef3a250b",
-    "pulsechain": "0x542d62f23a2c7d17d045e3b22e3ab530ca39afc4",
-    "solana": "6CNkQVWLSRxZEa1eZ2PFjQyLCVZ48U9oGcggdS9cTJoK"
+    "pulsechain": "0x542d62f23a2c7d17d045e3b22e3ab530ca39afc4"
   }
 }

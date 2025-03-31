@@ -1,7 +1,7 @@
 {
   "symbol": "estee",
   "name": "Kaga No Fuuka Go Sapporo Kagasou",
-  "address": "0x8bd35250918eD056304fA8641E083bE2c42308BB",
+  "address": "0x8bd35250918ed056304fa8641e083be2c42308bb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "$vault",
   "name": "Vault AI",
-  "address": "0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
+  "address": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

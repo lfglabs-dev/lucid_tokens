@@ -1,7 +1,7 @@
 {
   "symbol": "cot",
   "name": "CoTrader",
-  "address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+  "address": "0x5c872500c00565505f3624ab435c222e558e9ff8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bc3m",
   "name": "Backed GOVIES 0-6 months EURO",
-  "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
+  "address": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

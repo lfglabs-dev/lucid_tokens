@@ -1,7 +1,7 @@
 {
   "symbol": "orbk",
   "name": "Ordibank",
-  "address": "0xCe6E54DaA1ea95fb3530859d69D4bdb978dd821b",
+  "address": "0xce6e54daa1ea95fb3530859d69d4bdb978dd821b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

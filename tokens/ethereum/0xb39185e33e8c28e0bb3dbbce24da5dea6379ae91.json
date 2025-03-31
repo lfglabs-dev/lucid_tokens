@@ -1,7 +1,7 @@
 {
   "symbol": "phunk",
   "name": "PHUNK Vault (NFTX)",
-  "address": "0xB39185e33E8c28e0BB3DbBCe24DA5dEA6379Ae91",
+  "address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

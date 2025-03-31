@@ -1,7 +1,7 @@
 {
   "symbol": "areth",
   "name": "Aave v3 rETH",
-  "address": "0xCc9EE9483f662091a1de4795249E24aC0aC2630f",
+  "address": "0xcc9ee9483f662091a1de4795249e24ac0ac2630f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

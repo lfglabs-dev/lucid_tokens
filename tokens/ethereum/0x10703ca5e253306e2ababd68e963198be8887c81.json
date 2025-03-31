@@ -1,7 +1,7 @@
 {
   "symbol": "scan",
   "name": "0xScans",
-  "address": "0x10703cA5e253306e2ABABD68e963198be8887c81",
+  "address": "0x10703ca5e253306e2ababd68e963198be8887c81",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "handz",
   "name": "Handz of Gods",
-  "address": "0x9baa12A9E3B9dC355f162082762f95626367D087",
+  "address": "0x9baa12a9e3b9dc355f162082762f95626367d087",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

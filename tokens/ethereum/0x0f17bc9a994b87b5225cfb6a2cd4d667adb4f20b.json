@@ -1,7 +1,7 @@
 {
   "symbol": "jeur",
   "name": "Jarvis Synthetic Euro",
-  "address": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
+  "address": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

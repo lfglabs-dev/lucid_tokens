@@ -1,7 +1,7 @@
 {
   "symbol": "hype",
   "name": "Hyperbolic Protocol",
-  "address": "0x85225Ed797fd4128Ac45A992C46eA4681a7A15dA",
+  "address": "0x85225ed797fd4128ac45a992c46ea4681a7a15da",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

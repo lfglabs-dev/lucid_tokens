@@ -1,7 +1,7 @@
 {
   "symbol": "cgpt",
   "name": "ChainGPT",
-  "address": "0x25931894a86D47441213199621F1F2994e1c39Aa",
+  "address": "0x25931894a86d47441213199621f1f2994e1c39aa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

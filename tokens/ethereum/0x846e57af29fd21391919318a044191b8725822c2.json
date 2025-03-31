@@ -1,7 +1,7 @@
 {
   "symbol": "ethardio",
   "name": "ETHARDIO",
-  "address": "0x846E57aF29FD21391919318a044191B8725822C2",
+  "address": "0x846e57af29fd21391919318a044191b8725822c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

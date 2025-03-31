@@ -1,7 +1,7 @@
 {
   "symbol": "apeman",
   "name": "Ape Man",
-  "address": "0xabAb3B0DB38f2303ACbCAB672905E41A18e396d8",
+  "address": "0xabab3b0db38f2303acbcab672905e41a18e396d8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "shoe",
   "name": "ShoeFy",
-  "address": "0x0fD67B4ceb9b607Ef206904eC73459c4880132c9",
+  "address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "btcinu",
   "name": "Bitcoin Inu",
-  "address": "0x584a4Dd38d28fD1EA0E147bA7B70AEd29A37e335",
+  "address": "0x584a4dd38d28fd1ea0e147ba7b70aed29a37e335",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

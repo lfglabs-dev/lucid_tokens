@@ -1,7 +1,7 @@
 {
   "symbol": "bcb",
   "name": "Blockchain Bets",
-  "address": "0x2d886570A0dA04885bfD6eb48eD8b8ff01A0eb7e",
+  "address": "0x2d886570a0da04885bfd6eb48ed8b8ff01a0eb7e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

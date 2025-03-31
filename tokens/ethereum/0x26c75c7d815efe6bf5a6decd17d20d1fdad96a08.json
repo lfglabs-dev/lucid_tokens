@@ -1,7 +1,7 @@
 {
   "symbol": "ocw",
   "name": "OctopusWallet",
-  "address": "0x26c75c7d815efe6bF5a6decd17d20D1fdad96A08",
+  "address": "0x26c75c7d815efe6bf5a6decd17d20d1fdad96a08",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

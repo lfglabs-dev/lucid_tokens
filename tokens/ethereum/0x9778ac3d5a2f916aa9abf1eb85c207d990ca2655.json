@@ -1,7 +1,7 @@
 {
   "symbol": "ogsm",
   "name": "OG SMINEM",
-  "address": "0x9778ac3D5A2f916aA9aBf1eb85C207d990ca2655",
+  "address": "0x9778ac3d5a2f916aa9abf1eb85c207d990ca2655",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bebe",
   "name": "BEBE",
-  "address": "0xeC21890967a8CEb3e55a3F79dAc4E90673ba3C2E",
+  "address": "0xec21890967a8ceb3e55a3f79dac4e90673ba3c2e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

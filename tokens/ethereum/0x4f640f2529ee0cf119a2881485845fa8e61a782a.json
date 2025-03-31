@@ -1,7 +1,7 @@
 {
   "symbol": "ore",
   "name": "ORE Network",
-  "address": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
+  "address": "0x4f640f2529ee0cf119a2881485845fa8e61a782a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

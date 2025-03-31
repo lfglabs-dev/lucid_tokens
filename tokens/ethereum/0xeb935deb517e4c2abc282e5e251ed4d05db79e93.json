@@ -1,7 +1,7 @@
 {
   "symbol": "fbg",
   "name": "Fort Block Games",
-  "address": "0xeB935Deb517E4C2aBC282E5e251ed4D05DB79e93",
+  "address": "0xeb935deb517e4c2abc282e5e251ed4d05db79e93",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

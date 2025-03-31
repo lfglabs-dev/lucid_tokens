@@ -1,7 +1,7 @@
 {
   "symbol": "oseth",
   "name": "StakeWise Staked ETH",
-  "address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+  "address": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

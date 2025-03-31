@@ -1,7 +1,7 @@
 {
   "symbol": "jpyc",
   "name": "JPY Coin v1",
-  "address": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53",
+  "address": "0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

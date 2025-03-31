@@ -1,7 +1,7 @@
 {
   "symbol": "btcpx",
   "name": "BTC Proxy",
-  "address": "0x9C32185b81766a051E08dE671207b34466DD1021",
+  "address": "0x9c32185b81766a051e08de671207b34466dd1021",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

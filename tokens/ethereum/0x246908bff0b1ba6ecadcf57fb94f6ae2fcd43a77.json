@@ -1,7 +1,7 @@
 {
   "symbol": "divi",
   "name": "Divi",
-  "address": "0x246908BfF0b1ba6ECaDCF57fb94F6AE2FcD43a77",
+  "address": "0x246908bff0b1ba6ecadcf57fb94f6ae2fcd43a77",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

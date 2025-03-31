@@ -1,7 +1,7 @@
 {
   "symbol": "qai",
   "name": "QuantaAI",
-  "address": "0x123FB3DFa7D082291d822ceEdaAbe3aa0c3f7758",
+  "address": "0x123fb3dfa7d082291d822ceedaabe3aa0c3f7758",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

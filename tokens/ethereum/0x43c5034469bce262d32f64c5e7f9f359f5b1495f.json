@@ -1,7 +1,7 @@
 {
   "symbol": "dope",
   "name": "Department Of Propaganda Everywhere",
-  "address": "0x43C5034469bCe262d32F64C5e7f9F359f5B1495F",
+  "address": "0x43c5034469bce262d32f64c5e7f9f359f5b1495f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

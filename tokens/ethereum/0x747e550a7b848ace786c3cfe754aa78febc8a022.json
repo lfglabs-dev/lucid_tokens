@@ -1,7 +1,7 @@
 {
   "symbol": "dodo",
   "name": "DODO",
-  "address": "0x747E550a7B848acE786C3CFe754Aa78feBC8A022",
+  "address": "0x747e550a7b848ace786c3cfe754aa78febc8a022",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

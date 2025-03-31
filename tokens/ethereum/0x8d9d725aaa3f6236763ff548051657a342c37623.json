@@ -1,7 +1,7 @@
 {
   "symbol": "ned",
   "name": "NED",
-  "address": "0x8d9d725AAA3f6236763Ff548051657A342C37623",
+  "address": "0x8d9d725aaa3f6236763ff548051657a342c37623",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

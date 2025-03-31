@@ -1,7 +1,7 @@
 {
   "symbol": "tkx",
   "name": "Tokenize Xchange",
-  "address": "0x667102BD3413bFEaa3Dffb48fa8288819E480a88",
+  "address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

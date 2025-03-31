@@ -1,7 +1,7 @@
 {
   "symbol": "msn",
   "name": "Meson Network",
-  "address": "0xaA247c0D81B83812e1ABf8bAB078E4540D87e3fB",
+  "address": "0xaa247c0d81b83812e1abf8bab078e4540d87e3fb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

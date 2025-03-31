@@ -1,7 +1,7 @@
 {
   "symbol": "shrub",
   "name": "Shrub",
-  "address": "0x3b991130eaE3CcA364406D718DA22FA1C3E7C256",
+  "address": "0x3b991130eae3cca364406d718da22fa1c3e7c256",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x3b991130eae3cca364406d718da22fa1c3e7c256",
-    "base": "0x1eefd52f6e218f262da7b0089b9e343a1eb5c9f4",
-    "solana": "Em8WF6pg9FmKDy1dXkWhXxpgmfhj5Bes3ZCE8PCCJSHt"
+    "base": "0x1eefd52f6e218f262da7b0089b9e343a1eb5c9f4"
   }
 }

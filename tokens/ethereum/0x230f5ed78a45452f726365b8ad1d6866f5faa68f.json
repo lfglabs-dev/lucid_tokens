@@ -1,7 +1,7 @@
 {
   "symbol": "cof",
   "name": "Cryptoforce",
-  "address": "0x230f5ED78A45452f726365b8Ad1D6866F5Faa68F",
+  "address": "0x230f5ed78a45452f726365b8ad1d6866f5faa68f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

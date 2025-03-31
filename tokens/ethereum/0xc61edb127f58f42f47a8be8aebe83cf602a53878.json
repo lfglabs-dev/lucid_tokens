@@ -1,7 +1,7 @@
 {
   "symbol": "cobe",
   "name": "Castle Of Blackwater",
-  "address": "0xc61eDB127f58f42F47a8bE8aeBe83cF602A53878",
+  "address": "0xc61edb127f58f42f47a8be8aebe83cf602a53878",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

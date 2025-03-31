@@ -1,7 +1,7 @@
 {
   "symbol": "vidy",
   "name": "VIDY",
-  "address": "0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
+  "address": "0xc77b230f31b517f1ef362e59c173c2be6540b5e8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

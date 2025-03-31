@@ -1,7 +1,7 @@
 {
   "symbol": "vxdefi",
   "name": "vXDEFI",
-  "address": "0xe1A3864DbF62Fb94834B108Ff6Bf439cE70183Ac",
+  "address": "0xe1a3864dbf62fb94834b108ff6bf439ce70183ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

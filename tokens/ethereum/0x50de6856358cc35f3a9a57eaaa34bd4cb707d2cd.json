@@ -1,7 +1,7 @@
 {
   "symbol": "razor",
   "name": "Razor Network",
-  "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
+  "address": "0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

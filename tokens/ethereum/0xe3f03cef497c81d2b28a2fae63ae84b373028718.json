@@ -1,7 +1,7 @@
 {
   "symbol": "marvin",
   "name": "MARVIN",
-  "address": "0xE3f03cEF497c81D2B28A2faE63ae84b373028718",
+  "address": "0xe3f03cef497c81d2b28a2fae63ae84b373028718",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

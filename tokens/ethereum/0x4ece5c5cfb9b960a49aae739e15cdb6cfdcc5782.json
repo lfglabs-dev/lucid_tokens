@@ -1,7 +1,7 @@
 {
   "symbol": "dbuy",
   "name": "Doont Buy",
-  "address": "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782",
+  "address": "0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

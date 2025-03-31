@@ -1,7 +1,7 @@
 {
   "symbol": "nasdaq420",
   "name": "Nasdaq420",
-  "address": "0x615987d46003CC37387dBe544FF4F16FA1200077",
+  "address": "0x615987d46003cc37387dbe544ff4f16fa1200077",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

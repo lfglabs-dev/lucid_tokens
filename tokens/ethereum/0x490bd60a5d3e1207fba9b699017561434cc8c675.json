@@ -1,7 +1,7 @@
 {
   "symbol": "bugs",
   "name": "Bugs Bunny",
-  "address": "0x490Bd60a5d3E1207fbA9b699017561434Cc8C675",
+  "address": "0x490bd60a5d3e1207fba9b699017561434cc8c675",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

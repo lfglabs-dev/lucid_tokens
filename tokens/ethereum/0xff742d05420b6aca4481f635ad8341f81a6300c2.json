@@ -1,7 +1,7 @@
 {
   "symbol": "asd",
   "name": "AscendEx",
-  "address": "0xff742d05420B6Aca4481F635aD8341F81A6300C2",
+  "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

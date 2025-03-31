@@ -1,7 +1,7 @@
 {
   "symbol": "sdusd",
   "name": "Davos Protocol Staked DUSD",
-  "address": "0x1c91d9482C4802315e617267bb3eF50C0aA15C41",
+  "address": "0x1c91d9482c4802315e617267bb3ef50c0aa15c41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

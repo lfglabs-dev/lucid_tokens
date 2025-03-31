@@ -1,7 +1,7 @@
 {
   "symbol": "neura",
   "name": "Neurahub",
-  "address": "0x3D1C949a761C11E4CC50c3aE6BdB0F24fD7A39DA",
+  "address": "0x3d1c949a761c11e4cc50c3ae6bdb0f24fd7a39da",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

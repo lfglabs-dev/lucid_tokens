@@ -1,7 +1,7 @@
 {
   "symbol": "hxai",
   "name": "Healix AI",
-  "address": "0x384EFd1e8B05c23dC392a40cB4E515E2229a5243",
+  "address": "0x384efd1e8b05c23dc392a40cb4e515e2229a5243",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

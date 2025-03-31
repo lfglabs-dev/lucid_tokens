@@ -1,7 +1,7 @@
 {
   "symbol": "lotty",
   "name": "Lotty",
-  "address": "0xB459F7204A8Ac84F9e7758d6d839eBD01670E35C",
+  "address": "0xb459f7204a8ac84f9e7758d6d839ebd01670e35c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

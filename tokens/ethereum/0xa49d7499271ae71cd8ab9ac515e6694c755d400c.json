@@ -1,7 +1,7 @@
 {
   "symbol": "mute",
   "name": "Mute",
-  "address": "0xA49d7499271aE71cd8aB9Ac515e6694C755d400c",
+  "address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

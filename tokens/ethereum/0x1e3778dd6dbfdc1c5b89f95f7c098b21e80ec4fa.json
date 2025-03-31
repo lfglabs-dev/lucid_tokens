@@ -1,7 +1,7 @@
 {
   "symbol": "vic",
   "name": "Victory Impact",
-  "address": "0x1e3778Dd6dBfDc1C5B89f95F7C098B21e80eC4FA",
+  "address": "0x1e3778dd6dbfdc1c5b89f95f7c098b21e80ec4fa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

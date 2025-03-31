@@ -1,7 +1,7 @@
 {
   "symbol": "gyoshi",
   "name": "GYOSHI",
-  "address": "0x1F17D72cBe65Df609315dF5c4f5F729eFbd00Ade",
+  "address": "0x1f17d72cbe65df609315df5c4f5f729efbd00ade",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

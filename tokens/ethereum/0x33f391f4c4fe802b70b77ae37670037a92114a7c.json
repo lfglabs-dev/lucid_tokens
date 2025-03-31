@@ -1,7 +1,7 @@
 {
   "symbol": "burp",
   "name": "Burp",
-  "address": "0x33f391F4c4fE802b70B77AE37670037A92114A7c",
+  "address": "0x33f391f4c4fe802b70b77ae37670037a92114a7c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

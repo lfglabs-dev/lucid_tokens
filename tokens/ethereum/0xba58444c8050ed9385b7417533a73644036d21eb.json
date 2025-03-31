@@ -1,7 +1,7 @@
 {
   "symbol": "logt",
   "name": "Lord of Dragons",
-  "address": "0xba58444C8050Ed9385b7417533A73644036d21Eb",
+  "address": "0xba58444c8050ed9385b7417533a73644036d21eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

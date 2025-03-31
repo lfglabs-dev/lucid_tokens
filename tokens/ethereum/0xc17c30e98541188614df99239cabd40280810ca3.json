@@ -1,7 +1,7 @@
 {
   "symbol": "rise",
   "name": "EverRise",
-  "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+  "address": "0xc17c30e98541188614df99239cabd40280810ca3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

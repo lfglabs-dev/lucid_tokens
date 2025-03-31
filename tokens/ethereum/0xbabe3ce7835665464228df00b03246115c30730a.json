@@ -1,7 +1,7 @@
 {
   "symbol": "babyneiro",
   "name": "Baby Neiro Token",
-  "address": "0xbAbE3ce7835665464228dF00B03246115C30730A",
+  "address": "0xbabe3ce7835665464228df00b03246115c30730a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

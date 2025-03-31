@@ -1,7 +1,7 @@
 {
   "symbol": "brain",
   "name": "Sebra AI",
-  "address": "0x3dDeBf2Ead6325B1923bA5ff8fd239325c70e9A2",
+  "address": "0x3ddebf2ead6325b1923ba5ff8fd239325c70e9a2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

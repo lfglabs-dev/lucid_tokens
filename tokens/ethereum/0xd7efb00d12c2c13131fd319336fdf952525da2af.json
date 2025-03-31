@@ -1,7 +1,7 @@
 {
   "symbol": "xpr",
   "name": "XPR Network",
-  "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+  "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

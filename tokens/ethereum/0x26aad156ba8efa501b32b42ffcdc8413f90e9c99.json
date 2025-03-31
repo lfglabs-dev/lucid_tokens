@@ -1,7 +1,7 @@
 {
   "symbol": "edu",
   "name": "Open Campus",
-  "address": "0x26aAd156Ba8eFA501b32B42Ffcdc8413F90e9C99",
+  "address": "0x26aad156ba8efa501b32b42ffcdc8413f90e9c99",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

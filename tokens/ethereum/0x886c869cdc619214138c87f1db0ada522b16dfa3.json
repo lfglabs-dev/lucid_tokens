@@ -1,7 +1,7 @@
 {
   "symbol": "wif",
   "name": "WIF on ETH",
-  "address": "0x886c869cDc619214138C87f1DB0ADa522b16Dfa3",
+  "address": "0x886c869cdc619214138c87f1db0ada522b16dfa3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

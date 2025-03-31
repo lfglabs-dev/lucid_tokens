@@ -1,7 +1,7 @@
 {
   "symbol": "kai",
   "name": "Kinetix Finance Token",
-  "address": "0x0bBCEfA5F3630Cae34842cb9D9b36BC0d4257a0d",
+  "address": "0x0bbcefa5f3630cae34842cb9d9b36bc0d4257a0d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

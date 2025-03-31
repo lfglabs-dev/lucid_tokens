@@ -1,7 +1,7 @@
 {
   "symbol": "sub",
   "name": "Substratum",
-  "address": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
+  "address": "0x8d75959f1e61ec2571aa72798237101f084de63a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

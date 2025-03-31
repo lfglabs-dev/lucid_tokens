@@ -1,7 +1,7 @@
 {
   "symbol": "stpeth",
   "name": "Stake Together",
-  "address": "0x218dE5E6324c5351C3a2bf0c40d76f585B8dE04d",
+  "address": "0x218de5e6324c5351c3a2bf0c40d76f585b8de04d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

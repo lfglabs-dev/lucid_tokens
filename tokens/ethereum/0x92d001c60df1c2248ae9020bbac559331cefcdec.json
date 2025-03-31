@@ -1,7 +1,7 @@
 {
   "symbol": "pochita",
   "name": "Pochita",
-  "address": "0x92d001C60df1C2248aE9020BBAC559331CefCdec",
+  "address": "0x92d001c60df1c2248ae9020bbac559331cefcdec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

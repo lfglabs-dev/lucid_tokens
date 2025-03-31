@@ -1,7 +1,7 @@
 {
   "symbol": "$grok",
   "name": "Grok",
-  "address": "0x8390a1DA07E376ef7aDd4Be859BA74Fb83aA02D5",
+  "address": "0x8390a1da07e376ef7add4be859ba74fb83aa02d5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "acq",
   "name": "Acquire.Fi",
-  "address": "0x4BDCb66B968060D9390C1D12bd29734496205581",
+  "address": "0x4bdcb66b968060d9390c1d12bd29734496205581",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

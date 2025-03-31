@@ -1,7 +1,7 @@
 {
   "symbol": "crfi",
   "name": "CrossFi",
-  "address": "0x8848812BD31AEEe33313C10A840FfC3169078C5b",
+  "address": "0x8848812bd31aeee33313c10a840ffc3169078c5b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

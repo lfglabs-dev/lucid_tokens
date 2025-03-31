@@ -1,7 +1,7 @@
 {
   "symbol": "day",
   "name": "Dayhub",
-  "address": "0x2282c726F54c93193E6b8E5BF1B82303DC11D36e",
+  "address": "0x2282c726f54c93193e6b8e5bf1b82303dc11d36e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

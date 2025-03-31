@@ -1,7 +1,7 @@
 {
   "symbol": "candy",
   "name": "Andy's Cat",
-  "address": "0x0632AfF522A581B9FfdEC2fC2b0E99245A917057",
+  "address": "0x0632aff522a581b9ffdec2fc2b0e99245a917057",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

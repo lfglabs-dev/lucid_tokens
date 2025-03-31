@@ -1,7 +1,7 @@
 {
   "symbol": "inus",
   "name": "MultiPlanetary Inus",
-  "address": "0x39207D2E2fEEF178FBdA8083914554C59D9f8c00",
+  "address": "0x39207d2e2feef178fbda8083914554c59d9f8c00",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

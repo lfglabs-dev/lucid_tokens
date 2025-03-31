@@ -1,7 +1,7 @@
 {
   "symbol": "gooch",
   "name": "Gooch",
-  "address": "0x6d3D490964205c8bC8DeD39e48e88E8Fde45b41f",
+  "address": "0x6d3d490964205c8bc8ded39e48e88e8fde45b41f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

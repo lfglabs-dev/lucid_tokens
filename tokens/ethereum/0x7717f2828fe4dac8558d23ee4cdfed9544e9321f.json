@@ -1,7 +1,7 @@
 {
   "symbol": "otx",
   "name": "OTX EXCHANGE",
-  "address": "0x7717f2828fE4daC8558d23eE4CdfED9544E9321F",
+  "address": "0x7717f2828fe4dac8558d23ee4cdfed9544e9321f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

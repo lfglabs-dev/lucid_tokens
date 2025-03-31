@@ -1,7 +1,7 @@
 {
   "symbol": "tuna",
   "name": "Tunachain",
-  "address": "0xaDD353fb2e2c563383FF3272a500f3e7134DAfe4",
+  "address": "0xadd353fb2e2c563383ff3272a500f3e7134dafe4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

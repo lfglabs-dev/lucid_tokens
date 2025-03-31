@@ -1,7 +1,7 @@
 {
   "symbol": "vite",
   "name": "Vite",
-  "address": "0xadd5E881984783dD432F80381Fb52F45B53f3e70",
+  "address": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
-    "vite": "tti_5649544520544f4b454e6e40",
     "binance-smart-chain": "0x2794dad4077602ed25a88d03781528d1637898b4"
   }
 }

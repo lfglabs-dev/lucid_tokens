@@ -1,7 +1,7 @@
 {
   "symbol": "deploy",
   "name": "Deployyyyer",
-  "address": "0x3914BDB4130306f80F5d8ee099C180442d19680D",
+  "address": "0x3914bdb4130306f80f5d8ee099c180442d19680d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

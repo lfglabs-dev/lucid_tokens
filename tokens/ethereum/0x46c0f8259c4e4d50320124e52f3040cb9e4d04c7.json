@@ -1,7 +1,7 @@
 {
   "symbol": "shield",
   "name": "Chatter Shield",
-  "address": "0x46c0F8259C4E4D50320124E52f3040cb9e4d04c7",
+  "address": "0x46c0f8259c4e4d50320124e52f3040cb9e4d04c7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

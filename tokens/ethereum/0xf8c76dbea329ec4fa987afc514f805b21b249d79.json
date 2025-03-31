@@ -1,7 +1,7 @@
 {
   "symbol": "l",
   "name": "L",
-  "address": "0xf8C76dbeA329Ec4Fa987AFC514f805b21b249D79",
+  "address": "0xf8c76dbea329ec4fa987afc514f805b21b249d79",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

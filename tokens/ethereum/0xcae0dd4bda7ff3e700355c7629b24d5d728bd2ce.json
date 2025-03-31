@@ -1,7 +1,7 @@
 {
   "symbol": "bowie",
   "name": "Bowie",
-  "address": "0xCaE0DD4BDA7Ff3E700355C7629b24d5D728bD2cE",
+  "address": "0xcae0dd4bda7ff3e700355c7629b24d5d728bd2ce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

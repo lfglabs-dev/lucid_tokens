@@ -1,7 +1,7 @@
 {
   "symbol": "pumpbtc",
   "name": "pumpBTC",
-  "address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
+  "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

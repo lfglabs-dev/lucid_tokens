@@ -1,7 +1,7 @@
 {
   "symbol": "stnd",
   "name": "Standard Protocol",
-  "address": "0x9040e237C3bF18347bb00957Dc22167D0f2b999d",
+  "address": "0x9040e237c3bf18347bb00957dc22167d0f2b999d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

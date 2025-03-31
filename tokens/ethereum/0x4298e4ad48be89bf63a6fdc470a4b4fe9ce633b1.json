@@ -1,7 +1,7 @@
 {
   "symbol": "estee",
   "name": "Estee",
-  "address": "0x4298e4AD48be89BF63A6fDc470A4b4Fe9cE633B1",
+  "address": "0x4298e4ad48be89bf63a6fdc470a4b4fe9ce633b1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

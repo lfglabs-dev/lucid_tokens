@@ -1,7 +1,7 @@
 {
   "symbol": "gme.d",
   "name": "Dinari GME",
-  "address": "0x7FB5Da212239593f4BF544fBe2EC70CE91F0AfDB",
+  "address": "0x7fb5da212239593f4bf544fbe2ec70ce91f0afdb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

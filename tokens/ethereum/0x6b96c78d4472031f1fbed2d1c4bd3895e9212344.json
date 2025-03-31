@@ -1,7 +1,7 @@
 {
   "symbol": "taox",
   "name": "TAOx",
-  "address": "0x6b96c78D4472031F1fBed2d1C4Bd3895e9212344",
+  "address": "0x6b96c78d4472031f1fbed2d1c4bd3895e9212344",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "$qtdao",
   "name": "Quantum DAO",
-  "address": "0x26869045311FC5e5353EADCFA654CD47DDC20356",
+  "address": "0x26869045311fc5e5353eadcfa654cd47ddc20356",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

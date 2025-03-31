@@ -1,7 +1,7 @@
 {
   "symbol": "kang",
   "name": "Kangamoon",
-  "address": "0xB1c9D42FA4bA691eFe21656A7e6953d999B990c4",
+  "address": "0xb1c9d42fa4ba691efe21656a7e6953d999b990c4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

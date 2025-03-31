@@ -1,7 +1,7 @@
 {
   "symbol": "myc",
   "name": "Mega Yacht Cult",
-  "address": "0xD939212F16560447ED82ce46cA40A63DB62419B5",
+  "address": "0xd939212f16560447ed82ce46ca40a63db62419b5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

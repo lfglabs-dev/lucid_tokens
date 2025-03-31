@@ -1,7 +1,7 @@
 {
   "symbol": "tcp",
   "name": "The Crypto Prophecies",
-  "address": "0x06576eB3B212d605B797dC15523d9Dc9F4F66DB4",
+  "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

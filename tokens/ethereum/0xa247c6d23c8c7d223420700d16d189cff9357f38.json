@@ -1,7 +1,7 @@
 {
   "symbol": "cheesed",
   "name": "Cheesed",
-  "address": "0xa247C6d23c8C7d223420700d16d189cFF9357F38",
+  "address": "0xa247c6d23c8c7d223420700d16d189cff9357f38",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

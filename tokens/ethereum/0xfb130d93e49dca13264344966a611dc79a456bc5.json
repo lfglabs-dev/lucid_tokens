@@ -1,7 +1,7 @@
 {
   "symbol": "dogegf",
   "name": "DogeGF",
-  "address": "0xfb130d93E49DcA13264344966A611dc79a456Bc5",
+  "address": "0xfb130d93e49dca13264344966a611dc79a456bc5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

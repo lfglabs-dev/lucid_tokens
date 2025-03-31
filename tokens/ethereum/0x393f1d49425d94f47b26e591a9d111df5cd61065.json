@@ -1,7 +1,7 @@
 {
   "symbol": "gua",
   "name": "GUA",
-  "address": "0x393f1D49425d94f47b26E591a9D111df5cD61065",
+  "address": "0x393f1d49425d94f47b26e591a9d111df5cd61065",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

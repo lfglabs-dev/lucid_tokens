@@ -1,7 +1,7 @@
 {
   "symbol": "ntgl",
   "name": "Entangle",
-  "address": "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
+  "address": "0x12652c6d93fdb6f4f37d48a8687783c782bb0d10",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

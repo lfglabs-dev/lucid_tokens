@@ -1,7 +1,7 @@
 {
   "symbol": "txn",
   "name": "TXNScan",
-  "address": "0x247E3866F743CcE280433b865A669c9361421ecc",
+  "address": "0x247e3866f743cce280433b865a669c9361421ecc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

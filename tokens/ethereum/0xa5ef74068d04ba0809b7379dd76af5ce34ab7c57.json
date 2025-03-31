@@ -1,7 +1,7 @@
 {
   "symbol": "luchow",
   "name": "LunaChow",
-  "address": "0xA5Ef74068d04ba0809B7379dD76Af5Ce34Ab7C57",
+  "address": "0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bai",
   "name": "Balance AI",
-  "address": "0x8CCD897ca6160ED76755383B201C1948394328c7",
+  "address": "0x8ccd897ca6160ed76755383b201c1948394328c7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "iethv",
   "name": "Inverse Ethereum Volatility Index Token",
-  "address": "0x3A707d56D538e85B783E8CE12B346e7fB6511F90",
+  "address": "0x3a707d56d538e85b783e8ce12b346e7fb6511f90",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "hat",
   "name": "Hat",
-  "address": "0x76c4ec0068923Da13Ee11527d6cF9b7521000049",
+  "address": "0x76c4ec0068923da13ee11527d6cf9b7521000049",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

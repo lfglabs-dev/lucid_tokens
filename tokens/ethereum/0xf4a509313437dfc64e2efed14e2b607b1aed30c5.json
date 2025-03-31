@@ -1,7 +1,7 @@
 {
   "symbol": "fets",
   "name": "FE TECH",
-  "address": "0xf4A509313437dfC64E2EFeD14e2b607B1AED30c5",
+  "address": "0xf4a509313437dfc64e2efed14e2b607b1aed30c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

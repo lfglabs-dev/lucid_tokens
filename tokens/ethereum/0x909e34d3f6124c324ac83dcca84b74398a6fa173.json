@@ -1,7 +1,7 @@
 {
   "symbol": "zkp",
   "name": "Panther Protocol",
-  "address": "0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+  "address": "0x909e34d3f6124c324ac83dcca84b74398a6fa173",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

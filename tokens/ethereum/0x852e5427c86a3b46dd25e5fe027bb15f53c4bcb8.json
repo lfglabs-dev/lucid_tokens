@@ -1,7 +1,7 @@
 {
   "symbol": "niifi",
   "name": "NiiFi",
-  "address": "0x852e5427c86A3b46DD25e5FE027bb15f53c4BCb8",
+  "address": "0x852e5427c86a3b46dd25e5fe027bb15f53c4bcb8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

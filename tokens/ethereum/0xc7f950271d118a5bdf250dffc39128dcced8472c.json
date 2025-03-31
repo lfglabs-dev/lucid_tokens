@@ -1,7 +1,7 @@
 {
   "symbol": "archive",
   "name": "Chainback",
-  "address": "0xC7f950271d118A5bdF250dFfc39128DCCED8472C",
+  "address": "0xc7f950271d118a5bdf250dffc39128dcced8472c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

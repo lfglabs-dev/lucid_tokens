@@ -1,7 +1,7 @@
 {
   "symbol": "rbis",
   "name": "ArbiSmart",
-  "address": "0xf34B1Db61ACa1a371fE97BAd2606c9f534fb9D7D",
+  "address": "0xf34b1db61aca1a371fe97bad2606c9f534fb9d7d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

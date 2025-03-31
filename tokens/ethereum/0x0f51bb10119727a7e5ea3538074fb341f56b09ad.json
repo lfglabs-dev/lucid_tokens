@@ -1,7 +1,7 @@
 {
   "symbol": "dao",
   "name": "DAO Maker",
-  "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+  "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -13,7 +13,6 @@
     "ethereum": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
     "step-network": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
     "binance-smart-chain": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
-    "arbitrum-one": "0xcaa38bcc8fb3077975bbe217acfaa449e6596a84",
-    "solana": "85aM5XJhdDeUw4MbGKM56zmWnsRyh76zUVut97uPjiCg"
+    "arbitrum-one": "0xcaa38bcc8fb3077975bbe217acfaa449e6596a84"
   }
 }

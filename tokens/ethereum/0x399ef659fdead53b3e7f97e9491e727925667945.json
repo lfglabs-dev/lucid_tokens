@@ -1,7 +1,7 @@
 {
   "symbol": "l1x",
   "name": "Layer One X",
-  "address": "0x399Ef659FDeAD53B3E7f97E9491E727925667945",
+  "address": "0x399ef659fdead53b3e7f97e9491e727925667945",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x399ef659fdead53b3e7f97e9491e727925667945",
-    "binance-smart-chain": "0x64d1335b7b942385a60c50e57f647d1982f0c4c8",
-    "solana": "HeFNBDauVZDD86dV8TmFGx39kGxmFLrVKqbYe6wXWcPT"
+    "binance-smart-chain": "0x64d1335b7b942385a60c50e57f647d1982f0c4c8"
   }
 }

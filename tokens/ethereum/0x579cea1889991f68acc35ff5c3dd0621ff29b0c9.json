@@ -1,7 +1,7 @@
 {
   "symbol": "iq",
   "name": "IQ",
-  "address": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+  "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

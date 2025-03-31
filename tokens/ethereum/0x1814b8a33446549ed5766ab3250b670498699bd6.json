@@ -1,7 +1,7 @@
 {
   "symbol": "inva",
   "name": "InnoviaTrust",
-  "address": "0x1814b8A33446549Ed5766aB3250B670498699BD6",
+  "address": "0x1814b8a33446549ed5766ab3250b670498699bd6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

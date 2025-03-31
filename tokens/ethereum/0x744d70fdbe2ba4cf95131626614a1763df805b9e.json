@@ -1,7 +1,7 @@
 {
   "symbol": "snt",
   "name": "Status",
-  "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+  "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

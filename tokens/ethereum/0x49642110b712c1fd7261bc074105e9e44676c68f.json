@@ -1,7 +1,7 @@
 {
   "symbol": "dino",
   "name": "DinoLFG",
-  "address": "0x49642110B712C1FD7261Bc074105E9E44676c68F",
+  "address": "0x49642110b712c1fd7261bc074105e9e44676c68f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x49642110b712c1fd7261bc074105e9e44676c68f",
-    "pulsechain": "0xfd3a511cb1c435d6a6e471392902bf4a83773d9c",
-    "solana": "33eWALS9GkzSMS3EsKSdYCsrUiMdQDgX2QzGx4vA9wE8"
+    "pulsechain": "0xfd3a511cb1c435d6a6e471392902bf4a83773d9c"
   }
 }

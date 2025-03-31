@@ -1,7 +1,7 @@
 {
   "symbol": "gf",
   "name": "GuildFi",
-  "address": "0xAaEf88cEa01475125522e117BFe45cF32044E238",
+  "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

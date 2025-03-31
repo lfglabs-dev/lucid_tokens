@@ -1,7 +1,7 @@
 {
   "symbol": "xy",
   "name": "XY Finance",
-  "address": "0x77777777772cf0455fB38eE0e75f38034dFa50DE",
+  "address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cbu",
   "name": "Banque Universal",
-  "address": "0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
+  "address": "0xcef46305d096fa876dd23048bf80f9345282e3fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "for",
   "name": "ForTube",
-  "address": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+  "address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

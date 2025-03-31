@@ -1,7 +1,7 @@
 {
   "symbol": "degen",
   "name": "DegensTogether",
-  "address": "0xBe92B510007bD3eC0AdB3d1FCA338DD631E98De7",
+  "address": "0xbe92b510007bd3ec0adb3d1fca338dd631e98de7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

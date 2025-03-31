@@ -1,7 +1,7 @@
 {
   "symbol": "flovi",
   "name": "Flovi Inu",
-  "address": "0x725024200Cd4e1f259FCF2b7153d37Fb477e139C",
+  "address": "0x725024200cd4e1f259fcf2b7153d37fb477e139c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

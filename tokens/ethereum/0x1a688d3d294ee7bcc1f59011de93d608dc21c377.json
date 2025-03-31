@@ -1,7 +1,7 @@
 {
   "symbol": "uco",
   "name": "Archethic",
-  "address": "0x1A688D3d294ee7BcC1f59011DE93d608Dc21c377",
+  "address": "0x1a688d3d294ee7bcc1f59011de93d608dc21c377",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

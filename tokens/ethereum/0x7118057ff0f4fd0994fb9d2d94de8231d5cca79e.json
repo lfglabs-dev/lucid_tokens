@@ -1,7 +1,7 @@
 {
   "symbol": "source",
   "name": "ReSource Protocol",
-  "address": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
+  "address": "0x7118057ff0f4fd0994fb9d2d94de8231d5cca79e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

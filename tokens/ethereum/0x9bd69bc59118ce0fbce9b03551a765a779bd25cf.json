@@ -1,7 +1,7 @@
 {
   "symbol": "zke",
   "name": "zkEra Finance",
-  "address": "0x9BD69bC59118cE0FBce9B03551A765a779bD25Cf",
+  "address": "0x9bd69bc59118ce0fbce9b03551a765a779bd25cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

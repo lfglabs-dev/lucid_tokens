@@ -1,7 +1,7 @@
 {
   "symbol": "hid",
   "name": "Hypersign Identity",
-  "address": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+  "address": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

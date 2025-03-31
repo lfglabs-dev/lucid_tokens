@@ -1,7 +1,7 @@
 {
   "symbol": "fort",
   "name": "Forta",
-  "address": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
+  "address": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

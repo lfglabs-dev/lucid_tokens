@@ -1,7 +1,7 @@
 {
   "symbol": "rcbeth",
   "name": "Astrid Restaked cbETH",
-  "address": "0xE38149abc673a117ABeB8Af7D1fF3d0D1aA5aF15",
+  "address": "0xe38149abc673a117abeb8af7d1ff3d0d1aa5af15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "rtf",
   "name": "Ready to Fight",
-  "address": "0xa89e2871A850E0e6fD8F0018eC1fc62FA75440d4",
+  "address": "0xa89e2871a850e0e6fd8f0018ec1fc62fa75440d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "morpho",
   "name": "Morpho",
-  "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+  "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

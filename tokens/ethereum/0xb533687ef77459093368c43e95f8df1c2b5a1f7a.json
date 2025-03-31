@@ -1,7 +1,7 @@
 {
   "symbol": "asg",
   "name": "Nekoverse: City of Greed Anima Spirit Gem",
-  "address": "0xb533687Ef77459093368c43E95f8Df1C2B5a1F7a",
+  "address": "0xb533687ef77459093368c43e95f8df1c2b5a1f7a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "JfFeJjXo65oar4jUDiweLxirKVAfJUbqtN7ePSWoBKh",
     "beam": "0x9da978718b6bd84bf485b475eab253cf76d77b59",
     "ethereum": "0xb533687ef77459093368c43e95f8df1c2b5a1f7a"
   }

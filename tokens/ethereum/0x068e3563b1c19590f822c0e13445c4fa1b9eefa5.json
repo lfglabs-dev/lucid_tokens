@@ -1,7 +1,7 @@
 {
   "symbol": "wusd",
   "name": "Wrapped USD",
-  "address": "0x068E3563b1c19590F822c0e13445c4FA1b9EEFa5",
+  "address": "0x068e3563b1c19590f822c0e13445c4fa1b9eefa5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

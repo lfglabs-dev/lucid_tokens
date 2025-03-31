@@ -1,7 +1,7 @@
 {
   "symbol": "boxeth",
   "name": "Cat-in-a-Box Ether",
-  "address": "0x7690202e2C2297bcD03664e31116d1dFfE7e3B73",
+  "address": "0x7690202e2c2297bcd03664e31116d1dffe7e3b73",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

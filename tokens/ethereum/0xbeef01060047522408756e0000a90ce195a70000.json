@@ -1,7 +1,7 @@
 {
   "symbol": "aptr",
   "name": "Aperture Finance",
-  "address": "0xBEEF01060047522408756E0000A90ce195A70000",
+  "address": "0xbeef01060047522408756e0000a90ce195a70000",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

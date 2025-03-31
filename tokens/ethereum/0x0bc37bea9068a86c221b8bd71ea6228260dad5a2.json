@@ -1,7 +1,7 @@
 {
   "symbol": "sparklet",
   "name": "Upland",
-  "address": "0x0bc37BEA9068a86C221B8bd71eA6228260DAD5A2",
+  "address": "0x0bc37bea9068a86c221b8bd71ea6228260dad5a2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

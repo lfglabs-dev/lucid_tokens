@@ -1,7 +1,7 @@
 {
   "symbol": "hfun",
   "name": "Hold.fun",
-  "address": "0x6BeC5F1C594aF73202CD3E5c1F699d440959954c",
+  "address": "0x6bec5f1c594af73202cd3e5c1f699d440959954c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

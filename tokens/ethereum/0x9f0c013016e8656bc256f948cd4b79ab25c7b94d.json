@@ -1,7 +1,7 @@
 {
   "symbol": "cook",
   "name": "mETH Protocol",
-  "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+  "address": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

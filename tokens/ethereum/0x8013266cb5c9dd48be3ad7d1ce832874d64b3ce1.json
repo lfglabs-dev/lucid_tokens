@@ -1,7 +1,7 @@
 {
   "symbol": "boop",
   "name": "Boop",
-  "address": "0x8013266cb5c9dd48bE3Ad7D1CE832874d64B3Ce1",
+  "address": "0x8013266cb5c9dd48be3ad7d1ce832874d64b3ce1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "gbtc.d",
   "name": "Dinari GBTC",
-  "address": "0xd0f48CAf8fDb1E7b1FB8B08B914E0b44Ed0aAdE0",
+  "address": "0xd0f48caf8fdb1e7b1fb8b08b914e0b44ed0aade0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "matt",
   "name": "Matt Furie",
-  "address": "0x790814Cd782983FaB4d7B92CF155187a865d9F18",
+  "address": "0x790814cd782983fab4d7b92cf155187a865d9f18",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

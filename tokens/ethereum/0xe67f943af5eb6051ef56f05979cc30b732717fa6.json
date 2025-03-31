@@ -1,7 +1,7 @@
 {
   "symbol": "watt",
   "name": "WATTTON",
-  "address": "0xE67F943af5Eb6051ef56f05979cc30B732717fa6",
+  "address": "0xe67f943af5eb6051ef56f05979cc30b732717fa6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

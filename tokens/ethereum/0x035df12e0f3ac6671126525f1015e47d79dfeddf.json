@@ -1,7 +1,7 @@
 {
   "symbol": "0xmr",
   "name": "0xMonero",
-  "address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+  "address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

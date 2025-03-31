@@ -1,7 +1,7 @@
 {
   "symbol": "cyfi",
   "name": "cYFI",
-  "address": "0x80a2AE356fc9ef4305676f7a3E2Ed04e12C33946",
+  "address": "0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

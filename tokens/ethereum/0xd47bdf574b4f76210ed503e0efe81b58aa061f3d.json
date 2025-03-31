@@ -1,7 +1,7 @@
 {
   "symbol": "trvl",
   "name": "Dtravel",
-  "address": "0xd47bDF574B4F76210ed503e0EFe81B58Aa061F3d",
+  "address": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wsta",
   "name": "Wrapped Statera",
-  "address": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
+  "address": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

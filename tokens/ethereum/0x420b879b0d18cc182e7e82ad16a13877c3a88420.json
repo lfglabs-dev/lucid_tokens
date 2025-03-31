@@ -1,7 +1,7 @@
 {
   "symbol": "$bud",
   "name": "Big Bud",
-  "address": "0x420b879b0d18cc182E7E82AD16a13877C3A88420",
+  "address": "0x420b879b0d18cc182e7e82ad16a13877c3a88420",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

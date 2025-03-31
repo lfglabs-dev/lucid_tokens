@@ -1,7 +1,7 @@
 {
   "symbol": "han",
   "name": "HanChain",
-  "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
+  "address": "0x0c90c57aaf95a3a87eadda6ec3974c99d786511f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dos",
   "name": "DOS Network",
-  "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+  "address": "0x0a913bead80f321e7ac35285ee10d9d922659cb7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

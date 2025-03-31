@@ -1,7 +1,7 @@
 {
   "symbol": "amkt",
   "name": "Alongside Crypto Market Index",
-  "address": "0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D",
+  "address": "0xf17a3fe536f8f7847f1385ec1bc967b2ca9cae8d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

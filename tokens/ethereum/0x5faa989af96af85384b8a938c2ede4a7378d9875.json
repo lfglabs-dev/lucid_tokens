@@ -1,7 +1,7 @@
 {
   "symbol": "gal",
   "name": "Galxe",
-  "address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875",
+  "address": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

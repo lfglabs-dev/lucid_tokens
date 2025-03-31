@@ -1,7 +1,7 @@
 {
   "symbol": "pochita",
   "name": "Pochita on Ethereum",
-  "address": "0x4e6221c07DAE8D3460a46fa01779cF17FdD72ad8",
+  "address": "0x4e6221c07dae8d3460a46fa01779cf17fdd72ad8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

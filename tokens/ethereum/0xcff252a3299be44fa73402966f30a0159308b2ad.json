@@ -1,7 +1,7 @@
 {
   "symbol": "envoy",
   "name": "Envoy A.I",
-  "address": "0xcFf252a3299bE44Fa73402966F30a0159308B2Ad",
+  "address": "0xcff252a3299be44fa73402966f30a0159308b2ad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "star",
   "name": "Sponstar",
-  "address": "0x04Cd37283E0F921B4a8838Fee72e4264c87A692B",
+  "address": "0x04cd37283e0f921b4a8838fee72e4264c87a692b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

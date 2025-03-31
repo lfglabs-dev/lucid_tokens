@@ -1,7 +1,7 @@
 {
   "symbol": "stc",
   "name": "Student Coin",
-  "address": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
+  "address": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

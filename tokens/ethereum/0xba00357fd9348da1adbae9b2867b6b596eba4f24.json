@@ -1,7 +1,7 @@
 {
   "symbol": "lcr",
   "name": "LaunchR",
-  "address": "0xbA00357FD9348Da1aDBaE9B2867B6B596EbA4F24",
+  "address": "0xba00357fd9348da1adbae9b2867b6b596eba4f24",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "harambe",
   "name": "Harambe",
-  "address": "0xADe6FDAba1643E4D1eeF68Da7170F234470938c6",
+  "address": "0xade6fdaba1643e4d1eef68da7170f234470938c6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dvi",
   "name": "Dvision Network",
-  "address": "0x10633216E7E8281e33c86F02Bf8e565a635D9770",
+  "address": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

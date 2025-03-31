@@ -1,7 +1,7 @@
 {
   "symbol": "bulla",
   "name": "BULLA",
-  "address": "0x896C767371e2d2255f1C33301D29E5577A7Aca11",
+  "address": "0x896c767371e2d2255f1c33301d29e5577a7aca11",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

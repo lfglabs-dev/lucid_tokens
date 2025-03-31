@@ -1,7 +1,7 @@
 {
   "symbol": "heart",
   "name": "Humans.ai",
-  "address": "0x8FAc8031e079F409135766C7d5De29cf22EF897C",
+  "address": "0x8fac8031e079f409135766c7d5de29cf22ef897c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x8fac8031e079f409135766c7d5de29cf22ef897c",
-    "osmosis": "ibc/35CECC330D11DD00FACB555D07687631E0BC7D226260CC5F015F6D7980819533"
+    "ethereum": "0x8fac8031e079f409135766c7d5de29cf22ef897c"
   }
 }

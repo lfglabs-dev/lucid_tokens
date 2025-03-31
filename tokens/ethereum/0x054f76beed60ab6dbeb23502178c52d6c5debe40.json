@@ -1,7 +1,7 @@
 {
   "symbol": "fin",
   "name": "DeFiner",
-  "address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
+  "address": "0x054f76beed60ab6dbeb23502178c52d6c5debe40",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "fonzy",
   "name": "Fonzy",
-  "address": "0xb939DA54f9748440A1B279d42Be1296942732288",
+  "address": "0xb939da54f9748440a1b279d42be1296942732288",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

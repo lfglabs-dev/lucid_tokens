@@ -1,7 +1,7 @@
 {
   "symbol": "pixel",
   "name": "PixelVerse",
-  "address": "0x65E6B60Ea01668634D68D0513Fe814679F925BaD",
+  "address": "0x65e6b60ea01668634d68d0513fe814679f925bad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

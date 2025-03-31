@@ -1,7 +1,7 @@
 {
   "symbol": "ulx",
   "name": "ULTRON",
-  "address": "0x5Aa158404fEd6b4730C13F49d3a7F820e14A636F",
+  "address": "0x5aa158404fed6b4730c13f49d3a7f820e14a636f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

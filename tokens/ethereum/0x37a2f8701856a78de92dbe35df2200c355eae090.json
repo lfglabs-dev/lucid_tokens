@@ -1,7 +1,7 @@
 {
   "symbol": "qns",
   "name": "QuantoSwap",
-  "address": "0x37A2f8701856a78DE92DBe35dF2200c355EAe090",
+  "address": "0x37a2f8701856a78de92dbe35df2200c355eae090",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

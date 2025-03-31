@@ -1,7 +1,7 @@
 {
   "symbol": "pepe",
   "name": "Pepe 2nd Chance",
-  "address": "0x2FB3842189Fc7A699d047D9e647474F27779331d",
+  "address": "0x2fb3842189fc7a699d047d9e647474f27779331d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ftx",
   "name": "HairyPlotterFTX",
-  "address": "0xB1a822cE8c799B0777Ed1F260113819247e1Bf26",
+  "address": "0xb1a822ce8c799b0777ed1f260113819247e1bf26",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

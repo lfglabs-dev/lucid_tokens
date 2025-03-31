@@ -1,7 +1,7 @@
 {
   "symbol": "vxl",
   "name": "Voxel X Network",
-  "address": "0x16CC8367055aE7e9157DBcB9d86Fd6CE82522b31",
+  "address": "0x16cc8367055ae7e9157dbcb9d86fd6ce82522b31",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

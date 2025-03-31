@@ -1,7 +1,7 @@
 {
   "symbol": "neuy",
   "name": "NEUY",
-  "address": "0xa80505c408C4DEFD9522981cD77e026f5a49FE63",
+  "address": "0xa80505c408c4defd9522981cd77e026f5a49fe63",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

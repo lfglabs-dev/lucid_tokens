@@ -1,7 +1,7 @@
 {
   "symbol": "eusd",
   "name": "eUSD (OLD)",
-  "address": "0x97de57eC338AB5d51557DA3434828C5DbFaDA371",
+  "address": "0x97de57ec338ab5d51557da3434828c5dbfada371",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

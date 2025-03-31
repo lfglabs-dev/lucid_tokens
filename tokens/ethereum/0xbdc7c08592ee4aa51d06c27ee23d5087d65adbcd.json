@@ -1,7 +1,7 @@
 {
   "symbol": "usdl",
   "name": "Lift Dollar",
-  "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
+  "address": "0xbdc7c08592ee4aa51d06c27ee23d5087d65adbcd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

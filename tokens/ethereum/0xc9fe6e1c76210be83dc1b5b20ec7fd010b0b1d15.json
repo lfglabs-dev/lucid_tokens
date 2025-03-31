@@ -1,7 +1,7 @@
 {
   "symbol": "frin",
   "name": "Fringe Finance",
-  "address": "0xC9fE6E1C76210bE83DC1B5b20ec7FD010B0b1D15",
+  "address": "0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

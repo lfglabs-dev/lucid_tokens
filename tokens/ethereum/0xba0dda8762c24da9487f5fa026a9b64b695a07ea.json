@@ -1,7 +1,7 @@
 {
   "symbol": "ox",
   "name": "OX Coin",
-  "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+  "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -16,7 +16,6 @@
     "avalanche": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
     "arbitrum-one": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
     "polygon-pos": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
-    "base": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
-    "solana": "3E2z4KX7y457xJqK9RQeJhA29oPdoUvAAD3Ea3zQyuG3"
+    "base": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea"
   }
 }

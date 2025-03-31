@@ -1,7 +1,7 @@
 {
   "symbol": "meeb",
   "name": "MEEB Vault (NFTX)",
-  "address": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
+  "address": "0x641927e970222b10b2e8cdbc96b1b4f427316f16",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

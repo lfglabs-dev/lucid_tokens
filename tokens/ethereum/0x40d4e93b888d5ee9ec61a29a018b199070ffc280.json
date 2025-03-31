@@ -1,7 +1,7 @@
 {
   "symbol": "delay",
   "name": "DegenLayer",
-  "address": "0x40D4e93b888d5ee9EC61A29a018b199070FfC280",
+  "address": "0x40d4e93b888d5ee9ec61a29a018b199070ffc280",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "devt",
   "name": "DeHorizon",
-  "address": "0xB5c578947de0fd71303F71F2C3d41767438bD0de",
+  "address": "0xb5c578947de0fd71303f71f2c3d41767438bd0de",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

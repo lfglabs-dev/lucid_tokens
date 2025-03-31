@@ -1,7 +1,7 @@
 {
   "symbol": "lunch",
   "name": "LunchDAO",
-  "address": "0x71a28feAEe902966DC8D355e7B8Aa427D421e7e0",
+  "address": "0x71a28feaee902966dc8d355e7b8aa427d421e7e0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

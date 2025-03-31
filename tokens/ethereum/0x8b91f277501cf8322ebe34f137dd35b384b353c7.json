@@ -1,7 +1,7 @@
 {
   "symbol": "core",
   "name": "CoreAI",
-  "address": "0x8b91f277501CF8322Ebe34F137DD35B384B353C7",
+  "address": "0x8b91f277501cf8322ebe34f137dd35b384b353c7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

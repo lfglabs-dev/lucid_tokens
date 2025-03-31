@@ -1,7 +1,7 @@
 {
   "symbol": "ybtc",
   "name": "pSTAKE Staked Bitcoin",
-  "address": "0x4b6d20acFC764Ef6b60F0339e7CBaD83284E7D6e",
+  "address": "0x4b6d20acfc764ef6b60f0339e7cbad83284e7d6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

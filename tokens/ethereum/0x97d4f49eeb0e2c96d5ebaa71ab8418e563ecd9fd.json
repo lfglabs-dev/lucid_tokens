@@ -1,7 +1,7 @@
 {
   "symbol": "lsd",
   "name": "Liquid Staking Derivative",
-  "address": "0x97D4F49eEb0E2c96d5EbAA71AB8418e563ecd9fd",
+  "address": "0x97d4f49eeb0e2c96d5ebaa71ab8418e563ecd9fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

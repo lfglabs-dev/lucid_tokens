@@ -1,7 +1,7 @@
 {
   "symbol": "eqb",
   "name": "Equilibria Finance",
-  "address": "0xfE80D611c6403f70e5B1b9B722D2B3510B740B2B",
+  "address": "0xfe80d611c6403f70e5b1b9b722d2b3510b740b2b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

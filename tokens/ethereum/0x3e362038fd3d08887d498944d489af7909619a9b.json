@@ -1,7 +1,7 @@
 {
   "symbol": "chow",
   "name": "CHOW CHOW",
-  "address": "0x3E362038fD3d08887d498944D489aF7909619a9B",
+  "address": "0x3e362038fd3d08887d498944d489af7909619a9b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

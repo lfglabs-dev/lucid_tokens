@@ -1,7 +1,7 @@
 {
   "symbol": "etf",
   "name": "ETF The Token",
-  "address": "0x667210a731447F8B385e068205759BE2311b86d4",
+  "address": "0x667210a731447f8b385e068205759be2311b86d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

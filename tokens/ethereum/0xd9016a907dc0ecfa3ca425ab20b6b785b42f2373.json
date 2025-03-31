@@ -1,7 +1,7 @@
 {
   "symbol": "gmee",
   "name": "GAMEE",
-  "address": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+  "address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
-    "the-open-network": "EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p",
     "binance-smart-chain": "0x84e9a6f9d240fdd33801f7135908bfa16866939a"
   }
 }

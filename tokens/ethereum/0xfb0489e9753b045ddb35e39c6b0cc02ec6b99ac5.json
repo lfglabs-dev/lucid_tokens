@@ -1,7 +1,7 @@
 {
   "symbol": "agg",
   "name": "AGG",
-  "address": "0xFB0489e9753B045DdB35e39c6B0Cc02EC6b99AC5",
+  "address": "0xfb0489e9753b045ddb35e39c6b0cc02ec6b99ac5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

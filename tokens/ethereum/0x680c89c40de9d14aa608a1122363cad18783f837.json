@@ -1,7 +1,7 @@
 {
   "symbol": "epic",
   "name": "EPICBOTS",
-  "address": "0x680c89C40dE9D14aa608a1122363caD18783F837",
+  "address": "0x680c89c40de9d14aa608a1122363cad18783f837",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

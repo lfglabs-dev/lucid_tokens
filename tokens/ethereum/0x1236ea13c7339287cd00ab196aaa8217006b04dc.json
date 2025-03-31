@@ -1,7 +1,7 @@
 {
   "symbol": "epl",
   "name": "Epic League",
-  "address": "0x1236ea13c7339287Cd00AB196aAA8217006b04dc",
+  "address": "0x1236ea13c7339287cd00ab196aaa8217006b04dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

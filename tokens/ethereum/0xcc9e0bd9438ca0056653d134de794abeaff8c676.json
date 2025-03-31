@@ -1,7 +1,7 @@
 {
   "symbol": "leslie",
   "name": "Leslie",
-  "address": "0xcc9e0Bd9438Ca0056653D134de794abEAFF8C676",
+  "address": "0xcc9e0bd9438ca0056653d134de794abeaff8c676",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

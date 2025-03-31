@@ -1,7 +1,7 @@
 {
   "symbol": "odgn",
   "name": "OrdiGen",
-  "address": "0xC3Cc3076Cb304494775b3193ef1aa080BA6Bf962",
+  "address": "0xc3cc3076cb304494775b3193ef1aa080ba6bf962",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

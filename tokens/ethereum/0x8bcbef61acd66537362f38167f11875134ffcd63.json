@@ -1,7 +1,7 @@
 {
   "symbol": "pepeg",
   "name": "Pepe Girl",
-  "address": "0x8BCbef61ACd66537362f38167F11875134FfcD63",
+  "address": "0x8bcbef61acd66537362f38167f11875134ffcd63",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

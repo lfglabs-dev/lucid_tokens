@@ -1,7 +1,7 @@
 {
   "symbol": "shibc",
   "name": "Shiba Classic",
-  "address": "0x9562E2063122eaA4d7C2d786E7ca2610D70ca8B8",
+  "address": "0x9562e2063122eaa4d7c2d786e7ca2610d70ca8b8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

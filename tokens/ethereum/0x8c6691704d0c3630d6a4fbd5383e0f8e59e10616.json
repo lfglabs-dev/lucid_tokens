@@ -1,7 +1,7 @@
 {
   "symbol": "triton",
   "name": "Triton",
-  "address": "0x8C6691704d0C3630d6a4FbD5383E0F8e59E10616",
+  "address": "0x8c6691704d0c3630d6a4fbd5383e0f8e59e10616",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

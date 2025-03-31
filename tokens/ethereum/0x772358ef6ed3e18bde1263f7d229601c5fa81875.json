@@ -1,7 +1,7 @@
 {
   "symbol": "snpad",
   "name": "SNPad",
-  "address": "0x772358ef6ed3e18BdE1263F7d229601c5fa81875",
+  "address": "0x772358ef6ed3e18bde1263f7d229601c5fa81875",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "sov",
   "name": "Sovryn",
-  "address": "0xbdab72602e9AD40FC6a6852CAf43258113B8F7a5",
+  "address": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

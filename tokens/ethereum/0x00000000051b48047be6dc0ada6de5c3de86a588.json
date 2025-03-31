@@ -1,7 +1,7 @@
 {
   "symbol": "babyshib",
   "name": "Baby Shiba Inu",
-  "address": "0x00000000051b48047bE6DC0Ada6DE5c3de86A588",
+  "address": "0x00000000051b48047be6dc0ada6de5c3de86a588",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

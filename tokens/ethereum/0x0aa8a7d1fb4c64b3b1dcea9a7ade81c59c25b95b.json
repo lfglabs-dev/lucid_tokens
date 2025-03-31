@@ -1,7 +1,7 @@
 {
   "symbol": "astra",
   "name": "AstraAI",
-  "address": "0x0aA8A7D1fB4c64B3b1DcEa9A7ADe81C59C25b95b",
+  "address": "0x0aa8a7d1fb4c64b3b1dcea9a7ade81c59c25b95b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

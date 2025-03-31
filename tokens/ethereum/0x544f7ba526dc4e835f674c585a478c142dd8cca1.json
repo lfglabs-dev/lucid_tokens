@@ -1,7 +1,7 @@
 {
   "symbol": "sfai",
   "name": "SupportFi AI",
-  "address": "0x544f7BA526DC4E835F674c585A478c142Dd8CCa1",
+  "address": "0x544f7ba526dc4e835f674c585a478c142dd8cca1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

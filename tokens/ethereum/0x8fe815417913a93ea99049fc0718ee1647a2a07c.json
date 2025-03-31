@@ -1,7 +1,7 @@
 {
   "symbol": "xswap",
   "name": "XSwap",
-  "address": "0x8Fe815417913a93Ea99049FC0718ee1647A2a07c",
+  "address": "0x8fe815417913a93ea99049fc0718ee1647a2a07c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

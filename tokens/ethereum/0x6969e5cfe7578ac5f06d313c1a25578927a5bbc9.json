@@ -1,7 +1,7 @@
 {
   "symbol": "morti",
   "name": "Morti",
-  "address": "0x6969E5CFe7578aC5F06D313C1A25578927a5bBC9",
+  "address": "0x6969e5cfe7578ac5f06d313c1a25578927a5bbc9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

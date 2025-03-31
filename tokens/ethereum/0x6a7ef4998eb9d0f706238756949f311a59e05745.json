@@ -1,7 +1,7 @@
 {
   "symbol": "ken",
   "name": "Keysians Network",
-  "address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
+  "address": "0x6a7ef4998eb9d0f706238756949f311a59e05745",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

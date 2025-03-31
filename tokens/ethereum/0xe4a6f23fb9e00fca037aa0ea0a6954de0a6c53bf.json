@@ -1,7 +1,7 @@
 {
   "symbol": "txau",
   "name": "tGOLD",
-  "address": "0xe4A6f23Fb9e00Fca037Aa0EA0a6954dE0a6C53bF",
+  "address": "0xe4a6f23fb9e00fca037aa0ea0a6954de0a6c53bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

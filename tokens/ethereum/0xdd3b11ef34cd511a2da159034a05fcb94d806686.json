@@ -1,7 +1,7 @@
 {
   "symbol": "rekt",
   "name": "Rekt",
-  "address": "0xdd3B11eF34cd511a2DA159034a05fcb94D806686",
+  "address": "0xdd3b11ef34cd511a2da159034a05fcb94d806686",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

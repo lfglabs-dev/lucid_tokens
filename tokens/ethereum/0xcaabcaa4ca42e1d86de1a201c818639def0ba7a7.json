@@ -1,7 +1,7 @@
 {
   "symbol": "talk",
   "name": "Talken",
-  "address": "0xCAabCaA4ca42e1d86dE1a201c818639def0ba7A7",
+  "address": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -13,7 +13,6 @@
     "ethereum": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7",
     "klay-token": "0x55863cb9a7f92c134e9f8edb6c655b92d60493b5",
     "binance-smart-chain": "0x7d61d3752f759c71f5291358408947aff7b0ff2c",
-    "polygon-pos": "0xe7e72be51c3b4e1f3ceb34e177e1ba1c1744fd7d",
-    "solana": "3xUK7cHo3Vfh7uQCTkS2GUhJJuXhg2RXgApNYKHZ1B5R"
+    "polygon-pos": "0xe7e72be51c3b4e1f3ceb34e177e1ba1c1744fd7d"
   }
 }

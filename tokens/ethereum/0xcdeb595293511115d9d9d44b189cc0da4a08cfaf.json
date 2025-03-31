@@ -1,7 +1,7 @@
 {
   "symbol": "jfish",
   "name": "Jellyfish Mobile",
-  "address": "0xCdeb595293511115d9D9d44B189Cc0Da4a08cfAf",
+  "address": "0xcdeb595293511115d9d9d44b189cc0da4a08cfaf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dorky",
   "name": "Dork Lord",
-  "address": "0x95Ed629B028Cf6AADd1408Bb988c6d1DAAbe4767",
+  "address": "0x95ed629b028cf6aadd1408bb988c6d1daabe4767",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

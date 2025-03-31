@@ -1,7 +1,7 @@
 {
   "symbol": "ply",
   "name": "Aurigami",
-  "address": "0x1aB43204a195a0fD37EdeC621482AFd3792ef90b",
+  "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "aurora": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
-    "near-protocol": "1ab43204a195a0fd37edec621482afd3792ef90b.factory.bridge.near",
     "ethereum": "0x1ab43204a195a0fd37edec621482afd3792ef90b"
   }
 }

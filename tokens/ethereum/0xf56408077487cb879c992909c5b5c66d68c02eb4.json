@@ -1,7 +1,7 @@
 {
   "symbol": "riot",
   "name": "Riot Racers",
-  "address": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+  "address": "0xf56408077487cb879c992909c5b5c66d68c02eb4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "stilt",
   "name": "Stilton",
-  "address": "0xB5F1457d6FBa1956Fb8d31B0B7CAcA14BDe0bE4b",
+  "address": "0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "coffee",
   "name": "Coffee Club Token",
-  "address": "0xa3B3BEAf9c0a6160a8e47f000C094d34121F1a57",
+  "address": "0xa3b3beaf9c0a6160a8e47f000c094d34121f1a57",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

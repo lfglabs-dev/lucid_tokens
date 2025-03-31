@@ -1,7 +1,7 @@
 {
   "symbol": "btru",
   "name": "Biblical Truth",
-  "address": "0xfC70CbB442D5c115eE1497d22b421B1f9Bd9f3Da",
+  "address": "0xfc70cbb442d5c115ee1497d22b421b1f9bd9f3da",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

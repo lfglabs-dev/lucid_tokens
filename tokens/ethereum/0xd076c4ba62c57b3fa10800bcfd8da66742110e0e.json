@@ -1,7 +1,7 @@
 {
   "symbol": "hvh",
   "name": "HAVAH",
-  "address": "0xd076C4Ba62c57b3Fa10800bcfD8dA66742110E0E",
+  "address": "0xd076c4ba62c57b3fa10800bcfd8da66742110e0e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

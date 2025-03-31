@@ -1,7 +1,7 @@
 {
   "symbol": "qbio",
   "name": "Quantum Biology DAO",
-  "address": "0x3E6A1b21bd267677Fa49BE6425aEbe2fc0f89bDE",
+  "address": "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde",
-    "solana": "qbioCGDnUBGX5qcK1Fc4zg19GaQEPmxHFMPMZQm4LZ8"
+    "ethereum": "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde"
   }
 }

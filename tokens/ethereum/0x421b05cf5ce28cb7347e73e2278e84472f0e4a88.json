@@ -1,7 +1,7 @@
 {
   "symbol": "sen",
   "name": "Sentio Protocol",
-  "address": "0x421b05cf5ce28Cb7347E73e2278E84472F0E4a88",
+  "address": "0x421b05cf5ce28cb7347e73e2278e84472f0e4a88",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

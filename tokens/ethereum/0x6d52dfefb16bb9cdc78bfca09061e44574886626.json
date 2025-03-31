@@ -1,7 +1,7 @@
 {
   "symbol": "cpu",
   "name": "CPUcoin",
-  "address": "0x6D52DfeFb16BB9Cdc78bfCA09061e44574886626",
+  "address": "0x6d52dfefb16bb9cdc78bfca09061e44574886626",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

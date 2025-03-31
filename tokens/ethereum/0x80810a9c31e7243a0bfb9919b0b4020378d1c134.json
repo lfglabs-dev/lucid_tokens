@@ -1,7 +1,7 @@
 {
   "symbol": "gop",
   "name": "The Republican Party",
-  "address": "0x80810a9c31E7243A0bFb9919b0B4020378d1C134",
+  "address": "0x80810a9c31e7243a0bfb9919b0b4020378d1c134",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

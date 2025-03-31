@@ -1,7 +1,7 @@
 {
   "symbol": "sweat",
   "name": "Sweat Economy",
-  "address": "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35",
+  "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,16 +11,12 @@
   },
   "platforms": {
     "ethereum": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
-    "solana": "NSG17kiSApMumWjLbZ4BLx8biPaAxTk9tDCdy1Fb9ia",
     "celo": "0x718aa4f7f026fd16086c842a68ce9ef55203b54f",
     "binance-smart-chain": "0x510ad22d8c956dcc20f68932861f54a591001283",
     "base": "0x227d920e20ebac8a40e7d6431b7d724bb64d7245",
-    "aptos": "0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693::coin::T",
-    "sui": "0xf0b202ef3e107ff4fc0142bbb9a607bf73b8f6460c5026d5c21c6f2e0a9a1083::coin::COIN",
     "polygon-pos": "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e",
     "arbitrum-one": "0xca7dec8550f43a5e46e3dfb95801f64280e75b27",
     "optimistic-ethereum": "0x38761749330c23d681d136e8ea3fc47d4bb93db3",
-    "avalanche": "0x1e4c0e060fba7d62fa9fbb1aa624e58f796b4efe",
-    "near-protocol": "token.sweat"
+    "avalanche": "0x1e4c0e060fba7d62fa9fbb1aa624e58f796b4efe"
   }
 }

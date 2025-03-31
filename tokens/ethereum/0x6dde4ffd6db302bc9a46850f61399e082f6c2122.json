@@ -1,7 +1,7 @@
 {
   "symbol": "iai",
   "name": "inheritance Art",
-  "address": "0x6dDe4fFD6dB302Bc9a46850f61399e082f6c2122",
+  "address": "0x6dde4ffd6db302bc9a46850f61399e082f6c2122",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ember",
   "name": "Ember Sword",
-  "address": "0x35F3bAD2FCC8053869086885f7898a3D4309Db4E",
+  "address": "0x35f3bad2fcc8053869086885f7898a3d4309db4e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

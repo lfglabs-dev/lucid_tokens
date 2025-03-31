@@ -1,7 +1,7 @@
 {
   "symbol": "arkx.d",
   "name": "Dinari ARKX",
-  "address": "0xF0D7EE633636BAE1D502A96F1130b00DEaF06DC4",
+  "address": "0xf0d7ee633636bae1d502a96f1130b00deaf06dc4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

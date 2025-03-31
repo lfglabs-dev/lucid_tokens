@@ -1,7 +1,7 @@
 {
   "symbol": "cypepe",
   "name": "CyPepe",
-  "address": "0x80A88dc663fa256E34ecb5a47314702313b162A5",
+  "address": "0x80a88dc663fa256e34ecb5a47314702313b162a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

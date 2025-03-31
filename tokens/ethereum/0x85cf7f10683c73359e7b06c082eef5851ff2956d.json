@@ -1,7 +1,7 @@
 {
   "symbol": "lilai",
   "name": "LilAI",
-  "address": "0x85Cf7f10683C73359e7B06C082eef5851fF2956D",
+  "address": "0x85cf7f10683c73359e7b06c082eef5851ff2956d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

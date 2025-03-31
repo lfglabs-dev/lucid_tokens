@@ -1,7 +1,7 @@
 {
   "symbol": "aguri",
   "name": "Aguri-Chan",
-  "address": "0x8e42FE26FC1697f57076C9f2A8d1FF69Cf7F6Fda",
+  "address": "0x8e42fe26fc1697f57076c9f2a8d1ff69cf7f6fda",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

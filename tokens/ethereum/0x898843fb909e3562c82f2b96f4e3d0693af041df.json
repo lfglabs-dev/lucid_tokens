@@ -1,7 +1,7 @@
 {
   "symbol": "lemon",
   "name": "Lemonrocks",
-  "address": "0x898843Fb909e3562C82F2B96F4e3d0693Af041Df",
+  "address": "0x898843fb909e3562c82f2b96f4e3d0693af041df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

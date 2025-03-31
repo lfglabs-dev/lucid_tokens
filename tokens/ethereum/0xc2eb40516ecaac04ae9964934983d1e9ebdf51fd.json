@@ -1,7 +1,7 @@
 {
   "symbol": "99btc",
   "name": "99 Bitcoins",
-  "address": "0xc2eB40516Ecaac04aE9964934983D1E9EbDF51FD",
+  "address": "0xc2eb40516ecaac04ae9964934983d1e9ebdf51fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

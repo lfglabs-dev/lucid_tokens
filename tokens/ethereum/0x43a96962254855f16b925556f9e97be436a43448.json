@@ -1,7 +1,7 @@
 {
   "symbol": "hord",
   "name": "Hord",
-  "address": "0x43A96962254855F16b925556f9e97BE436A43448",
+  "address": "0x43a96962254855f16b925556f9e97be436a43448",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

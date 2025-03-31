@@ -1,7 +1,7 @@
 {
   "symbol": "medge",
   "name": "Midas mEDGE",
-  "address": "0xbB51E2a15A9158EBE2b0Ceb8678511e063AB7a55",
+  "address": "0xbb51e2a15a9158ebe2b0ceb8678511e063ab7a55",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

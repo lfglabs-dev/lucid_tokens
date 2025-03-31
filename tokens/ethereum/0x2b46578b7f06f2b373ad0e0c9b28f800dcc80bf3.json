@@ -1,7 +1,7 @@
 {
   "symbol": "echo",
   "name": "Echo Bot",
-  "address": "0x2B46578B7F06F2B373AD0E0c9b28F800dCc80bF3",
+  "address": "0x2b46578b7f06f2b373ad0e0c9b28f800dcc80bf3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

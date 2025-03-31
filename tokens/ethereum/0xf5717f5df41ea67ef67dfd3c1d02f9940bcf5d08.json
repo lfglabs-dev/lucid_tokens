@@ -1,7 +1,7 @@
 {
   "symbol": "snn",
   "name": "SeChain",
-  "address": "0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+  "address": "0xf5717f5df41ea67ef67dfd3c1d02f9940bcf5d08",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

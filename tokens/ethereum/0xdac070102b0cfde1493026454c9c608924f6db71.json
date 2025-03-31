@@ -1,7 +1,7 @@
 {
   "symbol": "popg",
   "name": "POPG",
-  "address": "0xDaC070102b0CFDe1493026454c9C608924f6db71",
+  "address": "0xdac070102b0cfde1493026454c9c608924f6db71",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

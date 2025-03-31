@@ -1,7 +1,7 @@
 {
   "symbol": "jchf",
   "name": "Jarvis Synthetic Swiss Franc",
-  "address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
+  "address": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

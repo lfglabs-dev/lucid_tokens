@@ -1,7 +1,7 @@
 {
   "symbol": "mdai",
   "name": "MindAI",
-  "address": "0xb549116Ac57b47C1B365A890e1D04FD547dFFf97",
+  "address": "0xb549116ac57b47c1b365a890e1d04fd547dfff97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

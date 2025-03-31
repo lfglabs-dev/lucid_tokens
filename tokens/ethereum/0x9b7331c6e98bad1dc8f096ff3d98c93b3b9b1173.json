@@ -1,7 +1,7 @@
 {
   "symbol": "bull",
   "name": "Mumu the Bull",
-  "address": "0x9B7331c6e98bAd1dC8F096fF3D98C93B3b9B1173",
+  "address": "0x9b7331c6e98bad1dc8f096ff3d98c93b3b9b1173",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

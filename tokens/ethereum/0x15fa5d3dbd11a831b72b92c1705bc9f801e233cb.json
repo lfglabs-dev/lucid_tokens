@@ -1,7 +1,7 @@
 {
   "symbol": "pxp",
   "name": "PointPay",
-  "address": "0x15FA5d3DBD11a831b72B92C1705BC9F801E233CB",
+  "address": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

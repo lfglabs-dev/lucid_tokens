@@ -1,7 +1,7 @@
 {
   "symbol": "tas",
   "name": "Tao Accounting System",
-  "address": "0x64D5fEa7d2d600918b76159285994d6ed218F264",
+  "address": "0x64d5fea7d2d600918b76159285994d6ed218f264",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pan",
   "name": "Pantos",
-  "address": "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92",
+  "address": "0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

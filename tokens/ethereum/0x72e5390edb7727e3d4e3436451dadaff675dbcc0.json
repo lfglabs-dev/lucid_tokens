@@ -1,7 +1,7 @@
 {
   "symbol": "hanu",
   "name": "Hanu Yokia",
-  "address": "0x72E5390EDb7727E3d4e3436451DADafF675dBCC0",
+  "address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

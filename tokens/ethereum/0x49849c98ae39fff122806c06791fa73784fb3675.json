@@ -1,7 +1,7 @@
 {
   "symbol": "renbtccurve",
   "name": "LP renBTC Curve",
-  "address": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+  "address": "0x49849c98ae39fff122806c06791fa73784fb3675",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

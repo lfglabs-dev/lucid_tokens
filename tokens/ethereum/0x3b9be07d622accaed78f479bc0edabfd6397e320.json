@@ -1,7 +1,7 @@
 {
   "symbol": "lss",
   "name": "Lossless",
-  "address": "0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320",
+  "address": "0x3b9be07d622accaed78f479bc0edabfd6397e320",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

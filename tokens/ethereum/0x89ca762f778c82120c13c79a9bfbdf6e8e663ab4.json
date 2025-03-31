@@ -1,7 +1,7 @@
 {
   "symbol": "rise",
   "name": "AdRise",
-  "address": "0x89ca762f778c82120C13C79A9bFbDF6e8e663AB4",
+  "address": "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

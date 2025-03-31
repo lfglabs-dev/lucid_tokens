@@ -1,7 +1,7 @@
 {
   "symbol": "pepe2.0",
   "name": "Pepe 2.0",
-  "address": "0x0305f515fa978cf87226cf8A9776D25bcfb2Cc0B",
+  "address": "0x0305f515fa978cf87226cf8a9776d25bcfb2cc0b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

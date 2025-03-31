@@ -1,7 +1,7 @@
 {
   "symbol": "fuelx",
   "name": "Fuel",
-  "address": "0xcc54ac31164b5b3c39DB4Eef26D89275c468EC9d",
+  "address": "0xcc54ac31164b5b3c39db4eef26d89275c468ec9d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xcc54ac31164b5b3c39db4eef26d89275c468ec9d",
-    "solana": "9nD29a6TMDFHqAXS3iJ6nwLByLBS1gx2664ieQf7Zo7H"
+    "ethereum": "0xcc54ac31164b5b3c39db4eef26d89275c468ec9d"
   }
 }

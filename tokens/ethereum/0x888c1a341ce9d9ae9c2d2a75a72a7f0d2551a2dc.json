@@ -1,7 +1,7 @@
 {
   "symbol": "csi",
   "name": "CSI888",
-  "address": "0x888C1A341ce9D9ae9c2D2a75a72A7f0d2551A2dc",
+  "address": "0x888c1a341ce9d9ae9c2d2a75a72a7f0d2551a2dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

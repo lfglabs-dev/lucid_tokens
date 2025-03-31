@@ -1,7 +1,7 @@
 {
   "symbol": "pola",
   "name": "Polaris Share",
-  "address": "0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED",
+  "address": "0xc691bc298a304d591ad9b352c7a8d216de9f2ced",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

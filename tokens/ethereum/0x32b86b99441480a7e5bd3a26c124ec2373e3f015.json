@@ -1,7 +1,7 @@
 {
   "symbol": "bad",
   "name": "Bad Idea AI",
-  "address": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
+  "address": "0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

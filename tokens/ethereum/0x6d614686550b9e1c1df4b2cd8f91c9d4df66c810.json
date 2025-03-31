@@ -1,7 +1,7 @@
 {
   "symbol": "skeb",
   "name": "Skeb",
-  "address": "0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810",
+  "address": "0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

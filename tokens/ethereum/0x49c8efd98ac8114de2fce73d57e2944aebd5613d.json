@@ -1,7 +1,7 @@
 {
   "symbol": "atec",
   "name": "AnonTech",
-  "address": "0x49C8efD98AC8114DE2fCe73D57e2944aeBD5613D",
+  "address": "0x49c8efd98ac8114de2fce73d57e2944aebd5613d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

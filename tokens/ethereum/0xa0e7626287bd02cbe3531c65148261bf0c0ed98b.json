@@ -1,7 +1,7 @@
 {
   "symbol": "sgt",
   "name": "Shill Guard Token",
-  "address": "0xa0e7626287Bd02Cbe3531C65148261Bf0c0Ed98b",
+  "address": "0xa0e7626287bd02cbe3531c65148261bf0c0ed98b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

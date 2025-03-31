@@ -1,7 +1,7 @@
 {
   "symbol": "int",
   "name": "Intrepid Token",
-  "address": "0xA2762Ba628b962f93498D8893b6e4346140fe96D",
+  "address": "0xa2762ba628b962f93498d8893b6e4346140fe96d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

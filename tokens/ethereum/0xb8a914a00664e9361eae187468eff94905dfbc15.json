@@ -1,7 +1,7 @@
 {
   "symbol": "$drip",
   "name": "DRIP",
-  "address": "0xB8A914A00664e9361eaE187468EfF94905dfbC15",
+  "address": "0xb8a914a00664e9361eae187468eff94905dfbc15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

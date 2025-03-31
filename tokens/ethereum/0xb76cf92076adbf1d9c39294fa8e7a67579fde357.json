@@ -1,7 +1,7 @@
 {
   "symbol": "arpl",
   "name": "Aave v3 RPL",
-  "address": "0xB76CF92076adBF1D9C39294FA8e7A67579FDe357",
+  "address": "0xb76cf92076adbf1d9c39294fa8e7a67579fde357",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

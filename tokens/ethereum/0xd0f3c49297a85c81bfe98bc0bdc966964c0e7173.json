@@ -1,7 +1,7 @@
 {
   "symbol": "vmc",
   "name": "VMS Classic",
-  "address": "0xD0f3C49297a85C81bfE98bC0BdC966964c0E7173",
+  "address": "0xd0f3c49297a85c81bfe98bc0bdc966964c0e7173",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

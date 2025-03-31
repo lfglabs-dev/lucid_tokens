@@ -1,7 +1,7 @@
 {
   "symbol": "laika",
   "name": "Laïka",
-  "address": "0x19E1F2f837a3b90EBd0730cb6111189Be0E1b6D6",
+  "address": "0x19e1f2f837a3b90ebd0730cb6111189be0e1b6d6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

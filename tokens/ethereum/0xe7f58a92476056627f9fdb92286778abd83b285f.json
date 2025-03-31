@@ -1,7 +1,7 @@
 {
   "symbol": "dweb",
   "name": "DecentraWeb",
-  "address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+  "address": "0xe7f58a92476056627f9fdb92286778abd83b285f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

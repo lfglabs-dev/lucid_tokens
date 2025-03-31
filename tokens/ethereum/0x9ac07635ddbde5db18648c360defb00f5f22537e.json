@@ -1,7 +1,7 @@
 {
   "symbol": "moca",
   "name": "Museum of Crypto Art",
-  "address": "0x9Ac07635DDBDE5db18648c360DEFb00F5f22537e",
+  "address": "0x9ac07635ddbde5db18648c360defb00f5f22537e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

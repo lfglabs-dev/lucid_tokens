@@ -1,7 +1,7 @@
 {
   "symbol": "bnb",
   "name": "Binance Coin (Wormhole)",
-  "address": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
+  "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,10 +11,7 @@
   },
   "platforms": {
     "ethereum": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
-    "terra": "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
-    "sui": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
     "avalanche": "0x442f7f22b1ee2c842beaff52880d4573e9201158",
-    "polygon-pos": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
-    "solana": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa"
+    "polygon-pos": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d"
   }
 }

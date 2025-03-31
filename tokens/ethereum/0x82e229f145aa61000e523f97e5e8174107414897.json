@@ -1,7 +1,7 @@
 {
   "symbol": "ryno",
   "name": "Ryno AI",
-  "address": "0x82e229f145Aa61000e523F97E5E8174107414897",
+  "address": "0x82e229f145aa61000e523f97e5e8174107414897",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

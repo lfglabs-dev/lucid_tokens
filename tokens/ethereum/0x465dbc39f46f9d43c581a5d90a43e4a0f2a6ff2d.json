@@ -1,7 +1,7 @@
 {
   "symbol": "$ito",
   "name": "ITO",
-  "address": "0x465dbC39F46f9D43C581a5d90A43e4a0F2A6fF2d",
+  "address": "0x465dbc39f46f9d43c581a5d90a43e4a0f2a6ff2d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

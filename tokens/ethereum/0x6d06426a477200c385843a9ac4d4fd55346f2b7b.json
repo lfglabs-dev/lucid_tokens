@@ -1,7 +1,7 @@
 {
   "symbol": "ginnan",
   "name": "Ginnan Neko",
-  "address": "0x6d06426A477200C385843A9ac4d4Fd55346f2b7B",
+  "address": "0x6d06426a477200c385843a9ac4d4fd55346f2b7b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

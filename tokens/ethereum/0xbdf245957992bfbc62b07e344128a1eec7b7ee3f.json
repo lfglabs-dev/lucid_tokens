@@ -1,7 +1,7 @@
 {
   "symbol": "mbtc",
   "name": "Babypie Wrapped BTC",
-  "address": "0xbDf245957992bfBC62B07e344128a1EEc7b7eE3f",
+  "address": "0xbdf245957992bfbc62b07e344128a1eec7b7ee3f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

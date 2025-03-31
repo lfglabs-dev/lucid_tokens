@@ -1,7 +1,7 @@
 {
   "symbol": "gel",
   "name": "Gelato",
-  "address": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05",
+  "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "foy",
   "name": "Fund Of Yours",
-  "address": "0xAf91E8aFbe87642dC628786188a54B78580A4d76",
+  "address": "0xaf91e8afbe87642dc628786188a54b78580a4d76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

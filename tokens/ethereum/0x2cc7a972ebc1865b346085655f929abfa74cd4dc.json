@@ -1,7 +1,7 @@
 {
   "symbol": "shifu",
   "name": "Shifu",
-  "address": "0x2CC7A972ebC1865B346085655f929AbFa74CD4dC",
+  "address": "0x2cc7a972ebc1865b346085655f929abfa74cd4dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

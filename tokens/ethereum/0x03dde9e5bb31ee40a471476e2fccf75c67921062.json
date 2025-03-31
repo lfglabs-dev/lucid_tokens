@@ -1,7 +1,7 @@
 {
   "symbol": "eml",
   "name": "EML Protocol",
-  "address": "0x03dDe9e5BB31ee40A471476e2FCcF75C67921062",
+  "address": "0x03dde9e5bb31ee40a471476e2fccf75c67921062",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

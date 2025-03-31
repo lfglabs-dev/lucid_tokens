@@ -1,7 +1,7 @@
 {
   "symbol": "cryn",
   "name": "CRYN",
-  "address": "0xC31CEBf8F9E825d1D1244D73d0a65e44bD5210DB",
+  "address": "0xc31cebf8f9e825d1d1244d73d0a65e44bd5210db",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

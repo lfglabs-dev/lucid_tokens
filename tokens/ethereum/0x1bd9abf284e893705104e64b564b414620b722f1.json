@@ -1,7 +1,7 @@
 {
   "symbol": "acm",
   "name": "acmFinance",
-  "address": "0x1BD9ABF284e893705104E64B564B414620b722F1",
+  "address": "0x1bd9abf284e893705104e64b564b414620b722f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

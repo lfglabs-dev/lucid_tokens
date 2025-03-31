@@ -1,7 +1,7 @@
 {
   "symbol": "nex",
   "name": "NEXUS",
-  "address": "0xc01154B4CCB518232D6bbfC9B9E6C5068B766f82",
+  "address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

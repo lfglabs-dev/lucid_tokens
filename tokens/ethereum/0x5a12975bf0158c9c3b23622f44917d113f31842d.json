@@ -1,7 +1,7 @@
 {
   "symbol": "koma",
   "name": "Komari",
-  "address": "0x5A12975bF0158C9C3B23622f44917D113F31842D",
+  "address": "0x5a12975bf0158c9c3b23622f44917d113f31842d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

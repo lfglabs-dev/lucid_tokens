@@ -1,7 +1,7 @@
 {
   "symbol": "myt",
   "name": "MYSO Token",
-  "address": "0x5fDe99e121F3aC02e7d6ACb081dB1f89c1e93C17",
+  "address": "0x5fde99e121f3ac02e7d6acb081db1f89c1e93c17",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

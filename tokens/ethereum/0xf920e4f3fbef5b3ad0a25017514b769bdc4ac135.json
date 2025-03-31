@@ -1,7 +1,7 @@
 {
   "symbol": "bax",
   "name": "BABB",
-  "address": "0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135",
+  "address": "0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

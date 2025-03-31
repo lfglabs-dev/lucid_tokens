@@ -1,7 +1,7 @@
 {
   "symbol": "spte.d",
   "name": "Dinari SPTE",
-  "address": "0x2711018A5489Df0d9816bDB7670D58Ba23FB2D5e",
+  "address": "0x2711018a5489df0d9816bdb7670d58ba23fb2d5e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

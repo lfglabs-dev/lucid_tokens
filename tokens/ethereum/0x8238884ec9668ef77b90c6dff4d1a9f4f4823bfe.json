@@ -1,7 +1,7 @@
 {
   "symbol": "usdo",
   "name": "OpenEden OpenDollar",
-  "address": "0x8238884Ec9668Ef77B90C6dfF4D1a9F4F4823BFe",
+  "address": "0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

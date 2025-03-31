@@ -1,7 +1,7 @@
 {
   "symbol": "fric",
   "name": "Frictionless",
-  "address": "0x23Fa3Aa82858E7aD1F0f04352f4bb7F5E1BbFb68",
+  "address": "0x23fa3aa82858e7ad1f0f04352f4bb7f5e1bbfb68",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

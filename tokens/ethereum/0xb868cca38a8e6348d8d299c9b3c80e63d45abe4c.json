@@ -1,7 +1,7 @@
 {
   "symbol": "fusion",
   "name": "Fusion AI",
-  "address": "0xB868Cca38a8E6348d8D299c9b3C80e63d45Abe4c",
+  "address": "0xb868cca38a8e6348d8d299c9b3c80e63d45abe4c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

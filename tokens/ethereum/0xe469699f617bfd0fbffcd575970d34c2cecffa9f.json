@@ -1,7 +1,7 @@
 {
   "symbol": "vuzz",
   "name": "VuzzMind",
-  "address": "0xE469699F617bfd0FBfFcd575970d34c2CeCfFA9f",
+  "address": "0xe469699f617bfd0fbffcd575970d34c2cecffa9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

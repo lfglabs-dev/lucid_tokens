@@ -1,7 +1,7 @@
 {
   "symbol": "bcsbgc3",
   "name": "Backed Swiss Domestic Government Bond 0-3",
-  "address": "0xd8B95B1987741849cA7e71e976aEB535fd2e55a2",
+  "address": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

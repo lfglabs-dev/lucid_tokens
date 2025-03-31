@@ -1,7 +1,7 @@
 {
   "symbol": "edc",
   "name": "Edcoin",
-  "address": "0x9d5963ba32e877871dfF3e2E697283dc64066271",
+  "address": "0x9d5963ba32e877871dff3e2e697283dc64066271",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

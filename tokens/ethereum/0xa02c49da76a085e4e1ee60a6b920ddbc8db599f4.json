@@ -1,7 +1,7 @@
 {
   "symbol": "treat",
   "name": "Shiba Inu Treat",
-  "address": "0xa02C49Da76A085e4E1EE60A6b920dDbC8db599F4",
+  "address": "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

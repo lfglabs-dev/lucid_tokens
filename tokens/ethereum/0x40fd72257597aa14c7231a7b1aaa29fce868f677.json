@@ -1,7 +1,7 @@
 {
   "symbol": "xor",
   "name": "Sora",
-  "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+  "address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
-    "sora": "0x0200000000000000000000000000000000000000000000000000000000000000"
+    "ethereum": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
   }
 }

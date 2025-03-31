@@ -1,7 +1,7 @@
 {
   "symbol": "ppdex",
   "name": "Pepedex",
-  "address": "0xf1F508c7C9f0d1b15a76fbA564eEf2d956220cf7",
+  "address": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

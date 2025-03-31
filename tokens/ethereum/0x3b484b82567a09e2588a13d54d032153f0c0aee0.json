@@ -1,7 +1,7 @@
 {
   "symbol": "sos",
   "name": "OpenDAO",
-  "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+  "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

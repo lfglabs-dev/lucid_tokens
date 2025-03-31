@@ -1,7 +1,7 @@
 {
   "symbol": "ncash",
   "name": "Nutcash",
-  "address": "0xd105c45BCC7211F847Ae73B187A41b7D8184aDE2",
+  "address": "0xd105c45bcc7211f847ae73b187a41b7d8184ade2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "arbitrum-one": "0x88266f9eb705f5282a2507a9c418821a2ac9f8bd",
-    "ethereum": "0xd105c45bcc7211f847ae73b187a41b7d8184ade2",
-    "solana": "7HHCwGd7UAPF3gtHExBREYgY37cbyYcCaeyAHKUc7mUn"
+    "ethereum": "0xd105c45bcc7211f847ae73b187a41b7d8184ade2"
   }
 }

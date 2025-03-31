@@ -1,7 +1,7 @@
 {
   "symbol": "pbtc",
   "name": "pTokens BTC [OLD]",
-  "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+  "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

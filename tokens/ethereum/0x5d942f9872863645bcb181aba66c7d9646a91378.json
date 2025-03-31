@@ -1,7 +1,7 @@
 {
   "symbol": "asi",
   "name": "AltSignals",
-  "address": "0x5d942F9872863645bCb181ABa66c7D9646A91378",
+  "address": "0x5d942f9872863645bcb181aba66c7d9646a91378",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "frr",
   "name": "Frontrow",
-  "address": "0xe6602B34D8510B033E000975B3322537c7172441",
+  "address": "0xe6602b34d8510b033e000975b3322537c7172441",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

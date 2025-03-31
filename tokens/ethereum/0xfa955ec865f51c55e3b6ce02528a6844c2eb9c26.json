@@ -1,7 +1,7 @@
 {
   "symbol": "openli",
   "name": "OpenLiquidity",
-  "address": "0xFa955eC865f51c55E3B6CE02528A6844c2Eb9c26",
+  "address": "0xfa955ec865f51c55e3b6ce02528a6844c2eb9c26",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "sgr",
   "name": "Schrodinger",
-  "address": "0x478156DeAbfAc918369044D52A6BdB5Cc5597994",
+  "address": "0x478156deabfac918369044d52a6bdb5cc5597994",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

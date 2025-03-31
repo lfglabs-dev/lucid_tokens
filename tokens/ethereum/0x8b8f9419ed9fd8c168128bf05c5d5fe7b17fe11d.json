@@ -1,7 +1,7 @@
 {
   "symbol": "milo",
   "name": "Milo Token",
-  "address": "0x8b8f9419ED9Fd8C168128bf05C5d5FE7B17fE11D",
+  "address": "0x8b8f9419ed9fd8c168128bf05c5d5fe7b17fe11d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

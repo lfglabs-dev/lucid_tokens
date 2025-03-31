@@ -1,7 +1,7 @@
 {
   "symbol": "q*",
   "name": "QSTAR",
-  "address": "0x9ABFc0f085C82Ec1Be31D30843965FCC63053fFe",
+  "address": "0x9abfc0f085c82ec1be31d30843965fcc63053ffe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

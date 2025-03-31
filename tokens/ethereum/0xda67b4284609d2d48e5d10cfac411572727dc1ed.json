@@ -1,7 +1,7 @@
 {
   "symbol": "usn",
   "name": "Noon USN",
-  "address": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD",
+  "address": "0xda67b4284609d2d48e5d10cfac411572727dc1ed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dong",
   "name": "DongCoin",
-  "address": "0x4208Aa4d7A9a10f4f8bb7f6400c1b2161D946969",
+  "address": "0x4208aa4d7a9a10f4f8bb7f6400c1b2161d946969",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "goldn",
   "name": "GoLondon",
-  "address": "0xfE402841227213aDeBd67eC42921bf7b76415F6C",
+  "address": "0xfe402841227213adebd67ec42921bf7b76415f6c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

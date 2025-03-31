@@ -1,7 +1,7 @@
 {
   "symbol": "mint",
   "name": "Public Mint",
-  "address": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
+  "address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

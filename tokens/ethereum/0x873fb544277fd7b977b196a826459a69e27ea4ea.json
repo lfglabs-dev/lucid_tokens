@@ -1,7 +1,7 @@
 {
   "symbol": "yvrai",
   "name": "RAI yVault",
-  "address": "0x873fB544277FD7b977B196a826459a69E27eA4ea",
+  "address": "0x873fb544277fd7b977b196a826459a69e27ea4ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

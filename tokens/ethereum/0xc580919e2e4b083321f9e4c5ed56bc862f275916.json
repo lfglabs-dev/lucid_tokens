@@ -1,7 +1,7 @@
 {
   "symbol": "soxl.d",
   "name": "Dinari SOXL",
-  "address": "0xc580919e2e4B083321F9e4C5ED56Bc862F275916",
+  "address": "0xc580919e2e4b083321f9e4c5ed56bc862f275916",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

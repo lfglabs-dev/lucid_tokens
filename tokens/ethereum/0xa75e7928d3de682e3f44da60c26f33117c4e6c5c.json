@@ -1,7 +1,7 @@
 {
   "symbol": "pel",
   "name": "Propel",
-  "address": "0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
+  "address": "0xa75e7928d3de682e3f44da60c26f33117c4e6c5c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bjk",
   "name": "Beşiktaş",
-  "address": "0x1903BE033d3e436dd79a8Cf9030675BCf97aB589",
+  "address": "0x1903be033d3e436dd79a8cf9030675bcf97ab589",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

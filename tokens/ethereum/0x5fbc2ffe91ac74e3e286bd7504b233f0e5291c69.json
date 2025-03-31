@@ -1,7 +1,7 @@
 {
   "symbol": "ebet",
   "name": "EarnBet",
-  "address": "0x5Fbc2fFE91aC74E3E286bd7504b233F0e5291C69",
+  "address": "0x5fbc2ffe91ac74e3e286bd7504b233f0e5291c69",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

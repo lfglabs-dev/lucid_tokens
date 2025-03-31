@@ -1,7 +1,7 @@
 {
   "symbol": "bbtc",
   "name": "BounceBit BTC",
-  "address": "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC",
+  "address": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

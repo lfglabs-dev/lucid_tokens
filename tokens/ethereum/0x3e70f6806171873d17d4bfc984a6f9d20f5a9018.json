@@ -1,7 +1,7 @@
 {
   "symbol": "coin",
   "name": "BrianArmstrongTrumpYellenGTA6",
-  "address": "0x3E70F6806171873D17d4Bfc984a6f9d20f5A9018",
+  "address": "0x3e70f6806171873d17d4bfc984a6f9d20f5a9018",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

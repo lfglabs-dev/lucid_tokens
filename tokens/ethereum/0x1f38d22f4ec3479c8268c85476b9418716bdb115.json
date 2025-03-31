@@ -1,7 +1,7 @@
 {
   "symbol": "meh",
   "name": "Meh",
-  "address": "0x1f38d22F4eC3479C8268C85476b9418716bdB115",
+  "address": "0x1f38d22f4ec3479c8268c85476b9418716bdb115",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

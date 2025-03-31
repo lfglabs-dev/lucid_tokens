@@ -1,7 +1,7 @@
 {
   "symbol": "imx",
   "name": "Immutable",
-  "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+  "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

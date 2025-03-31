@@ -1,7 +1,7 @@
 {
   "symbol": "data",
   "name": "DataBot",
-  "address": "0xb551b43AF192965F74e3dfAA476C890B403caD95",
+  "address": "0xb551b43af192965f74e3dfaa476c890b403cad95",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wel",
   "name": "Welshare Health Token",
-  "address": "0x1E762e1FAc176bbB341656035daf5601b1C69Be5",
+  "address": "0x1e762e1fac176bbb341656035daf5601b1c69be5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

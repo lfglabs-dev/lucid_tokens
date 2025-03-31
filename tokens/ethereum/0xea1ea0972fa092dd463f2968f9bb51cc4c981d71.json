@@ -1,7 +1,7 @@
 {
   "symbol": "mod",
   "name": "Modefi",
-  "address": "0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71",
+  "address": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

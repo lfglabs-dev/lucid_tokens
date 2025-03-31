@@ -1,7 +1,7 @@
 {
   "symbol": "credi",
   "name": "Credefi",
-  "address": "0xaE6e307c3Fe9E922E5674DBD7F830Ed49c014c6B",
+  "address": "0xae6e307c3fe9e922e5674dbd7f830ed49c014c6b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

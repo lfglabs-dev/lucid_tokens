@@ -1,7 +1,7 @@
 {
   "symbol": "grow",
   "name": "ValleyDAO",
-  "address": "0x761A3557184cbC07b7493da0661c41177b2f97fA",
+  "address": "0x761a3557184cbc07b7493da0661c41177b2f97fa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x761a3557184cbc07b7493da0661c41177b2f97fa",
-    "solana": "growFDf9teg9gwVTTY3DgpPXU31qBrnbSQCqtY2vkR8"
+    "ethereum": "0x761a3557184cbc07b7493da0661c41177b2f97fa"
   }
 }

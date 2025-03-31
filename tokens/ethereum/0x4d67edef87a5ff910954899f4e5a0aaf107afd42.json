@@ -1,7 +1,7 @@
 {
   "symbol": "bluesparrow",
   "name": "BlueSparrow [OLD]",
-  "address": "0x4D67EDef87a5fF910954899f4e5a0AaF107afd42",
+  "address": "0x4d67edef87a5ff910954899f4e5a0aaf107afd42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tusd",
   "name": "TrueUSD",
-  "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+  "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,8 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x0000000000085d4780b73119b644ae5ecd22b376",
-    "tron": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
-    "binancecoin": "TUSDB-888",
     "binance-smart-chain": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
     "avalanche": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
   }

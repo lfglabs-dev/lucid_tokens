@@ -1,7 +1,7 @@
 {
   "symbol": "prom",
   "name": "Prom",
-  "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+  "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

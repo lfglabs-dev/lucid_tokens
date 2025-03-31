@@ -1,7 +1,7 @@
 {
   "symbol": "gs",
   "name": "GammaSwap",
-  "address": "0x64d3CAe387405d91f7b0D91fb1D824A281719500",
+  "address": "0x64d3cae387405d91f7b0d91fb1d824a281719500",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

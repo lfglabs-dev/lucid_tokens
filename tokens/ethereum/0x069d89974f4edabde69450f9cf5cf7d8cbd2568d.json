@@ -1,7 +1,7 @@
 {
   "symbol": "bvm",
   "name": "BVM",
-  "address": "0x069d89974f4edaBde69450f9cF5CF7D8Cbd2568D",
+  "address": "0x069d89974f4edabde69450f9cf5cf7d8cbd2568d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

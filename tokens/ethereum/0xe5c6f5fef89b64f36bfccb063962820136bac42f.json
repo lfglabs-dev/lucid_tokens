@@ -1,7 +1,7 @@
 {
   "symbol": "hoppy",
   "name": "Hoppy The Frog",
-  "address": "0xE5c6F5fEF89B64f36BfcCb063962820136bAc42F",
+  "address": "0xe5c6f5fef89b64f36bfccb063962820136bac42f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

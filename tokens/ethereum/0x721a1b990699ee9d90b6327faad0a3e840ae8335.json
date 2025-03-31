@@ -1,7 +1,7 @@
 {
   "symbol": "loot",
   "name": "Lootex",
-  "address": "0x721A1B990699eE9D90b6327FaaD0A3E840aE8335",
+  "address": "0x721a1b990699ee9d90b6327faad0a3e840ae8335",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

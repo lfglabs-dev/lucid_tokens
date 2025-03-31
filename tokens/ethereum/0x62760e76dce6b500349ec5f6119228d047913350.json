@@ -1,7 +1,7 @@
 {
   "symbol": "twif",
   "name": "Tomwifhat",
-  "address": "0x62760e76DCe6b500349EC5F6119228d047913350",
+  "address": "0x62760e76dce6b500349ec5f6119228d047913350",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

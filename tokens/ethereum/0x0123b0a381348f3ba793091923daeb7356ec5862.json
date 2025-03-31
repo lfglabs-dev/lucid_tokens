@@ -1,7 +1,7 @@
 {
   "symbol": "vxx.d",
   "name": "Dinari VXX",
-  "address": "0x0123b0a381348F3ba793091923DaeB7356ec5862",
+  "address": "0x0123b0a381348f3ba793091923daeb7356ec5862",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

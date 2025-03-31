@@ -1,7 +1,7 @@
 {
   "symbol": "digg",
   "name": "DIGG",
-  "address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+  "address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

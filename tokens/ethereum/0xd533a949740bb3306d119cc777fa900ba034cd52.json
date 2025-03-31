@@ -1,7 +1,7 @@
 {
   "symbol": "crv",
   "name": "Curve DAO",
-  "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -13,7 +13,6 @@
     "ethereum": "0xd533a949740bb3306d119cc777fa900ba034cd52",
     "optimistic-ethereum": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
     "energi": "0xd3319eaf3c4743ac75aace77befcfa445ed6e69e",
-    "sora": "0x002ead91a2de57b8855b53d4a62c25277073fd7f65f7e5e79f4936ed747fcad0",
     "fantom": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
     "arbitrum-one": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
     "polygon-pos": "0x172370d5cd63279efa6d502dab29171933a610af"

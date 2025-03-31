@@ -1,7 +1,7 @@
 {
   "symbol": "sent",
   "name": "Sentiment",
-  "address": "0x97AbEe33Cd075c58BFdd174e0885e08E8f03556F",
+  "address": "0x97abee33cd075c58bfdd174e0885e08e8f03556f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

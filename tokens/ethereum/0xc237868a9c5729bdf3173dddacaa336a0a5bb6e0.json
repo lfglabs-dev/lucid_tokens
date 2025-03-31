@@ -1,7 +1,7 @@
 {
   "symbol": "wgr",
   "name": "Wagerr",
-  "address": "0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
+  "address": "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

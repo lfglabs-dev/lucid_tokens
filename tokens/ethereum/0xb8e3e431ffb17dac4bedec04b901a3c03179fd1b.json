@@ -1,7 +1,7 @@
 {
   "symbol": "dope",
   "name": "DogePepe",
-  "address": "0xB8e3e431ffB17DAc4BedEC04b901A3c03179fD1B",
+  "address": "0xb8e3e431ffb17dac4bedec04b901a3c03179fd1b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "crab",
   "name": "CRABBY",
-  "address": "0x6096b8765Eb48cd2193F840a977f3727e7800356",
+  "address": "0x6096b8765eb48cd2193f840a977f3727e7800356",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

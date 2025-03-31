@@ -1,7 +1,7 @@
 {
   "symbol": "knd",
   "name": "Kindred",
-  "address": "0x044A3bad20573Bbe5895B873ecbfd4E283bC9102",
+  "address": "0x044a3bad20573bbe5895b873ecbfd4e283bc9102",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "doge",
   "name": "Department Of Government Efficiency",
-  "address": "0xA4fb6e1781fBCc921DF51352aF4CC83FF6c1308f",
+  "address": "0xa4fb6e1781fbcc921df51352af4cc83ff6c1308f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

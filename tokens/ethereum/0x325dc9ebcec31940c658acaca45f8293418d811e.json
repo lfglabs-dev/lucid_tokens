@@ -1,7 +1,7 @@
 {
   "symbol": "solvbtc.ena",
   "name": "Solv Protocol SolvBTC.ENA",
-  "address": "0x325DC9EBceC31940C658aCACa45f8293418d811E",
+  "address": "0x325dc9ebcec31940c658acaca45f8293418d811e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

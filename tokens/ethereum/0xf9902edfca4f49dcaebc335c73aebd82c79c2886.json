@@ -1,7 +1,7 @@
 {
   "symbol": "ado",
   "name": "ADO Protocol",
-  "address": "0xf9902EdfCa4F49DcaEBC335C73aEbD82C79C2886",
+  "address": "0xf9902edfca4f49dcaebc335c73aebd82c79c2886",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

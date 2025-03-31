@@ -1,7 +1,7 @@
 {
   "symbol": "fly",
   "name": "Butterfly Ai",
-  "address": "0x27c78A7C10a0673C3509CCF63044AAb92E09edac",
+  "address": "0x27c78a7c10a0673c3509ccf63044aab92e09edac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

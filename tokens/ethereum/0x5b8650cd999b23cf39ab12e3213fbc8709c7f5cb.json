@@ -1,7 +1,7 @@
 {
   "symbol": "mazi",
   "name": "MaziMatic",
-  "address": "0x5B8650Cd999B23cF39Ab12e3213fbC8709c7f5CB",
+  "address": "0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

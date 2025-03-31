@@ -1,7 +1,7 @@
 {
   "symbol": "mcwbtc",
   "name": "MEV Capital WBTC",
-  "address": "0x1c530D6de70c05A81bF1670157b9d928e9699089",
+  "address": "0x1c530d6de70c05a81bf1670157b9d928e9699089",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

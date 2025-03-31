@@ -1,7 +1,7 @@
 {
   "symbol": "yusd",
   "name": "YieldFi yToken",
-  "address": "0x1CE7D9942ff78c328A4181b9F3826fEE6D845A97",
+  "address": "0x1ce7d9942ff78c328a4181b9f3826fee6d845a97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "netvr",
   "name": "Netvrk",
-  "address": "0x52498F8d9791736f1D6398fE95ba3BD868114d10",
+  "address": "0x52498f8d9791736f1d6398fe95ba3bd868114d10",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

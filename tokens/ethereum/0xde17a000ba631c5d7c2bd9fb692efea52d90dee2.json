@@ -1,7 +1,7 @@
 {
   "symbol": "usdn",
   "name": "SMARDEX USDN",
-  "address": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
+  "address": "0xde17a000ba631c5d7c2bd9fb692efea52d90dee2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

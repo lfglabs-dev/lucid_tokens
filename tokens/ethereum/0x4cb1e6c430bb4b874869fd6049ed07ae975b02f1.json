@@ -1,7 +1,7 @@
 {
   "symbol": "swipes",
   "name": "Bndr",
-  "address": "0x4cB1e6c430Bb4b874869Fd6049ed07aE975b02f1",
+  "address": "0x4cb1e6c430bb4b874869fd6049ed07ae975b02f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

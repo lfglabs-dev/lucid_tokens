@@ -1,7 +1,7 @@
 {
   "symbol": "wicked",
   "name": "Wicked",
-  "address": "0xed2D1Ef84a6a07dD49E8cA934908E9De005b7824",
+  "address": "0xed2d1ef84a6a07dd49e8ca934908e9de005b7824",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

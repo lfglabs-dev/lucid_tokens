@@ -1,7 +1,7 @@
 {
   "symbol": "euros",
   "name": "The Standard EURO",
-  "address": "0xb399511642FE1666c6a07f83483e6E4feAed9A00",
+  "address": "0xb399511642fe1666c6a07f83483e6e4feaed9a00",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

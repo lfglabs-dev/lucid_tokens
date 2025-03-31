@@ -1,7 +1,7 @@
 {
   "symbol": "gary",
   "name": "Elons Pet Snail",
-  "address": "0xF0430BD971Ee4a63674A2103E21129e9ccf29686",
+  "address": "0xf0430bd971ee4a63674a2103e21129e9ccf29686",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

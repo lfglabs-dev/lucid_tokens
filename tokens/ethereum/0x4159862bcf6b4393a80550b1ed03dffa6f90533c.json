@@ -1,7 +1,7 @@
 {
   "symbol": "ohmi",
   "name": "One Hundred Million Inu",
-  "address": "0x4159862bcF6B4393A80550b1ed03DFfa6f90533C",
+  "address": "0x4159862bcf6b4393a80550b1ed03dffa6f90533c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

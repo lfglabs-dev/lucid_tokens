@@ -1,7 +1,7 @@
 {
   "symbol": "vlx",
   "name": "Velas",
-  "address": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
+  "address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

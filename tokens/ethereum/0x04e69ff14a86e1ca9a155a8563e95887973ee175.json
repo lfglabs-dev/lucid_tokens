@@ -1,7 +1,7 @@
 {
   "symbol": "aitv",
   "name": "Agentcoin.TV",
-  "address": "0x04E69Ff14A86E1ca9a155A8563E95887973EE175",
+  "address": "0x04e69ff14a86e1ca9a155a8563e95887973ee175",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "gld.d",
   "name": "Dinari GLD",
-  "address": "0x43C72eA1736072f42f785E704E5244cC5B9A6779",
+  "address": "0x43c72ea1736072f42f785e704e5244cc5b9a6779",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

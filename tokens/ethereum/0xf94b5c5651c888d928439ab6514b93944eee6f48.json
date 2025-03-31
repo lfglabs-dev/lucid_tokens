@@ -1,7 +1,7 @@
 {
   "symbol": "yld",
   "name": "Yield App",
-  "address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+  "address": "0xf94b5c5651c888d928439ab6514b93944eee6f48",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

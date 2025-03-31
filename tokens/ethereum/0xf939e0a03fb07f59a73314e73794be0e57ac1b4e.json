@@ -1,7 +1,7 @@
 {
   "symbol": "crvusd",
   "name": "crvUSD",
-  "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+  "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

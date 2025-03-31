@@ -1,7 +1,7 @@
 {
   "symbol": "upc",
   "name": "UPCX",
-  "address": "0x487d62468282Bd04ddf976631C23128A425555EE",
+  "address": "0x487d62468282bd04ddf976631c23128a425555ee",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

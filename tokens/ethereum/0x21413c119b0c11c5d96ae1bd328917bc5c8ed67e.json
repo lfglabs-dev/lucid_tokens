@@ -1,7 +1,7 @@
 {
   "symbol": "$gene",
   "name": "GenomesDAO GENE",
-  "address": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
+  "address": "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

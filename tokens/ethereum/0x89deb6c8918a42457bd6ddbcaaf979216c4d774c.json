@@ -1,7 +1,7 @@
 {
   "symbol": "hai",
   "name": "HapticAI",
-  "address": "0x89DeB6C8918a42457bD6ddBCAaf979216C4D774C",
+  "address": "0x89deb6c8918a42457bd6ddbcaaf979216c4d774c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

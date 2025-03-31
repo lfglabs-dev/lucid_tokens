@@ -1,7 +1,7 @@
 {
   "symbol": "ageth",
   "name": "Kelp Gain",
-  "address": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
+  "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

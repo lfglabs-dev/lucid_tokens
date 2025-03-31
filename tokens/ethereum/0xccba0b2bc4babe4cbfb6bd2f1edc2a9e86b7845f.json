@@ -1,7 +1,7 @@
 {
   "symbol": "winter",
   "name": "Winter",
-  "address": "0xCcbA0b2bc4BAbe4cbFb6bD2f1Edc2A9e86b7845f",
+  "address": "0xccba0b2bc4babe4cbfb6bd2f1edc2a9e86b7845f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

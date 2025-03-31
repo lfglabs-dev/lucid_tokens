@@ -1,7 +1,7 @@
 {
   "symbol": "toku",
   "name": "Toku",
-  "address": "0x9eEC1A4814323a7396c938bc86aeC46b97F1BD82",
+  "address": "0x9eec1a4814323a7396c938bc86aec46b97f1bd82",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

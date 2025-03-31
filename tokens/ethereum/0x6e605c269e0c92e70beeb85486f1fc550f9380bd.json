@@ -1,7 +1,7 @@
 {
   "symbol": "catt",
   "name": "Catex",
-  "address": "0x6E605c269E0C92e70BEeB85486f1fC550f9380BD",
+  "address": "0x6e605c269e0c92e70beeb85486f1fc550f9380bd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

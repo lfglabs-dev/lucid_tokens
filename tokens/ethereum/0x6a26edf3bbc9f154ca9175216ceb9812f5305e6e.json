@@ -1,7 +1,7 @@
 {
   "symbol": "$pixe",
   "name": "Pixel",
-  "address": "0x6a26Edf3bBC9F154ca9175216CEB9812f5305e6E",
+  "address": "0x6a26edf3bbc9f154ca9175216ceb9812f5305e6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

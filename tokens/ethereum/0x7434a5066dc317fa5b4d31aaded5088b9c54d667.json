@@ -1,7 +1,7 @@
 {
   "symbol": "cult",
   "name": "CULT",
-  "address": "0x7434a5066dc317fa5B4d31aAdEd5088B9c54d667",
+  "address": "0x7434a5066dc317fa5b4d31aaded5088b9c54d667",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

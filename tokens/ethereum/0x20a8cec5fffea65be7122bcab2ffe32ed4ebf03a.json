@@ -1,7 +1,7 @@
 {
   "symbol": "dnxc",
   "name": "DinoX",
-  "address": "0x20a8CEC5fffea65Be7122BCaB2FFe32ED4Ebf03a",
+  "address": "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

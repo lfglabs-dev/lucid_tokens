@@ -1,7 +1,7 @@
 {
   "symbol": "muzz",
   "name": "MUZZLE",
-  "address": "0xef3dAa5fDa8Ad7aabFF4658f1F78061fd626B8f0",
+  "address": "0xef3daa5fda8ad7aabff4658f1f78061fd626b8f0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

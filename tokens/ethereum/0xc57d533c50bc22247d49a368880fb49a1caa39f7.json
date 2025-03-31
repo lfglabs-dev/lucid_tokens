@@ -1,7 +1,7 @@
 {
   "symbol": "ptf",
   "name": "PowerTrade Fuel",
-  "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+  "address": "0xc57d533c50bc22247d49a368880fb49a1caa39f7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

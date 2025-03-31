@@ -1,7 +1,7 @@
 {
   "symbol": "rss3",
   "name": "RSS3",
-  "address": "0xc98D64DA73a6616c42117b582e832812e7B8D57F",
+  "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

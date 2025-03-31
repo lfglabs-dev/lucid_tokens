@@ -1,7 +1,7 @@
 {
   "symbol": "alea",
   "name": "Alea",
-  "address": "0x24BfF4fE25B5807BAD49b2C08D79bB271766e68a",
+  "address": "0x24bff4fe25b5807bad49b2c08d79bb271766e68a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ath",
   "name": "Aethir",
-  "address": "0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+  "address": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
-    "solana": "Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7",
     "arbitrum-one": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c"
   }
 }

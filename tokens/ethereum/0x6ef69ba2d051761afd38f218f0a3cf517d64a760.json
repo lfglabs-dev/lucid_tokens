@@ -1,7 +1,7 @@
 {
   "symbol": "cpai",
   "name": "Moontax",
-  "address": "0x6ef69Ba2d051761aFD38F218F0a3cF517D64A760",
+  "address": "0x6ef69ba2d051761afd38f218f0a3cf517d64a760",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

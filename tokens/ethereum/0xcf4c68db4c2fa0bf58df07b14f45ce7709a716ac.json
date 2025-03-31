@@ -1,7 +1,7 @@
 {
   "symbol": "shield",
   "name": "Dejitaru Shirudo",
-  "address": "0xcf4C68Db4C2FA0bf58dF07B14f45cE7709a716AC",
+  "address": "0xcf4c68db4c2fa0bf58df07b14f45ce7709a716ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

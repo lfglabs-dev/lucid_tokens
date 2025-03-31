@@ -1,7 +1,7 @@
 {
   "symbol": "jngl",
   "name": "Jungle Labz",
-  "address": "0x4C45bbEc2fF7810ef4a77ad7BD4757C446Fe4155",
+  "address": "0x4c45bbec2ff7810ef4a77ad7bd4757c446fe4155",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "l2",
   "name": "Leverj Gluon",
-  "address": "0xBbff34E47E559ef680067a6B1c980639EEb64D24",
+  "address": "0xbbff34e47e559ef680067a6b1c980639eeb64d24",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

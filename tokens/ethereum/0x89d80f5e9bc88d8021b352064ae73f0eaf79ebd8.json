@@ -1,7 +1,7 @@
 {
   "symbol": "re7usda",
   "name": "Re7 USDA",
-  "address": "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8",
+  "address": "0x89d80f5e9bc88d8021b352064ae73f0eaf79ebd8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

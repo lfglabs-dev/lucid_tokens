@@ -1,7 +1,7 @@
 {
   "symbol": "hut.d",
   "name": "Dinari HUT",
-  "address": "0x47Db0ac0d6AD7765007f983184B12Ae137F8CCaC",
+  "address": "0x47db0ac0d6ad7765007f983184b12ae137f8ccac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

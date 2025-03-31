@@ -1,7 +1,7 @@
 {
   "symbol": "thub",
   "name": "TensorHub",
-  "address": "0x7fed466b893c716235e1B8D685C913f7D2797463",
+  "address": "0x7fed466b893c716235e1b8d685c913f7d2797463",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "up",
   "name": "TonUP",
-  "address": "0x40A32606A4CE9b4F350421642Ebf65C052d5389b",
+  "address": "0x40a32606a4ce9b4f350421642ebf65c052d5389b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "the-open-network": "EQCvaf0JMrv6BOvPpAgee08uQM_uRpUd__fhA7Nm8twzvbE_",
     "ethereum": "0x40a32606a4ce9b4f350421642ebf65c052d5389b"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "sti",
   "name": "STI6900",
-  "address": "0x518c54fDC12bA593617160eca423F4c2cd3ecac3",
+  "address": "0x518c54fdc12ba593617160eca423f4c2cd3ecac3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

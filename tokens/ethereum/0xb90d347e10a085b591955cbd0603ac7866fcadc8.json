@@ -1,7 +1,7 @@
 {
   "symbol": "xcvx",
   "name": "Leveraged CVX",
-  "address": "0xB90D347e10a085B591955Cbd0603aC7866fCADC8",
+  "address": "0xb90d347e10a085b591955cbd0603ac7866fcadc8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

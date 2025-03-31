@@ -1,7 +1,7 @@
 {
   "symbol": "squirry",
   "name": "Squirry",
-  "address": "0xBFA7Cb34879167e982206fAbf6Ced5e2Ba5CD496",
+  "address": "0xbfa7cb34879167e982206fabf6ced5e2ba5cd496",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

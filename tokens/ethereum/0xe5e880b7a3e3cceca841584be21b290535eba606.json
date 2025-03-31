@@ -1,7 +1,7 @@
 {
   "symbol": "andi",
   "name": "Andi",
-  "address": "0xe5e880b7a3E3ccEcA841584BE21b290535eba606",
+  "address": "0xe5e880b7a3e3cceca841584be21b290535eba606",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

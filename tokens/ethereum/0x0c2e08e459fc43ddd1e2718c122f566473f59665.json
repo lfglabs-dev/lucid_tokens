@@ -1,7 +1,7 @@
 {
   "symbol": "burger",
   "name": "Crypto Burger",
-  "address": "0x0c2e08E459fC43dDD1E2718C122F566473f59665",
+  "address": "0x0c2e08e459fc43ddd1e2718c122f566473f59665",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

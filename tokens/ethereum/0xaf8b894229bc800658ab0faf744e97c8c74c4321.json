@@ -1,7 +1,7 @@
 {
   "symbol": "lemon",
   "name": "Black Lemon AI",
-  "address": "0xAf8b894229bC800658aB0FAF744E97C8C74C4321",
+  "address": "0xaf8b894229bc800658ab0faf744e97c8c74c4321",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

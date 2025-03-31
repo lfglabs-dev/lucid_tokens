@@ -1,7 +1,7 @@
 {
   "symbol": "eusd",
   "name": "ARYZE eUSD",
-  "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+  "address": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

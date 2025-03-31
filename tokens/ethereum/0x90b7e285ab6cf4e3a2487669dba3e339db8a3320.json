@@ -1,7 +1,7 @@
 {
   "symbol": "duckies",
   "name": "Yellow Duckies",
-  "address": "0x90b7E285ab6cf4e3A2487669dba3E339dB8a3320",
+  "address": "0x90b7e285ab6cf4e3a2487669dba3e339db8a3320",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

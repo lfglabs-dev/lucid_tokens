@@ -1,7 +1,7 @@
 {
   "symbol": "shog",
   "name": "SHOG",
-  "address": "0xc8388e437031B09B2c61FC4277469091382A1B13",
+  "address": "0xc8388e437031b09b2c61fc4277469091382a1b13",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

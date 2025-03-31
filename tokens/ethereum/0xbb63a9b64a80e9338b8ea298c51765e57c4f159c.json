@@ -1,7 +1,7 @@
 {
   "symbol": "pica",
   "name": "Picasso",
-  "address": "0xBB63a9b64a80E9338b8Ea298c51765E57C4F159c",
+  "address": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,10 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "picasso": "ppica",
-    "cosmos": "ibc/F4A4D751F3C3E0545E44EBE27B2FE53AEC1603595ABE06CDF2FF86903D590A63",
-    "osmosis": "ibc/56D7C03B8F6A07AD322EEE1BEF3AE996E09D1C1E34C27CF37E0D4A0AC5972516",
-    "ethereum": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
-    "solana": "966vsqwoS3ZBrHesTyAvE7esFV2kaHaDFLLXs4asPdLJ"
+    "ethereum": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c"
   }
 }

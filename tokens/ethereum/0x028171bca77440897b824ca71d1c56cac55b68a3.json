@@ -1,7 +1,7 @@
 {
   "symbol": "adai",
   "name": "Aave DAI",
-  "address": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+  "address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

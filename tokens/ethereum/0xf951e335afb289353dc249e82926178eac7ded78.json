@@ -1,7 +1,7 @@
 {
   "symbol": "sweth",
   "name": "Swell Ethereum",
-  "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+  "address": "0xf951e335afb289353dc249e82926178eac7ded78",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

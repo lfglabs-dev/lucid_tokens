@@ -1,7 +1,7 @@
 {
   "symbol": "beatai",
   "name": "eBeat AI",
-  "address": "0x1a4E7FeBd24B6689704B10685857D8B30885F05e",
+  "address": "0x1a4e7febd24b6689704b10685857d8b30885f05e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

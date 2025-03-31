@@ -1,7 +1,7 @@
 {
   "symbol": "21bnb",
   "name": "21.co Wrapped BNB",
-  "address": "0x1bE9d03BfC211D83CFf3ABDb94A75F9Db46e1334",
+  "address": "0x1be9d03bfc211d83cff3abdb94a75f9db46e1334",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

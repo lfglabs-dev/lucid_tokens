@@ -1,7 +1,7 @@
 {
   "symbol": "dew",
   "name": "doge in a memes world",
-  "address": "0xa13eDD1A27Ab4Fb8982C033Acb082cdb5f98B79b",
+  "address": "0xa13edd1a27ab4fb8982c033acb082cdb5f98b79b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

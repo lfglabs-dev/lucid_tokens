@@ -1,7 +1,7 @@
 {
   "symbol": "orc",
   "name": "Orbit Chain",
-  "address": "0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51",
+  "address": "0x662b67d00a13faf93254714dd601f5ed49ef2f51",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

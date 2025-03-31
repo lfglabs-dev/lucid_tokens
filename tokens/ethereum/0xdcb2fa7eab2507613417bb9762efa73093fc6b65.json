@@ -1,7 +1,7 @@
 {
   "symbol": "unv",
   "name": "Unvest",
-  "address": "0xdcb2Fa7eAB2507613417Bb9762eFa73093fc6b65",
+  "address": "0xdcb2fa7eab2507613417bb9762efa73093fc6b65",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

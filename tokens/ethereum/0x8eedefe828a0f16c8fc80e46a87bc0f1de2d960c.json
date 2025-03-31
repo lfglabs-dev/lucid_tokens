@@ -1,7 +1,7 @@
 {
   "symbol": "dgmv",
   "name": "DigiMetaverse",
-  "address": "0x8EEdEFe828A0f16C8fc80e46a87Bc0f1De2d960c",
+  "address": "0x8eedefe828a0f16c8fc80e46a87bc0f1de2d960c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

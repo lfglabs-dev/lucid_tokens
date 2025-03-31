@@ -1,7 +1,7 @@
 {
   "symbol": "usd0++",
   "name": "Staked USD0",
-  "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+  "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

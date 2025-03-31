@@ -1,7 +1,7 @@
 {
   "symbol": "tech",
   "name": "Cryptomeda",
-  "address": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
+  "address": "0x6286a9e6f7e745a6d884561d88f94542d6715698",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "liza",
   "name": "LIZA",
-  "address": "0x8B227d72570D3EAd66014bCA8305CbeF7f90D1eE",
+  "address": "0x8b227d72570d3ead66014bca8305cbef7f90d1ee",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

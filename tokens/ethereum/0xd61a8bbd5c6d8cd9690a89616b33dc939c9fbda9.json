@@ -1,7 +1,7 @@
 {
   "symbol": "solo",
   "name": "Solo",
-  "address": "0xD61A8BbD5C6d8Cd9690a89616b33dC939C9FbDA9",
+  "address": "0xd61a8bbd5c6d8cd9690a89616b33dc939c9fbda9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

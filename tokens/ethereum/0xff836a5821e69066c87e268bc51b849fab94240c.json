@@ -1,7 +1,7 @@
 {
   "symbol": "smurfcat",
   "name": "Real Smurf Cat",
-  "address": "0xfF836A5821E69066c87E268bC51b849FaB94240C",
+  "address": "0xff836a5821e69066c87e268bc51b849fab94240c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xff836a5821e69066c87e268bc51b849fab94240c",
-    "arbitrum-one": "0x06e90a57d1ece8752d6ce92d1ad348ead5eae4f4",
-    "solana": "5UofhCbmro2tGB7Ji49SfqFag8j7ymrRyCmBTCZXGQQa"
+    "arbitrum-one": "0x06e90a57d1ece8752d6ce92d1ad348ead5eae4f4"
   }
 }

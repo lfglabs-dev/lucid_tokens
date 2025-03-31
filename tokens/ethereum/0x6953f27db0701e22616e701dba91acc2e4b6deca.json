@@ -1,7 +1,7 @@
 {
   "symbol": "star",
   "name": "Starbot",
-  "address": "0x6953f27dB0701E22616e701DbA91acC2E4B6DecA",
+  "address": "0x6953f27db0701e22616e701dba91acc2e4b6deca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "b-baoeth-eth-bpt",
   "name": "baoETH-ETH StablePool",
-  "address": "0x1A44E35d5451E0b78621A1B3e7a53DFaA306B1D0",
+  "address": "0x1a44e35d5451e0b78621a1b3e7a53dfaa306b1d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

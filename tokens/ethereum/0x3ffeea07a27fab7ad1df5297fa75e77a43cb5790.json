@@ -1,7 +1,7 @@
 {
   "symbol": "peipei",
   "name": "PeiPei",
-  "address": "0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790",
+  "address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

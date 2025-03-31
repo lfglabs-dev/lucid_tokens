@@ -1,7 +1,7 @@
 {
   "symbol": "mic",
   "name": "Magic Internet Cash",
-  "address": "0x285DB79fa7e0e89E822786F48A7c98C6c1dC1c7d",
+  "address": "0x285db79fa7e0e89e822786f48a7c98c6c1dc1c7d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

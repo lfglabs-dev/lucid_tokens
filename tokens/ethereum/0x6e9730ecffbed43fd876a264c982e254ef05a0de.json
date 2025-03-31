@@ -1,7 +1,7 @@
 {
   "symbol": "nord",
   "name": "Nord Finance",
-  "address": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE",
+  "address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

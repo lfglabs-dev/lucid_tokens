@@ -1,7 +1,7 @@
 {
   "symbol": "waxe",
   "name": "WAXE",
-  "address": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
+  "address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

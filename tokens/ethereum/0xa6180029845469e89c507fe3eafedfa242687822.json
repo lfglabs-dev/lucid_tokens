@@ -1,7 +1,7 @@
 {
   "symbol": "neiro",
   "name": "Neiro",
-  "address": "0xa6180029845469E89C507fE3EAfeDFa242687822",
+  "address": "0xa6180029845469e89c507fe3eafedfa242687822",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

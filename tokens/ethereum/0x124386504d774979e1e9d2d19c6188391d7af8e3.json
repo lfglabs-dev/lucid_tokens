@@ -1,7 +1,7 @@
 {
   "symbol": "hanabi",
   "name": "Hanabi-chan",
-  "address": "0x124386504D774979E1E9D2D19c6188391D7af8e3",
+  "address": "0x124386504d774979e1e9d2d19c6188391d7af8e3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cult",
   "name": "Cult DAO",
-  "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+  "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

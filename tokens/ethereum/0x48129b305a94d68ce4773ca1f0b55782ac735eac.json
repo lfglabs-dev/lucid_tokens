@@ -1,7 +1,7 @@
 {
   "symbol": "sudo",
   "name": "Sudo Labs",
-  "address": "0x48129b305A94D68cE4773CA1F0b55782ac735eAc",
+  "address": "0x48129b305a94d68ce4773ca1f0b55782ac735eac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

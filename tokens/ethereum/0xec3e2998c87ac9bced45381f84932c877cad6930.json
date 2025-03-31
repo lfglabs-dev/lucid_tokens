@@ -1,7 +1,7 @@
 {
   "symbol": "mcd.d",
   "name": "Dinari MCD",
-  "address": "0xEc3E2998C87ac9bcED45381F84932c877cAD6930",
+  "address": "0xec3e2998c87ac9bced45381f84932c877cad6930",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

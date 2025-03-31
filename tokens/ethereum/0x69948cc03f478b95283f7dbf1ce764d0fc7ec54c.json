@@ -1,7 +1,7 @@
 {
   "symbol": "aren",
   "name": "Aave REN v1",
-  "address": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
+  "address": "0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

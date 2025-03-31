@@ -1,7 +1,7 @@
 {
   "symbol": "tarot",
   "name": "Tarot",
-  "address": "0xa10bf0aBa0C7953F279c4Cb8192d3B5dE5eA56E8",
+  "address": "0xa10bf0aba0c7953f279c4cb8192d3b5de5ea56e8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

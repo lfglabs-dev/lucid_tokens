@@ -1,7 +1,7 @@
 {
   "symbol": "mcbeth",
   "name": "Eigenpie cbETH",
-  "address": "0xD09124e8a1e3D620E8807aD1d968021A5495CEe8",
+  "address": "0xd09124e8a1e3d620e8807ad1d968021a5495cee8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

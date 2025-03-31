@@ -1,7 +1,7 @@
 {
   "symbol": "hoba",
   "name": "Honey Badger",
-  "address": "0x25cBB21A9dA7C3C63bb77CCCa5B2E2482AEdB710",
+  "address": "0x25cbb21a9da7c3c63bb77ccca5b2e2482aedb710",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

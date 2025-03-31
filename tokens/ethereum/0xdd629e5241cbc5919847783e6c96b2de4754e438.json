@@ -1,7 +1,7 @@
 {
   "symbol": "mtbill",
   "name": "Midas mTBILL",
-  "address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+  "address": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

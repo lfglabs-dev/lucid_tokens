@@ -1,7 +1,7 @@
 {
   "symbol": "dextf",
   "name": "Memento",
-  "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
+  "address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

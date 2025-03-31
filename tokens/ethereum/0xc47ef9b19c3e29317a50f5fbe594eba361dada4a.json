@@ -1,7 +1,7 @@
 {
   "symbol": "edlc",
   "name": "Edelcoin",
-  "address": "0xC47ef9B19c3e29317a50F5fBE594EbA361dadA4A",
+  "address": "0xc47ef9b19c3e29317a50f5fbe594eba361dada4a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

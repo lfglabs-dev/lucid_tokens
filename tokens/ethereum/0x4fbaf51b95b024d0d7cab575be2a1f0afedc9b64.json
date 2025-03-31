@@ -1,7 +1,7 @@
 {
   "symbol": "bonk",
   "name": "BONK on ETH",
-  "address": "0x4FbAF51B95b024D0d7cab575Be2a1F0afEDC9B64",
+  "address": "0x4fbaf51b95b024d0d7cab575be2a1f0afedc9b64",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

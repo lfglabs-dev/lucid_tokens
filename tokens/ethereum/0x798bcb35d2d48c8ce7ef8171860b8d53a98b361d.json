@@ -1,7 +1,7 @@
 {
   "symbol": "mpdao",
   "name": "Meta Pool DAO",
-  "address": "0x798bcB35D2d48C8cE7eF8171860B8d53A98b361d",
+  "address": "0x798bcb35d2d48c8ce7ef8171860b8d53a98b361d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "near-protocol": "mpdao-token.near",
     "ethereum": "0x798bcb35d2d48c8ce7ef8171860b8d53a98b361d"
   }
 }

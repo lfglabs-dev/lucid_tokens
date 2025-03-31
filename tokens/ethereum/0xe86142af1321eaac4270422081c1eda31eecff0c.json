@@ -1,7 +1,7 @@
 {
   "symbol": "yaystone",
   "name": "Yay StakeStone Ether",
-  "address": "0xe86142af1321eaac4270422081c1EdA31eEcFf0c",
+  "address": "0xe86142af1321eaac4270422081c1eda31eecff0c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

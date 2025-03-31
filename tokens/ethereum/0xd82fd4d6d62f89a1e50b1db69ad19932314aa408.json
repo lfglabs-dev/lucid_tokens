@@ -1,7 +1,7 @@
 {
   "symbol": "liq",
   "name": "Liquis",
-  "address": "0xD82fd4D6D62f89A1E50b1db69AD19932314aa408",
+  "address": "0xd82fd4d6d62f89a1e50b1db69ad19932314aa408",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

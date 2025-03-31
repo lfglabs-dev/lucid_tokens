@@ -1,7 +1,7 @@
 {
   "symbol": "hachiko",
   "name": "Hachiko",
-  "address": "0x381491960c37b65862819cEd0e35385f04B2C78B",
+  "address": "0x381491960c37b65862819ced0e35385f04b2c78b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "renq",
   "name": "Renq Finance",
-  "address": "0xff8C479134A18918059493243943150776cF8CF2",
+  "address": "0xff8c479134a18918059493243943150776cf8cf2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

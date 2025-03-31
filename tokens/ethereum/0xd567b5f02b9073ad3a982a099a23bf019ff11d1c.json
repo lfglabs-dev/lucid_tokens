@@ -1,7 +1,7 @@
 {
   "symbol": "game",
   "name": "Gamestarter",
-  "address": "0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c",
+  "address": "0xd567b5f02b9073ad3a982a099a23bf019ff11d1c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

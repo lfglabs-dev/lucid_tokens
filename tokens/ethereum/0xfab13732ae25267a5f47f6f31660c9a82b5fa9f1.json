@@ -1,7 +1,7 @@
 {
   "symbol": "skibidi",
   "name": "Skibidi Dop Dop",
-  "address": "0xFab13732ae25267A5f47F6F31660C9A82B5fA9f1",
+  "address": "0xfab13732ae25267a5f47f6f31660c9a82b5fa9f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "12MFXb5CGJ65S3mP3s4eMLaosGp6xGnQe3PxQD38nfJp",
     "ethereum": "0xfab13732ae25267a5f47f6f31660c9a82b5fa9f1",
     "binance-smart-chain": "0x46deb1af1e93a3e5e9a277dcc4818d9e0ade242d",
     "base": "0xf09930625447d6a5f8e1217edb5649c7314e4e96"

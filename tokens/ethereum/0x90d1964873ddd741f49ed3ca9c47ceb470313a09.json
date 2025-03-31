@@ -1,7 +1,7 @@
 {
   "symbol": "henlo",
   "name": "Henlo [OLD]",
-  "address": "0x90D1964873dDD741f49eD3Ca9c47CEb470313A09",
+  "address": "0x90d1964873ddd741f49ed3ca9c47ceb470313a09",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

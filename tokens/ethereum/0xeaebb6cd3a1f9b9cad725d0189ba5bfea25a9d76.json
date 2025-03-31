@@ -1,7 +1,7 @@
 {
   "symbol": "bsim",
   "name": "BloxSIM",
-  "address": "0xeAeBb6cd3a1f9b9cAD725D0189BA5BfEA25A9d76",
+  "address": "0xeaebb6cd3a1f9b9cad725d0189ba5bfea25a9d76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

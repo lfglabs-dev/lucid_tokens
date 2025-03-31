@@ -1,7 +1,7 @@
 {
   "symbol": "brx",
   "name": "Bricks",
-  "address": "0x5ce6f2C0E2A1b4540894f286254bF13B1110D240",
+  "address": "0x5ce6f2c0e2a1b4540894f286254bf13b1110d240",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

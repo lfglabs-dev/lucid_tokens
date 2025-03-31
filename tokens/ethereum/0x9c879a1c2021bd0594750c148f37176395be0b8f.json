@@ -1,7 +1,7 @@
 {
   "symbol": "spsk.d",
   "name": "Dinari SPSK",
-  "address": "0x9c879A1c2021bd0594750C148F37176395Be0b8F",
+  "address": "0x9c879a1c2021bd0594750c148f37176395be0b8f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

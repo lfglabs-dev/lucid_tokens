@@ -1,7 +1,7 @@
 {
   "symbol": "radio",
   "name": "RadioShack",
-  "address": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
+  "address": "0x7a5d3a9dcd33cb8d527f7b5f96eb4fef43d55636",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

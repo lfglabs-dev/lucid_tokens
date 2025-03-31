@@ -1,7 +1,7 @@
 {
   "symbol": "xreth",
   "name": "Constellation Staked ETH",
-  "address": "0xBB22d59B73D7a6F3A8a83A214BECc67Eb3b511fE",
+  "address": "0xbb22d59b73d7a6f3a8a83a214becc67eb3b511fe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

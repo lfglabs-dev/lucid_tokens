@@ -1,7 +1,7 @@
 {
   "symbol": "alusd",
   "name": "Aave v3 LUSD",
-  "address": "0x3Fe6a295459FAe07DF8A0ceCC36F37160FE86AA9",
+  "address": "0x3fe6a295459fae07df8a0cecc36f37160fe86aa9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

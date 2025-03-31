@@ -1,7 +1,7 @@
 {
   "symbol": "glg",
   "name": "Gilgeous",
-  "address": "0xC57F1d079c862b70AA12FAAb19293F827187aAf6",
+  "address": "0xc57f1d079c862b70aa12faab19293f827187aaf6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

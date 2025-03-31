@@ -1,7 +1,7 @@
 {
   "symbol": "kabosu",
   "name": "Kabosu",
-  "address": "0xb3E41D6e0ea14b43BC5DE3C314A408af171b03dD",
+  "address": "0xb3e41d6e0ea14b43bc5de3c314a408af171b03dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

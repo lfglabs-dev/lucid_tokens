@@ -1,7 +1,7 @@
 {
   "symbol": "mpendle",
   "name": "mPendle",
-  "address": "0x83e817E1574e2201a005EC0f7e700ED5606F555E",
+  "address": "0x83e817e1574e2201a005ec0f7e700ed5606f555e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

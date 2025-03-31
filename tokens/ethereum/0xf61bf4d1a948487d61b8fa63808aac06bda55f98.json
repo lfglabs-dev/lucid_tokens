@@ -1,7 +1,7 @@
 {
   "symbol": "tr3",
   "name": "Tr3zor",
-  "address": "0xF61BF4d1A948487d61b8fa63808AAC06bda55F98",
+  "address": "0xf61bf4d1a948487d61b8fa63808aac06bda55f98",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

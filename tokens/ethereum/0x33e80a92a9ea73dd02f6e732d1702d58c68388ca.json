@@ -1,7 +1,7 @@
 {
   "symbol": "xb",
   "name": "XBANKING",
-  "address": "0x33E80a92a9Ea73dD02f6e732D1702d58c68388cA",
+  "address": "0x33e80a92a9ea73dd02f6e732d1702d58c68388ca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x33e80a92a9ea73dd02f6e732d1702d58c68388ca",
-    "solana": "2uAuGwYH22SJJtaTqMJ2AGEL2rBdiRKkuak2QCCSaFCA"
+    "ethereum": "0x33e80a92a9ea73dd02f6e732d1702d58c68388ca"
   }
 }

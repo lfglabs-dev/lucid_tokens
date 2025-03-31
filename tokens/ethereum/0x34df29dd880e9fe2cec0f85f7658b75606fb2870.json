@@ -1,7 +1,7 @@
 {
   "symbol": "navyseal",
   "name": "Navy seal",
-  "address": "0x34DF29Dd880e9fe2cec0f85f7658B75606fB2870",
+  "address": "0x34df29dd880e9fe2cec0f85f7658b75606fb2870",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

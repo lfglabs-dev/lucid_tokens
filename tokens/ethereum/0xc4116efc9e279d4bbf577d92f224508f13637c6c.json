@@ -1,7 +1,7 @@
 {
   "symbol": "dhub",
   "name": "DevHub AI",
-  "address": "0xc4116EFc9E279D4Bbf577D92f224508f13637C6c",
+  "address": "0xc4116efc9e279d4bbf577d92f224508f13637c6c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

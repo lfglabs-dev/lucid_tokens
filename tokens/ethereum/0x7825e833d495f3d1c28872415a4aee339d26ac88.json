@@ -1,7 +1,7 @@
 {
   "symbol": "wtlos",
   "name": "Wrapped Telos",
-  "address": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
+  "address": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

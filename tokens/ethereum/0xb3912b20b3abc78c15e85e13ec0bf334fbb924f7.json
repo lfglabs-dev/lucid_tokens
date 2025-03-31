@@ -1,7 +1,7 @@
 {
   "symbol": "hana",
   "name": "Hana",
-  "address": "0xB3912b20b3aBc78C15e85E13EC0bF334fbB924f7",
+  "address": "0xb3912b20b3abc78c15e85e13ec0bf334fbb924f7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

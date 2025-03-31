@@ -1,7 +1,7 @@
 {
   "symbol": "ufo.d",
   "name": "Dinari UFO",
-  "address": "0x1194e99F23c8B99CB55a328160Aeb0bb010Bf0c3",
+  "address": "0x1194e99f23c8b99cb55a328160aeb0bb010bf0c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

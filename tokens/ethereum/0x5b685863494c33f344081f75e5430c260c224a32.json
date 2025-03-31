@@ -1,7 +1,7 @@
 {
   "symbol": "cmcx",
   "name": "CORE MultiChain",
-  "address": "0x5B685863494C33F344081F75e5430C260c224A32",
+  "address": "0x5b685863494c33f344081f75e5430c260c224a32",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x5b685863494c33f344081f75e5430c260c224a32",
-    "tron": "TKg1nGjtWYDcf1HNTSNQtwGwNAuTxd1X2A",
     "binance-smart-chain": "0xb2343143f814639c9b1f42961c698247171df34a"
   }
 }

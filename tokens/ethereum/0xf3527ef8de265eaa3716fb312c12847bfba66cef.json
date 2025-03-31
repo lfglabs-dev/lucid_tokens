@@ -1,7 +1,7 @@
 {
   "symbol": "usdx",
   "name": "Stables Labs USDX",
-  "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+  "address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

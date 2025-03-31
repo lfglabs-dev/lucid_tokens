@@ -1,7 +1,7 @@
 {
   "symbol": "dbi",
   "name": "Don't Buy Inu",
-  "address": "0x2dE509bf0014ddF697b220bE628213034d320EcE",
+  "address": "0x2de509bf0014ddf697b220be628213034d320ece",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

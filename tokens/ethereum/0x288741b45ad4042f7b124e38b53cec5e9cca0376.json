@@ -1,7 +1,7 @@
 {
   "symbol": "kolz",
   "name": "KOLZ",
-  "address": "0x288741b45AD4042f7b124E38b53cEc5E9ccA0376",
+  "address": "0x288741b45ad4042f7b124e38b53cec5e9cca0376",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

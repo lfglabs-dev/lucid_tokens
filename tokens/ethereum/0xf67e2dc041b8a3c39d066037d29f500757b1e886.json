@@ -1,7 +1,7 @@
 {
   "symbol": "susdn",
   "name": "seed USDN",
-  "address": "0xF67e2dC041b8A3c39d066037d29f500757b1e886",
+  "address": "0xf67e2dc041b8a3c39d066037d29f500757b1e886",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

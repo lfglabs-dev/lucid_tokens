@@ -1,7 +1,7 @@
 {
   "symbol": "foox",
   "name": "Foox (Ordinals)",
-  "address": "0x20fCefA41045080764C48C2b9429e44C644e5deA",
+  "address": "0x20fcefa41045080764c48c2b9429e44c644e5dea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x20fcefa41045080764c48c2b9429e44c644e5dea",
-    "ordinals": "71fcc7fb7cd0d73cab97e7d4af98c8cdc5b1ba82e210f8601dc5273605bb7053i0"
+    "ethereum": "0x20fcefa41045080764c48c2b9429e44c644e5dea"
   }
 }

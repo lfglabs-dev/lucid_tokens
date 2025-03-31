@@ -1,7 +1,7 @@
 {
   "symbol": "maga",
   "name": "MAGA Hat",
-  "address": "0xD29DA236dd4AAc627346e1bBa06A619E8c22d7C5",
+  "address": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

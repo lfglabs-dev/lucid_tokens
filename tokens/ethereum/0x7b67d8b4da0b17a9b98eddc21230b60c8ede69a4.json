@@ -1,7 +1,7 @@
 {
   "symbol": "zulu",
   "name": "Zulu Network",
-  "address": "0x7b67D8B4da0B17A9B98EddC21230b60c8EDe69A4",
+  "address": "0x7b67d8b4da0b17a9b98eddc21230b60c8ede69a4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

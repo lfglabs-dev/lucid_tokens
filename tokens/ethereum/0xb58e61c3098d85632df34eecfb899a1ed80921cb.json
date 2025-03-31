@@ -1,7 +1,7 @@
 {
   "symbol": "zchf",
   "name": "Frankencoin",
-  "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+  "address": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

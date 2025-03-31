@@ -1,7 +1,7 @@
 {
   "symbol": "virtu",
   "name": "Virtu Network",
-  "address": "0x520140D71129434635899ecA07f845bb23B27987",
+  "address": "0x520140d71129434635899eca07f845bb23b27987",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

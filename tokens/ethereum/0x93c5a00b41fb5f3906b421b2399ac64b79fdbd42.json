@@ -1,7 +1,7 @@
 {
   "symbol": "vdz",
   "name": "Voidz",
-  "address": "0x93c5a00b41FB5f3906b421b2399Ac64b79fdBD42",
+  "address": "0x93c5a00b41fb5f3906b421b2399ac64b79fdbd42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

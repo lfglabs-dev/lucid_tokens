@@ -1,7 +1,7 @@
 {
   "symbol": "xaum",
   "name": "Matrixdock Gold",
-  "address": "0x2103E845C5E135493Bb6c2A4f0B8651956eA8682",
+  "address": "0x2103e845c5e135493bb6c2a4f0b8651956ea8682",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

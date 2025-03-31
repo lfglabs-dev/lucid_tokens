@@ -1,7 +1,7 @@
 {
   "symbol": "witch",
   "name": "Witch Token",
-  "address": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236",
+  "address": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

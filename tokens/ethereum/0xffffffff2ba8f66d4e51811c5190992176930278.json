@@ -1,7 +1,7 @@
 {
   "symbol": "combo",
   "name": "Furucombo",
-  "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
+  "address": "0xffffffff2ba8f66d4e51811c5190992176930278",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mausdt",
   "name": "Morpho-Aave Tether USD",
-  "address": "0xAFe7131a57E44f832cb2dE78ade38CaD644aaC2f",
+  "address": "0xafe7131a57e44f832cb2de78ade38cad644aac2f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "eeth",
   "name": "ether.fi Staked ETH",
-  "address": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
+  "address": "0x35fa164735182de50811e8e2e824cfb9b6118ac2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

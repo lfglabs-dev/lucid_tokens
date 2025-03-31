@@ -1,7 +1,7 @@
 {
   "symbol": "pda",
   "name": "PlayDapp",
-  "address": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
+  "address": "0x0d3cbed3f69ee050668adf3d9ea57241cba33a2b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

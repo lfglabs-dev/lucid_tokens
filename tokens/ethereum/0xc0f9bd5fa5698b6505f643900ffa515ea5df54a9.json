@@ -1,7 +1,7 @@
 {
   "symbol": "donut",
   "name": "Donut",
-  "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+  "address": "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "yvboost",
   "name": "Yearn Compounding veCRV yVault",
-  "address": "0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a",
+  "address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "xidr",
   "name": "XIDR",
-  "address": "0xebF2096E01455108bAdCbAF86cE30b6e5A72aa52",
+  "address": "0xebf2096e01455108badcbaf86ce30b6e5a72aa52",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xebf2096e01455108badcbaf86ce30b6e5a72aa52",
-    "zilliqa": "zil1n02sfv2ytldc7jnyx3f7c9zehwdzlxy2ykrhf9",
     "polygon-pos": "0x2c826035c1c36986117a0e949bd6ad4bab54afe2"
   }
 }

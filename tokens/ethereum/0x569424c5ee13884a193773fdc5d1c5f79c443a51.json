@@ -1,7 +1,7 @@
 {
   "symbol": "pine",
   "name": "Pine",
-  "address": "0x569424c5EE13884A193773fDC5d1c5f79C443a51",
+  "address": "0x569424c5ee13884a193773fdc5d1c5f79c443a51",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

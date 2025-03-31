@@ -1,7 +1,7 @@
 {
   "symbol": "$pivot",
   "name": "Pivot AI",
-  "address": "0xa72b67F84460b689f1a3054549AB926C9Ad88a41",
+  "address": "0xa72b67f84460b689f1a3054549ab926c9ad88a41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

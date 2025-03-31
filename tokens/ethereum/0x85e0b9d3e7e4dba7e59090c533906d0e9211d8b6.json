@@ -1,7 +1,7 @@
 {
   "symbol": "ishi",
   "name": "Ishi",
-  "address": "0x85E0b9D3E7e4dBa7E59090C533906d0e9211D8b6",
+  "address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

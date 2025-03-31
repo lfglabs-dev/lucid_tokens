@@ -1,7 +1,7 @@
 {
   "symbol": "soul",
   "name": "Phantasma",
-  "address": "0x75858677e27C930FB622759FeafFeE2b754Af07F",
+  "address": "0x75858677e27c930fb622759feaffee2b754af07f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "rgp",
   "name": "Rigel Protocol",
-  "address": "0x4AF5ff1A60a6eF6C7c8f9C4E304cD9051fCa3Ec0",
+  "address": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

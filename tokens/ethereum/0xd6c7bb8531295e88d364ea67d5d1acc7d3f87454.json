@@ -1,7 +1,7 @@
 {
   "symbol": "ftr",
   "name": "Fautor",
-  "address": "0xD6C7bB8531295e88D364EA67D5D1acC7D3F87454",
+  "address": "0xd6c7bb8531295e88d364ea67d5d1acc7d3f87454",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

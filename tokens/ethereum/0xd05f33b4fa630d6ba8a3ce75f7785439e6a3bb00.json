@@ -1,7 +1,7 @@
 {
   "symbol": "flochi",
   "name": "Flochi Inu",
-  "address": "0xD05F33b4Fa630D6Ba8A3ce75F7785439e6A3bB00",
+  "address": "0xd05f33b4fa630d6ba8a3ce75f7785439e6a3bb00",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

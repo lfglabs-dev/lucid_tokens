@@ -1,7 +1,7 @@
 {
   "symbol": "f",
   "name": "SynFutures",
-  "address": "0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
+  "address": "0x6e15a54b5ecac17e58dadeddbe8506a7560252f9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

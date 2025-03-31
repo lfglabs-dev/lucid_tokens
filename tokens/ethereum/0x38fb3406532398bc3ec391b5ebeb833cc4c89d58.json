@@ -1,7 +1,7 @@
 {
   "symbol": "vbells",
   "name": "Vaulted Bellscoin",
-  "address": "0x38FB3406532398Bc3ec391b5eBEB833cc4c89d58",
+  "address": "0x38fb3406532398bc3ec391b5ebeb833cc4c89d58",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x38fb3406532398bc3ec391b5ebeb833cc4c89d58",
-    "solana": "BELLSsjNh6715KiorEhPw5NMt1AVuDdiwMYmkN4tBS5D"
+    "ethereum": "0x38fb3406532398bc3ec391b5ebeb833cc4c89d58"
   }
 }

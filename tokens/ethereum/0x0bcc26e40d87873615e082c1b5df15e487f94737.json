@@ -1,7 +1,7 @@
 {
   "symbol": "smetx",
   "name": "SpecialMetalX",
-  "address": "0x0bCC26e40d87873615e082c1b5df15E487f94737",
+  "address": "0x0bcc26e40d87873615e082c1b5df15e487f94737",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

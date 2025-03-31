@@ -1,7 +1,7 @@
 {
   "symbol": "param",
   "name": "Param",
-  "address": "0x69A1e699f562D7Af66Fc6cc473d99f4430C3AcD2",
+  "address": "0x69a1e699f562d7af66fc6cc473d99f4430c3acd2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "eth2x",
   "name": "Index Coop Ethereum 2x Index",
-  "address": "0x65c4C0517025Ec0843C9146aF266A2C5a2D148A2",
+  "address": "0x65c4c0517025ec0843c9146af266a2c5a2d148a2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

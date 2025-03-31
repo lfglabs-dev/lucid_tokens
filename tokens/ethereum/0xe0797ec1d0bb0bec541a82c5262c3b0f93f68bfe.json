@@ -1,7 +1,7 @@
 {
   "symbol": "joker",
   "name": "Joker",
-  "address": "0xE0797ec1d0bb0BEc541A82c5262C3B0f93F68bfe",
+  "address": "0xe0797ec1d0bb0bec541a82c5262c3b0f93f68bfe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

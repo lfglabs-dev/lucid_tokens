@@ -1,7 +1,7 @@
 {
   "symbol": "babyneiro",
   "name": "Baby Neiro",
-  "address": "0x303c89f3A4a58872d8b6a3e64c14FDD9eC669C99",
+  "address": "0x303c89f3a4a58872d8b6a3e64c14fdd9ec669c99",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

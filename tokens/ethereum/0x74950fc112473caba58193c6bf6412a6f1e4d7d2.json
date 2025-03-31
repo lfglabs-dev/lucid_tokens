@@ -1,7 +1,7 @@
 {
   "symbol": "wvtrs",
   "name": "Vitreus",
-  "address": "0x74950FC112473caba58193c6bF6412a6f1e4d7d2",
+  "address": "0x74950fc112473caba58193c6bf6412a6f1e4d7d2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

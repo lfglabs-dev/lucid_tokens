@@ -1,7 +1,7 @@
 {
   "symbol": "kto",
   "name": "Kounotori",
-  "address": "0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC",
+  "address": "0x616ef40d55c0d2c506f4d6873bda8090b79bf8fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

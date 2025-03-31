@@ -1,7 +1,7 @@
 {
   "symbol": "melon",
   "name": "MELON",
-  "address": "0x37DbA54Fdc402AFF647CE06c66972F5D662c326d",
+  "address": "0x37dba54fdc402aff647ce06c66972f5d662c326d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

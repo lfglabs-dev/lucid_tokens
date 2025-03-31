@@ -1,7 +1,7 @@
 {
   "symbol": "wusd",
   "name": "Worldwide USD",
-  "address": "0x7Cd017ca5ddb86861FA983a34b5F495C6F898c41",
+  "address": "0x7cd017ca5ddb86861fa983a34b5f495c6f898c41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

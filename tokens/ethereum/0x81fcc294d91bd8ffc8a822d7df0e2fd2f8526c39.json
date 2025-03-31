@@ -1,7 +1,7 @@
 {
   "symbol": "doge",
   "name": "Department Of Government Efficiency",
-  "address": "0x81FcC294d91bd8FFC8a822d7df0e2fD2f8526c39",
+  "address": "0x81fcc294d91bd8ffc8a822d7df0e2fd2f8526c39",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x81fcc294d91bd8ffc8a822d7df0e2fd2f8526c39",
-    "solana": "B54Fyr1XrWNA5RsRRkovoVFwQwzwBfqaJPLoFR4pMoAX"
+    "ethereum": "0x81fcc294d91bd8ffc8a822d7df0e2fd2f8526c39"
   }
 }

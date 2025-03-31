@@ -1,7 +1,7 @@
 {
   "symbol": "ons",
   "name": "One Share",
-  "address": "0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5",
+  "address": "0x5bb29c33c4a3c29f56f8aca40b4db91d8a5fe2c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

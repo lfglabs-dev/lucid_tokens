@@ -1,7 +1,7 @@
 {
   "symbol": "!",
   "name": "WOW",
-  "address": "0x4eFcE4C758ddFB3911A1a1282a29CE0BDB16Ef86",
+  "address": "0x4efce4c758ddfb3911a1a1282a29ce0bdb16ef86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

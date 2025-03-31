@@ -1,7 +1,7 @@
 {
   "symbol": "cfi",
   "name": "CyberFi",
-  "address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
+  "address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

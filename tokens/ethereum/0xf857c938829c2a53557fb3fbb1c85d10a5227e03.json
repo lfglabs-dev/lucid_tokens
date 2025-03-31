@@ -1,7 +1,7 @@
 {
   "symbol": "ecl",
   "name": "ECL",
-  "address": "0xF857C938829c2A53557fB3fbb1C85d10a5227E03",
+  "address": "0xf857c938829c2a53557fb3fbb1c85d10a5227e03",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "arca",
   "name": "Legend of Arcadia",
-  "address": "0x1c00c3E03C3a10a0C1d9B6d1A42e797d7CB4147a",
+  "address": "0x1c00c3e03c3a10a0c1d9b6d1a42e797d7cb4147a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

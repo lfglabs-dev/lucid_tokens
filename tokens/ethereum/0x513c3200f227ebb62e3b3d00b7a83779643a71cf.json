@@ -1,7 +1,7 @@
 {
   "symbol": "lift",
   "name": "Uplift",
-  "address": "0x513C3200F227ebB62e3B3d00B7a83779643a71CF",
+  "address": "0x513c3200f227ebb62e3b3d00b7a83779643a71cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x513c3200f227ebb62e3b3d00b7a83779643a71cf",
-    "tron": "TGo8MJaSxvVVicZ1ixC7n3ibJMt9NJvxuU",
     "binance-smart-chain": "0x513c3200f227ebb62e3b3d00b7a83779643a71cf"
   }
 }

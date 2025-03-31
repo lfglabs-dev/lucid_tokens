@@ -1,7 +1,7 @@
 {
   "symbol": "dcnt",
   "name": "Decanect",
-  "address": "0x4Ce4C025692B3142dbdE1cd432ef55b9A8D18701",
+  "address": "0x4ce4c025692b3142dbde1cd432ef55b9a8d18701",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

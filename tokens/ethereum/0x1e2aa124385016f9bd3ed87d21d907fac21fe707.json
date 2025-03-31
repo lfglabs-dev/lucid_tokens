@@ -1,7 +1,7 @@
 {
   "symbol": "hivp",
   "name": "HiveSwap",
-  "address": "0x1e2aA124385016F9BD3ed87d21D907Fac21FE707",
+  "address": "0x1e2aa124385016f9bd3ed87d21d907fac21fe707",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

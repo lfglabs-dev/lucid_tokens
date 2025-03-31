@@ -1,7 +1,7 @@
 {
   "symbol": "andy",
   "name": "ANDY ETH",
-  "address": "0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E",
+  "address": "0x68bbed6a47194eff1cf514b50ea91895597fc91e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

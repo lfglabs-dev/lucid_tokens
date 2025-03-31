@@ -1,7 +1,7 @@
 {
   "symbol": "gaj",
   "name": "Gaj Finance",
-  "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+  "address": "0x9fda7ceec4c18008096c2fe2b85f05dc300f94d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

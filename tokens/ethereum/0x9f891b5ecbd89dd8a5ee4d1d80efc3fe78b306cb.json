@@ -1,7 +1,7 @@
 {
   "symbol": "sonik",
   "name": "SONIK",
-  "address": "0x9F891b5ECbd89DD8A5Ee4d1D80EfC3fE78b306CB",
+  "address": "0x9f891b5ecbd89dd8a5ee4d1d80efc3fe78b306cb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

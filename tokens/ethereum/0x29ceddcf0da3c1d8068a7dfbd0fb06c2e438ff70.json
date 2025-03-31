@@ -1,7 +1,7 @@
 {
   "symbol": "frel",
   "name": "Freela",
-  "address": "0x29CeDDCF0Da3c1D8068a7DFbD0FB06c2E438FF70",
+  "address": "0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

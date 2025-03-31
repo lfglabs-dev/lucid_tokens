@@ -1,7 +1,7 @@
 {
   "symbol": "gasp",
   "name": "GASP",
-  "address": "0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E",
+  "address": "0x736ecc5237b31edec6f1ab9a396fae2416b1d96e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

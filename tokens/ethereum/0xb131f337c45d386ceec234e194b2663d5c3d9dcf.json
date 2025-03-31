@@ -1,7 +1,7 @@
 {
   "symbol": "icom",
   "name": "iCommunity",
-  "address": "0xB131F337C45D386cEeC234e194b2663D5c3d9dCF",
+  "address": "0xb131f337c45d386ceec234e194b2663d5c3d9dcf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

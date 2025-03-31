@@ -1,7 +1,7 @@
 {
   "symbol": "flc",
   "name": "Floor Protocol",
-  "address": "0x102c776DDB30C754dEd4fDcC77A19230A60D4e4f",
+  "address": "0x102c776ddb30c754ded4fdcc77a19230a60d4e4f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "fpis",
   "name": "Frax Price Index Share",
-  "address": "0xc2544A32872A91F4A553b404C6950e89De901fdb",
+  "address": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

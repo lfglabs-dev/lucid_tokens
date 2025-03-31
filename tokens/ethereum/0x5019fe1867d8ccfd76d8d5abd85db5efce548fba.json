@@ -1,7 +1,7 @@
 {
   "symbol": "int",
   "name": "InteNet",
-  "address": "0x5019Fe1867d8cCfd76d8D5Abd85dB5EFCe548fbA",
+  "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

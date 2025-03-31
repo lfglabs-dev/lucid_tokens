@@ -1,7 +1,7 @@
 {
   "symbol": "maticx",
   "name": "Stader MaticX",
-  "address": "0xf03A7Eb46d01d9EcAA104558C732Cf82f6B6B645",
+  "address": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

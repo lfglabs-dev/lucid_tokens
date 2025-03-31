@@ -1,7 +1,7 @@
 {
   "symbol": "nugx",
   "name": "Nugget Rush",
-  "address": "0x75Fa2a76E5eC2269CF507b9296ac108373C72a6E",
+  "address": "0x75fa2a76e5ec2269cf507b9296ac108373c72a6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ax",
   "name": "AurusX",
-  "address": "0xCB0D82f4DFA503C9e3b8Abc7A3Caa01175b2dA39",
+  "address": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

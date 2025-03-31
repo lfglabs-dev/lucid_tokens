@@ -1,7 +1,7 @@
 {
   "symbol": "boton",
   "name": "Boton AI",
-  "address": "0x984AC33E3c6031b7190444aED92d617b92EF2C37",
+  "address": "0x984ac33e3c6031b7190444aed92d617b92ef2c37",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

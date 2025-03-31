@@ -1,7 +1,7 @@
 {
   "symbol": "gecky",
   "name": "Gecky",
-  "address": "0x694200465963898a9Fef06a5b778d9e65721685c",
+  "address": "0x694200465963898a9fef06a5b778d9e65721685c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

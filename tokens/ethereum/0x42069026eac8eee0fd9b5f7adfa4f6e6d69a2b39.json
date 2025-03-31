@@ -1,7 +1,7 @@
 {
   "symbol": "mstr",
   "name": "MSTR2100",
-  "address": "0x42069026EAC8Eee0Fd9b5f7aDFa4f6E6D69a2B39",
+  "address": "0x42069026eac8eee0fd9b5f7adfa4f6e6d69a2b39",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

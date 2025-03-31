@@ -1,7 +1,7 @@
 {
   "symbol": "cgu",
   "name": "Crypto Global United",
-  "address": "0x849A226f327b89E3133D9930d927F9EB9346F8C9",
+  "address": "0x849a226f327b89e3133d9930d927f9eb9346f8c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

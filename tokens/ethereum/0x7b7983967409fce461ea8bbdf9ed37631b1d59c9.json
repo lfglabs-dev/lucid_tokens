@@ -1,7 +1,7 @@
 {
   "symbol": "kpop",
   "name": "KPOP Coin",
-  "address": "0x7B7983967409Fce461EA8bbDF9ED37631b1d59C9",
+  "address": "0x7b7983967409fce461ea8bbdf9ed37631b1d59c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

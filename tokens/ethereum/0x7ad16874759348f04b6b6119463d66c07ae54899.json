@@ -1,7 +1,7 @@
 {
   "symbol": "pirb",
   "name": "PIRB",
-  "address": "0x7ad16874759348F04B6B6119463D66C07aE54899",
+  "address": "0x7ad16874759348f04b6b6119463d66c07ae54899",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

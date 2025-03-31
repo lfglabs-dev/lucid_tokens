@@ -1,7 +1,7 @@
 {
   "symbol": "wassie",
   "name": "WASSIE",
-  "address": "0x2c95D751DA37A5C1d9c5a7Fd465c1d50F3d96160",
+  "address": "0x2c95d751da37a5c1d9c5a7fd465c1d50f3d96160",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "fusdt",
   "name": "Flux USDT",
-  "address": "0x81994b9607e06ab3d5cF3AffF9a67374f05F27d7",
+  "address": "0x81994b9607e06ab3d5cf3afff9a67374f05f27d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ppizza",
   "name": "PPizza",
-  "address": "0xab306326bC72c2335Bd08F42cbec383691eF8446",
+  "address": "0xab306326bc72c2335bd08f42cbec383691ef8446",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

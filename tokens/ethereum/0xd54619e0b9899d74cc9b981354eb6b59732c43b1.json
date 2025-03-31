@@ -1,7 +1,7 @@
 {
   "symbol": "n",
   "name": "Ncoin",
-  "address": "0xd54619E0b9899D74Cc9B981354Eb6b59732c43B1",
+  "address": "0xd54619e0b9899d74cc9b981354eb6b59732c43b1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

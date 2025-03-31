@@ -1,7 +1,7 @@
 {
   "symbol": "cdn",
   "name": "CEDEN",
-  "address": "0xC29bBE89E98250eE2eee3ac677BbeD542A049EFB",
+  "address": "0xc29bbe89e98250ee2eee3ac677bbed542a049efb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "avt",
   "name": "Aventus",
-  "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
+  "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

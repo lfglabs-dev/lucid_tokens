@@ -1,7 +1,7 @@
 {
   "symbol": "azrx",
   "name": "Aave ZRX",
-  "address": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
+  "address": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

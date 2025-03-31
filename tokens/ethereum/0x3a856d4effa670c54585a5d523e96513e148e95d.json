@@ -1,7 +1,7 @@
 {
   "symbol": "trias",
   "name": "TriasLab",
-  "address": "0x3A856d4effa670C54585a5D523e96513e148e95d",
+  "address": "0x3a856d4effa670c54585a5d523e96513e148e95d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "snek",
   "name": "ETH Snek",
-  "address": "0x2025b2F4c7ABe6dcb3843c62c32dfa14990a6269",
+  "address": "0x2025b2f4c7abe6dcb3843c62c32dfa14990a6269",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

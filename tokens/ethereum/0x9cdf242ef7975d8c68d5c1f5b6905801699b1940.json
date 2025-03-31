@@ -1,7 +1,7 @@
 {
   "symbol": "white",
   "name": "WhiteRock",
-  "address": "0x9cdf242Ef7975D8c68D5C1F5B6905801699b1940",
+  "address": "0x9cdf242ef7975d8c68d5c1f5b6905801699b1940",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

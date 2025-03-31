@@ -1,7 +1,7 @@
 {
   "symbol": "pets",
   "name": "PolkaPet World",
-  "address": "0x6afCFF9189e8ed3fCc1CFfa184FEB1276f6A82A5",
+  "address": "0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

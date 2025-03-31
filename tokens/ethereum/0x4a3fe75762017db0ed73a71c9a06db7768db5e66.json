@@ -1,7 +1,7 @@
 {
   "symbol": "yvcomp",
   "name": "COMP yVault",
-  "address": "0x4A3FE75762017DB0eD73a71C9A06db7768DB5e66",
+  "address": "0x4a3fe75762017db0ed73a71c9a06db7768db5e66",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

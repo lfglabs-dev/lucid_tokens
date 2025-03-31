@@ -1,7 +1,7 @@
 {
   "symbol": "fet",
   "name": "Artificial Superintelligence Alliance",
-  "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+  "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
-    "osmosis": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
     "binance-smart-chain": "0x031b41e504677879370e9dbcf937283a8691fa7f"
   }
 }

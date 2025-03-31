@@ -1,7 +1,7 @@
 {
   "symbol": "grg",
   "name": "RigoBlock",
-  "address": "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
+  "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

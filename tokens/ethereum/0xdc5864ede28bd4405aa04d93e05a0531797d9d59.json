@@ -1,7 +1,7 @@
 {
   "symbol": "fnt",
   "name": "Falcon Project",
-  "address": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
+  "address": "0xdc5864ede28bd4405aa04d93e05a0531797d9d59",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "alpha",
   "name": "Alpha Shards",
-  "address": "0x38f9bb135ea88033f4377B9EA0fb5Cfb773fEc2F",
+  "address": "0x38f9bb135ea88033f4377b9ea0fb5cfb773fec2f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

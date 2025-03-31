@@ -1,7 +1,7 @@
 {
   "symbol": "srune",
   "name": "sRUNE",
-  "address": "0x0352557B007A4Aae1511C114409b932F06F9E2f4",
+  "address": "0x0352557b007a4aae1511c114409b932f06f9e2f4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

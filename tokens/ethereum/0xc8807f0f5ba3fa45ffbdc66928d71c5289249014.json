@@ -1,7 +1,7 @@
 {
   "symbol": "isp",
   "name": "Ispolink",
-  "address": "0xC8807f0f5BA3fa45FfBdc66928d71c5289249014",
+  "address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

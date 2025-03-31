@@ -1,7 +1,7 @@
 {
   "symbol": "stats",
   "name": "STATS",
-  "address": "0x39142c18B6db2a8A41B7018f49E1478837560caD",
+  "address": "0x39142c18b6db2a8a41b7018f49e1478837560cad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

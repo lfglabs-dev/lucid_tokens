@@ -1,7 +1,7 @@
 {
   "symbol": "dsai",
   "name": "DeSend Ai",
-  "address": "0xB27782Fdb56352A684686A852374eF20910457e2",
+  "address": "0xb27782fdb56352a684686a852374ef20910457e2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

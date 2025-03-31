@@ -1,7 +1,7 @@
 {
   "symbol": "dfa",
   "name": "DeFine",
-  "address": "0x62959c699A52eC647622c91e79CE73344e4099f5",
+  "address": "0x62959c699a52ec647622c91e79ce73344e4099f5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

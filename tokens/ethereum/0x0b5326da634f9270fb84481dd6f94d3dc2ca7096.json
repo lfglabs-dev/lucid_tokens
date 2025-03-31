@@ -1,7 +1,7 @@
 {
   "symbol": "etho",
   "name": "Etho Protocol",
-  "address": "0x0b5326Da634f9270FB84481DD6F94d3dC2cA7096",
+  "address": "0x0b5326da634f9270fb84481dd6f94d3dc2ca7096",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

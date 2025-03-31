@@ -1,7 +1,7 @@
 {
   "symbol": "unreal",
   "name": "Unreal AI",
-  "address": "0xb39A0Dae3C2aFd1F3C55AD47D1c7A0Bb6C1CA260",
+  "address": "0xb39a0dae3c2afd1f3c55ad47d1c7a0bb6c1ca260",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

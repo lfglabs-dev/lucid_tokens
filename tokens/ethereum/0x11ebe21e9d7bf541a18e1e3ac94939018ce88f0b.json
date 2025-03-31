@@ -1,7 +1,7 @@
 {
   "symbol": "pitchfxs",
   "name": "Pitch FXS",
-  "address": "0x11EBe21e9d7BF541A18e1E3aC94939018Ce88F0b",
+  "address": "0x11ebe21e9d7bf541a18e1e3ac94939018ce88f0b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

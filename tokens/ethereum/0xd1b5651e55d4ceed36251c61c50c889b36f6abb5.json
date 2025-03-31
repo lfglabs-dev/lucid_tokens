@@ -1,7 +1,7 @@
 {
   "symbol": "sdcrv",
   "name": "Stake DAO CRV",
-  "address": "0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5",
+  "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

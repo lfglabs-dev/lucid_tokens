@@ -1,7 +1,7 @@
 {
   "symbol": "bns",
   "name": "BNS",
-  "address": "0x19E2a43Fbbc643C3B2D9667D858D49cAd17bc2b5",
+  "address": "0x19e2a43fbbc643c3b2d9667d858d49cad17bc2b5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

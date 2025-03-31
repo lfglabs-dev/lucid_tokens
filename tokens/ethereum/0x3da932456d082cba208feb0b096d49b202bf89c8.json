@@ -1,7 +1,7 @@
 {
   "symbol": "dego",
   "name": "Dego Finance",
-  "address": "0x3Da932456D082CBa208FEB0B096d49b202Bf89c8",
+  "address": "0x3da932456d082cba208feb0b096d49b202bf89c8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x3da932456d082cba208feb0b096d49b202bf89c8",
-    "binance-smart-chain": "0x3da932456d082cba208feb0b096d49b202bf89c8",
-    "solana": "BU4eP1vCR99amXKsMXhctX8YpqUa7wbULQ26XaQbazkS"
+    "binance-smart-chain": "0x3da932456d082cba208feb0b096d49b202bf89c8"
   }
 }

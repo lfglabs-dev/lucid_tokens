@@ -1,7 +1,7 @@
 {
   "symbol": "eveai",
   "name": "Eve AI",
-  "address": "0x05fE069626543842439Ef90D9FA1633640c50cF1",
+  "address": "0x05fe069626543842439ef90d9fa1633640c50cf1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

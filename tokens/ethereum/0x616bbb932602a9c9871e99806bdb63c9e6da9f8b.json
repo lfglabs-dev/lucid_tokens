@@ -1,7 +1,7 @@
 {
   "symbol": "cnet",
   "name": "ChainNet",
-  "address": "0x616bBb932602A9C9871E99806BDb63c9e6DA9F8B",
+  "address": "0x616bbb932602a9c9871e99806bdb63c9e6da9f8b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

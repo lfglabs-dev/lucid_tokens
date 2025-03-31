@@ -1,7 +1,7 @@
 {
   "symbol": "trio",
   "name": "Maximus TRIO",
-  "address": "0xF55cD1e399e1cc3D95303048897a680be3313308",
+  "address": "0xf55cd1e399e1cc3d95303048897a680be3313308",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ioen",
   "name": "Internet of Energy Network",
-  "address": "0x1e4E46b7BF03ECE908c88FF7cC4975560010893A",
+  "address": "0x1e4e46b7bf03ece908c88ff7cc4975560010893a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

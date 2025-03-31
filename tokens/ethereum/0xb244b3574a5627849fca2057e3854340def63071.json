@@ -1,7 +1,7 @@
 {
   "symbol": "veil",
   "name": "Veil Exchange",
-  "address": "0xB244b3574a5627849fca2057E3854340Def63071",
+  "address": "0xb244b3574a5627849fca2057e3854340def63071",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

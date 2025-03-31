@@ -1,7 +1,7 @@
 {
   "symbol": "pop",
   "name": "Proof Of Pepe",
-  "address": "0x265F542C1E78068F13d87C6fE0df54f3e9562a48",
+  "address": "0x265f542c1e78068f13d87c6fe0df54f3e9562a48",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

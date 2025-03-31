@@ -1,7 +1,7 @@
 {
   "symbol": "magapepe",
   "name": "MAGA PEPE (ETH)",
-  "address": "0x8e7BD91F7D51D58145365341fDB37E0eDfC8397F",
+  "address": "0x8e7bd91f7d51d58145365341fdb37e0edfc8397f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "gdx",
   "name": "GrokDogeX",
-  "address": "0x0c21638d4BCB88568f88Bc84a50E317715f8De8a",
+  "address": "0x0c21638d4bcb88568f88bc84a50e317715f8de8a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

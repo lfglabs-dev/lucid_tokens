@@ -1,7 +1,7 @@
 {
   "symbol": "xring",
   "name": "Darwinia Network xRING",
-  "address": "0x81e32d4652Be82AE225DEdd1bD0bf3BCba8FEE07",
+  "address": "0x81e32d4652be82ae225dedd1bd0bf3bcba8fee07",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

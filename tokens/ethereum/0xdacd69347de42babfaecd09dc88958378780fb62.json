@@ -1,7 +1,7 @@
 {
   "symbol": "atri",
   "name": "Atari",
-  "address": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
+  "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

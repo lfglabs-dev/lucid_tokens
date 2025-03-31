@@ -1,7 +1,7 @@
 {
   "symbol": "cbeth",
   "name": "Coinbase Wrapped Staked ETH",
-  "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+  "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

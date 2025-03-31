@@ -1,7 +1,7 @@
 {
   "symbol": "hbot",
   "name": "Hummingbot",
-  "address": "0xE5097D9baeAFB89f9bcB78C9290d545dB5f9e9CB",
+  "address": "0xe5097d9baeafb89f9bcb78c9290d545db5f9e9cb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

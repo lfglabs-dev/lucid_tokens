@@ -1,7 +1,7 @@
 {
   "symbol": "znn",
   "name": "Zenon",
-  "address": "0xb2e96a63479C2Edd2FD62b382c89D5CA79f572d3",
+  "address": "0xb2e96a63479c2edd2fd62b382c89d5ca79f572d3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

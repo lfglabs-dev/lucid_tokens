@@ -1,7 +1,7 @@
 {
   "symbol": "solana",
   "name": "BarbieCrashBandicootRFK88",
-  "address": "0x3D806324b6Df5AF3c1a81aCbA14A8A62Fe6D643F",
+  "address": "0x3d806324b6df5af3c1a81acba14a8a62fe6d643f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

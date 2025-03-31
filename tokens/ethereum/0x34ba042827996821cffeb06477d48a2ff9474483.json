@@ -1,7 +1,7 @@
 {
   "symbol": "shib2.0",
   "name": "Shib2.0",
-  "address": "0x34ba042827996821CFFEB06477D48a2Ff9474483",
+  "address": "0x34ba042827996821cffeb06477d48a2ff9474483",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

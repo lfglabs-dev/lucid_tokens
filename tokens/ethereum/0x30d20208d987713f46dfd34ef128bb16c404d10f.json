@@ -1,7 +1,7 @@
 {
   "symbol": "sd",
   "name": "Stader",
-  "address": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+  "address": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

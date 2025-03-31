@@ -1,7 +1,7 @@
 {
   "symbol": "taotools",
   "name": "TAOTools",
-  "address": "0x01043bF843b88e1182B1db27BDCC93999aA74C56",
+  "address": "0x01043bf843b88e1182b1db27bdcc93999aa74c56",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

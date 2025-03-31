@@ -1,7 +1,7 @@
 {
   "symbol": "umi",
   "name": "Umi Digital",
-  "address": "0x61107a409fFFe1965126aa456Af679719695C69C",
+  "address": "0x61107a409fffe1965126aa456af679719695c69c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

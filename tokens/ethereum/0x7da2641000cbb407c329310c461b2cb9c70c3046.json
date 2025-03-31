@@ -1,7 +1,7 @@
 {
   "symbol": "agi",
   "name": "Delysium",
-  "address": "0x7dA2641000Cbb407C329310C461b2cB9c70C3046",
+  "address": "0x7da2641000cbb407c329310c461b2cb9c70c3046",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x7da2641000cbb407c329310c461b2cb9c70c3046",
-    "binance-smart-chain": "0x818835503f55283cd51a4399f595e295a9338753",
-    "solana": "8bUbe1ujsM1G3JEbBWVVCXa2widmuPdKUB2rGKMYFw7R"
+    "binance-smart-chain": "0x818835503f55283cd51a4399f595e295a9338753"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "0xdev",
   "name": "DEVAI",
-  "address": "0xF7498c98789957F4eE53B3E37fF5B7Ef8A6CFC7b",
+  "address": "0xf7498c98789957f4ee53b3e37ff5b7ef8a6cfc7b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

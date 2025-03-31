@@ -1,7 +1,7 @@
 {
   "symbol": "code",
   "name": "Code Token",
-  "address": "0x283344eEA472f0fE04d6f722595A2fFFEfE1901A",
+  "address": "0x283344eea472f0fe04d6f722595a2fffefe1901a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

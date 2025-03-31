@@ -1,7 +1,7 @@
 {
   "symbol": "gondola",
   "name": "Gondola",
-  "address": "0xd43fbA1f38d9B306AEEF9d78aD177d51Ef802B46",
+  "address": "0xd43fba1f38d9b306aeef9d78ad177d51ef802b46",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xd43fba1f38d9b306aeef9d78ad177d51ef802b46",
-    "solana": "DG3LB7Kr8Londuz1j2us4YUXyNqiiLioKdYjSB37HbN2"
+    "ethereum": "0xd43fba1f38d9b306aeef9d78ad177d51ef802b46"
   }
 }

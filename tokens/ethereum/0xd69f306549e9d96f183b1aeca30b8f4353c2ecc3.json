@@ -1,7 +1,7 @@
 {
   "symbol": "mchc",
   "name": "MCH Coin",
-  "address": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
+  "address": "0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wscrt",
   "name": "Secret (ERC20)",
-  "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
+  "address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

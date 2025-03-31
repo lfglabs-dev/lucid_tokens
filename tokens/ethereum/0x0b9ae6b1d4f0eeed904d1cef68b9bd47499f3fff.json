@@ -1,7 +1,7 @@
 {
   "symbol": "nati",
   "name": "IlluminatiCoin",
-  "address": "0x0B9aE6b1D4f0EEeD904D1CEF68b9bd47499f3fFF",
+  "address": "0x0b9ae6b1d4f0eeed904d1cef68b9bd47499f3fff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

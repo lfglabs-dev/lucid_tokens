@@ -1,7 +1,7 @@
 {
   "symbol": "nftl",
   "name": "NFTLaunch",
-  "address": "0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD",
+  "address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

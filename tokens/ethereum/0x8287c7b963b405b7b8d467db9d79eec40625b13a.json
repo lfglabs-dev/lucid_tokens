@@ -1,7 +1,7 @@
 {
   "symbol": "swingby",
   "name": "Swingby",
-  "address": "0x8287C7b963b405b7B8D467DB9d79eEC40625b13A",
+  "address": "0x8287c7b963b405b7b8d467db9d79eec40625b13a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "binancecoin": "SWINGBY-888",
     "ethereum": "0x8287c7b963b405b7b8d467db9d79eec40625b13a",
     "binance-smart-chain": "0x71de20e0c4616e7fcbfdd3f875d568492cbe4739"
   }

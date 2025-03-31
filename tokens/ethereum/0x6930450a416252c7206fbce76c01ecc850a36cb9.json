@@ -1,7 +1,7 @@
 {
   "symbol": "sheb",
   "name": "SHEBOSHIS",
-  "address": "0x6930450a416252c7206fBCe76c01ECC850A36Cb9",
+  "address": "0x6930450a416252c7206fbce76c01ecc850a36cb9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

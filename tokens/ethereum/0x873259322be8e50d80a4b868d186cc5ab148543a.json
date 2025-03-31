@@ -1,7 +1,7 @@
 {
   "symbol": "ponzio",
   "name": "PonzioTheCat",
-  "address": "0x873259322BE8e50d80A4b868D186Cc5aB148543A",
+  "address": "0x873259322be8e50d80a4b868d186cc5ab148543a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

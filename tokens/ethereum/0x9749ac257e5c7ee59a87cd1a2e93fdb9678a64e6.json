@@ -1,7 +1,7 @@
 {
   "symbol": "retard",
   "name": "Retard Coin",
-  "address": "0x9749Ac257E5C7eE59a87CD1A2e93FDB9678a64e6",
+  "address": "0x9749ac257e5c7ee59a87cd1a2e93fdb9678a64e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

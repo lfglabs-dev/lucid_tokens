@@ -1,7 +1,7 @@
 {
   "symbol": "ust",
   "name": "TerraUSD (Wormhole)",
-  "address": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
+  "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
     "ethereum": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
     "binance-smart-chain": "0x3d4350cd54aef9f9b2c29435e0fa809957b3f30a",
     "fantom": "0x846e4d51d7e2043c1a87e0ab7490b93fb940357b",

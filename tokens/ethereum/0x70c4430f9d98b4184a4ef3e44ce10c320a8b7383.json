@@ -1,7 +1,7 @@
 {
   "symbol": "gyfi",
   "name": "Gyroscope",
-  "address": "0x70c4430f9d98B4184A4ef3E44CE10c320a8B7383",
+  "address": "0x70c4430f9d98b4184a4ef3e44ce10c320a8b7383",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

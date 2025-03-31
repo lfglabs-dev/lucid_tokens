@@ -1,7 +1,7 @@
 {
   "symbol": "yawn",
   "name": "YAWN",
-  "address": "0x881d4C8618D68872fA404518B2460eA839A02a6a",
+  "address": "0x881d4c8618d68872fa404518b2460ea839a02a6a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

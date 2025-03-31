@@ -1,7 +1,7 @@
 {
   "symbol": "cxo",
   "name": "CargoX",
-  "address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
+  "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

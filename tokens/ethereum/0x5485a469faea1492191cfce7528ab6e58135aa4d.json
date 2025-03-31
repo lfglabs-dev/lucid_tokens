@@ -1,7 +1,7 @@
 {
   "symbol": "osmi",
   "name": "OSMI",
-  "address": "0x5485a469fAEa1492191Cfce7528AB6E58135aA4d",
+  "address": "0x5485a469faea1492191cfce7528ab6e58135aa4d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

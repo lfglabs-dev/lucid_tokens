@@ -1,7 +1,7 @@
 {
   "symbol": "alph",
   "name": "Alephium",
-  "address": "0x590F820444fA3638e022776752c5eEF34E2F89A6",
+  "address": "0x590f820444fa3638e022776752c5eef34e2f89a6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

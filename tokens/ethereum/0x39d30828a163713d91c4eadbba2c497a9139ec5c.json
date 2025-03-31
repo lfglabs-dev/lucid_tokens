@@ -1,7 +1,7 @@
 {
   "symbol": "hbdc",
   "name": "Happy Birthday Coin",
-  "address": "0x39d30828a163713D91c4EADBBA2C497a9139ec5C",
+  "address": "0x39d30828a163713d91c4eadbba2c497a9139ec5c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

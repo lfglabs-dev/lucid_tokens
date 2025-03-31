@@ -1,7 +1,7 @@
 {
   "symbol": "geeq",
   "name": "GEEQ",
-  "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
+  "address": "0x6b9f031d718dded0d681c20cb754f97b3bb81b78",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

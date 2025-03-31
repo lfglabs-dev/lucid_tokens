@@ -1,7 +1,7 @@
 {
   "symbol": "pickle",
   "name": "Pickle",
-  "address": "0x6942016B8DE9d18a5831EEda915e48B27Cc8E23D",
+  "address": "0x6942016b8de9d18a5831eeda915e48b27cc8e23d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "defi.d",
   "name": "Dinari DEFI",
-  "address": "0x81B11D330D9Af45599bE0580b9Bcba7F4E57BD35",
+  "address": "0x81b11d330d9af45599be0580b9bcba7f4e57bd35",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

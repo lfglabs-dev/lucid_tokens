@@ -1,7 +1,7 @@
 {
   "symbol": "piss",
   "name": "Pisscoin",
-  "address": "0x9C0bD34beBc33A0E898554cFc91e8A84C728BF9F",
+  "address": "0x9c0bd34bebc33a0e898554cfc91e8a84c728bf9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

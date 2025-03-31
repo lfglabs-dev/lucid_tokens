@@ -1,7 +1,7 @@
 {
   "symbol": "tribe",
   "name": "Tribe",
-  "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+  "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "zkb",
   "name": "ZKBase",
-  "address": "0xBBBbbBBB46A1dA0F0C3F64522c275BAA4C332636",
+  "address": "0xbbbbbbbb46a1da0f0c3f64522c275baa4c332636",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

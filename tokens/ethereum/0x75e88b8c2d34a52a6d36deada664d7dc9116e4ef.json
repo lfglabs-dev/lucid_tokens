@@ -1,7 +1,7 @@
 {
   "symbol": "zrs",
   "name": "Zaros",
-  "address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
+  "address": "0x75e88b8c2d34a52a6d36deada664d7dc9116e4ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

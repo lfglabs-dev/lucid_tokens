@@ -1,7 +1,7 @@
 {
   "symbol": "sentai",
   "name": "SentAI",
-  "address": "0x877f035c83df617B6C901891F90EEBc78f8CE050",
+  "address": "0x877f035c83df617b6c901891f90eebc78f8ce050",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

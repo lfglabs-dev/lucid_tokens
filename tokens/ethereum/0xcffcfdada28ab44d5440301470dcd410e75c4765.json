@@ -1,7 +1,7 @@
 {
   "symbol": "prf",
   "name": "Parifi",
-  "address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
+  "address": "0xcffcfdada28ab44d5440301470dcd410e75c4765",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

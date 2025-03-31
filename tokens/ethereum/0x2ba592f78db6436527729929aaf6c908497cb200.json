@@ -1,7 +1,7 @@
 {
   "symbol": "cream",
   "name": "Cream",
-  "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+  "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,9 +11,7 @@
   },
   "platforms": {
     "ethereum": "0x2ba592f78db6436527729929aaf6c908497cb200",
-    "near-protocol": "2ba592f78db6436527729929aaf6c908497cb200.factory.bridge.near",
     "energi": "0x1cca61099dcebe517f8cac58f27218e7aff2d3bf",
-    "sora": "0x00521ad5caeadc2e3e04be4d4ebb0b7c8c9b71ba657c2362a3953490ebc81410",
     "fantom": "0x657a1861c15a3ded9af0b6799a195a249ebdcbc6",
     "arbitrum-one": "0xf4d48ce3ee1ac3651998971541badbb9a14d7234"
   }

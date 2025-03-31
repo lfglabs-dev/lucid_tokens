@@ -1,7 +1,7 @@
 {
   "symbol": "ethe.d",
   "name": "Dinari ETHE",
-  "address": "0x4E4016eb5014468F3dba5883c70f9997026eA11e",
+  "address": "0x4e4016eb5014468f3dba5883c70f9997026ea11e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

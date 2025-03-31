@@ -1,7 +1,7 @@
 {
   "symbol": "self",
   "name": "SELFCrypto",
-  "address": "0x4af8aa621Df6dd3e2D653188a357FC2b35c6A037",
+  "address": "0x4af8aa621df6dd3e2d653188a357fc2b35c6a037",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

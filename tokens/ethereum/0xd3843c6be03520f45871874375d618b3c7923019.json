@@ -1,7 +1,7 @@
 {
   "symbol": "ordibridge",
   "name": "Ordinal Bridge",
-  "address": "0xd3843c6Be03520f45871874375D618b3C7923019",
+  "address": "0xd3843c6be03520f45871874375d618b3c7923019",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

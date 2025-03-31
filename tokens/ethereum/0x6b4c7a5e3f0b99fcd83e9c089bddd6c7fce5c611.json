@@ -1,7 +1,7 @@
 {
   "symbol": "mm",
   "name": "Million",
-  "address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+  "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "vext",
   "name": "Veloce",
-  "address": "0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
+  "address": "0xb2492e97a68a6e4b9e9a11b99f6c42e5accd38c7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

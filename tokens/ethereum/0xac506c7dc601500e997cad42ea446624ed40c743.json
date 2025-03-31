@@ -1,7 +1,7 @@
 {
   "symbol": "xcept",
   "name": "XCeption",
-  "address": "0xac506C7DC601500E997caD42Ea446624ED40c743",
+  "address": "0xac506c7dc601500e997cad42ea446624ed40c743",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

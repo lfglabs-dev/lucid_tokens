@@ -1,7 +1,7 @@
 {
   "symbol": "agii",
   "name": "AGII",
-  "address": "0x75d86078625d1E2F612de2627d34C7bc411C18b8",
+  "address": "0x75d86078625d1e2f612de2627d34c7bc411c18b8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

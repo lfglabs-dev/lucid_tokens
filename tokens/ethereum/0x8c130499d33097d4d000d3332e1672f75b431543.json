@@ -1,7 +1,7 @@
 {
   "symbol": "hoppy",
   "name": "Hoppy Token",
-  "address": "0x8C130499D33097D4D000D3332E1672f75b431543",
+  "address": "0x8c130499d33097d4d000d3332e1672f75b431543",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

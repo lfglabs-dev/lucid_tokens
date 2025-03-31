@@ -1,7 +1,7 @@
 {
   "symbol": "mag",
   "name": "Magnum",
-  "address": "0xb9d4B6DC1e1Ee3577CC442dE015CC11F238B35ed",
+  "address": "0xb9d4b6dc1e1ee3577cc442de015cc11f238b35ed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xb9d4b6dc1e1ee3577cc442de015cc11f238b35ed",
-    "solana": "Gi2ce3Eu6dt8iAS2pa8hLsoudSEvew477SVJkHUipump"
+    "ethereum": "0xb9d4b6dc1e1ee3577cc442de015cc11f238b35ed"
   }
 }

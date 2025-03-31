@@ -1,7 +1,7 @@
 {
   "symbol": "trade",
   "name": "Unitrade",
-  "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
+  "address": "0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

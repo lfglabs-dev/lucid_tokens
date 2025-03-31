@@ -1,7 +1,7 @@
 {
   "symbol": "padre",
   "name": "Padre",
-  "address": "0xB36cF340a35f9860D0Bb59AFb0355580f0000DAD",
+  "address": "0xb36cf340a35f9860d0bb59afb0355580f0000dad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cloud",
   "name": "DeCloud",
-  "address": "0xf2dFDBE1ea71bbdcB5A4662A16dbf5e487BE3ebe",
+  "address": "0xf2dfdbe1ea71bbdcb5a4662a16dbf5e487be3ebe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

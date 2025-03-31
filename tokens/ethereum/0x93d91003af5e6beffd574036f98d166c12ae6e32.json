@@ -1,7 +1,7 @@
 {
   "symbol": "rev",
   "name": "REV",
-  "address": "0x93D91003aF5e6beffD574036F98d166c12AE6E32",
+  "address": "0x93d91003af5e6beffd574036f98d166c12ae6e32",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

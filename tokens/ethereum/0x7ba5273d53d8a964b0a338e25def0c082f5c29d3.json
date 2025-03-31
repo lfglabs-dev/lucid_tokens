@@ -1,7 +1,7 @@
 {
   "symbol": "$wen",
   "name": "WEN",
-  "address": "0x7BA5273D53D8a964b0a338e25DEF0c082f5C29d3",
+  "address": "0x7ba5273d53d8a964b0a338e25def0c082f5c29d3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

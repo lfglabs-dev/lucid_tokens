@@ -1,7 +1,7 @@
 {
   "symbol": "21avax",
   "name": "21.co Wrapped AVAX",
-  "address": "0x399508A43d7E2b4451cd344633108b4d84b33B03",
+  "address": "0x399508a43d7e2b4451cd344633108b4d84b33b03",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

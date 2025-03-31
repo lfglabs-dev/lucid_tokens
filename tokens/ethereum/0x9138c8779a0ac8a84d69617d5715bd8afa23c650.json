@@ -1,7 +1,7 @@
 {
   "symbol": "flrbrg",
   "name": "Floor Cheese Burger",
-  "address": "0x9138C8779A0Ac8a84D69617D5715BD8AFa23C650",
+  "address": "0x9138c8779a0ac8a84d69617d5715bd8afa23c650",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

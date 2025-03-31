@@ -1,7 +1,7 @@
 {
   "symbol": "bgoogl",
   "name": "Backed Alphabet Class A",
-  "address": "0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32",
+  "address": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "rpg",
   "name": "Rangers Protocol Gas",
-  "address": "0x1f16D41f9B3dB03b462BDD6c92245ee708D1C103",
+  "address": "0x1f16d41f9b3db03b462bdd6c92245ee708d1c103",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

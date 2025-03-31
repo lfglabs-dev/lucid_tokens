@@ -1,7 +1,7 @@
 {
   "symbol": "egame",
   "name": "Every Game",
-  "address": "0x62d3c05b9C3d916FBC111819bbD3CEE52906C1Ae",
+  "address": "0x62d3c05b9c3d916fbc111819bbd3cee52906c1ae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

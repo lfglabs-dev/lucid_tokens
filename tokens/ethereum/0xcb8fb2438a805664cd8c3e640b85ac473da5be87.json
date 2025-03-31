@@ -1,7 +1,7 @@
 {
   "symbol": "cti",
   "name": "ClinTex CTi",
-  "address": "0xcB8fb2438A805664cD8c3e640b85AC473DA5BE87",
+  "address": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
     "binance-smart-chain": "0x7c3b67b30efbacc8f787f7ebd3bdc65234299f4c",
-    "polygon-pos": "0x03c2f6808502ffd4ab2787ad1a98ec13dbd5718b",
-    "solana": "9ET2QCQJdFkeKkuaampNbmicbA8eLYauFCWch9Ddh9p5"
+    "polygon-pos": "0x03c2f6808502ffd4ab2787ad1a98ec13dbd5718b"
   }
 }

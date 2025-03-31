@@ -1,7 +1,7 @@
 {
   "symbol": "cbdc",
   "name": "CBDC",
-  "address": "0xE07C41E9CDf7e0a7800e4bbF90d414654fD6413D",
+  "address": "0xe07c41e9cdf7e0a7800e4bbf90d414654fd6413d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "aver",
   "name": "Aver AI",
-  "address": "0xd347514c12d6ACbBec08ceeA127bC5e57DDb2847",
+  "address": "0xd347514c12d6acbbec08ceea127bc5e57ddb2847",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

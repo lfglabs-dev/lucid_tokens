@@ -1,7 +1,7 @@
 {
   "symbol": "ankreth",
   "name": "Ankr Staked ETH",
-  "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+  "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

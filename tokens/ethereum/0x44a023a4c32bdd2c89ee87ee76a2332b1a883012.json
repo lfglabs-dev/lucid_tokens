@@ -1,7 +1,7 @@
 {
   "symbol": "zazzles",
   "name": "Zazzles",
-  "address": "0x44a023A4C32bDd2c89ee87ee76A2332B1A883012",
+  "address": "0x44a023a4c32bdd2c89ee87ee76a2332b1a883012",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "biai",
   "name": "BlockInsightAI",
-  "address": "0x880eeEA0637f91Bb259dFD7BB261638A42bDdB25",
+  "address": "0x880eeea0637f91bb259dfd7bb261638a42bddb25",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

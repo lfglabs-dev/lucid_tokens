@@ -1,7 +1,7 @@
 {
   "symbol": "hedg",
   "name": "HedgeTrade",
-  "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+  "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

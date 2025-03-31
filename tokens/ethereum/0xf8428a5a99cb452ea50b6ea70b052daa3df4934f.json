@@ -1,7 +1,7 @@
 {
   "symbol": "zerc",
   "name": "zkRace",
-  "address": "0xf8428A5a99cb452Ea50B6Ea70b052DaA3dF4934F",
+  "address": "0xf8428a5a99cb452ea50b6ea70b052daa3df4934f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

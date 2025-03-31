@@ -1,7 +1,7 @@
 {
   "symbol": "nous",
   "name": "NousAI",
-  "address": "0x65226A023fF652dE48ec9FC4F2e89e5a4244a862",
+  "address": "0x65226a023ff652de48ec9fc4f2e89e5a4244a862",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

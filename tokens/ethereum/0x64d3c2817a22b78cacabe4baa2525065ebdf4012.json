@@ -1,7 +1,7 @@
 {
   "symbol": "sharx",
   "name": "RaidSharksBot",
-  "address": "0x64D3C2817A22b78CAcabe4baa2525065ebDF4012",
+  "address": "0x64d3c2817a22b78cacabe4baa2525065ebdf4012",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "susdx",
   "name": "Stables Labs Staked USDX",
-  "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+  "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

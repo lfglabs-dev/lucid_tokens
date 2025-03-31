@@ -1,7 +1,7 @@
 {
   "symbol": "music",
   "name": "Gala Music",
-  "address": "0xD8c0b13B551718b808fc97eAd59499d5Ef862775",
+  "address": "0xd8c0b13b551718b808fc97ead59499d5ef862775",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

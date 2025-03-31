@@ -1,7 +1,7 @@
 {
   "symbol": "xio",
   "name": "Blockzero Labs",
-  "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+  "address": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

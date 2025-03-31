@@ -1,7 +1,7 @@
 {
   "symbol": "shiryo-inu",
   "name": "Shiryo",
-  "address": "0x1E2F15302B90EddE696593607b6bD444B64e8F02",
+  "address": "0x1e2f15302b90edde696593607b6bd444b64e8f02",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

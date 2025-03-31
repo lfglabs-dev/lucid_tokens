@@ -1,7 +1,7 @@
 {
   "symbol": "peak",
   "name": "PEAKDEFI",
-  "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+  "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

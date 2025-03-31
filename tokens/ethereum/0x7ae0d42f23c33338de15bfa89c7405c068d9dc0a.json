@@ -1,7 +1,7 @@
 {
   "symbol": "verse",
   "name": "Shibaverse",
-  "address": "0x7aE0d42f23C33338dE15bFa89C7405c068d9dC0a",
+  "address": "0x7ae0d42f23c33338de15bfa89c7405c068d9dc0a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

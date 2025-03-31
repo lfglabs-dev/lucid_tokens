@@ -1,7 +1,7 @@
 {
   "symbol": "jay",
   "name": "Jaypeggers",
-  "address": "0xDA7C0810cE6F8329786160bb3d1734cf6661CA6E",
+  "address": "0xda7c0810ce6f8329786160bb3d1734cf6661ca6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

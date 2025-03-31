@@ -1,7 +1,7 @@
 {
   "symbol": "weat.d",
   "name": "Dinari WEAT",
-  "address": "0xAf614642E58C65B71a3aaAB2d3Afc20e5cb93246",
+  "address": "0xaf614642e58c65b71a3aaab2d3afc20e5cb93246",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

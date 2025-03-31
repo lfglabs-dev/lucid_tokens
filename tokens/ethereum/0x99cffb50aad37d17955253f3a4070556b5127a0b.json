@@ -1,7 +1,7 @@
 {
   "symbol": "mega",
   "name": "MEGALODON",
-  "address": "0x99cFFb50aaD37D17955253F3a4070556b5127a0b",
+  "address": "0x99cffb50aad37d17955253f3a4070556b5127a0b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

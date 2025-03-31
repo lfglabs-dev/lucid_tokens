@@ -1,7 +1,7 @@
 {
   "symbol": "dung",
   "name": "Scarab Tools",
-  "address": "0x84412819AE69b10250D0D54d58f454018F1c8A42",
+  "address": "0x84412819ae69b10250d0d54d58f454018f1c8a42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "over",
   "name": "Overtime",
-  "address": "0x90cE5720c17587D28E4Af120ae2d313B3BAD1722",
+  "address": "0x90ce5720c17587d28e4af120ae2d313b3bad1722",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

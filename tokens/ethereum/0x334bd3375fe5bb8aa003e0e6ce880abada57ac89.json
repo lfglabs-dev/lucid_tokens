@@ -1,7 +1,7 @@
 {
   "symbol": "mberry",
   "name": "MicroBerry",
-  "address": "0x334bD3375fE5BB8AA003e0e6CE880ABADa57AC89",
+  "address": "0x334bd3375fe5bb8aa003e0e6ce880abada57ac89",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

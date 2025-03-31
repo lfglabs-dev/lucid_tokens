@@ -1,7 +1,7 @@
 {
   "symbol": "celr",
   "name": "Celer Network",
-  "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+  "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

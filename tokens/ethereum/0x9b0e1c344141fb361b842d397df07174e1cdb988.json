@@ -1,7 +1,7 @@
 {
   "symbol": "emoti",
   "name": "EmotiCoin",
-  "address": "0x9b0E1C344141fB361B842d397dF07174E1CDb988",
+  "address": "0x9b0e1c344141fb361b842d397df07174e1cdb988",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

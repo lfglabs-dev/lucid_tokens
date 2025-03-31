@@ -1,7 +1,7 @@
 {
   "symbol": "ken",
   "name": "Ken",
-  "address": "0x7316D973b0269863BbfeD87302e11334E25eA565",
+  "address": "0x7316d973b0269863bbfed87302e11334e25ea565",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

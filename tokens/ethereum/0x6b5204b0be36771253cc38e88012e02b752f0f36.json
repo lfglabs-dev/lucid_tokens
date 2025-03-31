@@ -1,7 +1,7 @@
 {
   "symbol": "zun",
   "name": "Zunami Governance Token",
-  "address": "0x6b5204B0Be36771253Cc38e88012E02B752f0f36",
+  "address": "0x6b5204b0be36771253cc38e88012e02b752f0f36",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

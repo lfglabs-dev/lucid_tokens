@@ -1,7 +1,7 @@
 {
   "symbol": "peas",
   "name": "Peapods Finance",
-  "address": "0x02f92800F57BCD74066F5709F1Daa1A4302Df875",
+  "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

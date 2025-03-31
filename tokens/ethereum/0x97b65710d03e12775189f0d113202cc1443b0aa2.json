@@ -1,7 +1,7 @@
 {
   "symbol": "elonone",
   "name": "AstroElon",
-  "address": "0x97b65710D03E12775189F0D113202cc1443b0aa2",
+  "address": "0x97b65710d03e12775189f0d113202cc1443b0aa2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

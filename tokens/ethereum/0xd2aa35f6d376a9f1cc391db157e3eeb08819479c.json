@@ -1,7 +1,7 @@
 {
   "symbol": "brain",
   "name": "BrAIngent",
-  "address": "0xD2Aa35f6d376a9F1cc391dB157E3Eeb08819479c",
+  "address": "0xd2aa35f6d376a9f1cc391db157e3eeb08819479c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

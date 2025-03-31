@@ -1,7 +1,7 @@
 {
   "symbol": "cku",
   "name": "Cryptoku",
-  "address": "0x08F7be99ED83369541501d60f4e66F8e34c3F736",
+  "address": "0x08f7be99ed83369541501d60f4e66f8e34c3f736",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

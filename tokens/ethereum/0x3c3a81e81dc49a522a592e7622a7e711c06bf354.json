@@ -1,7 +1,7 @@
 {
   "symbol": "mnt",
   "name": "Mantle",
-  "address": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+  "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dawae",
   "name": "Dawae",
-  "address": "0x2A897De60073E13c1f34f672033c1C1D08657FbB",
+  "address": "0x2a897de60073e13c1f34f672033c1c1d08657fbb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "DZSs9nHSr9BBunLNWd6PDstesJ4PBLMFVK1GbZ9urYNZ",
     "base": "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f",
     "ethereum": "0x2a897de60073e13c1f34f672033c1c1d08657fbb",
     "binance-smart-chain": "0xb42fc163f95332552a824020f15ed81ee7f0ce78",

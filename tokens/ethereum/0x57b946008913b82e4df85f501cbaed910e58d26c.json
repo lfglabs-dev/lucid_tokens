@@ -1,7 +1,7 @@
 {
   "symbol": "pond",
   "name": "Marlin",
-  "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
+  "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "fatguy",
   "name": "FAT GUY",
-  "address": "0x5277f67A2BE2e1A241613c357F26Ae12458BF2C9",
+  "address": "0x5277f67a2be2e1a241613c357f26ae12458bf2c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

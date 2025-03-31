@@ -1,7 +1,7 @@
 {
   "symbol": "vanry",
   "name": "Vanar Chain",
-  "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+  "address": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

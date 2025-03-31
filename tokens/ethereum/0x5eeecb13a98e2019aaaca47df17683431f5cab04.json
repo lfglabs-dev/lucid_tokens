@@ -1,7 +1,7 @@
 {
   "symbol": "ssdx",
   "name": "SpunkySDX",
-  "address": "0x5eeecb13a98e2019aaacA47DF17683431F5CAb04",
+  "address": "0x5eeecb13a98e2019aaaca47df17683431f5cab04",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

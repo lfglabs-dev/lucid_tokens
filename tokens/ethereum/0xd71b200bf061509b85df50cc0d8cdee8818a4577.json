@@ -1,7 +1,7 @@
 {
   "symbol": "coin.d",
   "name": "Dinari COIN",
-  "address": "0xd71B200bF061509B85dF50Cc0D8CDee8818A4577",
+  "address": "0xd71b200bf061509b85df50cc0d8cdee8818a4577",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

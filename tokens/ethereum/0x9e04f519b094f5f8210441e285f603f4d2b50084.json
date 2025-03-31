@@ -1,7 +1,7 @@
 {
   "symbol": "1earth",
   "name": "EarthFund",
-  "address": "0x9e04F519b094F5F8210441e285f603f4d2b50084",
+  "address": "0x9e04f519b094f5f8210441e285f603f4d2b50084",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

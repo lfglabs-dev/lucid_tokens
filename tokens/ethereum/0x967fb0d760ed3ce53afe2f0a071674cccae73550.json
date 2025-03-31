@@ -1,7 +1,7 @@
 {
   "symbol": "xeta",
   "name": "XANA",
-  "address": "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550",
+  "address": "0x967fb0d760ed3ce53afe2f0a071674cccae73550",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

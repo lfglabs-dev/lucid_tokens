@@ -1,7 +1,7 @@
 {
   "symbol": "pussy",
   "name": "Pussy Financial",
-  "address": "0x9196E18Bc349B1F64Bc08784eaE259525329a1ad",
+  "address": "0x9196e18bc349b1f64bc08784eae259525329a1ad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x9196e18bc349b1f64bc08784eae259525329a1ad",
-    "binance-smart-chain": "0xd9e8d20bde081600fac0d94b88eafaddce55aa43",
-    "solana": "HptE1m1U5DanCEhhttTmPpG32KepPoaC4AfdkBiC6UZG"
+    "binance-smart-chain": "0xd9e8d20bde081600fac0d94b88eafaddce55aa43"
   }
 }

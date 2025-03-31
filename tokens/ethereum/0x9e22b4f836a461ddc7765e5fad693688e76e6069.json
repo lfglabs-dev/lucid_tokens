@@ -1,7 +1,7 @@
 {
   "symbol": "chad",
   "name": "Chad Frog",
-  "address": "0x9e22B4f836a461ddC7765E5fAd693688e76E6069",
+  "address": "0x9e22b4f836a461ddc7765e5fad693688e76e6069",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

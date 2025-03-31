@@ -1,7 +1,7 @@
 {
   "symbol": "brrr.d",
   "name": "Dinari BRRR",
-  "address": "0xF12a38e6e51913eA04D70dBa97D7420a13Fd7941",
+  "address": "0xf12a38e6e51913ea04d70dba97d7420a13fd7941",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

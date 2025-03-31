@@ -1,7 +1,7 @@
 {
   "symbol": "xvs",
   "name": "Venus",
-  "address": "0xd3CC9d8f3689B83c91b7B59cAB4946B063EB894A",
+  "address": "0xd3cc9d8f3689b83c91b7b59cab4946b063eb894a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "gburn",
   "name": "GBURN",
-  "address": "0x4eEa762311BE76f9071aa01058C047ad12A017A1",
+  "address": "0x4eea762311be76f9071aa01058c047ad12a017a1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

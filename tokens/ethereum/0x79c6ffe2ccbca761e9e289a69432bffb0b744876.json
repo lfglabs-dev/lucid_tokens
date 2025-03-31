@@ -1,7 +1,7 @@
 {
   "symbol": "pineowl",
   "name": "Pineapple Owl",
-  "address": "0x79C6Ffe2ccBca761e9E289A69432bFfB0b744876",
+  "address": "0x79c6ffe2ccbca761e9e289a69432bffb0b744876",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

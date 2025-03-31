@@ -1,7 +1,7 @@
 {
   "symbol": "mnft",
   "name": "Mongol NFT",
-  "address": "0x3235B13708F178Af6F110dE7177ED5De10c1093d",
+  "address": "0x3235b13708f178af6f110de7177ed5de10c1093d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

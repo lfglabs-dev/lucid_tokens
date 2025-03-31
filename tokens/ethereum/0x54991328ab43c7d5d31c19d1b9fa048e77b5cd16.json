@@ -1,7 +1,7 @@
 {
   "symbol": "soil",
   "name": "Soil",
-  "address": "0x54991328Ab43c7D5d31C19d1B9fa048E77B5cd16",
+  "address": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

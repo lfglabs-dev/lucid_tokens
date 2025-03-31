@@ -1,7 +1,7 @@
 {
   "symbol": "cuni",
   "name": "cUNI",
-  "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
+  "address": "0x35a18000230da775cac24873d00ff85bccded550",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

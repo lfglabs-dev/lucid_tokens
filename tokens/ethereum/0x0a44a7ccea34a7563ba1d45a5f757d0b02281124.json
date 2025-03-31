@@ -1,7 +1,7 @@
 {
   "symbol": "bbl",
   "name": "BlockBlend",
-  "address": "0x0a44A7ccEa34A7563Ba1D45A5F757d0B02281124",
+  "address": "0x0a44a7ccea34a7563ba1d45a5f757d0b02281124",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

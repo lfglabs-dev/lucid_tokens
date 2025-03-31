@@ -1,7 +1,7 @@
 {
   "symbol": "pepinu",
   "name": "Pepinu",
-  "address": "0x68f108FB7141FFe36B832c5c225D9e7e474BD664",
+  "address": "0x68f108fb7141ffe36b832c5c225d9e7e474bd664",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

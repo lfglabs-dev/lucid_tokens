@@ -1,7 +1,7 @@
 {
   "symbol": "opm",
   "name": "OpMentis",
-  "address": "0xedA8DB2F0F8F00f0aeDD6Fdd756402Ed86cd002f",
+  "address": "0xeda8db2f0f8f00f0aedd6fdd756402ed86cd002f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

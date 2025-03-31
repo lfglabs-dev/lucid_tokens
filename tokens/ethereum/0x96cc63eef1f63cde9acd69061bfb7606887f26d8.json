@@ -1,7 +1,7 @@
 {
   "symbol": "bvr",
   "name": "Basketballverse",
-  "address": "0x96cc63EeF1F63CDE9ACd69061Bfb7606887f26d8",
+  "address": "0x96cc63eef1f63cde9acd69061bfb7606887f26d8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

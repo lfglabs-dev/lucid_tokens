@@ -1,7 +1,7 @@
 {
   "symbol": "conwai",
   "name": "Conwai",
-  "address": "0x2b117f0a9a56dDDAAF0257b476BfC39ca7E6Fda1",
+  "address": "0x2b117f0a9a56dddaaf0257b476bfc39ca7e6fda1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "volt",
   "name": "Volt Inu",
-  "address": "0x7f792db54B0e580Cdc755178443f0430Cf799aCa",
+  "address": "0x7f792db54b0e580cdc755178443f0430cf799aca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

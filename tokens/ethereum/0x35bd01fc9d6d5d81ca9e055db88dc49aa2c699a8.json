@@ -1,7 +1,7 @@
 {
   "symbol": "fwb",
   "name": "Friends With Benefits Pro",
-  "address": "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8",
+  "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

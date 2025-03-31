@@ -1,7 +1,7 @@
 {
   "symbol": "$wolf",
   "name": "Wolf of Wall Street",
-  "address": "0x8365332d4bAf69BC24CA2401B90c3853ab9F818e",
+  "address": "0x8365332d4baf69bc24ca2401b90c3853ab9f818e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

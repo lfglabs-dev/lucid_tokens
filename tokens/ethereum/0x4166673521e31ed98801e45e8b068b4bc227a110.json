@@ -1,7 +1,7 @@
 {
   "symbol": "ponzie",
   "name": "Ponzi Express",
-  "address": "0x4166673521e31eD98801E45e8b068b4bC227A110",
+  "address": "0x4166673521e31ed98801e45e8b068b4bc227a110",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

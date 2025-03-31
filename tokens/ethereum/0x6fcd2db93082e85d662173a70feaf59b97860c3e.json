@@ -1,7 +1,7 @@
 {
   "symbol": "seai",
   "name": "ServeFi AI",
-  "address": "0x6FcD2DB93082e85d662173a70feAf59B97860c3E",
+  "address": "0x6fcd2db93082e85d662173a70feaf59b97860c3e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

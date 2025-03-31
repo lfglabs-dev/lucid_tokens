@@ -24,44 +24,52 @@ fs.ensureDirSync(outputDir);
 // Progress spinner
 const spinner = ora('Processing tokens').start();
 
-async function validateAddress(address) {
+function normalizeAddress(address) {
   try {
-    return ethers.utils.getAddress(address);
+    return ethers.utils.getAddress(address).toLowerCase();
   } catch (error) {
     return null;
   }
 }
 
 async function processToken(token, chain, address) {
+  // Normalize the address
+  const normalizedAddress = normalizeAddress(address);
+  if (!normalizedAddress) {
+    console.warn(`Invalid address for token ${token.symbol} on chain ${chain}: ${address}`);
+    return;
+  }
+
   const chainDir = path.join(outputDir, chain);
-  const tokenFile = path.join(chainDir, `${address}.json`);
+  const tokenFile = path.join(chainDir, `${normalizedAddress}.json`);
 
   // Skip if file exists and force is not set
   if (fs.existsSync(tokenFile) && !options.force) {
     return;
   }
 
-  // Validate address
-  const validAddress = await validateAddress(address);
-  if (!validAddress) {
-    console.warn(`Invalid address for token ${token.symbol} on chain ${chain}`);
-    return;
-  }
-
-  // Create token data structure
+  // Create token data structure with normalized addresses
   const tokenData = {
     symbol: token.symbol,
     name: token.name,
-    address: validAddress,
+    address: normalizedAddress,
     decimals: token.decimals || 18,
     type: 'ERC20',
     logo: token.logoURI ? {
       src: token.logoURI,
-      width: '32',
-      height: '32'
+      width: "32",
+      height: "32"
     } : undefined,
-    platforms: token.platforms || {}
+    platforms: {}
   };
+
+  // Normalize all platform addresses
+  for (const [platformChain, platformAddress] of Object.entries(token.platforms || {})) {
+    const normalizedPlatformAddress = normalizeAddress(platformAddress);
+    if (normalizedPlatformAddress) {
+      tokenData.platforms[platformChain] = normalizedPlatformAddress;
+    }
+  }
 
   // Ensure chain directory exists
   fs.ensureDirSync(chainDir);

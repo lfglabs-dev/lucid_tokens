@@ -1,7 +1,7 @@
 {
   "symbol": "crippl",
   "name": "Wheelchair Cat",
-  "address": "0xBb712C77b69256934cDf2f630a2317ac82570388",
+  "address": "0xbb712c77b69256934cdf2f630a2317ac82570388",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

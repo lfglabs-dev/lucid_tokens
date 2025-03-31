@@ -1,7 +1,7 @@
 {
   "symbol": "busy",
   "name": "Busy",
-  "address": "0x5CB3ce6D081fB00d5f6677d196f2d70010EA3f4a",
+  "address": "0x5cb3ce6d081fb00d5f6677d196f2d70010ea3f4a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

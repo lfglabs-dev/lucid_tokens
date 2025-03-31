@@ -1,7 +1,7 @@
 {
   "symbol": "legend",
   "name": "Legend",
-  "address": "0x1B1FF83AE0751ffb7ce0224e9C330e859E95dD16",
+  "address": "0x1b1ff83ae0751ffb7ce0224e9c330e859e95dd16",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

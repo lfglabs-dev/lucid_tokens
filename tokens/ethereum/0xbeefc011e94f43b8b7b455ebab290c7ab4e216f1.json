@@ -1,7 +1,7 @@
 {
   "symbol": "csusdl",
   "name": "Coinshift USDL Morpho Vault",
-  "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+  "address": "0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

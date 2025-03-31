@@ -1,7 +1,7 @@
 {
   "symbol": "magic",
   "name": "Magnificent 7777",
-  "address": "0x435cbF7C09e01D6a07B9997770f7b9d1AB754020",
+  "address": "0x435cbf7c09e01d6a07b9997770f7b9d1ab754020",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

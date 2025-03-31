@@ -1,7 +1,7 @@
 {
   "symbol": "baked",
   "name": "Baked",
-  "address": "0xa4cb0dCe4849BdcAd2d553E9e68644Cf40E26ccE",
+  "address": "0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

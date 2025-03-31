@@ -1,7 +1,7 @@
 {
   "symbol": "eko",
   "name": "EchoLinkV8",
-  "address": "0xb1f8302eE205bfE27514cD7185A3FC69BbbDB284",
+  "address": "0xb1f8302ee205bfe27514cd7185a3fc69bbbdb284",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

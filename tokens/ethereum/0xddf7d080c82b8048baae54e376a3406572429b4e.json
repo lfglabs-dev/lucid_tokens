@@ -1,7 +1,7 @@
 {
   "symbol": "oooooo",
   "name": "GODDOG",
-  "address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+  "address": "0xddf7d080c82b8048baae54e376a3406572429b4e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

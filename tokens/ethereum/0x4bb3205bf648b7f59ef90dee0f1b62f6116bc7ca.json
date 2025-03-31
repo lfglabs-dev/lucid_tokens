@@ -1,7 +1,7 @@
 {
   "symbol": "byn",
   "name": "NBX",
-  "address": "0x4Bb3205bf648B7F59EF90Dee0F1B62F6116Bc7ca",
+  "address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

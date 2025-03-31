@@ -1,7 +1,7 @@
 {
   "symbol": "sat",
   "name": "Super Athletes Token",
-  "address": "0x5ABf88cF3444611D13F6D1B39F3f3EE8575c91a2",
+  "address": "0x5abf88cf3444611d13f6d1b39f3f3ee8575c91a2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

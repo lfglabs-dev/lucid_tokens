@@ -1,7 +1,7 @@
 {
   "symbol": "bsl",
   "name": "BankSocial",
-  "address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+  "address": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
-    "hedera-hashgraph": "0.0.4431990",
     "binance-smart-chain": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac"
   }
 }

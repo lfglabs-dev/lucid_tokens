@@ -1,7 +1,7 @@
 {
   "symbol": "simai",
   "name": "Simian AI",
-  "address": "0x90f29ccD18c9181A9243EfF8f7546eef4b64994c",
+  "address": "0x90f29ccd18c9181a9243eff8f7546eef4b64994c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

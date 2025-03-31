@@ -1,7 +1,7 @@
 {
   "symbol": "pandora",
   "name": "Pandora",
-  "address": "0x9E9FbDE7C7a83c43913BddC8779158F1368F0413",
+  "address": "0x9e9fbde7c7a83c43913bddc8779158f1368f0413",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bac.d",
   "name": "Dinari BAC",
-  "address": "0x6c1aa3dd4195522FFD963215A13416324eaF9216",
+  "address": "0x6c1aa3dd4195522ffd963215a13416324eaf9216",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

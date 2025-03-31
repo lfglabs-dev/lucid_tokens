@@ -1,7 +1,7 @@
 {
   "symbol": "wcd",
   "name": "WcDonalds",
-  "address": "0x79349edD0B8E83ffaa1AF2E6BA0C8CE87731C267",
+  "address": "0x79349edd0b8e83ffaa1af2e6ba0c8ce87731c267",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

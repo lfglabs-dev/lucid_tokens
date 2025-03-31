@@ -1,7 +1,7 @@
 {
   "symbol": "pika",
   "name": "Pikaboss",
-  "address": "0xa9D54F37EbB99f83B603Cc95fc1a5f3907AacCfd",
+  "address": "0xa9d54f37ebb99f83b603cc95fc1a5f3907aaccfd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

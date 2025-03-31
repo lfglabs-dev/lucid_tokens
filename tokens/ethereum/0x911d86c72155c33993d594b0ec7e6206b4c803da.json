@@ -1,7 +1,7 @@
 {
   "symbol": "wstlink",
   "name": "Wrapped Staked LINK",
-  "address": "0x911D86C72155c33993d594B0Ec7E6206B4C803da",
+  "address": "0x911d86c72155c33993d594b0ec7e6206b4c803da",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "hinu",
   "name": "Hokkaido Inu Token",
-  "address": "0x0113C07B3b8E4F41B62D713B5b12616bF2856585",
+  "address": "0x0113c07b3b8e4f41b62d713b5b12616bf2856585",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

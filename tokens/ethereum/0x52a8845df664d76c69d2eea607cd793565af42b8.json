@@ -1,7 +1,7 @@
 {
   "symbol": "apex",
   "name": "ApeX",
-  "address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8",
+  "address": "0x52a8845df664d76c69d2eea607cd793565af42b8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "opium",
   "name": "Opium",
-  "address": "0x888888888889C00c67689029D7856AAC1065eC11",
+  "address": "0x888888888889c00c67689029d7856aac1065ec11",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

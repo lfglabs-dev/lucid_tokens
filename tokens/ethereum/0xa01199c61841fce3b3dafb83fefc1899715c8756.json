@@ -1,7 +1,7 @@
 {
   "symbol": "cirus",
   "name": "Cirus",
-  "address": "0xA01199c61841Fce3b3daFB83FeFC1899715c8756",
+  "address": "0xa01199c61841fce3b3dafb83fefc1899715c8756",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

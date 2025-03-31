@@ -1,7 +1,7 @@
 {
   "symbol": "2dai",
   "name": "2DAI.io",
-  "address": "0xB44b653f147569d88a684cBf6549e1968E8B2A1d",
+  "address": "0xb44b653f147569d88a684cbf6549e1968e8b2a1d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

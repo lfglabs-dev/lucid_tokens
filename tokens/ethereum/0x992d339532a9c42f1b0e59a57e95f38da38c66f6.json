@@ -1,7 +1,7 @@
 {
   "symbol": "soul",
   "name": "Soulsaver",
-  "address": "0x992D339532A9C42F1b0E59A57e95F38da38c66F6",
+  "address": "0x992d339532a9c42f1b0e59a57e95f38da38c66f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

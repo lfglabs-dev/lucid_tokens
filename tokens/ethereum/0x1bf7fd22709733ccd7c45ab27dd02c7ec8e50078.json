@@ -1,7 +1,7 @@
 {
   "symbol": "qtcon",
   "name": "Quiztok",
-  "address": "0x1bF7Fd22709733cCD7c45AB27Dd02C7EC8E50078",
+  "address": "0x1bf7fd22709733ccd7c45ab27dd02c7ec8e50078",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x1bf7fd22709733ccd7c45ab27dd02c7ec8e50078",
-    "solana": "DkNihsQs1hqEwf9TgKP8FmGv7dmMQ7hnKjS2ZSmMZZBE"
+    "ethereum": "0x1bf7fd22709733ccd7c45ab27dd02c7ec8e50078"
   }
 }

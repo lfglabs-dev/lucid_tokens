@@ -1,7 +1,7 @@
 {
   "symbol": "what",
   "name": "WhatAI",
-  "address": "0x3f98eE6644B2C68a800C08fEfA97e6ecfbdBa248",
+  "address": "0x3f98ee6644b2c68a800c08fefa97e6ecfbdba248",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

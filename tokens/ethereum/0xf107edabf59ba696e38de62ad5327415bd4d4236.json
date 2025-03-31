@@ -1,7 +1,7 @@
 {
   "symbol": "slap",
   "name": "CatSlap",
-  "address": "0xF107edABF59ba696E38DE62Ad5327415Bd4D4236",
+  "address": "0xf107edabf59ba696e38de62ad5327415bd4d4236",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

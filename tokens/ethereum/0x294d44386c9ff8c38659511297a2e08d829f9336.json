@@ -1,7 +1,7 @@
 {
   "symbol": "army",
   "name": "Army",
-  "address": "0x294D44386C9ff8c38659511297a2E08d829f9336",
+  "address": "0x294d44386c9ff8c38659511297a2e08d829f9336",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

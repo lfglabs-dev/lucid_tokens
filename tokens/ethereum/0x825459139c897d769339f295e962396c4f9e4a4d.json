@@ -1,7 +1,7 @@
 {
   "symbol": "game",
   "name": "GameBuild",
-  "address": "0x825459139C897D769339f295E962396C4F9E4A4D",
+  "address": "0x825459139c897d769339f295e962396c4f9e4a4d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

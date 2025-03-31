@@ -1,7 +1,7 @@
 {
   "symbol": "sivr.d",
   "name": "Dinari SIVR",
-  "address": "0xE36Fb561DCc177492DA42A6BA5fD4A9d0987bfE2",
+  "address": "0xe36fb561dcc177492da42a6ba5fd4a9d0987bfe2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "speed",
   "name": "Lightspeed",
-  "address": "0xB01CF1bE9568f09449382a47Cd5bF58e2A9D5922",
+  "address": "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

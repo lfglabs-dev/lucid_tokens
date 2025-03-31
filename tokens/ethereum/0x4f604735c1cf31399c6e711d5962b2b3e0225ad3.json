@@ -1,7 +1,7 @@
 {
   "symbol": "usdglo",
   "name": "Glo Dollar",
-  "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+  "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -14,7 +14,6 @@
     "optimistic-ethereum": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
     "vechain": "0x29c630cce4ddb23900f5fe66ab55e488c15b9f5e",
     "celo": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
-    "stellar": "USDGLO-GBBS25EGYQPGEZCGCFBKG4OAGFXU6DSOQBGTHELLJT3HZXZJ34HWS6XV",
     "arbitrum-one": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
     "polygon-pos": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
     "base": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"

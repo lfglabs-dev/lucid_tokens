@@ -1,7 +1,7 @@
 {
   "symbol": "bb",
   "name": "BounceBit",
-  "address": "0xd459ECeddafcc1d876a3be7290A2E16e801073a3",
+  "address": "0xd459eceddafcc1d876a3be7290a2e16e801073a3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

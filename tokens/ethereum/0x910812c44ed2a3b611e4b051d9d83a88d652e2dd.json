@@ -1,7 +1,7 @@
 {
   "symbol": "pledge",
   "name": "Pledge",
-  "address": "0x910812c44eD2a3B611E4b051d9D83A88d652E2DD",
+  "address": "0x910812c44ed2a3b611e4b051d9d83a88d652e2dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

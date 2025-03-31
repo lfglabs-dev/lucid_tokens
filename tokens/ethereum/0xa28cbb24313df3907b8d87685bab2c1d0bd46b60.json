@@ -1,7 +1,7 @@
 {
   "symbol": "atx",
   "name": "AUTOMATIX",
-  "address": "0xA28CbB24313dF3907b8D87685bAb2c1d0bd46B60",
+  "address": "0xa28cbb24313df3907b8d87685bab2c1d0bd46b60",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

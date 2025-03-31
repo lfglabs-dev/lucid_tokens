@@ -1,7 +1,7 @@
 {
   "symbol": "onus",
   "name": "ONUS",
-  "address": "0x4184Aa04215e5d716dD4C213FeD519aCADc68f92",
+  "address": "0x4184aa04215e5d716dd4c213fed519acadc68f92",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

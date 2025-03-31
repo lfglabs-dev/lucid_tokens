@@ -1,7 +1,7 @@
 {
   "symbol": "mbag",
   "name": "MoonBag",
-  "address": "0xa7F4195F10F1a62B102bD683eAB131d657A6c6e4",
+  "address": "0xa7f4195f10f1a62b102bd683eab131d657a6c6e4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

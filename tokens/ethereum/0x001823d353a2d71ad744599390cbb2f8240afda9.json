@@ -1,7 +1,7 @@
 {
   "symbol": "cherry",
   "name": "cherrypicksAI",
-  "address": "0x001823D353A2D71AD744599390cBB2f8240aFda9",
+  "address": "0x001823d353a2d71ad744599390cbb2f8240afda9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

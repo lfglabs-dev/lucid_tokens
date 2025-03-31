@@ -1,7 +1,7 @@
 {
   "symbol": "pyr",
   "name": "Vulcan Forged",
-  "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+  "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

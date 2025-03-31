@@ -1,7 +1,7 @@
 {
   "symbol": "nvg8",
   "name": "Navigate",
-  "address": "0x5d6Cae0422A950dbd7918D1e74434A35156b3Ba4",
+  "address": "0x5d6cae0422a950dbd7918d1e74434a35156b3ba4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

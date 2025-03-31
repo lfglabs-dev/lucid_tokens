@@ -1,7 +1,7 @@
 {
   "symbol": "ush",
   "name": "unshETHing_Token",
-  "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
+  "address": "0xe60779cc1b2c1d0580611c526a8df0e3f870ec48",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

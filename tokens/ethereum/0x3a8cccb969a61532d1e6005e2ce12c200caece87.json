@@ -1,7 +1,7 @@
 {
   "symbol": "titan",
   "name": "TitanSwap",
-  "address": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+  "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

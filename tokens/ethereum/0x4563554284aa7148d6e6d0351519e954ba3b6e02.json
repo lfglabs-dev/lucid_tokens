@@ -1,7 +1,7 @@
 {
   "symbol": "rwa",
   "name": "Xend Finance",
-  "address": "0x4563554284aA7148D6E6D0351519E954Ba3B6E02",
+  "address": "0x4563554284aa7148d6e6d0351519e954ba3b6e02",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

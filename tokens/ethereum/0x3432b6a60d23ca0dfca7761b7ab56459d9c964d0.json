@@ -1,7 +1,7 @@
 {
   "symbol": "fxs",
   "name": "Frax Share",
-  "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+  "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -20,7 +20,6 @@
     "fantom": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
     "avalanche": "0x214db107654ff987ad859f34125307783fc8e387",
     "arbitrum-one": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
-    "polygon-pos": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
-    "solana": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct"
+    "polygon-pos": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062"
   }
 }

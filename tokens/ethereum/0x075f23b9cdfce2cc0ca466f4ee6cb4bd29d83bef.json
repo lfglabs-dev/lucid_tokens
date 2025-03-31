@@ -1,7 +1,7 @@
 {
   "symbol": "pundiai",
   "name": "Pundi AI",
-  "address": "0x075F23b9CdfCE2cC0cA466F4eE6cb4bD29d83bef",
+  "address": "0x075f23b9cdfce2cc0ca466f4ee6cb4bd29d83bef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

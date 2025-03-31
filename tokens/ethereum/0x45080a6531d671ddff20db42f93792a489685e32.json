@@ -1,7 +1,7 @@
 {
   "symbol": "fvt",
   "name": "Finance Vote",
-  "address": "0x45080a6531d671DDFf20DB42f93792a489685e32",
+  "address": "0x45080a6531d671ddff20db42f93792a489685e32",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "byte",
   "name": "Byte",
-  "address": "0xdE342A3E269056fc3305f9e315F4C40D917BA521",
+  "address": "0xde342a3e269056fc3305f9e315f4c40d917ba521",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -13,7 +13,6 @@
     "ethereum": "0xde342a3e269056fc3305f9e315f4c40d917ba521",
     "binance-smart-chain": "0x840ef7e5f896be71d46df234c60898216fefcbe3",
     "arbitrum-one": "0x847503fbf003ce8b005546aa3c03b80b7c2f9771",
-    "base": "0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4",
-    "solana": "ArGfk9JJ72QETcmckxVjCZ9ApuATgP1mf9ysVHnPU4ut"
+    "base": "0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4"
   }
 }

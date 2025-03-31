@@ -1,7 +1,7 @@
 {
   "symbol": "swpr",
   "name": "Swapr",
-  "address": "0x6cAcDB97e3fC8136805a9E7c342d866ab77D0957",
+  "address": "0x6cacdb97e3fc8136805a9e7c342d866ab77d0957",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

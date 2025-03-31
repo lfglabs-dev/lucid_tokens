@@ -1,7 +1,7 @@
 {
   "symbol": "mai",
   "name": "MAI",
-  "address": "0x71d898c440aF10566CEa48e12C01F435eC788c7A",
+  "address": "0x71d898c440af10566cea48e12c01f435ec788c7a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

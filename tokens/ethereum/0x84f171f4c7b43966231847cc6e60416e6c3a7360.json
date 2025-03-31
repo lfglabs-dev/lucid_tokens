@@ -1,7 +1,7 @@
 {
   "symbol": "evai",
   "name": "EVA Intelligence",
-  "address": "0x84F171f4c7b43966231847cc6e60416E6C3A7360",
+  "address": "0x84f171f4c7b43966231847cc6e60416e6c3a7360",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

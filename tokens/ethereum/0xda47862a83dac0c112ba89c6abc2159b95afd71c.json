@@ -1,7 +1,7 @@
 {
   "symbol": "prisma",
   "name": "Prisma Governance Token",
-  "address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C",
+  "address": "0xda47862a83dac0c112ba89c6abc2159b95afd71c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

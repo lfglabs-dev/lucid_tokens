@@ -1,7 +1,7 @@
 {
   "symbol": "ocp404",
   "name": "OnChain Pepe 404",
-  "address": "0xB87b96868644d99Cc70a8565BA7311482eDEBF6e",
+  "address": "0xb87b96868644d99cc70a8565ba7311482edebf6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

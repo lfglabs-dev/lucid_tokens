@@ -1,7 +1,7 @@
 {
   "symbol": "quidd",
   "name": "Quidd",
-  "address": "0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07",
+  "address": "0xda9fdab21bc4a5811134a6e0ba6ca06624e67c07",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

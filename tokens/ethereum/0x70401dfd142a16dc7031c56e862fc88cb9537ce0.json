@@ -1,7 +1,7 @@
 {
   "symbol": "bird",
   "name": "Bird.Money",
-  "address": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
+  "address": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0",
-    "binance-smart-chain": "0x8780fea4c6b242677d4a397fe1110ac09ce99ad2",
-    "solana": "FTPnEQ3NfRRZ9tvmpDW6JFrvweBE5sanxnXSpJL1dvbB"
+    "binance-smart-chain": "0x8780fea4c6b242677d4a397fe1110ac09ce99ad2"
   }
 }

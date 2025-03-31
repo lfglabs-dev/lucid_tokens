@@ -1,7 +1,7 @@
 {
   "symbol": "pixl",
   "name": "PIXL",
-  "address": "0x427A03Fb96D9A94A6727fbcfbBA143444090dd64",
+  "address": "0x427a03fb96d9a94a6727fbcfbba143444090dd64",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

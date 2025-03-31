@@ -1,7 +1,7 @@
 {
   "symbol": "spot",
   "name": "Spot",
-  "address": "0xC1f33e0cf7e40a67375007104B929E49a581bafE",
+  "address": "0xc1f33e0cf7e40a67375007104b929e49a581bafe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "soma",
   "name": "SOMA.finance",
-  "address": "0x77163C968c2506077dBe74838DEA72314A2D5760",
+  "address": "0x77163c968c2506077dbe74838dea72314a2d5760",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

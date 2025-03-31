@@ -1,7 +1,7 @@
 {
   "symbol": "moros",
   "name": "MOROS NET",
-  "address": "0xAb85fc558d722A2b7c040FfB77dB676Bd9e7D322",
+  "address": "0xab85fc558d722a2b7c040ffb77db676bd9e7d322",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

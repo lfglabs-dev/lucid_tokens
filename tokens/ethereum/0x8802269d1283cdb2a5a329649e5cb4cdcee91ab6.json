@@ -1,7 +1,7 @@
 {
   "symbol": "fight",
   "name": "Fight to MAGA",
-  "address": "0x8802269D1283cdB2a5a329649E5cB4CdcEE91ab6",
+  "address": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

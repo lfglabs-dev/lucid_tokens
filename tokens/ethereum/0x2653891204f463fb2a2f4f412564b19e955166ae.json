@@ -1,7 +1,7 @@
 {
   "symbol": "ngl",
   "name": "Gold Fever Native Gold",
-  "address": "0x2653891204F463fb2a2F4f412564b19e955166aE",
+  "address": "0x2653891204f463fb2a2f4f412564b19e955166ae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

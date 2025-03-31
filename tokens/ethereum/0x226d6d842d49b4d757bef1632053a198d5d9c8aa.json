@@ -1,7 +1,7 @@
 {
   "symbol": "block",
   "name": "Block Browser",
-  "address": "0x226d6d842D49b4D757bEf1632053a198D5D9c8aA",
+  "address": "0x226d6d842d49b4d757bef1632053a198d5d9c8aa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

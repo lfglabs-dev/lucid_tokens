@@ -1,7 +1,7 @@
 {
   "symbol": "cat",
   "name": "Catcoin",
-  "address": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
+  "address": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "binance-smart-chain": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
-    "ethereum": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
-    "solana": "7hWcHohzwtLddDUG81H2PkWq6KEkMtSDNkYXsso18Fy3"
+    "ethereum": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a"
   }
 }

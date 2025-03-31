@@ -1,7 +1,7 @@
 {
   "symbol": "dss",
   "name": "Defi Shopping Stake",
-  "address": "0x213C53C96A01a89E6Dcc5683cF16473203E17513",
+  "address": "0x213c53c96a01a89e6dcc5683cf16473203e17513",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

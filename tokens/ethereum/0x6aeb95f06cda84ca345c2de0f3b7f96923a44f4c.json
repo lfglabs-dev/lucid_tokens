@@ -1,7 +1,7 @@
 {
   "symbol": "berry",
   "name": "Rentberry",
-  "address": "0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
+  "address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

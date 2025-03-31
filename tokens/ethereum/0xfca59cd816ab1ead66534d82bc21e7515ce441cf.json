@@ -1,7 +1,7 @@
 {
   "symbol": "rari",
   "name": "RARI",
-  "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+  "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

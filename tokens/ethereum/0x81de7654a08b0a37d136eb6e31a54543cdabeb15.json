@@ -1,7 +1,7 @@
 {
   "symbol": "odds",
   "name": "OddsNotify",
-  "address": "0x81De7654a08B0A37D136EB6e31a54543cDAbEb15",
+  "address": "0x81de7654a08b0a37d136eb6e31a54543cdabeb15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

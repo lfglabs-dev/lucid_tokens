@@ -1,7 +1,7 @@
 {
   "symbol": "meme",
   "name": "Memecoin",
-  "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+  "address": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "standard",
   "name": "Construct",
-  "address": "0xDA0c94c73D127eE191955FB46bACd7FF999b2bcd",
+  "address": "0xda0c94c73d127ee191955fb46bacd7ff999b2bcd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

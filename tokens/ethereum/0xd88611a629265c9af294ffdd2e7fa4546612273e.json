@@ -1,7 +1,7 @@
 {
   "symbol": "mpro",
   "name": "Metapro",
-  "address": "0xD88611A629265C9AF294FFDD2E7fa4546612273e",
+  "address": "0xd88611a629265c9af294ffdd2e7fa4546612273e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

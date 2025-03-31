@@ -1,7 +1,7 @@
 {
   "symbol": "brtr",
   "name": "Barter",
-  "address": "0xF0ACF8949e705E0ebb6CB42c2164B0B986454223",
+  "address": "0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

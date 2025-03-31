@@ -1,7 +1,7 @@
 {
   "symbol": "dti",
   "name": "DT Inu",
-  "address": "0x0880164084017b8d49Baa0A33F545aD55914E9Fd",
+  "address": "0x0880164084017b8d49baa0a33f545ad55914e9fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x0880164084017b8d49baa0a33f545ad55914e9fd",
-    "solana": "5bncsbJ61PCmqbiK97awnKzvaXgFkmszmGpamBQh3AHA"
+    "ethereum": "0x0880164084017b8d49baa0a33f545ad55914e9fd"
   }
 }

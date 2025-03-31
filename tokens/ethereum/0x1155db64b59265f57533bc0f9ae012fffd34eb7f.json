@@ -1,7 +1,7 @@
 {
   "symbol": "yaku",
   "name": "Yaku",
-  "address": "0x1155DB64b59265F57533bC0f9AE012FfFd34eB7F",
+  "address": "0x1155db64b59265f57533bc0f9ae012fffd34eb7f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "AqEHVh8J2nXH9saV2ciZyYwPpqWFRfD2ffcq5Z8xxqm5",
     "ethereum": "0x1155db64b59265f57533bc0f9ae012fffd34eb7f",
     "arbitrum-one": "0xb00eaedb98f1e30ad545703d8ff14b24d109514f"
   }

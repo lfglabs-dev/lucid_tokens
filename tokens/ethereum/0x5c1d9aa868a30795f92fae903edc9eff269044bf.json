@@ -1,7 +1,7 @@
 {
   "symbol": "cng",
   "name": "Changer",
-  "address": "0x5C1d9aA868a30795F92fAe903eDc9eFF269044bf",
+  "address": "0x5c1d9aa868a30795f92fae903edc9eff269044bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

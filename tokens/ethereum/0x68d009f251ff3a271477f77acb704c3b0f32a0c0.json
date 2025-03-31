@@ -1,7 +1,7 @@
 {
   "symbol": "chad",
   "name": "CHAD",
-  "address": "0x68d009F251FF3a271477F77aCb704C3b0F32a0c0",
+  "address": "0x68d009f251ff3a271477f77acb704c3b0f32a0c0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

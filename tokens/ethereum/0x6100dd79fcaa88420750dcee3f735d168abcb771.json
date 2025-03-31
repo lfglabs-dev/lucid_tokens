@@ -1,7 +1,7 @@
 {
   "symbol": "os",
   "name": "Ethereans",
-  "address": "0x6100dd79fCAA88420750DceE3F735d168aBcB771",
+  "address": "0x6100dd79fcaa88420750dcee3f735d168abcb771",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

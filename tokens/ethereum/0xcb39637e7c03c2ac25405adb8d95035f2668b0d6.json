@@ -1,7 +1,7 @@
 {
   "symbol": "algt",
   "name": "AlgoTrade",
-  "address": "0xcb39637e7C03c2AC25405adb8d95035f2668b0d6",
+  "address": "0xcb39637e7c03c2ac25405adb8d95035f2668b0d6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

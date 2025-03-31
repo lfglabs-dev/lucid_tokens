@@ -1,7 +1,7 @@
 {
   "symbol": "pnp",
   "name": "Penpie",
-  "address": "0x7DEdBce5a2E31E4c75f87FeA60bF796C17718715",
+  "address": "0x7dedbce5a2e31e4c75f87fea60bf796c17718715",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

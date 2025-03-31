@@ -1,7 +1,7 @@
 {
   "symbol": "arth",
   "name": "ARTH",
-  "address": "0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71",
+  "address": "0x8cc0f052fff7ead7f2edcccac895502e884a8a71",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

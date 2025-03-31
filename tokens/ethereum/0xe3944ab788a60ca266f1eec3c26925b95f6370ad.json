@@ -1,7 +1,7 @@
 {
   "symbol": "rain",
   "name": "Precipitate.ai",
-  "address": "0xe3944AB788A60ca266f1eEc3C26925b95f6370aD",
+  "address": "0xe3944ab788a60ca266f1eec3c26925b95f6370ad",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

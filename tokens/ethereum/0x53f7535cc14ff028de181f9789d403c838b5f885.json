@@ -1,7 +1,7 @@
 {
   "symbol": "perpx",
   "name": "Perpex",
-  "address": "0x53F7535Cc14Ff028dE181F9789D403c838B5F885",
+  "address": "0x53f7535cc14ff028de181f9789d403c838b5f885",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

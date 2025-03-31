@@ -1,7 +1,7 @@
 {
   "symbol": "ern",
   "name": "Ethos Reserve Note",
-  "address": "0x91A69021b0BaeF3445E51726458a0CE601471846",
+  "address": "0x91a69021b0baef3445e51726458a0ce601471846",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

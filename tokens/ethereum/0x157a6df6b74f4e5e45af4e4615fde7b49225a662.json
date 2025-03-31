@@ -1,7 +1,7 @@
 {
   "symbol": "island",
   "name": "ISLAND Token",
-  "address": "0x157a6df6B74F4E5E45af4E4615FDe7B49225a662",
+  "address": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
-    "solana": "HX6zNkjJ7zy653VoDWzbaYpSg7BrgLfq4i4RA7D5nkkz",
     "base": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662"
   }
 }

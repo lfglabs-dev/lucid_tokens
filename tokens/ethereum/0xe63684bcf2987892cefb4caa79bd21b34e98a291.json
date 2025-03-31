@@ -1,7 +1,7 @@
 {
   "symbol": "kfc",
   "name": "Chicken",
-  "address": "0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+  "address": "0xe63684bcf2987892cefb4caa79bd21b34e98a291",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

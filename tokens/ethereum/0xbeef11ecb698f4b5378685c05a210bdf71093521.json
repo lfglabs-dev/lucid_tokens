@@ -1,7 +1,7 @@
 {
   "symbol": "steakrusd",
   "name": "Steakhouse RUSD Morpho Vault",
-  "address": "0xBeEf11eCb698f4B5378685C05A210bdF71093521",
+  "address": "0xbeef11ecb698f4b5378685c05a210bdf71093521",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

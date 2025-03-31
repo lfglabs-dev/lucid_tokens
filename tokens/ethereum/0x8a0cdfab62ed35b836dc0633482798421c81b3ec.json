@@ -1,7 +1,7 @@
 {
   "symbol": "sphri",
   "name": "Spherium",
-  "address": "0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec",
+  "address": "0x8a0cdfab62ed35b836dc0633482798421c81b3ec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

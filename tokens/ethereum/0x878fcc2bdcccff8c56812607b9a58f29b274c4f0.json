@@ -1,7 +1,7 @@
 {
   "symbol": "derp",
   "name": "Derp Coin",
-  "address": "0x878fCC2bdccCFf8c56812607b9a58F29b274C4f0",
+  "address": "0x878fcc2bdcccff8c56812607b9a58f29b274c4f0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

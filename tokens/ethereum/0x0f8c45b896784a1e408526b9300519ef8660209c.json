@@ -1,7 +1,7 @@
 {
   "symbol": "xmx",
   "name": "XMax",
-  "address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
+  "address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

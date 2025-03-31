@@ -1,7 +1,7 @@
 {
   "symbol": "desci",
   "name": "SUI Desci Agents",
-  "address": "0xAEc613188B1E178d42a05d352044D54854C3196a",
+  "address": "0xaec613188b1e178d42a05d352044d54854c3196a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

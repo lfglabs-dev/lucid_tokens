@@ -1,7 +1,7 @@
 {
   "symbol": "zeusd",
   "name": "ZeUSD",
-  "address": "0x7DC9748DA8E762e569F9269f48F69A1a9F8Ea761",
+  "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

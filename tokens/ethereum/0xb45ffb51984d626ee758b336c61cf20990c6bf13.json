@@ -1,7 +1,7 @@
 {
   "symbol": "rbnt",
   "name": "Redbelly Network",
-  "address": "0xb45fFB51984d626Ee758b336C61Cf20990c6bF13",
+  "address": "0xb45ffb51984d626ee758b336c61cf20990c6bf13",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

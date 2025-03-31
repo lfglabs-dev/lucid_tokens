@@ -1,7 +1,7 @@
 {
   "symbol": "isme",
   "name": "Root Protocol",
-  "address": "0x87C22DB324b8b0637C8f09d2670aE7777651dBb8",
+  "address": "0x87c22db324b8b0637c8f09d2670ae7777651dbb8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

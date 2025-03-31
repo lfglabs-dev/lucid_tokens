@@ -1,7 +1,7 @@
 {
   "symbol": "iht",
   "name": "IHT Real Estate Protocol",
-  "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

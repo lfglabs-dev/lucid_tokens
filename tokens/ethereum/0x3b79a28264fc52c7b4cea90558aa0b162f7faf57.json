@@ -1,7 +1,7 @@
 {
   "symbol": "wmemo",
   "name": "Wonderful Memories",
-  "address": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
+  "address": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

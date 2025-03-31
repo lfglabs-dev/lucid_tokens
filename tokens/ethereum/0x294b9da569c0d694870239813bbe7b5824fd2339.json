@@ -1,7 +1,7 @@
 {
   "symbol": "air",
   "name": "AIRian",
-  "address": "0x294B9dA569c0d694870239813Bbe7B5824FD2339",
+  "address": "0x294b9da569c0d694870239813bbe7b5824fd2339",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

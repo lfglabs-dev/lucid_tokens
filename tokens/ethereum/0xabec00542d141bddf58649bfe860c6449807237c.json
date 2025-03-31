@@ -1,7 +1,7 @@
 {
   "symbol": "x",
   "name": "CruxDecussata",
-  "address": "0xaBeC00542D141BDdF58649bfe860C6449807237c",
+  "address": "0xabec00542d141bddf58649bfe860c6449807237c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "kage",
   "name": "KAGE NETWORK",
-  "address": "0x64945165255bcb83f2Ef9f31a575975832CA4dB4",
+  "address": "0x64945165255bcb83f2ef9f31a575975832ca4db4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

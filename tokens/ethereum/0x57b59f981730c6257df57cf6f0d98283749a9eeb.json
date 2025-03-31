@@ -1,7 +1,7 @@
 {
   "symbol": "build",
   "name": "BUILD",
-  "address": "0x57b59f981730c6257dF57cF6F0D98283749A9Eeb",
+  "address": "0x57b59f981730c6257df57cf6f0d98283749a9eeb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

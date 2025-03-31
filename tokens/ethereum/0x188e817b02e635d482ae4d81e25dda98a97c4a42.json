@@ -1,7 +1,7 @@
 {
   "symbol": "lith",
   "name": "Lithium Finance",
-  "address": "0x188E817B02e635D482AE4D81e25DdA98A97C4a42",
+  "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

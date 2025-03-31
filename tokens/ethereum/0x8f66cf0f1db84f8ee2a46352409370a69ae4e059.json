@@ -1,7 +1,7 @@
 {
   "symbol": "$khamoo",
   "name": "Khamoo",
-  "address": "0x8f66Cf0F1DB84f8eE2a46352409370A69AE4e059",
+  "address": "0x8f66cf0f1db84f8ee2a46352409370a69ae4e059",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

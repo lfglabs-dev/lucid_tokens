@@ -1,7 +1,7 @@
 {
   "symbol": "deeznuts",
   "name": "DEEZ NUTS",
-  "address": "0x84DaD4E4A4d1510052D39e916330372db8cD1238",
+  "address": "0x84dad4e4a4d1510052d39e916330372db8cd1238",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x84dad4e4a4d1510052d39e916330372db8cd1238",
-    "solana": "FKfZ2RFyFxCGvPjwjw1DLGVbBRPfxgy6XXCcY3Gyufip"
+    "ethereum": "0x84dad4e4a4d1510052d39e916330372db8cd1238"
   }
 }

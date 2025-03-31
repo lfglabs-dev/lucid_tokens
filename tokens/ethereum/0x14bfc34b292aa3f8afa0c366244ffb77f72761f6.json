@@ -1,7 +1,7 @@
 {
   "symbol": "tnr",
   "name": "The Night Riders",
-  "address": "0x14bFc34B292AA3F8aFA0c366244fFB77F72761f6",
+  "address": "0x14bfc34b292aa3f8afa0c366244ffb77f72761f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

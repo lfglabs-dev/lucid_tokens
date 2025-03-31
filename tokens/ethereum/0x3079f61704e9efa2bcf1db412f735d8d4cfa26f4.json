@@ -1,7 +1,7 @@
 {
   "symbol": "happy",
   "name": "HappyFans",
-  "address": "0x3079F61704E9eFa2BcF1db412f735d8d4cFa26f4",
+  "address": "0x3079f61704e9efa2bcf1db412f735d8d4cfa26f4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

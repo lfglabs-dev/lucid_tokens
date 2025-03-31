@@ -1,7 +1,7 @@
 {
   "symbol": "mbd",
   "name": "MBD Financials",
-  "address": "0xaAf449Bf8A33a32575C31BA8CBb90612Dd95aCFa",
+  "address": "0xaaf449bf8a33a32575c31ba8cbb90612dd95acfa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

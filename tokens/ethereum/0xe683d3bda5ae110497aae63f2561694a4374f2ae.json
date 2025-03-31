@@ -1,7 +1,7 @@
 {
   "symbol": "trumpsfight",
   "name": "TrumpsFight",
-  "address": "0xE683d3BDa5AE110497aAe63f2561694A4374F2aE",
+  "address": "0xe683d3bda5ae110497aae63f2561694a4374f2ae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

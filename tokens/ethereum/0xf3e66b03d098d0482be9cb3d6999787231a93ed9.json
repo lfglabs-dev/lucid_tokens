@@ -1,7 +1,7 @@
 {
   "symbol": "promptide",
   "name": "PromptIDE",
-  "address": "0xf3E66b03D098D0482Be9Cb3d6999787231a93ed9",
+  "address": "0xf3e66b03d098d0482be9cb3d6999787231a93ed9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

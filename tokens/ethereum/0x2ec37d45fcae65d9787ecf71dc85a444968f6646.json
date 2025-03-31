@@ -1,7 +1,7 @@
 {
   "symbol": "brbtc",
   "name": "Bedrock BTC",
-  "address": "0x2eC37d45FCAE65D9787ECf71dc85a444968f6646",
+  "address": "0x2ec37d45fcae65d9787ecf71dc85a444968f6646",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

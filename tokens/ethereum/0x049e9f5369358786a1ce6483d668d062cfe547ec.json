@@ -1,7 +1,7 @@
 {
   "symbol": "checks",
   "name": "Checks Token",
-  "address": "0x049E9f5369358786A1cE6483d668D062cfe547ec",
+  "address": "0x049e9f5369358786a1ce6483d668d062cfe547ec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

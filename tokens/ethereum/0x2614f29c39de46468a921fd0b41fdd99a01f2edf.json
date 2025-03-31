@@ -1,7 +1,7 @@
 {
   "symbol": "hlx",
   "name": "HELIOS",
-  "address": "0x2614f29C39dE46468A921Fd0b41fdd99A01f2EDf",
+  "address": "0x2614f29c39de46468a921fd0b41fdd99a01f2edf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cdt",
   "name": "CheckDot",
-  "address": "0xCdB37A4fBC2Da5b78aA4E41a432792f9533e85Cc",
+  "address": "0xcdb37a4fbc2da5b78aa4e41a432792f9533e85cc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,11 +11,9 @@
   },
   "platforms": {
     "binance-smart-chain": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
-    "aptos": "0xb366c7c4521277846a7fee4f3bcc92c435089537d30390d8854ca31addfbae4f::CdtCoin::CDT",
     "ethereum": "0xcdb37a4fbc2da5b78aa4e41a432792f9533e85cc",
     "avalanche": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
     "arbitrum-one": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
-    "polygon-pos": "0x26c80854c36ff62bba7414a358c8c23bbb8dec39",
-    "solana": "Ak3ovnWQnAxPSFoSNCoNYJLnJtQDCKRBH4HwhWkb6hFm"
+    "polygon-pos": "0x26c80854c36ff62bba7414a358c8c23bbb8dec39"
   }
 }

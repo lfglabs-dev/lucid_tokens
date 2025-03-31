@@ -1,7 +1,7 @@
 {
   "symbol": "cex",
   "name": "ChainEx",
-  "address": "0xd01D133166820557db7138963BCD9009C54E4C33",
+  "address": "0xd01d133166820557db7138963bcd9009c54e4c33",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

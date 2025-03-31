@@ -1,7 +1,7 @@
 {
   "symbol": "monkeys",
   "name": "Monkeys Token",
-  "address": "0x9CE07410673206c693BCEC9b07710767637A564c",
+  "address": "0x9ce07410673206c693bcec9b07710767637a564c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

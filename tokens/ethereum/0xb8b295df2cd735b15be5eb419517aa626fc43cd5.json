@@ -1,7 +1,7 @@
 {
   "symbol": "stlink",
   "name": "Staked LINK",
-  "address": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+  "address": "0xb8b295df2cd735b15be5eb419517aa626fc43cd5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

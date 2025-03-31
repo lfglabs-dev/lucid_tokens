@@ -1,7 +1,7 @@
 {
   "symbol": "mis",
   "name": "Mithril Share",
-  "address": "0x024B6e7DC26F4d5579bDD936F8d7BC31f2339999",
+  "address": "0x024b6e7dc26f4d5579bdd936f8d7bc31f2339999",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

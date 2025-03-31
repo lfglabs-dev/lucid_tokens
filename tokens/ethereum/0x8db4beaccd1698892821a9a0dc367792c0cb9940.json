@@ -1,7 +1,7 @@
 {
   "symbol": "4token",
   "name": "Ignore Fud",
-  "address": "0x8dB4beACcd1698892821a9a0Dc367792c0cB9940",
+  "address": "0x8db4beaccd1698892821a9a0dc367792c0cb9940",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

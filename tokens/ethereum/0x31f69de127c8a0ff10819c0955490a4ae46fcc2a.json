@@ -1,7 +1,7 @@
 {
   "symbol": "gbyte",
   "name": "Obyte",
-  "address": "0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a",
+  "address": "0x31f69de127c8a0ff10819c0955490a4ae46fcc2a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

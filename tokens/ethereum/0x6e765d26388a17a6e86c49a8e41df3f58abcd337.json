@@ -1,7 +1,7 @@
 {
   "symbol": "kangal",
   "name": "Kangal",
-  "address": "0x6E765D26388A17A6e86c49A8E41DF3F58aBcd337",
+  "address": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

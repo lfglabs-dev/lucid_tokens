@@ -1,7 +1,7 @@
 {
   "symbol": "qi",
   "name": "Qi Dao",
-  "address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
+  "address": "0x559b7bfc48a5274754b08819f75c5f27af53d53b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

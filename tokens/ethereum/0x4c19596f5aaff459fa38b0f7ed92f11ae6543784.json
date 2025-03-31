@@ -1,7 +1,7 @@
 {
   "symbol": "tru",
   "name": "TrueFi",
-  "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+  "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

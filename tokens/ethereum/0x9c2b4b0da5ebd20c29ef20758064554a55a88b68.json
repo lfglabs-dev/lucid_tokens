@@ -1,7 +1,7 @@
 {
   "symbol": "byte",
   "name": "ByteAI",
-  "address": "0x9C2b4b0dA5ebD20c29ef20758064554a55A88B68",
+  "address": "0x9c2b4b0da5ebd20c29ef20758064554a55a88b68",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

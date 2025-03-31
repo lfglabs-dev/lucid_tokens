@@ -1,7 +1,7 @@
 {
   "symbol": "eggs",
   "name": "Eggs",
-  "address": "0x2e516BA5Bf3b7eE47fb99B09eaDb60BDE80a82e0",
+  "address": "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

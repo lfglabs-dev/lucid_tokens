@@ -1,7 +1,7 @@
 {
   "symbol": "unp",
   "name": "Unipoly",
-  "address": "0x23d7Ff057c696fEE679c60cEf61Fee6614218f04",
+  "address": "0x23d7ff057c696fee679c60cef61fee6614218f04",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

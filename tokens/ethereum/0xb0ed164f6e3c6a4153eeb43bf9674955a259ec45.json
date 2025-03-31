@@ -1,7 +1,7 @@
 {
   "symbol": "abe",
   "name": "Aboard",
-  "address": "0xb0eD164F6E3C6a4153EeB43bf9674955A259eC45",
+  "address": "0xb0ed164f6e3c6a4153eeb43bf9674955a259ec45",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

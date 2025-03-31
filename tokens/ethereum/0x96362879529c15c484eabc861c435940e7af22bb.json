@@ -1,7 +1,7 @@
 {
   "symbol": "rpgmai",
   "name": "RPG Maker Ai",
-  "address": "0x96362879529C15C484EaBc861c435940e7AF22bb",
+  "address": "0x96362879529c15c484eabc861c435940e7af22bb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

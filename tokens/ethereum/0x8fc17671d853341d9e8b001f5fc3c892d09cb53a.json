@@ -1,7 +1,7 @@
 {
   "symbol": "block",
   "name": "BlockGames",
-  "address": "0x8fc17671D853341D9e8B001F5Fc3C892d09CB53A",
+  "address": "0x8fc17671d853341d9e8b001f5fc3c892d09cb53a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

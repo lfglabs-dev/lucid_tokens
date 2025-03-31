@@ -1,7 +1,7 @@
 {
   "symbol": "swgt",
   "name": "SmartWorld Global Token",
-  "address": "0xc8bf8bC34874E07f6A0d4aBc8be22ba9E372631b",
+  "address": "0xc8bf8bc34874e07f6a0d4abc8be22ba9e372631b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

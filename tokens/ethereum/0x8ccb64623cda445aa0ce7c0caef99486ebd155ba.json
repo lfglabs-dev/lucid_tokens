@@ -1,7 +1,7 @@
 {
   "symbol": "shezeth",
   "name": "ShezmuETH",
-  "address": "0x8cCB64623cDa445AA0ce7C0CaEF99486Ebd155bA",
+  "address": "0x8ccb64623cda445aa0ce7c0caef99486ebd155ba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

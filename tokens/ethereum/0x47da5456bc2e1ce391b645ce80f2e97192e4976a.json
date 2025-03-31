@@ -1,7 +1,7 @@
 {
   "symbol": "plug",
   "name": "PL^Gnet",
-  "address": "0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a",
+  "address": "0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

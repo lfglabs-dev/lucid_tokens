@@ -1,7 +1,7 @@
 {
   "symbol": "pickle",
   "name": "Pickle Finance",
-  "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+  "address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "licker",
   "name": "Licker",
-  "address": "0x1b3be8fCD2e7C5cE9C5c242E0066FdD9740220d0",
+  "address": "0x1b3be8fcd2e7c5ce9c5c242e0066fdd9740220d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

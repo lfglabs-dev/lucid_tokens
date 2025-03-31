@@ -1,7 +1,7 @@
 {
   "symbol": "u2u",
   "name": "U2U Network",
-  "address": "0x558e7139800f8bc119F68D23a6126FFFD43a66a6",
+  "address": "0x558e7139800f8bc119f68d23a6126fffd43a66a6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

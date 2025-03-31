@@ -1,7 +1,7 @@
 {
   "symbol": "oax",
   "name": "OAX",
-  "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "address": "0x701c244b988a513c945973defa05de933b23fe1d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

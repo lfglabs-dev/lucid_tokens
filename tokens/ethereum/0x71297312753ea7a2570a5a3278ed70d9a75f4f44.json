@@ -1,7 +1,7 @@
 {
   "symbol": "ebull",
   "name": "ETHEREUM IS GOOD",
-  "address": "0x71297312753EA7A2570a5a3278eD70D9a75F4f44",
+  "address": "0x71297312753ea7a2570a5a3278ed70d9a75f4f44",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "prare",
   "name": "Polkarare",
-  "address": "0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796",
+  "address": "0x2c2f7e7c5604d162d75641256b80f1bf6f4dc796",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

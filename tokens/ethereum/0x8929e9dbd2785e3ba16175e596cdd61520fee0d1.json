@@ -1,7 +1,7 @@
 {
   "symbol": "altd",
   "name": "Altitude",
-  "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+  "address": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

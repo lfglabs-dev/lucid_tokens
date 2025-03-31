@@ -1,7 +1,7 @@
 {
   "symbol": "mtlx",
   "name": "Mettalex",
-  "address": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+  "address": "0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

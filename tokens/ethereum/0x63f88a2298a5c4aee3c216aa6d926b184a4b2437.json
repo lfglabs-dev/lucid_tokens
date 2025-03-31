@@ -1,7 +1,7 @@
 {
   "symbol": "game",
   "name": "GameCredits",
-  "address": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
+  "address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

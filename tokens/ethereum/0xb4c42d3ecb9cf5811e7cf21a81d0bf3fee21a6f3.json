@@ -1,7 +1,7 @@
 {
   "symbol": "nwo",
   "name": "NEW WORLD ORDER",
-  "address": "0xb4C42D3eCB9CF5811e7cF21A81D0Bf3fee21A6F3",
+  "address": "0xb4c42d3ecb9cf5811e7cf21a81d0bf3fee21a6f3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

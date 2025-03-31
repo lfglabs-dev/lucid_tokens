@@ -1,7 +1,7 @@
 {
   "symbol": "pet",
   "name": "Hello Pets",
-  "address": "0xB870679a7Fa65b924026F496De7f27c1DD0e5C5F",
+  "address": "0xb870679a7fa65b924026f496de7f27c1dd0e5c5f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tlos",
   "name": "Telos",
-  "address": "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d",
+  "address": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

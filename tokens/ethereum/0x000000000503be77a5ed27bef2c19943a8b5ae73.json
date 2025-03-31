@@ -1,7 +1,7 @@
 {
   "symbol": "xtreme",
   "name": "Xtremeverse",
-  "address": "0x000000000503BE77A5ED27bef2C19943A8B5AE73",
+  "address": "0x000000000503be77a5ed27bef2c19943a8b5ae73",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

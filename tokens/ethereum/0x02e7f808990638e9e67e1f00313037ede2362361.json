@@ -1,7 +1,7 @@
 {
   "symbol": "kibshi",
   "name": "KiboShib",
-  "address": "0x02e7F808990638E9e67E1f00313037EDe2362361",
+  "address": "0x02e7f808990638e9e67e1f00313037ede2362361",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x02e7f808990638e9e67e1f00313037ede2362361",
     "arbitrum-one": "0xf525e73bdeb4ac1b0e741af3ed8a8cbb43ab0756",
-    "base": "0xc7dcca0a3e69bd762c8db257f868f76be36c8514",
-    "solana": "BxBkTCHsrcYChcwB459CAGPX9x4fWSVnmzqh5efgUN1R"
+    "base": "0xc7dcca0a3e69bd762c8db257f868f76be36c8514"
   }
 }

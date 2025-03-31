@@ -1,7 +1,7 @@
 {
   "symbol": "mps",
   "name": "Mt Pelerin Shares",
-  "address": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
+  "address": "0x96c645d3d3706f793ef52c19bbace441900ed47d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

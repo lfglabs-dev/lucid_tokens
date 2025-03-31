@@ -1,7 +1,7 @@
 {
   "symbol": "xed",
   "name": "Exeedme [OLD]",
-  "address": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
+  "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

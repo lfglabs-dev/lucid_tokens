@@ -1,7 +1,7 @@
 {
   "symbol": "imt",
   "name": "Immortal Token",
-  "address": "0xe2616122eD554bd693335E9143C47Df187a86EF3",
+  "address": "0xe2616122ed554bd693335e9143c47df187a86ef3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

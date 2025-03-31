@@ -1,7 +1,7 @@
 {
   "symbol": "ducky",
   "name": "Ducky",
-  "address": "0x699Ec925118567b6475Fe495327ba0a778234AaA",
+  "address": "0x699ec925118567b6475fe495327ba0a778234aaa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

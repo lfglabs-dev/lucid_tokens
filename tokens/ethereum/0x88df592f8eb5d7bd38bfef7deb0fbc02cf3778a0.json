@@ -1,7 +1,7 @@
 {
   "symbol": "trb",
   "name": "Tellor Tributes",
-  "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+  "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "zent",
   "name": "ZENTU",
-  "address": "0x3E985250CB137fc1Ff55922116934C5982d29F85",
+  "address": "0x3e985250cb137fc1ff55922116934c5982d29f85",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

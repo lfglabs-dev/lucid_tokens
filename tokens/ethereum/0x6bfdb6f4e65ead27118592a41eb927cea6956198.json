@@ -1,7 +1,7 @@
 {
   "symbol": "fmc",
   "name": "FAME AI",
-  "address": "0x6bfDB6f4E65Ead27118592A41eB927cEa6956198",
+  "address": "0x6bfdb6f4e65ead27118592a41eb927cea6956198",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

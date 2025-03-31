@@ -1,7 +1,7 @@
 {
   "symbol": "ekubo",
   "name": "Ekubo Protocol",
-  "address": "0x04C46E830Bb56ce22735d5d8Fc9CB90309317d0f",
+  "address": "0x04c46e830bb56ce22735d5d8fc9cb90309317d0f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "starknet": "0x75afe6402ad5a5c20dd25e10ec3b3986acaa647b77e4ae24b0cbc9a54a27a87",
     "ethereum": "0x04c46e830bb56ce22735d5d8fc9cb90309317d0f"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "ustc",
   "name": "Wrapped USTC",
-  "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+  "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -13,10 +13,8 @@
     "binance-smart-chain": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
     "aurora": "0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc",
     "harmony-shard-0": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
-    "sora": "0x00f8cfb462a824f37dcea67caae0d7e2f73ed8371e706ea8b1e1a7b0c357d5d4",
     "ethereum": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
     "fantom": "0xe2d27f06f63d98b8e11b38b5b08a75d0c8dd62b9",
-    "polygon-pos": "0x692597b009d13c4049a947cab2239b7d6517875f",
-    "solana": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
+    "polygon-pos": "0x692597b009d13c4049a947cab2239b7d6517875f"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "tree",
   "name": "Tree",
-  "address": "0xBa25B2281214300E4e649feAd9A6d6acD25f1c0a",
+  "address": "0xba25b2281214300e4e649fead9a6d6acd25f1c0a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

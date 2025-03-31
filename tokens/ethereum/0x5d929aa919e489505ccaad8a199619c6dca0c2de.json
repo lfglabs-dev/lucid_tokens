@@ -1,7 +1,7 @@
 {
   "symbol": "baas",
   "name": "BaaSid",
-  "address": "0x5d929AA919E489505CcAAd8A199619c6DCA0c2de",
+  "address": "0x5d929aa919e489505ccaad8a199619c6dca0c2de",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

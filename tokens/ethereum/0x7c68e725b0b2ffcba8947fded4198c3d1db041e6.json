@@ -1,7 +1,7 @@
 {
   "symbol": "pongo",
   "name": "Pongo",
-  "address": "0x7C68e725b0B2FfCBa8947FdEd4198C3d1Db041E6",
+  "address": "0x7c68e725b0b2ffcba8947fded4198c3d1db041e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

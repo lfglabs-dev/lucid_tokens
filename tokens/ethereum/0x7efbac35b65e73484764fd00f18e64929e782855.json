@@ -1,7 +1,7 @@
 {
   "symbol": "cifi",
   "name": "CIFI",
-  "address": "0x7efBAC35B65e73484764Fd00F18E64929E782855",
+  "address": "0x7efbac35b65e73484764fd00f18e64929e782855",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

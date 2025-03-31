@@ -1,7 +1,7 @@
 {
   "symbol": "coc",
   "name": "The Cocktailbar",
-  "address": "0x22B6C31c2bEB8f2d0d5373146Eed41Ab9eDe3caf",
+  "address": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

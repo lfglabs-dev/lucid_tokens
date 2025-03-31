@@ -1,7 +1,7 @@
 {
   "symbol": "bifi",
   "name": "BiFi",
-  "address": "0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81",
+  "address": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

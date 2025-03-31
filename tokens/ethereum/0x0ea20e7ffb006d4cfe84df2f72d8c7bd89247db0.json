@@ -1,7 +1,7 @@
 {
   "symbol": "aammunicrvweth",
   "name": "Aave AMM UniCRVWETH",
-  "address": "0x0ea20e7fFB006d4Cfe84df2F72d8c7bD89247DB0",
+  "address": "0x0ea20e7ffb006d4cfe84df2f72d8c7bd89247db0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

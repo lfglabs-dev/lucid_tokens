@@ -1,7 +1,7 @@
 {
   "symbol": "xogn",
   "name": "Staked OGN",
-  "address": "0x63898b3b6Ef3d39332082178656E9862bee45C57",
+  "address": "0x63898b3b6ef3d39332082178656e9862bee45c57",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

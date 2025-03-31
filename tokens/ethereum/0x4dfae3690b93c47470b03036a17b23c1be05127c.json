@@ -1,7 +1,7 @@
 {
   "symbol": "pepe",
   "name": "The Original Pepe",
-  "address": "0x4dFae3690b93c47470b03036A17B23C1Be05127C",
+  "address": "0x4dfae3690b93c47470b03036a17b23c1be05127c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "knto",
   "name": "Kento",
-  "address": "0xc740181345c65552333e1EDC797E03f11852B1C8",
+  "address": "0xc740181345c65552333e1edc797e03f11852b1c8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

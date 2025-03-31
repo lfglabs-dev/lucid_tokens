@@ -1,7 +1,7 @@
 {
   "symbol": "re7tbtc",
   "name": "Re7 tBTC",
-  "address": "0x43fD147d5319B8Cf39a6e57143684Efca9CF3613",
+  "address": "0x43fd147d5319b8cf39a6e57143684efca9cf3613",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

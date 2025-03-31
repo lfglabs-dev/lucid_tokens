@@ -1,7 +1,7 @@
 {
   "symbol": "chdd",
   "name": "CHEDDA",
-  "address": "0xa110260a67FbBB6226F563844eEaF29e8c018Bb7",
+  "address": "0xa110260a67fbbb6226f563844eeaf29e8c018bb7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

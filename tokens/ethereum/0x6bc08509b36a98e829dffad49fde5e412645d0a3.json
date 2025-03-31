@@ -1,7 +1,7 @@
 {
   "symbol": "woof",
   "name": "WoofWork.io",
-  "address": "0x6BC08509B36A98E829dFfAD49Fde5e412645d0a3",
+  "address": "0x6bc08509b36a98e829dffad49fde5e412645d0a3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

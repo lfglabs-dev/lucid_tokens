@@ -1,7 +1,7 @@
 {
   "symbol": "wnz",
   "name": "Winnerz",
-  "address": "0x02795795196F563fDafCE8Dd97fCA4871dEd51C3",
+  "address": "0x02795795196f563fdafce8dd97fca4871ded51c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

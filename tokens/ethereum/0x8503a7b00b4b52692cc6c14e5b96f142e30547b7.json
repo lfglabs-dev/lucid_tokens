@@ -1,7 +1,7 @@
 {
   "symbol": "meed",
   "name": "Meeds DAO",
-  "address": "0x8503a7b00B4b52692cC6c14e5b96F142E30547b7",
+  "address": "0x8503a7b00b4b52692cc6c14e5b96f142e30547b7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

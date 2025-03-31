@@ -1,7 +1,7 @@
 {
   "symbol": "ply",
   "name": "PlayNity",
-  "address": "0x20d60c6eb195868d4643f2c9B0809e4De6Cc003d",
+  "address": "0x20d60c6eb195868d4643f2c9b0809e4de6cc003d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "terra": "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu",
     "ethereum": "0x20d60c6eb195868d4643f2c9b0809e4de6cc003d",
     "binance-smart-chain": "0x5f39dd1bb6db20f3e792c4489f514794cac6392c"
   }

@@ -1,7 +1,7 @@
 {
   "symbol": "cyce",
   "name": "Crypto Carbon Energy",
-  "address": "0x9681ee0D91E737C3B60aCEbA7Fbdae61B5462f42",
+  "address": "0x9681ee0d91e737c3b60aceba7fbdae61b5462f42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

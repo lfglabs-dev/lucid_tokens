@@ -1,7 +1,7 @@
 {
   "symbol": "rai",
   "name": "Reploy",
-  "address": "0xc575BD129848Ce06A460A19466c30E1D0328F52C",
+  "address": "0xc575bd129848ce06a460a19466c30e1d0328f52c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

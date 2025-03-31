@@ -1,7 +1,7 @@
 {
   "symbol": "hit",
   "name": "HitBTC",
-  "address": "0x74b1Af114274335598da72f5C6ed7b954a016EeD",
+  "address": "0x74b1af114274335598da72f5c6ed7b954a016eed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

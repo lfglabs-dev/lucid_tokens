@@ -1,7 +1,7 @@
 {
   "symbol": "wcell",
   "name": "Wrapped CellMates",
-  "address": "0x18E5F92103d1B34623738Ee79214B1659f2eE109",
+  "address": "0x18e5f92103d1b34623738ee79214b1659f2ee109",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

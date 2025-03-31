@@ -1,7 +1,7 @@
 {
   "symbol": "eth+",
   "name": "ETHPlus",
-  "address": "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8",
+  "address": "0xe72b141df173b999ae7c1adcbf60cc9833ce56a8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

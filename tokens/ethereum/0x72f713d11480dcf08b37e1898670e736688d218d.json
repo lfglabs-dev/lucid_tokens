@@ -1,7 +1,7 @@
 {
   "symbol": "nao",
   "name": "Nettensor",
-  "address": "0x72f713D11480DCF08b37E1898670e736688D218d",
+  "address": "0x72f713d11480dcf08b37e1898670e736688d218d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

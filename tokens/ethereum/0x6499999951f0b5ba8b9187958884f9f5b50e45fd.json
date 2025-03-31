@@ -1,7 +1,7 @@
 {
   "symbol": "orbit",
   "name": "OrbitAI",
-  "address": "0x6499999951f0B5ba8B9187958884F9F5b50e45Fd",
+  "address": "0x6499999951f0b5ba8b9187958884f9f5b50e45fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "arusd",
   "name": "Aladdin rUSD",
-  "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
+  "address": "0x07d1718ff05a8c53c8f05adaed57c0d672945f9a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

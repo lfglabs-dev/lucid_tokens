@@ -1,7 +1,7 @@
 {
   "symbol": ":zkt:",
   "name": "ZkTsunami",
-  "address": "0x76fcA1adb104770B38581B64d55e67fA5A0f3966",
+  "address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ix",
   "name": "illumineX",
-  "address": "0x45e82579792DDDF08cb3a037086604C262D78065",
+  "address": "0x45e82579792dddf08cb3a037086604c262d78065",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

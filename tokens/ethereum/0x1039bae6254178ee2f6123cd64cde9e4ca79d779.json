@@ -1,7 +1,7 @@
 {
   "symbol": "wukong",
   "name": "Wukong Musk",
-  "address": "0x1039BaE6254178EE2f6123cD64CDE9e4CA79D779",
+  "address": "0x1039bae6254178ee2f6123cd64cde9e4ca79d779",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

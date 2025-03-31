@@ -1,7 +1,7 @@
 {
   "symbol": "spacepi",
   "name": "SpacePi Token",
-  "address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+  "address": "0x69b14e8d3cebfdd8196bfe530954a0c226e5008e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

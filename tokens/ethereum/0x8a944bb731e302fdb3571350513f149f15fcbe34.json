@@ -1,7 +1,7 @@
 {
   "symbol": "rizz",
   "name": "RIZZ",
-  "address": "0x8A944BB731E302FDB3571350513F149F15fCBE34",
+  "address": "0x8a944bb731e302fdb3571350513f149f15fcbe34",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

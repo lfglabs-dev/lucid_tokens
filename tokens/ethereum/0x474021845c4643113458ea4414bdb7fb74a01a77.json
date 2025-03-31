@@ -1,7 +1,7 @@
 {
   "symbol": "uno",
   "name": "Lunos",
-  "address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+  "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

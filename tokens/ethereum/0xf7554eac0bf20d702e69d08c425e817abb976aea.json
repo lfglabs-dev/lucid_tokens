@@ -1,7 +1,7 @@
 {
   "symbol": "maha",
   "name": "Make America Healthy Again",
-  "address": "0xF7554EAC0bF20d702E69d08C425E817ABb976AeA",
+  "address": "0xf7554eac0bf20d702e69d08c425e817abb976aea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

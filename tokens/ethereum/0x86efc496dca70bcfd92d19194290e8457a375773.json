@@ -1,7 +1,7 @@
 {
   "symbol": "ubsn",
   "name": "Silent Notary",
-  "address": "0x86EFc496DcA70bcFD92D19194290e8457a375773",
+  "address": "0x86efc496dca70bcfd92d19194290e8457a375773",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

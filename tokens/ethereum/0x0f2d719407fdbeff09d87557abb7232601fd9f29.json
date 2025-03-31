@@ -1,7 +1,7 @@
 {
   "symbol": "syn",
   "name": "Synapse",
-  "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+  "address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

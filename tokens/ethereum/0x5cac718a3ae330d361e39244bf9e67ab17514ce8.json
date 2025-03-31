@@ -1,7 +1,7 @@
 {
   "symbol": "cot",
   "name": "Cosplay Token",
-  "address": "0x5CAc718A3AE330d361e39244BF9e67AB17514CE8",
+  "address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

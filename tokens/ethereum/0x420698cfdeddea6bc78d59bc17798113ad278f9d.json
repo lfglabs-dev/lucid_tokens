@@ -1,7 +1,7 @@
 {
   "symbol": "toweli",
   "name": "Towelie",
-  "address": "0x420698CFdEDdEa6bc78D59bC17798113ad278F9D",
+  "address": "0x420698cfdeddea6bc78d59bc17798113ad278f9d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "brcbot",
   "name": "BRC20 BOT",
-  "address": "0x5e05F367a1923B2a886e2f2bC45c2278a0b9b448",
+  "address": "0x5e05f367a1923b2a886e2f2bc45c2278a0b9b448",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

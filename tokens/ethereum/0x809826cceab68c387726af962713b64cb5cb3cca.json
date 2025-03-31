@@ -1,7 +1,7 @@
 {
   "symbol": "ncash",
   "name": "Nucleus Vision",
-  "address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+  "address": "0x809826cceab68c387726af962713b64cb5cb3cca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "omi",
   "name": "ECOMI",
-  "address": "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
+  "address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

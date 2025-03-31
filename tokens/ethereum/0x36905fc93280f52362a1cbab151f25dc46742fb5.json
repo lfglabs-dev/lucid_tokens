@@ -1,7 +1,7 @@
 {
   "symbol": "bto",
   "name": "Bottos",
-  "address": "0x36905Fc93280f52362A1CBAB151F25DC46742Fb5",
+  "address": "0x36905fc93280f52362a1cbab151f25dc46742fb5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

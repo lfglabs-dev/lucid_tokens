@@ -1,7 +1,7 @@
 {
   "symbol": "ai",
   "name": "AI PIN",
-  "address": "0xbc544207fF1C5B2bC47A35F745010b603b97e99e",
+  "address": "0xbc544207ff1c5b2bc47a35f745010b603b97e99e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

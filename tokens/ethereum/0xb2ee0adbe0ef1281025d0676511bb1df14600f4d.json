@@ -1,7 +1,7 @@
 {
   "symbol": "fore",
   "name": "FORE Protocol",
-  "address": "0xB2ee0aDBe0EF1281025d0676511bB1df14600f4D",
+  "address": "0xb2ee0adbe0ef1281025d0676511bb1df14600f4d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

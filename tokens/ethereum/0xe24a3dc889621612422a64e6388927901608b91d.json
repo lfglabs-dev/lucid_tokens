@@ -1,7 +1,7 @@
 {
   "symbol": "susn",
   "name": "Staked USN",
-  "address": "0xE24a3DC889621612422A64E6388927901608B91D",
+  "address": "0xe24a3dc889621612422a64e6388927901608b91d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

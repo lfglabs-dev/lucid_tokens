@@ -1,7 +1,7 @@
 {
   "symbol": "dsync",
   "name": "Destra Network",
-  "address": "0xf94e7d0710709388bCe3161C32B4eEA56d3f91CC",
+  "address": "0xf94e7d0710709388bce3161c32b4eea56d3f91cc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

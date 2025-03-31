@@ -1,7 +1,7 @@
 {
   "symbol": "adbe.d",
   "name": "Dinari ADBE",
-  "address": "0x5D7bB43885988EB8bfb9D854077e7Ccfd6BF8C50",
+  "address": "0x5d7bb43885988eb8bfb9d854077e7ccfd6bf8c50",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

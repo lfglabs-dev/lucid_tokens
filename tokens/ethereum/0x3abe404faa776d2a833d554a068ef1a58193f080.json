@@ -1,7 +1,7 @@
 {
   "symbol": "kozue",
   "name": "Kozue",
-  "address": "0x3aBE404faa776D2A833d554a068Ef1A58193f080",
+  "address": "0x3abe404faa776d2a833d554a068ef1a58193f080",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

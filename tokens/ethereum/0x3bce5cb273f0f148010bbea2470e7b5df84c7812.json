@@ -1,7 +1,7 @@
 {
   "symbol": "sceth",
   "name": "Rings scETH",
-  "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+  "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

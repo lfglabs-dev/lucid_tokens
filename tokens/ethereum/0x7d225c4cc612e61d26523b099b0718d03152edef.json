@@ -1,7 +1,7 @@
 {
   "symbol": "fork",
   "name": "FlokiFork",
-  "address": "0x7D225c4cc612E61d26523B099b0718d03152eDEf",
+  "address": "0x7d225c4cc612e61d26523b099b0718d03152edef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

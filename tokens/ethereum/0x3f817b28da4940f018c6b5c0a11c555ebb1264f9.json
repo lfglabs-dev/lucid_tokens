@@ -1,7 +1,7 @@
 {
   "symbol": "a3a",
   "name": "3A",
-  "address": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+  "address": "0x3f817b28da4940f018c6b5c0a11c555ebb1264f9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

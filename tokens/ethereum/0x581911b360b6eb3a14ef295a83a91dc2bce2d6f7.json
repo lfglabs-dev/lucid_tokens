@@ -1,7 +1,7 @@
 {
   "symbol": "mvc",
   "name": "MileVerse",
-  "address": "0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7",
+  "address": "0x581911b360b6eb3a14ef295a83a91dc2bce2d6f7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "df",
   "name": "dForce",
-  "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+  "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

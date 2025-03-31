@@ -1,7 +1,7 @@
 {
   "symbol": "tenet",
   "name": "TENET",
-  "address": "0x788D86E00ab31Db859C3d6b80d5a9375801d7f2A",
+  "address": "0x788d86e00ab31db859c3d6b80d5a9375801d7f2a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

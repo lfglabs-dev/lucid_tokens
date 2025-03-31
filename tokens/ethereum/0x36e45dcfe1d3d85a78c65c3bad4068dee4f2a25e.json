@@ -1,7 +1,7 @@
 {
   "symbol": "trrue",
   "name": "TRRUE",
-  "address": "0x36E45dcfE1d3d85A78c65c3baD4068dEE4f2a25e",
+  "address": "0x36e45dcfe1d3d85a78c65c3bad4068dee4f2a25e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

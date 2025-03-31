@@ -1,7 +1,7 @@
 {
   "symbol": "eldg",
   "name": "Everlodge",
-  "address": "0xDDA31D354a519ecfB0bC2a536b5E7be147C0F7F4",
+  "address": "0xdda31d354a519ecfb0bc2a536b5e7be147c0f7f4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cipher",
   "name": "Cipher Protocol",
-  "address": "0xF453579d18a6F8CA07db9250e0E0100EB8CCb206",
+  "address": "0xf453579d18a6f8ca07db9250e0e0100eb8ccb206",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

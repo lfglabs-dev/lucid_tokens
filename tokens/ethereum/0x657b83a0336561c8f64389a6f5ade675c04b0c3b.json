@@ -1,7 +1,7 @@
 {
   "symbol": "pcnt",
   "name": "Playcent",
-  "address": "0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
+  "address": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

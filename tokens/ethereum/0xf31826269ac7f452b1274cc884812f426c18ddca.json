@@ -1,7 +1,7 @@
 {
   "symbol": "milk",
   "name": "MILK Coin",
-  "address": "0xF31826269ac7f452b1274cc884812f426c18dDca",
+  "address": "0xf31826269ac7f452b1274cc884812f426c18ddca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

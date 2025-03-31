@@ -1,7 +1,7 @@
 {
   "symbol": "arc",
   "name": "Arcade",
-  "address": "0x2903Bd7dB50f300b0884f7a15904bAffc77f3eC7",
+  "address": "0x2903bd7db50f300b0884f7a15904baffc77f3ec7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "merc",
   "name": "Liquid Mercury",
-  "address": "0x6EE2f71049DDE9a93B7c0EE1091b72aCf9b46810",
+  "address": "0x6ee2f71049dde9a93b7c0ee1091b72acf9b46810",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

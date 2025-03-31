@@ -1,7 +1,7 @@
 {
   "symbol": "skt",
   "name": "Sukhavati Network",
-  "address": "0x012E0e6342308b247F36Ee500ECb14dc77a7a8C1",
+  "address": "0x012e0e6342308b247f36ee500ecb14dc77a7a8c1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

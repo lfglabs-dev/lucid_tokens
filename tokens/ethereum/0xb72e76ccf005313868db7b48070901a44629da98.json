@@ -1,7 +1,7 @@
 {
   "symbol": "sqgrow",
   "name": "SquidGrow",
-  "address": "0xb72E76cCf005313868DB7b48070901a44629da98",
+  "address": "0xb72e76ccf005313868db7b48070901a44629da98",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

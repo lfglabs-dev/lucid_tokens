@@ -1,7 +1,7 @@
 {
   "symbol": "milk",
   "name": "Illumicati",
-  "address": "0xF538296E7Dd856aF7044DEec949489e2F25705BC",
+  "address": "0xf538296e7dd856af7044deec949489e2f25705bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "flappy",
   "name": "Flappy",
-  "address": "0x590246Bfbf89b113D8ac36FaEeA12B7589f7FE5b",
+  "address": "0x590246bfbf89b113d8ac36faeea12b7589f7fe5b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

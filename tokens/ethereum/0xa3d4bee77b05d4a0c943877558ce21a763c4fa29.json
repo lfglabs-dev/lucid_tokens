@@ -1,7 +1,7 @@
 {
   "symbol": "root",
   "name": "The Root Network",
-  "address": "0xa3d4BEe77B05d4a0C943877558Ce21A763C4fa29",
+  "address": "0xa3d4bee77b05d4a0c943877558ce21a763c4fa29",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

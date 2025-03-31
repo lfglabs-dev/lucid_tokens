@@ -1,7 +1,7 @@
 {
   "symbol": "mars",
   "name": "GATEWAY TO MARS",
-  "address": "0xc3D2B3e23855001508e460A6dbE9f9e3116201aF",
+  "address": "0xc3d2b3e23855001508e460a6dbe9f9e3116201af",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

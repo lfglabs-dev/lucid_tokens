@@ -1,7 +1,7 @@
 {
   "symbol": "dogwifhat",
   "name": "dogwifhat Eth",
-  "address": "0x8AEC4bbDcfB451aA289bfBD3C2F4E34A44ADa1be",
+  "address": "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

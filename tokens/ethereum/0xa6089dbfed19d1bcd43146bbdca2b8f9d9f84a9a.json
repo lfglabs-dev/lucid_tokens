@@ -1,7 +1,7 @@
 {
   "symbol": "ugold",
   "name": "UGOLD Inc.",
-  "address": "0xA6089DBfED19D1bCd43146BbDCa2b8f9d9f84A9A",
+  "address": "0xa6089dbfed19d1bcd43146bbdca2b8f9d9f84a9a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

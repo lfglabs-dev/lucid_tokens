@@ -1,7 +1,7 @@
 {
   "symbol": "mor",
   "name": "MorpheusAI",
-  "address": "0xcBB8f1BDA10b9696c57E13BC128Fe674769DCEc0",
+  "address": "0xcbb8f1bda10b9696c57e13bc128fe674769dcec0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

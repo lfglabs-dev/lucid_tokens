@@ -1,7 +1,7 @@
 {
   "symbol": "diamond",
   "name": "Diamond Inu",
-  "address": "0xCfffCd2C6294BBB01Ca55CBB4a281bDCf532c1Ce",
+  "address": "0xcfffcd2c6294bbb01ca55cbb4a281bdcf532c1ce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

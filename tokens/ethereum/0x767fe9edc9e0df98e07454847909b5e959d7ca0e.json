@@ -1,7 +1,7 @@
 {
   "symbol": "ilv",
   "name": "Illuvium",
-  "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+  "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "arki",
   "name": "ArkiTech",
-  "address": "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc",
+  "address": "0xd3210f246ae54c5a45a7b4a83315bf718f591bfc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

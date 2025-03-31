@@ -1,7 +1,7 @@
 {
   "symbol": "axl",
   "name": "Axelar",
-  "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+  "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,9 +12,7 @@
   "platforms": {
     "ethereum": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
     "optimistic-ethereum": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
-    "secret": "secret1vcau4rkn7mvfwl8hf0dqa9p0jr59983e3qqe3z",
     "moonbeam": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
-    "osmosis": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
     "binance-smart-chain": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
     "fantom": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
     "avalanche": "0x44c784266cf024a60e8acf2427b9857ace194c5d",

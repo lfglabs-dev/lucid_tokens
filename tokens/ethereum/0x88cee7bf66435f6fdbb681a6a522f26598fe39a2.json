@@ -1,7 +1,7 @@
 {
   "symbol": "hymb.d",
   "name": "Dinari HYMB",
-  "address": "0x88CeE7bF66435F6Fdbb681a6A522f26598FE39A2",
+  "address": "0x88cee7bf66435f6fdbb681a6a522f26598fe39a2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "oooi",
   "name": "Corridor Finance",
-  "address": "0xd7b675CD5c84A13d1d0f84509345530f6421b57C",
+  "address": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ordinals": "620588cde3b0416ee79b7dda28d5896d2b9f4a6abc5ad9c7bf48e56fc43ccd08i0",
     "ethereum": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
     "arbitrum-one": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
     "polygon-pos": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",

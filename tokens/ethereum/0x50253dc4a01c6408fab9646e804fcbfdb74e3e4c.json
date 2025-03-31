@@ -1,7 +1,7 @@
 {
   "symbol": "insfrax",
   "name": "Inception Restaked sFRAX",
-  "address": "0x50253dc4a01c6408Fab9646e804FCbFDb74e3E4c",
+  "address": "0x50253dc4a01c6408fab9646e804fcbfdb74e3e4c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

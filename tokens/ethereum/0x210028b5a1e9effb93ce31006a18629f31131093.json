@@ -1,7 +1,7 @@
 {
   "symbol": "$blk",
   "name": "BLK2100",
-  "address": "0x210028b5a1E9efFb93Ce31006a18629F31131093",
+  "address": "0x210028b5a1e9effb93ce31006a18629f31131093",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

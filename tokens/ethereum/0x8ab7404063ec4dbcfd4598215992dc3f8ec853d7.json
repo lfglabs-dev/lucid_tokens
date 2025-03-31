@@ -1,7 +1,7 @@
 {
   "symbol": "kaon",
   "name": "Kaon",
-  "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+  "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
-    "energi": "0x709adadd7ba01655ec684c9a74074ec70b023fe9",
-    "sora": "0x007348eb8f0f3cec730fbf5eec1b6a842c54d1df8bed75a9df084d5ee013e814"
+    "energi": "0x709adadd7ba01655ec684c9a74074ec70b023fe9"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "thx",
   "name": "THX Network",
-  "address": "0xe632ea2eF2CFD8Fc4a2731C76F99078Aef6a4B31",
+  "address": "0xe632ea2ef2cfd8fc4a2731c76f99078aef6a4b31",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

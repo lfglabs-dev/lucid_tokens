@@ -1,7 +1,7 @@
 {
   "symbol": "space",
   "name": "Space Token",
-  "address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f",
+  "address": "0x1d1498166ddceee616a6d99868e1e0677300056f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

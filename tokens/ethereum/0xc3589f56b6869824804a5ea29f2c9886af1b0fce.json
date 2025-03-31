@@ -1,7 +1,7 @@
 {
   "symbol": "hny",
   "name": "Honey",
-  "address": "0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE",
+  "address": "0xc3589f56b6869824804a5ea29f2c9886af1b0fce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

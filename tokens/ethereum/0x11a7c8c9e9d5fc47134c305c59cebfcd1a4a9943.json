@@ -1,7 +1,7 @@
 {
   "symbol": "bog",
   "name": "Bog",
-  "address": "0x11a7C8C9E9d5Fc47134c305c59CEbfCD1A4A9943",
+  "address": "0x11a7c8c9e9d5fc47134c305c59cebfcd1a4a9943",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

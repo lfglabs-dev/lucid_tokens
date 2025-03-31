@@ -1,7 +1,7 @@
 {
   "symbol": "jne",
   "name": "Jake Newman Enterprises",
-  "address": "0x9657477ac915F56ca87C253db1320218Ec2D5DDD",
+  "address": "0x9657477ac915f56ca87c253db1320218ec2d5ddd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

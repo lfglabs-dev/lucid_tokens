@@ -1,7 +1,7 @@
 {
   "symbol": "arky",
   "name": "Arky",
-  "address": "0x9727eaf447203be268e5D471b6503Bf47A71eA72",
+  "address": "0x9727eaf447203be268e5d471b6503bf47a71ea72",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

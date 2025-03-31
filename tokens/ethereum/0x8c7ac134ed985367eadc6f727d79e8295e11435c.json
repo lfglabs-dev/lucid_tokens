@@ -1,7 +1,7 @@
 {
   "symbol": "$kekec",
   "name": "The Balkan Dwarf",
-  "address": "0x8C7AC134ED985367EADC6F727d79E8295E11435c",
+  "address": "0x8c7ac134ed985367eadc6f727d79e8295e11435c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x8c7ac134ed985367eadc6f727d79e8295e11435c",
-    "solana": "DexxZWtZd8hdmeth9gKYXgTWa1VYdMVrWFBZ9RXXXhBn"
+    "ethereum": "0x8c7ac134ed985367eadc6f727d79e8295e11435c"
   }
 }

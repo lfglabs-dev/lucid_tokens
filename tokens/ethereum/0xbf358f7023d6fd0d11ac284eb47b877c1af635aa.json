@@ -1,7 +1,7 @@
 {
   "symbol": "arca",
   "name": "ArcheriumAi",
-  "address": "0xBF358f7023D6fd0D11AC284EB47B877C1AF635Aa",
+  "address": "0xbf358f7023d6fd0d11ac284eb47b877c1af635aa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

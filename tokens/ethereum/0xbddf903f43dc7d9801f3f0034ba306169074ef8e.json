@@ -1,7 +1,7 @@
 {
   "symbol": "agb",
   "name": "Apes Go Bananas",
-  "address": "0xBddF903F43dC7d9801F3F0034bA306169074EF8e",
+  "address": "0xbddf903f43dc7d9801f3f0034ba306169074ef8e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

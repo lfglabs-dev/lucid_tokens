@@ -1,7 +1,7 @@
 {
   "symbol": "sis",
   "name": "Symbiosis",
-  "address": "0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9",
+  "address": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

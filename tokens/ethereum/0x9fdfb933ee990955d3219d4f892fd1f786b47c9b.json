@@ -1,7 +1,7 @@
 {
   "symbol": "mk",
   "name": "Meme Kombat",
-  "address": "0x9FDFb933Ee990955D3219d4F892FD1F786b47C9B",
+  "address": "0x9fdfb933ee990955d3219d4f892fd1f786b47c9b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

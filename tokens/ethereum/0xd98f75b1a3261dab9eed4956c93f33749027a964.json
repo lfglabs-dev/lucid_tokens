@@ -1,7 +1,7 @@
 {
   "symbol": "shr",
   "name": "Share",
-  "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
+  "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

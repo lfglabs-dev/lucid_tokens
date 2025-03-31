@@ -1,7 +1,7 @@
 {
   "symbol": "inwsteths",
   "name": "Inception Restaked stETH Symbiotic",
-  "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+  "address": "0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

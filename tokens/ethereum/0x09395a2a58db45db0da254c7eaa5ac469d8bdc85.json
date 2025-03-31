@@ -1,7 +1,7 @@
 {
   "symbol": "sqt",
   "name": "SubQuery Network",
-  "address": "0x09395a2A58DB45db0da254c7EAa5AC469D8bDc85",
+  "address": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

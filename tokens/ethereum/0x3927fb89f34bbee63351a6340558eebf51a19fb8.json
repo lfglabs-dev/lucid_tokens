@@ -1,7 +1,7 @@
 {
   "symbol": "spurdo",
   "name": "SPURDO ON ETH",
-  "address": "0x3927FB89F34BbeE63351A6340558Eebf51A19FB8",
+  "address": "0x3927fb89f34bbee63351a6340558eebf51a19fb8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

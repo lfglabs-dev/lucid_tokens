@@ -1,7 +1,7 @@
 {
   "symbol": "eefi",
   "name": "Elastic Finance Token",
-  "address": "0x857FfC55B1Aa61A7fF847C82072790cAE73cd883",
+  "address": "0x857ffc55b1aa61a7ff847c82072790cae73cd883",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

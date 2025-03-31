@@ -1,7 +1,7 @@
 {
   "symbol": "tgr",
   "name": "Tegro",
-  "address": "0xc7026a20a640Bc71B9074F7aed52A00cD9147091",
+  "address": "0xc7026a20a640bc71b9074f7aed52a00cd9147091",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

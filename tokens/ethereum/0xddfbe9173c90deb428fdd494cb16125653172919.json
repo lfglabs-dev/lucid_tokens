@@ -1,7 +1,7 @@
 {
   "symbol": "swk",
   "name": "Sowaka",
-  "address": "0xdDFbE9173c90dEb428fdD494cB16125653172919",
+  "address": "0xddfbe9173c90deb428fdd494cb16125653172919",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

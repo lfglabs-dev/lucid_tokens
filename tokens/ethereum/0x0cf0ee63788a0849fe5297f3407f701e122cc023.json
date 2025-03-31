@@ -1,7 +1,7 @@
 {
   "symbol": "xdata",
   "name": "Streamr XDATA",
-  "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+  "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

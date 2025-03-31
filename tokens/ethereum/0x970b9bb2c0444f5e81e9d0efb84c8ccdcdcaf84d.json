@@ -1,7 +1,7 @@
 {
   "symbol": "fuse",
   "name": "Fuse",
-  "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+  "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

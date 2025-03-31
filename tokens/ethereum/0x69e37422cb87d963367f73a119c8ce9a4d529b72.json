@@ -1,7 +1,7 @@
 {
   "symbol": "advt",
   "name": "Advantis X",
-  "address": "0x69e37422cB87d963367F73A119C8ce9a4D529b72",
+  "address": "0x69e37422cb87d963367f73a119c8ce9a4d529b72",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

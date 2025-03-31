@@ -1,7 +1,7 @@
 {
   "symbol": "scriv",
   "name": "SCRIV",
-  "address": "0xD76050f75627e508fa14b84036fbF40b8cC549BD",
+  "address": "0xd76050f75627e508fa14b84036fbf40b8cc549bd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

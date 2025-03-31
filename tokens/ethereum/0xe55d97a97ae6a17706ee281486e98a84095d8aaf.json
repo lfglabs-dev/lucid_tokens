@@ -1,7 +1,7 @@
 {
   "symbol": "aipad",
   "name": "AIPad",
-  "address": "0xE55d97A97ae6A17706ee281486E98A84095d8AAf",
+  "address": "0xe55d97a97ae6a17706ee281486e98a84095d8aaf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

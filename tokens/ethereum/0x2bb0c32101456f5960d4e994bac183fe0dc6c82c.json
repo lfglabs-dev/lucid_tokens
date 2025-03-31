@@ -1,7 +1,7 @@
 {
   "symbol": "xfrxeth",
   "name": "Leveraged frxETH",
-  "address": "0x2bb0C32101456F5960d4e994Bac183Fe0dc6C82c",
+  "address": "0x2bb0c32101456f5960d4e994bac183fe0dc6c82c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

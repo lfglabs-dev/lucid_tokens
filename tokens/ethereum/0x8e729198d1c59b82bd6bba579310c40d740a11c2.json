@@ -1,7 +1,7 @@
 {
   "symbol": "alva",
   "name": "Alvara Protocol",
-  "address": "0x8e729198d1C59B82bd6bBa579310C40d740A11C2",
+  "address": "0x8e729198d1c59b82bd6bba579310c40d740a11c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

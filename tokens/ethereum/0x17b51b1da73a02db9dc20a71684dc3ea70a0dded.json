@@ -1,7 +1,7 @@
 {
   "symbol": "foxxy",
   "name": "FOXXY",
-  "address": "0x17b51b1DA73A02DB9dC20A71684Dc3EA70A0Dded",
+  "address": "0x17b51b1da73a02db9dc20a71684dc3ea70a0dded",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

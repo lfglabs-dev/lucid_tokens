@@ -1,7 +1,7 @@
 {
   "symbol": "cyfm",
   "name": "CyberFM",
-  "address": "0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
+  "address": "0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82",
-    "tron": "TZ5jA9F5zGRgi9qk9ATMu6D7wyEpnxQGJh",
     "binance-smart-chain": "0x9001fd53504f7bf253296cffadf5b6030cd61abb",
     "polygon-pos": "0xda5949544aaf6124d06f398bfde4c86cc33b0ee7"
   }

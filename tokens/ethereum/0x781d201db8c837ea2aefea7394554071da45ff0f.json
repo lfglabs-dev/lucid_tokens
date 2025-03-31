@@ -1,7 +1,7 @@
 {
   "symbol": "atai",
   "name": "ArtemisAI",
-  "address": "0x781D201db8C837EA2aEFEa7394554071Da45fF0f",
+  "address": "0x781d201db8c837ea2aefea7394554071da45ff0f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

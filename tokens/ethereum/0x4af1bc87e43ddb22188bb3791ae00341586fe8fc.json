@@ -1,7 +1,7 @@
 {
   "symbol": "champ",
   "name": "Super Champs",
-  "address": "0x4aF1Bc87e43dDb22188bb3791ae00341586fE8fc",
+  "address": "0x4af1bc87e43ddb22188bb3791ae00341586fe8fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

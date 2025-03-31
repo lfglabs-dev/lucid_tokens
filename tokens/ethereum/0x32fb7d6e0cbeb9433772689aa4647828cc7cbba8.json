@@ -1,7 +1,7 @@
 {
   "symbol": "cove",
   "name": "Cove DAO",
-  "address": "0x32fb7D6E0cBEb9433772689aA4647828Cc7cbBA8",
+  "address": "0x32fb7d6e0cbeb9433772689aa4647828cc7cbba8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

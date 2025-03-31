@@ -1,7 +1,7 @@
 {
   "symbol": "agi",
   "name": "Artificial General Intelligence",
-  "address": "0xd1A6616F56221A9f27eB9476867b5bDB2B2d101d",
+  "address": "0xd1a6616f56221a9f27eb9476867b5bdb2b2d101d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

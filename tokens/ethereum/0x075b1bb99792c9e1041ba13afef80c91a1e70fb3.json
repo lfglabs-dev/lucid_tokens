@@ -1,7 +1,7 @@
 {
   "symbol": "crvrenwsbtc",
   "name": "Curve.fi renBTC/wBTC/sBTC",
-  "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+  "address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

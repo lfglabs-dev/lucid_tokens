@@ -1,7 +1,7 @@
 {
   "symbol": "scf",
   "name": "Smoking Chicken Fish",
-  "address": "0x723AbBea6E985fb21C57F550D9CCEbA1C676a6a9",
+  "address": "0x723abbea6e985fb21c57f550d9cceba1c676a6a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

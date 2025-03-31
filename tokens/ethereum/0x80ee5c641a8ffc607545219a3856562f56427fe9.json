@@ -1,7 +1,7 @@
 {
   "symbol": "brett",
   "name": "Brett ETH",
-  "address": "0x80eE5c641A8fFC607545219a3856562F56427FE9",
+  "address": "0x80ee5c641a8ffc607545219a3856562f56427fe9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

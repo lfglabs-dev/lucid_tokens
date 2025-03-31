@@ -1,7 +1,7 @@
 {
   "symbol": "mix",
   "name": "MixMarvel",
-  "address": "0x5d285F735998F36631F678FF41fb56A10A4d0429",
+  "address": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

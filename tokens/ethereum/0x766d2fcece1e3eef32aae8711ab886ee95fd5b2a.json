@@ -1,7 +1,7 @@
 {
   "symbol": "mvp",
   "name": "MAGA VP",
-  "address": "0x766d2fcECe1E3eeF32aae8711ab886eE95fd5B2A",
+  "address": "0x766d2fcece1e3eef32aae8711ab886ee95fd5b2a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x766d2fcece1e3eef32aae8711ab886ee95fd5b2a",
     "binance-smart-chain": "0xa4e8e73c8be170528385bbce78172c891f1febd7",
-    "base": "0x58cd93c4a91c3940109fa27d700f5013b18b5dc2",
-    "solana": "55qMv1HtV8fqRjnFwDb9yDi9tBCeV8xwfgrPKgiJk5DN"
+    "base": "0x58cd93c4a91c3940109fa27d700f5013b18b5dc2"
   }
 }

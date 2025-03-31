@@ -1,7 +1,7 @@
 {
   "symbol": "wstor",
   "name": "StorageChain",
-  "address": "0x346B46280f559DEF274f80c5d16471b4b7EF2f14",
+  "address": "0x346b46280f559def274f80c5d16471b4b7ef2f14",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

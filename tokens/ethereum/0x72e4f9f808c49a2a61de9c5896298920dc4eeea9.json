@@ -1,7 +1,7 @@
 {
   "symbol": "bitcoin",
   "name": "HarryPotterObamaSonic10Inu (ETH)",
-  "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+  "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
-    "solana": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
     "base": "0x2a06a17cbc6d0032cac2c6696da90f29d39a1a29"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "fine",
   "name": "FINE",
-  "address": "0x75C97384cA209f915381755c582EC0E2cE88c1BA",
+  "address": "0x75c97384ca209f915381755c582ec0e2ce88c1ba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

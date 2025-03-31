@@ -1,7 +1,7 @@
 {
   "symbol": "qom",
   "name": "Shiba Predator",
-  "address": "0xa71d0588EAf47f12B13cF8eC750430d21DF04974",
+  "address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

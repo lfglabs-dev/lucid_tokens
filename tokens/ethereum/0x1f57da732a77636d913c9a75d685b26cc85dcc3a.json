@@ -1,7 +1,7 @@
 {
   "symbol": "ol",
   "name": "OPENLOOT",
-  "address": "0x1F57da732A77636D913C9a75d685B26CC85DCC3A",
+  "address": "0x1f57da732a77636d913c9a75d685b26cc85dcc3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

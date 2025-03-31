@@ -1,7 +1,7 @@
 {
   "symbol": "xcm",
   "name": "Coinmetro",
-  "address": "0x36ac219f90f5A6A3C77f2a7B660E3cC701f68e25",
+  "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

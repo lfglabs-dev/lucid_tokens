@@ -1,7 +1,7 @@
 {
   "symbol": "xyz",
   "name": "Universe.XYZ",
-  "address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
+  "address": "0x618679df9efcd19694bb1daa8d00718eacfa2883",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

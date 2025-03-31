@@ -1,7 +1,7 @@
 {
   "symbol": "motion",
   "name": "MOTION",
-  "address": "0x1945E804B8A25b98ab140e58295404d768cA3F6B",
+  "address": "0x1945e804b8a25b98ab140e58295404d768ca3f6b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

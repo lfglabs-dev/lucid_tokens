@@ -1,7 +1,7 @@
 {
   "symbol": "$micro",
   "name": "Micro GPT",
-  "address": "0x8CEDb0680531d26e62ABdBd0F4c5428b7fDC26d5",
+  "address": "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "oblue",
   "name": "Blueprint oBLUE",
-  "address": "0xEdb73D4ED90bE7A49D06d0D940055e6d181d22fa",
+  "address": "0xedb73d4ed90be7a49d06d0d940055e6d181d22fa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

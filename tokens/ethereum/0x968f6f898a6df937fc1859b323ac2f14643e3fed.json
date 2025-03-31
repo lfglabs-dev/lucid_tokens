@@ -1,7 +1,7 @@
 {
   "symbol": "nwc",
   "name": "Numerico",
-  "address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+  "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "stellar": "NWC-GDZJD363YP7P3TNYDK3ZD6GLXFMAI3GLVIH7CGFLNZWIZBQUCVE6PTU7",
     "ethereum": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
     "binance-smart-chain": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
   }

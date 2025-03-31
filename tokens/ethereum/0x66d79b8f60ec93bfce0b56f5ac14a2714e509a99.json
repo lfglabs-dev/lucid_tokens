@@ -1,7 +1,7 @@
 {
   "symbol": "mapo",
   "name": "MAP Protocol",
-  "address": "0x66D79B8f60ec93Bfce0b56F5Ac14A2714E509a99",
+  "address": "0x66d79b8f60ec93bfce0b56f5ac14a2714e509a99",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "map-protocol": "mapo",
     "ethereum": "0x66d79b8f60ec93bfce0b56f5ac14a2714e509a99",
     "binance-smart-chain": "0x66d79b8f60ec93bfce0b56f5ac14a2714e509a99"
   }

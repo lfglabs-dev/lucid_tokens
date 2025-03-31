@@ -1,7 +1,7 @@
 {
   "symbol": "dojo",
   "name": "Project Dojo",
-  "address": "0x34bc13dE8e5124a7c47D4b7Ff7C5ADE6ee34FabA",
+  "address": "0x34bc13de8e5124a7c47d4b7ff7c5ade6ee34faba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

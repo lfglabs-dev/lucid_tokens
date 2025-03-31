@@ -1,7 +1,7 @@
 {
   "symbol": "lvva",
   "name": "Levva Protocol",
-  "address": "0x6243558a24CC6116aBE751f27E6d7Ede50ABFC76",
+  "address": "0x6243558a24cc6116abe751f27e6d7ede50abfc76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

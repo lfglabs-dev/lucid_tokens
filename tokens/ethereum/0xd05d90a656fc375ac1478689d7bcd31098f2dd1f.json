@@ -1,7 +1,7 @@
 {
   "symbol": "factory",
   "name": "ChainFactory",
-  "address": "0xD05D90A656FC375ac1478689D7bCD31098f2DD1f",
+  "address": "0xd05d90a656fc375ac1478689d7bcd31098f2dd1f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

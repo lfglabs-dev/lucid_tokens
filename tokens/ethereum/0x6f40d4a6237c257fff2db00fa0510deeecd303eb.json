@@ -1,7 +1,7 @@
 {
   "symbol": "fluid",
   "name": "Fluid",
-  "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+  "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

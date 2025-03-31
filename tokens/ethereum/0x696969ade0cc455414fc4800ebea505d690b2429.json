@@ -1,7 +1,7 @@
 {
   "symbol": "pepenomics",
   "name": "Pepenomics",
-  "address": "0x696969ade0CC455414Fc4800EBea505d690B2429",
+  "address": "0x696969ade0cc455414fc4800ebea505d690b2429",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

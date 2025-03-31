@@ -1,7 +1,7 @@
 {
   "symbol": "inxt",
   "name": "Internxt",
-  "address": "0x4A8f5F96D5436e43112c2fBC6a9f70DA9e4E16D4",
+  "address": "0x4a8f5f96d5436e43112c2fbc6a9f70da9e4e16d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

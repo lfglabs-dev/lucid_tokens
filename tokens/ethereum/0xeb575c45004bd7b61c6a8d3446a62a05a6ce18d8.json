@@ -1,7 +1,7 @@
 {
   "symbol": "els",
   "name": "Ethlas",
-  "address": "0xEb575C45004bd7B61C6A8D3446a62a05a6Ce18d8",
+  "address": "0xeb575c45004bd7b61c6a8d3446a62a05a6ce18d8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dench",
   "name": "DENCHCOIN",
-  "address": "0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
+  "address": "0x4b7265d153886a7dc717e815862acde6ff7b5bc8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

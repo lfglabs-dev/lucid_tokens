@@ -1,7 +1,7 @@
 {
   "symbol": "rent",
   "name": "RentAI",
-  "address": "0xE13Cf110176e0dd6590536CD391b8a3522475F82",
+  "address": "0xe13cf110176e0dd6590536cd391b8a3522475f82",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "meld",
   "name": "MELD",
-  "address": "0x333000333b26eE30214B4af6419D9ab07a450400",
+  "address": "0x333000333b26ee30214b4af6419d9ab07a450400",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "cardano": "a2944573e99d2ed3055b808eaa264f0bf119e01fc6b18863067c63e44d454c44",
     "meld": "0x333000333528b1e38884a5d1ef13615b0c17a301",
     "ethereum": "0x333000333b26ee30214b4af6419d9ab07a450400",
     "avalanche": "0x333000333b26ee30214b4af6419d9ab07a450400"

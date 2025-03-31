@@ -1,7 +1,7 @@
 {
   "symbol": "sdex",
   "name": "SMARDEX",
-  "address": "0x5DE8ab7E27f6E7A1fFf3E5B337584Aa43961BEeF",
+  "address": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -14,7 +14,6 @@
     "binance-smart-chain": "0xfdc66a08b0d0dc44c17bbd471b88f49f50cdd20f",
     "arbitrum-one": "0xabd587f2607542723b17f14d00d99b987c29b074",
     "polygon-pos": "0x6899face15c14348e1759371049ab64a3a06bfa6",
-    "base": "0xfd4330b0312fdeec6d4225075b82e00493ff2e3f",
-    "solana": "9dzSzFvPsKDoY2gdWErsuz2H1o4tbzvgBhrNZ9cvkD2j"
+    "base": "0xfd4330b0312fdeec6d4225075b82e00493ff2e3f"
   }
 }

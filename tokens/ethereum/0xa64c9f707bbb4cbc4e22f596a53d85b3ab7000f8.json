@@ -1,7 +1,7 @@
 {
   "symbol": "arkb.d",
   "name": "Dinari ARKB",
-  "address": "0xA64C9F707bBb4cBC4E22F596A53D85b3ab7000F8",
+  "address": "0xa64c9f707bbb4cbc4e22f596a53d85b3ab7000f8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lpu",
   "name": "Lender Network",
-  "address": "0x97C0acFD62BA29F70B6Fe272eFAAe0942C8263b5",
+  "address": "0x97c0acfd62ba29f70b6fe272efaae0942c8263b5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

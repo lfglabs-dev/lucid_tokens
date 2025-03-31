@@ -1,7 +1,7 @@
 {
   "symbol": "dps",
   "name": "DEEPSPACE",
-  "address": "0xB7B1570e26315BAAD369b8EA0a943b7F140DB9eB",
+  "address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

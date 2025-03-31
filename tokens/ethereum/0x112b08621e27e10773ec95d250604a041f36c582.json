@@ -1,7 +1,7 @@
 {
   "symbol": "kas",
   "name": "Wrapped Kaspa",
-  "address": "0x112b08621E27e10773ec95d250604a041f36C582",
+  "address": "0x112b08621e27e10773ec95d250604a041f36c582",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

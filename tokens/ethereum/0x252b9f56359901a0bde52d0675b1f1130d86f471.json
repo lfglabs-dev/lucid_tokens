@@ -1,7 +1,7 @@
 {
   "symbol": "pando",
   "name": "Pando",
-  "address": "0x252b9F56359901a0BDE52d0675b1f1130d86F471",
+  "address": "0x252b9f56359901a0bde52d0675b1f1130d86f471",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

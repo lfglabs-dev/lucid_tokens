@@ -1,7 +1,7 @@
 {
   "symbol": "ftw",
   "name": "Apollo FTW",
-  "address": "0xBc188B5dbb155B6eA693D46D98Bf60b8482939B9",
+  "address": "0xbc188b5dbb155b6ea693d46d98bf60b8482939b9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

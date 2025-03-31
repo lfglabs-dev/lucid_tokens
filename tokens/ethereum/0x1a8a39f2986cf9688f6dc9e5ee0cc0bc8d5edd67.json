@@ -1,7 +1,7 @@
 {
   "symbol": "dogga",
   "name": "Doggacoin",
-  "address": "0x1a8a39f2986Cf9688F6DC9e5Ee0Cc0bC8d5edd67",
+  "address": "0x1a8a39f2986cf9688f6dc9e5ee0cc0bc8d5edd67",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

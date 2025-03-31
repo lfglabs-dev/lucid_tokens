@@ -1,7 +1,7 @@
 {
   "symbol": "defx",
   "name": "DeFinity",
-  "address": "0x5F474906637bdCDA05f29C74653F6962bb0f8eDa",
+  "address": "0x5f474906637bdcda05f29c74653f6962bb0f8eda",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

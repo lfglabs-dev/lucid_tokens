@@ -1,7 +1,7 @@
 {
   "symbol": "iwbtc",
   "name": "Instadapp WBTC",
-  "address": "0xEC363faa5c4dd0e51f3D9B5d0101263760E7cdeB",
+  "address": "0xec363faa5c4dd0e51f3d9b5d0101263760e7cdeb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

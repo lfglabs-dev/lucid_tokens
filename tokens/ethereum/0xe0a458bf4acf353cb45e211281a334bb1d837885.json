@@ -1,7 +1,7 @@
 {
   "symbol": "4chan",
   "name": "4Chan",
-  "address": "0xe0A458BF4AcF353cB45e211281A334BB1d837885",
+  "address": "0xe0a458bf4acf353cb45e211281a334bb1d837885",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mnee",
   "name": "MNEE USD Stablecoin",
-  "address": "0x8ccedbAe4916b79da7F3F612EfB2EB93A2bFD6cF",
+  "address": "0x8ccedbae4916b79da7f3f612efb2eb93a2bfd6cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

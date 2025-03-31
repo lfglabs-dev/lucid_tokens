@@ -1,7 +1,7 @@
 {
   "symbol": "bgpt",
   "name": "BlockGPT",
-  "address": "0x089729b0786C8803cff972c16e402f3344d079eA",
+  "address": "0x089729b0786c8803cff972c16e402f3344d079ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "union",
   "name": "Union Finance",
-  "address": "0x5Dfe42eEA70a3e6f93EE54eD9C321aF07A85535C",
+  "address": "0x5dfe42eea70a3e6f93ee54ed9c321af07a85535c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

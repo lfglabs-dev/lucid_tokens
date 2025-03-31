@@ -1,7 +1,7 @@
 {
   "symbol": "leash",
   "name": "Doge Killer",
-  "address": "0x27C70Cd1946795B66be9d954418546998b546634",
+  "address": "0x27c70cd1946795b66be9d954418546998b546634",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

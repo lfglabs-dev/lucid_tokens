@@ -1,7 +1,7 @@
 {
   "symbol": "arc",
   "name": "Archly Finance",
-  "address": "0x9482c407d32204462D8CBbC0755e96C39B79878E",
+  "address": "0x9482c407d32204462d8cbbc0755e96c39b79878e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

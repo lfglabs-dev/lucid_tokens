@@ -1,7 +1,7 @@
 {
   "symbol": "white",
   "name": "Whiteheart",
-  "address": "0x5F0E628B693018f639D10e4A4F59BD4d8B2B6B44",
+  "address": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

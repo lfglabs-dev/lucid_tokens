@@ -1,7 +1,7 @@
 {
   "symbol": "1inch",
   "name": "1inch",
-  "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+  "address": "0x111111111117dc0aa78b770fa6a738034120c302",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x111111111117dc0aa78b770fa6a738034120c302",
-    "near-protocol": "111111111117dc0aa78b770fa6a738034120c302.factory.bridge.near",
     "harmony-shard-0": "0x58f1b044d8308812881a1433d9bbeff99975e70c",
     "energi": "0xdda6205dc3f47e5280eb726613b27374eee9d130",
     "binance-smart-chain": "0x111111111117dc0aa78b770fa6a738034120c302",

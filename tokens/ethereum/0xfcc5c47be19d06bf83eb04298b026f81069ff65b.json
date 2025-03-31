@@ -1,7 +1,7 @@
 {
   "symbol": "ycrv",
   "name": "Yearn CRV",
-  "address": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+  "address": "0xfcc5c47be19d06bf83eb04298b026f81069ff65b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

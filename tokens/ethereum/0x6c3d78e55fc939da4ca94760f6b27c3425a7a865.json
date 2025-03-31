@@ -1,7 +1,7 @@
 {
   "symbol": "megadeath",
   "name": "MEGADEATH (PEPE)",
-  "address": "0x6c3D78E55FC939dA4CA94760F6B27c3425a7A865",
+  "address": "0x6c3d78e55fc939da4ca94760f6b27c3425a7a865",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

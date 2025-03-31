@@ -1,7 +1,7 @@
 {
   "symbol": "xprt",
   "name": "Persistence One",
-  "address": "0xD454b59f16D42667Be2fA55292d16647E27f40C4",
+  "address": "0xd454b59f16d42667be2fa55292d16647e27f40c4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,9 +11,7 @@
   },
   "platforms": {
     "optimistic-ethereum": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
-    "persistence": "persistence/uxprt",
     "blast": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
-    "osmosis": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
     "ethereum": "0xd454b59f16d42667be2fa55292d16647e27f40c4",
     "base": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8"
   }

@@ -1,7 +1,7 @@
 {
   "symbol": "quil",
   "name": "Wrapped QUIL",
-  "address": "0x8143182a775C54578c8B7b3Ef77982498866945D",
+  "address": "0x8143182a775c54578c8b7b3ef77982498866945d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

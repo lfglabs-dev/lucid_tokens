@@ -1,7 +1,7 @@
 {
   "symbol": "btse",
   "name": "BTSE Token",
-  "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+  "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

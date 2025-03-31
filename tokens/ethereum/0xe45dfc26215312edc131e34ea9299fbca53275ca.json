@@ -1,7 +1,7 @@
 {
   "symbol": "rel",
   "name": "Relation Native Token",
-  "address": "0xe45dFC26215312edC131e34Ea9299FBCA53275ca",
+  "address": "0xe45dfc26215312edc131e34ea9299fbca53275ca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "trr",
   "name": "Terran Coin",
-  "address": "0x490e3f4af13e1616EC97A8C6600c1061a8D0253e",
+  "address": "0x490e3f4af13e1616ec97a8c6600c1061a8d0253e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

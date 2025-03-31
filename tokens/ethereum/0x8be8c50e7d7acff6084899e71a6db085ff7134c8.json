@@ -1,7 +1,7 @@
 {
   "symbol": "opsec",
   "name": "OpSec",
-  "address": "0x8be8c50e7D7aCFf6084899e71a6Db085fF7134C8",
+  "address": "0x8be8c50e7d7acff6084899e71a6db085ff7134c8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

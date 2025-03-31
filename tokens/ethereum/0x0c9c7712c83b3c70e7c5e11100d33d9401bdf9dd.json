@@ -1,7 +1,7 @@
 {
   "symbol": "wombat",
   "name": "Wombat",
-  "address": "0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd",
+  "address": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd",
-    "wax": "WOMBAT-wax-wombattokens",
     "polygon-pos": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd"
   }
 }

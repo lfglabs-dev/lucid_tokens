@@ -1,7 +1,7 @@
 {
   "symbol": "gdt",
   "name": "Globe Derivative Exchange",
-  "address": "0xc67B12049c2D0CF6e476BC64c7F82fc6C63cFFc5",
+  "address": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

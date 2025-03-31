@@ -1,7 +1,7 @@
 {
   "symbol": "idea",
   "name": "Ideaology",
-  "address": "0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa",
+  "address": "0x5d3a4f62124498092ce665f865e0b38ff6f5fbea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

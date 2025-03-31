@@ -1,7 +1,7 @@
 {
   "symbol": "bb",
   "name": "BookieBot",
-  "address": "0x562e12e1E792643d168C1fa01c1b7198a0f83C9F",
+  "address": "0x562e12e1e792643d168c1fa01c1b7198a0f83c9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

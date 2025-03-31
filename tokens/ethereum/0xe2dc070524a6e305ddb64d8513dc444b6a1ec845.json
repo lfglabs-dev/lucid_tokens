@@ -1,7 +1,7 @@
 {
   "symbol": "nex",
   "name": "Nash",
-  "address": "0xE2dc070524A6e305ddB64d8513DC444B6a1ec845",
+  "address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,7 @@
     "height": "32"
   },
   "platforms": {
-    "neo": "3a4acd3647086e7c44398aac0349802e6a171129",
+    "neo": "0x3a4acd3647086e7c44398aac0349802e6a171129",
     "ethereum": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845",
     "polygon-pos": "0xa486c6bc102f409180ccb8a94ba045d39f8fc7cb"
   }

@@ -1,7 +1,7 @@
 {
   "symbol": "koin",
   "name": "Koinos",
-  "address": "0xed11c9BCF69fdD2EEFd9Fe751BfcA32f171D53Ae",
+  "address": "0xed11c9bcf69fdd2eefd9fe751bfca32f171d53ae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "rmv",
   "name": "Reality Metaverse",
-  "address": "0x423352F2c6E0E72422B69Af03aba259310146d90",
+  "address": "0x423352f2c6e0e72422b69af03aba259310146d90",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

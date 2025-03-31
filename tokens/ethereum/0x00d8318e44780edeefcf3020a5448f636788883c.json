@@ -1,7 +1,7 @@
 {
   "symbol": "dappx",
   "name": "dAppstore",
-  "address": "0x00d8318E44780EdEEFcF3020A5448F636788883C",
+  "address": "0x00d8318e44780edeefcf3020a5448f636788883c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

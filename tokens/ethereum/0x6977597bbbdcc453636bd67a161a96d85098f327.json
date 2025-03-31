@@ -1,7 +1,7 @@
 {
   "symbol": "pipi",
   "name": "Pipi on ETH",
-  "address": "0x6977597bBBdcc453636BD67A161a96d85098f327",
+  "address": "0x6977597bbbdcc453636bd67a161a96d85098f327",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

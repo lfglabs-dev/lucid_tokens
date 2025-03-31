@@ -1,7 +1,7 @@
 {
   "symbol": "arix",
   "name": "Arix",
-  "address": "0xBb6cF73a00f480d0951bA979a7606857cDDe626B",
+  "address": "0xbb6cf73a00f480d0951ba979a7606857cdde626b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

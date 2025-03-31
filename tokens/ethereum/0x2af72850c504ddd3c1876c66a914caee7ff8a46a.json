@@ -1,7 +1,7 @@
 {
   "symbol": "whl",
   "name": "WhaleRoom",
-  "address": "0x2aF72850c504dDD3c1876C66a914cAee7Ff8a46A",
+  "address": "0x2af72850c504ddd3c1876c66a914caee7ff8a46a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

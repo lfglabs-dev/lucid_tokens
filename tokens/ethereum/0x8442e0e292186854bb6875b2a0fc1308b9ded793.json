@@ -1,7 +1,7 @@
 {
   "symbol": "$pp",
   "name": "Print The Pepe",
-  "address": "0x8442E0e292186854BB6875b2A0fc1308b9Ded793",
+  "address": "0x8442e0e292186854bb6875b2a0fc1308b9ded793",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

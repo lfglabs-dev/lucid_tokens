@@ -1,7 +1,7 @@
 {
   "symbol": "sweet",
   "name": "Sweet",
-  "address": "0x2dF7D0E4903029717c949CaD204075A3D75C8806",
+  "address": "0x2df7d0e4903029717c949cad204075a3d75c8806",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

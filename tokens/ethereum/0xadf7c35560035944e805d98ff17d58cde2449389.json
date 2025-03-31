@@ -1,7 +1,7 @@
 {
   "symbol": "spec",
   "name": "Spectral",
-  "address": "0xAdF7C35560035944e805D98fF17d58CDe2449389",
+  "address": "0xadf7c35560035944e805d98ff17d58cde2449389",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

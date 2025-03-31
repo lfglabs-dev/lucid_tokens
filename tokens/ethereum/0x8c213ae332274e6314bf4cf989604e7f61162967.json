@@ -1,7 +1,7 @@
 {
   "symbol": "dongo",
   "name": "Dongo AI",
-  "address": "0x8c213AE332274e6314Bf4cF989604e7f61162967",
+  "address": "0x8c213ae332274e6314bf4cf989604e7f61162967",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

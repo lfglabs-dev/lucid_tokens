@@ -1,7 +1,7 @@
 {
   "symbol": "ffm",
   "name": "Florence Finance Medici",
-  "address": "0x72A9B1c9B191781bB15F1b98f443a1d916557c92",
+  "address": "0x72a9b1c9b191781bb15f1b98f443a1d916557c92",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

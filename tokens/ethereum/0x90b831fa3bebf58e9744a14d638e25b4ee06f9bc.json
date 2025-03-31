@@ -1,7 +1,7 @@
 {
   "symbol": "mimo",
   "name": "Mimo Governance",
-  "address": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc",
+  "address": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

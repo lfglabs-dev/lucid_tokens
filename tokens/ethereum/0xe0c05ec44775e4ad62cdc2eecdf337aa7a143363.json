@@ -1,7 +1,7 @@
 {
   "symbol": "manc",
   "name": "Mancium",
-  "address": "0xE0c05ec44775e4AD62CDC2eEcdF337aA7A143363",
+  "address": "0xe0c05ec44775e4ad62cdc2eecdf337aa7a143363",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

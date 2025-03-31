@@ -1,7 +1,7 @@
 {
   "symbol": "gold",
   "name": "Swords & Dungeons GOLD",
-  "address": "0xA78BCBb74b822e74a847897d2D1d2d5EE2c76BD8",
+  "address": "0xa78bcbb74b822e74a847897d2d1d2d5ee2c76bd8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pal",
   "name": "Paladin",
-  "address": "0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF",
+  "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

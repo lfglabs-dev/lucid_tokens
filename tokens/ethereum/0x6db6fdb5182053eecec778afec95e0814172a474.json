@@ -1,7 +1,7 @@
 {
   "symbol": "farm",
   "name": "TaxFarm.ing",
-  "address": "0x6dB6FDb5182053EECeC778aFec95E0814172A474",
+  "address": "0x6db6fdb5182053eecec778afec95e0814172a474",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

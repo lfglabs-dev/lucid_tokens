@@ -1,7 +1,7 @@
 {
   "symbol": "qua",
   "name": "Quasacoin",
-  "address": "0x4dAeb4a06F70f4b1A5C329115731fE4b89C0B227",
+  "address": "0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

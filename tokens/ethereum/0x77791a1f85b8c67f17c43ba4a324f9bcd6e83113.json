@@ -1,7 +1,7 @@
 {
   "symbol": "wagmi",
   "name": "WAGMI",
-  "address": "0x77791a1f85B8c67F17C43bA4a324f9BcD6E83113",
+  "address": "0x77791a1f85b8c67f17c43ba4a324f9bcd6e83113",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

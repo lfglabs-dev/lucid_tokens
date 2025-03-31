@@ -1,7 +1,7 @@
 {
   "symbol": "axis",
   "name": "Axis DeFi",
-  "address": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
+  "address": "0xecc0f1f860a82ab3b442382d93853c02d6384389",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

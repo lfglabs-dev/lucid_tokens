@@ -1,7 +1,7 @@
 {
   "symbol": "linda",
   "name": "Linda",
-  "address": "0x039D2E8f097331278BD6c1415D839310E0D5Ece4",
+  "address": "0x039d2e8f097331278bd6c1415d839310e0d5ece4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

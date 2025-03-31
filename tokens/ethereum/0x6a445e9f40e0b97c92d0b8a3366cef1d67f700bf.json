@@ -1,7 +1,7 @@
 {
   "symbol": "fidu",
   "name": "Fidu",
-  "address": "0x6a445E9F40e0b97c92d0b8a3366cEF1d67F700BF",
+  "address": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

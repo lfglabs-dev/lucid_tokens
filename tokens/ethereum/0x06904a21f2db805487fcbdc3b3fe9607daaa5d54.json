@@ -1,7 +1,7 @@
 {
   "symbol": "mnry",
   "name": "Moonray",
-  "address": "0x06904a21f2dB805487FcBDC3b3Fe9607dAaa5D54",
+  "address": "0x06904a21f2db805487fcbdc3b3fe9607daaa5d54",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

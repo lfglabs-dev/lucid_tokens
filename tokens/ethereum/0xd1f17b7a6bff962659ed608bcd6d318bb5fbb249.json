@@ -1,7 +1,7 @@
 {
   "symbol": "zuzalu",
   "name": "Zuzalu Inu",
-  "address": "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249",
+  "address": "0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

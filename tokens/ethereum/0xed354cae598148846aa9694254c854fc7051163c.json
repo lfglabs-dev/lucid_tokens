@@ -1,7 +1,7 @@
 {
   "symbol": "shido",
   "name": "Shido [OLD]",
-  "address": "0xeD354cAE598148846aa9694254C854fc7051163c",
+  "address": "0xed354cae598148846aa9694254c854fc7051163c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

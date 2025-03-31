@@ -1,7 +1,7 @@
 {
   "symbol": "rbx",
   "name": "RBX",
-  "address": "0x8254e26e453EB5aBd29B3c37AC9E8Da32E5d3299",
+  "address": "0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

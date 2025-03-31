@@ -1,7 +1,7 @@
 {
   "symbol": "cgx",
   "name": "Forkast",
-  "address": "0xdBDE08d475bd50E2D1A6af34c7b10DD430D8396e",
+  "address": "0xdbde08d475bd50e2d1a6af34c7b10dd430d8396e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

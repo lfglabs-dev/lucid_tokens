@@ -1,7 +1,7 @@
 {
   "symbol": "draggy",
   "name": "Draggy CTO",
-  "address": "0xd12A99dbC40036CEc6f1b776dccd2d36f5953B94",
+  "address": "0xd12a99dbc40036cec6f1b776dccd2d36f5953b94",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mon",
   "name": "MON",
-  "address": "0xc555D625828c4527d477e595fF1Dd5801B4a600e",
+  "address": "0xc555d625828c4527d477e595ff1dd5801b4a600e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

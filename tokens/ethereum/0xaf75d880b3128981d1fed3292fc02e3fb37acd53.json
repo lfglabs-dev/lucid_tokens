@@ -1,7 +1,7 @@
 {
   "symbol": "truth",
   "name": "TruthGPT",
-  "address": "0xAF75d880b3128981D1fEd3292Fc02E3FB37Acd53",
+  "address": "0xaf75d880b3128981d1fed3292fc02e3fb37acd53",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

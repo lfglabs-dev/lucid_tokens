@@ -1,7 +1,7 @@
 {
   "symbol": "superbid",
   "name": "SuperBid",
-  "address": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+  "address": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

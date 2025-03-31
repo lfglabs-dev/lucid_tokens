@@ -1,7 +1,7 @@
 {
   "symbol": "aken",
   "name": "ALTOKEN",
-  "address": "0xFE3Aaf3B1Dd087331EC68C4dd86E8fe542598d5e",
+  "address": "0xfe3aaf3b1dd087331ec68c4dd86e8fe542598d5e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

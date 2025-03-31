@@ -1,7 +1,7 @@
 {
   "symbol": "noai",
   "name": "Nord Ai",
-  "address": "0x0575BF910466B306afb07E4544203D9E21413C56",
+  "address": "0x0575bf910466b306afb07e4544203d9e21413c56",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "diva",
   "name": "Diva Staking",
-  "address": "0xBFAbdE619ed5C4311811cF422562709710DB587d",
+  "address": "0xbfabde619ed5c4311811cf422562709710db587d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

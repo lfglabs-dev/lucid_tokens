@@ -1,7 +1,7 @@
 {
   "symbol": "$frogs",
   "name": "Frogs",
-  "address": "0x3E9c3dc19efe4271d1a65fACFca55906045f7B08",
+  "address": "0x3e9c3dc19efe4271d1a65facfca55906045f7b08",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "jok",
   "name": "JokInTheBox",
-  "address": "0xA728Aa2De568766E2Fa4544Ec7A77f79c0bf9F97",
+  "address": "0xa728aa2de568766e2fa4544ec7a77f79c0bf9f97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

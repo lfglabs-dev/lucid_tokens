@@ -1,7 +1,7 @@
 {
   "symbol": "unibot",
   "name": "Unibot",
-  "address": "0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9",
+  "address": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

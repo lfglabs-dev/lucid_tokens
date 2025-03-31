@@ -1,7 +1,7 @@
 {
   "symbol": "gtc",
   "name": "Gitcoin",
-  "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+  "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
-    "near-protocol": "de30da39c46104798bb5aa3fe8b9e0e1f348163f.factory.bridge.near"
+    "ethereum": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
   }
 }

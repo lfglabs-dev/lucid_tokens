@@ -1,7 +1,7 @@
 {
   "symbol": "pho.d",
   "name": "Dinari PHO",
-  "address": "0x251530c7f24d6904A31425b9AFa24b0e1E5AAfdE",
+  "address": "0x251530c7f24d6904a31425b9afa24b0e1e5aafde",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

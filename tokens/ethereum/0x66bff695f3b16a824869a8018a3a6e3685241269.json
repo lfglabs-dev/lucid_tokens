@@ -1,7 +1,7 @@
 {
   "symbol": "brett",
   "name": "Bretter Brett",
-  "address": "0x66bFf695f3B16a824869a8018a3A6e3685241269",
+  "address": "0x66bff695f3b16a824869a8018a3a6e3685241269",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

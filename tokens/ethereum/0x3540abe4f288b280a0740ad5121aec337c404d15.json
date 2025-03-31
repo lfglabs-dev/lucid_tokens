@@ -1,7 +1,7 @@
 {
   "symbol": "tpro",
   "name": "TPRO Network",
-  "address": "0x3540abE4f288B280A0740ad5121aEc337c404D15",
+  "address": "0x3540abe4f288b280a0740ad5121aec337c404d15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

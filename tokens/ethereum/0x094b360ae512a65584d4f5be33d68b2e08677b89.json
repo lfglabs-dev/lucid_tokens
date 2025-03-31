@@ -1,7 +1,7 @@
 {
   "symbol": "usual*",
   "name": "USUAL Star",
-  "address": "0x094B360AE512A65584d4f5Be33D68B2E08677b89",
+  "address": "0x094b360ae512a65584d4f5be33d68b2e08677b89",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ducks",
   "name": "Ducks",
-  "address": "0x8666Cb197Af5103f7A3a0295B50EFEA47f3Df78B",
+  "address": "0x8666cb197af5103f7a3a0295b50efea47f3df78b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

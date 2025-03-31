@@ -1,7 +1,7 @@
 {
   "symbol": "lotus",
   "name": "LOTUS",
-  "address": "0xCC42b2B6D90e3747c2b8E62581183A88E3Ca093a",
+  "address": "0xcc42b2b6d90e3747c2b8e62581183a88e3ca093a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

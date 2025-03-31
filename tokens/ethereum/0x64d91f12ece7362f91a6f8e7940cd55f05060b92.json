@@ -1,7 +1,7 @@
 {
   "symbol": "ash",
   "name": "ASH",
-  "address": "0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92",
+  "address": "0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "seed",
   "name": "Garden",
-  "address": "0x5eed99d066a8CaF10f3E4327c1b3D8b673485eED",
+  "address": "0x5eed99d066a8caf10f3e4327c1b3d8b673485eed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

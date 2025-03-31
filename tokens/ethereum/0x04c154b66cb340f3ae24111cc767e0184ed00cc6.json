@@ -1,7 +1,7 @@
 {
   "symbol": "pxeth",
   "name": "Dinero Staked ETH",
-  "address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+  "address": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

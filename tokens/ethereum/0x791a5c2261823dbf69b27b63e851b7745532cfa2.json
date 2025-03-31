@@ -1,7 +1,7 @@
 {
   "symbol": "tua",
   "name": "Atua AI",
-  "address": "0x791A5c2261823dBF69b27B63E851B7745532Cfa2",
+  "address": "0x791a5c2261823dbf69b27b63e851b7745532cfa2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

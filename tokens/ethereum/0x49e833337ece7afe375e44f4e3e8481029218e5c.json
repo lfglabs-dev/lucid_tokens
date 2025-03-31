@@ -1,7 +1,7 @@
 {
   "symbol": "value",
   "name": "Value DeFi",
-  "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+  "address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

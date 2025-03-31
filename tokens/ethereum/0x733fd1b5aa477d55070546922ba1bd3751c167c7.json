@@ -1,7 +1,7 @@
 {
   "symbol": "zkgpt",
   "name": "ZKGPT",
-  "address": "0x733Fd1B5Aa477d55070546922Ba1Bd3751C167C7",
+  "address": "0x733fd1b5aa477d55070546922ba1bd3751c167c7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

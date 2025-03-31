@@ -1,7 +1,7 @@
 {
   "symbol": "thn",
   "name": "Throne",
-  "address": "0x2E95Cea14dd384429EB3c4331B776c4CFBB6FCD9",
+  "address": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

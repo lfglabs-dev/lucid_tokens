@@ -1,7 +1,7 @@
 {
   "symbol": "gob",
   "name": "Goons of Balatroon",
-  "address": "0x830eB1204380E9c44434Db8700257025358707c6",
+  "address": "0x830eb1204380e9c44434db8700257025358707c6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

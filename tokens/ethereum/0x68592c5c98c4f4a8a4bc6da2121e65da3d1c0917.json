@@ -1,7 +1,7 @@
 {
   "symbol": "usdlr",
   "name": "Stable USDLR",
-  "address": "0x68592c5c98C4F4A8a4bC6dA2121E65Da3d1c0917",
+  "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

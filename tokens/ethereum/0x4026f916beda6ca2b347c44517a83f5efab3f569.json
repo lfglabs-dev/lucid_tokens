@@ -1,7 +1,7 @@
 {
   "symbol": "jpm.d",
   "name": "Dinari JPM",
-  "address": "0x4026F916bEDa6Ca2B347C44517A83F5EFAB3F569",
+  "address": "0x4026f916beda6ca2b347c44517a83f5efab3f569",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mbase",
   "name": "Minebase",
-  "address": "0x291aa47C58558aDfc2bCD6f060578FDAE1F6570C",
+  "address": "0x291aa47c58558adfc2bcd6f060578fdae1f6570c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

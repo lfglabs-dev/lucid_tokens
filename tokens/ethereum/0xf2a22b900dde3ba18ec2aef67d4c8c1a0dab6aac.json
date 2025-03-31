@@ -1,7 +1,7 @@
 {
   "symbol": "monkeys",
   "name": "Monkeys",
-  "address": "0xf2A22B900dde3ba18Ec2AeF67D4c8C1a0DAB6aAC",
+  "address": "0xf2a22b900dde3ba18ec2aef67d4c8c1a0dab6aac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

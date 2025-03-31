@@ -1,7 +1,7 @@
 {
   "symbol": "xido",
   "name": "Xido Finance",
-  "address": "0xF6650117017FFD48B725B4EC5A00B414097108A7",
+  "address": "0xf6650117017ffd48b725b4ec5a00b414097108a7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

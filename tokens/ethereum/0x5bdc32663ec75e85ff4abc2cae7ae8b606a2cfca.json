@@ -1,7 +1,7 @@
 {
   "symbol": "cp",
   "name": "Cookies Protocol",
-  "address": "0x5BDC32663Ec75E85ff4abc2CAe7ae8B606A2CFCa",
+  "address": "0x5bdc32663ec75e85ff4abc2cae7ae8b606a2cfca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

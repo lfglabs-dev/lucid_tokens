@@ -1,7 +1,7 @@
 {
   "symbol": "$haram",
   "name": "Haram",
-  "address": "0xc961Da88bB5E8Ee2BA7dfd4c62a875eF80f7202F",
+  "address": "0xc961da88bb5e8ee2ba7dfd4c62a875ef80f7202f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

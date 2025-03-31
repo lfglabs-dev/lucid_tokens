@@ -1,7 +1,7 @@
 {
   "symbol": "arcona",
   "name": "Arcona",
-  "address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+  "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

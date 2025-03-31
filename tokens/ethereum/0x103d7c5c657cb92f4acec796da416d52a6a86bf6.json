@@ -1,7 +1,7 @@
 {
   "symbol": "azn.d",
   "name": "Dinari AZN",
-  "address": "0x103D7C5C657Cb92F4aCec796DA416d52A6a86Bf6",
+  "address": "0x103d7c5c657cb92f4acec796da416d52a6a86bf6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

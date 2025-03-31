@@ -1,7 +1,7 @@
 {
   "symbol": "morph",
   "name": "Morpheus",
-  "address": "0x4687f007da484EFE20D7A17E5B1D105CDBFCA0Eb",
+  "address": "0x4687f007da484efe20d7a17e5b1d105cdbfca0eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

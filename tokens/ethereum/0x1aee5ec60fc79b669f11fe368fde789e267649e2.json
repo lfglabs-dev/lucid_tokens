@@ -1,7 +1,7 @@
 {
   "symbol": "intbtc",
   "name": "Inception Restaked tBTC",
-  "address": "0x1AEe5EC60fc79B669f11FE368fDe789E267649e2",
+  "address": "0x1aee5ec60fc79b669f11fe368fde789e267649e2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

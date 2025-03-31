@@ -1,7 +1,7 @@
 {
   "symbol": "coshi",
   "name": "CoShi Inu",
-  "address": "0x668C50B1c7f46EFFBE3f242687071d7908AAB00A",
+  "address": "0x668c50b1c7f46effbe3f242687071d7908aab00a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

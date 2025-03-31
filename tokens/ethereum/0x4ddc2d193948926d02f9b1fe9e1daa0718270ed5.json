@@ -1,7 +1,7 @@
 {
   "symbol": "ceth",
   "name": "cETH",
-  "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+  "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

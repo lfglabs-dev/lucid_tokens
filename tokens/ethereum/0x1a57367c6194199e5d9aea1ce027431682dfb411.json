@@ -1,7 +1,7 @@
 {
   "symbol": "mdf",
   "name": "MatrixETF",
-  "address": "0x1a57367C6194199e5D9aEa1cE027431682dfB411",
+  "address": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
-    "solana": "ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z"
+    "ethereum": "0x1a57367c6194199e5d9aea1ce027431682dfb411"
   }
 }

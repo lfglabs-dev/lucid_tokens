@@ -1,7 +1,7 @@
 {
   "symbol": "ascn",
   "name": "AlphaScan AI",
-  "address": "0x378E97d19cF319EB311748FF4d9971DC349C8ad4",
+  "address": "0x378e97d19cf319eb311748ff4d9971dc349c8ad4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

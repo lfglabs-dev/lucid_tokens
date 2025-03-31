@@ -1,7 +1,7 @@
 {
   "symbol": "eon",
   "name": "Hyper",
-  "address": "0x60158131416F5e53D55D73A11BE2E203cB26Abcc",
+  "address": "0x60158131416f5e53d55d73a11be2e203cb26abcc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

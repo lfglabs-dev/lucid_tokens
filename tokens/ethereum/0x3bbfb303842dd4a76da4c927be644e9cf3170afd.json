@@ -1,7 +1,7 @@
 {
   "symbol": "xcredi",
   "name": "xCREDI",
-  "address": "0x3bBFb303842dD4a76Da4C927Be644E9cf3170afD",
+  "address": "0x3bbfb303842dd4a76da4c927be644e9cf3170afd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

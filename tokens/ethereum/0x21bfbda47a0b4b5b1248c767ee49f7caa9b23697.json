@@ -1,7 +1,7 @@
 {
   "symbol": "ovr",
   "name": "Ovr",
-  "address": "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697",
+  "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

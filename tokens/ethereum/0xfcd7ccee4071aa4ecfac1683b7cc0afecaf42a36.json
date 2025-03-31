@@ -1,7 +1,7 @@
 {
   "symbol": "blaze",
   "name": "Titan Blaze",
-  "address": "0xfcd7cceE4071aA4ecFAC1683b7CC0aFeCAF42A36",
+  "address": "0xfcd7ccee4071aa4ecfac1683b7cc0afecaf42a36",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

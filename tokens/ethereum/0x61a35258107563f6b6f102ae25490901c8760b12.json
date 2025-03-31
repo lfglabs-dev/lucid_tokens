@@ -1,7 +1,7 @@
 {
   "symbol": "kitty",
   "name": "Kitty Inu",
-  "address": "0x61a35258107563f6B6f102aE25490901C8760b12",
+  "address": "0x61a35258107563f6b6f102ae25490901c8760b12",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

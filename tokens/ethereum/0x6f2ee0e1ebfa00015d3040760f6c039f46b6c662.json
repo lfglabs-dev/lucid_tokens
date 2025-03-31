@@ -1,7 +1,7 @@
 {
   "symbol": "omnit",
   "name": "OmniTensor",
-  "address": "0x6f2eE0e1eBFA00015D3040760F6c039f46B6c662",
+  "address": "0x6f2ee0e1ebfa00015d3040760f6c039f46b6c662",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

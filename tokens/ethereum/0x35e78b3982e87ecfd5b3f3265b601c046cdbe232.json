@@ -1,7 +1,7 @@
 {
   "symbol": "xai",
   "name": "SideShift",
-  "address": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
+  "address": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

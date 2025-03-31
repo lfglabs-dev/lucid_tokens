@@ -1,7 +1,7 @@
 {
   "symbol": "gem",
   "name": "Gems",
-  "address": "0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f",
+  "address": "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

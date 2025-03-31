@@ -1,7 +1,7 @@
 {
   "symbol": "xpass",
   "name": "X-PASS",
-  "address": "0xb0dF0E6133Ce2bAe93F1bB1737Ed3f39593c67f5",
+  "address": "0xb0df0e6133ce2bae93f1bb1737ed3f39593c67f5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

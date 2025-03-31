@@ -1,7 +1,7 @@
 {
   "symbol": "stars",
   "name": "STARS",
-  "address": "0x04F121600c8C47A754636fc9d75661a9525e05D5",
+  "address": "0x04f121600c8c47a754636fc9d75661a9525e05d5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

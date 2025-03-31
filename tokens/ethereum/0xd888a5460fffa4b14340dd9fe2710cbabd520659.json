@@ -1,7 +1,7 @@
 {
   "symbol": "kol",
   "name": "ProtoKOLs",
-  "address": "0xd888A5460fFFA4B14340DD9Fe2710cbABd520659",
+  "address": "0xd888a5460fffa4b14340dd9fe2710cbabd520659",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

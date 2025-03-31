@@ -1,7 +1,7 @@
 {
   "symbol": "alink",
   "name": "Aave LINK",
-  "address": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
+  "address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

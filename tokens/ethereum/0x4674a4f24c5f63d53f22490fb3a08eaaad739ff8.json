@@ -1,7 +1,7 @@
 {
   "symbol": "brkl",
   "name": "Brokoli",
-  "address": "0x4674a4F24C5f63D53F22490Fb3A08eAAAD739ff8",
+  "address": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

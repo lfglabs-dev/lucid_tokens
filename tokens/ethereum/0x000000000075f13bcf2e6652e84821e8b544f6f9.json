@@ -1,7 +1,7 @@
 {
   "symbol": "sig",
   "name": "Signet",
-  "address": "0x000000000075F13bCF2E6652e84821e8b544F6F9",
+  "address": "0x000000000075f13bcf2e6652e84821e8b544f6f9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

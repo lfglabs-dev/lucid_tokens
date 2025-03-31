@@ -1,7 +1,7 @@
 {
   "symbol": "botc",
   "name": "Bot Compiler",
-  "address": "0x9532CA064278CE3BA4fcc66CEBec6d9F04F58f70",
+  "address": "0x9532ca064278ce3ba4fcc66cebec6d9f04f58f70",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

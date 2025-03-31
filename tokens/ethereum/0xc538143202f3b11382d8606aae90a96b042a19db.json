@@ -1,7 +1,7 @@
 {
   "symbol": "cnb",
   "name": "Coinsbit Token",
-  "address": "0xC538143202f3b11382D8606aae90a96b042a19DB",
+  "address": "0xc538143202f3b11382d8606aae90a96b042a19db",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

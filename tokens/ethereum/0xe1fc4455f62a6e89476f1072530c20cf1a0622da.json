@@ -1,7 +1,7 @@
 {
   "symbol": "phtr",
   "name": "Phuture",
-  "address": "0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA",
+  "address": "0xe1fc4455f62a6e89476f1072530c20cf1a0622da",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

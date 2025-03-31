@@ -1,7 +1,7 @@
 {
   "symbol": "trump",
   "name": "MAGA",
-  "address": "0x6aA56e1D98b3805921C170EB4B3fe7D4Fda6D89b",
+  "address": "0x6aa56e1d98b3805921c170eb4b3fe7d4fda6d89b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "grok",
   "name": "My life as Grok",
-  "address": "0x1c95519d3FC922Fc04Fcf5d099Be4a1ED8B15240",
+  "address": "0x1c95519d3fc922fc04fcf5d099be4a1ed8b15240",
   "decimals": 18,
   "type": "ERC20",
   "platforms": {

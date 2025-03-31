@@ -1,7 +1,7 @@
 {
   "symbol": "isikc",
   "name": "Isiklar Coin",
-  "address": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
+  "address": "0x42726d074bba68ccc15200442b72afa2d495a783",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

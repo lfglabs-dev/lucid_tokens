@@ -1,7 +1,7 @@
 {
   "symbol": "zeth",
   "name": "ZeroLiquid ETH",
-  "address": "0x776280F68aD33c4d49e6846507B7dBaf7811c89F",
+  "address": "0x776280f68ad33c4d49e6846507b7dbaf7811c89f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "eigen",
   "name": "Eigenlayer",
-  "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+  "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "waves",
   "name": "Waves",
-  "address": "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
+  "address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

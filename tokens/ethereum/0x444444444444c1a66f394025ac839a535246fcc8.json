@@ -1,7 +1,7 @@
 {
   "symbol": "geni",
   "name": "Genius",
-  "address": "0x444444444444C1a66F394025Ac839A535246FCc8",
+  "address": "0x444444444444c1a66f394025ac839a535246fcc8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

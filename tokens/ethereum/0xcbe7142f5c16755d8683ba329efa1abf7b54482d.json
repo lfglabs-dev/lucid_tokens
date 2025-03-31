@@ -1,7 +1,7 @@
 {
   "symbol": "mveda",
   "name": "MedicalVeda",
-  "address": "0xCBe7142F5c16755D8683BA329EFA1ABF7b54482d",
+  "address": "0xcbe7142f5c16755d8683ba329efa1abf7b54482d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

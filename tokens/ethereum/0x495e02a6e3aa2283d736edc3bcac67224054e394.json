@@ -1,7 +1,7 @@
 {
   "symbol": "runner",
   "name": "Runner",
-  "address": "0x495e02A6E3aa2283d736EdC3bcaC67224054E394",
+  "address": "0x495e02a6e3aa2283d736edc3bcac67224054e394",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

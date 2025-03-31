@@ -1,7 +1,7 @@
 {
   "symbol": "egs",
   "name": "EdgeSwap",
-  "address": "0xB009BFaAF85e53F55d8657781Eb69feAaed83672",
+  "address": "0xb009bfaaf85e53f55d8657781eb69feaaed83672",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

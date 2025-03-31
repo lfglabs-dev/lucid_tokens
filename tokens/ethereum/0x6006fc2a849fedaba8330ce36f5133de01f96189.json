@@ -1,7 +1,7 @@
 {
   "symbol": "shake",
   "name": "Spaceswap SHAKE",
-  "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
+  "address": "0x6006fc2a849fedaba8330ce36f5133de01f96189",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

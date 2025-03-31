@@ -1,7 +1,7 @@
 {
   "symbol": "hemule",
   "name": "Hemule",
-  "address": "0xeAA63125dd63f10874F99CdBbb18410e7Fc79dD3",
+  "address": "0xeaa63125dd63f10874f99cdbbb18410e7fc79dd3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

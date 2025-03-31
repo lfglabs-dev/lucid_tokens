@@ -1,7 +1,7 @@
 {
   "symbol": "mnta",
   "name": "Moneta",
-  "address": "0x5b342F03D126314d925Fa57A45654f92905e6451",
+  "address": "0x5b342f03d126314d925fa57a45654f92905e6451",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

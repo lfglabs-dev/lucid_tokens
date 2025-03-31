@@ -1,7 +1,7 @@
 {
   "symbol": "heu",
   "name": "Heurist",
-  "address": "0xec463D00aa4dA76fb112cD2e4AC1C6BeF02da6ea",
+  "address": "0xec463d00aa4da76fb112cd2e4ac1c6bef02da6ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

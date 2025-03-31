@@ -1,7 +1,7 @@
 {
   "symbol": "daumen",
   "name": "daumenfrosch",
-  "address": "0x80795A7bb55f003B1572411A271e31f73E03Dd73",
+  "address": "0x80795a7bb55f003b1572411a271e31f73e03dd73",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

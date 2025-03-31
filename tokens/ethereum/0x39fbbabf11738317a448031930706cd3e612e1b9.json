@@ -1,7 +1,7 @@
 {
   "symbol": "wxrp",
   "name": "Wrapped XRP",
-  "address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
+  "address": "0x39fbbabf11738317a448031930706cd3e612e1b9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

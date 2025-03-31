@@ -1,7 +1,7 @@
 {
   "symbol": "gusd",
   "name": "Gemini Dollar",
-  "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+  "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
-    "near-protocol": "056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near"
+    "ethereum": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd"
   }
 }

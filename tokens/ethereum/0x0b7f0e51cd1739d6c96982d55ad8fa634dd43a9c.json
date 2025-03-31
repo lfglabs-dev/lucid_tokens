@@ -1,7 +1,7 @@
 {
   "symbol": "dmt",
   "name": "Dream Machine Token",
-  "address": "0x0B7f0e51Cd1739D6C96982D55aD8fA634dd43A9C",
+  "address": "0x0b7f0e51cd1739d6c96982d55ad8fa634dd43a9c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

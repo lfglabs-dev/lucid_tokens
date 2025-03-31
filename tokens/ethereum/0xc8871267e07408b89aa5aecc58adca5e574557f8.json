@@ -1,7 +1,7 @@
 {
   "symbol": "iusdc",
   "name": "Instadapp USDC",
-  "address": "0xc8871267e07408b89aA5aEcc58AdCA5E574557F8",
+  "address": "0xc8871267e07408b89aa5aecc58adca5e574557f8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

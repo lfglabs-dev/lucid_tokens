@@ -1,7 +1,7 @@
 {
   "symbol": "clev",
   "name": "CLever",
-  "address": "0x72953a5C32413614d24C29c84a66AE4B59581Bbf",
+  "address": "0x72953a5c32413614d24c29c84a66ae4b59581bbf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

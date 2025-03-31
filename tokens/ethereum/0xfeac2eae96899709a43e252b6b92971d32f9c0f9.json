@@ -1,7 +1,7 @@
 {
   "symbol": "anyone",
   "name": "ANyONe Protocol",
-  "address": "0xFeAc2Eae96899709a43E252B6B92971D32F9C0F9",
+  "address": "0xfeac2eae96899709a43e252b6b92971d32f9c0f9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

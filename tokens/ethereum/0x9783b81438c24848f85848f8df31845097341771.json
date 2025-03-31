@@ -1,7 +1,7 @@
 {
   "symbol": "collar",
   "name": "Dog Collar",
-  "address": "0x9783B81438C24848f85848f8df31845097341771",
+  "address": "0x9783b81438c24848f85848f8df31845097341771",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

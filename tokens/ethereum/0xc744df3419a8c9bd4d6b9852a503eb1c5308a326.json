@@ -1,7 +1,7 @@
 {
   "symbol": "red",
   "name": "RED TOKEN",
-  "address": "0xC744df3419A8c9Bd4D6b9852A503eb1C5308A326",
+  "address": "0xc744df3419a8c9bd4d6b9852a503eb1c5308a326",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

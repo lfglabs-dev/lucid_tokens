@@ -1,7 +1,7 @@
 {
   "symbol": "neural",
   "name": "NEURALAI",
-  "address": "0x32B053F2CBA79F80ada5078cb6b305da92BDe6e1",
+  "address": "0x32b053f2cba79f80ada5078cb6b305da92bde6e1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

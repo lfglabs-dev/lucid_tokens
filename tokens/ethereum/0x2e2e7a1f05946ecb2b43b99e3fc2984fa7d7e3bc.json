@@ -1,7 +1,7 @@
 {
   "symbol": "andwu",
   "name": "Chinese Andy",
-  "address": "0x2E2e7a1F05946ecB2b43B99e3Fc2984Fa7d7e3Bc",
+  "address": "0x2e2e7a1f05946ecb2b43b99e3fc2984fa7d7e3bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pfrog",
   "name": "Peace Frog",
-  "address": "0xa44136dc2e7a1543ABbbF1C2a97E57c8d885e0bE",
+  "address": "0xa44136dc2e7a1543abbbf1c2a97e57c8d885e0be",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

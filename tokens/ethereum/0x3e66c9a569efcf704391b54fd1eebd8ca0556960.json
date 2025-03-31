@@ -1,7 +1,7 @@
 {
   "symbol": "fubao",
   "name": "Fu Bao",
-  "address": "0x3E66C9A569efcF704391B54Fd1eeBd8ca0556960",
+  "address": "0x3e66c9a569efcf704391b54fd1eebd8ca0556960",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

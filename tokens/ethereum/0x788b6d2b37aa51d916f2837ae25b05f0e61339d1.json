@@ -1,7 +1,7 @@
 {
   "symbol": "mvd",
   "name": "Metavault DAO",
-  "address": "0x788B6D2B37Aa51D916F2837Ae25b05f0e61339d1",
+  "address": "0x788b6d2b37aa51d916f2837ae25b05f0e61339d1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

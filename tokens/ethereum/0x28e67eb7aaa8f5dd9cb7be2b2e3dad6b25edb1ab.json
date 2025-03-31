@@ -1,7 +1,7 @@
 {
   "symbol": "keke",
   "name": "Freaky KEKE",
-  "address": "0x28E67eB7aAa8F5dd9cb7BE2B2E3daD6b25EdB1Ab",
+  "address": "0x28e67eb7aaa8f5dd9cb7be2b2e3dad6b25edb1ab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x28e67eb7aaa8f5dd9cb7be2b2e3dad6b25edb1ab",
-    "solana": "GgKDdEJ9n2NCHHonE5qSxVgPKGQNsbeXEkr1SHDLapPv"
+    "ethereum": "0x28e67eb7aaa8f5dd9cb7be2b2e3dad6b25edb1ab"
   }
 }

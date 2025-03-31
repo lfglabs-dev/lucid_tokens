@@ -1,7 +1,7 @@
 {
   "symbol": "tyrant",
   "name": "Fable Of The Dragon",
-  "address": "0x8EE325AE3E54e83956eF2d5952d3C8Bc1fa6ec27",
+  "address": "0x8ee325ae3e54e83956ef2d5952d3c8bc1fa6ec27",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

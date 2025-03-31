@@ -1,7 +1,7 @@
 {
   "symbol": "avgo.d",
   "name": "Dinari AVGO",
-  "address": "0x53afF1d59Ea64f7f836670E33e99A0443f0eF25C",
+  "address": "0x53aff1d59ea64f7f836670e33e99a0443f0ef25c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

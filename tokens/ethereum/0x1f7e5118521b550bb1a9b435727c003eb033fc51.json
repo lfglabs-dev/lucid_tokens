@@ -1,7 +1,7 @@
 {
   "symbol": "agla",
   "name": "Angola",
-  "address": "0x1F7e5118521B550bB1A9B435727c003eB033FC51",
+  "address": "0x1f7e5118521b550bb1a9b435727c003eb033fc51",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

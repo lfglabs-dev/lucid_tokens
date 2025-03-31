@@ -1,7 +1,7 @@
 {
   "symbol": "awx",
   "name": "AwesomeX",
-  "address": "0xa99AFcC6Aa4530d01DFFF8E55ec66E4C424c048c",
+  "address": "0xa99afcc6aa4530d01dfff8e55ec66e4c424c048c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

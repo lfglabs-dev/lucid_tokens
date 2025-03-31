@@ -1,7 +1,7 @@
 {
   "symbol": "fusdc",
   "name": "Fluid USDC",
-  "address": "0x9d1089802eE608BA84C5c98211afE5f37F96B36C",
+  "address": "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "arbitrum-one": "0x4cfa50b7ce747e2d61724fcac57f24b748ff2b2a",
-    "ethereum": "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
-    "solana": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+    "ethereum": "0x9d1089802ee608ba84c5c98211afe5f37f96b36c"
   }
 }

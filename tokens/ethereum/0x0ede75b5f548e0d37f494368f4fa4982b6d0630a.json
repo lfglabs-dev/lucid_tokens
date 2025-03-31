@@ -1,7 +1,7 @@
 {
   "symbol": "meg",
   "name": "Meg4mint",
-  "address": "0x0eDe75B5f548E0D37F494368F4FA4982b6d0630a",
+  "address": "0x0ede75b5f548e0d37f494368f4fa4982b6d0630a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

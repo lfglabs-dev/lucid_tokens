@@ -1,7 +1,7 @@
 {
   "symbol": "ntmpi",
   "name": "Neutaro",
-  "address": "0x53BE7BE0CE7f92bCbd2138305735160Fb799BE4F",
+  "address": "0x53be7be0ce7f92bcbd2138305735160fb799be4f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x53be7be0ce7f92bcbd2138305735160fb799be4f",
-    "osmosis": "ibc/DAED51CBD967A3BE0C467687970AFD97B202AFE4A1718B36936F49178AFE0133"
+    "ethereum": "0x53be7be0ce7f92bcbd2138305735160fb799be4f"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "kns",
   "name": "Kenshi",
-  "address": "0xf1264873436A0771E440E2b28072FAfcC5EEBd01",
+  "address": "0xf1264873436a0771e440e2b28072fafcc5eebd01",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

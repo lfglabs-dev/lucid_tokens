@@ -1,7 +1,7 @@
 {
   "symbol": "fbtc.d",
   "name": "Dinari FBTC",
-  "address": "0x33E5b290bAdbD8Ba868b51a72ab6062601F9E9B2",
+  "address": "0x33e5b290badbd8ba868b51a72ab6062601f9e9b2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

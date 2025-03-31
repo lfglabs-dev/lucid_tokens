@@ -1,7 +1,7 @@
 {
   "symbol": "pepy",
   "name": "Pepy coin",
-  "address": "0xa1e349faC47e50b42Cd323C4285EF4622b60a5e0",
+  "address": "0xa1e349fac47e50b42cd323c4285ef4622b60a5e0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

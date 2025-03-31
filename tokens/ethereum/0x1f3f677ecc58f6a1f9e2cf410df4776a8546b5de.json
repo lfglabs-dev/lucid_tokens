@@ -1,7 +1,7 @@
 {
   "symbol": "vndc",
   "name": "VNDC",
-  "address": "0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
+  "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

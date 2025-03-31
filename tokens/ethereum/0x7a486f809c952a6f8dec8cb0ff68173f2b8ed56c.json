@@ -1,7 +1,7 @@
 {
   "symbol": "usdx",
   "name": "Hex Trust USD",
-  "address": "0x7A486F809c952a6f8dEc8cb0Ff68173F2B8ED56c",
+  "address": "0x7a486f809c952a6f8dec8cb0ff68173f2b8ed56c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

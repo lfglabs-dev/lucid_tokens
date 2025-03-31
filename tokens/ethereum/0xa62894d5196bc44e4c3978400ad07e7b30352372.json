@@ -1,7 +1,7 @@
 {
   "symbol": "x",
   "name": "X",
-  "address": "0xa62894D5196bC44e4C3978400Ad07E7b30352372",
+  "address": "0xa62894d5196bc44e4c3978400ad07e7b30352372",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

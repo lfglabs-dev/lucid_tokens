@@ -1,7 +1,7 @@
 {
   "symbol": "jarvis",
   "name": "Jarvis",
-  "address": "0xBD8FdDa057de7e0162b7A386BeC253844B5E07A5",
+  "address": "0xbd8fdda057de7e0162b7a386bec253844b5e07a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

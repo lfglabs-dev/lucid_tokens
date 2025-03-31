@@ -1,7 +1,7 @@
 {
   "symbol": "bcnt",
   "name": "Bincentive",
-  "address": "0x9669890e48f330ACD88b78D63E1A6b3482652CD9",
+  "address": "0x9669890e48f330acd88b78d63e1a6b3482652cd9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "halving",
   "name": "Halving",
-  "address": "0x665f4709940F557E9dDe63DF0FD9cF6425852b4D",
+  "address": "0x665f4709940f557e9dde63df0fd9cf6425852b4d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

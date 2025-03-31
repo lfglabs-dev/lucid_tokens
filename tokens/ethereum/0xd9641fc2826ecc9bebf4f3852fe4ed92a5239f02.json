@@ -1,7 +1,7 @@
 {
   "symbol": "avent",
   "name": "Aventa",
-  "address": "0xd9641fC2826Ecc9beBf4F3852fe4ED92a5239F02",
+  "address": "0xd9641fc2826ecc9bebf4f3852fe4ed92a5239f02",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

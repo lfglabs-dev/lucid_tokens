@@ -1,7 +1,7 @@
 {
   "symbol": "cnw",
   "name": "CoinWealth",
-  "address": "0x433FCe7dfbEc729A79999EAf056Cb073B2153ebA",
+  "address": "0x433fce7dfbec729a79999eaf056cb073b2153eba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

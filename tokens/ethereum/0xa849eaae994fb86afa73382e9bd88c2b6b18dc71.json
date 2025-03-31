@@ -1,7 +1,7 @@
 {
   "symbol": "mvl",
   "name": "MVL",
-  "address": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
+  "address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
-    "the-open-network": "EQD2yazA2wf5AY2joEzGUDGk0cQWxEa2NdiP4Zgf9-eF04tp",
     "binance-smart-chain": "0x5f588efaf8eb57e3837486e834fc5a4e07768d98"
   }
 }

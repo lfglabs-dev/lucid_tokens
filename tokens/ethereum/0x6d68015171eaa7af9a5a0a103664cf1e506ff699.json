@@ -1,7 +1,7 @@
 {
   "symbol": "tuzki",
   "name": "Tuzki",
-  "address": "0x6D68015171EAa7af9a5a0a103664CF1e506Ff699",
+  "address": "0x6d68015171eaa7af9a5a0a103664cf1e506ff699",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

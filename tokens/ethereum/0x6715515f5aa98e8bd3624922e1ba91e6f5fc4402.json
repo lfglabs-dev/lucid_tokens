@@ -1,7 +1,7 @@
 {
   "symbol": "ssnc",
   "name": "SatoshiSync",
-  "address": "0x6715515F5aA98e8Bd3624922E1Ba91e6f5fc4402",
+  "address": "0x6715515f5aa98e8bd3624922e1ba91e6f5fc4402",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

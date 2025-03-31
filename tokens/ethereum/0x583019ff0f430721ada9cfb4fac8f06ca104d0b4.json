@@ -1,7 +1,7 @@
 {
   "symbol": "st-yeth",
   "name": "Staked Yearn Ether",
-  "address": "0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4",
+  "address": "0x583019ff0f430721ada9cfb4fac8f06ca104d0b4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

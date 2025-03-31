@@ -1,7 +1,7 @@
 {
   "symbol": "drc",
   "name": "Digital Reserve Currency",
-  "address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+  "address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

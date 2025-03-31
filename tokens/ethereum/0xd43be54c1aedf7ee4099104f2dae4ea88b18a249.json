@@ -1,7 +1,7 @@
 {
   "symbol": "traxx",
   "name": "Traxx",
-  "address": "0xD43Be54C1aedf7Ee4099104f2DaE4eA88B18A249",
+  "address": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

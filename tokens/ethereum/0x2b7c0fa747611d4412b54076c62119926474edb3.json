@@ -1,7 +1,7 @@
 {
   "symbol": "ncat",
   "name": "Neuracat",
-  "address": "0x2B7c0fa747611D4412B54076c62119926474EDb3",
+  "address": "0x2b7c0fa747611d4412b54076c62119926474edb3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "saitabit",
   "name": "SaitaBit",
-  "address": "0x927402ab67c0CDA3c187E9DFE34554AC581441f2",
+  "address": "0x927402ab67c0cda3c187e9dfe34554ac581441f2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

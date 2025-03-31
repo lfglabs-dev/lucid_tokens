@@ -1,7 +1,7 @@
 {
   "symbol": "tmns",
   "name": "Terminus",
-  "address": "0x70054a18E57bD9e21E8B6361f6a8dFcD86CdC7d0",
+  "address": "0x70054a18e57bd9e21e8b6361f6a8dfcd86cdc7d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

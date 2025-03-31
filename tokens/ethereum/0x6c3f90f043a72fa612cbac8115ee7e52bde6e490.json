@@ -1,7 +1,7 @@
 {
   "symbol": "3crv",
   "name": "LP 3pool Curve",
-  "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+  "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "btc",
   "name": "BlackrockTradingCurrency",
-  "address": "0xbD6323A83b613F668687014E8A5852079494fB68",
+  "address": "0xbd6323a83b613f668687014e8a5852079494fb68",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

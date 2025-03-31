@@ -1,7 +1,7 @@
 {
   "symbol": "relay",
   "name": "Relay Chain",
-  "address": "0x5D843Fa9495d23dE997C394296ac7B4D721E841c",
+  "address": "0x5d843fa9495d23de997c394296ac7b4d721e841c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

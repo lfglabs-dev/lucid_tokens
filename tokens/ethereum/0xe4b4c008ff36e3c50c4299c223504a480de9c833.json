@@ -1,7 +1,7 @@
 {
   "symbol": "ss",
   "name": "Secret Society",
-  "address": "0xe4b4C008Ff36E3C50c4299c223504a480DE9C833",
+  "address": "0xe4b4c008ff36e3c50c4299c223504a480de9c833",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

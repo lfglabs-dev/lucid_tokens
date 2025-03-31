@@ -1,7 +1,7 @@
 {
   "symbol": "klear",
   "name": "Klear",
-  "address": "0x18EFf407bf611ffaab8D8E97E88bf840b8337a35",
+  "address": "0x18eff407bf611ffaab8d8e97e88bf840b8337a35",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

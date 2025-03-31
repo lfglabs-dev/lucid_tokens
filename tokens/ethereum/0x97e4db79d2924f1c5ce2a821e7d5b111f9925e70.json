@@ -1,7 +1,7 @@
 {
   "symbol": "jnj.d",
   "name": "Dinari JNJ",
-  "address": "0x97E4DB79d2924f1C5CE2a821e7d5b111F9925E70",
+  "address": "0x97e4db79d2924f1c5ce2a821e7d5b111f9925e70",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

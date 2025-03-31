@@ -1,7 +1,7 @@
 {
   "symbol": "pal",
   "name": "Crypto Pal",
-  "address": "0x2637ffecE0217aE626529f6775167020F1c17D83",
+  "address": "0x2637ffece0217ae626529f6775167020f1c17d83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cpal",
   "name": "Chainpal",
-  "address": "0x78965B1c638a7Ff408d1697a96d7b8E47Bb7C75F",
+  "address": "0x78965b1c638a7ff408d1697a96d7b8e47bb7c75f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "smol",
   "name": "SMOL",
-  "address": "0x53ccE6d10e43d1B3D11872Ad22eC2aCd8d2537B8",
+  "address": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "5KHQeeQvM4qBtmX3WnaCMGpM3Th7jYpqcHf3c6qzPodM",
     "ethereum": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "purse",
   "name": "Pundi X PURSE",
-  "address": "0x95987b0cdC7F65d989A30B3B7132a38388c548Eb",
+  "address": "0x95987b0cdc7f65d989a30b3b7132a38388c548eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

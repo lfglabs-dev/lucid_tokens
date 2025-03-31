@@ -1,7 +1,7 @@
 {
   "symbol": "xels",
   "name": "XELS",
-  "address": "0x397Deb686C72384FAd502A81f4d7fDb89e1f1280",
+  "address": "0x397deb686c72384fad502a81f4d7fdb89e1f1280",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

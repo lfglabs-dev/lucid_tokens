@@ -1,7 +1,7 @@
 {
   "symbol": "simpson",
   "name": "Homer",
-  "address": "0x44aAd22aFbB2606d7828Ca1f8f9E5af00e779AE1",
+  "address": "0x44aad22afbb2606d7828ca1f8f9e5af00e779ae1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

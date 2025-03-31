@@ -1,7 +1,7 @@
 {
   "symbol": "smp",
   "name": "Seamoon Protocol",
-  "address": "0x7D36F7D8e9220F021305B8F13414C87DF688aa8B",
+  "address": "0x7d36f7d8e9220f021305b8f13414c87df688aa8b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

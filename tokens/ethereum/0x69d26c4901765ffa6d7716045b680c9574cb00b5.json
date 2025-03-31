@@ -1,7 +1,7 @@
 {
   "symbol": "honkler",
   "name": "Honkler",
-  "address": "0x69D26C4901765ffA6d7716045b680c9574CB00B5",
+  "address": "0x69d26c4901765ffa6d7716045b680c9574cb00b5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

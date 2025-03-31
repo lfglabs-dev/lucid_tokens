@@ -1,7 +1,7 @@
 {
   "symbol": "whirl",
   "name": "Whirl",
-  "address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
+  "address": "0xb7037457de15fed6cbecc0c62d5d610834b958ec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

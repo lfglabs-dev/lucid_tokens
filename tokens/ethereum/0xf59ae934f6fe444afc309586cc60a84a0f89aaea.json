@@ -1,7 +1,7 @@
 {
   "symbol": "pdex",
   "name": "Polkadex",
-  "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+  "address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
-    "sora": "0x008a99c642c508f4f718598f32fa9ecbeea854e335312fecdbd298b92de26e21"
+    "ethereum": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea"
   }
 }

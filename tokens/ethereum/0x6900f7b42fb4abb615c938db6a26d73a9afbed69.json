@@ -1,7 +1,7 @@
 {
   "symbol": "dxy",
   "name": "US Degen Index 6900",
-  "address": "0x6900F7B42fb4abb615c938DB6a26d73a9AFbed69",
+  "address": "0x6900f7b42fb4abb615c938db6a26d73a9afbed69",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "drv",
   "name": "Derive",
-  "address": "0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE",
+  "address": "0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

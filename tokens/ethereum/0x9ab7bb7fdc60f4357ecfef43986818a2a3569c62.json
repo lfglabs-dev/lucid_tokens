@@ -1,7 +1,7 @@
 {
   "symbol": "gog",
   "name": "Guild of Guardians",
-  "address": "0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62",
+  "address": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

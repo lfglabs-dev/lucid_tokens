@@ -1,7 +1,7 @@
 {
   "symbol": "gec",
   "name": "Geometric Energy Corporation",
-  "address": "0x3001f57F8308b189EB412a64322Aad5eF9951290",
+  "address": "0x3001f57f8308b189eb412a64322aad5ef9951290",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

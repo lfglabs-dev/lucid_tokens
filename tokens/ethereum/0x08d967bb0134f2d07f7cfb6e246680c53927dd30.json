@@ -1,7 +1,7 @@
 {
   "symbol": "math",
   "name": "MATH",
-  "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+  "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -13,7 +13,6 @@
     "ethereum": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
     "binance-smart-chain": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
     "arbitrum-one": "0x99f40b01ba9c469193b360f72740e416b17ac332",
-    "base": "0x9e81f6495ba29a6b4d48bddd042c0598fa8abc9f",
-    "solana": "CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q"
+    "base": "0x9e81f6495ba29a6b4d48bddd042c0598fa8abc9f"
   }
 }

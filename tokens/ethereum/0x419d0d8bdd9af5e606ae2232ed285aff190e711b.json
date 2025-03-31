@@ -1,7 +1,7 @@
 {
   "symbol": "fun",
   "name": "FUNToken",
-  "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+  "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lnq",
   "name": "LinqAI",
-  "address": "0xD4F4D0a10BcaE123bB6655E8Fe93a30d01eEbD04",
+  "address": "0xd4f4d0a10bcae123bb6655e8fe93a30d01eebd04",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

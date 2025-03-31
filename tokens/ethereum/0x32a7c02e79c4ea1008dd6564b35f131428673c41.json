@@ -1,7 +1,7 @@
 {
   "symbol": "cru",
   "name": "Crust Network",
-  "address": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+  "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

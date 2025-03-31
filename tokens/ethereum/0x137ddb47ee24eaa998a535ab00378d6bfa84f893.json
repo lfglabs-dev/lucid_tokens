@@ -1,7 +1,7 @@
 {
   "symbol": "rdnt",
   "name": "Radiant Capital",
-  "address": "0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893",
+  "address": "0x137ddb47ee24eaa998a535ab00378d6bfa84f893",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

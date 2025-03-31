@@ -1,7 +1,7 @@
 {
   "symbol": "pop",
   "name": "POP Network",
-  "address": "0x5D858bcd53E085920620549214a8b27CE2f04670",
+  "address": "0x5d858bcd53e085920620549214a8b27ce2f04670",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

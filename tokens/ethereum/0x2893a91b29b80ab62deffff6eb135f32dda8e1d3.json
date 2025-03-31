@@ -1,7 +1,7 @@
 {
   "symbol": "fai",
   "name": "FORTIFY AI",
-  "address": "0x2893A91B29b80aB62dEfFFF6Eb135f32DDA8e1D3",
+  "address": "0x2893a91b29b80ab62deffff6eb135f32dda8e1d3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "$dojo",
   "name": "Dojo Supercomputer",
-  "address": "0x8260328d0C405D9Ca061D80199102DdC9089e43C",
+  "address": "0x8260328d0c405d9ca061d80199102ddc9089e43c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

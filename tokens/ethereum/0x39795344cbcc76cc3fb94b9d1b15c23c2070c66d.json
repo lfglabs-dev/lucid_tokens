@@ -1,7 +1,7 @@
 {
   "symbol": "share",
   "name": "Seigniorage Shares",
-  "address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
+  "address": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

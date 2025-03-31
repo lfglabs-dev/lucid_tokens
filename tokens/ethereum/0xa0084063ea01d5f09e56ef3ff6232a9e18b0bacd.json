@@ -1,7 +1,7 @@
 {
   "symbol": "cydx",
   "name": "CyberDEX",
-  "address": "0xA0084063Ea01D5F09E56EF3fF6232A9e18B0BACD",
+  "address": "0xa0084063ea01d5f09e56ef3ff6232a9e18b0bacd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cmpt",
   "name": "Spatial Computing",
-  "address": "0x3d000462Fb9826804a45c0EA869b83b69587F2dB",
+  "address": "0x3d000462fb9826804a45c0ea869b83b69587f2db",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

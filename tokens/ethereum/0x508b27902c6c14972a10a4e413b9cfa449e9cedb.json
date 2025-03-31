@@ -1,7 +1,7 @@
 {
   "symbol": "aisig",
   "name": "AISignal",
-  "address": "0x508B27902C6c14972a10a4e413B9cFA449e9ceDB",
+  "address": "0x508b27902c6c14972a10a4e413b9cfa449e9cedb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

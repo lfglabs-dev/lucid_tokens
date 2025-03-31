@@ -1,7 +1,7 @@
 {
   "symbol": "drep",
   "name": "Drep",
-  "address": "0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2",
+  "address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

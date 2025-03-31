@@ -1,7 +1,7 @@
 {
   "symbol": "memeai",
   "name": "Meme AI Coin",
-  "address": "0x695d38EB4e57E0f137e36df7c1f0f2635981246b",
+  "address": "0x695d38eb4e57e0f137e36df7c1f0f2635981246b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

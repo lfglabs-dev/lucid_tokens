@@ -1,7 +1,7 @@
 {
   "symbol": "vice",
   "name": "VICE",
-  "address": "0xfd409Bc96d126bC8a56479d4c7672015D539F96C",
+  "address": "0xfd409bc96d126bc8a56479d4c7672015d539f96c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

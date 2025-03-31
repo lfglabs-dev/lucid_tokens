@@ -1,7 +1,7 @@
 {
   "symbol": "miko",
   "name": "MemeCoinGirl",
-  "address": "0x4e09AC09Eb332F4dD167b8BFB90c7f247f7350AC",
+  "address": "0x4e09ac09eb332f4dd167b8bfb90c7f247f7350ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

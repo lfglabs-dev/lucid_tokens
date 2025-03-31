@@ -1,7 +1,7 @@
 {
   "symbol": "trade",
   "name": "Polytrade",
-  "address": "0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1",
+  "address": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

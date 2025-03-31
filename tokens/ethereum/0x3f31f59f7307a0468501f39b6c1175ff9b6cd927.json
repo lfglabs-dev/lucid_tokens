@@ -1,7 +1,7 @@
 {
   "symbol": "zora",
   "name": "Zora AI",
-  "address": "0x3F31f59F7307A0468501f39B6c1175fF9b6cD927",
+  "address": "0x3f31f59f7307a0468501f39b6c1175ff9b6cd927",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

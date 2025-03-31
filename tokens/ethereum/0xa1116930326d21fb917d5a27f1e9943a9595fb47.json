@@ -1,7 +1,7 @@
 {
   "symbol": "stkabpt",
   "name": "Staked Aave Balancer Pool Token",
-  "address": "0xa1116930326D21fB917d5A27F1E9943A9595fb47",
+  "address": "0xa1116930326d21fb917d5a27f1e9943a9595fb47",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

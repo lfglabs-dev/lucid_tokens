@@ -1,7 +1,7 @@
 {
   "symbol": "$roar",
   "name": "Roaring Kitty",
-  "address": "0xD8C978de79E12728e38aa952a6cB4166F891790f",
+  "address": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

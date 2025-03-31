@@ -1,7 +1,7 @@
 {
   "symbol": "shang",
   "name": "Shanghai Inu",
-  "address": "0xee772CEc929D8430b4Fa7a01cD7FbD159a68Aa83",
+  "address": "0xee772cec929d8430b4fa7a01cd7fbd159a68aa83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

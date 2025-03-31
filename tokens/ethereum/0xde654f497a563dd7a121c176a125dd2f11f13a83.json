@@ -1,7 +1,7 @@
 {
   "symbol": "wxm",
   "name": "WeatherXM",
-  "address": "0xde654f497A563dd7A121c176a125dD2F11F13a83",
+  "address": "0xde654f497a563dd7a121c176a125dd2f11f13a83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xde654f497a563dd7a121c176a125dd2f11f13a83",
-    "arbitrum-one": "0xb6093b61544572ab42a0e43af08abafd41bf25a6",
-    "solana": "wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP"
+    "arbitrum-one": "0xb6093b61544572ab42a0e43af08abafd41bf25a6"
   }
 }

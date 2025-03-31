@@ -1,7 +1,7 @@
 {
   "symbol": "huge",
   "name": "HugeWin",
-  "address": "0xEC12BA5AC0F259e9ac6FC9A3bC23a76Ad2fDE5D9",
+  "address": "0xec12ba5ac0f259e9ac6fc9a3bc23a76ad2fde5d9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mzero",
   "name": "MetaZero",
-  "address": "0x328a268b191ef593B72498a9e8a481C086EB21be",
+  "address": "0x328a268b191ef593b72498a9e8a481c086eb21be",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

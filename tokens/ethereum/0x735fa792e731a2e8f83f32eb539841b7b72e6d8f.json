@@ -1,7 +1,7 @@
 {
   "symbol": "eeur",
   "name": "ARYZE eEUR",
-  "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+  "address": "0x735fa792e731a2e8f83f32eb539841b7b72e6d8f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

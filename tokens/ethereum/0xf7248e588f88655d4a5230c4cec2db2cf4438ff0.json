@@ -1,7 +1,7 @@
 {
   "symbol": "tqqq.d",
   "name": "Dinari TQQQ",
-  "address": "0xF7248e588F88655D4A5230c4cEC2dB2CF4438Ff0",
+  "address": "0xf7248e588f88655d4a5230c4cec2db2cf4438ff0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

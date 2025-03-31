@@ -1,7 +1,7 @@
 {
   "symbol": "berna",
   "name": "Backed ERNA $ Bond",
-  "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
+  "address": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

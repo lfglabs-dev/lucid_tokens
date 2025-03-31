@@ -1,7 +1,7 @@
 {
   "symbol": "heel",
   "name": "Good Dog",
-  "address": "0xf941D3AAbf2EE0F5589E68Ba6047b8329592B366",
+  "address": "0xf941d3aabf2ee0f5589e68ba6047b8329592b366",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

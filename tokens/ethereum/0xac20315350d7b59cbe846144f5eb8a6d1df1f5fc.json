@@ -1,7 +1,7 @@
 {
   "symbol": "rddt.d",
   "name": "Dinari RDDT",
-  "address": "0xAC20315350d7B59cBE846144f5Eb8a6D1DF1F5fC",
+  "address": "0xac20315350d7b59cbe846144f5eb8a6d1df1f5fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

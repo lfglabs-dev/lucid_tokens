@@ -1,7 +1,7 @@
 {
   "symbol": "bgb",
   "name": "Bitget Token",
-  "address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
+  "address": "0x54d2252757e1672eead234d27b1270728ff90581",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

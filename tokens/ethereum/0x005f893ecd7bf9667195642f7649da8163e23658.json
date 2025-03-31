@@ -1,7 +1,7 @@
 {
   "symbol": "dgneth",
   "name": "Degen ETH Staked ETH",
-  "address": "0x005F893EcD7bF9667195642f7649DA8163e23658",
+  "address": "0x005f893ecd7bf9667195642f7649da8163e23658",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

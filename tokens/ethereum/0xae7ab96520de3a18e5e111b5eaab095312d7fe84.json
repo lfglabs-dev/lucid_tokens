@@ -1,7 +1,7 @@
 {
   "symbol": "steth",
   "name": "Lido Staked Ether",
-  "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+  "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

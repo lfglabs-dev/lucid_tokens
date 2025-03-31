@@ -1,7 +1,7 @@
 {
   "symbol": "ggmt",
   "name": "GG MetaGame",
-  "address": "0x76aAb5FD2243d99EAc92d4d9EBF23525d3ACe4Ec",
+  "address": "0x76aab5fd2243d99eac92d4d9ebf23525d3ace4ec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "dci",
   "name": "Decentralized Cloud Infra",
-  "address": "0xC6221AC4E99066ea5443ACd67D6108F874E2533D",
+  "address": "0xc6221ac4e99066ea5443acd67d6108f874e2533d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

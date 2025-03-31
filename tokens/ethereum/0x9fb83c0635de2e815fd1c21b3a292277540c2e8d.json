@@ -1,7 +1,7 @@
 {
   "symbol": "fevr",
   "name": "RealFevr",
-  "address": "0x9fB83c0635De2E815fd1c21b3a292277540C2e8d",
+  "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

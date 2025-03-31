@@ -1,7 +1,7 @@
 {
   "symbol": "eva",
   "name": "Evanesco Network",
-  "address": "0xd6cAF5Bd23CF057f5FcCCE295Dcc50C01C198707",
+  "address": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cnct",
   "name": "Connect",
-  "address": "0x516D339afA72f6959b8E06a31FBc32Da3E49348B",
+  "address": "0x516d339afa72f6959b8e06a31fbc32da3e49348b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

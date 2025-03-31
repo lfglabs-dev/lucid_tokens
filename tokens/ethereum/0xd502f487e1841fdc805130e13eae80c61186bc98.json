@@ -1,7 +1,7 @@
 {
   "symbol": "itgr",
   "name": "Integral",
-  "address": "0xD502F487e1841Fdc805130e13eae80c61186Bc98",
+  "address": "0xd502f487e1841fdc805130e13eae80c61186bc98",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

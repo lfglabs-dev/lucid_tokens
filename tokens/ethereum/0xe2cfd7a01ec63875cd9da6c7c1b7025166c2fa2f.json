@@ -1,7 +1,7 @@
 {
   "symbol": "hyper",
   "name": "Hyper",
-  "address": "0xE2cfD7a01ec63875cd9Da6C7c1B7025166c2fA2F",
+  "address": "0xe2cfd7a01ec63875cd9da6c7c1b7025166c2fa2f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

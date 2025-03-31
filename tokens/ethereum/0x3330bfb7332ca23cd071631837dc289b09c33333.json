@@ -1,7 +1,7 @@
 {
   "symbol": "rbc",
   "name": "Rubic",
-  "address": "0x3330BFb7332cA23cd071631837dC289B09C33333",
+  "address": "0x3330bfb7332ca23cd071631837dc289b09c33333",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

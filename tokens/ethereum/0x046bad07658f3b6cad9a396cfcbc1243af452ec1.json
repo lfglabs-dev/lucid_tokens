@@ -1,7 +1,7 @@
 {
   "symbol": "al",
   "name": "ArchLoot",
-  "address": "0x046BAd07658f3B6cAd9A396CFcbC1243AF452ec1",
+  "address": "0x046bad07658f3b6cad9a396cfcbc1243af452ec1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "squares",
   "name": "SquaresAI",
-  "address": "0x3F962f6325E61b90bae9971f110863c4E67036E2",
+  "address": "0x3f962f6325e61b90bae9971f110863c4e67036e2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

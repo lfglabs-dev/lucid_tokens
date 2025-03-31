@@ -1,7 +1,7 @@
 {
   "symbol": "poli",
   "name": "Polinate",
-  "address": "0xa1a36D3537bBe375Cc9694795F663DDC8D516Db9",
+  "address": "0xa1a36d3537bbe375cc9694795f663ddc8d516db9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

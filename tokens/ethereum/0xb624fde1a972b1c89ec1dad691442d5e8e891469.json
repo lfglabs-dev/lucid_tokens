@@ -1,7 +1,7 @@
 {
   "symbol": "spork",
   "name": "SporkDAO",
-  "address": "0xb624FdE1a972B1C89eC1dAD691442d5E8E891469",
+  "address": "0xb624fde1a972b1c89ec1dad691442d5e8e891469",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

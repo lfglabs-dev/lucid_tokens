@@ -1,7 +1,7 @@
 {
   "symbol": "fdai",
   "name": "Flux DAI",
-  "address": "0xe2bA8693cE7474900A045757fe0efCa900F6530b",
+  "address": "0xe2ba8693ce7474900a045757fe0efca900f6530b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "sor",
   "name": "Sorcery Finance",
-  "address": "0x5197Ab79b03F1479cBf391A2030b8883546Ff251",
+  "address": "0x5197ab79b03f1479cbf391a2030b8883546ff251",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

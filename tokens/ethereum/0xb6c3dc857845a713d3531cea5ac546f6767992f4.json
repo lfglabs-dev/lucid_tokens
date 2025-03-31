@@ -1,7 +1,7 @@
 {
   "symbol": "adco",
   "name": "Advertise Coin",
-  "address": "0xB6c3DC857845a713d3531cea5ac546F6767992F4",
+  "address": "0xb6c3dc857845a713d3531cea5ac546f6767992f4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

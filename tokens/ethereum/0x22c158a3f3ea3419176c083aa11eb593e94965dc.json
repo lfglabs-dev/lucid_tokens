@@ -1,7 +1,7 @@
 {
   "symbol": "qtc",
   "name": "Quantum Cloak",
-  "address": "0x22C158a3F3Ea3419176C083Aa11EB593e94965Dc",
+  "address": "0x22c158a3f3ea3419176c083aa11eb593e94965dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

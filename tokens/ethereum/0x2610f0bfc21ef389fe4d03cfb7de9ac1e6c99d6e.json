@@ -1,7 +1,7 @@
 {
   "symbol": "skyrim",
   "name": "Skyrim Finance",
-  "address": "0x2610F0bFC21EF389fe4D03CFB7De9ac1E6C99D6E",
+  "address": "0x2610f0bfc21ef389fe4d03cfb7de9ac1e6c99d6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

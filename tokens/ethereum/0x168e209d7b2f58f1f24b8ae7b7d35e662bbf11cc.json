@@ -1,7 +1,7 @@
 {
   "symbol": "lai",
   "name": "LayerAI",
-  "address": "0x168e209D7b2F58f1f24b8Ae7B7d35E662bBF11Cc",
+  "address": "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc",
-    "binance-smart-chain": "0x776f9987d9deed90eed791cbd824d971fd5ccf09",
-    "solana": "44fvUC89PJcFDNFFXXevaqMa5BXXCQXNGJRfTMiEQhBE"
+    "binance-smart-chain": "0x776f9987d9deed90eed791cbd824d971fd5ccf09"
   }
 }

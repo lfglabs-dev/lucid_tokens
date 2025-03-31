@@ -1,7 +1,7 @@
 {
   "symbol": "beef",
   "name": "PepeBull",
-  "address": "0xbeef698bd78139829e540622D5863E723E8715f1",
+  "address": "0xbeef698bd78139829e540622d5863e723e8715f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

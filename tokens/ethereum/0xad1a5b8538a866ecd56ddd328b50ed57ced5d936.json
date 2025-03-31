@@ -1,7 +1,7 @@
 {
   "symbol": "genslr",
   "name": "Good Gensler",
-  "address": "0xAd1A5B8538a866eCD56dDd328b50ed57cEd5D936",
+  "address": "0xad1a5b8538a866ecd56ddd328b50ed57ced5d936",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

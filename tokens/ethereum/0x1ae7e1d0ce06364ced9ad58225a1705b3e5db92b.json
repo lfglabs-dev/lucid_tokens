@@ -1,7 +1,7 @@
 {
   "symbol": "lmeow",
   "name": "lmeow",
-  "address": "0x1aE7e1d0ce06364CED9aD58225a1705b3e5DB92b",
+  "address": "0x1ae7e1d0ce06364ced9ad58225a1705b3e5db92b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

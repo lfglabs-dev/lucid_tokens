@@ -1,7 +1,7 @@
 {
   "symbol": "sdao",
   "name": "SingularityDAO",
-  "address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+  "address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

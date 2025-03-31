@@ -1,7 +1,7 @@
 {
   "symbol": "zkai",
   "name": "ZKCrypt AI",
-  "address": "0x5959e94661E1203e0c8Ef84095A7846bacc6A94F",
+  "address": "0x5959e94661e1203e0c8ef84095a7846bacc6a94f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

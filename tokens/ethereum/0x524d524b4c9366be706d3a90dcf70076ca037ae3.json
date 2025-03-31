@@ -1,7 +1,7 @@
 {
   "symbol": "rmrk",
   "name": "RMRK",
-  "address": "0x524d524B4c9366be706D3A90dcf70076ca037aE3",
+  "address": "0x524d524b4c9366be706d3a90dcf70076ca037ae3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

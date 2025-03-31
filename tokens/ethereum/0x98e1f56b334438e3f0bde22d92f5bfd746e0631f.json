@@ -1,7 +1,7 @@
 {
   "symbol": "ilum",
   "name": "Illuminati",
-  "address": "0x98E1f56B334438E3f0bDe22D92f5bfD746e0631f",
+  "address": "0x98e1f56b334438e3f0bde22d92f5bfd746e0631f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

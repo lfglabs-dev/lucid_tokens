@@ -1,7 +1,7 @@
 {
   "symbol": "max",
   "name": "Matr1x",
-  "address": "0xb7109df1a93f8fe2B8162c6207C9B846C1C68090",
+  "address": "0xb7109df1a93f8fe2b8162c6207c9b846c1c68090",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

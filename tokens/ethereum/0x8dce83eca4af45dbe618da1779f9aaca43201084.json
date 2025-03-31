@@ -1,7 +1,7 @@
 {
   "symbol": "aikek",
   "name": "AlphaKEK.AI",
-  "address": "0x8dCE83ECa4af45dbe618Da1779F9Aaca43201084",
+  "address": "0x8dce83eca4af45dbe618da1779f9aaca43201084",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x8dce83eca4af45dbe618da1779f9aaca43201084",
-    "base": "0x681a09a902d9c7445b3b1ab282c38d60c72f1f09",
-    "solana": "CotWkXoBD3edLb6opEGHV9tb3pyKmeoWBLwdMJ8ZDimW"
+    "base": "0x681a09a902d9c7445b3b1ab282c38d60c72f1f09"
   }
 }

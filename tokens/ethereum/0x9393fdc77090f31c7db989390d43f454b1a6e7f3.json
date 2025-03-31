@@ -1,7 +1,7 @@
 {
   "symbol": "dec",
   "name": "Dark Energy Crystals",
-  "address": "0x9393fdc77090F31c7db989390D43F454B1A6E7F3",
+  "address": "0x9393fdc77090f31c7db989390d43f454b1a6e7f3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

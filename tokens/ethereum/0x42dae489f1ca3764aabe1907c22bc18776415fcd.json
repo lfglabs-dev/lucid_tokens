@@ -1,7 +1,7 @@
 {
   "symbol": "vct",
   "name": "VibingCatToken",
-  "address": "0x42DAe489F1Ca3764AABE1907c22bC18776415FcD",
+  "address": "0x42dae489f1ca3764aabe1907c22bc18776415fcd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

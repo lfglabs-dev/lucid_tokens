@@ -1,7 +1,7 @@
 {
   "symbol": "perq",
   "name": "PERQ",
-  "address": "0x2A414884A549EF5716bc1A4E648d3DC03F08b2Cf",
+  "address": "0x2a414884a549ef5716bc1a4e648d3dc03f08b2cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "prq",
   "name": "PARSIQ",
-  "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+  "address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cia",
   "name": "Cat Intelligence Agency",
-  "address": "0x1F7505F486C22f4338Ac2BdE67a3e93a547644B9",
+  "address": "0x1f7505f486c22f4338ac2bde67a3e93a547644b9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

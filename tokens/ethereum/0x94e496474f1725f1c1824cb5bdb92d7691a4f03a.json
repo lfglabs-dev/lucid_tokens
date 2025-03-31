@@ -1,7 +1,7 @@
 {
   "symbol": "banana",
   "name": "Banana",
-  "address": "0x94e496474F1725f1c1824cB5BDb92d7691A4F03a",
+  "address": "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

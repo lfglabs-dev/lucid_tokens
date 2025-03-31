@@ -1,7 +1,7 @@
 {
   "symbol": "opai",
   "name": "Optopia AI",
-  "address": "0xF8e57AC2730D3088D98B79209739b0D5Ba085a03",
+  "address": "0xf8e57ac2730d3088d98b79209739b0d5ba085a03",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xf8e57ac2730d3088d98b79209739b0d5ba085a03",
-    "solana": "BK5GJDHXs9Nhnn4fcJrTauZ4guii5oEw7Cyxr6Ecpnqc"
+    "ethereum": "0xf8e57ac2730d3088d98b79209739b0d5ba085a03"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "⌘",
   "name": "NANI",
-  "address": "0x00000000000007C8612bA63Df8DdEfD9E6077c97",
+  "address": "0x00000000000007c8612ba63df8ddefd9e6077c97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

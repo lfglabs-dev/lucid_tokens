@@ -1,7 +1,7 @@
 {
   "symbol": "solvbtc.bbn",
   "name": "Solv Protocol SolvBTC.BBN",
-  "address": "0xd9D920AA40f578ab794426F5C90F6C731D159DEf",
+  "address": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

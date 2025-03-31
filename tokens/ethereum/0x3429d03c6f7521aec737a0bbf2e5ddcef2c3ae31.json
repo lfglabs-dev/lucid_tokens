@@ -1,7 +1,7 @@
 {
   "symbol": "pixel",
   "name": "Pixels",
-  "address": "0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31",
+  "address": "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

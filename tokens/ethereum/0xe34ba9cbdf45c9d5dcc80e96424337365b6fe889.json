@@ -1,7 +1,7 @@
 {
   "symbol": "medusa",
   "name": "Medusa",
-  "address": "0xE34ba9cbdF45c9d5Dcc80E96424337365b6Fe889",
+  "address": "0xe34ba9cbdf45c9d5dcc80e96424337365b6fe889",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xe34ba9cbdf45c9d5dcc80e96424337365b6fe889",
-    "solana": "8xbMY4atJXBNKR8Kk3u9y5XztXMd56uS8TXY9Gx5RwMJ"
+    "ethereum": "0xe34ba9cbdf45c9d5dcc80e96424337365b6fe889"
   }
 }

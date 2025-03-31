@@ -1,7 +1,7 @@
 {
   "symbol": "btcact",
   "name": "BITCOIN Act",
-  "address": "0x079D0150cC21e127898Db0f51f18Ca54DB56B1BA",
+  "address": "0x079d0150cc21e127898db0f51f18ca54db56b1ba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

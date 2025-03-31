@@ -1,7 +1,7 @@
 {
   "symbol": "dawg",
   "name": "Dawg Coin",
-  "address": "0xD5Fa38027462691769b8A8BA6C444890103B5B94",
+  "address": "0xd5fa38027462691769b8a8ba6c444890103b5b94",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

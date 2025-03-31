@@ -1,7 +1,7 @@
 {
   "symbol": "qs",
   "name": "Quick Sync",
-  "address": "0x8B7CF3A97c1F840bcf490dfD7D6a16a96DD5DD0c",
+  "address": "0x8b7cf3a97c1f840bcf490dfd7d6a16a96dd5dd0c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

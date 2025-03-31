@@ -1,7 +1,7 @@
 {
   "symbol": "zarp",
   "name": "ZARP Stablecoin",
-  "address": "0xb755506531786C8aC63B756BaB1ac387bACB0C04",
+  "address": "0xb755506531786c8ac63b756bab1ac387bacb0c04",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0xb755506531786c8ac63b756bab1ac387bacb0c04",
     "polygon-pos": "0xb755506531786c8ac63b756bab1ac387bacb0c04",
-    "base": "0xb755506531786c8ac63b756bab1ac387bacb0c04",
-    "solana": "8v8aBHR7EXFZDwaqaRjAStEcmCj6VZi5iGq1YDtyTok6"
+    "base": "0xb755506531786c8ac63b756bab1ac387bacb0c04"
   }
 }

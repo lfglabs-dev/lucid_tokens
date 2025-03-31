@@ -1,7 +1,7 @@
 {
   "symbol": "yvtusd",
   "name": "TUSD yVault",
-  "address": "0xFD0877d9095789cAF24c98F7CCe092fa8E120775",
+  "address": "0xfd0877d9095789caf24c98f7cce092fa8e120775",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

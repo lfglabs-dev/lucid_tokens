@@ -1,7 +1,7 @@
 {
   "symbol": "wbtsla",
   "name": "Wrapped bTSLA",
-  "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+  "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

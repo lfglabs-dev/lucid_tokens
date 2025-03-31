@@ -1,7 +1,7 @@
 {
   "symbol": "avatly",
   "name": "Avatly",
-  "address": "0x5fa3418D828e5Cd3c61A66e0fC7FA4a35dadF960",
+  "address": "0x5fa3418d828e5cd3c61a66e0fc7fa4a35dadf960",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

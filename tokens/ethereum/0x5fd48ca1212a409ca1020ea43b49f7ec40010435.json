@@ -1,7 +1,7 @@
 {
   "symbol": "adex",
   "name": "AstraDex AI",
-  "address": "0x5FD48ca1212A409CA1020Ea43B49f7EC40010435",
+  "address": "0x5fd48ca1212a409ca1020ea43b49f7ec40010435",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

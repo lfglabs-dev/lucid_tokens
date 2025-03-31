@@ -1,7 +1,7 @@
 {
   "symbol": "usdv",
   "name": "USDV",
-  "address": "0x20b3B07E9C0e37815e2892Ab09496559F57C3603",
+  "address": "0x20b3b07e9c0e37815e2892ab09496559f57c3603",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

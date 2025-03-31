@@ -1,7 +1,7 @@
 {
   "symbol": "rwa",
   "name": "RWA-AI",
-  "address": "0xfCF7985661d2c3F62208970cBE25e70BCCe73E7C",
+  "address": "0xfcf7985661d2c3f62208970cbe25e70bcce73e7c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

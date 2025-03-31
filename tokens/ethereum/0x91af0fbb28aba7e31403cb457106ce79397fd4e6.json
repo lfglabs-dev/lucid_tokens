@@ -1,7 +1,7 @@
 {
   "symbol": "aergo",
   "name": "Aergo",
-  "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+  "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wexo",
   "name": "Wexo",
-  "address": "0xf31698DDAd0d11160Fe85c500397A470CD3d492E",
+  "address": "0xf31698ddad0d11160fe85c500397a470cd3d492e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

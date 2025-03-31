@@ -1,7 +1,7 @@
 {
   "symbol": "re7usdc",
   "name": "Re7 USDC",
-  "address": "0x60d715515d4411f7F43e4206dc5d4a3677f0eC78",
+  "address": "0x60d715515d4411f7f43e4206dc5d4a3677f0ec78",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

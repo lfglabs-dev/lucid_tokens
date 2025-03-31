@@ -1,7 +1,7 @@
 {
   "symbol": "goku",
   "name": "Goku",
-  "address": "0xA64dFe8D86963151E6496BEe513E366F6e42ED79",
+  "address": "0xa64dfe8d86963151e6496bee513e366f6e42ed79",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

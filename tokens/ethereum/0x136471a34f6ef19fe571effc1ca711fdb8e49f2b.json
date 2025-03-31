@@ -1,7 +1,7 @@
 {
   "symbol": "usyc",
   "name": "Hashnote USYC",
-  "address": "0x136471a34f6ef19fE571EFFC1CA711fdb8E49f2b",
+  "address": "0x136471a34f6ef19fe571effc1ca711fdb8e49f2b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

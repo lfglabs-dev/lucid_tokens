@@ -1,7 +1,7 @@
 {
   "symbol": "fuku",
   "name": "Fuku-Kun",
-  "address": "0x1001271083C249bd771E1bb76C22D935809a61Ee",
+  "address": "0x1001271083c249bd771e1bb76c22d935809a61ee",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

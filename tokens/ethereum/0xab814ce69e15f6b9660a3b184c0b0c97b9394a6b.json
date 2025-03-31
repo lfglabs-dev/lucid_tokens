@@ -1,7 +1,7 @@
 {
   "symbol": "neuron",
   "name": "Cerebrum DAO",
-  "address": "0xab814ce69E15F6B9660A3B184c0B0C97B9394A6b",
+  "address": "0xab814ce69e15f6b9660a3b184c0b0c97b9394a6b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

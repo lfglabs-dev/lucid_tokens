@@ -1,7 +1,7 @@
 {
   "symbol": "newo",
   "name": "New Order",
-  "address": "0x98585dFc8d9e7D48F0b1aE47ce33332CF4237D96",
+  "address": "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

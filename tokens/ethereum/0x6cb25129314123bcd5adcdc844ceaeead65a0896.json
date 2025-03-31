@@ -1,7 +1,7 @@
 {
   "symbol": "$cultur",
   "name": "CULTUR",
-  "address": "0x6cb25129314123BCD5aDCdc844cEaEEAd65A0896",
+  "address": "0x6cb25129314123bcd5adcdc844ceaeead65a0896",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tbank",
   "name": "TaoBank",
-  "address": "0x95CcffaE3Eb8767D4a941Ec43280961dde89F4dE",
+  "address": "0x95ccffae3eb8767d4a941ec43280961dde89f4de",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

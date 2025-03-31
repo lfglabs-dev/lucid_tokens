@@ -1,7 +1,7 @@
 {
   "symbol": "tinu",
   "name": "Trump Inu",
-  "address": "0xD3FB8597d260EFB2e693eFd500d62A330A00f1eb",
+  "address": "0xd3fb8597d260efb2e693efd500d62a330a00f1eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xd3fb8597d260efb2e693efd500d62a330a00f1eb",
-    "solana": "EJqpy1noqMjvdJBSLy3CbjZLCPnsG9PZbM2FnBHhNqwM"
+    "ethereum": "0xd3fb8597d260efb2e693efd500d62a330a00f1eb"
   }
 }

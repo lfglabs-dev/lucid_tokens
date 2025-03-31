@@ -1,7 +1,7 @@
 {
   "symbol": "navi",
   "name": "Atlas Navi",
-  "address": "0xFc1C93a2507975E98b9d0E9260Ded61A00152BF1",
+  "address": "0xfc1c93a2507975e98b9d0e9260ded61a00152bf1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

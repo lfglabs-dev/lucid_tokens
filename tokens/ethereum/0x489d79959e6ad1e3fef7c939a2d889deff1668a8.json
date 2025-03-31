@@ -1,7 +1,7 @@
 {
   "symbol": "hottie",
   "name": "Hottie Froggie",
-  "address": "0x489D79959E6aD1E3FeF7C939A2D889dEfF1668A8",
+  "address": "0x489d79959e6ad1e3fef7c939a2d889deff1668a8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

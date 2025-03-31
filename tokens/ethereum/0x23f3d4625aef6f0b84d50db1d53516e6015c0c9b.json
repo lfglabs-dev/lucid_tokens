@@ -1,7 +1,7 @@
 {
   "symbol": "nuts",
   "name": "Thetanuts Finance",
-  "address": "0x23f3D4625AEF6f0b84d50dB1d53516e6015c0c9B",
+  "address": "0x23f3d4625aef6f0b84d50db1d53516e6015c0c9b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "shao",
   "name": "SHAO",
-  "address": "0xAF0db65B7296c02ab043F5Cb17300c8EE949F247",
+  "address": "0xaf0db65b7296c02ab043f5cb17300c8ee949f247",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "hdao",
   "name": "humanDAO",
-  "address": "0xdaC657ffD44a3B9d8aba8749830Bf14BEB66fF2D",
+  "address": "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

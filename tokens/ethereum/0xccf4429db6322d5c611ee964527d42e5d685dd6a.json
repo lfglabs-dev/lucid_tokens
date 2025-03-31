@@ -1,7 +1,7 @@
 {
   "symbol": "cwbtc",
   "name": "cWBTC",
-  "address": "0xccF4429DB6322D5C611ee964527D42E5d685DD6a",
+  "address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

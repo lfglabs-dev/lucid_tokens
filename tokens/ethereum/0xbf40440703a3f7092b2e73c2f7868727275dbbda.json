@@ -1,7 +1,7 @@
 {
   "symbol": "keep",
   "name": "Keep Finance",
-  "address": "0xBf40440703A3F7092b2e73c2F7868727275DBbda",
+  "address": "0xbf40440703a3f7092b2e73c2f7868727275dbbda",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

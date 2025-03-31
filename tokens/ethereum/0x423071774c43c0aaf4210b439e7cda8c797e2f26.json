@@ -1,7 +1,7 @@
 {
   "symbol": "galaxis",
   "name": "GALAXIS Token",
-  "address": "0x423071774C43c0Aaf4210b439E7CDA8c797e2F26",
+  "address": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

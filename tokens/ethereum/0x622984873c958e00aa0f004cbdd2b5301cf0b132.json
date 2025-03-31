@@ -1,7 +1,7 @@
 {
   "symbol": "gauss",
   "name": "Gauss0x",
-  "address": "0x622984873c958e00aa0f004cbDd2B5301CF0b132",
+  "address": "0x622984873c958e00aa0f004cbdd2b5301cf0b132",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

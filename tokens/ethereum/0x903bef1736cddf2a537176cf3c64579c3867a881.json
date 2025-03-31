@@ -1,7 +1,7 @@
 {
   "symbol": "ichi",
   "name": "Legacy ICHI",
-  "address": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
+  "address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

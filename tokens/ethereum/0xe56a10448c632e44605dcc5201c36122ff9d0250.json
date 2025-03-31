@@ -1,7 +1,7 @@
 {
   "symbol": "hedge",
   "name": "HedgeFi",
-  "address": "0xe56a10448C632E44605dCc5201c36122FF9D0250",
+  "address": "0xe56a10448c632e44605dcc5201c36122ff9d0250",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

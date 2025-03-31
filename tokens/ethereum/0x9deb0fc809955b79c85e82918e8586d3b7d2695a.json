@@ -1,7 +1,7 @@
 {
   "symbol": "gold",
   "name": "GoldenBoys",
-  "address": "0x9DeB0fc809955b79c85e82918E8586d3b7d2695a",
+  "address": "0x9deb0fc809955b79c85e82918e8586d3b7d2695a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

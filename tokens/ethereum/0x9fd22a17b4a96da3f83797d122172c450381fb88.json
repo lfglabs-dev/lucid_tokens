@@ -1,7 +1,7 @@
 {
   "symbol": "jefe",
   "name": "Jefe",
-  "address": "0x9FD22a17b4A96Da3F83797d122172C450381fb88",
+  "address": "0x9fd22a17b4a96da3f83797d122172c450381fb88",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

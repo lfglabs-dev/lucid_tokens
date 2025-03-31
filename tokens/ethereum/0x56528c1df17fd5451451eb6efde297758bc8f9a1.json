@@ -1,7 +1,7 @@
 {
   "symbol": "afs",
   "name": "Aktionariat Alan Frei Company Tokenized Shares",
-  "address": "0x56528C1dF17FD5451451eB6EFDE297758bc8f9a1",
+  "address": "0x56528c1df17fd5451451eb6efde297758bc8f9a1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

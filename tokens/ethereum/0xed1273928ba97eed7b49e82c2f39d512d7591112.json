@@ -1,7 +1,7 @@
 {
   "symbol": "nerd",
   "name": "NerdBot",
-  "address": "0xED1273928bA97EEd7B49e82C2F39D512D7591112",
+  "address": "0xed1273928ba97eed7b49e82c2f39d512d7591112",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

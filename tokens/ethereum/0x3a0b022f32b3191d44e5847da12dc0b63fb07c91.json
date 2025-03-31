@@ -1,7 +1,7 @@
 {
   "symbol": "spellfire",
   "name": "Spellfire",
-  "address": "0x3A0b022f32b3191D44E5847da12dc0B63fb07C91",
+  "address": "0x3a0b022f32b3191d44e5847da12dc0b63fb07c91",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

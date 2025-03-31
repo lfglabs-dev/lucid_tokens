@@ -1,7 +1,7 @@
 {
   "symbol": "metadoge",
   "name": "Meta Doge",
-  "address": "0x8530b66ca3DDf50E0447eae8aD7eA7d5e62762eD",
+  "address": "0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

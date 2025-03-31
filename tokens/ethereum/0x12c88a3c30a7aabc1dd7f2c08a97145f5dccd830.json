@@ -1,7 +1,7 @@
 {
   "symbol": "g7",
   "name": "Game7",
-  "address": "0x12c88a3C30A7AaBC1dd7f2c08a97145F5DCcD830",
+  "address": "0x12c88a3c30a7aabc1dd7f2c08a97145f5dccd830",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

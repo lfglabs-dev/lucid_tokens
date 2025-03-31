@@ -1,7 +1,7 @@
 {
   "symbol": "derp",
   "name": "Derp",
-  "address": "0x5DfC78C4D073fD343BC6661668948178522A0DE5",
+  "address": "0x5dfc78c4d073fd343bc6661668948178522a0de5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

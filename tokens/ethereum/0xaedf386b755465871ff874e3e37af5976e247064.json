@@ -1,7 +1,7 @@
 {
   "symbol": "ftn",
   "name": "Fasttoken",
-  "address": "0xaeDf386B755465871fF874E3E37Af5976E247064",
+  "address": "0xaedf386b755465871ff874e3e37af5976e247064",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

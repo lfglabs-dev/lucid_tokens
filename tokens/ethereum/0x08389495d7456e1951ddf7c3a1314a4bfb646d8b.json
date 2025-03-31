@@ -1,7 +1,7 @@
 {
   "symbol": "crpt",
   "name": "Crypterium",
-  "address": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+  "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

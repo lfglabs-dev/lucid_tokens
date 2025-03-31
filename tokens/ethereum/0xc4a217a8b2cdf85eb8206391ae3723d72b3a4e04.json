@@ -1,7 +1,7 @@
 {
   "symbol": "bitb.d",
   "name": "Dinari BITB",
-  "address": "0xc4a217A8b2Cdf85eB8206391ae3723d72B3A4E04",
+  "address": "0xc4a217a8b2cdf85eb8206391ae3723d72b3a4e04",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

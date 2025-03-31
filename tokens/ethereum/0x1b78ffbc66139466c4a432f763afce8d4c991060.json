@@ -1,7 +1,7 @@
 {
   "symbol": "cnai",
   "name": "Cloudnet Ai",
-  "address": "0x1B78FfBC66139466c4A432f763afcE8d4C991060",
+  "address": "0x1b78ffbc66139466c4a432f763afce8d4c991060",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ttf",
   "name": "Track The Funds Bot",
-  "address": "0x8E32B8A41f2E86A3EE198912ac8d756C84295b40",
+  "address": "0x8e32b8a41f2e86a3ee198912ac8d756c84295b40",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

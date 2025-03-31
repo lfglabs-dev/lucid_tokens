@@ -1,7 +1,7 @@
 {
   "symbol": "insp",
   "name": "INSPAD",
-  "address": "0xd37ae8C16449e7ef858652E02555c51d2572552b",
+  "address": "0xd37ae8c16449e7ef858652e02555c51d2572552b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

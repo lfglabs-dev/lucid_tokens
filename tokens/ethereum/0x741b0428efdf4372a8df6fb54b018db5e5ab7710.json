@@ -1,7 +1,7 @@
 {
   "symbol": "artx",
   "name": "ARTX",
-  "address": "0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710",
+  "address": "0x741b0428efdf4372a8df6fb54b018db5e5ab7710",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

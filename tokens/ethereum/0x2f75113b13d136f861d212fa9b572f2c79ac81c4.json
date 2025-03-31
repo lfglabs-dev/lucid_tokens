@@ -1,7 +1,7 @@
 {
   "symbol": "ekta",
   "name": "Ekta",
-  "address": "0x2f75113b13D136F861d212Fa9b572F2C79Ac81C4",
+  "address": "0x2f75113b13d136f861d212fa9b572f2c79ac81c4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

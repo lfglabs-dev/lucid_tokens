@@ -1,7 +1,7 @@
 {
   "symbol": "canto",
   "name": "CANTO",
-  "address": "0x56C03B8C4FA80Ba37F5A7b60CAAAEF749bB5b220",
+  "address": "0x56c03b8c4fa80ba37f5a7b60caaaef749bb5b220",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "canto": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
-    "osmosis": "ibc/47CAF2DB8C016FAC960F33BC492FD8E454593B65CC59D70FA9D9F30424F9C32F",
     "ethereum": "0x56c03b8c4fa80ba37f5a7b60caaaef749bb5b220"
   }
 }

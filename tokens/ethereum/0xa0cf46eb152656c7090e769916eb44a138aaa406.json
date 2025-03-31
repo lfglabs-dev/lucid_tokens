@@ -1,7 +1,7 @@
 {
   "symbol": "sph",
   "name": "Spheroid Universe",
-  "address": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
+  "address": "0xa0cf46eb152656c7090e769916eb44a138aaa406",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

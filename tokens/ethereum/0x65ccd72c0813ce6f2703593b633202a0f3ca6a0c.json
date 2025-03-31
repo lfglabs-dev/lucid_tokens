@@ -1,7 +1,7 @@
 {
   "symbol": "egg",
   "name": "Nestree",
-  "address": "0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
+  "address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

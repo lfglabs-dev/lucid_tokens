@@ -1,7 +1,7 @@
 {
   "symbol": "luckyslp",
   "name": "LuckysLeprecoin",
-  "address": "0x357c915D7c12dc506d13332Bb06C932aF13e99a0",
+  "address": "0x357c915d7c12dc506d13332bb06c932af13e99a0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

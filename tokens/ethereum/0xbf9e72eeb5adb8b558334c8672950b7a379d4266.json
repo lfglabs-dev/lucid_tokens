@@ -1,7 +1,7 @@
 {
   "symbol": "cubt",
   "name": "CubToken",
-  "address": "0xBf9e72eEb5adB8B558334c8672950B7a379D4266",
+  "address": "0xbf9e72eeb5adb8b558334c8672950b7a379d4266",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

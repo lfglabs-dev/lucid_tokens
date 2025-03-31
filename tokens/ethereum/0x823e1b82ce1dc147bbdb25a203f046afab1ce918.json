@@ -1,7 +1,7 @@
 {
   "symbol": "coil",
   "name": "SpiralDAO Coil",
-  "address": "0x823E1B82cE1Dc147Bbdb25a203f046aFab1CE918",
+  "address": "0x823e1b82ce1dc147bbdb25a203f046afab1ce918",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

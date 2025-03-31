@@ -1,7 +1,7 @@
 {
   "symbol": "pbtc35a",
   "name": "pBTC35A",
-  "address": "0xA8b12Cc90AbF65191532a12bb5394A714A46d358",
+  "address": "0xa8b12cc90abf65191532a12bb5394a714a46d358",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

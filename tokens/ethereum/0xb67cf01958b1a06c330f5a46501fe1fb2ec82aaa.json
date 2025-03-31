@@ -1,7 +1,7 @@
 {
   "symbol": "option",
   "name": "OptionsAI",
-  "address": "0xB67CF01958B1a06C330f5A46501Fe1Fb2Ec82Aaa",
+  "address": "0xb67cf01958b1a06c330f5a46501fe1fb2ec82aaa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

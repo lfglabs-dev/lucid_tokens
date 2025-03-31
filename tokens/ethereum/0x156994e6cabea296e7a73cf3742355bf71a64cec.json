@@ -1,7 +1,7 @@
 {
   "symbol": "random9",
   "name": "Elons Gamertag",
-  "address": "0x156994E6CABeA296E7A73cf3742355bF71a64Cec",
+  "address": "0x156994e6cabea296e7a73cf3742355bf71a64cec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

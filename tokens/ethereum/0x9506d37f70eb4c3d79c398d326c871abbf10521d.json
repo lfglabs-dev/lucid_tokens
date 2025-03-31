@@ -1,7 +1,7 @@
 {
   "symbol": "mlt",
   "name": "Media Licensing Token",
-  "address": "0x9506d37f70eB4C3d79C398d326C871aBBf10521d",
+  "address": "0x9506d37f70eb4c3d79c398d326c871abbf10521d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

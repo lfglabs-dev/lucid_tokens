@@ -1,7 +1,7 @@
 {
   "symbol": "mt",
   "name": "MyToken",
-  "address": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
+  "address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

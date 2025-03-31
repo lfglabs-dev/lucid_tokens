@@ -1,7 +1,7 @@
 {
   "symbol": "dogecoin",
   "name": "RagingElonMarsCoin",
-  "address": "0xf257a2783f6633A149B5966e32432b5bB3462c96",
+  "address": "0xf257a2783f6633a149b5966e32432b5bb3462c96",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

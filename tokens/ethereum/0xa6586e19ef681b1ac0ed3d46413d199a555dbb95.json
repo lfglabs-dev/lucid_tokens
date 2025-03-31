@@ -1,7 +1,7 @@
 {
   "symbol": "letsgo",
   "name": "Lets Go Brandon",
-  "address": "0xA6586E19EF681b1AC0ED3D46413D199a555dBB95",
+  "address": "0xa6586e19ef681b1ac0ed3d46413d199a555dbb95",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

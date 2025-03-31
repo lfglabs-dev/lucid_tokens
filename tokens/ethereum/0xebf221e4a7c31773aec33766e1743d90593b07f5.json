@@ -1,7 +1,7 @@
 {
   "symbol": "chat",
   "name": "Chat Chain",
-  "address": "0xEBf221e4a7C31773AeC33766e1743d90593B07F5",
+  "address": "0xebf221e4a7c31773aec33766e1743d90593b07f5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

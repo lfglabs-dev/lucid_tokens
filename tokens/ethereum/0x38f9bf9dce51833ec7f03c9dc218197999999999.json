@@ -1,7 +1,7 @@
 {
   "symbol": "nya",
   "name": "Nya",
-  "address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+  "address": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

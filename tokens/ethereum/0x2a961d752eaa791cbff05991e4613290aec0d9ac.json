@@ -1,7 +1,7 @@
 {
   "symbol": "patton",
   "name": "Patton",
-  "address": "0x2a961D752eAa791CBfF05991e4613290Aec0D9AC",
+  "address": "0x2a961d752eaa791cbff05991e4613290aec0d9ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "btsla",
   "name": "Backed Tesla",
-  "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
+  "address": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

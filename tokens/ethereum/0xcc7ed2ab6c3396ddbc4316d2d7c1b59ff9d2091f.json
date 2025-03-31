@@ -1,7 +1,7 @@
 {
   "symbol": "hydra",
   "name": "HYDRA",
-  "address": "0xCC7ed2ab6c3396DdBc4316D2d7C1b59ff9d2091F",
+  "address": "0xcc7ed2ab6c3396ddbc4316d2d7c1b59ff9d2091f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

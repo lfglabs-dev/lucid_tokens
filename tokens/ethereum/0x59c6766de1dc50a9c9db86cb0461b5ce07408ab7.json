@@ -1,7 +1,7 @@
 {
   "symbol": "spurdo",
   "name": "Spurdo",
-  "address": "0x59C6766de1Dc50a9c9DB86CB0461b5Ce07408aB7",
+  "address": "0x59c6766de1dc50a9c9db86cb0461b5ce07408ab7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

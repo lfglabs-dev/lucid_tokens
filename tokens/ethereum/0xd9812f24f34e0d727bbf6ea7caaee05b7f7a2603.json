@@ -1,7 +1,7 @@
 {
   "symbol": "tpu",
   "name": "TensorSpace",
-  "address": "0xD9812F24f34e0d727bbf6Ea7caAEe05B7f7a2603",
+  "address": "0xd9812f24f34e0d727bbf6ea7caaee05b7f7a2603",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

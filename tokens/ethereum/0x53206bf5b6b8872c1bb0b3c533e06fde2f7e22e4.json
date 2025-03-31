@@ -1,7 +1,7 @@
 {
   "symbol": "blepe",
   "name": "Blepe",
-  "address": "0x53206BF5B6B8872c1Bb0b3c533E06FDE2F7e22E4",
+  "address": "0x53206bf5b6b8872c1bb0b3c533e06fde2f7e22e4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

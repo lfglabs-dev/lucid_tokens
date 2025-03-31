@@ -1,7 +1,7 @@
 {
   "symbol": "naruto",
   "name": "Naruto",
-  "address": "0xAD8D0de33C43eEFe104A279cDB6Ae250C12e6214",
+  "address": "0xad8d0de33c43eefe104a279cdb6ae250c12e6214",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

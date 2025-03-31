@@ -1,7 +1,7 @@
 {
   "symbol": "jab",
   "name": "Jable",
-  "address": "0x9AaF731799e824a74a4D3a14e6B00bcc28c327dB",
+  "address": "0x9aaf731799e824a74a4d3a14e6b00bcc28c327db",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

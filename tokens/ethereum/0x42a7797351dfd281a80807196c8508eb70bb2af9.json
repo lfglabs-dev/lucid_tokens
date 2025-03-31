@@ -1,7 +1,7 @@
 {
   "symbol": "ais",
   "name": "AISociety",
-  "address": "0x42A7797351dFd281A80807196c8508Eb70bb2af9",
+  "address": "0x42a7797351dfd281a80807196c8508eb70bb2af9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

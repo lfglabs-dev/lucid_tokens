@@ -1,7 +1,7 @@
 {
   "symbol": "r34p",
   "name": "R34P",
-  "address": "0xCAEaf8381D4B20b43AFA42061D6f80319A8881F6",
+  "address": "0xcaeaf8381d4b20b43afa42061d6f80319a8881f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

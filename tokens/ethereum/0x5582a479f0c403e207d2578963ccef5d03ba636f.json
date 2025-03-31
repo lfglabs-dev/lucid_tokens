@@ -1,7 +1,7 @@
 {
   "symbol": "sald",
   "name": "Salad",
-  "address": "0x5582a479f0c403E207D2578963CceF5D03BA636f",
+  "address": "0x5582a479f0c403e207d2578963ccef5d03ba636f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

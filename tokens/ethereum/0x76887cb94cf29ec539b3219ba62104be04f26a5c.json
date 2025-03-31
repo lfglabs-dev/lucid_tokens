@@ -1,7 +1,7 @@
 {
   "symbol": "nitro",
   "name": "Nitro",
-  "address": "0x76887cB94cF29EC539b3219Ba62104BE04F26A5C",
+  "address": "0x76887cb94cf29ec539b3219ba62104be04f26a5c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

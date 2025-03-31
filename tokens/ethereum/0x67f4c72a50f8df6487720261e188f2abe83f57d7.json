@@ -1,7 +1,7 @@
 {
   "symbol": "wpokt",
   "name": "Wrapped POKT",
-  "address": "0x67F4C72a50f8Df6487720261E188F2abE83F57D7",
+  "address": "0x67f4c72a50f8df6487720261e188f2abe83f57d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

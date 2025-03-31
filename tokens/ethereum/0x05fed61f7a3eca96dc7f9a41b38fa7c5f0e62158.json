@@ -1,7 +1,7 @@
 {
   "symbol": "ko.d",
   "name": "Dinari KO",
-  "address": "0x05feD61F7a3eCA96Dc7F9A41b38fa7C5f0e62158",
+  "address": "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

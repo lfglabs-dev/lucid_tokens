@@ -1,7 +1,7 @@
 {
   "symbol": "meli.d",
   "name": "Dinari MELI",
-  "address": "0x52bD2411f090Af9B1fc688fCf3c4242aB0e7dDaf",
+  "address": "0x52bd2411f090af9b1fc688fcf3c4242ab0e7ddaf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

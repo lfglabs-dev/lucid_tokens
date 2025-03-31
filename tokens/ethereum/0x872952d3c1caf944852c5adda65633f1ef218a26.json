@@ -1,7 +1,7 @@
 {
   "symbol": "lqdx",
   "name": "Reddex",
-  "address": "0x872952d3c1Caf944852c5ADDa65633F1Ef218A26",
+  "address": "0x872952d3c1caf944852c5adda65633f1ef218a26",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

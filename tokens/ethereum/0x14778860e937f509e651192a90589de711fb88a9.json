@@ -1,7 +1,7 @@
 {
   "symbol": "cyber",
   "name": "CYBER",
-  "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+  "address": "0x14778860e937f509e651192a90589de711fb88a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

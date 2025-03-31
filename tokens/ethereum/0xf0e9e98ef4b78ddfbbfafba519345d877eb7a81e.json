@@ -1,7 +1,7 @@
 {
   "symbol": "eem.d",
   "name": "Dinari EEM",
-  "address": "0xf0e9e98ef4b78DDFBbFafBa519345d877Eb7a81E",
+  "address": "0xf0e9e98ef4b78ddfbbfafba519345d877eb7a81e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

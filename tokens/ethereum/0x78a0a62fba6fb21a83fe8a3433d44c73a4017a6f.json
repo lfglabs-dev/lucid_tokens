@@ -1,7 +1,7 @@
 {
   "symbol": "ox old",
   "name": "Open Exchange Token",
-  "address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+  "address": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

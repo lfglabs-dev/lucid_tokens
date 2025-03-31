@@ -1,7 +1,7 @@
 {
   "symbol": "pol",
   "name": "POL (ex-MATIC)",
-  "address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+  "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

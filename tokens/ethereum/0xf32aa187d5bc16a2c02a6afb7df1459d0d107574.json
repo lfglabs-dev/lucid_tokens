@@ -1,7 +1,7 @@
 {
   "symbol": "inu",
   "name": "HachikoInu",
-  "address": "0xF32aa187d5Bc16A2C02A6aFb7Df1459d0D107574",
+  "address": "0xf32aa187d5bc16a2c02a6afb7df1459d0d107574",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

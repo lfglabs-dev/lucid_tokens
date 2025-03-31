@@ -1,7 +1,7 @@
 {
   "symbol": "yourai",
   "name": "YOUR AI",
-  "address": "0xC5bA042BF8832999b17c9036E8212f49DCE0501A",
+  "address": "0xc5ba042bf8832999b17c9036e8212f49dce0501a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xc5ba042bf8832999b17c9036e8212f49dce0501a",
-    "binance-smart-chain": "0x27f16d9a5095b763baeadd7dd78e83288af29cf4",
-    "solana": "FjK6rqU6QzUeNtmK6QQ78cCuS5AHAhcm4HgJkdsvXaep"
+    "binance-smart-chain": "0x27f16d9a5095b763baeadd7dd78e83288af29cf4"
   }
 }

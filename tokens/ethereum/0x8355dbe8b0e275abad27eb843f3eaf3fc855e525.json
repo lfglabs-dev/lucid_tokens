@@ -1,7 +1,7 @@
 {
   "symbol": "wool",
   "name": "Wolf Game Wool",
-  "address": "0x8355DBE8B0e275ABAd27eB843F3eaF3FC855e525",
+  "address": "0x8355dbe8b0e275abad27eb843f3eaf3fc855e525",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

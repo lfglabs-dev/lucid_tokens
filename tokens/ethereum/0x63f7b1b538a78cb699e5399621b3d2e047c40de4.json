@@ -1,7 +1,7 @@
 {
   "symbol": "max",
   "name": "Maxity",
-  "address": "0x63f7B1b538a78cB699E5399621B3d2e047C40de4",
+  "address": "0x63f7b1b538a78cb699e5399621b3d2e047c40de4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

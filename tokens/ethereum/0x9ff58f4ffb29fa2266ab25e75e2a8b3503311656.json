@@ -1,7 +1,7 @@
 {
   "symbol": "awbtc",
   "name": "Aave WBTC",
-  "address": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+  "address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

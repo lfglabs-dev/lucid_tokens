@@ -1,7 +1,7 @@
 {
   "symbol": "graf",
   "name": "Graffiti",
-  "address": "0x5138EBe7acaAE209d6F0B651E4D02a67EF61f436",
+  "address": "0x5138ebe7acaae209d6f0b651e4d02a67ef61f436",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

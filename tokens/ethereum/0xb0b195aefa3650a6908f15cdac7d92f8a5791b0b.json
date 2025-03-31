@@ -1,7 +1,7 @@
 {
   "symbol": "bob",
   "name": "BOB",
-  "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+  "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "oscar",
   "name": "OSCAR",
-  "address": "0xeBb66a88cEdd12bfE3a289df6DFEe377F2963F12",
+  "address": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

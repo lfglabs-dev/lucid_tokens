@@ -1,7 +1,7 @@
 {
   "symbol": "rklb.d",
   "name": "Dinari RKLB",
-  "address": "0xC3260A0E1DD1f7AC6508Ae29cB00F4fa4B544ba7",
+  "address": "0xc3260a0e1dd1f7ac6508ae29cb00f4fa4b544ba7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

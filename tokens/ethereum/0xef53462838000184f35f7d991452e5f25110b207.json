@@ -1,7 +1,7 @@
 {
   "symbol": "kft",
   "name": "Knit Finance",
-  "address": "0xEF53462838000184F35f7D991452e5f25110b207",
+  "address": "0xef53462838000184f35f7d991452e5f25110b207",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

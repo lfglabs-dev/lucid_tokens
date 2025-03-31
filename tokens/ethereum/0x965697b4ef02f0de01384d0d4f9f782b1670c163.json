@@ -1,7 +1,7 @@
 {
   "symbol": "oxy",
   "name": "Oxygen",
-  "address": "0x965697b4ef02F0DE01384D0d4F9F782B1670c163",
+  "address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "solana": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
     "ethereum": "0x965697b4ef02f0de01384d0d4f9f782b1670c163"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "el",
   "name": "ELYSIA",
-  "address": "0x2781246fe707bB15CeE3e5ea354e2154a2877B16",
+  "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

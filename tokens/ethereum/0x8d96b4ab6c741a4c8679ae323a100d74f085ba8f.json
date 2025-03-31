@@ -1,7 +1,7 @@
 {
   "symbol": "bzr",
   "name": "Bazaars",
-  "address": "0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F",
+  "address": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

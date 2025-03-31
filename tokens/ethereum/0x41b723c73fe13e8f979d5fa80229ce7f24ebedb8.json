@@ -1,7 +1,7 @@
 {
   "symbol": "ontact",
   "name": "OnTact",
-  "address": "0x41b723c73Fe13E8f979d5FA80229Ce7f24EbEdB8",
+  "address": "0x41b723c73fe13e8f979d5fa80229ce7f24ebedb8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

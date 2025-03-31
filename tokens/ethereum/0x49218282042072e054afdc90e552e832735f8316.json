@@ -1,7 +1,7 @@
 {
   "symbol": "crx",
   "name": "Cerebro",
-  "address": "0x49218282042072e054AfDc90e552e832735F8316",
+  "address": "0x49218282042072e054afdc90e552e832735f8316",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

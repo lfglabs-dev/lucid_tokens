@@ -1,7 +1,7 @@
 {
   "symbol": "monai",
   "name": "Monai",
-  "address": "0x8C282C35B5E1088bb208991c151182A782637699",
+  "address": "0x8c282c35b5e1088bb208991c151182a782637699",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

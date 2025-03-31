@@ -1,7 +1,7 @@
 {
   "symbol": "lbr",
   "name": "Lybra",
-  "address": "0xed1167b6Dc64E8a366DB86F2E952A482D0981ebd",
+  "address": "0xed1167b6dc64e8a366db86f2e952a482d0981ebd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

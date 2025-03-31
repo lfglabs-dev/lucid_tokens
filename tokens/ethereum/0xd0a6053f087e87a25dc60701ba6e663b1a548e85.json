@@ -1,7 +1,7 @@
 {
   "symbol": "lrds",
   "name": "BLOCKLORDS",
-  "address": "0xd0a6053f087E87a25dC60701ba6E663b1a548E85",
+  "address": "0xd0a6053f087e87a25dc60701ba6e663b1a548e85",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

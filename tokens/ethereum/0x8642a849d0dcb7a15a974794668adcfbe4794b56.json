@@ -1,7 +1,7 @@
 {
   "symbol": "pros",
   "name": "Prosper [OLD]",
-  "address": "0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+  "address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

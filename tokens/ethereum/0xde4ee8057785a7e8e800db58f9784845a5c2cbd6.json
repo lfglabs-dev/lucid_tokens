@@ -1,7 +1,7 @@
 {
   "symbol": "dexe",
   "name": "DeXe",
-  "address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+  "address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

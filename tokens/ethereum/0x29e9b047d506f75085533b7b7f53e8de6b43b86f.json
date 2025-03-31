@@ -1,7 +1,7 @@
 {
   "symbol": "doken",
   "name": "Hokkaido Ken",
-  "address": "0x29e9B047d506F75085533b7B7F53e8DE6B43B86F",
+  "address": "0x29e9b047d506f75085533b7b7f53e8de6b43b86f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

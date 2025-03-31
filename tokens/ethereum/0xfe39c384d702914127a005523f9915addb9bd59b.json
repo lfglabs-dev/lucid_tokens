@@ -1,7 +1,7 @@
 {
   "symbol": "hpo",
   "name": "Hippocrat",
-  "address": "0xfE39C384D702914127a005523f9915ADDB9bd59b",
+  "address": "0xfe39c384d702914127a005523f9915addb9bd59b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

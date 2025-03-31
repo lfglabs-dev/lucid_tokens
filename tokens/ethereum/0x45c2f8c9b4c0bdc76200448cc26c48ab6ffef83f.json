@@ -1,7 +1,7 @@
 {
   "symbol": "domi",
   "name": "Domi",
-  "address": "0x45C2F8c9B4c0bDC76200448cc26C48ab6ffef83F",
+  "address": "0x45c2f8c9b4c0bdc76200448cc26c48ab6ffef83f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

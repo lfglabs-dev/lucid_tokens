@@ -1,7 +1,7 @@
 {
   "symbol": "eurq",
   "name": "Quantoz EURQ",
-  "address": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f",
+  "address": "0x8df723295214ea6f21026eeeb4382d475f146f9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

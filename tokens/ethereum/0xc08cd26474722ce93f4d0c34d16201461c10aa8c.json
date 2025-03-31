@@ -1,7 +1,7 @@
 {
   "symbol": "carv",
   "name": "CARV",
-  "address": "0xc08Cd26474722cE93F4D0c34D16201461c10AA8C",
+  "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "base": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
     "ethereum": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
-    "arbitrum-one": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
-    "solana": "AFJtnuqGMaj5jAo6Pwxo28r1f7XAXXTSA8q3rG3q8b4A"
+    "arbitrum-one": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c"
   }
 }

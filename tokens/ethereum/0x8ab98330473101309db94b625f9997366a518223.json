@@ -1,7 +1,7 @@
 {
   "symbol": "pth",
   "name": "PlasticHero",
-  "address": "0x8AB98330473101309Db94b625f9997366A518223",
+  "address": "0x8ab98330473101309db94b625f9997366a518223",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

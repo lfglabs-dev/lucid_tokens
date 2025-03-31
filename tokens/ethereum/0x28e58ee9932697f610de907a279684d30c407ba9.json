@@ -1,7 +1,7 @@
 {
   "symbol": "depin",
   "name": "Depinet",
-  "address": "0x28E58ee9932697F610dE907a279684d30c407Ba9",
+  "address": "0x28e58ee9932697f610de907a279684d30c407ba9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

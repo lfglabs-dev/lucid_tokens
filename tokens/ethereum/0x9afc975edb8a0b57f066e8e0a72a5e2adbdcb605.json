@@ -1,7 +1,7 @@
 {
   "symbol": "fsn",
   "name": "FUSION",
-  "address": "0x9AfC975EdB8a0B57f066e8e0A72A5e2ADbdCb605",
+  "address": "0x9afc975edb8a0b57f066e8e0a72a5e2adbdcb605",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

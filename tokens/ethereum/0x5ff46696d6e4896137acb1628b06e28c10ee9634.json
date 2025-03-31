@@ -1,7 +1,7 @@
 {
   "symbol": "janny",
   "name": "Janny",
-  "address": "0x5FF46696d6e4896137acB1628b06E28c10EE9634",
+  "address": "0x5ff46696d6e4896137acb1628b06e28c10ee9634",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

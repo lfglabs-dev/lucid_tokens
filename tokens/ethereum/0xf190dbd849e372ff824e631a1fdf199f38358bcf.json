@@ -1,7 +1,7 @@
 {
   "symbol": "bara",
   "name": "Capybara Memecoin",
-  "address": "0xF190dbD849E372FF824e631a1FdF199f38358BCf",
+  "address": "0xf190dbd849e372ff824e631a1fdf199f38358bcf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

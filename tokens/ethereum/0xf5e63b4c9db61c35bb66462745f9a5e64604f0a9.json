@@ -1,7 +1,7 @@
 {
   "symbol": "laputa",
   "name": "Ethereum Origins",
-  "address": "0xf5E63b4C9db61c35bb66462745f9A5e64604F0a9",
+  "address": "0xf5e63b4c9db61c35bb66462745f9a5e64604f0a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

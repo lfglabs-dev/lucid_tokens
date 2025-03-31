@@ -1,7 +1,7 @@
 {
   "symbol": "strngr",
   "name": "Stronger",
-  "address": "0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38",
+  "address": "0xdc0327d50e6c73db2f8117760592c8bbf1cdcf38",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

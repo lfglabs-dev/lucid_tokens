@@ -1,7 +1,7 @@
 {
   "symbol": "izumi",
   "name": "Izumi-chan",
-  "address": "0x13063Bed4BeBbe542005e191c459d2cFa96b98E1",
+  "address": "0x13063bed4bebbe542005e191c459d2cfa96b98e1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

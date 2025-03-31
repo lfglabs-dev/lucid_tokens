@@ -1,7 +1,7 @@
 {
   "symbol": "dop",
   "name": "D-Drops",
-  "address": "0x2a7CAd775fd9C5c43f996A948660fFc21b4e628c",
+  "address": "0x2a7cad775fd9c5c43f996a948660ffc21b4e628c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "abe",
   "name": "ABE",
-  "address": "0xD0dFCA0B404E866Dc9A3038BD2A545c6735D9fA9",
+  "address": "0xd0dfca0b404e866dc9a3038bd2a545c6735d9fa9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

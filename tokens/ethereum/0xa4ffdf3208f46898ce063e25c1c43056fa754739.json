@@ -1,7 +1,7 @@
 {
   "symbol": "ath",
   "name": "AthenaDAO",
-  "address": "0xA4fFdf3208F46898CE063e25c1C43056FA754739",
+  "address": "0xa4ffdf3208f46898ce063e25c1c43056fa754739",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

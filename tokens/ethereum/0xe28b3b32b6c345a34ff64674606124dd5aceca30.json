@@ -1,7 +1,7 @@
 {
   "symbol": "inj",
   "name": "Injective",
-  "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+  "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,9 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
-    "cosmos": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
-    "osmosis": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
-    "secret": "secret14706vxakdzkz9a36872cs62vpl5qd84kpwvpew",
     "binance-smart-chain": "0xa2b726b1145a4773f68593cf171187d8ebe4d495"
   }
 }

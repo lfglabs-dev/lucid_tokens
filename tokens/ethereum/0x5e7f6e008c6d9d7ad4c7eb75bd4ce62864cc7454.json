@@ -1,7 +1,7 @@
 {
   "symbol": "tap (bitcoin)",
   "name": "Tapify",
-  "address": "0x5e7F6e008C6d9D7AD4c7EB75Bd4ce62864cc7454",
+  "address": "0x5e7f6e008c6d9d7ad4c7eb75bd4ce62864cc7454",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x5e7f6e008c6d9d7ad4c7eb75bd4ce62864cc7454",
-    "ordinals": "cbc1900b8b0f02fdf481137c587896781a721a35369d4eae47c7445622ecb671i0"
+    "ethereum": "0x5e7f6e008c6d9d7ad4c7eb75bd4ce62864cc7454"
   }
 }

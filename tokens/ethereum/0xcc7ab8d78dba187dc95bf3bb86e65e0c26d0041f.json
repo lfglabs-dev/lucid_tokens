@@ -1,7 +1,7 @@
 {
   "symbol": "space",
   "name": "Spacelens",
-  "address": "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f",
+  "address": "0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

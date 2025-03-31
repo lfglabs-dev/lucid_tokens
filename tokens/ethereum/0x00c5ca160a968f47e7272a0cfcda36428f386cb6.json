@@ -1,7 +1,7 @@
 {
   "symbol": "usdebt",
   "name": "USDEBT",
-  "address": "0x00c5CA160A968f47e7272A0CFCda36428F386CB6",
+  "address": "0x00c5ca160a968f47e7272a0cfcda36428f386cb6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

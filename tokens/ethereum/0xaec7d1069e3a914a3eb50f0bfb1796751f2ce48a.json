@@ -1,7 +1,7 @@
 {
   "symbol": "s4f",
   "name": "S4FE",
-  "address": "0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a",
+  "address": "0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

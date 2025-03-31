@@ -1,7 +1,7 @@
 {
   "symbol": "jest",
   "name": "Jester",
-  "address": "0xA4Bc2B90743294E5E6fd3321A9A131947f7785dB",
+  "address": "0xa4bc2b90743294e5e6fd3321a9a131947f7785db",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

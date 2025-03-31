@@ -1,7 +1,7 @@
 {
   "symbol": "cia",
   "name": "CIA",
-  "address": "0x52F4D5EE6c91e01Be67CA1F64b11eD0EE370817d",
+  "address": "0x52f4d5ee6c91e01be67ca1f64b11ed0ee370817d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

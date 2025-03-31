@@ -1,7 +1,7 @@
 {
   "symbol": "uft",
   "name": "UniLend Finance",
-  "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+  "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

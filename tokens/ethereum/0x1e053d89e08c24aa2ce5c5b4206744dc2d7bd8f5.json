@@ -1,7 +1,7 @@
 {
   "symbol": "tt",
   "name": "ThunderCore",
-  "address": "0x1E053D89E08c24aA2CE5C5B4206744Dc2D7BD8F5",
+  "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

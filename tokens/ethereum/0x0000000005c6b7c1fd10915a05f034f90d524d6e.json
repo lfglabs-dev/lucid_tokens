@@ -1,7 +1,7 @@
 {
   "symbol": "tryc",
   "name": "TRYC",
-  "address": "0x0000000005c6B7C1fd10915a05f034F90d524D6E",
+  "address": "0x0000000005c6b7c1fd10915a05f034f90d524d6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

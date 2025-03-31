@@ -1,7 +1,7 @@
 {
   "symbol": "bsen",
   "name": "Baby Sen by Sentio",
-  "address": "0xC04207Ebf4BBBD81C14596b78Ece7CD8c17fB5Cf",
+  "address": "0xc04207ebf4bbbd81c14596b78ece7cd8c17fb5cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "unidx",
   "name": "UniDex",
-  "address": "0xf0655DcEE37E5C0b70Fffd70D85f88F8eDf0AfF6",
+  "address": "0xf0655dcee37e5c0b70fffd70d85f88f8edf0aff6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

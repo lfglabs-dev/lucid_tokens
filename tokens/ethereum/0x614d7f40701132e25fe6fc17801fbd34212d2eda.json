@@ -1,7 +1,7 @@
 {
   "symbol": "blast",
   "name": "SafeBlast",
-  "address": "0x614D7f40701132E25fe6fc17801Fbd34212d2Eda",
+  "address": "0x614d7f40701132e25fe6fc17801fbd34212d2eda",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

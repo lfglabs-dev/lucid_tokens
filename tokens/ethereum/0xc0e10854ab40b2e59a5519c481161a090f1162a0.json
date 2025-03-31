@@ -1,7 +1,7 @@
 {
   "symbol": "cairo",
   "name": "Cairo",
-  "address": "0xc0e10854ab40b2E59A5519C481161a090f1162A0",
+  "address": "0xc0e10854ab40b2e59a5519c481161a090f1162a0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

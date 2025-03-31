@@ -1,7 +1,7 @@
 {
   "symbol": "$stra",
   "name": "Sentra",
-  "address": "0x93181f0625329fc0F5C35d1670cEB541867aCc65",
+  "address": "0x93181f0625329fc0f5c35d1670ceb541867acc65",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

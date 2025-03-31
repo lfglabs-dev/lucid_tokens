@@ -1,7 +1,7 @@
 {
   "symbol": "lien",
   "name": "Lien",
-  "address": "0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E",
+  "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

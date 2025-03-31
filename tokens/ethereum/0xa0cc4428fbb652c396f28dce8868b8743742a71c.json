@@ -1,7 +1,7 @@
 {
   "symbol": "pai",
   "name": "Purple AI",
-  "address": "0xa0Cc4428FbB652C396F28DcE8868B8743742A71c",
+  "address": "0xa0cc4428fbb652c396f28dce8868b8743742a71c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

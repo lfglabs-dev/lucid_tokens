@@ -1,7 +1,7 @@
 {
   "symbol": "unibtc",
   "name": "Universal BTC",
-  "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
+  "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

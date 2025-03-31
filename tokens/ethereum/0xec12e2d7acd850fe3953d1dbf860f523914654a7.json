@@ -1,7 +1,7 @@
 {
   "symbol": "mirx",
   "name": "Mirada AI",
-  "address": "0xec12e2d7acd850FE3953d1dbf860F523914654a7",
+  "address": "0xec12e2d7acd850fe3953d1dbf860f523914654a7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

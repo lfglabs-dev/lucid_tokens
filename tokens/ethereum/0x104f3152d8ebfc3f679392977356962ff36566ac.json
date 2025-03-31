@@ -1,7 +1,7 @@
 {
   "symbol": "portx",
   "name": "ChainPort",
-  "address": "0x104F3152D8ebFC3f679392977356962Ff36566aC",
+  "address": "0x104f3152d8ebfc3f679392977356962ff36566ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

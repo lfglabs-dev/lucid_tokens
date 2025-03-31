@@ -1,7 +1,7 @@
 {
   "symbol": "xtn",
   "name": "Neutrino Index Token",
-  "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+  "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
-    "waves": "DG2xFkPdDwKUoBkzGAhQtLpSGzfXLiCYPEzeKH2Ad24p",
     "polygon-pos": "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7"
   }
 }

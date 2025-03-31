@@ -1,7 +1,7 @@
 {
   "symbol": "tune",
   "name": "Bitune",
-  "address": "0x1Fac00CceE478eCeD6A120a50Ed2Ab28EE7FE32b",
+  "address": "0x1fac00ccee478eced6a120a50ed2ab28ee7fe32b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

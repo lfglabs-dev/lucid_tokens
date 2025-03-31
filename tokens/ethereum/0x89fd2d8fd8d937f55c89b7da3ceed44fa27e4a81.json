@@ -1,7 +1,7 @@
 {
   "symbol": "bug",
   "name": "Bug",
-  "address": "0x89Fd2D8Fd8D937f55c89B7dA3CeeD44FA27E4A81",
+  "address": "0x89fd2d8fd8d937f55c89b7da3ceed44fa27e4a81",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

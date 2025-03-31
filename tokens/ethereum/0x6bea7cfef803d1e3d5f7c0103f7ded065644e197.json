@@ -1,7 +1,7 @@
 {
   "symbol": "gamma",
   "name": "Gamma Strategies",
-  "address": "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197",
+  "address": "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

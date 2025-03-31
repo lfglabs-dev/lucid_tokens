@@ -1,7 +1,7 @@
 {
   "symbol": "zcx",
   "name": "Unizen",
-  "address": "0xC52C326331E9Ce41F04484d3B5E5648158028804",
+  "address": "0xc52c326331e9ce41f04484d3b5e5648158028804",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

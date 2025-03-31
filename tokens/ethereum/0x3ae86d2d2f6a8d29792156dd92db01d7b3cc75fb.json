@@ -1,7 +1,7 @@
 {
   "symbol": "sxeth",
   "name": "StakeEase Restaked ETH",
-  "address": "0x3Ae86d2d2f6A8d29792156Dd92DB01D7B3CC75Fb",
+  "address": "0x3ae86d2d2f6a8d29792156dd92db01d7b3cc75fb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

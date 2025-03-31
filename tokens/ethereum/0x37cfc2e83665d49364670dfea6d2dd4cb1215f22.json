@@ -1,7 +1,7 @@
 {
   "symbol": "rreth",
   "name": "Astrid Restaked rETH",
-  "address": "0x37cFC2E83665d49364670DFeA6D2DD4Cb1215F22",
+  "address": "0x37cfc2e83665d49364670dfea6d2dd4cb1215f22",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

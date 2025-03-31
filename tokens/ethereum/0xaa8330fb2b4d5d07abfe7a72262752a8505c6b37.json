@@ -1,7 +1,7 @@
 {
   "symbol": "polc",
   "name": "Polkacity",
-  "address": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+  "address": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

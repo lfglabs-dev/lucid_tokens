@@ -1,7 +1,7 @@
 {
   "symbol": "insur",
   "name": "InsurAce",
-  "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+  "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

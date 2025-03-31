@@ -1,7 +1,7 @@
 {
   "symbol": "degen",
   "name": "Degen.Food",
-  "address": "0x1580bfe88F772116FD59b042189746aF8F78F00D",
+  "address": "0x1580bfe88f772116fd59b042189746af8f78f00d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

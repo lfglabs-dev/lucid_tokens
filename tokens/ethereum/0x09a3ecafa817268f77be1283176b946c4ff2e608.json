@@ -1,7 +1,7 @@
 {
   "symbol": "mir",
   "name": "Mirror Protocol",
-  "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+  "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
     "energi": "0x7e58cef7c589e0e1771b9c049cba313fdec31976",
-    "terra": "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6",
     "binance-smart-chain": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "aevo",
   "name": "Aevo",
-  "address": "0xB528edBef013aff855ac3c50b381f253aF13b997",
+  "address": "0xb528edbef013aff855ac3c50b381f253af13b997",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

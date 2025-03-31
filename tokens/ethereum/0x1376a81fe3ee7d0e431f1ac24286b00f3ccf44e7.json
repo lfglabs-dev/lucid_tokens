@@ -1,7 +1,7 @@
 {
   "symbol": "welle",
   "name": "Welle",
-  "address": "0x1376a81fe3eE7D0e431f1Ac24286b00f3CCf44e7",
+  "address": "0x1376a81fe3ee7d0e431f1ac24286b00f3ccf44e7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

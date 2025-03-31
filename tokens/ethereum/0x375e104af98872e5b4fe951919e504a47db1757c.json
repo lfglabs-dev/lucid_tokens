@@ -1,7 +1,7 @@
 {
   "symbol": "ginnan",
   "name": "Ginnan Doge's Brother",
-  "address": "0x375e104af98872E5B4Fe951919e504a47dB1757c",
+  "address": "0x375e104af98872e5b4fe951919e504a47db1757c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

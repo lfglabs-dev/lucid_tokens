@@ -1,7 +1,7 @@
 {
   "symbol": "kbt",
   "name": "KoinBay Token",
-  "address": "0x41B13e815308485f7f1Af5AfcC64A01519085609",
+  "address": "0x41b13e815308485f7f1af5afcc64a01519085609",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "moov",
   "name": "dotmoovs",
-  "address": "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9",
+  "address": "0x4116f14b6d462b32a1c10f98049e4b1765e34fa9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cheems",
   "name": "Cheems CTO",
-  "address": "0x41B1f9dcd5923c9542b6957B9B72169595ACBc5C",
+  "address": "0x41b1f9dcd5923c9542b6957b9b72169595acbc5c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

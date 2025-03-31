@@ -1,7 +1,7 @@
 {
   "symbol": "csco.d",
   "name": "Dinari CSCO",
-  "address": "0x0A27C31f087cd3d30CDAd339731bede4194531A4",
+  "address": "0x0a27c31f087cd3d30cdad339731bede4194531a4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

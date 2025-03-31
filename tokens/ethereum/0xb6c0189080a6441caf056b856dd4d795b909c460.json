@@ -1,7 +1,7 @@
 {
   "symbol": "moon",
   "name": "Black Unicorn Corp.",
-  "address": "0xb6c0189080a6441CAF056B856Dd4d795B909C460",
+  "address": "0xb6c0189080a6441caf056b856dd4d795b909c460",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

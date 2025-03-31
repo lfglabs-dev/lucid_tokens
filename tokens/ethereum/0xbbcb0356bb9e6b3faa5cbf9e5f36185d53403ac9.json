@@ -1,7 +1,7 @@
 {
   "symbol": "bcoin",
   "name": "Backed Coinbase Global",
-  "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+  "address": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

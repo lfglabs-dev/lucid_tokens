@@ -1,7 +1,7 @@
 {
   "symbol": "business",
   "name": "Business Coin",
-  "address": "0xc06caEAd870d3a8AF2504637B6C5b7248BEd6116",
+  "address": "0xc06caead870d3a8af2504637b6c5b7248bed6116",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

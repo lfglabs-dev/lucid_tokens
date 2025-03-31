@@ -1,7 +1,7 @@
 {
   "symbol": "x7r",
   "name": "X7R",
-  "address": "0x70008F18Fc58928dcE982b0A69C2c21ff80Dca54",
+  "address": "0x70008f18fc58928dce982b0a69c2c21ff80dca54",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ai",
   "name": "Any Inu",
-  "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+  "address": "0x2598c30330d5771ae9f983979209486ae26de875",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -18,7 +18,6 @@
     "avalanche": "0x2598c30330d5771ae9f983979209486ae26de875",
     "arbitrum-one": "0x2598c30330d5771ae9f983979209486ae26de875",
     "polygon-pos": "0x2598c30330d5771ae9f983979209486ae26de875",
-    "base": "0x2598c30330d5771ae9f983979209486ae26de875",
-    "solana": "ACeWC77UeW2DBZMe7YBsuXoxLvk4dHMnPzneApau1Au6"
+    "base": "0x2598c30330d5771ae9f983979209486ae26de875"
   }
 }

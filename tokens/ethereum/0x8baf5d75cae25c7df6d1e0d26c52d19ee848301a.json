@@ -1,7 +1,7 @@
 {
   "symbol": "catalorian",
   "name": "Catalorian",
-  "address": "0x8bAF5d75CaE25c7dF6d1E0d26C52d19Ee848301a",
+  "address": "0x8baf5d75cae25c7df6d1e0d26c52d19ee848301a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "plx",
   "name": "Pullix",
-  "address": "0x1cc7047E15825F639E0752Eb1b89E4225F5327F2",
+  "address": "0x1cc7047e15825f639e0752eb1b89e4225f5327f2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

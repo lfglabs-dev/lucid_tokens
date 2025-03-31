@@ -1,7 +1,7 @@
 {
   "symbol": "pirate",
   "name": "Pirate Nation Token",
-  "address": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC",
+  "address": "0x7613c48e0cd50e42dd9bf0f6c235063145f6f8dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

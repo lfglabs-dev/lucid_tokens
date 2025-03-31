@@ -1,7 +1,7 @@
 {
   "symbol": "equad",
   "name": "Quadrant Protocol",
-  "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+  "address": "0xc28e931814725bbeb9e670676fabbcb694fe7df2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

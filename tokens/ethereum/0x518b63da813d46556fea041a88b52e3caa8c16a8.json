@@ -1,7 +1,7 @@
 {
   "symbol": "atf",
   "name": "Antfarm Token",
-  "address": "0x518b63Da813D46556FEa041A88b52e3CAa8C16a8",
+  "address": "0x518b63da813d46556fea041a88b52e3caa8c16a8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mausdc",
   "name": "Morpho-Aave USD Coin",
-  "address": "0xA5269A8e31B93Ff27B887B56720A25F844db0529",
+  "address": "0xa5269a8e31b93ff27b887b56720a25f844db0529",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cad",
   "name": "Caduceus Protocol",
-  "address": "0x4349929808E515936A68903F6085F5e2B143ff3d",
+  "address": "0x4349929808e515936a68903f6085f5e2b143ff3d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

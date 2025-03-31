@@ -1,7 +1,7 @@
 {
   "symbol": "ntx",
   "name": "NuNet",
-  "address": "0xF0d33BeDa4d734C72684b5f9abBEbf715D0a7935",
+  "address": "0xf0d33beda4d734c72684b5f9abbebf715d0a7935",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xf0d33beda4d734c72684b5f9abbebf715d0a7935",
-    "cardano": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
     "binance-smart-chain": "0x5c4bcc4dbaeabc7659f6435bce4e659314ebad87"
   }
 }

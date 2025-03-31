@@ -1,7 +1,7 @@
 {
   "symbol": "kuku",
   "name": "KuKu",
-  "address": "0x27206F5a9AFD0C51dA95F20972885545D3B33647",
+  "address": "0x27206f5a9afd0c51da95f20972885545d3b33647",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

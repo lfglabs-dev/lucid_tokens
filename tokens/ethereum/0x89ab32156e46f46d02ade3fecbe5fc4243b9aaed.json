@@ -1,7 +1,7 @@
 {
   "symbol": "pnt",
   "name": "pNetwork",
-  "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+  "address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

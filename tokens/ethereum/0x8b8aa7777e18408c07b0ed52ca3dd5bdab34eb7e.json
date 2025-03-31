@@ -1,7 +1,7 @@
 {
   "symbol": "pdx",
   "name": "Paradox",
-  "address": "0x8b8aa7777E18408c07b0eD52cA3dD5bDab34Eb7E",
+  "address": "0x8b8aa7777e18408c07b0ed52ca3dd5bdab34eb7e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

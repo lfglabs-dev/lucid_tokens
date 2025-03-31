@@ -1,7 +1,7 @@
 {
   "symbol": "snow.d",
   "name": "Dinari SNOW",
-  "address": "0x3482968eD0E10Bf7446706a6680E8a8F486F61B0",
+  "address": "0x3482968ed0e10bf7446706a6680e8a8f486f61b0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

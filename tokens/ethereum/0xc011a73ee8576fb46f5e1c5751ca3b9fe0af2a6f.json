@@ -1,7 +1,7 @@
 {
   "symbol": "snx",
   "name": "Synthetix Network",
-  "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+  "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
-    "near-protocol": "c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near",
     "optimistic-ethereum": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
     "huobi-token": "0x777850281719d5a96c29812ab72f822e0e09f3da",
     "harmony-shard-0": "0x7b9c523d59aefd362247bd5601a89722e3774dd2",

@@ -1,7 +1,7 @@
 {
   "symbol": "para",
   "name": "Paragon Network",
-  "address": "0x8F43Ee50942E96D84052253AB13f59C1D942fb98",
+  "address": "0x8f43ee50942e96d84052253ab13f59c1d942fb98",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

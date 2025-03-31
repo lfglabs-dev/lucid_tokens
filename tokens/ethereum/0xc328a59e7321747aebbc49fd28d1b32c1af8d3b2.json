@@ -1,7 +1,7 @@
 {
   "symbol": "phil",
   "name": "Phil",
-  "address": "0xc328a59E7321747aEBBc49FD28d1b32C1af8d3b2",
+  "address": "0xc328a59e7321747aebbc49fd28d1b32c1af8d3b2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

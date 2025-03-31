@@ -1,7 +1,7 @@
 {
   "symbol": "alpa",
   "name": "Alpaca City",
-  "address": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
+  "address": "0x7ca4408137eb639570f8e647d9bd7b7e8717514a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

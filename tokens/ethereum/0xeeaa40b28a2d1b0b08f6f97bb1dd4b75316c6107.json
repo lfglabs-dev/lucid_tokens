@@ -1,7 +1,7 @@
 {
   "symbol": "govi",
   "name": "CVI",
-  "address": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107",
+  "address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

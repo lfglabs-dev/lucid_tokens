@@ -1,7 +1,7 @@
 {
   "symbol": "ethfi",
   "name": "Ether.fi",
-  "address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+  "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

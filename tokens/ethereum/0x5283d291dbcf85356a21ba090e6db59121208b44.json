@@ -1,7 +1,7 @@
 {
   "symbol": "blur",
   "name": "Blur",
-  "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+  "address": "0x5283d291dbcf85356a21ba090e6db59121208b44",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

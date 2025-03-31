@@ -1,7 +1,7 @@
 {
   "symbol": "scai",
   "name": "SecureChain AI",
-  "address": "0xE35009059cb55ded065027e9832A2c564AFF7512",
+  "address": "0xe35009059cb55ded065027e9832a2c564aff7512",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

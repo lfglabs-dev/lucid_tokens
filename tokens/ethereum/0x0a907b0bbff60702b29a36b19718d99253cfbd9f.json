@@ -1,7 +1,7 @@
 {
   "symbol": "qlix",
   "name": "QLix",
-  "address": "0x0a907B0bBFF60702b29a36b19718D99253cFBD9F",
+  "address": "0x0a907b0bbff60702b29a36b19718d99253cfbd9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ca",
   "name": "Coupon Assets",
-  "address": "0x9ee8c380E1926730aD89e91665FF27063b13c90A",
+  "address": "0x9ee8c380e1926730ad89e91665ff27063b13c90a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

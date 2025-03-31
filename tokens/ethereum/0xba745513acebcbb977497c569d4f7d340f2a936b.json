@@ -1,7 +1,7 @@
 {
   "symbol": "mftu",
   "name": "Mainstream For The Underground",
-  "address": "0xbA745513ACEbcBb977497C569D4F7d340f2A936B",
+  "address": "0xba745513acebcbb977497c569d4f7d340f2a936b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

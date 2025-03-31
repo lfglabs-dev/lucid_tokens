@@ -1,7 +1,7 @@
 {
   "symbol": "elg",
   "name": "Escoin",
-  "address": "0xA2085073878152aC3090eA13D1e41bD69e60Dc99",
+  "address": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

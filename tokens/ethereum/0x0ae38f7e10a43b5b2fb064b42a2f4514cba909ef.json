@@ -1,7 +1,7 @@
 {
   "symbol": "unsheth",
   "name": "unshETH Ether",
-  "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+  "address": "0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

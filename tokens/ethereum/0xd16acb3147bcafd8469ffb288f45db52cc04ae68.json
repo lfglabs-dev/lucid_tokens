@@ -1,7 +1,7 @@
 {
   "symbol": "ushy.d",
   "name": "Dinari USHY",
-  "address": "0xd16ACb3147bCAfd8469FFB288f45Db52CC04aE68",
+  "address": "0xd16acb3147bcafd8469ffb288f45db52cc04ae68",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

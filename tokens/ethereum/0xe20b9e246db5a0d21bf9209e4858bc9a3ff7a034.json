@@ -1,7 +1,7 @@
 {
   "symbol": "wban",
   "name": "Wrapped Banano",
-  "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+  "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

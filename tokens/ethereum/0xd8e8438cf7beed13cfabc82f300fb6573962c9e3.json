@@ -1,7 +1,7 @@
 {
   "symbol": "honk",
   "name": "Pepoclown",
-  "address": "0xD8E8438CF7bEEd13cFABC82F300Fb6573962c9e3",
+  "address": "0xd8e8438cf7beed13cfabc82f300fb6573962c9e3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

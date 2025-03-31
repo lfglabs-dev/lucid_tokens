@@ -1,7 +1,7 @@
 {
   "symbol": "plums",
   "name": "PLUMS",
-  "address": "0x666CBfaA3baa2FAccFAC8854fea1E5Db140FB104",
+  "address": "0x666cbfaa3baa2faccfac8854fea1e5db140fb104",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

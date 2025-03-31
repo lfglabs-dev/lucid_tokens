@@ -1,7 +1,7 @@
 {
   "symbol": "pepedoge",
   "name": "Pepe Doge",
-  "address": "0xB8C55c80a1cb7394088a36C6b634dC2Bf3C6fb67",
+  "address": "0xb8c55c80a1cb7394088a36c6b634dc2bf3c6fb67",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

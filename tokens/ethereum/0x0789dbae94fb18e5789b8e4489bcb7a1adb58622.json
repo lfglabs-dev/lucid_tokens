@@ -1,7 +1,7 @@
 {
   "symbol": "fscc",
   "name": "FISCO Coin",
-  "address": "0x0789dbAE94fb18e5789B8e4489BCB7A1ADB58622",
+  "address": "0x0789dbae94fb18e5789b8e4489bcb7a1adb58622",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "evolve",
   "name": "Evolve Network",
-  "address": "0x0F719591e2bCb6fcc3E68b16D2A88C89C6ae0D42",
+  "address": "0x0f719591e2bcb6fcc3e68b16d2a88c89c6ae0d42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "nbtc",
   "name": "NexusBTC",
-  "address": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
+  "address": "0x8bb97a618211695f5a6a889fac3546d1a573ea77",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

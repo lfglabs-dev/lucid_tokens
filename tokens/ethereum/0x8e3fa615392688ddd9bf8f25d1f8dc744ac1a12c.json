@@ -1,7 +1,7 @@
 {
   "symbol": "gme",
   "name": "DumbMoney",
-  "address": "0x8E3fA615392688ddD9bf8F25D1f8Dc744ac1A12C",
+  "address": "0x8e3fa615392688ddd9bf8f25d1f8dc744ac1a12c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

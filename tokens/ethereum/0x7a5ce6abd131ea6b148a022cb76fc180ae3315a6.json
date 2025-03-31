@@ -1,7 +1,7 @@
 {
   "symbol": "balpha",
   "name": "bAlpha",
-  "address": "0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
+  "address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bxx",
   "name": "Baanx",
-  "address": "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898",
+  "address": "0x6b1a8f210ec6b7b6643cea3583fb0c079f367898",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

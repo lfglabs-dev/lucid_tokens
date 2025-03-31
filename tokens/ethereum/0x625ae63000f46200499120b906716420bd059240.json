@@ -1,7 +1,7 @@
 {
   "symbol": "asusd",
   "name": "Aave SUSD v1",
-  "address": "0x625aE63000f46200499120B906716420bd059240",
+  "address": "0x625ae63000f46200499120b906716420bd059240",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

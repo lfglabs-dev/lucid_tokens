@@ -1,7 +1,7 @@
 {
   "symbol": "axl",
   "name": "AXL INU",
-  "address": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+  "address": "0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

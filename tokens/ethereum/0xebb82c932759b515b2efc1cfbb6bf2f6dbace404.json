@@ -1,7 +1,7 @@
 {
   "symbol": "shares",
   "name": "shares.finance",
-  "address": "0xebB82c932759B515B2efc1CfBB6BF2F6dbaCe404",
+  "address": "0xebb82c932759b515b2efc1cfbb6bf2f6dbace404",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

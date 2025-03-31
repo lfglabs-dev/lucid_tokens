@@ -1,7 +1,7 @@
 {
   "symbol": "uncx",
   "name": "UNCX Network",
-  "address": "0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0",
+  "address": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "care",
   "name": "CareCoin",
-  "address": "0x329cf160F30D21006bCD24b67EAde561E54CDE4c",
+  "address": "0x329cf160f30d21006bcd24b67eade561e54cde4c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lfg",
   "name": "Gamerse",
-  "address": "0x969786c4A8884013d1c9fF18dCCA2aeDbbBfAa8F",
+  "address": "0x969786c4a8884013d1c9ff18dcca2aedbbbfaa8f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

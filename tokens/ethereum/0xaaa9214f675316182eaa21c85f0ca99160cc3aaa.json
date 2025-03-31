@@ -1,7 +1,7 @@
 {
   "symbol": "qanx",
   "name": "QANplatform",
-  "address": "0xAAA9214F675316182Eaa21C85f0Ca99160CC3AAA",
+  "address": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

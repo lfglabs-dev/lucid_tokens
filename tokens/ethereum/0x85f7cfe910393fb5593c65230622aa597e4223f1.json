@@ -1,7 +1,7 @@
 {
   "symbol": "nitefeeder",
   "name": "Nitefeeder",
-  "address": "0x85F7cFe910393fB5593C65230622AA597e4223f1",
+  "address": "0x85f7cfe910393fb5593c65230622aa597e4223f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

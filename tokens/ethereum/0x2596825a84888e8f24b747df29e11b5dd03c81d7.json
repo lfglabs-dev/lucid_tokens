@@ -1,7 +1,7 @@
 {
   "symbol": "ftrb",
   "name": "Faith Tribe",
-  "address": "0x2596825a84888E8f24b747DF29e11b5dd03C81D7",
+  "address": "0x2596825a84888e8f24b747df29e11b5dd03c81d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

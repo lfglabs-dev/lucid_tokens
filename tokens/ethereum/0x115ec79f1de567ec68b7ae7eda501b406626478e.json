@@ -1,7 +1,7 @@
 {
   "symbol": "cre",
   "name": "Carry",
-  "address": "0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+  "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

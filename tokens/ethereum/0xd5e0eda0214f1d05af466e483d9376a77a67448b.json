@@ -1,7 +1,7 @@
 {
   "symbol": "trala",
   "name": "TRALA TOKEN",
-  "address": "0xD5e0eda0214f1d05af466E483d9376a77A67448b",
+  "address": "0xd5e0eda0214f1d05af466e483d9376a77a67448b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

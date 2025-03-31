@@ -1,7 +1,7 @@
 {
   "symbol": "helga",
   "name": "Helga Inu",
-  "address": "0x78E3b2ee11950df78a35FD924E92fbB8d1403780",
+  "address": "0x78e3b2ee11950df78a35fd924e92fbb8d1403780",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

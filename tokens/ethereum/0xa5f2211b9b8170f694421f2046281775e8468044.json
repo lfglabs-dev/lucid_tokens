@@ -1,7 +1,7 @@
 {
   "symbol": "thor",
   "name": "THORSwap",
-  "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
+  "address": "0xa5f2211b9b8170f694421f2046281775e8468044",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

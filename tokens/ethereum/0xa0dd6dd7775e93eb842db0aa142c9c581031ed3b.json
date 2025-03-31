@@ -1,7 +1,7 @@
 {
   "symbol": "mnd",
   "name": "Mind",
-  "address": "0xa0Dd6dd7775E93EB842Db0AA142c9c581031Ed3B",
+  "address": "0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "xeeth",
   "name": "Leveraged eETH",
-  "address": "0xACB3604AaDF26e6C0bb8c720420380629A328d2C",
+  "address": "0xacb3604aadf26e6c0bb8c720420380629a328d2c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

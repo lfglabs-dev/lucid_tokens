@@ -1,7 +1,7 @@
 {
   "symbol": "index",
   "name": "Index Cooperative",
-  "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+  "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

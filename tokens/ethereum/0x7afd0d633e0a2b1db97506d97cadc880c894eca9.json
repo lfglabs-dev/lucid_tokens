@@ -1,7 +1,7 @@
 {
   "symbol": "$maru",
   "name": "Marutaro",
-  "address": "0x7AfD0d633e0A2b1db97506d97CAdc880C894EcA9",
+  "address": "0x7afd0d633e0a2b1db97506d97cadc880c894eca9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

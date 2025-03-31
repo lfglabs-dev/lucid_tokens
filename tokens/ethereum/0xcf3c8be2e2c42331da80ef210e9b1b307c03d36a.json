@@ -1,7 +1,7 @@
 {
   "symbol": "bepro",
   "name": "Bepro",
-  "address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+  "address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

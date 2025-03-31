@@ -1,7 +1,7 @@
 {
   "symbol": "cocaine",
   "name": "Nose Candy",
-  "address": "0x3595e426A7808E2482667eE4E453ef280fbB9cF4",
+  "address": "0x3595e426a7808e2482667ee4e453ef280fbb9cf4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

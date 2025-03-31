@@ -1,7 +1,7 @@
 {
   "symbol": "hq",
   "name": "HyperQuant",
-  "address": "0x986df267Bb88A0a0be06DD4a1052E1BdEC1a6172",
+  "address": "0x986df267bb88a0a0be06dd4a1052e1bdec1a6172",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

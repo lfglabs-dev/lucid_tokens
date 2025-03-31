@@ -1,7 +1,7 @@
 {
   "symbol": "fxusd",
   "name": "f(x) Protocol fxUSD",
-  "address": "0x085780639CC2cACd35E474e71f4d000e2405d8f6",
+  "address": "0x085780639cc2cacd35e474e71f4d000e2405d8f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ggtk",
   "name": "GG",
-  "address": "0xFA99A87b14B02e2240C79240C5a20F945ca5EF76",
+  "address": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

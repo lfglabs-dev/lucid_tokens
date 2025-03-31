@@ -1,7 +1,7 @@
 {
   "symbol": "taoshard",
   "name": "TAO Subnet Sharding",
-  "address": "0x693170bd3c37DCD46168d8b399AA7551A32de2aF",
+  "address": "0x693170bd3c37dcd46168d8b399aa7551a32de2af",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

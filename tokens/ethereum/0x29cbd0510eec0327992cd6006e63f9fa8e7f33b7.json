@@ -1,7 +1,7 @@
 {
   "symbol": "tidal",
   "name": "Tidal Finance",
-  "address": "0x29CbD0510EEc0327992CD6006e63F9Fa8E7f33B7",
+  "address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

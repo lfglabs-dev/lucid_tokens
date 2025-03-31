@@ -1,7 +1,7 @@
 {
   "symbol": "gswift",
   "name": "GameSwift",
-  "address": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
+  "address": "0x580e933d90091b9ce380740e3a4a39c67eb85b4c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

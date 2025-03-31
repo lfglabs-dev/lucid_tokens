@@ -1,7 +1,7 @@
 {
   "symbol": "ethm",
   "name": "Ethereum Meta",
-  "address": "0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794",
+  "address": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794",
     "binance-smart-chain": "0x0b33542240d6fa323c796749f6d6869fdb7f13ca",
-    "polygon-pos": "0x55b1a124c04a54eefdefe5fa2ef5f852fb5f2f26",
-    "solana": "EsUEnK3Z26CTCGvFFZb2wLVgUSkYWdKyhZZeBq9P6rz9"
+    "polygon-pos": "0x55b1a124c04a54eefdefe5fa2ef5f852fb5f2f26"
   }
 }

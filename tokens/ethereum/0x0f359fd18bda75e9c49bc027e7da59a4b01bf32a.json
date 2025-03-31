@@ -1,7 +1,7 @@
 {
   "symbol": "reusdc",
   "name": "Relend USDC",
-  "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
+  "address": "0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

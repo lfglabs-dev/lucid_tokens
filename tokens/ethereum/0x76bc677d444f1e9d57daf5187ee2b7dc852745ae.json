@@ -1,7 +1,7 @@
 {
   "symbol": "xft",
   "name": "Offshift",
-  "address": "0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE",
+  "address": "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

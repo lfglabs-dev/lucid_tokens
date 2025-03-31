@@ -1,7 +1,7 @@
 {
   "symbol": "evire",
   "name": "Evire",
-  "address": "0x7ceEc758dfe5EF8C32cDe7b2259CC79B1891E8ED",
+  "address": "0x7ceec758dfe5ef8c32cde7b2259cc79b1891e8ed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

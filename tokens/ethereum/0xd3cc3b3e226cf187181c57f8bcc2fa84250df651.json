@@ -1,7 +1,7 @@
 {
   "symbol": "upload",
   "name": "UPLOAD",
-  "address": "0xD3cC3b3e226cF187181C57F8bcC2fA84250DF651",
+  "address": "0xd3cc3b3e226cf187181c57f8bcc2fa84250df651",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

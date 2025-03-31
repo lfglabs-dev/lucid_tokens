@@ -1,7 +1,7 @@
 {
   "symbol": "cls",
   "name": "Coldstack",
-  "address": "0x675BBC7514013E2073DB7a919F6e4cbeF576de37",
+  "address": "0x675bbc7514013e2073db7a919f6e4cbef576de37",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x675bbc7514013e2073db7a919f6e4cbef576de37",
-    "binance-smart-chain": "0x668048e70284107a6afab1711f28d88df3e72948",
-    "solana": "JCRiQKaujJjAjfVH8CNo4htGFMuTTnZtwvasVwneT7MA"
+    "binance-smart-chain": "0x668048e70284107a6afab1711f28d88df3e72948"
   }
 }

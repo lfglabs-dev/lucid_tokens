@@ -1,7 +1,7 @@
 {
   "symbol": "fine",
   "name": "This Is Fine - Ethereum",
-  "address": "0x1634e10C9155BE623B5a52d6CA01C7A904D89b0a",
+  "address": "0x1634e10c9155be623b5a52d6ca01c7a904d89b0a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

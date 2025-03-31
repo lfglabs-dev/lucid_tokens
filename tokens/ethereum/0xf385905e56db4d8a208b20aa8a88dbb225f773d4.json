@@ -1,7 +1,7 @@
 {
   "symbol": "bn",
   "name": "TNA Protocol",
-  "address": "0xf385905e56Db4D8A208b20Aa8a88Dbb225f773d4",
+  "address": "0xf385905e56db4d8a208b20aa8a88dbb225f773d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "usdv",
   "name": "Verified USD",
-  "address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
+  "address": "0x0e573ce2736dd9637a0b21058352e1667925c7a8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "gme",
   "name": "DumbMoney",
-  "address": "0xFc4b4ec763722B71eB1D729749B447A9645f5F30",
+  "address": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30",
-    "solana": "556BVtBSN6kWVXm5q9KW3FLXoFjmwcMi8C4ztKrH4Xk4"
+    "ethereum": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30"
   }
 }

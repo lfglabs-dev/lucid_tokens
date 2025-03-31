@@ -1,7 +1,7 @@
 {
   "symbol": "ppc",
   "name": "Peercoin",
-  "address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+  "address": "0x044d078f1c86508e13328842cc75ac021b272958",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

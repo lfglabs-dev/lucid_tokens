@@ -1,7 +1,7 @@
 {
   "symbol": "big",
   "name": "Big Eyes",
-  "address": "0xc8De43Bfe33FF496Fa14c270D9CB29Bda196B9B5",
+  "address": "0xc8de43bfe33ff496fa14c270d9cb29bda196b9b5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

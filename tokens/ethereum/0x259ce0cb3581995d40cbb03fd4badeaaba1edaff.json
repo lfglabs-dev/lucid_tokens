@@ -1,7 +1,7 @@
 {
   "symbol": "sxs",
   "name": "SphereSXS",
-  "address": "0x259cE0cb3581995d40CBb03fd4BaDeaABA1EDAFf",
+  "address": "0x259ce0cb3581995d40cbb03fd4badeaaba1edaff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

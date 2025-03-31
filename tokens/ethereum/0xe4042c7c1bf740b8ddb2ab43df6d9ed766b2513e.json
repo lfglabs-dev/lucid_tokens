@@ -1,7 +1,7 @@
 {
   "symbol": "badcat",
   "name": "Andy Alter Ego",
-  "address": "0xe4042c7c1Bf740B8DDb2aB43df6d9ED766B2513e",
+  "address": "0xe4042c7c1bf740b8ddb2ab43df6d9ed766b2513e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

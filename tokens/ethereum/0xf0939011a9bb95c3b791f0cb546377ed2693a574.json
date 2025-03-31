@@ -1,7 +1,7 @@
 {
   "symbol": "zero",
   "name": "0.exchange",
-  "address": "0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
+  "address": "0xf0939011a9bb95c3b791f0cb546377ed2693a574",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

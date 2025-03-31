@@ -1,7 +1,7 @@
 {
   "symbol": "dft",
   "name": "DigiFinex",
-  "address": "0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A",
+  "address": "0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "num",
   "name": "Numbers Protocol",
-  "address": "0x3496B523e5C00a4b4150D6721320CdDb234c3079",
+  "address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

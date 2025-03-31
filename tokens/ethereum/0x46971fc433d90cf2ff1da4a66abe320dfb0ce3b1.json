@@ -1,7 +1,7 @@
 {
   "symbol": "wne",
   "name": "Winee3",
-  "address": "0x46971fC433d90cf2ff1da4a66aBe320DfB0cE3b1",
+  "address": "0x46971fc433d90cf2ff1da4a66abe320dfb0ce3b1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

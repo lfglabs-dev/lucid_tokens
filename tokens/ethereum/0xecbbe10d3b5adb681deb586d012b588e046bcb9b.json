@@ -1,7 +1,7 @@
 {
   "symbol": "fiber",
   "name": "Fiber Network",
-  "address": "0xecbBe10D3b5aDb681DEb586D012b588E046bcb9B",
+  "address": "0xecbbe10d3b5adb681deb586d012b588e046bcb9b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

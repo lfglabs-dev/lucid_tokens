@@ -1,7 +1,7 @@
 {
   "symbol": "groggo",
   "name": "Groggo By Matt Furie",
-  "address": "0x420110D74c4c3ea14043A09E81FAD53e1932F54c",
+  "address": "0x420110d74c4c3ea14043a09e81fad53e1932f54c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

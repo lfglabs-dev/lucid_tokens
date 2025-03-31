@@ -1,7 +1,7 @@
 {
   "symbol": "lpeth",
   "name": "Loop ETH",
-  "address": "0xa684EAf215ad323452e2B2bF6F817d4aa5C116ab",
+  "address": "0xa684eaf215ad323452e2b2bf6f817d4aa5c116ab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

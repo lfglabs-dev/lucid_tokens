@@ -1,7 +1,7 @@
 {
   "symbol": "ptoy",
   "name": "Patientory",
-  "address": "0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06",
+  "address": "0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

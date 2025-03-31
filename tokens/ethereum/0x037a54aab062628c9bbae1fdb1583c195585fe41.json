@@ -1,7 +1,7 @@
 {
   "symbol": "lcx",
   "name": "LCX",
-  "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+  "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

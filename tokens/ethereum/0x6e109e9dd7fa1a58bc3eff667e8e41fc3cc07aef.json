@@ -1,7 +1,7 @@
 {
   "symbol": "cnht",
   "name": "CNH Tether",
-  "address": "0x6E109E9dD7Fa1a58BC3eff667e8e41fC3cc07AEF",
+  "address": "0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

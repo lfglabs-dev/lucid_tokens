@@ -1,7 +1,7 @@
 {
   "symbol": "rintaro",
   "name": "Rintaro",
-  "address": "0x53229609F907be495704fCa99Ad0835C5f3abd3A",
+  "address": "0x53229609f907be495704fca99ad0835c5f3abd3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

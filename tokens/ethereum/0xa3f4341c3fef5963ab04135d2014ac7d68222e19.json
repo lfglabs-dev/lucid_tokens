@@ -1,7 +1,7 @@
 {
   "symbol": "logx",
   "name": "LogX Network",
-  "address": "0xa3F4341C3fEf5963AB04135D2014AC7d68222E19",
+  "address": "0xa3f4341c3fef5963ab04135d2014ac7d68222e19",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

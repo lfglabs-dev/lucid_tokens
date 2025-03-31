@@ -1,7 +1,7 @@
 {
   "symbol": "reset",
   "name": "MetaReset",
-  "address": "0xB70eAF5d316192881Aac8786c90B7907b83F02e8",
+  "address": "0xb70eaf5d316192881aac8786c90b7907b83f02e8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

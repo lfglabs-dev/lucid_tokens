@@ -1,7 +1,7 @@
 {
   "symbol": "puppies",
   "name": "I love puppies",
-  "address": "0xCF91b70017eABDE82c9671E30e5502D312eA6eb2",
+  "address": "0xcf91b70017eabde82c9671e30e5502d312ea6eb2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

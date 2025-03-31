@@ -1,7 +1,7 @@
 {
   "symbol": "toad",
   "name": "Acid Toad",
-  "address": "0xAc1D3D7A8878E655cBb063D58E453540641f4117",
+  "address": "0xac1d3d7a8878e655cbb063d58e453540641f4117",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

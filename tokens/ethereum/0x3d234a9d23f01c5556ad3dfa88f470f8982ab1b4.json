@@ -1,7 +1,7 @@
 {
   "symbol": "vatr",
   "name": "Vatra INU",
-  "address": "0x3d234A9d23F01c5556AD3dfA88F470f8982ab1b4",
+  "address": "0x3d234a9d23f01c5556ad3dfa88f470f8982ab1b4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

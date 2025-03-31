@@ -1,7 +1,7 @@
 {
   "symbol": "lbk",
   "name": "LBK",
-  "address": "0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
+  "address": "0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

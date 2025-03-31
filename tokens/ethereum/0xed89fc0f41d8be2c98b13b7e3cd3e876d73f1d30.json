@@ -1,7 +1,7 @@
 {
   "symbol": "gou",
   "name": "Gou",
-  "address": "0xeD89fc0F41d8Be2C98B13B7e3cd3E876D73f1d30",
+  "address": "0xed89fc0f41d8be2c98b13b7e3cd3e876d73f1d30",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

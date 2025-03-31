@@ -1,7 +1,7 @@
 {
   "symbol": "dusd",
   "name": "Davos.xyz USD",
-  "address": "0xa48F322F8b3edff967629Af79E027628b9Dd1298",
+  "address": "0xa48f322f8b3edff967629af79e027628b9dd1298",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

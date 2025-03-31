@@ -1,7 +1,7 @@
 {
   "symbol": "slx.d",
   "name": "Dinari SLX",
-  "address": "0x0ECB3513eBf1E62be765452900608Aa957dBD13D",
+  "address": "0x0ecb3513ebf1e62be765452900608aa957dbd13d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

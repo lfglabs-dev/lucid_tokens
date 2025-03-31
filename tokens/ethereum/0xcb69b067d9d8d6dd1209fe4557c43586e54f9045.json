@@ -1,7 +1,7 @@
 {
   "symbol": "psm",
   "name": "Possum",
-  "address": "0xcb69B067d9d8d6dD1209fE4557c43586E54f9045",
+  "address": "0xcb69b067d9d8d6dd1209fe4557c43586e54f9045",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

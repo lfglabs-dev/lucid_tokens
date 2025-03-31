@@ -1,7 +1,7 @@
 {
   "symbol": "sipher",
   "name": "SIPHER",
-  "address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
+  "address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

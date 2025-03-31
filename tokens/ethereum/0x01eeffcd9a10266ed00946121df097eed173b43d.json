@@ -1,7 +1,7 @@
 {
   "symbol": "xd",
   "name": "XDoge",
-  "address": "0x01eefFCD9a10266ed00946121DF097eeD173b43D",
+  "address": "0x01eeffcd9a10266ed00946121df097eed173b43d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

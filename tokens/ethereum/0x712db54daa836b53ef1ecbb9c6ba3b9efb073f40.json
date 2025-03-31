@@ -1,7 +1,7 @@
 {
   "symbol": "aenj",
   "name": "Aave ENJ v1",
-  "address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
+  "address": "0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

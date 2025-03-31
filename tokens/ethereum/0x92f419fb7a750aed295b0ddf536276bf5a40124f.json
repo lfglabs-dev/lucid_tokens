@@ -1,7 +1,7 @@
 {
   "symbol": "tatsu",
   "name": "Tatsu",
-  "address": "0x92F419fB7a750aeD295B0ddF536276bf5a40124F",
+  "address": "0x92f419fb7a750aed295b0ddf536276bf5a40124f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

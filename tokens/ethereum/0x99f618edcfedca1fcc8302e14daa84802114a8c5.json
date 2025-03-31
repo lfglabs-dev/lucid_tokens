@@ -1,7 +1,7 @@
 {
   "symbol": "dbnb",
   "name": "DecentraBNB",
-  "address": "0x99F618EDcfEDCa1fCC8302e14Daa84802114a8c5",
+  "address": "0x99f618edcfedca1fcc8302e14daa84802114a8c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

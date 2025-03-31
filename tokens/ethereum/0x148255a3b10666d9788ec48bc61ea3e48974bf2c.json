@@ -1,7 +1,7 @@
 {
   "symbol": "dmcc",
   "name": "Decentralized Music Chain",
-  "address": "0x148255a3b10666D9788Ec48BC61Ea3e48974bf2C",
+  "address": "0x148255a3b10666d9788ec48bc61ea3e48974bf2c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

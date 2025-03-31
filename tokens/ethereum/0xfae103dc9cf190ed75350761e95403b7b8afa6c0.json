@@ -1,7 +1,7 @@
 {
   "symbol": "rsweth",
   "name": "Restaked Swell ETH",
-  "address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+  "address": "0xfae103dc9cf190ed75350761e95403b7b8afa6c0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

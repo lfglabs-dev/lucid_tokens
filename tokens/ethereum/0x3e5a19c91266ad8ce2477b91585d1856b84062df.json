@@ -1,7 +1,7 @@
 {
   "symbol": "a8",
   "name": "Ancient8",
-  "address": "0x3E5A19c91266aD8cE2477B91585d1856B84062dF",
+  "address": "0x3e5a19c91266ad8ce2477b91585d1856b84062df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

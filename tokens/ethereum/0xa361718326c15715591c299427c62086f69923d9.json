@@ -1,7 +1,7 @@
 {
   "symbol": "abusd",
   "name": "Aave BUSD",
-  "address": "0xA361718326c15715591c299427c62086F69923D9",
+  "address": "0xa361718326c15715591c299427c62086f69923d9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

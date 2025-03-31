@@ -1,7 +1,7 @@
 {
   "symbol": "sigma",
   "name": "SIGMA",
-  "address": "0x18a8D75F70eAEad79B5A55903D036ce337F623A5",
+  "address": "0x18a8d75f70eaead79b5a55903d036ce337f623a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

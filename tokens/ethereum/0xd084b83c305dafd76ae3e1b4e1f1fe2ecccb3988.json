@@ -1,7 +1,7 @@
 {
   "symbol": "tvk",
   "name": "Virtua",
-  "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
+  "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

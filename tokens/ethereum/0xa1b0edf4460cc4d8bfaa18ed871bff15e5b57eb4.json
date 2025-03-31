@@ -1,7 +1,7 @@
 {
   "symbol": "aammunibatweth",
   "name": "Aave AMM UniBATWETH",
-  "address": "0xA1B0edF4460CC4d8bFAA18Ed871bFF15E5b57Eb4",
+  "address": "0xa1b0edf4460cc4d8bfaa18ed871bff15e5b57eb4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

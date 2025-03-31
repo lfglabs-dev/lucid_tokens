@@ -1,7 +1,7 @@
 {
   "symbol": "cbbtc",
   "name": "Coinbase Wrapped BTC",
-  "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+  "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
     "arbitrum-one": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-    "base": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-    "solana": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
+    "base": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "chillguy",
   "name": "Just a chill guy (ETH)",
-  "address": "0x60215DB40B04Fe029C42c56fF2E02221c1F288ef",
+  "address": "0x60215db40b04fe029c42c56ff2e02221c1f288ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ride",
   "name": "holoride",
-  "address": "0xf97e2A78f1f3D1fD438ff7cC3BB7De01E5945B83",
+  "address": "0xf97e2a78f1f3d1fd438ff7cc3bb7de01e5945b83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "elrond": "RIDE-7d18e9",
     "ethereum": "0xf97e2a78f1f3d1fd438ff7cc3bb7de01e5945b83"
   }
 }

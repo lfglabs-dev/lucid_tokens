@@ -1,7 +1,7 @@
 {
   "symbol": "liz",
   "name": "Lizcoin",
-  "address": "0xAF4144cd943ed5362Fed2BaE6573184659CBe6FF",
+  "address": "0xaf4144cd943ed5362fed2bae6573184659cbe6ff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

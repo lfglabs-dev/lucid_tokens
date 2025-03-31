@@ -1,7 +1,7 @@
 {
   "symbol": "xmt",
   "name": "MetalSwap",
-  "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+  "address": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

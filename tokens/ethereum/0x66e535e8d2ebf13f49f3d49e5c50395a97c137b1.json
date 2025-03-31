@@ -1,7 +1,7 @@
 {
   "symbol": "molten",
   "name": "Molten",
-  "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
+  "address": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

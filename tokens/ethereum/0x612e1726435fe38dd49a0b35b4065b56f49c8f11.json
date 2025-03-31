@@ -1,7 +1,7 @@
 {
   "symbol": "ccv2",
   "name": "CryptoCart V2",
-  "address": "0x612E1726435fE38dD49A0B35b4065B56f49c8F11",
+  "address": "0x612e1726435fe38dd49a0b35b4065b56f49c8f11",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

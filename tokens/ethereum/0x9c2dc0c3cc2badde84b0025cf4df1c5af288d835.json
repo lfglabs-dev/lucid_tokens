@@ -1,7 +1,7 @@
 {
   "symbol": "cor",
   "name": "Coreto",
-  "address": "0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835",
+  "address": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
     "aurora": "0xe62233aeaed9b9ea007704262e15445e0d756c0b",
-    "near-protocol": "9c2dc0c3cc2badde84b0025cf4df1c5af288d835.factory.bridge.near",
     "binance-smart-chain": "0xa4b6573c9ae09d81e4d1360e6402b81f52557098",
     "polygon-pos": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c"
   }

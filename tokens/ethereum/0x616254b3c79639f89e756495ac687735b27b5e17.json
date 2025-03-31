@@ -1,7 +1,7 @@
 {
   "symbol": "rino",
   "name": "Rino",
-  "address": "0x616254B3c79639f89E756495ac687735B27b5E17",
+  "address": "0x616254b3c79639f89e756495ac687735b27b5e17",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "test",
   "name": "Test",
-  "address": "0x807534B396919783B7e30383Fe57D857BC084338",
+  "address": "0x807534b396919783b7e30383fe57d857bc084338",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

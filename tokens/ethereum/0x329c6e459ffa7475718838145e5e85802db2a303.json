@@ -1,7 +1,7 @@
 {
   "symbol": "emaid",
   "name": "MaidSafeCoin",
-  "address": "0x329c6E459FFa7475718838145e5e85802Db2a303",
+  "address": "0x329c6e459ffa7475718838145e5e85802db2a303",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

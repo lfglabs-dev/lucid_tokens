@@ -1,7 +1,7 @@
 {
   "symbol": "lit",
   "name": "LIT",
-  "address": "0xC5b3D3231001a776123194Cf1290068e8b0C783b",
+  "address": "0xc5b3d3231001a776123194cf1290068e8b0c783b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

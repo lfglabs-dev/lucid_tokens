@@ -1,7 +1,7 @@
 {
   "symbol": "pc",
   "name": "Pepe Chain",
-  "address": "0x4F311C430540db1d64e635EB55f969F1660B2016",
+  "address": "0x4f311c430540db1d64e635eb55f969f1660b2016",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

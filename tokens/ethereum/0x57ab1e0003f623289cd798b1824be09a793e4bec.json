@@ -1,7 +1,7 @@
 {
   "symbol": "reusd",
   "name": "Resupply USD",
-  "address": "0x57aB1E0003F623289CD798B1824Be09a793e4Bec",
+  "address": "0x57ab1e0003f623289cd798b1824be09a793e4bec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

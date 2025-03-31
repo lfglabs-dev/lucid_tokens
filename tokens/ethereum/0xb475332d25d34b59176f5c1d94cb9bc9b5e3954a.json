@@ -1,7 +1,7 @@
 {
   "symbol": "hobbes",
   "name": "Hobbes",
-  "address": "0xB475332D25d34b59176F5c1D94cb9Bc9B5E3954A",
+  "address": "0xb475332d25d34b59176f5c1d94cb9bc9b5e3954a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

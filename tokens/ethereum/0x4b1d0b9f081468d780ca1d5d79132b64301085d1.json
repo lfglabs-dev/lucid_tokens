@@ -1,7 +1,7 @@
 {
   "symbol": "lmr",
   "name": "Lumerin",
-  "address": "0x4b1D0b9F081468D780Ca1d5d79132b64301085d1",
+  "address": "0x4b1d0b9f081468d780ca1d5d79132b64301085d1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

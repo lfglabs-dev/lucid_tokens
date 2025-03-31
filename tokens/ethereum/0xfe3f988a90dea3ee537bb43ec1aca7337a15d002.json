@@ -1,7 +1,7 @@
 {
   "symbol": "phx",
   "name": "PHOENIX",
-  "address": "0xfe3F988a90dEa3eE537BB43eC1aCa7337A15D002",
+  "address": "0xfe3f988a90dea3ee537bb43ec1aca7337a15d002",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

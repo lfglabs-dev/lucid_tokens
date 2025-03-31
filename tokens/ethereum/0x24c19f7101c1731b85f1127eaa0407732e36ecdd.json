@@ -1,7 +1,7 @@
 {
   "symbol": "sgtv2",
   "name": "SharedStake Governance v2",
-  "address": "0x24C19F7101c1731b85F1127EaA0407732E36EcDD",
+  "address": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

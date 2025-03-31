@@ -1,7 +1,7 @@
 {
   "symbol": "taxi",
   "name": "Robotaxi",
-  "address": "0x2597342ff387B63846eb456419590781C4bfCdAF",
+  "address": "0x2597342ff387b63846eb456419590781c4bfcdaf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "nems",
   "name": "The Nemesis",
-  "address": "0xb435A47eCea7F5366b2520e45B9beD7E01d2FFAe",
+  "address": "0xb435a47ecea7f5366b2520e45b9bed7e01d2ffae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

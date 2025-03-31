@@ -1,7 +1,7 @@
 {
   "symbol": "gemai",
   "name": "The Next Gem AI",
-  "address": "0xFBE44caE91d7Df8382208fCdc1fE80E40FBc7e9a",
+  "address": "0xfbe44cae91d7df8382208fcdc1fe80e40fbc7e9a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

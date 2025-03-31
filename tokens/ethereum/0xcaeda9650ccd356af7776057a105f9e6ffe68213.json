@@ -1,7 +1,7 @@
 {
   "symbol": "loong",
   "name": "Loong",
-  "address": "0xCaeda9650cCD356aF7776057a105F9e6FfE68213",
+  "address": "0xcaeda9650ccd356af7776057a105f9e6ffe68213",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

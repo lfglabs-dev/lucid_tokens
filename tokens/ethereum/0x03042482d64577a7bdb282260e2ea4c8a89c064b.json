@@ -1,7 +1,7 @@
 {
   "symbol": "cntr",
   "name": "Centaur",
-  "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+  "address": "0x03042482d64577a7bdb282260e2ea4c8a89c064b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "esg",
   "name": "ESG",
-  "address": "0x20cD2E7Ec8F5d8b337fe46a4F565Ccef1561b9a9",
+  "address": "0x20cd2e7ec8f5d8b337fe46a4f565ccef1561b9a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

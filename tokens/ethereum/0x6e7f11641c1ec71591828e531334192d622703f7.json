@@ -1,7 +1,7 @@
 {
   "symbol": "oik",
   "name": "Space Nation Oikos",
-  "address": "0x6E7F11641c1EC71591828E531334192d622703F7",
+  "address": "0x6e7f11641c1ec71591828e531334192d622703f7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

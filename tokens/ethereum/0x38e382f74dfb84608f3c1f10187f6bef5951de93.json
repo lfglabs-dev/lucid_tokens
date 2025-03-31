@@ -1,7 +1,7 @@
 {
   "symbol": "mubi",
   "name": "Multibit",
-  "address": "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
+  "address": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

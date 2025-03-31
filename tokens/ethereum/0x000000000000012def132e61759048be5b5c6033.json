@@ -1,7 +1,7 @@
 {
   "symbol": "cx",
   "name": "Cortex",
-  "address": "0x000000000000012DeF132E61759048bE5b5C6033",
+  "address": "0x000000000000012def132e61759048be5b5c6033",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -14,7 +14,6 @@
     "binance-smart-chain": "0x000000000000012def132e61759048be5b5c6033",
     "avalanche": "0x000000000000012def132e61759048be5b5c6033",
     "arbitrum-one": "0x000000000000012def132e61759048be5b5c6033",
-    "solana": "CortexFv3fRcLKTgACr7aLqckGh5eP7TP3z9JHoKqMc6",
     "base": "0x000000000000012def132e61759048be5b5c6033",
     "optimistic-ethereum": "0x000000000000012def132e61759048be5b5c6033"
   }

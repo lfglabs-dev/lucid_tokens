@@ -1,7 +1,7 @@
 {
   "symbol": "wbtc",
   "name": "Wrapped Bitcoin",
-  "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+  "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "osmosis": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
+    "ethereum": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "pepega",
   "name": "Pepega",
-  "address": "0x9634Bdb20bbaB07bB52D279FA6e0C53CCc89c879",
+  "address": "0x9634bdb20bbab07bb52d279fa6e0c53ccc89c879",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

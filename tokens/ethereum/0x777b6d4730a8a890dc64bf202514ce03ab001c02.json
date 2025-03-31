@@ -1,7 +1,7 @@
 {
   "symbol": "bars",
   "name": "Silver Standard",
-  "address": "0x777b6d4730A8a890dc64bf202514CE03ab001c02",
+  "address": "0x777b6d4730a8a890dc64bf202514ce03ab001c02",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

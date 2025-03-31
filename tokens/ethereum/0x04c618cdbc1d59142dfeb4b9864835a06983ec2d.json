@@ -1,7 +1,7 @@
 {
   "symbol": "jsm",
   "name": "Joseon-Mun",
-  "address": "0x04C618CDbc1D59142dFEB4B9864835A06983EC2d",
+  "address": "0x04c618cdbc1d59142dfeb4b9864835a06983ec2d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

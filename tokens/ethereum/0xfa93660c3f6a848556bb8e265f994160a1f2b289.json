@@ -1,7 +1,7 @@
 {
   "symbol": "cbt",
   "name": "Community Business Token",
-  "address": "0xfA93660C3f6a848556Bb8E265f994160A1F2B289",
+  "address": "0xfa93660c3f6a848556bb8e265f994160a1f2b289",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

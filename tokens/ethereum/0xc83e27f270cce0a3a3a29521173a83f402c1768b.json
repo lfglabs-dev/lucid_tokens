@@ -1,7 +1,7 @@
 {
   "symbol": "usdq",
   "name": "Quantoz USDQ",
-  "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
+  "address": "0xc83e27f270cce0a3a3a29521173a83f402c1768b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

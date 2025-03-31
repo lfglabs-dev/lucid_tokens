@@ -1,7 +1,7 @@
 {
   "symbol": "gnomy",
   "name": "Gnomy",
-  "address": "0x6439221D2b06a4CDf38F52A55294Ddc28e1Bed08",
+  "address": "0x6439221d2b06a4cdf38f52a55294ddc28e1bed08",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

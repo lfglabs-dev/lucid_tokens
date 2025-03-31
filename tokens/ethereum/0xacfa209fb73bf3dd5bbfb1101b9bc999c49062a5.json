@@ -1,7 +1,7 @@
 {
   "symbol": "bcdt",
   "name": "EvidenZ",
-  "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+  "address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

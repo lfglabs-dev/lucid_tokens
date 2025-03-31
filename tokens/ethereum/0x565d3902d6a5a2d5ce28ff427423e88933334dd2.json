@@ -1,7 +1,7 @@
 {
   "symbol": "adult",
   "name": "Adult Playground",
-  "address": "0x565d3902d6A5A2D5CE28ff427423E88933334DD2",
+  "address": "0x565d3902d6a5a2d5ce28ff427423e88933334dd2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

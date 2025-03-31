@@ -1,7 +1,7 @@
 {
   "symbol": "hachi",
   "name": "HACHI-KUN",
-  "address": "0x100891Bf73ba8274C234Aa34621BC626ED6ECA8e",
+  "address": "0x100891bf73ba8274c234aa34621bc626ed6eca8e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

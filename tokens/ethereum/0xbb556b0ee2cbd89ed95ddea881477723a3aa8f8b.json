@@ -1,7 +1,7 @@
 {
   "symbol": "alca",
   "name": "AliceNet",
-  "address": "0xBb556b0eE2CBd89ed95DdEA881477723A3Aa8F8b",
+  "address": "0xbb556b0ee2cbd89ed95ddea881477723a3aa8f8b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

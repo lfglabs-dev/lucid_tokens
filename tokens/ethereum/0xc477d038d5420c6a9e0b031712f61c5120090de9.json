@@ -1,7 +1,7 @@
 {
   "symbol": "boson",
   "name": "Boson Protocol",
-  "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+  "address": "0xc477d038d5420c6a9e0b031712f61c5120090de9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

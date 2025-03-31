@@ -1,7 +1,7 @@
 {
   "symbol": "thnd",
   "name": "Three Hundred AI",
-  "address": "0x7567d006f6be77E3D87Aa831855CB4102E37b17D",
+  "address": "0x7567d006f6be77e3d87aa831855cb4102e37b17d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

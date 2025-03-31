@@ -1,7 +1,7 @@
 {
   "symbol": "fusdt",
   "name": "Fluid Tether USD",
-  "address": "0x5C20B550819128074FD538Edf79791733ccEdd18",
+  "address": "0x5c20b550819128074fd538edf79791733ccedd18",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

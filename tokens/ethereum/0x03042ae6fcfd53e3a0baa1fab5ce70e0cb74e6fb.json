@@ -1,7 +1,7 @@
 {
   "symbol": "tbc",
   "name": "Ten Best Coins",
-  "address": "0x03042ae6fcFd53E3A0BAa1FaB5Ce70E0cb74E6fb",
+  "address": "0x03042ae6fcfd53e3a0baa1fab5ce70e0cb74e6fb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ins",
   "name": "Inscribe",
-  "address": "0xe9572938bcbf08adceE86Fd12A7C0D08dC4Ab841",
+  "address": "0xe9572938bcbf08adcee86fd12a7c0d08dc4ab841",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

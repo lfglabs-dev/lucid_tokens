@@ -1,7 +1,7 @@
 {
   "symbol": "mgls",
   "name": "Meme Moguls",
-  "address": "0xdA251891E21e6EDB0E6828E77621C7b98ea4E8ba",
+  "address": "0xda251891e21e6edb0e6828e77621c7b98ea4e8ba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

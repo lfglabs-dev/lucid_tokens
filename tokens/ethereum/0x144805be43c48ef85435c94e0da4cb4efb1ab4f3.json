@@ -1,7 +1,7 @@
 {
   "symbol": "mbx",
   "name": "MetaBlox",
-  "address": "0x144805be43c48ef85435C94E0da4Cb4Efb1ab4f3",
+  "address": "0x144805be43c48ef85435c94e0da4cb4efb1ab4f3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

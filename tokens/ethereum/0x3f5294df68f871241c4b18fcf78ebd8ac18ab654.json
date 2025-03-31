@@ -1,7 +1,7 @@
 {
   "symbol": "stz",
   "name": "99Starz",
-  "address": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+  "address": "0x3f5294df68f871241c4b18fcf78ebd8ac18ab654",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

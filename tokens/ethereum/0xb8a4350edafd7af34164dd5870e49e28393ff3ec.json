@@ -1,7 +1,7 @@
 {
   "symbol": "mmtr",
   "name": "Memeinator",
-  "address": "0xB8A4350eDaFD7af34164Dd5870e49E28393FF3ec",
+  "address": "0xb8a4350edafd7af34164dd5870e49e28393ff3ec",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "oath",
   "name": "OATH",
-  "address": "0xd20523b39fAF1D6e9023a4D6085f87B7b0DE7926",
+  "address": "0xd20523b39faf1d6e9023a4d6085f87b7b0de7926",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

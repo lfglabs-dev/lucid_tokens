@@ -1,7 +1,7 @@
 {
   "symbol": "una",
   "name": "Unagi Token",
-  "address": "0x0B6f3eA2814F3FFf804bA5D5c237aebbc364fba9",
+  "address": "0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

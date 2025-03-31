@@ -1,7 +1,7 @@
 {
   "symbol": "gm",
   "name": "GM",
-  "address": "0xe5597f0723EeaBa1B26948e06f008Bf0fc1e37e6",
+  "address": "0xe5597f0723eeaba1b26948e06f008bf0fc1e37e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

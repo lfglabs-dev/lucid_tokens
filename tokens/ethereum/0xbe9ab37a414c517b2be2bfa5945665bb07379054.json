@@ -1,7 +1,7 @@
 {
   "symbol": "toms",
   "name": "TomTomCoin",
-  "address": "0xbE9Ab37a414c517b2be2bfA5945665bB07379054",
+  "address": "0xbe9ab37a414c517b2be2bfa5945665bb07379054",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

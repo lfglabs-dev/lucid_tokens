@@ -1,7 +1,7 @@
 {
   "symbol": "mandox",
   "name": "MandoX",
-  "address": "0x7A8aDCf432EbCC2311B955d176ee4BFED13bB9A7",
+  "address": "0x7a8adcf432ebcc2311b955d176ee4bfed13bb9a7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

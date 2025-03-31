@@ -1,7 +1,7 @@
 {
   "symbol": "astrafer",
   "name": "Astrafer",
-  "address": "0xb51B97Dd5569FAB69495316B5a065CCcfF4B829d",
+  "address": "0xb51b97dd5569fab69495316b5a065cccff4b829d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

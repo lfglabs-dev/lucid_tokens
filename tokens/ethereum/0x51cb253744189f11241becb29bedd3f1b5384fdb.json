@@ -1,7 +1,7 @@
 {
   "symbol": "dmtr",
   "name": "Dimitra",
-  "address": "0x51cB253744189f11241becb29BeDd3F1b5384fdB",
+  "address": "0x51cb253744189f11241becb29bedd3f1b5384fdb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

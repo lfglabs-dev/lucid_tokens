@@ -1,7 +1,7 @@
 {
   "symbol": "mring",
   "name": "MagicRing",
-  "address": "0xD59d7D2e955533FcD21641dA8a70EAe9624A3c49",
+  "address": "0xd59d7d2e955533fcd21641da8a70eae9624a3c49",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

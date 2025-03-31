@@ -1,7 +1,7 @@
 {
   "symbol": "ltx",
   "name": "Lattice",
-  "address": "0xa393473d64d2F9F026B60b6Df7859A689715d092",
+  "address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

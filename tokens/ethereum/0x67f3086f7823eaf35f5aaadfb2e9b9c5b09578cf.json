@@ -1,7 +1,7 @@
 {
   "symbol": "inx",
   "name": "InsightX",
-  "address": "0x67f3086F7823eaF35f5aAADfB2E9b9c5B09578CF",
+  "address": "0x67f3086f7823eaf35f5aaadfb2e9b9c5b09578cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

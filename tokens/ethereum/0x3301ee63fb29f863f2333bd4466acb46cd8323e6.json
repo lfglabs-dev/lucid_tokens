@@ -1,7 +1,7 @@
 {
   "symbol": "akita",
   "name": "Akita Inu",
-  "address": "0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6",
+  "address": "0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

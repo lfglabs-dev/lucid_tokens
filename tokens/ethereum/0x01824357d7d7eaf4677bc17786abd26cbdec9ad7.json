@@ -1,7 +1,7 @@
 {
   "symbol": "forward",
   "name": "Forward",
-  "address": "0x01824357D7D7EAF4677Bc17786aBd26CBdEc9Ad7",
+  "address": "0x01824357d7d7eaf4677bc17786abd26cbdec9ad7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

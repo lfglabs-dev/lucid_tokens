@@ -1,7 +1,7 @@
 {
   "symbol": "palai",
   "name": "PaladinAI",
-  "address": "0x3Cb48AeB3D1abaDc23d2D8a6894B3A68338381C2",
+  "address": "0x3cb48aeb3d1abadc23d2d8a6894b3a68338381c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

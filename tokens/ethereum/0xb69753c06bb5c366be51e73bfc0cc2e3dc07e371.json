@@ -1,7 +1,7 @@
 {
   "symbol": "pooh",
   "name": "POOH",
-  "address": "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371",
+  "address": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371",
-    "solana": "J8XFfJgS1cs5WVGxGwZb9Rt5rJZizdyzaLhidtvDnYjC"
+    "ethereum": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371"
   }
 }

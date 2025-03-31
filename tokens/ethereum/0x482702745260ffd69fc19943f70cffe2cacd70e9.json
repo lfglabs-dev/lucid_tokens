@@ -1,7 +1,7 @@
 {
   "symbol": "jenner",
   "name": "Caitlyn Jenner",
-  "address": "0x482702745260Ffd69FC19943f70cFFE2caCd70e9",
+  "address": "0x482702745260ffd69fc19943f70cffe2cacd70e9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

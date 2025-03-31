@@ -1,7 +1,7 @@
 {
   "symbol": "aens",
   "name": "Aave v3 ENS",
-  "address": "0x545bD6c032eFdde65A377A6719DEF2796C8E0f2e",
+  "address": "0x545bd6c032efdde65a377a6719def2796c8e0f2e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tnt",
   "name": "Tierion",
-  "address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
+  "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

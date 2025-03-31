@@ -1,7 +1,7 @@
 {
   "symbol": "ddx",
   "name": "DerivaDAO",
-  "address": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+  "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "move",
   "name": "Mover",
-  "address": "0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+  "address": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

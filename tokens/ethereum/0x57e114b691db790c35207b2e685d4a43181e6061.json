@@ -1,7 +1,7 @@
 {
   "symbol": "ena",
   "name": "Ethena",
-  "address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+  "address": "0x57e114b691db790c35207b2e685d4a43181e6061",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

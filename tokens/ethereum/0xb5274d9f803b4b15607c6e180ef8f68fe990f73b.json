@@ -1,7 +1,7 @@
 {
   "symbol": "$vox",
   "name": "Neuravox",
-  "address": "0xB5274D9F803B4b15607c6E180EF8f68fE990F73b",
+  "address": "0xb5274d9f803b4b15607c6e180ef8f68fe990f73b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

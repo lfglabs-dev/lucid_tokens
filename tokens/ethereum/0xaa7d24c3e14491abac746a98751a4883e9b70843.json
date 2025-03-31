@@ -1,7 +1,7 @@
 {
   "symbol": "guru",
   "name": "Guru",
-  "address": "0xaA7D24c3E14491aBaC746a98751A4883E9b70843",
+  "address": "0xaa7d24c3e14491abac746a98751a4883e9b70843",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

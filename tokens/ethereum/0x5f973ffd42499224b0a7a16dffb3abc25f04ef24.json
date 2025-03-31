@@ -1,7 +1,7 @@
 {
   "symbol": "lab",
   "name": "Labda",
-  "address": "0x5F973ffD42499224b0a7a16DfFB3ABc25F04eF24",
+  "address": "0x5f973ffd42499224b0a7a16dffb3abc25f04ef24",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

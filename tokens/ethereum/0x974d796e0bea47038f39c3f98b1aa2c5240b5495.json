@@ -1,7 +1,7 @@
 {
   "symbol": "eave",
   "name": "EaveAI",
-  "address": "0x974D796E0Bea47038f39C3F98b1aA2c5240b5495",
+  "address": "0x974d796e0bea47038f39c3f98b1aa2c5240b5495",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pirate",
   "name": "PirateCash",
-  "address": "0xb990d93C308A31c737Aa91839E8bA8eAF4017D7A",
+  "address": "0xb990d93c308a31c737aa91839e8ba8eaf4017d7a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "binance-smart-chain": "0xafcc12e4040615e7afe9fb4330eb3d9120acac05",
-    "the-open-network": "EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY",
     "ethereum": "0xb990d93c308a31c737aa91839e8ba8eaf4017d7a"
   }
 }

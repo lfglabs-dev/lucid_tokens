@@ -1,7 +1,7 @@
 {
   "symbol": "wbrge",
   "name": "Wrapped OrdBridge",
-  "address": "0x6602E9319f2c5eC0Ba31ffcdc4301d7Ef03b709E",
+  "address": "0x6602e9319f2c5ec0ba31ffcdc4301d7ef03b709e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x6602e9319f2c5ec0ba31ffcdc4301d7ef03b709e",
-    "avalanche": "0x5f880678320a9445824bb15d18ef67b5ecbaa42a",
-    "solana": "4cCjHnKqLFMMNYQD2NYuRMrw7nXkxVsD85G2MkMA44vM"
+    "avalanche": "0x5f880678320a9445824bb15d18ef67b5ecbaa42a"
   }
 }

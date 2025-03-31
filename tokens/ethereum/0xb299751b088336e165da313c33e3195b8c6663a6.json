@@ -1,7 +1,7 @@
 {
   "symbol": "star",
   "name": "StarHeroes",
-  "address": "0xB299751B088336E165dA313c33e3195B8c6663A6",
+  "address": "0xb299751b088336e165da313c33e3195b8c6663a6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

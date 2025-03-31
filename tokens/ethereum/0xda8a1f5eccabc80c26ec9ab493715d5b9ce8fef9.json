@@ -1,7 +1,7 @@
 {
   "symbol": "boom",
   "name": "BOOM",
-  "address": "0xDA8a1f5ECCABc80c26EC9ab493715D5b9Ce8FEF9",
+  "address": "0xda8a1f5eccabc80c26ec9ab493715d5b9ce8fef9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

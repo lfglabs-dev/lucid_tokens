@@ -1,7 +1,7 @@
 {
   "symbol": "xalpha",
   "name": "XALPHA.AI",
-  "address": "0x369733153E6E08d38F2BC72ae2432E855Cfbe221",
+  "address": "0x369733153e6e08d38f2bc72ae2432e855cfbe221",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "$toad",
   "name": "Toad Killer",
-  "address": "0x370a366f402e2e41CDBbE54EcEC12aaE0cce1955",
+  "address": "0x370a366f402e2e41cdbbe54ecec12aae0cce1955",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

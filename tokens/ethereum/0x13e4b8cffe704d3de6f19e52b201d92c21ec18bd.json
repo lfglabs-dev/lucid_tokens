@@ -1,7 +1,7 @@
 {
   "symbol": "pai",
   "name": "ParallelAI",
-  "address": "0x13E4b8CfFe704d3De6F19E52b201d92c21EC18bD",
+  "address": "0x13e4b8cffe704d3de6f19e52b201d92c21ec18bd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

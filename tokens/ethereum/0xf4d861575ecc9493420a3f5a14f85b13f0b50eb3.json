@@ -1,7 +1,7 @@
 {
   "symbol": "fcl",
   "name": "Fractal",
-  "address": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+  "address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

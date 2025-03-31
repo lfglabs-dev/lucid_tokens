@@ -1,7 +1,7 @@
 {
   "symbol": "card",
   "name": "Cardstack",
-  "address": "0x954b890704693af242613edEf1B603825afcD708",
+  "address": "0x954b890704693af242613edef1b603825afcd708",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

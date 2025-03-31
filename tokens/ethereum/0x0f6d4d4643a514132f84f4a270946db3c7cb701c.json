@@ -1,7 +1,7 @@
 {
   "symbol": "lovely",
   "name": "Lovely Inu Finance",
-  "address": "0x0f6d4d4643A514132F84F4a270946dB3c7Cb701C",
+  "address": "0x0f6d4d4643a514132f84f4a270946db3c7cb701c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

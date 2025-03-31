@@ -1,7 +1,7 @@
 {
   "symbol": "entr",
   "name": "EnterDAO",
-  "address": "0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e",
+  "address": "0xd779eea9936b4e323cddff2529eb6f13d0a4d66e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

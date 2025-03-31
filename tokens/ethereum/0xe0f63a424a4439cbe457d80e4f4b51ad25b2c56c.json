@@ -1,7 +1,7 @@
 {
   "symbol": "spx",
   "name": "SPX6900",
-  "address": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+  "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
-    "base": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
-    "solana": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr"
+    "base": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c"
   }
 }

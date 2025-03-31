@@ -1,7 +1,7 @@
 {
   "symbol": "finale",
   "name": "Ben's Finale",
-  "address": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
+  "address": "0xc7a2572fa8fdb0f7e81d6d3c4e3ccf78fb0dc374",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

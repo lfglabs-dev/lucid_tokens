@@ -1,7 +1,7 @@
 {
   "symbol": "smiley",
   "name": "Smiley Coin",
-  "address": "0x4C6E2c495b974b8d4220E370F23c7e0e1da9b644",
+  "address": "0x4c6e2c495b974b8d4220e370f23c7e0e1da9b644",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

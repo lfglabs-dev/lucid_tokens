@@ -1,7 +1,7 @@
 {
   "symbol": "race",
   "name": "Race to a Billion",
-  "address": "0x006E730A6c36fF47A31A99931bEdbddccF3DE81c",
+  "address": "0x006e730a6c36ff47a31a99931bedbddccf3de81c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

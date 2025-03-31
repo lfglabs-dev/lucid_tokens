@@ -1,7 +1,7 @@
 {
   "symbol": "power",
   "name": "Powerloom",
-  "address": "0x429F0d8233e517f9acf6F0C8293BF35804063a83",
+  "address": "0x429f0d8233e517f9acf6f0c8293bf35804063a83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

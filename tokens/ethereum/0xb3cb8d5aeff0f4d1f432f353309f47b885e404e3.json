@@ -1,7 +1,7 @@
 {
   "symbol": "mev",
   "name": "MEVerse",
-  "address": "0xb3Cb8d5AEFF0F4d1f432f353309f47b885E404E3",
+  "address": "0xb3cb8d5aeff0f4d1f432f353309f47b885e404e3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "kp3r",
   "name": "Keep3rV1",
-  "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+  "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

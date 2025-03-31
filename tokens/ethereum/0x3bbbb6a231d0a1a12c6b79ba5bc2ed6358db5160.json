@@ -1,7 +1,7 @@
 {
   "symbol": "zen",
   "name": "Zenith",
-  "address": "0x3bBBB6a231d0a1a12c6b79Ba5BC2Ed6358Db5160",
+  "address": "0x3bbbb6a231d0a1a12c6b79ba5bc2ed6358db5160",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

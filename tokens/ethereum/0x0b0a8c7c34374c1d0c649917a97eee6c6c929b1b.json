@@ -1,7 +1,7 @@
 {
   "symbol": "shepe",
   "name": "Shiba V Pepe",
-  "address": "0x0b0a8c7C34374C1d0C649917a97EeE6c6c929B1b",
+  "address": "0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

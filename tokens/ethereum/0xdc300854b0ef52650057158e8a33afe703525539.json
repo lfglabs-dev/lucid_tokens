@@ -1,7 +1,7 @@
 {
   "symbol": "bmr",
   "name": "BetMore Casino",
-  "address": "0xDc300854B0EF52650057158E8a33AFE703525539",
+  "address": "0xdc300854b0ef52650057158e8a33afe703525539",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xdc300854b0ef52650057158e8a33afe703525539",
-    "solana": "C73RSByWgBnYPf6YqU9U275PuRr5LNKzH6jRArScfBfX",
     "base": "0xd2563fc9fc787853229aab2bda7211484051c256"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "wojak",
   "name": "Wojak",
-  "address": "0x5026F006B85729a8b14553FAE6af249aD16c9aaB",
+  "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "solana": "6bn6rKWbTRAQwizwqEfcmpAtoAMnqzfG7F8DYMK5reYn"
+    "ethereum": "0x5026f006b85729a8b14553fae6af249ad16c9aab"
   }
 }

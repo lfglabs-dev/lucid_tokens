@@ -1,7 +1,7 @@
 {
   "symbol": "poppy",
   "name": "Poppy",
-  "address": "0xcA4F53E6117623992126A9A45Ce61682FE8678Df",
+  "address": "0xca4f53e6117623992126a9a45ce61682fe8678df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

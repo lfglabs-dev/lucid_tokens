@@ -1,7 +1,7 @@
 {
   "symbol": "ktn",
   "name": "Kattana",
-  "address": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+  "address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

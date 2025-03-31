@@ -1,7 +1,7 @@
 {
   "symbol": "arpa",
   "name": "ARPA",
-  "address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+  "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

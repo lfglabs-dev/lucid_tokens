@@ -1,7 +1,7 @@
 {
   "symbol": "max",
   "name": "MAX",
-  "address": "0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7",
+  "address": "0xe7976c4efc60d9f4c200cc1bcef1a1e3b02c73e7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "kif",
   "name": "KittenFinance",
-  "address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
+  "address": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

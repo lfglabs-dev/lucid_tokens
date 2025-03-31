@@ -1,7 +1,7 @@
 {
   "symbol": "bam",
   "name": "Bambi",
-  "address": "0x9DB0FB0Aebe6A925B7838D16e3993A3976A64AaB",
+  "address": "0x9db0fb0aebe6a925b7838d16e3993a3976a64aab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

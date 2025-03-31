@@ -1,7 +1,7 @@
 {
   "symbol": "rev",
   "name": "Revain",
-  "address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
+  "address": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9",
-    "tron": "TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k"
+    "ethereum": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "mfg",
   "name": "Smart MFG",
-  "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+  "address": "0x6710c63432a2de02954fc0f851db07146a6c0312",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

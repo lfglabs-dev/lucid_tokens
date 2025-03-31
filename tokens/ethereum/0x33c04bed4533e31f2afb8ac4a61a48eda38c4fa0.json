@@ -1,7 +1,7 @@
 {
   "symbol": "gorilla",
   "name": "Gorilla",
-  "address": "0x33C04Bed4533e31f2Afb8AC4a61A48Eda38C4fA0",
+  "address": "0x33c04bed4533e31f2afb8ac4a61a48eda38c4fa0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

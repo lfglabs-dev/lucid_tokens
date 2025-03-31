@@ -1,7 +1,7 @@
 {
   "symbol": "mverse",
   "name": "MindVerse",
-  "address": "0xf67366e83cc9B115Ef8cCA93baeD1f03E6d3ca9A",
+  "address": "0xf67366e83cc9b115ef8cca93baed1f03e6d3ca9a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

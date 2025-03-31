@@ -1,7 +1,7 @@
 {
   "symbol": "lac",
   "name": "La Coin",
-  "address": "0x7d12bCaB2D53FaE6d7E360acb71d9b55EcbD1cE3",
+  "address": "0x7d12bcab2d53fae6d7e360acb71d9b55ecbd1ce3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

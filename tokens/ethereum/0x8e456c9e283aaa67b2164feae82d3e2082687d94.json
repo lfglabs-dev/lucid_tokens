@@ -1,7 +1,7 @@
 {
   "symbol": "diom",
   "name": "DIOM",
-  "address": "0x8E456c9E283aaa67b2164FEae82d3E2082687d94",
+  "address": "0x8e456c9e283aaa67b2164feae82d3e2082687d94",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

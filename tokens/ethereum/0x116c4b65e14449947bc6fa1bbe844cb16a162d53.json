@@ -1,7 +1,7 @@
 {
   "symbol": "bmax",
   "name": "BMAX",
-  "address": "0x116c4B65e14449947bC6fa1bbe844CB16A162d53",
+  "address": "0x116c4b65e14449947bc6fa1bbe844cb16a162d53",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

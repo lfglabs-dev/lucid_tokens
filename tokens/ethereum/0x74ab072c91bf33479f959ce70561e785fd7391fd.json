@@ -1,7 +1,7 @@
 {
   "symbol": "gbtc",
   "name": "GBTC6900",
-  "address": "0x74Ab072c91bF33479f959ce70561e785fd7391FD",
+  "address": "0x74ab072c91bf33479f959ce70561e785fd7391fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

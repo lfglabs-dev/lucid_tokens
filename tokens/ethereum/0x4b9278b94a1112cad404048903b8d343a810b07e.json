@@ -1,7 +1,7 @@
 {
   "symbol": "hifi",
   "name": "Hifi Finance",
-  "address": "0x4b9278b94a1112cAD404048903b8d343a810B07e",
+  "address": "0x4b9278b94a1112cad404048903b8d343a810b07e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

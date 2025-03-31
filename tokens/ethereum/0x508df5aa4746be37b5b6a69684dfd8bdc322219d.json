@@ -1,7 +1,7 @@
 {
   "symbol": "crf",
   "name": "Crafting Finance",
-  "address": "0x508df5aa4746bE37b5b6A69684DfD8BDC322219d",
+  "address": "0x508df5aa4746be37b5b6a69684dfd8bdc322219d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

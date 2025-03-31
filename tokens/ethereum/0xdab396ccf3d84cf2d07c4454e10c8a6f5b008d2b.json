@@ -1,7 +1,7 @@
 {
   "symbol": "gfi",
   "name": "Goldfinch",
-  "address": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
+  "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

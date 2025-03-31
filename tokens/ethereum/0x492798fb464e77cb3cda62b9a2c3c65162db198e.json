@@ -1,7 +1,7 @@
 {
   "symbol": "agg",
   "name": "AmpliFi DAO",
-  "address": "0x492798Fb464e77Cb3cDA62b9a2C3c65162db198e",
+  "address": "0x492798fb464e77cb3cda62b9a2c3c65162db198e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

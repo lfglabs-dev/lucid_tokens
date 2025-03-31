@@ -1,7 +1,7 @@
 {
   "symbol": "tgc",
   "name": "TG.Casino",
-  "address": "0x25B4f5D4C314bCD5d7962734936C957B947cb7CF",
+  "address": "0x25b4f5d4c314bcd5d7962734936c957b947cb7cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

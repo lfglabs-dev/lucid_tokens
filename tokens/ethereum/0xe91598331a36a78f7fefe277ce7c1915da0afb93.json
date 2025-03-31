@@ -1,7 +1,7 @@
 {
   "symbol": "rb",
   "name": "RunesBridge",
-  "address": "0xe91598331A36A78f7fEfe277cE7C1915DA0AfB93",
+  "address": "0xe91598331a36a78f7fefe277ce7c1915da0afb93",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

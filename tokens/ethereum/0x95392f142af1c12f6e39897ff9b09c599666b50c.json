@@ -1,7 +1,7 @@
 {
   "symbol": "blood",
   "name": "Impostors Blood",
-  "address": "0x95392f142Af1c12F6e39897Ff9B09c599666B50c",
+  "address": "0x95392f142af1c12f6e39897ff9b09c599666b50c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wampl",
   "name": "Wrapped Ampleforth",
-  "address": "0xEDB171C18cE90B633DB442f2A6F72874093b49Ef",
+  "address": "0xedb171c18ce90b633db442f2a6f72874093b49ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

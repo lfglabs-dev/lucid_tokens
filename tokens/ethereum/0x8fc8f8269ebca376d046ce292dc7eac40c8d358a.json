@@ -1,7 +1,7 @@
 {
   "symbol": "dfi",
   "name": "DeFiChain",
-  "address": "0x8Fc8f8269ebca376D046Ce292dC7eaC40c8D358A",
+  "address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

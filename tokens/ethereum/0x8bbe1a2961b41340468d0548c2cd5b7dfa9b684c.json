@@ -1,7 +1,7 @@
 {
   "symbol": "handy",
   "name": "Handy",
-  "address": "0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c",
+  "address": "0x8bbe1a2961b41340468d0548c2cd5b7dfa9b684c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

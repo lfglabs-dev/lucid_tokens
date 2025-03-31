@@ -1,7 +1,7 @@
 {
   "symbol": "closedai",
   "name": "ClosedAI",
-  "address": "0x50B0696468F42CaB1ddc76413A1312Aff3cAbdf6",
+  "address": "0x50b0696468f42cab1ddc76413a1312aff3cabdf6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

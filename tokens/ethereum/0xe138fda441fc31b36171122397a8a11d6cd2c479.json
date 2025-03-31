@@ -1,7 +1,7 @@
 {
   "symbol": "gtc",
   "name": "Global Trust Coin",
-  "address": "0xe138FDa441fC31B36171122397a8A11d6cd2c479",
+  "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

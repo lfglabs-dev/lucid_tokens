@@ -1,7 +1,7 @@
 {
   "symbol": "love",
   "name": "Love.io",
-  "address": "0xb55EE890426341FE45EE6dc788D2D93d25B59063",
+  "address": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

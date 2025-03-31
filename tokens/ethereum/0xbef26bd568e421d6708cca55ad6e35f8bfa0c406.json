@@ -1,7 +1,7 @@
 {
   "symbol": "bcut",
   "name": "bitsCrunch Token",
-  "address": "0xBEF26Bd568e421D6708CCA55Ad6e35f8bfA0C406",
+  "address": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tkn",
   "name": "Token Name Service",
-  "address": "0x82D09e30d5D682D69B4A5d97C61b7BA651457625",
+  "address": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ebit",
   "name": "eBit",
-  "address": "0x4F14ba78A51925EE934c373a2cf56b2d8da63f7F",
+  "address": "0x4f14ba78a51925ee934c373a2cf56b2d8da63f7f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

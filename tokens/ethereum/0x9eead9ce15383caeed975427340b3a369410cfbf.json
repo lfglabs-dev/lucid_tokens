@@ -1,7 +1,7 @@
 {
   "symbol": "ausdt",
   "name": "Alloy Tether",
-  "address": "0x9EEAD9ce15383CaEED975427340b3A369410CFBF",
+  "address": "0x9eead9ce15383caeed975427340b3a369410cfbf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lusd",
   "name": "LUSD",
-  "address": "0x31a2E08F4232329e4EddB025C0275f43c9cD56D7",
+  "address": "0x31a2e08f4232329e4eddb025c0275f43c9cd56d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

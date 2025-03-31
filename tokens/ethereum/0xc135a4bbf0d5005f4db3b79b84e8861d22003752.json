@@ -1,7 +1,7 @@
 {
   "symbol": "titan",
   "name": "Titan",
-  "address": "0xC135A4bBf0D5005f4dB3b79B84e8861d22003752",
+  "address": "0xc135a4bbf0d5005f4db3b79b84e8861d22003752",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

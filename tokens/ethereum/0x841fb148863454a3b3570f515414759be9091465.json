@@ -1,7 +1,7 @@
 {
   "symbol": "shih",
   "name": "Shih Tzu",
-  "address": "0x841FB148863454A3b3570f515414759BE9091465",
+  "address": "0x841fb148863454a3b3570f515414759be9091465",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

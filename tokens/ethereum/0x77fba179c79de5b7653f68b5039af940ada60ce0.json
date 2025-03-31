@@ -1,7 +1,7 @@
 {
   "symbol": "forth",
   "name": "Ampleforth Governance",
-  "address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+  "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

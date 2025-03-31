@@ -1,7 +1,7 @@
 {
   "symbol": "tsla",
   "name": "TSLA6900",
-  "address": "0xA3BC09171C009F05Df7F0b8aaA818ee42d8A91bC",
+  "address": "0xa3bc09171c009f05df7f0b8aaa818ee42d8a91bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

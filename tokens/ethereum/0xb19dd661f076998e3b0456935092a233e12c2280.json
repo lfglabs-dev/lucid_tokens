@@ -1,7 +1,7 @@
 {
   "symbol": "um",
   "name": "Continuum World",
-  "address": "0xb19Dd661F076998e3B0456935092a233e12C2280",
+  "address": "0xb19dd661f076998e3b0456935092a233e12c2280",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

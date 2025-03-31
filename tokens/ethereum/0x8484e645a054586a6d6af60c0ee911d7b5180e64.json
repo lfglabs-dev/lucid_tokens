@@ -1,7 +1,7 @@
 {
   "symbol": "dyor",
   "name": "DYOR",
-  "address": "0x8484E645a054586A6D6AF60c0ee911d7B5180E64",
+  "address": "0x8484e645a054586a6d6af60c0ee911d7b5180e64",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

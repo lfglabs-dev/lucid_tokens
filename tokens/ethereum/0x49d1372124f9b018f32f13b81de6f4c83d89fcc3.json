@@ -1,7 +1,7 @@
 {
   "symbol": "cgpu",
   "name": "CloudGPU",
-  "address": "0x49D1372124f9B018F32F13B81DE6F4c83D89fcc3",
+  "address": "0x49d1372124f9b018f32f13b81de6f4c83d89fcc3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

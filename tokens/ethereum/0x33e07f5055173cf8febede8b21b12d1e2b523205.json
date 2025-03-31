@@ -1,7 +1,7 @@
 {
   "symbol": "eland",
   "name": "Etherland",
-  "address": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+  "address": "0x33e07f5055173cf8febede8b21b12d1e2b523205",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

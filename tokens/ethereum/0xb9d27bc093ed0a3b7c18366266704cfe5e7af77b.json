@@ -1,7 +1,7 @@
 {
   "symbol": "cby",
   "name": "Carbify",
-  "address": "0xB9D27Bc093ed0A3B7c18366266704CfE5E7Af77B",
+  "address": "0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

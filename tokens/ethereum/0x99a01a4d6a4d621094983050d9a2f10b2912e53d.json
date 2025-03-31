@@ -1,7 +1,7 @@
 {
   "symbol": "vrsw",
   "name": "VirtuSwap",
-  "address": "0x99A01A4d6a4D621094983050D9A2F10B2912e53D",
+  "address": "0x99a01a4d6a4d621094983050d9a2f10b2912e53d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

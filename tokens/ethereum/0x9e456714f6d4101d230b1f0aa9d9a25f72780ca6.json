@@ -1,7 +1,7 @@
 {
   "symbol": "omagent",
   "name": "OmniAgent",
-  "address": "0x9E456714F6D4101d230b1F0Aa9d9A25F72780CA6",
+  "address": "0x9e456714f6d4101d230b1f0aa9d9a25f72780ca6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

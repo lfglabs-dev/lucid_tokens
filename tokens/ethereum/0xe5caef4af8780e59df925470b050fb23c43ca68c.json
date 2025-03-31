@@ -1,7 +1,7 @@
 {
   "symbol": "frm",
   "name": "Ferrum Network",
-  "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+  "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

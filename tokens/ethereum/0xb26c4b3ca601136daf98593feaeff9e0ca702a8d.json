@@ -1,7 +1,7 @@
 {
   "symbol": "ald",
   "name": "Aladdin DAO",
-  "address": "0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D",
+  "address": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

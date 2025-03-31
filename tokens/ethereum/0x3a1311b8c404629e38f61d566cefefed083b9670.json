@@ -1,7 +1,7 @@
 {
   "symbol": "pinu",
   "name": "Piccolo Inu",
-  "address": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
+  "address": "0x3a1311b8c404629e38f61d566cefefed083b9670",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "orb",
   "name": "Deroute AI",
-  "address": "0x3C917054e03485808137EB306eAFA8DA0Ab695cd",
+  "address": "0x3c917054e03485808137eb306eafa8da0ab695cd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

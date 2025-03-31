@@ -1,7 +1,7 @@
 {
   "symbol": "aimr",
   "name": "MeromAI",
-  "address": "0xcfd16933Cb1579eee9fe6031686534e87353B148",
+  "address": "0xcfd16933cb1579eee9fe6031686534e87353b148",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

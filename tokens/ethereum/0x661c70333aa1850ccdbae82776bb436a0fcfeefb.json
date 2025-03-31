@@ -1,7 +1,7 @@
 {
   "symbol": "ebtc",
   "name": "eBTC",
-  "address": "0x661c70333AA1850CcDBAe82776Bb436A0fCfeEfB",
+  "address": "0x661c70333aa1850ccdbae82776bb436a0fcfeefb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "stone",
   "name": "StakeStone ETH",
-  "address": "0x7122985656e38BDC0302Db86685bb972b145bD3C",
+  "address": "0x7122985656e38bdc0302db86685bb972b145bd3c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -16,8 +16,6 @@
     "astar-zkevm": "0x80137510979822322193fc997d400d5a6c747bf7",
     "linea": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
     "zircuit": "0x80137510979822322193fc997d400d5a6c747bf7",
-    "x-layer": "0x80137510979822322193fc997d400d5a6c747bf7`",
-    "aptos": "0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59",
     "sei-v2": "0x80137510979822322193fc997d400d5a6c747bf7",
     "mantle": "0x2fde62942759d7c0aaf25952da4098423bc1264c",
     "metis-andromeda": "0x80137510979822322193fc997d400d5a6c747bf7",

@@ -1,7 +1,7 @@
 {
   "symbol": "yvsushi",
   "name": "SUSHI yVault",
-  "address": "0x6d765CbE5bC922694afE112C140b8878b9FB0390",
+  "address": "0x6d765cbe5bc922694afe112c140b8878b9fb0390",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

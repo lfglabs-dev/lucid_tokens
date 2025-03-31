@@ -1,7 +1,7 @@
 {
   "symbol": "hei",
   "name": "Heima",
-  "address": "0xF8F173E20e15f3b6CB686FB64724D370689De083",
+  "address": "0xf8f173e20e15f3b6cb686fb64724d370689de083",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

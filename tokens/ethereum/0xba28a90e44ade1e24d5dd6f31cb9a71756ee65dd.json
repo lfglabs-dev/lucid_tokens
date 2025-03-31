@@ -1,7 +1,7 @@
 {
   "symbol": "gsfy",
   "name": "Gasify AI",
-  "address": "0xBa28a90e44ADE1e24D5dd6f31cb9A71756EE65dd",
+  "address": "0xba28a90e44ade1e24d5dd6f31cb9a71756ee65dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

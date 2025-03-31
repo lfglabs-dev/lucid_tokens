@@ -1,7 +1,7 @@
 {
   "symbol": "polk",
   "name": "Polkamarkets",
-  "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+  "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

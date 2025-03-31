@@ -1,7 +1,7 @@
 {
   "symbol": "poodl",
   "name": "Poodl Inu",
-  "address": "0x4b7C762Af92dBD917d159Eb282B85aa13E955739",
+  "address": "0x4b7c762af92dbd917d159eb282b85aa13e955739",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

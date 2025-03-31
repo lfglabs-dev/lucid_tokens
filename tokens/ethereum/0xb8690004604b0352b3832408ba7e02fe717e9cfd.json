@@ -1,7 +1,7 @@
 {
   "symbol": "agi",
   "name": "Agently",
-  "address": "0xB8690004604b0352b3832408BA7e02Fe717e9cfD",
+  "address": "0xb8690004604b0352b3832408ba7e02fe717e9cfd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

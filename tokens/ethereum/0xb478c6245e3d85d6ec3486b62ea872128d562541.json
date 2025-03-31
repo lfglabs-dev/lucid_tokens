@@ -1,7 +1,7 @@
 {
   "symbol": "loot",
   "name": "LootBot",
-  "address": "0xb478c6245e3D85D6EC3486B62ea872128d562541",
+  "address": "0xb478c6245e3d85d6ec3486b62ea872128d562541",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

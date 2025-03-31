@@ -1,7 +1,7 @@
 {
   "symbol": "blobs",
   "name": "blobs",
-  "address": "0x39dE85301c78F4D623E5c05cDE2fD119a3a92cd9",
+  "address": "0x39de85301c78f4d623e5c05cde2fd119a3a92cd9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

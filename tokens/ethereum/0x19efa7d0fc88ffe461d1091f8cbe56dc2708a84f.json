@@ -1,7 +1,7 @@
 {
   "symbol": "unitao",
   "name": "UNITAO",
-  "address": "0x19EfA7D0FC88FfE461D1091F8cBe56DC2708a84f",
+  "address": "0x19efa7d0fc88ffe461d1091f8cbe56dc2708a84f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

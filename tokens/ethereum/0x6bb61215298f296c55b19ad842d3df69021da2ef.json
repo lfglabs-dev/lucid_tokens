@@ -1,7 +1,7 @@
 {
   "symbol": "dop",
   "name": "Drops Ownership Power",
-  "address": "0x6bB61215298F296C55b19Ad842D3Df69021DA2ef",
+  "address": "0x6bb61215298f296c55b19ad842d3df69021da2ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

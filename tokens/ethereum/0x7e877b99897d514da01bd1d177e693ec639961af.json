@@ -1,7 +1,7 @@
 {
   "symbol": "oggy",
   "name": "Oggy Inu [ETH]",
-  "address": "0x7e877b99897D514da01bD1d177E693EC639961Af",
+  "address": "0x7e877b99897d514da01bd1d177e693ec639961af",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

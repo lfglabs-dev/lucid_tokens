@@ -1,7 +1,7 @@
 {
   "symbol": "higher",
   "name": "HIgher IMO",
-  "address": "0x8b802513d4AA6F349B197a4Ea4C26563cd6Fd5b2",
+  "address": "0x8b802513d4aa6f349b197a4ea4c26563cd6fd5b2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

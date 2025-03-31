@@ -1,7 +1,7 @@
 {
   "symbol": "bets",
   "name": "BetSwirl",
-  "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+  "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

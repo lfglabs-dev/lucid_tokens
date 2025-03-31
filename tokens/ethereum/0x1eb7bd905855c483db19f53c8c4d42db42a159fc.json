@@ -1,7 +1,7 @@
 {
   "symbol": "nrdc",
   "name": "Nordic Ai",
-  "address": "0x1EB7bd905855c483dB19F53C8c4d42Db42A159Fc",
+  "address": "0x1eb7bd905855c483db19f53c8c4d42db42a159fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

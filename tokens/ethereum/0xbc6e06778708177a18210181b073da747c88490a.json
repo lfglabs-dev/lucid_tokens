@@ -1,7 +1,7 @@
 {
   "symbol": "synr",
   "name": "MOBLAND",
-  "address": "0xbc6E06778708177a18210181b073DA747C88490a",
+  "address": "0xbc6e06778708177a18210181b073da747c88490a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pbr",
   "name": "PolkaBridge",
-  "address": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+  "address": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

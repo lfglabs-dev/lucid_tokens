@@ -1,7 +1,7 @@
 {
   "symbol": "infy",
   "name": "Infinity AI",
-  "address": "0x1DE6289894E1763B6ea01401eD638DC1184B0E9b",
+  "address": "0x1de6289894e1763b6ea01401ed638dc1184b0e9b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

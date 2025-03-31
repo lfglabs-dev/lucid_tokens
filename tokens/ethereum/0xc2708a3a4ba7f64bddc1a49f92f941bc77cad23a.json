@@ -1,7 +1,7 @@
 {
   "symbol": "egg",
   "name": "Waves Ducks",
-  "address": "0xC2708A3A4ba7F64bddc1A49F92f941Bc77Cad23a",
+  "address": "0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "waves": "C1iWsKGqLwjHUndiQ7iXpdmPum9PeCDFfyXBdJJosDRS",
     "ethereum": "0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a",
     "binance-smart-chain": "0x889efce29fa0bb9b26be9fda17a8003f4e8da4de",
     "polygon-pos": "0x51de72b17c7bd12e9e6d69eb506a669eb6b5249e"

@@ -1,7 +1,7 @@
 {
   "symbol": "nexis",
   "name": "Nexis Tools",
-  "address": "0x7ca9403Ba20aC9E649C8dBa53f920663540985a9",
+  "address": "0x7ca9403ba20ac9e649c8dba53f920663540985a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

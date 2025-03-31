@@ -1,7 +1,7 @@
 {
   "symbol": "unfi",
   "name": "Unifi Protocol DAO",
-  "address": "0x441761326490cACF7aF299725B6292597EE822c2",
+  "address": "0x441761326490cacf7af299725b6292597ee822c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

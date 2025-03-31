@@ -1,7 +1,7 @@
 {
   "symbol": "vxr",
   "name": "Vox Royale",
-  "address": "0xCf16287A869ac8397815ABa9b8c962C0f18bA6ea",
+  "address": "0xcf16287a869ac8397815aba9b8c962c0f18ba6ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

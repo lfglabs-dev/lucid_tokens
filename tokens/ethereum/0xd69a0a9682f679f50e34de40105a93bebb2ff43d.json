@@ -1,7 +1,7 @@
 {
   "symbol": "macke",
   "name": "Mackerel",
-  "address": "0xD69a0A9682F679f50e34dE40105A93BEbB2fF43d",
+  "address": "0xd69a0a9682f679f50e34de40105a93bebb2ff43d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

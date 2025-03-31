@@ -1,7 +1,7 @@
 {
   "symbol": "sinv",
   "name": "Staked INV",
-  "address": "0x08d23468A467d2bb86FaE0e32F247A26C7E2e994",
+  "address": "0x08d23468a467d2bb86fae0e32f247a26c7e2e994",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "trog",
   "name": "Trog",
-  "address": "0x2077D81d0c5258230D5a195233941547cB5f0989",
+  "address": "0x2077d81d0c5258230d5a195233941547cb5f0989",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

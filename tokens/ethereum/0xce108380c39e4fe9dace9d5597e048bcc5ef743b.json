@@ -1,7 +1,7 @@
 {
   "symbol": "blues",
   "name": "Blueshift",
-  "address": "0xcE108380c39e4fE9DAcE9D5597E048Bcc5Ef743B",
+  "address": "0xce108380c39e4fe9dace9d5597e048bcc5ef743b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "cardano": "e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790424c554553",
     "milkomeda-cardano": "0x8c008bba2dd56b99f4a6ab276be3a478cb075f0c",
     "ethereum": "0xce108380c39e4fe9dace9d5597e048bcc5ef743b",
     "polygon-pos": "0xadbd83bfc4ff8a4f0bbf1d1b8d4780717a4e8fb5"

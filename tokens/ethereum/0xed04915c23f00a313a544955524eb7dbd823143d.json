@@ -1,7 +1,7 @@
 {
   "symbol": "ach",
   "name": "Alchemy Pay",
-  "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
+  "address": "0xed04915c23f00a313a544955524eb7dbd823143d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

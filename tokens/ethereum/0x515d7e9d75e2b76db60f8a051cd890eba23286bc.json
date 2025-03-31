@@ -1,7 +1,7 @@
 {
   "symbol": "gdao",
   "name": "Governor DAO",
-  "address": "0x515d7E9D75E2b76DB60F8a051Cd890eBa23286Bc",
+  "address": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

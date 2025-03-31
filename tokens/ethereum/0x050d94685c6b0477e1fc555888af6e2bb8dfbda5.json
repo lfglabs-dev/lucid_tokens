@@ -1,7 +1,7 @@
 {
   "symbol": "inu",
   "name": "Inu.",
-  "address": "0x050D94685c6B0477E1Fc555888AF6e2bB8dFBda5",
+  "address": "0x050d94685c6b0477e1fc555888af6e2bb8dfbda5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

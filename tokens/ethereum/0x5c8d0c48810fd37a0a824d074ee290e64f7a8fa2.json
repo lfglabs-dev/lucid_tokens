@@ -1,7 +1,7 @@
 {
   "symbol": "avl",
   "name": "Avalon",
-  "address": "0x5c8D0C48810FD37A0A824D074ee290E64f7A8Fa2",
+  "address": "0x5c8d0c48810fd37a0a824d074ee290e64f7a8fa2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

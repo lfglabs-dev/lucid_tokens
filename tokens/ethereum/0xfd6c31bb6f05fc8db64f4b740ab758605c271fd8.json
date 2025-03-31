@@ -1,7 +1,7 @@
 {
   "symbol": "ctcn",
   "name": "Contracoin",
-  "address": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
+  "address": "0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

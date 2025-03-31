@@ -1,7 +1,7 @@
 {
   "symbol": "wagmi",
   "name": "Wagmi",
-  "address": "0x92CC36D66e9d739D50673d1f27929a371FB83a67",
+  "address": "0x92cc36d66e9d739d50673d1f27929a371fb83a67",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -22,7 +22,6 @@
     "avalanche": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
     "arbitrum-one": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
     "polygon-pos": "0x07ed33a242bd9c08ca3c198e01189e35265024da",
-    "base": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
-    "solana": "Hb4m5r21uoA1rWiNFBJgWN8W52QYbw6UV9jAQDbGNsqH"
+    "base": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
   }
 }

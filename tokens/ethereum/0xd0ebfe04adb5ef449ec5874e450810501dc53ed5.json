@@ -1,7 +1,7 @@
 {
   "symbol": "brume",
   "name": "Brume",
-  "address": "0xD0EbFe04Adb5Ef449Ec5874e450810501DC53ED5",
+  "address": "0xd0ebfe04adb5ef449ec5874e450810501dc53ed5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

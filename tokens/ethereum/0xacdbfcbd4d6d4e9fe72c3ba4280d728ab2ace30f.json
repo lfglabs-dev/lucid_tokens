@@ -1,7 +1,7 @@
 {
   "symbol": "twb",
   "name": "TargetWatch Bot",
-  "address": "0xacDbfcBD4D6d4e9fe72C3bA4280D728AB2aCE30F",
+  "address": "0xacdbfcbd4d6d4e9fe72c3ba4280d728ab2ace30f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

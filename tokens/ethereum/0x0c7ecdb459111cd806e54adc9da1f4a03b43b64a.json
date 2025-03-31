@@ -1,7 +1,7 @@
 {
   "symbol": "gg",
   "name": "GrimGold",
-  "address": "0x0C7EcdB459111cd806e54ADC9Da1F4A03B43B64a",
+  "address": "0x0c7ecdb459111cd806e54adc9da1f4a03b43b64a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

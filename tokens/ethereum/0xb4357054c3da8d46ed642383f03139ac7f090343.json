@@ -1,7 +1,7 @@
 {
   "symbol": "port3",
   "name": "Port3 Network",
-  "address": "0xb4357054c3dA8D46eD642383F03139aC7f090343",
+  "address": "0xb4357054c3da8d46ed642383f03139ac7f090343",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -14,7 +14,6 @@
     "optimistic-ethereum": "0xb4357054c3da8d46ed642383f03139ac7f090343",
     "binance-smart-chain": "0xb4357054c3da8d46ed642383f03139ac7f090343",
     "arbitrum-one": "0xb4357054c3da8d46ed642383f03139ac7f090343",
-    "polygon-pos": "0xb4357054c3da8d46ed642383f03139ac7f090343",
-    "solana": "Bo5T8zkE6Xen9ZirEqoNqczuGcsopwNnxbBcW9HqCLGJ"
+    "polygon-pos": "0xb4357054c3da8d46ed642383f03139ac7f090343"
   }
 }

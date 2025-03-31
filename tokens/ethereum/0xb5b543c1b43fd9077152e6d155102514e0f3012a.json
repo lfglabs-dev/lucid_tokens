@@ -1,7 +1,7 @@
 {
   "symbol": "sam",
   "name": "SAM",
-  "address": "0xb5B543c1b43fD9077152e6D155102514E0F3012a",
+  "address": "0xb5b543c1b43fd9077152e6d155102514e0f3012a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

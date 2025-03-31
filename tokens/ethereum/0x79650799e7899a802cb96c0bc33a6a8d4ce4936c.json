@@ -1,7 +1,7 @@
 {
   "symbol": "ait",
   "name": "AICHAIN",
-  "address": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+  "address": "0x79650799e7899a802cb96c0bc33a6a8d4ce4936c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

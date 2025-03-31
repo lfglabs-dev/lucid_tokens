@@ -1,7 +1,7 @@
 {
   "symbol": "sbux.d",
   "name": "Dinari SBUX",
-  "address": "0x86cCbF2471Be7eBcA2C2C92a12fcf7089A44b4DF",
+  "address": "0x86ccbf2471be7ebca2c2c92a12fcf7089a44b4df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

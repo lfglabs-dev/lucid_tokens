@@ -1,7 +1,7 @@
 {
   "symbol": "wtrx",
   "name": "Wrapped Tron",
-  "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+  "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "tron": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
     "bittorrent": "0xedf53026aea60f8f75fca25f8830b7e2d6200662",
     "energi": "0xdc5f62055a2911f85cf16df9f7662403387c8d46",
     "ethereum": "0x50327c6c5a14dcade707abad2e27eb517df87ab5"

@@ -1,7 +1,7 @@
 {
   "symbol": "eth",
   "name": "The Infinite Garden",
-  "address": "0x5e21D1EE5cf0077B314c381720273ae82378D613",
+  "address": "0x5e21d1ee5cf0077b314c381720273ae82378d613",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

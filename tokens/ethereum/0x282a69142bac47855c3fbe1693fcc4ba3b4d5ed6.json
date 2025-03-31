@@ -1,7 +1,7 @@
 {
   "symbol": "carrot",
   "name": "Carrot by Puffer",
-  "address": "0x282A69142bac47855C3fbE1693FcC4bA3B4d5Ed6",
+  "address": "0x282a69142bac47855c3fbe1693fcc4ba3b4d5ed6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

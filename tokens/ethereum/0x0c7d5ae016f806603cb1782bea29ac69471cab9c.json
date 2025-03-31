@@ -1,7 +1,7 @@
 {
   "symbol": "bfc",
   "name": "Bifrost",
-  "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+  "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

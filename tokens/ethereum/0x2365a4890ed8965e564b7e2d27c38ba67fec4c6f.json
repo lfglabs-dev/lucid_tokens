@@ -1,7 +1,7 @@
 {
   "symbol": "aammuniwbtcusdc",
   "name": "Aave AMM UniWBTCUSDC",
-  "address": "0x2365a4890eD8965E564B7E2D27C38Ba67Fec4C6F",
+  "address": "0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

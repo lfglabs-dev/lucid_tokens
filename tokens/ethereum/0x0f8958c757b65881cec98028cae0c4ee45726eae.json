@@ -1,7 +1,7 @@
 {
   "symbol": "dcn",
   "name": "Compute Network",
-  "address": "0x0f8958c757B65881cec98028CAE0c4EE45726EAE",
+  "address": "0x0f8958c757b65881cec98028cae0c4ee45726eae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

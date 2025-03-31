@@ -1,7 +1,7 @@
 {
   "symbol": "mto",
   "name": "Merchant",
-  "address": "0xE66b3AA360bB78468c00Bebe163630269DB3324F",
+  "address": "0xe66b3aa360bb78468c00bebe163630269db3324f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

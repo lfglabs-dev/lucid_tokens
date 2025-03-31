@@ -1,7 +1,7 @@
 {
   "symbol": "glch",
   "name": "Glitch Protocol",
-  "address": "0x038a68FF68c393373eC894015816e33Ad41BD564",
+  "address": "0x038a68ff68c393373ec894015816e33ad41bd564",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

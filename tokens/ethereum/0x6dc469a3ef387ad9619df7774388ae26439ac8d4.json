@@ -1,7 +1,7 @@
 {
   "symbol": "papi",
   "name": "PAPI (ETH)",
-  "address": "0x6dc469A3Ef387AD9619df7774388aE26439ac8D4",
+  "address": "0x6dc469a3ef387ad9619df7774388ae26439ac8d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

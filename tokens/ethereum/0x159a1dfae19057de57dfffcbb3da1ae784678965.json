@@ -1,7 +1,7 @@
 {
   "symbol": "rfx",
   "name": "Reflex",
-  "address": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "address": "0x159a1dfae19057de57dfffcbb3da1ae784678965",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

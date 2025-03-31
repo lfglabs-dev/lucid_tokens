@@ -1,7 +1,7 @@
 {
   "symbol": "papple",
   "name": "Pineapple",
-  "address": "0x129E5915326eD86f831b0e035AcdA34b209633D5",
+  "address": "0x129e5915326ed86f831b0e035acda34b209633d5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

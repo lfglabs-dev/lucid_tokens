@@ -1,7 +1,7 @@
 {
   "symbol": "soku",
   "name": "SokuSwap",
-  "address": "0x4C3A8ECeB656Ec63eaE80a4ebD565E4887DB6160",
+  "address": "0x4c3a8eceb656ec63eae80a4ebd565e4887db6160",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

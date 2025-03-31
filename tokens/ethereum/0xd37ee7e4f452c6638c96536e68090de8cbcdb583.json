@@ -1,7 +1,7 @@
 {
   "symbol": "agusd",
   "name": "Aave GUSD",
-  "address": "0xD37EE7e4f452C6638c96536e68090De8cBcdb583",
+  "address": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

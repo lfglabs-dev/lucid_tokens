@@ -1,7 +1,7 @@
 {
   "symbol": "agts",
   "name": "AgenTensor",
-  "address": "0x55bD5f6A1Caea02c4f1eaE6119b2ac0babAb2C9F",
+  "address": "0x55bd5f6a1caea02c4f1eae6119b2ac0babab2c9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

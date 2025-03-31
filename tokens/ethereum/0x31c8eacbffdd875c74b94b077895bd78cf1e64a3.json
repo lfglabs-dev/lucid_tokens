@@ -1,7 +1,7 @@
 {
   "symbol": "rad",
   "name": "Radworks",
-  "address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
+  "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

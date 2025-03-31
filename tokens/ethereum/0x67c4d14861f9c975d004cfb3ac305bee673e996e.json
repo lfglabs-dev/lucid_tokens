@@ -1,7 +1,7 @@
 {
   "symbol": "landwu",
   "name": "Land Wu",
-  "address": "0x67c4D14861f9c975d004cFB3aC305beE673E996E",
+  "address": "0x67c4d14861f9c975d004cfb3ac305bee673e996e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

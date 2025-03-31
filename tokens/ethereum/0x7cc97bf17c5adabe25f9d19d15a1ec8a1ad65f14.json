@@ -1,7 +1,7 @@
 {
   "symbol": "wolverinu",
   "name": "Wolverinu",
-  "address": "0x7Cc97Bf17C5AdaBe25F9D19D15A1eC8A1ad65f14",
+  "address": "0x7cc97bf17c5adabe25f9d19d15a1ec8a1ad65f14",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

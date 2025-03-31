@@ -1,7 +1,7 @@
 {
   "symbol": "ocai",
   "name": "OcNest AI",
-  "address": "0xE0396Ef787F8B0385F0e73D30Acf8b922B1761F1",
+  "address": "0xe0396ef787f8b0385f0e73d30acf8b922b1761f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

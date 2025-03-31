@@ -1,7 +1,7 @@
 {
   "symbol": "brct",
   "name": "BRC App",
-  "address": "0x455ad1Bc4E18fD4e369234b6e11D88acBC416758",
+  "address": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

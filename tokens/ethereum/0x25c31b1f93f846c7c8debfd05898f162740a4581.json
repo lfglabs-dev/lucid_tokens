@@ -1,7 +1,7 @@
 {
   "symbol": "wander",
   "name": "WANDER",
-  "address": "0x25c31B1F93F846C7c8debfD05898F162740A4581",
+  "address": "0x25c31b1f93f846c7c8debfd05898f162740a4581",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

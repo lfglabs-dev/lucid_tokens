@@ -1,7 +1,7 @@
 {
   "symbol": "open",
   "name": "Open Platform",
-  "address": "0x9D86b1B2554ec410ecCFfBf111A6994910111340",
+  "address": "0x9d86b1b2554ec410eccffbf111a6994910111340",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

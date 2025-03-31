@@ -1,7 +1,7 @@
 {
   "symbol": "lto",
   "name": "LTO Network",
-  "address": "0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30",
+  "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

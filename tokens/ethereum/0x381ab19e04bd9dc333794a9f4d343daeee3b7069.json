@@ -1,7 +1,7 @@
 {
   "symbol": "dolan",
   "name": "Dolan Duk",
-  "address": "0x381AB19e04BD9dc333794A9F4d343daeEe3B7069",
+  "address": "0x381ab19e04bd9dc333794a9f4d343daeee3b7069",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "acrv",
   "name": "Aave v3 CRV",
-  "address": "0x7B95Ec873268a6BFC6427e7a28e396Db9D0ebc65",
+  "address": "0x7b95ec873268a6bfc6427e7a28e396db9d0ebc65",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

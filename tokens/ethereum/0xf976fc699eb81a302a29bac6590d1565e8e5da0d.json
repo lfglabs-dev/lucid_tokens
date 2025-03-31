@@ -1,7 +1,7 @@
 {
   "symbol": "rkc",
   "name": "RAKUICHI Token",
-  "address": "0xf976fC699Eb81a302a29BaC6590D1565E8e5DA0d",
+  "address": "0xf976fc699eb81a302a29bac6590d1565e8e5da0d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lovesnoopy",
   "name": "I LOVE SNOOPY",
-  "address": "0xF0EDAC27Aa3E85E2D176F689B0025f90C154393a",
+  "address": "0xf0edac27aa3e85e2d176f689b0025f90c154393a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

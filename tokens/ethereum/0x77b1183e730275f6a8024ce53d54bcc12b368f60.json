@@ -1,7 +1,7 @@
 {
   "symbol": "ezrez",
   "name": "Renzo Restaked REZ",
-  "address": "0x77B1183e730275f6A8024Ce53d54bcC12B368f60",
+  "address": "0x77b1183e730275f6a8024ce53d54bcc12b368f60",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

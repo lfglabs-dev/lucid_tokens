@@ -1,7 +1,7 @@
 {
   "symbol": "pdt",
   "name": "ParagonsDAO",
-  "address": "0x375aBB85C329753b1Ba849a601438AE77eEc9893",
+  "address": "0x375abb85c329753b1ba849a601438ae77eec9893",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

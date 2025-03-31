@@ -1,7 +1,7 @@
 {
   "symbol": "preai",
   "name": "Predict Crypto",
-  "address": "0xabD0E3535EcFBf6959b1798220335faf1B7ADA3a",
+  "address": "0xabd0e3535ecfbf6959b1798220335faf1b7ada3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

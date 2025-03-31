@@ -1,7 +1,7 @@
 {
   "symbol": "tgpu",
   "name": "TonGPU",
-  "address": "0x4346139e71BA7b4B6AbD405782703006Cc180988",
+  "address": "0x4346139e71ba7b4b6abd405782703006cc180988",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "pew",
   "name": "pepe in a memes world",
-  "address": "0x382ea807A61a418479318Efd96F1EFbC5c1F2C21",
+  "address": "0x382ea807a61a418479318efd96f1efbc5c1f2c21",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

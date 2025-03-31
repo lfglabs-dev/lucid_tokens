@@ -1,7 +1,7 @@
 {
   "symbol": "fnxai",
   "name": "Finanx AI",
-  "address": "0x939069722D568B5498CcBA4356E800EaefEFD2a5",
+  "address": "0x939069722d568b5498ccba4356e800eaefefd2a5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "shi",
   "name": "Shina Inu",
-  "address": "0x243cACb4D5fF6814AD668C3e225246efA886AD5a",
+  "address": "0x243cacb4d5ff6814ad668c3e225246efa886ad5a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "infra",
   "name": "infraX",
-  "address": "0xe9EccDE9d26FCBB5e93F536CFC4510A7f46274f8",
+  "address": "0xe9eccde9d26fcbb5e93f536cfc4510a7f46274f8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

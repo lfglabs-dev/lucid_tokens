@@ -1,7 +1,7 @@
 {
   "symbol": "nft",
   "name": "Fungify NFT Index",
-  "address": "0x4268a135840e5273E9DcB3Dc78303767D3964f43",
+  "address": "0x4268a135840e5273e9dcb3dc78303767d3964f43",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

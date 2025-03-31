@@ -1,7 +1,7 @@
 {
   "symbol": "goat",
   "name": "Goat Trading",
-  "address": "0x6Ae2A128cD07d672164cA9f2712Ea737d198Dd41",
+  "address": "0x6ae2a128cd07d672164ca9f2712ea737d198dd41",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

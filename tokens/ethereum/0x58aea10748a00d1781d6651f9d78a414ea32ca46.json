@@ -1,7 +1,7 @@
 {
   "symbol": "vsg",
   "name": "Vector Smart Gas",
-  "address": "0x58aEA10748a00D1781D6651f9d78A414EA32CA46",
+  "address": "0x58aea10748a00d1781d6651f9d78a414ea32ca46",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

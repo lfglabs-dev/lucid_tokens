@@ -1,7 +1,7 @@
 {
   "symbol": "aleph",
   "name": "Aleph.im",
-  "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+  "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

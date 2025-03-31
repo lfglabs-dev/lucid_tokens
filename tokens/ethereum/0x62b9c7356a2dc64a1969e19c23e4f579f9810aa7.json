@@ -1,7 +1,7 @@
 {
   "symbol": "cvxcrv",
   "name": "Convex CRV",
-  "address": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+  "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

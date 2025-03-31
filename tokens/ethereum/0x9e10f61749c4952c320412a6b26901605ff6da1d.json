@@ -1,7 +1,7 @@
 {
   "symbol": "theos",
   "name": "Theos",
-  "address": "0x9e10f61749c4952C320412A6B26901605Ff6Da1d",
+  "address": "0x9e10f61749c4952c320412a6b26901605ff6da1d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

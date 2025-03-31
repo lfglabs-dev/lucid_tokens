@@ -1,7 +1,7 @@
 {
   "symbol": "wxt",
   "name": "WXT Token",
-  "address": "0xa02120696c7B8fE16C09C749E4598819b2B0E915",
+  "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
-    "stellar": "WXT-GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT",
     "avalanche": "0xfcde4a87b8b6fa58326bb462882f1778158b02f1"
   }
 }

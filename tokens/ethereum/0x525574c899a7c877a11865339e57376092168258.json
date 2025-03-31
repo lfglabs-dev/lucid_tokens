@@ -1,7 +1,7 @@
 {
   "symbol": "guru",
   "name": "Guru Network",
-  "address": "0x525574C899A7c877a11865339e57376092168258",
+  "address": "0x525574c899a7c877a11865339e57376092168258",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

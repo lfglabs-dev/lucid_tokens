@@ -1,7 +1,7 @@
 {
   "symbol": "xrgb",
   "name": "XRGB",
-  "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+  "address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

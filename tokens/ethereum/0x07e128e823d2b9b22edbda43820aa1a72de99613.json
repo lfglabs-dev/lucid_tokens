@@ -1,7 +1,7 @@
 {
   "symbol": "hostai",
   "name": "Host AI",
-  "address": "0x07e128e823D2b9B22EdBdA43820aA1a72DE99613",
+  "address": "0x07e128e823d2b9b22edbda43820aa1a72de99613",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

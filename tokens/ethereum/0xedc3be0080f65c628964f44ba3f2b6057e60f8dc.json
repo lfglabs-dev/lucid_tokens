@@ -1,7 +1,7 @@
 {
   "symbol": "dash",
   "name": "DASH",
-  "address": "0xEdC3Be0080F65C628964f44ba3F2b6057e60F8DC",
+  "address": "0xedc3be0080f65c628964f44ba3f2b6057e60f8dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

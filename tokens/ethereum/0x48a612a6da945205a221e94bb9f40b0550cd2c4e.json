@@ -1,7 +1,7 @@
 {
   "symbol": "sttia",
   "name": "Bridged stTIA (Hyperlane)",
-  "address": "0x48A612A6da945205a221E94BB9F40B0550Cd2C4e",
+  "address": "0x48a612a6da945205a221e94bb9f40b0550cd2c4e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

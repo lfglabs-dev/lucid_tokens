@@ -1,7 +1,7 @@
 {
   "symbol": "edum",
   "name": "EDUM",
-  "address": "0xaC9518BA93EeB2336A03137d254d8CC2e4d0fA38",
+  "address": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "rst",
   "name": "Raini Studios Token",
-  "address": "0xBE03E60757f21f4b6fC8f16676AD9D5B1002E512",
+  "address": "0xbe03e60757f21f4b6fc8f16676ad9d5b1002e512",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

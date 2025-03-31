@@ -1,7 +1,7 @@
 {
   "symbol": "rog",
   "name": "ROGin AI",
-  "address": "0x5d43b66da68706D39f6C97F7f1415615672b446b",
+  "address": "0x5d43b66da68706d39f6c97f7f1415615672b446b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

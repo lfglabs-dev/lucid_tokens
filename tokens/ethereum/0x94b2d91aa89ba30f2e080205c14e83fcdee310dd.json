@@ -1,7 +1,7 @@
 {
   "symbol": "wepc",
   "name": "World Earn & Play Community",
-  "address": "0x94b2D91aa89BA30f2E080205C14E83fcdeE310DD",
+  "address": "0x94b2d91aa89ba30f2e080205c14e83fcdee310dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

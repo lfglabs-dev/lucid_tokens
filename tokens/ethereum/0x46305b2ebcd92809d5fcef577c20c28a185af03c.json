@@ -1,7 +1,7 @@
 {
   "symbol": "$shadow",
   "name": "Shadowladys DN404",
-  "address": "0x46305B2eBcd92809d5fcEf577C20C28A185Af03c",
+  "address": "0x46305b2ebcd92809d5fcef577c20c28a185af03c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

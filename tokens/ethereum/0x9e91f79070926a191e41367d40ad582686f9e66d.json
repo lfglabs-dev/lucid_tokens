@@ -1,7 +1,7 @@
 {
   "symbol": "style",
   "name": "STYLE Token",
-  "address": "0x9e91F79070926A191e41367d40aD582686f9e66D",
+  "address": "0x9e91f79070926a191e41367d40ad582686f9e66d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ml",
   "name": "Mintlayer",
-  "address": "0x059956483753947536204e89bfaD909E1a434Cc6",
+  "address": "0x059956483753947536204e89bfad909e1a434cc6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

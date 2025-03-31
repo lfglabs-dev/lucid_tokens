@@ -1,7 +1,7 @@
 {
   "symbol": "jesus",
   "name": "Jesus Coin",
-  "address": "0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70",
+  "address": "0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70",
-    "solana": "FQddEUoqKPnAsc4UTkAdAUV3LnCXoZEJMazguC1N11kC"
+    "ethereum": "0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "cultel",
   "name": "Cultel",
-  "address": "0x0000003CeeDe5c40E5187784d3E8Dd5b43dC85f6",
+  "address": "0x0000003ceede5c40e5187784d3e8dd5b43dc85f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mma",
   "name": "Meme Alliance",
-  "address": "0x9B3A8159e119eb09822115AE08Ee1526849e1116",
+  "address": "0x9b3a8159e119eb09822115ae08ee1526849e1116",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

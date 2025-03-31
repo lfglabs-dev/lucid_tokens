@@ -1,7 +1,7 @@
 {
   "symbol": "moma",
   "name": "Mochi Market",
-  "address": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+  "address": "0xbd1848e1491d4308ad18287a745dd4db2a4bd55b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

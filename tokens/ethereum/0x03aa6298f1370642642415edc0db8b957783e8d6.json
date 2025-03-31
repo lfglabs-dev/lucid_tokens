@@ -1,7 +1,7 @@
 {
   "symbol": "nmt",
   "name": "NetMind Token",
-  "address": "0x03AA6298F1370642642415EDC0db8b957783e8D6",
+  "address": "0x03aa6298f1370642642415edc0db8b957783e8d6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

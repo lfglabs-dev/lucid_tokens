@@ -1,7 +1,7 @@
 {
   "symbol": "rake",
   "name": "Rake.com",
-  "address": "0x6553565EaC5DAa9BfC5E2892B36291634c9B2ad6",
+  "address": "0x6553565eac5daa9bfc5e2892b36291634c9b2ad6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x6553565eac5daa9bfc5e2892b36291634c9b2ad6",
-    "solana": "ArVax7Di1aTkng84oaRo713RuUXdcFAqZKxKeNvYK52Y"
+    "ethereum": "0x6553565eac5daa9bfc5e2892b36291634c9b2ad6"
   }
 }

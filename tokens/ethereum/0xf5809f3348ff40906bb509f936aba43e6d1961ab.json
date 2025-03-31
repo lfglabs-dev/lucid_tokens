@@ -1,7 +1,7 @@
 {
   "symbol": "lester",
   "name": "Lester",
-  "address": "0xf5809F3348ff40906BB509f936Aba43e6D1961ab",
+  "address": "0xf5809f3348ff40906bb509f936aba43e6d1961ab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

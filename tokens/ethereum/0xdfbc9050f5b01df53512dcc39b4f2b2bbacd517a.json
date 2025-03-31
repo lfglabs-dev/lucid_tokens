@@ -1,7 +1,7 @@
 {
   "symbol": "job",
   "name": "Jobchain",
-  "address": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+  "address": "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "xtk",
   "name": "xToken",
-  "address": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
+  "address": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

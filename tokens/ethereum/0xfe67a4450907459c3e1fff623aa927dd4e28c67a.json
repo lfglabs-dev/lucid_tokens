@@ -1,7 +1,7 @@
 {
   "symbol": "next",
   "name": "Everclear",
-  "address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+  "address": "0xfe67a4450907459c3e1fff623aa927dd4e28c67a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

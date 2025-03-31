@@ -1,7 +1,7 @@
 {
   "symbol": "tomo",
   "name": "Tomo Cat",
-  "address": "0x6A4402a535d74Bd0C9cDb5Ce2d51822Fc9F6620E",
+  "address": "0x6a4402a535d74bd0c9cdb5ce2d51822fc9f6620e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

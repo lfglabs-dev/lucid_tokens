@@ -1,7 +1,7 @@
 {
   "symbol": "snap",
   "name": "Snap: first space coin",
-  "address": "0x284b25D8f199125dA962AbC9EE6e6B1B6715cae3",
+  "address": "0x284b25d8f199125da962abc9ee6e6b1b6715cae3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

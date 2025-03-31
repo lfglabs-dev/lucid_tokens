@@ -1,7 +1,7 @@
 {
   "symbol": "usdfi",
   "name": "USDFI",
-  "address": "0xa7a0B3Fe94121E366D774d60D075F6386F750884",
+  "address": "0xa7a0b3fe94121e366d774d60d075f6386f750884",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

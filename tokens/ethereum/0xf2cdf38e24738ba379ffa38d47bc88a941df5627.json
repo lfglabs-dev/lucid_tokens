@@ -1,7 +1,7 @@
 {
   "symbol": "aly",
   "name": "Ally",
-  "address": "0xf2CDF38e24738bA379ffa38D47bc88a941dF5627",
+  "address": "0xf2cdf38e24738ba379ffa38d47bc88a941df5627",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "fiona",
   "name": "Fiona",
-  "address": "0x7E7Ef0ee0305c1C195fcAe22FD7b207a813EEF86",
+  "address": "0x7e7ef0ee0305c1c195fcae22fd7b207a813eef86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

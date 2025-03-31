@@ -1,7 +1,7 @@
 {
   "symbol": "atnt",
   "name": "Artizen",
-  "address": "0xAA2d8c9a8bd0F7945143bfD509bE3ff23dd78918",
+  "address": "0xaa2d8c9a8bd0f7945143bfd509be3ff23dd78918",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

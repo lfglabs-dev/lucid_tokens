@@ -1,7 +1,7 @@
 {
   "symbol": "dpt",
   "name": "Depicted",
-  "address": "0xf0259b72c74D97B3BE6C4C48a9a1B111eFA3ddAf",
+  "address": "0xf0259b72c74d97b3be6c4c48a9a1b111efa3ddaf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bnsd",
   "name": "BNSD Finance",
-  "address": "0x668DbF100635f593A3847c0bDaF21f0a09380188",
+  "address": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

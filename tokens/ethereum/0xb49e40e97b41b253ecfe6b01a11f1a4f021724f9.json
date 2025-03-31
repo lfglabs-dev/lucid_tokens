@@ -1,7 +1,7 @@
 {
   "symbol": "sony.d",
   "name": "Dinari SONY",
-  "address": "0xB49e40e97B41B253ecfE6b01A11F1A4F021724F9",
+  "address": "0xb49e40e97b41b253ecfe6b01a11f1a4f021724f9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

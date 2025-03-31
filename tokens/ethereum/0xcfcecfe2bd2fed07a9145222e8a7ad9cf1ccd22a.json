@@ -1,7 +1,7 @@
 {
   "symbol": "ads",
   "name": "Adshares",
-  "address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
+  "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

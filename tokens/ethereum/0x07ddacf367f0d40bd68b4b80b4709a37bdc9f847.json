@@ -1,7 +1,7 @@
 {
   "symbol": "mojo",
   "name": "Mojo",
-  "address": "0x07DDaCf367f0d40bd68B4b80b4709A37BDC9F847",
+  "address": "0x07ddacf367f0d40bd68b4b80b4709a37bdc9f847",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

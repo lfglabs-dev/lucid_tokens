@@ -1,7 +1,7 @@
 {
   "symbol": "waco",
   "name": "Waste Digital Coin",
-  "address": "0x910c4DA718CAF4EE38cE5c2490CDDAEca689204e",
+  "address": "0x910c4da718caf4ee38ce5c2490cddaeca689204e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tup",
   "name": "Tenup",
-  "address": "0x7714f320Adca62B149df2579361AfEC729c5FE6A",
+  "address": "0x7714f320adca62b149df2579361afec729c5fe6a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

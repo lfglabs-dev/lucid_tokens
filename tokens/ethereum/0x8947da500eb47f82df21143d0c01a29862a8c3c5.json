@@ -1,7 +1,7 @@
 {
   "symbol": "thales",
   "name": "Thales",
-  "address": "0x8947da500Eb47F82df21143D0C01A29862a8C3c5",
+  "address": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

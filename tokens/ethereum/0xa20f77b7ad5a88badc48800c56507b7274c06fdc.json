@@ -1,7 +1,7 @@
 {
   "symbol": "cher",
   "name": "Cherry Network",
-  "address": "0xa20f77B7ad5A88badC48800C56507B7274c06Fdc",
+  "address": "0xa20f77b7ad5a88badc48800c56507b7274c06fdc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

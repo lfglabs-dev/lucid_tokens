@@ -1,7 +1,7 @@
 {
   "symbol": "0xgas",
   "name": "0xGasless",
-  "address": "0x5FC111f3Fa4C6b32eAf65659CFEbdeed57234069",
+  "address": "0x5fc111f3fa4c6b32eaf65659cfebdeed57234069",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

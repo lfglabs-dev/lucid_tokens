@@ -1,7 +1,7 @@
 {
   "symbol": "rem",
   "name": "Remme",
-  "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
+  "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "$opcat",
   "name": "OPCAT",
-  "address": "0xDaA7699352AC8709f3D2fD092226d3DD7DA40474",
+  "address": "0xdaa7699352ac8709f3d2fd092226d3dd7da40474",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

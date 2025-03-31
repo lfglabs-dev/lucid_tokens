@@ -1,7 +1,7 @@
 {
   "symbol": "dinoshi",
   "name": "DINOSHI",
-  "address": "0x249Fc40d68A3a55dAC335550b64c1a03b4C0Ed72",
+  "address": "0x249fc40d68a3a55dac335550b64c1a03b4c0ed72",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

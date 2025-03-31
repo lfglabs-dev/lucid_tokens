@@ -1,7 +1,7 @@
 {
   "symbol": "sx",
   "name": "SX Network",
-  "address": "0xbe9F61555F50DD6167f2772e9CF7519790d96624",
+  "address": "0xbe9f61555f50dd6167f2772e9cf7519790d96624",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

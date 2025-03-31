@@ -1,7 +1,7 @@
 {
   "symbol": "nexm",
   "name": "Nexum",
-  "address": "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5",
+  "address": "0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

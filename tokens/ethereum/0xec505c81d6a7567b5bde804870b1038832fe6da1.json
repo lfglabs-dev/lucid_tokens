@@ -1,7 +1,7 @@
 {
   "symbol": "cnd",
   "name": "Coinhound",
-  "address": "0xEc505C81D6a7567b5BDE804870b1038832fE6Da1",
+  "address": "0xec505c81d6a7567b5bde804870b1038832fe6da1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

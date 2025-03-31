@@ -1,7 +1,7 @@
 {
   "symbol": "ezeigen",
   "name": "Renzo Restaked EIGEN",
-  "address": "0xd4fcde9bb1d746Dd7e5463b01Dd819EE06aF25db",
+  "address": "0xd4fcde9bb1d746dd7e5463b01dd819ee06af25db",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

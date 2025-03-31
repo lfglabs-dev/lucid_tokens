@@ -1,7 +1,7 @@
 {
   "symbol": "fx",
   "name": "Function X",
-  "address": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
+  "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
-    "osmosis": "ibc/2B30802A0B03F91E4E16D6175C9B70F2911377C1CAE9E50FF011C821465463F9",
     "base": "0x8cecc2360906c812cd7353cd6b10b1dc13bbc777"
   }
 }

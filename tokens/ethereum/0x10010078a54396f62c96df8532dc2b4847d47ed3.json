@@ -1,7 +1,7 @@
 {
   "symbol": "hnd",
   "name": "Hundred Finance",
-  "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+  "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

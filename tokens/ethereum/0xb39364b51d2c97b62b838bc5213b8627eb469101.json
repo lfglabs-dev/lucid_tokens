@@ -1,7 +1,7 @@
 {
   "symbol": "swot",
   "name": "Swot AI",
-  "address": "0xb39364b51d2C97b62b838Bc5213B8627eB469101",
+  "address": "0xb39364b51d2c97b62b838bc5213b8627eb469101",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "runic",
   "name": "Runic Chain",
-  "address": "0xeb4F5c4bF62faC1be7e4BEf9c7C055BF1C52241D",
+  "address": "0xeb4f5c4bf62fac1be7e4bef9c7c055bf1c52241d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

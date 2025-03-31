@@ -1,7 +1,7 @@
 {
   "symbol": "urus",
   "name": "Aurox",
-  "address": "0xc6DdDB5bc6E61e0841C54f3e723Ae1f3A807260b",
+  "address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

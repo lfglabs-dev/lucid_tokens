@@ -1,7 +1,7 @@
 {
   "symbol": "frogex",
   "name": "FrogeX",
-  "address": "0x5fA54fdDF1870C344DbFaBb37dFab8700Ec0Def1",
+  "address": "0x5fa54fddf1870c344dbfabb37dfab8700ec0def1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

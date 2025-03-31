@@ -1,7 +1,7 @@
 {
   "symbol": "jbx",
   "name": "Juicebox",
-  "address": "0x4554CC10898f92D45378b98D6D6c2dD54c687Fb2",
+  "address": "0x4554cc10898f92d45378b98d6d6c2dd54c687fb2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

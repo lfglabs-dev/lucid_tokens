@@ -1,7 +1,7 @@
 {
   "symbol": "geth",
   "name": "Guarded Ether",
-  "address": "0x3802c218221390025BCEABBaD5D8C59F40eB74B8",
+  "address": "0x3802c218221390025bceabbad5d8c59f40eb74b8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "gnft",
   "name": "GNFT",
-  "address": "0xc502002aEB1b9309FcCb016adF50507987Fc6C2b",
+  "address": "0xc502002aeb1b9309fccb016adf50507987fc6c2b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "heth",
   "name": "Hinkal Staked ETH",
-  "address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+  "address": "0x270b7748cdf8243bfe68face7230ef0fce695389",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

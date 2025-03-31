@@ -1,7 +1,7 @@
 {
   "symbol": "bope",
   "name": "Book of Pepe",
-  "address": "0x599955AA9fBc197a1b717d8da6a7012CAFe70ab3",
+  "address": "0x599955aa9fbc197a1b717d8da6a7012cafe70ab3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

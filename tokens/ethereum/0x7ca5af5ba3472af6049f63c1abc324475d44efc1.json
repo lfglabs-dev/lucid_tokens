@@ -1,7 +1,7 @@
 {
   "symbol": "kndx",
   "name": "KONDUX",
-  "address": "0x7CA5af5bA3472AF6049F63c1AbC324475D44EFC1",
+  "address": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

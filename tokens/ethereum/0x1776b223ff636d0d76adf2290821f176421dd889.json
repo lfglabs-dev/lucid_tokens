@@ -1,7 +1,7 @@
 {
   "symbol": "america",
   "name": "America1776",
-  "address": "0x1776B223FF636D0d76aDF2290821f176421DD889",
+  "address": "0x1776b223ff636d0d76adf2290821f176421dd889",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

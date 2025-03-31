@@ -1,7 +1,7 @@
 {
   "symbol": "dect",
   "name": "DEC Token",
-  "address": "0xDB99B0477574Ac0B2d9c8cec56B42277DA3fdb82",
+  "address": "0xdb99b0477574ac0b2d9c8cec56b42277da3fdb82",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

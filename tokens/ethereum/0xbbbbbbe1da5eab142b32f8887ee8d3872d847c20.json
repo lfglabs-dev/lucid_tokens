@@ -1,7 +1,7 @@
 {
   "symbol": "bbonk",
   "name": "BitBonk",
-  "address": "0xbbBBBBe1da5EAB142B32f8887EE8d3872D847c20",
+  "address": "0xbbbbbbe1da5eab142b32f8887ee8d3872d847c20",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

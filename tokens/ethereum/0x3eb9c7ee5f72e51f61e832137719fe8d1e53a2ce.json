@@ -1,7 +1,7 @@
 {
   "symbol": "dmind",
   "name": "DecentraMind",
-  "address": "0x3Eb9c7ee5F72E51F61e832137719Fe8d1E53A2ce",
+  "address": "0x3eb9c7ee5f72e51f61e832137719fe8d1e53a2ce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

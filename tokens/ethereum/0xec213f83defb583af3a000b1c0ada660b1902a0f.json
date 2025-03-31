@@ -1,7 +1,7 @@
 {
   "symbol": "pre",
   "name": "Presearch",
-  "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+  "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "enqai",
   "name": "enqAI",
-  "address": "0x710287D1D39DCf62094A83EBB3e736e79400068a",
+  "address": "0x710287d1d39dcf62094a83ebb3e736e79400068a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

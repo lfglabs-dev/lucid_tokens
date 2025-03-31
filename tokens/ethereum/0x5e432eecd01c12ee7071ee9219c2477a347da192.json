@@ -1,7 +1,7 @@
 {
   "symbol": "arqx",
   "name": "ARQx AI",
-  "address": "0x5e432eeCd01C12ee7071Ee9219C2477a347DA192",
+  "address": "0x5e432eecd01c12ee7071ee9219c2477a347da192",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "boba",
   "name": "Boba Network",
-  "address": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
+  "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

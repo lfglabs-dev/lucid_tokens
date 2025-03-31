@@ -1,7 +1,7 @@
 {
   "symbol": "ola",
   "name": "Ola",
-  "address": "0x2353F7e7b74C045a5dfbaaFeE5d21BFD948dC170",
+  "address": "0x2353f7e7b74c045a5dfbaafee5d21bfd948dc170",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

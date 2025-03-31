@@ -1,7 +1,7 @@
 {
   "symbol": "pro",
   "name": "Prodigy Bot",
-  "address": "0xBD7e92Cf6F857be8541FCa6abfB72aeF8e16c307",
+  "address": "0xbd7e92cf6f857be8541fca6abfb72aef8e16c307",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

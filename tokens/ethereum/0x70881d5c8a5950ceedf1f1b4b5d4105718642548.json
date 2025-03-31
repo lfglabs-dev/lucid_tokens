@@ -1,7 +1,7 @@
 {
   "symbol": "bag",
   "name": "Bagholder",
-  "address": "0x70881D5c8A5950ceeDf1f1B4b5D4105718642548",
+  "address": "0x70881d5c8a5950ceedf1f1b4b5d4105718642548",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "isla",
   "name": "Insula",
-  "address": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
+  "address": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

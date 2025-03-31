@@ -1,7 +1,7 @@
 {
   "symbol": "gatsby",
   "name": "Gatsby Inu",
-  "address": "0x5D0EbC4Ec5ac18d30512fb6287886245061B3Dbd",
+  "address": "0x5d0ebc4ec5ac18d30512fb6287886245061b3dbd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

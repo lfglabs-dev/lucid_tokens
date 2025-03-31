@@ -1,7 +1,7 @@
 {
   "symbol": "citadel",
   "name": "The Citadel",
-  "address": "0x6caDf6ABBCeb53e631C288778DAAcF125481C1BB",
+  "address": "0x6cadf6abbceb53e631c288778daacf125481c1bb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

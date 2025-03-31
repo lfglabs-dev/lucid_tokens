@@ -1,7 +1,7 @@
 {
   "symbol": "aammbptbalweth",
   "name": "Aave AMM BptBALWETH",
-  "address": "0xd109b2A304587569c84308c55465cd9fF0317bFB",
+  "address": "0xd109b2a304587569c84308c55465cd9ff0317bfb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

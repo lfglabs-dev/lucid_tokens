@@ -1,7 +1,7 @@
 {
   "symbol": "gaga",
   "name": "Gaga (Pepe)",
-  "address": "0xB29Dc1703fAcd2967BB8AdE2E392385644C6dCA9",
+  "address": "0xb29dc1703facd2967bb8ade2e392385644c6dca9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

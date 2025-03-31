@@ -1,7 +1,7 @@
 {
   "symbol": "crgpt",
   "name": "CryptoGPT",
-  "address": "0x50739bd5b6afF093ba2371365727C48a420a060D",
+  "address": "0x50739bd5b6aff093ba2371365727c48a420a060d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lak3",
   "name": "LAKE",
-  "address": "0x13d074303C95a34d304F29928dC8A16dEc797e9E",
+  "address": "0x13d074303c95a34d304f29928dc8a16dec797e9e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

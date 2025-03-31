@@ -1,7 +1,7 @@
 {
   "symbol": "vrtx",
   "name": "VORTEX",
-  "address": "0x5c7cC28fF152C397Dc2e17349661dB67113D6CE3",
+  "address": "0x5c7cc28ff152c397dc2e17349661db67113d6ce3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

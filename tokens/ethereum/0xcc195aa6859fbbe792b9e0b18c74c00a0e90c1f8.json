@@ -1,7 +1,7 @@
 {
   "symbol": "hood.d",
   "name": "Dinari HOOD",
-  "address": "0xCC195aA6859FBBE792b9e0B18C74C00A0E90c1f8",
+  "address": "0xcc195aa6859fbbe792b9e0b18c74c00a0e90c1f8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

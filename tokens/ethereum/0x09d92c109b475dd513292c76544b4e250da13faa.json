@@ -1,7 +1,7 @@
 {
   "symbol": "doggy",
   "name": "DOGGY COIN",
-  "address": "0x09d92c109b475Dd513292C76544B4E250dA13faA",
+  "address": "0x09d92c109b475dd513292c76544b4e250da13faa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

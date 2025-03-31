@@ -1,7 +1,7 @@
 {
   "symbol": "nobl",
   "name": "NobleBlocks",
-  "address": "0x88b9f5c66342eBaf661b3E2836B807C8cb1B3195",
+  "address": "0x88b9f5c66342ebaf661b3e2836b807c8cb1b3195",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

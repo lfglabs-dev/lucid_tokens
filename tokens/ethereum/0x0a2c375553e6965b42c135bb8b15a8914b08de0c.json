@@ -1,7 +1,7 @@
 {
   "symbol": "frog",
   "name": "Frog on ETH",
-  "address": "0x0a2C375553e6965b42C135bb8B15a8914B08de0c",
+  "address": "0x0a2c375553e6965b42c135bb8b15a8914b08de0c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

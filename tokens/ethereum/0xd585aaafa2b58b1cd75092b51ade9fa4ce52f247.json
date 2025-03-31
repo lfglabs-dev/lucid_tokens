@@ -1,7 +1,7 @@
 {
   "symbol": "peusd",
   "name": "peg-eUSD",
-  "address": "0xD585aaafA2B58b1CD75092B51ade9Fa4Ce52F247",
+  "address": "0xd585aaafa2b58b1cd75092b51ade9fa4ce52f247",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

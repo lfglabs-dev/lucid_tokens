@@ -1,7 +1,7 @@
 {
   "symbol": "$cramer",
   "name": "Cramer Coin",
-  "address": "0x64Df3aAB3b21cC275bB76c4A581Cf8B726478ee0",
+  "address": "0x64df3aab3b21cc275bb76c4a581cf8b726478ee0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

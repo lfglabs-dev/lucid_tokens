@@ -1,7 +1,7 @@
 {
   "symbol": "mblk",
   "name": "Magical Blocks",
-  "address": "0xF47245e9A3Ba3dCa8B004E34afc1290B1d435a52",
+  "address": "0xf47245e9a3ba3dca8b004e34afc1290b1d435a52",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

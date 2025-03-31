@@ -1,7 +1,7 @@
 {
   "symbol": "agix",
   "name": "SingularityNET",
-  "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+  "address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,8 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
-    "sora": "0x005e152271f8816d76221c7a0b5c6cafcb54fdfb6954dd8812f0158bfeac900d",
-    "cardano": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535"
+    "ethereum": "0x5b7533812759b45c2b44c19e320ba2cd2681b542"
   }
 }

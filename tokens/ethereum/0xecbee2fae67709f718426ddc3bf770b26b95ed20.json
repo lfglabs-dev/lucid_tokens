@@ -1,7 +1,7 @@
 {
   "symbol": "clips",
   "name": "Clips",
-  "address": "0xeCbEE2fAE67709F718426DDC3bF770B26B95eD20",
+  "address": "0xecbee2fae67709f718426ddc3bf770b26b95ed20",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

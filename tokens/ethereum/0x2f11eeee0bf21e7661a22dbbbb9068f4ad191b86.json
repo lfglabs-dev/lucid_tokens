@@ -1,7 +1,7 @@
 {
   "symbol": "bniu",
   "name": "Backed NIU Technologies",
-  "address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
+  "address": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mojo",
   "name": "Planet Mojo",
-  "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
+  "address": "0xed2d13a70acbd61074fc56bd0d0845e35f793e5e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

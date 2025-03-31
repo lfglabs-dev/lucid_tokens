@@ -1,7 +1,7 @@
 {
   "symbol": "bao",
   "name": "Bao Finance V2",
-  "address": "0xCe391315b414D4c7555956120461D21808A69F3A",
+  "address": "0xce391315b414d4c7555956120461d21808a69f3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

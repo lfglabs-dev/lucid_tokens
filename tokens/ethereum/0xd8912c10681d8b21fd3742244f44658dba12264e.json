@@ -1,7 +1,7 @@
 {
   "symbol": "plu",
   "name": "Pluton",
-  "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+  "address": "0xd8912c10681d8b21fd3742244f44658dba12264e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

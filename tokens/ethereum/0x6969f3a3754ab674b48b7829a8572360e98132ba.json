@@ -1,7 +1,7 @@
 {
   "symbol": "izzy",
   "name": "Izzy",
-  "address": "0x6969f3A3754AB674B48B7829A8572360E98132Ba",
+  "address": "0x6969f3a3754ab674b48b7829a8572360e98132ba",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

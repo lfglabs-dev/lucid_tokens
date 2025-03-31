@@ -1,7 +1,7 @@
 {
   "symbol": "meta",
   "name": "Metadium",
-  "address": "0xDE2F7766C8BF14CA67193128535E5c7454f8387C",
+  "address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

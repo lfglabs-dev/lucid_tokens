@@ -1,7 +1,7 @@
 {
   "symbol": "twg",
   "name": "The Wally Group",
-  "address": "0x6EB64894CFb6a7d00749781aD01975584822dD5F",
+  "address": "0x6eb64894cfb6a7d00749781ad01975584822dd5f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

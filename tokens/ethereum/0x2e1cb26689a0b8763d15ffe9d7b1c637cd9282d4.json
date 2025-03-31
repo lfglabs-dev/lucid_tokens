@@ -1,7 +1,7 @@
 {
   "symbol": "opta",
   "name": "OPTA Global",
-  "address": "0x2E1cb26689a0B8763d15fFE9d7B1c637cd9282D4",
+  "address": "0x2e1cb26689a0b8763d15ffe9d7b1c637cd9282d4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

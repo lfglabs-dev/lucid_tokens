@@ -1,7 +1,7 @@
 {
   "symbol": "amp",
   "name": "Amp",
-  "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+  "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
-    "near-protocol": "ff20817765cb7f73d4bde2e66e067e58d11095c2.factory.bridge.near",
     "energi": "0xad7abe6f12f1059bdf48ae67bff92b00438ced95"
   }
 }

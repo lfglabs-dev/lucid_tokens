@@ -1,7 +1,7 @@
 {
   "symbol": "mctp",
   "name": "MUMUBIT TOKEN",
-  "address": "0x98509e66FBf5a68d18EbB01dc4a52ce020fc8D1F",
+  "address": "0x98509e66fbf5a68d18ebb01dc4a52ce020fc8d1f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

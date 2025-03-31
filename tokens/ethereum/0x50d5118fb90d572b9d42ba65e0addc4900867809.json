@@ -1,7 +1,7 @@
 {
   "symbol": "osean",
   "name": "Osean",
-  "address": "0x50d5118Fb90D572B9d42ba65E0addC4900867809",
+  "address": "0x50d5118fb90d572b9d42ba65e0addc4900867809",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

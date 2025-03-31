@@ -1,7 +1,7 @@
 {
   "symbol": "quartz",
   "name": "Sandclock",
-  "address": "0xbA8A621b4a54e61C442F5Ec623687e2a942225ef",
+  "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

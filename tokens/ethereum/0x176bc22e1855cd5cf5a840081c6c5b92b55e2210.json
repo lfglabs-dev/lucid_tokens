@@ -1,7 +1,7 @@
 {
   "symbol": "gbe",
   "name": "Gambex",
-  "address": "0x176BC22E1855Cd5cf5A840081C6c5b92b55E2210",
+  "address": "0x176bc22e1855cd5cf5a840081c6c5b92b55e2210",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

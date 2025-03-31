@@ -1,7 +1,7 @@
 {
   "symbol": "tking",
   "name": "Tiger King Coin",
-  "address": "0x24E89bDf2f65326b94E36978A7EDeAc63623DAFA",
+  "address": "0x24e89bdf2f65326b94e36978a7edeac63623dafa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

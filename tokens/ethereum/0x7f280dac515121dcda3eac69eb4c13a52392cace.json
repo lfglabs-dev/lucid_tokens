@@ -1,7 +1,7 @@
 {
   "symbol": "fnc",
   "name": "Fancy Games",
-  "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+  "address": "0x7f280dac515121dcda3eac69eb4c13a52392cace",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

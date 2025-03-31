@@ -1,7 +1,7 @@
 {
   "symbol": "naka",
   "name": "NakaChain",
-  "address": "0xfaE30394A76796dc3DF37c2714f5Fc12083DFDb0",
+  "address": "0xfae30394a76796dc3df37c2714f5fc12083dfdb0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

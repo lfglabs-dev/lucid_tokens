@@ -1,7 +1,7 @@
 {
   "symbol": "brwl",
   "name": "Blockchain Brawlers",
-  "address": "0x4086E77C5E993FDB90a406285d00111a974F877a",
+  "address": "0x4086e77c5e993fdb90a406285d00111a974f877a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x4086e77c5e993fdb90a406285d00111a974f877a",
-    "wax": "BRWL-wax-brawlertoken"
+    "ethereum": "0x4086e77c5e993fdb90a406285d00111a974f877a"
   }
 }

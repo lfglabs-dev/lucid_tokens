@@ -1,7 +1,7 @@
 {
   "symbol": "berry",
   "name": "Strawberry AI",
-  "address": "0xCb76314C2540199f4B844D4ebbC7998C604880cA",
+  "address": "0xcb76314c2540199f4b844d4ebbc7998c604880ca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xcb76314c2540199f4b844d4ebbc7998c604880ca",
-    "base": "0xdf36186772a8fda4be100dbacc0b48ef00c53089",
-    "solana": "D2tztvQKcmo7PUof8quQWAu3qXKwtiW1pLjvHLsUakv5"
+    "base": "0xdf36186772a8fda4be100dbacc0b48ef00c53089"
   }
 }

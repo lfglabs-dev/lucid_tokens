@@ -1,7 +1,7 @@
 {
   "symbol": "anc",
   "name": "Anchor Protocol",
-  "address": "0x0F3ADC247E91c3c50bC08721355A41037E89Bc20",
+  "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "terra": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
     "ethereum": "0x0f3adc247e91c3c50bc08721355a41037e89bc20"
   }
 }

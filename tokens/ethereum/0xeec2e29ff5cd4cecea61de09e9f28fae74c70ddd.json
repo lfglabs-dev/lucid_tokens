@@ -1,7 +1,7 @@
 {
   "symbol": "aitt",
   "name": "Aittcoin",
-  "address": "0xeEC2e29FF5CD4ceCea61De09e9f28Fae74c70dDD",
+  "address": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd",
-    "polygon-pos": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd",
-    "solana": "GPbNni4uWSEjSWQhJnv7ZYpjFE3znmi4594iEMndx95L"
+    "polygon-pos": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd"
   }
 }

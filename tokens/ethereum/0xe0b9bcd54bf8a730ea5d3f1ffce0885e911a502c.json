@@ -1,7 +1,7 @@
 {
   "symbol": "zum",
   "name": "ZUM",
-  "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+  "address": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

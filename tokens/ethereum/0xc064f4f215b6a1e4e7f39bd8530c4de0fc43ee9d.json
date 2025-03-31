@@ -1,7 +1,7 @@
 {
   "symbol": "lm",
   "name": "LeisureMeta",
-  "address": "0xc064F4F215B6A1E4e7F39bD8530C4dE0fC43ee9D",
+  "address": "0xc064f4f215b6a1e4e7f39bd8530c4de0fc43ee9d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

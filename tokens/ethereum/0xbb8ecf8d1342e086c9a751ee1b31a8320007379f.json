@@ -1,7 +1,7 @@
 {
   "symbol": "nxr",
   "name": "Nexara",
-  "address": "0xbB8eCf8d1342E086c9A751Ee1B31a8320007379f",
+  "address": "0xbb8ecf8d1342e086c9a751ee1b31a8320007379f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

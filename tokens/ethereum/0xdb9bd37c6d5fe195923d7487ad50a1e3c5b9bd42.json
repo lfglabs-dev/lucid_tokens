@@ -1,7 +1,7 @@
 {
   "symbol": "hgai",
   "name": "Hygea AI",
-  "address": "0xDB9Bd37c6D5Fe195923d7487Ad50A1E3C5b9BD42",
+  "address": "0xdb9bd37c6d5fe195923d7487ad50a1e3c5b9bd42",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

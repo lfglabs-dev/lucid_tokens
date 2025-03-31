@@ -1,7 +1,7 @@
 {
   "symbol": "cjpy",
   "name": "Convertible JPY Token",
-  "address": "0x1cfa5641c01406aB8AC350dEd7d735ec41298372",
+  "address": "0x1cfa5641c01406ab8ac350ded7d735ec41298372",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

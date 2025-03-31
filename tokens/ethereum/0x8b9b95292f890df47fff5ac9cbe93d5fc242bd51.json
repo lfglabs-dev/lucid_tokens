@@ -1,7 +1,7 @@
 {
   "symbol": "befi",
   "name": "BeFi Labs",
-  "address": "0x8b9b95292f890DF47fFf5aC9Cbe93d5fC242bd51",
+  "address": "0x8b9b95292f890df47fff5ac9cbe93d5fc242bd51",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

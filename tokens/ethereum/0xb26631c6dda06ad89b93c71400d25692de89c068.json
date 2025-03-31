@@ -1,7 +1,7 @@
 {
   "symbol": "minds",
   "name": "Minds",
-  "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+  "address": "0xb26631c6dda06ad89b93c71400d25692de89c068",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

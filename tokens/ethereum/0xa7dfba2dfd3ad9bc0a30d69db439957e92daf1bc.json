@@ -1,7 +1,7 @@
 {
   "symbol": "egold",
   "name": "Aryze's Digital Gold",
-  "address": "0xA7DfBA2DFd3aD9Bc0a30D69db439957e92Daf1Bc",
+  "address": "0xa7dfba2dfd3ad9bc0a30d69db439957e92daf1bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

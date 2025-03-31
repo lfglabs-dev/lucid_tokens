@@ -1,7 +1,7 @@
 {
   "symbol": "goe",
   "name": "God Of Ethereum",
-  "address": "0xCcC80Ce58995BAAE4E5867E5cde3bd9F8B242376",
+  "address": "0xccc80ce58995baae4e5867e5cde3bd9f8b242376",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

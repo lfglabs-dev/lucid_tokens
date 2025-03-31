@@ -1,7 +1,7 @@
 {
   "symbol": "anva",
   "name": "AlphaNova",
-  "address": "0x209a78d23f825950a5Df4D6D21288e5212B44F2c",
+  "address": "0x209a78d23f825950a5df4d6d21288e5212b44f2c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

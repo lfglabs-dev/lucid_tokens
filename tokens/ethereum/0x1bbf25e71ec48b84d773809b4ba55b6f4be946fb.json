@@ -1,7 +1,7 @@
 {
   "symbol": "vow",
   "name": "Vow",
-  "address": "0x1BBf25e71EC48B84d773809B4bA55B6F4bE946Fb",
+  "address": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

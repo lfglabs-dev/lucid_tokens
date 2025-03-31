@@ -1,7 +1,7 @@
 {
   "symbol": "gram",
   "name": "GRAM Ecosystem",
-  "address": "0x856D602E73545deAA1491a3726cF628d49f74F51",
+  "address": "0x856d602e73545deaa1491a3726cf628d49f74f51",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

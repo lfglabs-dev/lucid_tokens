@@ -1,7 +1,7 @@
 {
   "symbol": "realm",
   "name": "Realm",
-  "address": "0x464FdB8AFFC9bac185A7393fd4298137866DCFB8",
+  "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

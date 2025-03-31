@@ -1,7 +1,7 @@
 {
   "symbol": "dork",
   "name": "DORK",
-  "address": "0xAE3359ed3c567482FB0102C584c23daA2693eACf",
+  "address": "0xae3359ed3c567482fb0102c584c23daa2693eacf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "must",
   "name": "Must",
-  "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+  "address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

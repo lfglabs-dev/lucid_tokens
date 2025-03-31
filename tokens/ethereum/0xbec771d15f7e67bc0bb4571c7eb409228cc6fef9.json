@@ -1,7 +1,7 @@
 {
   "symbol": "brai",
   "name": "BribeAI",
-  "address": "0xbEc771D15F7E67bC0bb4571c7Eb409228cC6FeF9",
+  "address": "0xbec771d15f7e67bc0bb4571c7eb409228cc6fef9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

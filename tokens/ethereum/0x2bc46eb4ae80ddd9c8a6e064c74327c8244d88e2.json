@@ -1,7 +1,7 @@
 {
   "symbol": "svm",
   "name": "StratoVM",
-  "address": "0x2bc46Eb4ae80ddD9c8A6e064C74327C8244D88e2",
+  "address": "0x2bc46eb4ae80ddd9c8a6e064c74327c8244d88e2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x2bc46eb4ae80ddd9c8a6e064c74327c8244d88e2",
-    "solana": "9BpQUsVpGSBXX3fwi3U5Re12pufkiooxvVvoDCitFbJ5"
+    "ethereum": "0x2bc46eb4ae80ddd9c8a6e064c74327c8244d88e2"
   }
 }

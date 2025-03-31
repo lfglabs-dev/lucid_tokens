@@ -1,7 +1,7 @@
 {
   "symbol": "blast",
   "name": "BlastAI",
-  "address": "0x62431dE84c503e152A8957ff51c8945aaAA7D929",
+  "address": "0x62431de84c503e152a8957ff51c8945aaaa7d929",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "lily",
   "name": "Lily's Coin",
-  "address": "0x7ce89243Cc0d9e746609c57845ECCbD9bB4B7315",
+  "address": "0x7ce89243cc0d9e746609c57845eccbd9bb4b7315",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x7ce89243cc0d9e746609c57845eccbd9bb4b7315",
-    "solana": "Co5WwGeZfpfqGE1tUyAp1SBjcmumoY9sNN99MXRbX98K"
+    "ethereum": "0x7ce89243cc0d9e746609c57845eccbd9bb4b7315"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "argo",
   "name": "ArGoApp",
-  "address": "0x28Cca76f6e8eC81e4550ecd761f899110b060E97",
+  "address": "0x28cca76f6e8ec81e4550ecd761f899110b060e97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "jyai",
   "name": "Jerry The Turtle By Matt Furie",
-  "address": "0x4E9623B7e5b6438542458f5EE828d65c24d3AF8c",
+  "address": "0x4e9623b7e5b6438542458f5ee828d65c24d3af8c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

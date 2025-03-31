@@ -1,7 +1,7 @@
 {
   "symbol": "sha",
   "name": "Safe Haven",
-  "address": "0x40fEd5691e547885cABd7A2990De719DCc8497FC",
+  "address": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

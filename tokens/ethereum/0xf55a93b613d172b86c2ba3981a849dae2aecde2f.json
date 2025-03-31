@@ -1,7 +1,7 @@
 {
   "symbol": "yfx",
   "name": "Your Futures Exchange",
-  "address": "0xF55a93b613D172b86c2Ba3981a849DaE2aeCDE2f",
+  "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
-    "tron": "TAP7qf8Ao26ZAKYS5E6SGozUNoSLvBHsGa",
     "huobi-token": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
     "binance-smart-chain": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
     "arbitrum-one": "0x569deb225441fd18bde18aed53e2ec7eb4e10d93"

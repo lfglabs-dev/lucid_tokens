@@ -1,7 +1,7 @@
 {
   "symbol": "filter",
   "name": "Filter AI [OLD]",
-  "address": "0xeA4170A365952c666A9f34950771E51841732de9",
+  "address": "0xea4170a365952c666a9f34950771e51841732de9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

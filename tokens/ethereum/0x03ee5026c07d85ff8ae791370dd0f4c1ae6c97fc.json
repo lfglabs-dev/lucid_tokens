@@ -1,7 +1,7 @@
 {
   "symbol": "oxl",
   "name": "0x Leverage",
-  "address": "0x03EE5026c07d85ff8ae791370DD0F4C1aE6C97fc",
+  "address": "0x03ee5026c07d85ff8ae791370dd0f4c1ae6c97fc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ibit.d",
   "name": "Dinari IBIT",
-  "address": "0x3c4024408eFaC2DBF7ED453C95D9D97889E4846A",
+  "address": "0x3c4024408efac2dbf7ed453c95d9d97889e4846a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

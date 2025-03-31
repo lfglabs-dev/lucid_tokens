@@ -1,7 +1,7 @@
 {
   "symbol": "klaus",
   "name": "KLAUS",
-  "address": "0xb612bFC5cE2FB1337Bd29F5Af24ca85DbB181cE2",
+  "address": "0xb612bfc5ce2fb1337bd29f5af24ca85dbb181ce2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

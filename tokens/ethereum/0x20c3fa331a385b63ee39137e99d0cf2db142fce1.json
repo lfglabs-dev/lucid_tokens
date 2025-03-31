@@ -1,7 +1,7 @@
 {
   "symbol": "shil",
   "name": "Shila Inu",
-  "address": "0x20c3fa331A385b63EE39137e99d0cF2db142fCe1",
+  "address": "0x20c3fa331a385b63ee39137e99d0cf2db142fce1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

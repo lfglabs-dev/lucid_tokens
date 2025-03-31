@@ -1,7 +1,7 @@
 {
   "symbol": "coomer",
   "name": "COOMER",
-  "address": "0x494930DabCfa57748A4c4788c0054F723A789047",
+  "address": "0x494930dabcfa57748a4c4788c0054f723a789047",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

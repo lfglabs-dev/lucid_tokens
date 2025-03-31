@@ -1,7 +1,7 @@
 {
   "symbol": "biot",
   "name": "Bio Passport",
-  "address": "0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
+  "address": "0xc07a150ecadf2cc352f5586396e344a6b17625eb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

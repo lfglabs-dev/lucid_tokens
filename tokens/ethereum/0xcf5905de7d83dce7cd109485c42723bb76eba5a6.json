@@ -1,7 +1,7 @@
 {
   "symbol": "ero.d",
   "name": "Dinari ERO",
-  "address": "0xcF5905De7d83Dce7CD109485C42723bB76EBA5a6",
+  "address": "0xcf5905de7d83dce7cd109485c42723bb76eba5a6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

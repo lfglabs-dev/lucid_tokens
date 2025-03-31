@@ -1,7 +1,7 @@
 {
   "symbol": "cai",
   "name": "Chasm",
-  "address": "0x19247618D79E3fc4d4866169789E4B8eEDef52E6",
+  "address": "0x19247618d79e3fc4d4866169789e4b8eedef52e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

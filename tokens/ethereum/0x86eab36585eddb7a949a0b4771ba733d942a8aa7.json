@@ -1,7 +1,7 @@
 {
   "symbol": "reddit",
   "name": "Reddit",
-  "address": "0x86Eab36585EDDb7a949a0B4771BA733D942A8AA7",
+  "address": "0x86eab36585eddb7a949a0b4771ba733d942a8aa7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

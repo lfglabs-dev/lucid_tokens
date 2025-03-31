@@ -1,7 +1,7 @@
 {
   "symbol": "hokk",
   "name": "HOKK Finance",
-  "address": "0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
+  "address": "0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

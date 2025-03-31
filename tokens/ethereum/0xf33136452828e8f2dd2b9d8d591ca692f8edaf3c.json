@@ -1,7 +1,7 @@
 {
   "symbol": "gate",
   "name": "NexGATE",
-  "address": "0xf33136452828e8f2dd2b9D8D591cA692F8EDAf3C",
+  "address": "0xf33136452828e8f2dd2b9d8d591ca692f8edaf3c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

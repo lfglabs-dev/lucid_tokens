@@ -1,7 +1,7 @@
 {
   "symbol": "bright",
   "name": "Bright Union",
-  "address": "0xBEaB712832112bd7664226db7CD025B153D3af55",
+  "address": "0xbeab712832112bd7664226db7cd025b153d3af55",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

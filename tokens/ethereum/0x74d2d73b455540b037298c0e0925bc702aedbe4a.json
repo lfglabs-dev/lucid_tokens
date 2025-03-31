@@ -1,7 +1,7 @@
 {
   "symbol": "meow",
   "name": "Schrodinger",
-  "address": "0x74d2d73B455540B037298c0e0925BC702AEDbE4a",
+  "address": "0x74d2d73b455540b037298c0e0925bc702aedbe4a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

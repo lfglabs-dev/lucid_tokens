@@ -1,7 +1,7 @@
 {
   "symbol": "brg",
   "name": "Bridge Oracle",
-  "address": "0xC9C4fd7579133701FA2769b6955e7E56bb386DB1",
+  "address": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "binance-smart-chain": "0xac45475abe6f9516e233a824aa013933b61bbb5c",
-    "nuls": "NULSd6Hgu5DRgAg11zwyq1C1NGpKBGYUm3Uhu",
     "ethereum": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
     "arbitrum-one": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1"
   }

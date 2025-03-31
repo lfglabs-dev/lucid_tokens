@@ -1,7 +1,7 @@
 {
   "symbol": "time",
   "name": "Time Alliance Guild Time",
-  "address": "0xEf89c37fe9E5c906b404cd7Edae4a2992b5d25Fa",
+  "address": "0xef89c37fe9e5c906b404cd7edae4a2992b5d25fa",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

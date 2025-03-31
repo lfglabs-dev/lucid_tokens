@@ -1,7 +1,7 @@
 {
   "symbol": "dgold",
   "name": "DataGold",
-  "address": "0x08d9040214c4AbA39292Fd2e7De20BbBA7A8DCe4",
+  "address": "0x08d9040214c4aba39292fd2e7de20bbba7a8dce4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

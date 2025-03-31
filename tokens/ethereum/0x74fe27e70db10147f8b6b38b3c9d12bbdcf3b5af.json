@@ -1,7 +1,7 @@
 {
   "symbol": "iryde",
   "name": "iRYDE",
-  "address": "0x74fE27e70db10147F8B6b38b3C9d12BBdcf3b5AF",
+  "address": "0x74fe27e70db10147f8b6b38b3c9d12bbdcf3b5af",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

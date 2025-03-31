@@ -1,7 +1,7 @@
 {
   "symbol": "xnk",
   "name": "Kinka",
-  "address": "0x722a89F1b925fE41883978219c2176AECc7D6699",
+  "address": "0x722a89f1b925fe41883978219c2176aecc7d6699",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ndx",
   "name": "Indexed Finance",
-  "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+  "address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "$nxcp",
   "name": "Nyx Cipher",
-  "address": "0x96665680f4889891f3209713cb9a8205Dce7278D",
+  "address": "0x96665680f4889891f3209713cb9a8205dce7278d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

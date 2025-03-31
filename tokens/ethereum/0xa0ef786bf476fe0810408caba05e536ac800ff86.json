@@ -1,7 +1,7 @@
 {
   "symbol": "myria",
   "name": "Myria",
-  "address": "0xA0Ef786Bf476fE0810408CaBA05E536aC800ff86",
+  "address": "0xa0ef786bf476fe0810408caba05e536ac800ff86",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

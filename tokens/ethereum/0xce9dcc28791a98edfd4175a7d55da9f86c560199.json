@@ -1,7 +1,7 @@
 {
   "symbol": "arai",
   "name": "Archi AI",
-  "address": "0xCe9dcc28791a98EDfd4175a7d55da9f86C560199",
+  "address": "0xce9dcc28791a98edfd4175a7d55da9f86c560199",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

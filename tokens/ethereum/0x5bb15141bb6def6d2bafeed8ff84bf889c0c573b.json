@@ -1,7 +1,7 @@
 {
   "symbol": "lvm",
   "name": "LakeViewMeta",
-  "address": "0x5BB15141bb6DeF6d2BafeED8ff84BF889c0C573B",
+  "address": "0x5bb15141bb6def6d2bafeed8ff84bf889c0c573b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

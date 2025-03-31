@@ -1,7 +1,7 @@
 {
   "symbol": "brainlet",
   "name": "BRAINLET",
-  "address": "0x0000BdAA645097eF80F9d475f341d0d107A45B3A",
+  "address": "0x0000bdaa645097ef80f9d475f341d0d107a45b3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

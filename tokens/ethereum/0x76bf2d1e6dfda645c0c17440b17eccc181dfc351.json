@@ -1,7 +1,7 @@
 {
   "symbol": "ybeth",
   "name": "Veno Yield Bearing ETH",
-  "address": "0x76bf2D1e6dFda645c0c17440B17Eccc181dfC351",
+  "address": "0x76bf2d1e6dfda645c0c17440b17eccc181dfc351",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

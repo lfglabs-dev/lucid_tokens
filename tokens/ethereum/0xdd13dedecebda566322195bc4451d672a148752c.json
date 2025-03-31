@@ -1,7 +1,7 @@
 {
   "symbol": "primal",
   "name": "PRIMAL",
-  "address": "0xDd13DEdeCEbDA566322195bc4451D672A148752C",
+  "address": "0xdd13dedecebda566322195bc4451d672a148752c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

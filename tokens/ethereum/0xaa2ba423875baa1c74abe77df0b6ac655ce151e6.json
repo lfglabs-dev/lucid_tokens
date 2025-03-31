@@ -1,7 +1,7 @@
 {
   "symbol": "crow",
   "name": "Crow",
-  "address": "0xaa2ba423875baA1C74aBe77Df0B6aC655CE151e6",
+  "address": "0xaa2ba423875baa1c74abe77df0b6ac655ce151e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

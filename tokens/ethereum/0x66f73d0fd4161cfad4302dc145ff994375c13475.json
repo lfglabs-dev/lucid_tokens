@@ -1,7 +1,7 @@
 {
   "symbol": "dxgm",
   "name": "DexGame",
-  "address": "0x66F73D0fD4161cfad4302DC145Ff994375c13475",
+  "address": "0x66f73d0fd4161cfad4302dc145ff994375c13475",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

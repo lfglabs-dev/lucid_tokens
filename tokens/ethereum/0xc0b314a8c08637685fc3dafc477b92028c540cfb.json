@@ -1,7 +1,7 @@
 {
   "symbol": "wom",
   "name": "Wombat Exchange",
-  "address": "0xc0B314a8c08637685Fc3daFC477b92028c540CFB",
+  "address": "0xc0b314a8c08637685fc3dafc477b92028c540cfb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

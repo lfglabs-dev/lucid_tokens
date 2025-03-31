@@ -1,7 +1,7 @@
 {
   "symbol": "maiv",
   "name": "Multi Asset Investment Vehicle",
-  "address": "0x39903a1A6f289A67E0DE94096915c4ccD506Ab2a",
+  "address": "0x39903a1a6f289a67e0de94096915c4ccd506ab2a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

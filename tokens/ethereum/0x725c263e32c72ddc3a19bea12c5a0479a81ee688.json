@@ -1,7 +1,7 @@
 {
   "symbol": "bmi",
   "name": "Bridge Mutual",
-  "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+  "address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

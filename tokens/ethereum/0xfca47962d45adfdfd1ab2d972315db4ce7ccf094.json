@@ -1,7 +1,7 @@
 {
   "symbol": "ixt",
   "name": "iXledger",
-  "address": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
+  "address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

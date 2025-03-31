@@ -1,7 +1,7 @@
 {
   "symbol": "deusd",
   "name": "Elixir deUSD",
-  "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+  "address": "0x15700b564ca08d9439c58ca5053166e8317aa138",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

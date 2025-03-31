@@ -1,7 +1,7 @@
 {
   "symbol": "wagmi",
   "name": "WAGMICOIN",
-  "address": "0x5F4aB80c2c7755d565371236F090597921d18Ee5",
+  "address": "0x5f4ab80c2c7755d565371236f090597921d18ee5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

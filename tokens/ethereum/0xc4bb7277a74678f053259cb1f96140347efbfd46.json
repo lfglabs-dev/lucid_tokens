@@ -1,7 +1,7 @@
 {
   "symbol": "coc",
   "name": "Coin of the champions",
-  "address": "0xc4BB7277A74678f053259CB1F96140347efbfd46",
+  "address": "0xc4bb7277a74678f053259cb1f96140347efbfd46",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

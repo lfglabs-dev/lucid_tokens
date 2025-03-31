@@ -1,7 +1,7 @@
 {
   "symbol": "bio",
   "name": "Bionergy",
-  "address": "0xdAEdBc924DBBCCeF96C25bb84806e794a4fF3140",
+  "address": "0xdaedbc924dbbccef96c25bb84806e794a4ff3140",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

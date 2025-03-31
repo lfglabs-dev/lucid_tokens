@@ -1,7 +1,7 @@
 {
   "symbol": "psl",
   "name": "Pastel",
-  "address": "0xC775C0C30840Cb9F51e21061B054ebf1A00aCC29",
+  "address": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "trn",
   "name": "Tereon",
-  "address": "0xa6c1a66A3Ac742F1885207253FC776d94C8BEEd5",
+  "address": "0xa6c1a66a3ac742f1885207253fc776d94c8beed5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

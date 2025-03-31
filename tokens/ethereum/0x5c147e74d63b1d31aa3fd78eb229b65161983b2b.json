@@ -1,7 +1,7 @@
 {
   "symbol": "wflow",
   "name": "Wrapped Flow",
-  "address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b",
+  "address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

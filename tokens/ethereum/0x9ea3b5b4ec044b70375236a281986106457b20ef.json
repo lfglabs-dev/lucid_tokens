@@ -1,7 +1,7 @@
 {
   "symbol": "delta",
   "name": "Delta Financial",
-  "address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
+  "address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

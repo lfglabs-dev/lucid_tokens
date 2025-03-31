@@ -1,7 +1,7 @@
 {
   "symbol": "kek",
   "name": "El Risitas",
-  "address": "0xc0200B1c6598a996a339196259fFdC30C1f44339",
+  "address": "0xc0200b1c6598a996a339196259ffdc30c1f44339",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

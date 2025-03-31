@@ -1,7 +1,7 @@
 {
   "symbol": "bonki",
   "name": "BONK Inu",
-  "address": "0xF995771A957C19319a7d8D58B4082B049420340F",
+  "address": "0xf995771a957c19319a7d8d58b4082b049420340f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

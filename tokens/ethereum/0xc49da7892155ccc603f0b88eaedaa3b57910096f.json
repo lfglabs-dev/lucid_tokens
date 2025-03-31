@@ -1,7 +1,7 @@
 {
   "symbol": "cvx.d",
   "name": "Dinari CVX",
-  "address": "0xC49da7892155Ccc603f0B88EAEDAA3b57910096f",
+  "address": "0xc49da7892155ccc603f0b88eaedaa3b57910096f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

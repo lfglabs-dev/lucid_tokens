@@ -1,7 +1,7 @@
 {
   "symbol": "boxx.d",
   "name": "Dinari BOXX",
-  "address": "0x088828F0A8e2dC8511E957230f4681371451fa1d",
+  "address": "0x088828f0a8e2dc8511e957230f4681371451fa1d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

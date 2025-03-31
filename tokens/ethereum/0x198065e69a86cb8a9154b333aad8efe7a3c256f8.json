@@ -1,7 +1,7 @@
 {
   "symbol": "koy",
   "name": "Koyo",
-  "address": "0x198065e69A86cb8a9154B333AAD8eFE7A3c256F8",
+  "address": "0x198065e69a86cb8a9154b333aad8efe7a3c256f8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

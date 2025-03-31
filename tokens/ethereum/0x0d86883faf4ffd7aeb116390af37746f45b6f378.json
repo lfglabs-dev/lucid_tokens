@@ -1,7 +1,7 @@
 {
   "symbol": "usd3",
   "name": "Web 3 Dollar",
-  "address": "0x0d86883FAf4FfD7aEb116390af37746F45b6f378",
+  "address": "0x0d86883faf4ffd7aeb116390af37746f45b6f378",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

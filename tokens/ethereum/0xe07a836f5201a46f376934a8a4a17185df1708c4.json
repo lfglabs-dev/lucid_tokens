@@ -1,7 +1,7 @@
 {
   "symbol": "champz",
   "name": "Champignons of Arborethia",
-  "address": "0xe07A836f5201A46f376934A8A4a17185Df1708c4",
+  "address": "0xe07a836f5201a46f376934a8a4a17185df1708c4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

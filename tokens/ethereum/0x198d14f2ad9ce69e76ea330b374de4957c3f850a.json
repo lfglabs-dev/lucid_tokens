@@ -1,7 +1,7 @@
 {
   "symbol": "nft",
   "name": "APENFT",
-  "address": "0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a",
+  "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "tron": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
     "ethereum": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
     "binance-smart-chain": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca"
   }

@@ -1,7 +1,7 @@
 {
   "symbol": "bull",
   "name": "ETH BULL",
-  "address": "0x8C41455AAA8D6aba3150058D4964349294Bf78A3",
+  "address": "0x8c41455aaa8d6aba3150058d4964349294bf78a3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

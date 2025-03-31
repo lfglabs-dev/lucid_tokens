@@ -1,7 +1,7 @@
 {
   "symbol": "plt",
   "name": "Palette",
-  "address": "0x553Afe6468949E0685959022217336717dF5Fbe8",
+  "address": "0x553afe6468949e0685959022217336717df5fbe8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

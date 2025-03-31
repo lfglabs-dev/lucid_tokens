@@ -1,7 +1,7 @@
 {
   "symbol": "fear",
   "name": "FEAR",
-  "address": "0x88A9A52F944315D5B4e917b9689e65445C401E83",
+  "address": "0x88a9a52f944315d5b4e917b9689e65445c401e83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

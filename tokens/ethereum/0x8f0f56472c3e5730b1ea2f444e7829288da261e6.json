@@ -1,7 +1,7 @@
 {
   "symbol": "rmav",
   "name": "Rogue MAV",
-  "address": "0x8F0F56472C3E5730B1EA2f444E7829288Da261E6",
+  "address": "0x8f0f56472c3e5730b1ea2f444e7829288da261e6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

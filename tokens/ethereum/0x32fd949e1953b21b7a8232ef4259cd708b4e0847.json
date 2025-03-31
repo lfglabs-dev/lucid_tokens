@@ -1,7 +1,7 @@
 {
   "symbol": "hbt",
   "name": "HyperBC",
-  "address": "0x32fd949E1953b21b7a8232EF4259Cd708B4e0847",
+  "address": "0x32fd949e1953b21b7a8232ef4259cd708b4e0847",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

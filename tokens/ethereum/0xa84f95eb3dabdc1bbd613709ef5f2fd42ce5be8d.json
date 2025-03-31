@@ -1,7 +1,7 @@
 {
   "symbol": "eai",
   "name": "EternalAI",
-  "address": "0xa84f95eb3DaBdc1bbD613709ef5F2fD42CE5bE8d",
+  "address": "0xa84f95eb3dabdc1bbd613709ef5f2fd42ce5be8d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

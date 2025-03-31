@@ -1,7 +1,7 @@
 {
   "symbol": "gmrt",
   "name": "The Game Company",
-  "address": "0x6967F0974d76d34e140caE27efeA32CDf546b58E",
+  "address": "0x6967f0974d76d34e140cae27efea32cdf546b58e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

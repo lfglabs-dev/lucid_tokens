@@ -1,7 +1,7 @@
 {
   "symbol": "hera",
   "name": "Hera Finance",
-  "address": "0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB",
+  "address": "0xa2c2c937333165d4c5f2dc5f31a43e1239fecfeb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

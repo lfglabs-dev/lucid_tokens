@@ -1,7 +1,7 @@
 {
   "symbol": "adx",
   "name": "AnyDex",
-  "address": "0x83389cb4e4F0bFF39915efa839CB827460e70D26",
+  "address": "0x83389cb4e4f0bff39915efa839cb827460e70d26",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

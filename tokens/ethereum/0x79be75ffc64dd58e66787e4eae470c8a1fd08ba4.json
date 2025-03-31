@@ -1,7 +1,7 @@
 {
   "symbol": "aammdai",
   "name": "Aave AMM DAI",
-  "address": "0x79bE75FFC64DD58e66787E4Eae470c8a1FD08ba4",
+  "address": "0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

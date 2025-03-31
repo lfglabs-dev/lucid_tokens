@@ -1,7 +1,7 @@
 {
   "symbol": "dust",
   "name": "Dust Protocol",
-  "address": "0xB5b1b659dA79A2507C27AaD509f15B4874EDc0Cc",
+  "address": "0xb5b1b659da79a2507c27aad509f15b4874edc0cc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xb5b1b659da79a2507c27aad509f15b4874edc0cc",
-    "polygon-pos": "0x4987a49c253c38b3259092e9aac10ec0c7ef7542",
-    "solana": "DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ"
+    "polygon-pos": "0x4987a49c253c38b3259092e9aac10ec0c7ef7542"
   }
 }

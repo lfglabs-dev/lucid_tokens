@@ -1,7 +1,7 @@
 {
   "symbol": "dar",
   "name": "Mines of Dalarnia",
-  "address": "0x081131434f93063751813C619Ecca9C4dC7862a3",
+  "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

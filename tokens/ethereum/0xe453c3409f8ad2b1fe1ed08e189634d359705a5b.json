@@ -1,7 +1,7 @@
 {
   "symbol": "dgi",
   "name": "DGI Game",
-  "address": "0xE453C3409f8Ad2B1FE1ED08E189634d359705A5B",
+  "address": "0xe453c3409f8ad2b1fe1ed08e189634d359705a5b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

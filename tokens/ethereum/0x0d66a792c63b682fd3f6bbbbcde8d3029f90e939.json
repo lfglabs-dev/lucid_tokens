@@ -1,7 +1,7 @@
 {
   "symbol": "crx",
   "name": "CREATX",
-  "address": "0x0D66a792C63b682fD3f6BbbBCDe8D3029F90e939",
+  "address": "0x0d66a792c63b682fd3f6bbbbcde8d3029f90e939",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

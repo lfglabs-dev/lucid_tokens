@@ -1,7 +1,7 @@
 {
   "symbol": "dose",
   "name": "DOSE",
-  "address": "0xb31eF9e52d94D4120eb44Fe1ddfDe5B4654A6515",
+  "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

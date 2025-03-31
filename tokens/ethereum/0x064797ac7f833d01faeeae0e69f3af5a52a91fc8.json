@@ -1,7 +1,7 @@
 {
   "symbol": "su",
   "name": "Smol Su",
-  "address": "0x064797Ac7f833D01FaeeAe0E69F3aF5a52a91fC8",
+  "address": "0x064797ac7f833d01faeeae0e69f3af5a52a91fc8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

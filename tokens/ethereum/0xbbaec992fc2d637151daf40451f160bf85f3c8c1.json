@@ -1,7 +1,7 @@
 {
   "symbol": "usdm",
   "name": "USD Mapped Token",
-  "address": "0xbbAec992fc2d637151dAF40451f160bF85f3C8C1",
+  "address": "0xbbaec992fc2d637151daf40451f160bf85f3c8c1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

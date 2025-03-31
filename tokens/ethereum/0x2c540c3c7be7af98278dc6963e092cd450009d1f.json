@@ -1,7 +1,7 @@
 {
   "symbol": "sparko",
   "name": "Sparko",
-  "address": "0x2C540c3c7BE7aF98278Dc6963e092cD450009d1F",
+  "address": "0x2c540c3c7be7af98278dc6963e092cd450009d1f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

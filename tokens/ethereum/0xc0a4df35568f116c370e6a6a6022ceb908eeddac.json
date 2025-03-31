@@ -1,7 +1,7 @@
 {
   "symbol": "ux",
   "name": "UX Chain",
-  "address": "0xc0a4Df35568F116C370E6a6A6022Ceb908eedDaC",
+  "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
-    "osmosis": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C"
+    "ethereum": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac"
   }
 }

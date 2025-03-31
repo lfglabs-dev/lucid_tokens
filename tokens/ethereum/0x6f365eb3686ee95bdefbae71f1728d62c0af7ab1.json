@@ -1,7 +1,7 @@
 {
   "symbol": "aither",
   "name": "Aither",
-  "address": "0x6f365eb3686eE95BdefbAe71f1728D62C0af7Ab1",
+  "address": "0x6f365eb3686ee95bdefbae71f1728d62c0af7ab1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

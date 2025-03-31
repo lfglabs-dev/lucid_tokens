@@ -1,7 +1,7 @@
 {
   "symbol": "kzen",
   "name": "Kaizen.Finance",
-  "address": "0x4550003152F12014558e5CE025707E4DD841100F",
+  "address": "0x4550003152f12014558e5ce025707e4dd841100f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "polygon-pos": "0x4550003152f12014558e5ce025707e4dd841100f",
     "ethereum": "0x4550003152f12014558e5ce025707e4dd841100f",
-    "binance-smart-chain": "0x4550003152f12014558e5ce025707e4dd841100f",
-    "solana": "kZEn3aDxEzcFADPe2VQ6WcJRbS1hVGjUcgCw4HiuYSU"
+    "binance-smart-chain": "0x4550003152f12014558e5ce025707e4dd841100f"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "cros",
   "name": "Cros",
-  "address": "0x5A59dD979754B09EA686ce93C98D4CE8bDCb43F2",
+  "address": "0x5a59dd979754b09ea686ce93c98d4ce8bdcb43f2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

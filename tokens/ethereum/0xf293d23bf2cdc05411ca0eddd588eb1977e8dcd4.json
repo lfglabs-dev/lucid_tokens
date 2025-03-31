@@ -1,7 +1,7 @@
 {
   "symbol": "sylo",
   "name": "Sylo",
-  "address": "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4",
+  "address": "0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

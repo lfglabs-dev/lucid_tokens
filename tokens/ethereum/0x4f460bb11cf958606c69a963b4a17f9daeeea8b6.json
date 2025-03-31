@@ -1,7 +1,7 @@
 {
   "symbol": "fxusdc",
   "name": "f(x) Protocol Morpho USDC",
-  "address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
+  "address": "0x4f460bb11cf958606c69a963b4a17f9daeeea8b6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

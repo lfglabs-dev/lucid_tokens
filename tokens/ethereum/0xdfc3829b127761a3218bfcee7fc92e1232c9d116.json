@@ -1,7 +1,7 @@
 {
   "symbol": "prcy",
   "name": "PRivaCY Coin",
-  "address": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
+  "address": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
-    "tron": "TYV5eu6UgSPtxVLkPD9YfxmUEcXhum35yS",
     "binance-smart-chain": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
     "polygon-pos": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116"
   }

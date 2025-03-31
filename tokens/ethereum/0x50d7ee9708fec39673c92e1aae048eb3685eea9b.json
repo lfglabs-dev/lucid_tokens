@@ -1,7 +1,7 @@
 {
   "symbol": "ginnan",
   "name": "Ginnan",
-  "address": "0x50D7ee9708FEc39673c92e1AaE048EB3685eEA9b",
+  "address": "0x50d7ee9708fec39673c92e1aae048eb3685eea9b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

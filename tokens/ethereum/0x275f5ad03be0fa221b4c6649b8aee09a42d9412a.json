@@ -1,7 +1,7 @@
 {
   "symbol": "mona",
   "name": "Monavale",
-  "address": "0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A",
+  "address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

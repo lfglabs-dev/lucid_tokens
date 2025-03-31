@@ -1,7 +1,7 @@
 {
   "symbol": "mootun",
   "name": "Moo Tun",
-  "address": "0x2BcbEC0296cDDDa988eA88031e43Fe247fa6D341",
+  "address": "0x2bcbec0296cddda988ea88031e43fe247fa6d341",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

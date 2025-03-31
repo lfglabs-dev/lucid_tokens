@@ -1,7 +1,7 @@
 {
   "symbol": "pipo",
   "name": "Pipo",
-  "address": "0xa73B792906c79509d73FDfaAa78561e195010706",
+  "address": "0xa73b792906c79509d73fdfaaa78561e195010706",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

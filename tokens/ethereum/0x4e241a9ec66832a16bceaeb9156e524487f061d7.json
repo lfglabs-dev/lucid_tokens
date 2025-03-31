@@ -1,7 +1,7 @@
 {
   "symbol": "etf",
   "name": "ETF Rocks",
-  "address": "0x4E241A9EC66832a16bceaeB9156E524487f061D7",
+  "address": "0x4e241a9ec66832a16bceaeb9156e524487f061d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "soph",
   "name": "SophiaVerse",
-  "address": "0x73fBD93bFDa83B111DdC092aa3a4ca77fD30d380",
+  "address": "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

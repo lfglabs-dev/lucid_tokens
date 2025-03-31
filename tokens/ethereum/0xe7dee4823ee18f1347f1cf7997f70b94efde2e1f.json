@@ -1,7 +1,7 @@
 {
   "symbol": "form",
   "name": "Form",
-  "address": "0xE7deE4823EE18F1347F1Cf7997f70B94eFDe2E1F",
+  "address": "0xe7dee4823ee18f1347f1cf7997f70b94efde2e1f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

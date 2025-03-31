@@ -1,7 +1,7 @@
 {
   "symbol": "ll",
   "name": "LightLink",
-  "address": "0x0921799CB1d702148131024d18fCdE022129Dc73",
+  "address": "0x0921799cb1d702148131024d18fcde022129dc73",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mfers",
   "name": "MFERS",
-  "address": "0xaD913DCD987fE54cE823E4b755F90598Cd62bb15",
+  "address": "0xad913dcd987fe54ce823e4b755f90598cd62bb15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

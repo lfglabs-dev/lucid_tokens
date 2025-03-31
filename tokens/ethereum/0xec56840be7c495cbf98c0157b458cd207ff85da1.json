@@ -1,7 +1,7 @@
 {
   "symbol": "wruni",
   "name": "Wrapped RUNI",
-  "address": "0xEC56840be7C495CBf98c0157B458cD207Ff85Da1",
+  "address": "0xec56840be7c495cbf98c0157b458cd207ff85da1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

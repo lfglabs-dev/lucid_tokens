@@ -1,7 +1,7 @@
 {
   "symbol": "sfrax",
   "name": "Staked FRAX",
-  "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
+  "address": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "guy",
   "name": "Family Guy",
-  "address": "0x4743a7a193cdF202035e9Bc6830A07f1607630C4",
+  "address": "0x4743a7a193cdf202035e9bc6830a07f1607630c4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

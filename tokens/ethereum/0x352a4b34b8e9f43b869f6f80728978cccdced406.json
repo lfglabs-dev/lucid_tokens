@@ -1,7 +1,7 @@
 {
   "symbol": "sdlx",
   "name": "SoundLinX",
-  "address": "0x352A4B34B8e9f43B869F6F80728978CCcDCED406",
+  "address": "0x352a4b34b8e9f43b869f6f80728978cccdced406",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

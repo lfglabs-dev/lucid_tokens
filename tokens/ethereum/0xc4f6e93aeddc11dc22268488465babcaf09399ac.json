@@ -1,7 +1,7 @@
 {
   "symbol": "hi",
   "name": "hi Dollar",
-  "address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+  "address": "0xc4f6e93aeddc11dc22268488465babcaf09399ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

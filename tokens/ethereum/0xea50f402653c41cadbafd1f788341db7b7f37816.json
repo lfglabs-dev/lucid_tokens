@@ -1,7 +1,7 @@
 {
   "symbol": "sgyd",
   "name": "sGYD",
-  "address": "0xeA50f402653c41cAdbaFD1f788341dB7B7F37816",
+  "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

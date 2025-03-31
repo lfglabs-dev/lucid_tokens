@@ -1,7 +1,7 @@
 {
   "symbol": "mndcc",
   "name": "Mondo Community Coin",
-  "address": "0xCDb9D30a3BA48CdfCB0EcbE19317E6cf783672f1",
+  "address": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

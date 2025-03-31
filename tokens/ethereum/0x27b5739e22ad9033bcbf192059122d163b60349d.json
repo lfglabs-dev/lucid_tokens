@@ -1,7 +1,7 @@
 {
   "symbol": "st-ycrv",
   "name": "Staked Yearn CRV Vault",
-  "address": "0x27B5739e22ad9033bcBf192059122d163b60349D",
+  "address": "0x27b5739e22ad9033bcbf192059122d163b60349d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

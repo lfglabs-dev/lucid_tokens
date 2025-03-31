@@ -1,7 +1,7 @@
 {
   "symbol": "boost",
   "name": "Boost",
-  "address": "0x302CAe5dcf8f051d0177043C3438020b89b33218",
+  "address": "0x302cae5dcf8f051d0177043c3438020b89b33218",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

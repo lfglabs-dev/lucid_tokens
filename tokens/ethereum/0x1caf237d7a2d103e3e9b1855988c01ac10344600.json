@@ -1,7 +1,7 @@
 {
   "symbol": "lexi",
   "name": "LexiAI",
-  "address": "0x1cAf237D7A2D103e3e9b1855988C01ac10344600",
+  "address": "0x1caf237d7a2d103e3e9b1855988c01ac10344600",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

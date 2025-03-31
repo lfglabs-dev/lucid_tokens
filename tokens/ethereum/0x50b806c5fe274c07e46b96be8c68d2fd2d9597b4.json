@@ -1,7 +1,7 @@
 {
   "symbol": "tucker",
   "name": "TUCKER CARLSON",
-  "address": "0x50B806C5fe274c07e46B96be8C68D2Fd2d9597B4",
+  "address": "0x50b806c5fe274c07e46b96be8c68d2fd2d9597b4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

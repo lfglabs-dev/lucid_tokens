@@ -1,7 +1,7 @@
 {
   "symbol": "ibeth",
   "name": "Interest Bearing ETH",
-  "address": "0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A",
+  "address": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

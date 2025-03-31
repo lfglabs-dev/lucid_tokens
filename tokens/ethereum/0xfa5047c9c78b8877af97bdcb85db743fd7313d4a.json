@@ -1,7 +1,7 @@
 {
   "symbol": "rook",
   "name": "Rook",
-  "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+  "address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
     "harmony-shard-0": "0x08310baf9deb5f13b885edf5eea6fd19dc21af3a",
-    "energi": "0xf653d401a6af0ec568183d9d0714e3c5e61691d2",
-    "sora": "0x00f58df67a15fe6c45d122767251c8660f33a2c544b5e2b70084c465b7cf84e7"
+    "energi": "0xf653d401a6af0ec568183d9d0714e3c5e61691d2"
   }
 }

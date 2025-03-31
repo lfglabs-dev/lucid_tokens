@@ -1,7 +1,7 @@
 {
   "symbol": "mrch",
   "name": "MerchDAO",
-  "address": "0xBeD4AB0019ff361d83ddeB74883DAC8a70f5ea1e",
+  "address": "0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

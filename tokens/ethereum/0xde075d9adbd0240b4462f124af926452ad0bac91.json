@@ -1,7 +1,7 @@
 {
   "symbol": "bbf",
   "name": "Bubblefong",
-  "address": "0xDE075D9ADbD0240b4462F124af926452Ad0BAC91",
+  "address": "0xde075d9adbd0240b4462f124af926452ad0bac91",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

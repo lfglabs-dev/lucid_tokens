@@ -1,7 +1,7 @@
 {
   "symbol": "evoai",
   "name": "EvolvAi",
-  "address": "0x770880c3927E63e31d4B90314f7A37e09fBbF2Fd",
+  "address": "0x770880c3927e63e31d4b90314f7a37e09fbbf2fd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

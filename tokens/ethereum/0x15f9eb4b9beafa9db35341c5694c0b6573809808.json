@@ -1,7 +1,7 @@
 {
   "symbol": "deda",
   "name": "DedaCoin",
-  "address": "0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808",
+  "address": "0x15f9eb4b9beafa9db35341c5694c0b6573809808",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

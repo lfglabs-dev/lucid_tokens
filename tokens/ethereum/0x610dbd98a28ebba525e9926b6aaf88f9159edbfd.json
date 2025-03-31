@@ -1,7 +1,7 @@
 {
   "symbol": "nstr",
   "name": "Nostra",
-  "address": "0x610dBd98A28EbbA525e9926b6aaF88f9159edbfd",
+  "address": "0x610dbd98a28ebba525e9926b6aaf88f9159edbfd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,9 +11,7 @@
   },
   "platforms": {
     "ethereum": "0x610dbd98a28ebba525e9926b6aaf88f9159edbfd",
-    "starknet": "0xc530f2c0aa4c16a0806365b0898499fba372e5df7a7172dc6fe9ba777e8007",
     "arbitrum-one": "0x6d7187220f769bde541ff51dd37ee07416f861d2",
-    "base": "0x08d7ea3c148672c4b03999eb0d0467733da2db6a",
-    "solana": "F2HE9krU9HkpnYvv9LKom3hB3Nvm8uZaThrmiE22Zdpy"
+    "base": "0x08d7ea3c148672c4b03999eb0d0467733da2db6a"
   }
 }

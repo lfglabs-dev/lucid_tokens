@@ -1,7 +1,7 @@
 {
   "symbol": "nvir",
   "name": "NvirWorld",
-  "address": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
+  "address": "0x9d71ce49ab8a0e6d2a1e7bfb89374c9392fd6804",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

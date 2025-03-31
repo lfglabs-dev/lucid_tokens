@@ -1,7 +1,7 @@
 {
   "symbol": "type",
   "name": "TypeAI",
-  "address": "0x443459D45c30A03f90037d011CbE22e2183d3b12",
+  "address": "0x443459d45c30a03f90037d011cbe22e2183d3b12",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

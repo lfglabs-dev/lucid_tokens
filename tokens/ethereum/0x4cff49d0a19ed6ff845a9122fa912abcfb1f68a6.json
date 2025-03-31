@@ -1,7 +1,7 @@
 {
   "symbol": "wtk",
   "name": "WadzPay",
-  "address": "0x4cfF49d0A19ed6Ff845a9122fa912AbcFB1F68A6",
+  "address": "0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

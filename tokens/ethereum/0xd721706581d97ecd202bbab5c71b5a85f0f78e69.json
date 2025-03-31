@@ -1,7 +1,7 @@
 {
   "symbol": "doge1",
   "name": "DOGE-1",
-  "address": "0xD721706581d97eCd202bBab5c71b5a85f0F78E69",
+  "address": "0xd721706581d97ecd202bbab5c71b5a85f0f78e69",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

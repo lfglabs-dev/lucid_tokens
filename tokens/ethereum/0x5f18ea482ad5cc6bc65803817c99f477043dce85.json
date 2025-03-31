@@ -1,7 +1,7 @@
 {
   "symbol": "agi",
   "name": "Agility",
-  "address": "0x5F18ea482ad5cc6BC65803817C99f477043DcE85",
+  "address": "0x5f18ea482ad5cc6bc65803817c99f477043dce85",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

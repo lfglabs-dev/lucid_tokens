@@ -1,7 +1,7 @@
 {
   "symbol": "pepe",
   "name": "Pepe King Prawn",
-  "address": "0x51A59a02BA906194285E81eb1F98FFA28E7CF4C9",
+  "address": "0x51a59a02ba906194285e81eb1f98ffa28e7cf4c9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

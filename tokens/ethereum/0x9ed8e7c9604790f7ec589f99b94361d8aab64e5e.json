@@ -1,7 +1,7 @@
 {
   "symbol": "unistake",
   "name": "Unistake",
-  "address": "0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
+  "address": "0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

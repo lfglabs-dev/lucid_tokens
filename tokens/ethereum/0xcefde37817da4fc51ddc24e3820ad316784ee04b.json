@@ -1,7 +1,7 @@
 {
   "symbol": "sona",
   "name": "Sonata Network",
-  "address": "0xCefdE37817da4FC51dDc24e3820ad316784Ee04b",
+  "address": "0xcefde37817da4fc51ddc24e3820ad316784ee04b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

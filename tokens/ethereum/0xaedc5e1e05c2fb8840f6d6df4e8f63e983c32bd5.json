@@ -1,7 +1,7 @@
 {
   "symbol": "hodl.d",
   "name": "Dinari HODL",
-  "address": "0xAEDC5e1E05c2fB8840F6D6dF4E8F63e983C32BD5",
+  "address": "0xaedc5e1e05c2fb8840f6d6df4e8f63e983c32bd5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

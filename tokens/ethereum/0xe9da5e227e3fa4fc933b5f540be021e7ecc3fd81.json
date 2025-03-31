@@ -1,7 +1,7 @@
 {
   "symbol": "gmfam",
   "name": "GMFAM",
-  "address": "0xe9Da5E227e3Fa4Fc933b5f540BE021e7EcC3Fd81",
+  "address": "0xe9da5e227e3fa4fc933b5f540be021e7ecc3fd81",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

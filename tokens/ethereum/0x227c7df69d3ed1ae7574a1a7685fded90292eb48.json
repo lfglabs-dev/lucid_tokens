@@ -1,7 +1,7 @@
 {
   "symbol": "milady",
   "name": "Milady Vault (NFTX)",
-  "address": "0x227c7DF69D3ed1ae7574A1a7685fDEd90292EB48",
+  "address": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

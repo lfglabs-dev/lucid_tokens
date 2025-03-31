@@ -1,7 +1,7 @@
 {
   "symbol": "arbx",
   "name": "Arbitrax AI",
-  "address": "0xCAC88fBd9b3fB2b018BE2b68e3C55aa90628BE6E",
+  "address": "0xcac88fbd9b3fb2b018be2b68e3c55aa90628be6e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

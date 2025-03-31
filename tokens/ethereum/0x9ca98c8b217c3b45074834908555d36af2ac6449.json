@@ -1,7 +1,7 @@
 {
   "symbol": "sabr",
   "name": "SatsBridge",
-  "address": "0x9ca98c8b217c3B45074834908555D36AF2aC6449",
+  "address": "0x9ca98c8b217c3b45074834908555d36af2ac6449",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

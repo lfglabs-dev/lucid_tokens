@@ -1,7 +1,7 @@
 {
   "symbol": "dora",
   "name": "Dora Factory [OLD]",
-  "address": "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d",
+  "address": "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

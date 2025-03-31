@@ -1,7 +1,7 @@
 {
   "symbol": "nft",
   "name": "NFT Protocol",
-  "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+  "address": "0xcb8d1260f9c92a3a545d409466280ffdd7af7042",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

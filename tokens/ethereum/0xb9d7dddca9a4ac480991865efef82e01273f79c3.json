@@ -1,7 +1,7 @@
 {
   "symbol": "blusd",
   "name": "Boosted LUSD",
-  "address": "0xB9D7DdDca9a4AC480991865EfEf82E01273F79C3",
+  "address": "0xb9d7dddca9a4ac480991865efef82e01273f79c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

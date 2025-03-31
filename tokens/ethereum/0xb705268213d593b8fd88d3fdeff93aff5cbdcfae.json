@@ -1,7 +1,7 @@
 {
   "symbol": "idex",
   "name": "IDEX",
-  "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+  "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

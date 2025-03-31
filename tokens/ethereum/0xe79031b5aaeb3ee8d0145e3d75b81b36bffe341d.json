@@ -1,7 +1,7 @@
 {
   "symbol": "boppy",
   "name": "Boppy The Bat",
-  "address": "0xe79031B5aaEb3eE8D0145e3d75B81B36BFfe341d",
+  "address": "0xe79031b5aaeb3ee8d0145e3d75b81b36bffe341d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

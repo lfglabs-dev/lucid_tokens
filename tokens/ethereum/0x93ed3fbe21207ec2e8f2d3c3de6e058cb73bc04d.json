@@ -1,7 +1,7 @@
 {
   "symbol": "pnk",
   "name": "Kleros",
-  "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+  "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

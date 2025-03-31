@@ -1,7 +1,7 @@
 {
   "symbol": "usd0",
   "name": "Usual USD",
-  "address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+  "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

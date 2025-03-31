@@ -1,7 +1,7 @@
 {
   "symbol": "nrfb",
   "name": "NuriFootBall",
-  "address": "0x00281dFCe4cfD72c0b6FDA2AAaF077258743f9E8",
+  "address": "0x00281dfce4cfd72c0b6fda2aaaf077258743f9e8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

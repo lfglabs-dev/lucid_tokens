@@ -1,7 +1,7 @@
 {
   "symbol": "ushi",
   "name": "Ushi",
-  "address": "0x6Dca182ac5E3f99985bC4Ee0f726d6472aB1ec55",
+  "address": "0x6dca182ac5e3f99985bc4ee0f726d6472ab1ec55",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

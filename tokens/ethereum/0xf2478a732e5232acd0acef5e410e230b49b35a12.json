@@ -1,7 +1,7 @@
 {
   "symbol": "rouge",
   "name": "Rouge Studio",
-  "address": "0xF2478a732E5232AcD0acEF5e410e230b49b35a12",
+  "address": "0xf2478a732e5232acd0acef5e410e230b49b35a12",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

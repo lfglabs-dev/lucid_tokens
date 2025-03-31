@@ -1,7 +1,7 @@
 {
   "symbol": "bl00p",
   "name": "BL00P",
-  "address": "0x2156CD781c5e77323D92A4487a0eC45F128e165E",
+  "address": "0x2156cd781c5e77323d92a4487a0ec45f128e165e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

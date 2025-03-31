@@ -1,7 +1,7 @@
 {
   "symbol": "pelo",
   "name": "PepElon",
-  "address": "0xb5cE43fE2fcFfFfb2EeCE95EC413d08Def28046F",
+  "address": "0xb5ce43fe2fcffffb2eece95ec413d08def28046f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

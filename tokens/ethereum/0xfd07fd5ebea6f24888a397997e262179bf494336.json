@@ -1,7 +1,7 @@
 {
   "symbol": "inoseth",
   "name": "Inception osETH",
-  "address": "0xfD07fD5EBEa6F24888a397997E262179Bf494336",
+  "address": "0xfd07fd5ebea6f24888a397997e262179bf494336",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

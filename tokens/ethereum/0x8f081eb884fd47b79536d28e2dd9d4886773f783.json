@@ -1,7 +1,7 @@
 {
   "symbol": "becoin",
   "name": "bePAY Finance",
-  "address": "0x8F081Eb884Fd47b79536D28E2DD9d4886773F783",
+  "address": "0x8f081eb884fd47b79536d28e2dd9d4886773f783",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

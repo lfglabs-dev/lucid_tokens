@@ -1,7 +1,7 @@
 {
   "symbol": "emp",
   "name": "Empyreal",
-  "address": "0x39D5313C3750140E5042887413bA8AA6145a9bd2",
+  "address": "0x39d5313c3750140e5042887413ba8aa6145a9bd2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

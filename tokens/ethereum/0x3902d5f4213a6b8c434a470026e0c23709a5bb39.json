@@ -1,7 +1,7 @@
 {
   "symbol": "scinet",
   "name": "SciNet",
-  "address": "0x3902D5f4213a6b8c434a470026E0C23709A5bB39",
+  "address": "0x3902d5f4213a6b8c434a470026e0c23709a5bb39",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

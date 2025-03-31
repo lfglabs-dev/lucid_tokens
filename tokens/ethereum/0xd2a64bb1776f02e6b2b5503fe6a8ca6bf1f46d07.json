@@ -1,7 +1,7 @@
 {
   "symbol": "wood.d",
   "name": "Dinari WOOD",
-  "address": "0xD2a64Bb1776F02E6B2b5503fE6a8CA6bF1f46D07",
+  "address": "0xd2a64bb1776f02e6b2b5503fe6a8ca6bf1f46d07",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

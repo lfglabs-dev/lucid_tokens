@@ -1,7 +1,7 @@
 {
   "symbol": "fdm",
   "name": "Freedom",
-  "address": "0x60d91f6D394c5004A782E0D175E2b839e078FB83",
+  "address": "0x60d91f6d394c5004a782e0d175e2b839e078fb83",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

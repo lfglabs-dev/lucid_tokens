@@ -1,7 +1,7 @@
 {
   "symbol": "ethinu",
   "name": "Ethereum Inu",
-  "address": "0x1ef846cE0DA79D8D4e111BF8c5117Cd1209a0478",
+  "address": "0x1ef846ce0da79d8d4e111bf8c5117cd1209a0478",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "8pay",
   "name": "8Pay",
-  "address": "0x06DDb3a8BC0aBc14f85e974CF1A93a6f8d4909d9",
+  "address": "0x06ddb3a8bc0abc14f85e974cf1a93a6f8d4909d9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

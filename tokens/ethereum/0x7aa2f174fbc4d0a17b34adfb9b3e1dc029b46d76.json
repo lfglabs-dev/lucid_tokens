@@ -1,7 +1,7 @@
 {
   "symbol": "rada",
   "name": "RADA Foundation",
-  "address": "0x7AA2f174fBC4D0a17B34adFB9b3E1DC029B46d76",
+  "address": "0x7aa2f174fbc4d0a17b34adfb9b3e1dc029b46d76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "kron",
   "name": "Kronos Bot",
-  "address": "0x37f5ac1B0c1a07d19270983D6889C181a0A3d6F7",
+  "address": "0x37f5ac1b0c1a07d19270983d6889c181a0a3d6f7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

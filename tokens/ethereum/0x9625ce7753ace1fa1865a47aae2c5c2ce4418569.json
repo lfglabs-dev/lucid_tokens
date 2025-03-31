@@ -1,7 +1,7 @@
 {
   "symbol": "kap",
   "name": "KAP Games",
-  "address": "0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569",
+  "address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
-    "hedera-hashgraph": "0.0.3299785",
     "blast": "0x15d24de366f69b835be19f7cf9447e770315dd80",
     "arbitrum-one": "0x965d00aa7abc62ca10132e641d08593435ac811d",
     "polygon-pos": "0xc27158bb8e08899d38765752f91d7d778e16ab8e"

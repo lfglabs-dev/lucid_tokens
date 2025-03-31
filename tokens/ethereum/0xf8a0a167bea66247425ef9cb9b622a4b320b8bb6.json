@@ -1,7 +1,7 @@
 {
   "symbol": "rsn",
   "name": "Resonator",
-  "address": "0xF8a0A167BEa66247425ef9CB9B622a4B320B8bB6",
+  "address": "0xf8a0a167bea66247425ef9cb9b622a4b320b8bb6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

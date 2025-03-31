@@ -1,7 +1,7 @@
 {
   "symbol": "infra",
   "name": "Bware",
-  "address": "0x013062189dc3dcc99e9Cee714c513033b8d99e3c",
+  "address": "0x013062189dc3dcc99e9cee714c513033b8d99e3c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

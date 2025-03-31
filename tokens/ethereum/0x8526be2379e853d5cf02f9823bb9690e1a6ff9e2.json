@@ -1,7 +1,7 @@
 {
   "symbol": "habibi",
   "name": "Habibi",
-  "address": "0x8526Be2379E853d5Cf02f9823BB9690e1a6Ff9e2",
+  "address": "0x8526be2379e853d5cf02f9823bb9690e1a6ff9e2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

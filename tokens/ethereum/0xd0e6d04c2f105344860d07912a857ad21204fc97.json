@@ -1,7 +1,7 @@
 {
   "symbol": "neot",
   "name": "NeoTech",
-  "address": "0xD0E6D04c2f105344860D07912A857AD21204fC97",
+  "address": "0xd0e6d04c2f105344860d07912a857ad21204fc97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

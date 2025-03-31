@@ -1,7 +1,7 @@
 {
   "symbol": "tupelo",
   "name": "tupelothedog",
-  "address": "0xb15a5AaB2a65745314fcD0D7f5080bfa65bD7c03",
+  "address": "0xb15a5aab2a65745314fcd0d7f5080bfa65bd7c03",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

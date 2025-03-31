@@ -1,7 +1,7 @@
 {
   "symbol": "grid",
   "name": "OpenGRID",
-  "address": "0x3DdD90Ba2c4B028334c08B0aDC6352Ac9e50f2d7",
+  "address": "0x3ddd90ba2c4b028334c08b0adc6352ac9e50f2d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

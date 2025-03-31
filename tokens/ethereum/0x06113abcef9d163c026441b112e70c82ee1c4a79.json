@@ -1,7 +1,7 @@
 {
   "symbol": "omira",
   "name": "Omira",
-  "address": "0x06113abCeF9D163C026441b112e70c82EE1c4A79",
+  "address": "0x06113abcef9d163c026441b112e70c82ee1c4a79",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bmsft",
   "name": "Backed Microsoft",
-  "address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
+  "address": "0x374a457967ba24fd3ae66294cab08244185574b0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

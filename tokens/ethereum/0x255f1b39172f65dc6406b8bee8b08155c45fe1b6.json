@@ -1,7 +1,7 @@
 {
   "symbol": "harambe",
   "name": "HarambeCoin",
-  "address": "0x255f1B39172f65dC6406b8bEE8b08155C45Fe1b6",
+  "address": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
     "arbitrum-one": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
-    "base": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
-    "solana": "CNL2opdqaQDY7yudm5V4MAaTwuuY32LTKqNP93jZM8X6"
+    "base": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6"
   }
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "max",
   "name": "UPMAX",
-  "address": "0x8805792D41Facb22b6F47d468B06AF36Ff3fc1c5",
+  "address": "0x8805792d41facb22b6f47d468b06af36ff3fc1c5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

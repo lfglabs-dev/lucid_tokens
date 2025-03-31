@@ -1,7 +1,7 @@
 {
   "symbol": "xav",
   "name": "Xave",
-  "address": "0x1dB06f39c14d813d7b1CCB275A93f5b052DE1cac",
+  "address": "0x1db06f39c14d813d7b1ccb275a93f5b052de1cac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

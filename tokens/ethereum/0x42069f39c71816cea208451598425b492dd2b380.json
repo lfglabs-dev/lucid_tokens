@@ -1,7 +1,7 @@
 {
   "symbol": "goompy",
   "name": "Goompy",
-  "address": "0x42069f39C71816Cea208451598425b492Dd2B380",
+  "address": "0x42069f39c71816cea208451598425b492dd2b380",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

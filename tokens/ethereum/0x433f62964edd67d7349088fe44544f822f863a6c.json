@@ -1,7 +1,7 @@
 {
   "symbol": "moge",
   "name": "Moge",
-  "address": "0x433F62964EDd67d7349088Fe44544F822F863a6C",
+  "address": "0x433f62964edd67d7349088fe44544f822f863a6c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

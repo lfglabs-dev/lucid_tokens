@@ -1,7 +1,7 @@
 {
   "symbol": "aammusdc",
   "name": "Aave AMM USDC",
-  "address": "0xd24946147829DEaA935bE2aD85A3291dbf109c80",
+  "address": "0xd24946147829deaa935be2ad85a3291dbf109c80",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

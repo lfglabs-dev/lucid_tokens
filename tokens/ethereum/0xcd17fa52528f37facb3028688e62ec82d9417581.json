@@ -1,7 +1,7 @@
 {
   "symbol": "mtrm",
   "name": "Materium",
-  "address": "0xcd17fA52528f37FACB3028688E62ec82d9417581",
+  "address": "0xcd17fa52528f37facb3028688e62ec82d9417581",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

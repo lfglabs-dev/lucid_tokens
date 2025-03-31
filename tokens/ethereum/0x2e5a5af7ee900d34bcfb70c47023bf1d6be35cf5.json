@@ -1,7 +1,7 @@
 {
   "symbol": "xezeth",
   "name": "Leveraged ezETH",
-  "address": "0x2e5A5AF7eE900D34BCFB70C47023bf1d6bE35CF5",
+  "address": "0x2e5a5af7ee900d34bcfb70c47023bf1d6be35cf5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

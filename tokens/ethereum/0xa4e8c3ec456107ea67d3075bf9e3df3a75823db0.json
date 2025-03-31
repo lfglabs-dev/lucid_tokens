@@ -1,7 +1,7 @@
 {
   "symbol": "loomold",
   "name": "Loom Network (OLD)",
-  "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+  "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

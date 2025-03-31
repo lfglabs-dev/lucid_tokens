@@ -1,7 +1,7 @@
 {
   "symbol": "obi",
   "name": "Orbofi AI",
-  "address": "0xBb3A8FD6Ec4bF0FDc6Cd2739b1e41192D12B1873",
+  "address": "0xbb3a8fd6ec4bf0fdc6cd2739b1e41192d12b1873",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

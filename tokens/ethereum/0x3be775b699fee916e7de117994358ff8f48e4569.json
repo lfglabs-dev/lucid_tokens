@@ -1,7 +1,7 @@
 {
   "symbol": "vcnt",
   "name": "ViciCoin",
-  "address": "0x3bE775B699fee916E7De117994358fF8F48e4569",
+  "address": "0x3be775b699fee916e7de117994358ff8f48e4569",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

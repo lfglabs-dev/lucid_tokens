@@ -1,7 +1,7 @@
 {
   "symbol": "gmcs",
   "name": "Aktionariat Green Monkey Club AG Tokenized Shares",
-  "address": "0x0f4Dc5adA841cF5a7652e52D04ae786070cC9472",
+  "address": "0x0f4dc5ada841cf5a7652e52d04ae786070cc9472",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

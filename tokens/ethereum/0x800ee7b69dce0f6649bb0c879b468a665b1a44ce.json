@@ -1,7 +1,7 @@
 {
   "symbol": "amc.d",
   "name": "Dinari AMC",
-  "address": "0x800Ee7b69DCe0f6649Bb0c879b468a665B1A44Ce",
+  "address": "0x800ee7b69dce0f6649bb0c879b468a665b1a44ce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

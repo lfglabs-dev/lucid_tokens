@@ -1,7 +1,7 @@
 {
   "symbol": "linq",
   "name": "Linq",
-  "address": "0x3e34eabF5858a126cb583107E643080cEE20cA64",
+  "address": "0x3e34eabf5858a126cb583107e643080cee20ca64",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

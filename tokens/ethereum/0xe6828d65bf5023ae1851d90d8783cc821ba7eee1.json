@@ -1,7 +1,7 @@
 {
   "symbol": "abond",
   "name": "ApeBond",
-  "address": "0xe6828D65bf5023AE1851D90D8783Cc821ba7eeE1",
+  "address": "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

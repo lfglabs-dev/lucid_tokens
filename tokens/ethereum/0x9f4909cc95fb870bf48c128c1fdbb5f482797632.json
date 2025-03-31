@@ -1,7 +1,7 @@
 {
   "symbol": "gzlr",
   "name": "Guzzler",
-  "address": "0x9f4909Cc95FB870BF48C128C1Fdbb5F482797632",
+  "address": "0x9f4909cc95fb870bf48c128c1fdbb5f482797632",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

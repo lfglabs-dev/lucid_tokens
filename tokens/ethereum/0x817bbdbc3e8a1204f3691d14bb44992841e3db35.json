@@ -1,7 +1,7 @@
 {
   "symbol": "cudos",
   "name": "Cudos",
-  "address": "0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
+  "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,8 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
-    "archway": "ibc/2AE1ECA44CAD0C933CE178742595CE6796530FA1983E4FA7F4E43FBB5854D505",
-    "osmosis": "ibc/E09ED39F390EC51FA9F3F69BEA08B5BBE6A48B3057B2B1C3467FAAE9E58B021B"
+    "ethereum": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35"
   }
 }

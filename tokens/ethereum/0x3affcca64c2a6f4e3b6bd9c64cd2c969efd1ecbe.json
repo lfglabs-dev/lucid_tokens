@@ -1,7 +1,7 @@
 {
   "symbol": "dsla",
   "name": "DSLA Protocol",
-  "address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
+  "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

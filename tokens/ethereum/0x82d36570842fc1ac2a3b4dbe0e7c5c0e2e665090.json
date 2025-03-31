@@ -1,7 +1,7 @@
 {
   "symbol": "nfnt",
   "name": "nfinityAI",
-  "address": "0x82d36570842fc1aC2a3B4DbE0e7c5c0e2E665090",
+  "address": "0x82d36570842fc1ac2a3b4dbe0e7c5c0e2e665090",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

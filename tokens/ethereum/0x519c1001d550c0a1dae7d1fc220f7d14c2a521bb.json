@@ -1,7 +1,7 @@
 {
   "symbol": "pswap",
   "name": "Polkaswap",
-  "address": "0x519C1001D550C0a1DaE7d1fC220f7d14c2A521BB",
+  "address": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
-    "sora": "0x0200050000000000000000000000000000000000000000000000000000000000"
+    "ethereum": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb"
   }
 }

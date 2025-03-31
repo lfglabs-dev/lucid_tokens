@@ -1,7 +1,7 @@
 {
   "symbol": "rinia",
   "name": "Rinia Inu",
-  "address": "0x8f828a0644f12Fa352888E645a90333d30f6FD7D",
+  "address": "0x8f828a0644f12fa352888e645a90333d30f6fd7d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

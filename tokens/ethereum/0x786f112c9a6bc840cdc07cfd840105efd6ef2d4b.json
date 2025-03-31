@@ -1,7 +1,7 @@
 {
   "symbol": "edoge",
   "name": "Ethereum Doge",
-  "address": "0x786f112c9A6Bc840cdc07CFD840105EfD6EF2d4B",
+  "address": "0x786f112c9a6bc840cdc07cfd840105efd6ef2d4b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

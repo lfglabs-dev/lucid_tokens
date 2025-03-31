@@ -1,7 +1,7 @@
 {
   "symbol": "bs9000",
   "name": "BabySmurf9000",
-  "address": "0x0058C8581B9FEd6864faa654505bC89890cdB2dd",
+  "address": "0x0058c8581b9fed6864faa654505bc89890cdb2dd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

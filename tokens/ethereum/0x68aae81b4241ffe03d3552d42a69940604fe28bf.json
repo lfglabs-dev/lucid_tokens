@@ -1,7 +1,7 @@
 {
   "symbol": "muffin",
   "name": "Muffin",
-  "address": "0x68AAE81B4241fFE03D3552D42A69940604FE28BF",
+  "address": "0x68aae81b4241ffe03d3552d42a69940604fe28bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

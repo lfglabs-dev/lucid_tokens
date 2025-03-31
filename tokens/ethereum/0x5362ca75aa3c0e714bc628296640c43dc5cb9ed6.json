@@ -1,7 +1,7 @@
 {
   "symbol": "hoshi",
   "name": "Dejitaru Hoshi",
-  "address": "0x5362Ca75aa3c0E714bc628296640C43dc5cb9ED6",
+  "address": "0x5362ca75aa3c0e714bc628296640c43dc5cb9ed6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ntd",
   "name": "Neural Tensor Dynamics",
-  "address": "0x1E354f9Ab5bcC9Fb981f31b794C5fe13F7A89218",
+  "address": "0x1e354f9ab5bcc9fb981f31b794c5fe13f7a89218",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

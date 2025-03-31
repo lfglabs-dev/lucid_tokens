@@ -1,7 +1,7 @@
 {
   "symbol": "kerosene",
   "name": "Kerosene",
-  "address": "0xf3768D6e78E65FC64b8F12ffc824452130BD5394",
+  "address": "0xf3768d6e78e65fc64b8f12ffc824452130bd5394",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

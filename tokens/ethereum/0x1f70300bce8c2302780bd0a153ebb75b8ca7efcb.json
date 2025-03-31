@@ -1,7 +1,7 @@
 {
   "symbol": "barron",
   "name": "Mini Donald",
-  "address": "0x1F70300BCe8c2302780BD0a153ebb75B8CA7efCb",
+  "address": "0x1f70300bce8c2302780bd0a153ebb75b8ca7efcb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

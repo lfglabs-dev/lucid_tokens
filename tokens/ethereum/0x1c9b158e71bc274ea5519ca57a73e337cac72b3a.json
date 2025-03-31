@@ -1,7 +1,7 @@
 {
   "symbol": "growai",
   "name": "SocialGrowAI",
-  "address": "0x1C9B158e71BC274EA5519ca57A73E337Cac72b3A",
+  "address": "0x1c9b158e71bc274ea5519ca57a73e337cac72b3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

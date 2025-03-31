@@ -1,7 +1,7 @@
 {
   "symbol": "nexusai",
   "name": "NexusAI",
-  "address": "0xe96EdD48CF0c6e930cE55F171A721017b28E0F08",
+  "address": "0xe96edd48cf0c6e930ce55f171a721017b28e0f08",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

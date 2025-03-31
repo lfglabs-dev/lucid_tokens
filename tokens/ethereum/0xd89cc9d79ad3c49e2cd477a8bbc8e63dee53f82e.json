@@ -1,7 +1,7 @@
 {
   "symbol": "kee",
   "name": "Keeshond",
-  "address": "0xD89CC9D79aD3c49e2CD477A8bBc8E63dee53f82E",
+  "address": "0xd89cc9d79ad3c49e2cd477a8bbc8e63dee53f82e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

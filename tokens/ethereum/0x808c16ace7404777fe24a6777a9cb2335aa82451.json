@@ -1,7 +1,7 @@
 {
   "symbol": "jotchua",
   "name": "PERRO DINERO",
-  "address": "0x808C16ACe7404777FE24a6777a9Cb2335Aa82451",
+  "address": "0x808c16ace7404777fe24a6777a9cb2335aa82451",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

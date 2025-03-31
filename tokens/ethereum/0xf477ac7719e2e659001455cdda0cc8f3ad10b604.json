@@ -1,7 +1,7 @@
 {
   "symbol": "autos",
   "name": "CryptoAutos",
-  "address": "0xf477AC7719e2e659001455cDDA0cc8f3aD10b604",
+  "address": "0xf477ac7719e2e659001455cdda0cc8f3ad10b604",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

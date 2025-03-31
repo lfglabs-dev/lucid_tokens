@@ -1,7 +1,7 @@
 {
   "symbol": "steakeurcv",
   "name": "Steakhouse EURCV Morpho Vault",
-  "address": "0xbeEF07E929F84466a591De130e4154667214F491",
+  "address": "0xbeef07e929f84466a591de130e4154667214f491",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ankrmatic",
   "name": "Ankr Staked MATIC",
-  "address": "0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C",
+  "address": "0x26dcfbfa8bc267b250432c01c982eaf81cc5480c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

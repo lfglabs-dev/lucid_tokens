@@ -1,7 +1,7 @@
 {
   "symbol": "g",
   "name": "G",
-  "address": "0x276105758dfb270f5Cd845Aa04a6Ba09C88699ca",
+  "address": "0x276105758dfb270f5cd845aa04a6ba09c88699ca",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

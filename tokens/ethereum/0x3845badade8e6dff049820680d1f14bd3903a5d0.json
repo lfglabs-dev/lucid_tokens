@@ -1,7 +1,7 @@
 {
   "symbol": "sand",
   "name": "The Sandbox",
-  "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+  "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

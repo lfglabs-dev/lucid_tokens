@@ -1,7 +1,7 @@
 {
   "symbol": "omikami",
   "name": "AMATERASU OMIKAMI",
-  "address": "0x9e18d5BAB2FA94a6A95F509Ecb38F8F68322AbD3",
+  "address": "0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "htl",
   "name": "Hotelium",
-  "address": "0x6247C86B016Bc4d9aE141849C0a9Eb38C004B742",
+  "address": "0x6247c86b016bc4d9ae141849c0a9eb38c004b742",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "tft",
   "name": "ThreeFold",
-  "address": "0x395E925834996e558bdeC77CD648435d620AfB5b",
+  "address": "0x395e925834996e558bdec77cd648435d620afb5b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "binance-smart-chain": "0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf",
-    "stellar": "TFT-GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47",
     "ethereum": "0x395e925834996e558bdec77cd648435d620afb5b"
   }
 }

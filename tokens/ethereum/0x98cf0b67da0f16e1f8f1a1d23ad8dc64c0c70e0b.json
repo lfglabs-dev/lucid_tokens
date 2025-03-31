@@ -1,7 +1,7 @@
 {
   "symbol": "mccbbtc",
   "name": "MEV Capital cbBTC",
-  "address": "0x98cF0B67Da0F16E1F8f1a1D23ad8Dc64c0c70E0b",
+  "address": "0x98cf0b67da0f16e1f8f1a1d23ad8dc64c0c70e0b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

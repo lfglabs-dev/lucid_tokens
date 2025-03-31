@@ -1,7 +1,7 @@
 {
   "symbol": "yum.d",
   "name": "Dinari YUM",
-  "address": "0x0aF5b873DF94efeBA34c0B0A9FA34a8C13E078cd",
+  "address": "0x0af5b873df94efeba34c0b0a9fa34a8c13e078cd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

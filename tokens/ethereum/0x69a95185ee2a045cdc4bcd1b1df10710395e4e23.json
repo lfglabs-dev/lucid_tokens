@@ -1,7 +1,7 @@
 {
   "symbol": "poolz",
   "name": "Poolz Finance [OLD]",
-  "address": "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
+  "address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

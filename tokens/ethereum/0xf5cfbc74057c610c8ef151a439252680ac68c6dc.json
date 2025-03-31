@@ -1,7 +1,7 @@
 {
   "symbol": "oct",
   "name": "Octopus Network",
-  "address": "0xF5cFBC74057C610c8EF151A439252680AC68c6DC",
+  "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
-    "near-protocol": "f5cfbc74057c610c8ef151a439252680ac68c6dc.factory.bridge.near"
+    "ethereum": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc"
   }
 }

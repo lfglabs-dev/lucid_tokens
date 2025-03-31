@@ -1,7 +1,7 @@
 {
   "symbol": "spct",
   "name": "Spectra Chain",
-  "address": "0x02020595E6a34a03a8E9c1f5624b1b7713810083",
+  "address": "0x02020595e6a34a03a8e9c1f5624b1b7713810083",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

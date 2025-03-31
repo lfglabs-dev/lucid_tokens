@@ -1,7 +1,7 @@
 {
   "symbol": "matt",
   "name": "MATT",
-  "address": "0x7087c92EC764e75e7be7701EBA15cD95D90F501F",
+  "address": "0x7087c92ec764e75e7be7701eba15cd95d90f501f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "usualusdt",
   "name": "MEV Capital Usual Boosted USDT",
-  "address": "0x225C119fFaf1CaddCfCDb493283eDF4b816Bf773",
+  "address": "0x225c119ffaf1caddcfcdb493283edf4b816bf773",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

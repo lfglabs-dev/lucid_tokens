@@ -1,7 +1,7 @@
 {
   "symbol": "susda",
   "name": "sUSDa",
-  "address": "0x2B66AAdE1e9C062FF411bd47C44E0Ad696d43BD9",
+  "address": "0x2b66aade1e9c062ff411bd47c44e0ad696d43bd9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

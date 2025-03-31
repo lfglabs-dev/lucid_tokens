@@ -1,7 +1,7 @@
 {
   "symbol": "kendu",
   "name": "Kendu Inu",
-  "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
+  "address": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
-    "solana": "2nnrviYJRLcf2bXAxpKTRXzccoDbwaP4vzuGUG75Jo45",
     "base": "0xef73611f98da6e57e0776317957af61b59e09ed7"
   }
 }

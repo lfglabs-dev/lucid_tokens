@@ -1,7 +1,7 @@
 {
   "symbol": "hlg",
   "name": "Holograph",
-  "address": "0x740df024CE73f589ACD5E8756b377ef8C6558BaB",
+  "address": "0x740df024ce73f589acd5e8756b377ef8c6558bab",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

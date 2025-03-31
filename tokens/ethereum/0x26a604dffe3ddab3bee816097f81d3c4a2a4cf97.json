@@ -1,7 +1,7 @@
 {
   "symbol": "corx",
   "name": "CorionX",
-  "address": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
+  "address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

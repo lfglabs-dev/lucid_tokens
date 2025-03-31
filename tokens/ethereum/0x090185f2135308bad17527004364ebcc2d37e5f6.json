@@ -1,7 +1,7 @@
 {
   "symbol": "spell",
   "name": "Spell",
-  "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
+  "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

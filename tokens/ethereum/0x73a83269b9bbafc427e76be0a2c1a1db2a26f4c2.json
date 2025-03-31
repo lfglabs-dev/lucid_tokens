@@ -1,7 +1,7 @@
 {
   "symbol": "0ne",
   "name": "Civfund Stone",
-  "address": "0x73A83269b9bbAFC427E76Be0A2C1a1db2a26f4C2",
+  "address": "0x73a83269b9bbafc427e76be0a2c1a1db2a26f4c2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

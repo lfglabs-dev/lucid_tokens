@@ -1,7 +1,7 @@
 {
   "symbol": "sdg",
   "name": "Crypto SDG",
-  "address": "0x0F5dEF84CED3e9e295DAe28df96d0B846dE92C1A",
+  "address": "0x0f5def84ced3e9e295dae28df96d0b846de92c1a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

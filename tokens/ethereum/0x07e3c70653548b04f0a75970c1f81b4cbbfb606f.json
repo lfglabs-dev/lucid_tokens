@@ -1,7 +1,7 @@
 {
   "symbol": "dlt",
   "name": "Agrello",
-  "address": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+  "address": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "accord",
   "name": "Accord AI",
-  "address": "0x755F57aF4c14aABfe5fBc92b27b015DCDBd30C15",
+  "address": "0x755f57af4c14aabfe5fbc92b27b015dcdbd30c15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

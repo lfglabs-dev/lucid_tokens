@@ -1,7 +1,7 @@
 {
   "symbol": "gtm",
   "name": "ColonizeMars",
-  "address": "0xE8B1e79D937c648Ce1fE96e6739ddb2714058a18",
+  "address": "0xe8b1e79d937c648ce1fe96e6739ddb2714058a18",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

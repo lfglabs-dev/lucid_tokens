@@ -1,7 +1,7 @@
 {
   "symbol": "flut",
   "name": "Flute",
-  "address": "0x4F08705FB8F33AffC231ed66e626B40E84A71870",
+  "address": "0x4f08705fb8f33affc231ed66e626b40e84a71870",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

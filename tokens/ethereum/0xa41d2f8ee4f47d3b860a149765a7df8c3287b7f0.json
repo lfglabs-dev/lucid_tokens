@@ -1,7 +1,7 @@
 {
   "symbol": "sync",
   "name": "Syncus",
-  "address": "0xa41d2f8Ee4F47D3B860A149765A7dF8c3287b7F0",
+  "address": "0xa41d2f8ee4f47d3b860a149765a7df8c3287b7f0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

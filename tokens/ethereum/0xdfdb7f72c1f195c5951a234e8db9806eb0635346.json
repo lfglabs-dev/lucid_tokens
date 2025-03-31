@@ -1,7 +1,7 @@
 {
   "symbol": "nfd",
   "name": "Feisty Doge NFT",
-  "address": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
+  "address": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

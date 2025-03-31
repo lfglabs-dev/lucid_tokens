@@ -1,7 +1,7 @@
 {
   "symbol": "egg",
   "name": "EGG ETH",
-  "address": "0xE99379955b676D5a7EBE3F42F2B684796e48D437",
+  "address": "0xe99379955b676d5a7ebe3f42f2b684796e48d437",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

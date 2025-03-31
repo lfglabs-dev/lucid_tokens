@@ -1,7 +1,7 @@
 {
   "symbol": "stzeta",
   "name": "Accumulated Finance Staked ZETA",
-  "address": "0xf38FEEdb0c85c1e1D6864c7513Ac646d28bb0Cfc",
+  "address": "0xf38feedb0c85c1e1d6864c7513ac646d28bb0cfc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

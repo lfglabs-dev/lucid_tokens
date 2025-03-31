@@ -1,7 +1,7 @@
 {
   "symbol": "xrune",
   "name": "Thorstarter",
-  "address": "0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c",
+  "address": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
-    "terra": "terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm",
     "fantom": "0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6"
   }
 }

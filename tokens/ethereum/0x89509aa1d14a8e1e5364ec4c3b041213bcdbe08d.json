@@ -1,7 +1,7 @@
 {
   "symbol": "zurr",
   "name": "ZURRENCY",
-  "address": "0x89509aA1D14a8E1E5364Ec4C3B041213bcDbe08D",
+  "address": "0x89509aa1d14a8e1e5364ec4c3b041213bcdbe08d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mgga",
   "name": "Mgga",
-  "address": "0x5a1bcFa16e3EDFF07DFA60427BD0b51736ea8d37",
+  "address": "0x5a1bcfa16e3edff07dfa60427bd0b51736ea8d37",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

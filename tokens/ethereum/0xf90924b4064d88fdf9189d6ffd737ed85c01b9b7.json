@@ -1,7 +1,7 @@
 {
   "symbol": "gfn",
   "name": "GameFinity",
-  "address": "0xf90924B4064D88fdf9189D6FfD737ED85C01B9B7",
+  "address": "0xf90924b4064d88fdf9189d6ffd737ed85c01b9b7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

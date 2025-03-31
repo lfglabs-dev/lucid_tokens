@@ -1,7 +1,7 @@
 {
   "symbol": "xdoge",
   "name": "XDOGE",
-  "address": "0xd2b274CfBf9534f56b59aD0FB7e645e0354f4941",
+  "address": "0xd2b274cfbf9534f56b59ad0fb7e645e0354f4941",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

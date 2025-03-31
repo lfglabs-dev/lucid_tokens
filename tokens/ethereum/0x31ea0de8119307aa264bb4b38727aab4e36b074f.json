@@ -1,7 +1,7 @@
 {
   "symbol": "store",
   "name": "Bit Store",
-  "address": "0x31ea0de8119307aA264Bb4b38727aAb4E36b074f",
+  "address": "0x31ea0de8119307aa264bb4b38727aab4e36b074f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "rsveth",
   "name": "Reddio Vault Ethereum",
-  "address": "0xCA9de1F80Df74331c5fcb7Eee2D05E746d47BFb2",
+  "address": "0xca9de1f80df74331c5fcb7eee2d05e746d47bfb2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bmstr",
   "name": "Backed MicroStrategy",
-  "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+  "address": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

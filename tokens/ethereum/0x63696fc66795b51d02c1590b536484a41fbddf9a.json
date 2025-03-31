@@ -1,7 +1,7 @@
 {
   "symbol": "$well",
   "name": "WELL3",
-  "address": "0x63696Fc66795B51d02c1590b536484A41fbDDF9a",
+  "address": "0x63696fc66795b51d02c1590b536484a41fbddf9a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "fortknox",
   "name": "Fort Knox",
-  "address": "0xAC6708e83698d34CD5c09d48249B0239008d0cCf",
+  "address": "0xac6708e83698d34cd5c09d48249b0239008d0ccf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

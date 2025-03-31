@@ -1,7 +1,7 @@
 {
   "symbol": "aaave",
   "name": "Aave AAVE",
-  "address": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+  "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "haus",
   "name": "DAOhaus",
-  "address": "0xf2051511B9b121394FA75B8F7d4E7424337af687",
+  "address": "0xf2051511b9b121394fa75b8f7d4e7424337af687",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

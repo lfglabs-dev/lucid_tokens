@@ -1,7 +1,7 @@
 {
   "symbol": "deai",
   "name": "Zero1 Labs",
-  "address": "0x1495bc9e44Af1F8BCB62278D2bEC4540cF0C05ea",
+  "address": "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

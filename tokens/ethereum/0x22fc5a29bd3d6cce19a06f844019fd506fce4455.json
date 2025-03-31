@@ -1,7 +1,7 @@
 {
   "symbol": "ependle",
   "name": "Equilibria Finance ePENDLE",
-  "address": "0x22Fc5A29bd3d6CCe19a06f844019fd506fCe4455",
+  "address": "0x22fc5a29bd3d6cce19a06f844019fd506fce4455",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

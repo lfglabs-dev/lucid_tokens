@@ -1,7 +1,7 @@
 {
   "symbol": "propc",
   "name": "Propchain",
-  "address": "0x9ff58067Bd8D239000010c154C6983A325Df138E",
+  "address": "0x9ff58067bd8d239000010c154c6983a325df138e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

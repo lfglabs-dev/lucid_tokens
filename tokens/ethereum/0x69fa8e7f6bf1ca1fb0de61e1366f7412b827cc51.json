@@ -1,7 +1,7 @@
 {
   "symbol": "nrch",
   "name": "Enreach",
-  "address": "0x69fa8e7F6bf1ca1fB0de61e1366f7412b827CC51",
+  "address": "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

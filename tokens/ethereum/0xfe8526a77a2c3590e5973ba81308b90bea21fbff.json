@@ -1,7 +1,7 @@
 {
   "symbol": "wai",
   "name": "WienerAI",
-  "address": "0xFE8526A77A2c3590E5973bA81308B90BEA21FBFF",
+  "address": "0xfe8526a77a2c3590e5973ba81308b90bea21fbff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

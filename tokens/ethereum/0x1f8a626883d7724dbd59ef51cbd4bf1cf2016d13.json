@@ -1,7 +1,7 @@
 {
   "symbol": "stak",
   "name": "Jigstack",
-  "address": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
+  "address": "0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ppt",
   "name": "Populous",
-  "address": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
+  "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

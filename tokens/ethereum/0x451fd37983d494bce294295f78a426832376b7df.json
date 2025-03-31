@@ -1,7 +1,7 @@
 {
   "symbol": "xeno",
   "name": "Xeno",
-  "address": "0x451fd37983D494Bce294295F78a426832376B7dF",
+  "address": "0x451fd37983d494bce294295f78a426832376b7df",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

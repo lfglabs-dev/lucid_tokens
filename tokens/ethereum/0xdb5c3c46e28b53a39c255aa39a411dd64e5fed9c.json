@@ -1,7 +1,7 @@
 {
   "symbol": "ncr",
   "name": "Neos Credits",
-  "address": "0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c",
+  "address": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

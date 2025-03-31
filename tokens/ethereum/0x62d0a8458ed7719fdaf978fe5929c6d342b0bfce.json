@@ -1,7 +1,7 @@
 {
   "symbol": "beam",
   "name": "Beam",
-  "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+  "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

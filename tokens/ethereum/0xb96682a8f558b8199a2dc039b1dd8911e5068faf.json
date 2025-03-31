@@ -1,7 +1,7 @@
 {
   "symbol": "ect",
   "name": "Ecotrader",
-  "address": "0xb96682A8F558B8199A2Dc039b1dD8911E5068FaF",
+  "address": "0xb96682a8f558b8199a2dc039b1dd8911e5068faf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "mpwr",
   "name": "Empower",
-  "address": "0x6731827Cb6879a2091ce3ab3423f7bf20539b579",
+  "address": "0x6731827cb6879a2091ce3ab3423f7bf20539b579",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

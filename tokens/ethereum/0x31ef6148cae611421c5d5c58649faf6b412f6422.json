@@ -1,7 +1,7 @@
 {
   "symbol": "agv",
   "name": "AgentVerse",
-  "address": "0x31ef6148cAE611421c5D5C58649FAf6b412F6422",
+  "address": "0x31ef6148cae611421c5d5c58649faf6b412f6422",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

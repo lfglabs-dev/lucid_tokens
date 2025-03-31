@@ -1,7 +1,7 @@
 {
   "symbol": "icsa",
   "name": "Icosa (ETH)",
-  "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+  "address": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

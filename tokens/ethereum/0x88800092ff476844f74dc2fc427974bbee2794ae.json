@@ -1,7 +1,7 @@
 {
   "symbol": "wallet",
   "name": "Ambire Wallet",
-  "address": "0x88800092fF476844f74dC2FC427974BBee2794Ae",
+  "address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

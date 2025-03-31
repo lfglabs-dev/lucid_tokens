@@ -1,7 +1,7 @@
 {
   "symbol": "adx",
   "name": "AdEx",
-  "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

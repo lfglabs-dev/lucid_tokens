@@ -1,7 +1,7 @@
 {
   "symbol": "sta",
   "name": "Statera",
-  "address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+  "address": "0xa7de087329bfcda5639247f96140f9dabe3deed1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

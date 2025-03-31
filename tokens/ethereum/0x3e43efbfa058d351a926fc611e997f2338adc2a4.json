@@ -1,7 +1,7 @@
 {
   "symbol": "ori",
   "name": "Origent Ai",
-  "address": "0x3E43EFbfA058d351a926FC611E997F2338ADc2a4",
+  "address": "0x3e43efbfa058d351a926fc611e997f2338adc2a4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

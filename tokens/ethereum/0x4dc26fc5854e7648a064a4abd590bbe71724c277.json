@@ -1,7 +1,7 @@
 {
   "symbol": "anime",
   "name": "Animecoin",
-  "address": "0x4DC26fC5854e7648a064a4ABD590bBE71724C277",
+  "address": "0x4dc26fc5854e7648a064a4abd590bbe71724c277",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

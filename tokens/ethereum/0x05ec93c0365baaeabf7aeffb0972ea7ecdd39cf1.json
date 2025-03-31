@@ -1,7 +1,7 @@
 {
   "symbol": "abat",
   "name": "Aave BAT",
-  "address": "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+  "address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

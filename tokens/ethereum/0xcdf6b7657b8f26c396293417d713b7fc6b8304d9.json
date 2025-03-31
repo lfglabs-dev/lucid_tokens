@@ -1,7 +1,7 @@
 {
   "symbol": "athena",
   "name": "Project Athena",
-  "address": "0xcDf6b7657B8f26C396293417D713b7fc6b8304d9",
+  "address": "0xcdf6b7657b8f26c396293417d713b7fc6b8304d9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

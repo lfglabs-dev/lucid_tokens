@@ -1,7 +1,7 @@
 {
   "symbol": "izi",
   "name": "iZUMi Finance",
-  "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+  "address": "0x9ad37205d608b8b219e6a2573f922094cec5c200",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

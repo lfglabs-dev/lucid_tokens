@@ -1,7 +1,7 @@
 {
   "symbol": "elmt",
   "name": "Element",
-  "address": "0x600D601D8b9EB5DE5Ac90fEfC68d0d08801bFd3f",
+  "address": "0x600d601d8b9eb5de5ac90fefc68d0d08801bfd3f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wolf",
   "name": "Landwolf",
-  "address": "0x9c7D4Fb43919DEf524C1a9d92FE836169eAF0615",
+  "address": "0x9c7d4fb43919def524c1a9d92fe836169eaf0615",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

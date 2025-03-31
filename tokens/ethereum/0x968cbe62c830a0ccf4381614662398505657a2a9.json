@@ -1,7 +1,7 @@
 {
   "symbol": "tpy",
   "name": "Thrupenny",
-  "address": "0x968Cbe62c830A0Ccf4381614662398505657A2A9",
+  "address": "0x968cbe62c830a0ccf4381614662398505657a2a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

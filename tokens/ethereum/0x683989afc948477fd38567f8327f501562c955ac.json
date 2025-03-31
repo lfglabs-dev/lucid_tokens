@@ -1,7 +1,7 @@
 {
   "symbol": "morphai",
   "name": "Morph AI",
-  "address": "0x683989aFc948477fd38567F8327F501562C955ac",
+  "address": "0x683989afc948477fd38567f8327f501562c955ac",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

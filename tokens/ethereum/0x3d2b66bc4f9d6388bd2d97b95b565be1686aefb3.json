@@ -1,7 +1,7 @@
 {
   "symbol": "lambo",
   "name": "$LAMBO",
-  "address": "0x3d2b66BC4f9D6388BD2d97B95b565BE1686aEfB3",
+  "address": "0x3d2b66bc4f9d6388bd2d97b95b565be1686aefb3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

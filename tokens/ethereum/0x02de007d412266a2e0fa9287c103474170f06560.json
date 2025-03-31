@@ -1,7 +1,7 @@
 {
   "symbol": "exd",
   "name": "Exorde",
-  "address": "0x02dE007D412266a2e0Fa9287C103474170F06560",
+  "address": "0x02de007d412266a2e0fa9287c103474170f06560",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "uspepe",
   "name": "American Pepe",
-  "address": "0x07040971246a73ebDa9Cf29ea1306bB47C7C4e76",
+  "address": "0x07040971246a73ebda9cf29ea1306bb47c7c4e76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

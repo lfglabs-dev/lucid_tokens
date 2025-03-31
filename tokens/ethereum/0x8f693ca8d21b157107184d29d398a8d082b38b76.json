@@ -1,7 +1,7 @@
 {
   "symbol": "data",
   "name": "Streamr",
-  "address": "0x8f693ca8D21b157107184d29D398A8D082b38b76",
+  "address": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ani",
   "name": "Anime",
-  "address": "0x75CB71325A44Fb102a742626B723054acb7E1394",
+  "address": "0x75cb71325a44fb102a742626b723054acb7e1394",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

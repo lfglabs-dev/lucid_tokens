@@ -1,7 +1,7 @@
 {
   "symbol": "dnt",
   "name": "district0x",
-  "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+  "address": "0x0abdace70d3790235af448c88547603b945604ea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "groq",
   "name": "GROQ",
-  "address": "0x3d330B8d4EB25B0933e564D7284D462346D453Ef",
+  "address": "0x3d330b8d4eb25b0933e564d7284d462346d453ef",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

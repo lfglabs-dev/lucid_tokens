@@ -1,7 +1,7 @@
 {
   "symbol": "$number",
   "name": "NUMBER",
-  "address": "0x6965fb688861C004F4F0117980c519B342419941",
+  "address": "0x6965fb688861c004f4f0117980c519b342419941",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

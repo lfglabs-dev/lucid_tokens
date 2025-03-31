@@ -1,7 +1,7 @@
 {
   "symbol": "$three",
   "name": "THREE",
-  "address": "0xa059b81568FeE88791de88232e838465826cf419",
+  "address": "0xa059b81568fee88791de88232e838465826cf419",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

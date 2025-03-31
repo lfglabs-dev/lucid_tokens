@@ -1,7 +1,7 @@
 {
   "symbol": "gfox",
   "name": "Galaxy Fox",
-  "address": "0x8F1CecE048Cade6b8a05dFA2f90EE4025F4F2662",
+  "address": "0x8f1cece048cade6b8a05dfa2f90ee4025f4f2662",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

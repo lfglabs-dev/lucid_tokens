@@ -1,7 +1,7 @@
 {
   "symbol": "zkhive",
   "name": "zkHive",
-  "address": "0x750C3A0A0cE9984EeB8C5D146DFF024B584E5E33",
+  "address": "0x750c3a0a0ce9984eeb8c5d146dff024b584e5e33",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

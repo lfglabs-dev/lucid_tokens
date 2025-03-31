@@ -1,7 +1,7 @@
 {
   "symbol": "ecox",
   "name": "ECOx",
-  "address": "0xcccD1Ba9f7acD6117834E0D28F25645dECb1736a",
+  "address": "0xcccd1ba9f7acd6117834e0d28f25645decb1736a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

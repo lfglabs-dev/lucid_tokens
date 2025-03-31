@@ -1,7 +1,7 @@
 {
   "symbol": "alphr",
   "name": "Alphr",
-  "address": "0xaa99199d1e9644b588796F3215089878440D58e0",
+  "address": "0xaa99199d1e9644b588796f3215089878440d58e0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

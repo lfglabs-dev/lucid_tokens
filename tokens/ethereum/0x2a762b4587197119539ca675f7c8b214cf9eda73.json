@@ -1,7 +1,7 @@
 {
   "symbol": "unai",
   "name": "Unknown AI",
-  "address": "0x2A762B4587197119539ca675f7C8B214CF9EdA73",
+  "address": "0x2a762b4587197119539ca675f7c8b214cf9eda73",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

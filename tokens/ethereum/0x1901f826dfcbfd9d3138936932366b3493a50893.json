@@ -1,7 +1,7 @@
 {
   "symbol": "sphynx",
   "name": "Sphynx Labs",
-  "address": "0x1901F826DFcbfD9D3138936932366b3493A50893",
+  "address": "0x1901f826dfcbfd9d3138936932366b3493a50893",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

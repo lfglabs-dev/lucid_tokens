@@ -1,7 +1,7 @@
 {
   "symbol": "ddbam",
   "name": "Didi Bam Bam",
-  "address": "0x5832Fbf930DacbDd9a1697dCA7b3C518277FF0b0",
+  "address": "0x5832fbf930dacbdd9a1697dca7b3c518277ff0b0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

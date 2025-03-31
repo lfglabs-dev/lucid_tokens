@@ -1,7 +1,7 @@
 {
   "symbol": "$jones",
   "name": "$JONES",
-  "address": "0x9F5E508182E1Cbd23EA5Ef65d1D6C342beb7d6D3",
+  "address": "0x9f5e508182e1cbd23ea5ef65d1d6c342beb7d6d3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

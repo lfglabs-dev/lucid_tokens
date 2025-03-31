@@ -1,7 +1,7 @@
 {
   "symbol": "dext",
   "name": "DexTools",
-  "address": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a",
+  "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

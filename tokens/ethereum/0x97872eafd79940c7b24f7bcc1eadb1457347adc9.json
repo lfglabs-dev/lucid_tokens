@@ -1,7 +1,7 @@
 {
   "symbol": "strp",
   "name": "Strips Finance",
-  "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+  "address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

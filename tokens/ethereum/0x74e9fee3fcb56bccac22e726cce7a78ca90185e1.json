@@ -1,7 +1,7 @@
 {
   "symbol": "rizo",
   "name": "Rizo",
-  "address": "0x74E9FEe3Fcb56BcCAC22e726cCe7a78cA90185E1",
+  "address": "0x74e9fee3fcb56bccac22e726cce7a78ca90185e1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

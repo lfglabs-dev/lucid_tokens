@@ -1,7 +1,7 @@
 {
   "symbol": "masa",
   "name": "Masa",
-  "address": "0x944824290CC12F31ae18Ef51216A223Ba4063092",
+  "address": "0x944824290cc12f31ae18ef51216a223ba4063092",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

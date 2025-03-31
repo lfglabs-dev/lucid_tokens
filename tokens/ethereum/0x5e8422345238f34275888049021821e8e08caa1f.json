@@ -1,7 +1,7 @@
 {
   "symbol": "frxeth",
   "name": "Frax Ether",
-  "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+  "address": "0x5e8422345238f34275888049021821e8e08caa1f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

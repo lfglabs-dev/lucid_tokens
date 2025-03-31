@@ -1,7 +1,7 @@
 {
   "symbol": "bor",
   "name": "BoringDAO [OLD]",
-  "address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+  "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

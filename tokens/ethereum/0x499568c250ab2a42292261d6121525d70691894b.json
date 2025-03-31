@@ -1,7 +1,7 @@
 {
   "symbol": "krw",
   "name": "KROWN",
-  "address": "0x499568c250Ab2a42292261d6121525d70691894b",
+  "address": "0x499568c250ab2a42292261d6121525d70691894b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -15,7 +15,6 @@
     "celo": "0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9",
     "ethereum": "0x499568c250ab2a42292261d6121525d70691894b",
     "avalanche": "0xa5acfeca5270bc9768633fbc86caa959b85ec8b7",
-    "polygon-pos": "0x6c3b2f402cd7d22ae2c319b9d2f16f57927a4a17",
-    "solana": "Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq"
+    "polygon-pos": "0x6c3b2f402cd7d22ae2c319b9d2f16f57927a4a17"
   }
 }

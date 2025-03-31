@@ -1,7 +1,7 @@
 {
   "symbol": "dovu",
   "name": "DOVU",
-  "address": "0x2aeAbde1aB736c59E9A19BeD67681869eEF39526",
+  "address": "0x2aeabde1ab736c59e9a19bed67681869eef39526",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "hedera-hashgraph": "0.0.3716059",
     "ethereum": "0x2aeabde1ab736c59e9a19bed67681869eef39526",
     "base": "0xb38266e0e9d9681b77aeb0a280e98131b953f865"
   }

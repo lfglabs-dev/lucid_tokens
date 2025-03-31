@@ -1,7 +1,7 @@
 {
   "symbol": "eon",
   "name": "Pantheon",
-  "address": "0xdD3878AC92166D6C4E46B26DDd162B72C00d1623",
+  "address": "0xdd3878ac92166d6c4e46b26ddd162b72c00d1623",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

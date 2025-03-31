@@ -1,7 +1,7 @@
 {
   "symbol": "zbu",
   "name": "Zeebu",
-  "address": "0xe77f6aCD24185e149e329C1C0F479201b9Ec2f4B",
+  "address": "0xe77f6acd24185e149e329c1c0f479201b9ec2f4b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

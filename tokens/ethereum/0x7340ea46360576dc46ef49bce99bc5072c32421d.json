@@ -1,7 +1,7 @@
 {
   "symbol": "dsq",
   "name": "DollarSqueeze",
-  "address": "0x7340eA46360576DC46Ef49bcE99Bc5072c32421d",
+  "address": "0x7340ea46360576dc46ef49bce99bc5072c32421d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

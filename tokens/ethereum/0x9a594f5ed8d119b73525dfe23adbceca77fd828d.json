@@ -1,7 +1,7 @@
 {
   "symbol": "triangle",
   "name": "dancing triangle",
-  "address": "0x9A594F5ed8D119B73525dfE23aDBCeCa77fD828D",
+  "address": "0x9a594f5ed8d119b73525dfe23adbceca77fd828d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x9a594f5ed8d119b73525dfe23adbceca77fd828d",
-    "solana": "8QwqzHgsGcVrxgT8Bf4U3MMsiAsFUpxTEEJu3RF7Mpvr"
+    "ethereum": "0x9a594f5ed8d119b73525dfe23adbceca77fd828d"
   }
 }

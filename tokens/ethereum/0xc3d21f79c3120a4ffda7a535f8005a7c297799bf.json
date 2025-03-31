@@ -1,7 +1,7 @@
 {
   "symbol": "term",
   "name": "Term Finance",
-  "address": "0xC3d21f79C3120A4fFda7A535f8005a7c297799bF",
+  "address": "0xc3d21f79c3120a4ffda7a535f8005a7c297799bf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

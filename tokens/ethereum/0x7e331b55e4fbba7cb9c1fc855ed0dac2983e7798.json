@@ -1,7 +1,7 @@
 {
   "symbol": "koai",
   "name": "KOI",
-  "address": "0x7E331B55E4fbBa7Cb9C1Fc855eD0dAc2983E7798",
+  "address": "0x7e331b55e4fbba7cb9c1fc855ed0dac2983e7798",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

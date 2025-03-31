@@ -1,7 +1,7 @@
 {
   "symbol": "suku",
   "name": "SUKU",
-  "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+  "address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

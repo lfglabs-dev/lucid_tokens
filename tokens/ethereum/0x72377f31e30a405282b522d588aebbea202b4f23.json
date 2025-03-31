@@ -1,7 +1,7 @@
 {
   "symbol": "vrn",
   "name": "Varen",
-  "address": "0x72377f31e30a405282b522d588AEbbea202b4f23",
+  "address": "0x72377f31e30a405282b522d588aebbea202b4f23",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

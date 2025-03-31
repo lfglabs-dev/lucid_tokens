@@ -1,7 +1,7 @@
 {
   "symbol": "bdx",
   "name": "Baby DragonX",
-  "address": "0x9f278Dc799BbC61ecB8e5Fb8035cbfA29803623B",
+  "address": "0x9f278dc799bbc61ecb8e5fb8035cbfa29803623b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

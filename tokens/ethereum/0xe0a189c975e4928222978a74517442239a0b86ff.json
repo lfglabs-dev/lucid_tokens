@@ -1,7 +1,7 @@
 {
   "symbol": "keys",
   "name": "Keys",
-  "address": "0xe0a189C975e4928222978A74517442239a0b86ff",
+  "address": "0xe0a189c975e4928222978a74517442239a0b86ff",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

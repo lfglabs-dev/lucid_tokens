@@ -1,7 +1,7 @@
 {
   "symbol": "wsb",
   "name": "Wall Street Bets",
-  "address": "0x6f91D21de4e40b3B80636B6b3Ba425B636b798CF",
+  "address": "0x6f91d21de4e40b3b80636b6b3ba425b636b798cf",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

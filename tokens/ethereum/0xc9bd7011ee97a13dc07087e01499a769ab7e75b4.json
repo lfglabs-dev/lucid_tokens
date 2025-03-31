@@ -1,7 +1,7 @@
 {
   "symbol": "peezy",
   "name": "Peezy",
-  "address": "0xC9bD7011Ee97a13dc07087e01499a769Ab7E75b4",
+  "address": "0xc9bd7011ee97a13dc07087e01499a769ab7e75b4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

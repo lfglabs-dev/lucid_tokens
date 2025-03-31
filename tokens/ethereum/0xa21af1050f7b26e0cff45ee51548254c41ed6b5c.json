@@ -1,7 +1,7 @@
 {
   "symbol": "osak",
   "name": "Osaka Protocol",
-  "address": "0xa21Af1050F7B26e0cfF45ee51548254C41ED6b5c",
+  "address": "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

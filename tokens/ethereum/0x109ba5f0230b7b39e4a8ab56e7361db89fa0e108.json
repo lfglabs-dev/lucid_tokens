@@ -1,7 +1,7 @@
 {
   "symbol": "turbo",
   "name": "TURBO.WIN",
-  "address": "0x109Ba5f0230B7b39E4a8AB56e7361dB89Fa0E108",
+  "address": "0x109ba5f0230b7b39e4a8ab56e7361db89fa0e108",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "rlp",
   "name": "Resolv RLP",
-  "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+  "address": "0x4956b52ae2ff65d74ca2d61207523288e4528f96",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

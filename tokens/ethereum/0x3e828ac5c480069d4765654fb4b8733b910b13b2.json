@@ -1,7 +1,7 @@
 {
   "symbol": "clny",
   "name": "Colony Network",
-  "address": "0x3E828ac5C480069D4765654Fb4b8733b910b13b2",
+  "address": "0x3e828ac5c480069d4765654fb4b8733b910b13b2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

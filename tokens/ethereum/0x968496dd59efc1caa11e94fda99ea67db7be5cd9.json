@@ -1,7 +1,7 @@
 {
   "symbol": "djt",
   "name": "TrumpChain",
-  "address": "0x968496Dd59EFc1Caa11e94FDA99eA67Db7be5cd9",
+  "address": "0x968496dd59efc1caa11e94fda99ea67db7be5cd9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

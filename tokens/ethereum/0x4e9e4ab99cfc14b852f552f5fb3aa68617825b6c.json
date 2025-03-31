@@ -1,7 +1,7 @@
 {
   "symbol": "slr",
   "name": "Solarcoin",
-  "address": "0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c",
+  "address": "0x4e9e4ab99cfc14b852f552f5fb3aa68617825b6c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

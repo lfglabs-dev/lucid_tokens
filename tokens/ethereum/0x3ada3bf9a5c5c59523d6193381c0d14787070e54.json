@@ -1,7 +1,7 @@
 {
   "symbol": "neva",
   "name": "Neva",
-  "address": "0x3aDa3BF9a5C5C59523d6193381C0d14787070e54",
+  "address": "0x3ada3bf9a5c5c59523d6193381c0d14787070e54",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

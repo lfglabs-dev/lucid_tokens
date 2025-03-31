@@ -1,7 +1,7 @@
 {
   "symbol": "epik",
   "name": "Epik Prime",
-  "address": "0x4da0C48376C277cdBd7Fc6FdC6936DEE3e4AdF75",
+  "address": "0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

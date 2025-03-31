@@ -1,7 +1,7 @@
 {
   "symbol": "axe",
   "name": "Axe Cap",
-  "address": "0x070E984fda37DD942f5c953F6b2375339aDAc308",
+  "address": "0x070e984fda37dd942f5c953f6b2375339adac308",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

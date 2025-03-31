@@ -1,7 +1,7 @@
 {
   "symbol": "a4m",
   "name": "AlienForm",
-  "address": "0xf92D62Ed69242D655E685C96B98f32F1409c3262",
+  "address": "0xf92d62ed69242d655e685c96b98f32f1409c3262",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

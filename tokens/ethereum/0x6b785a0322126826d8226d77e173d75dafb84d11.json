@@ -1,7 +1,7 @@
 {
   "symbol": "vlt",
   "name": "Bankroll Vault",
-  "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+  "address": "0x6b785a0322126826d8226d77e173d75dafb84d11",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

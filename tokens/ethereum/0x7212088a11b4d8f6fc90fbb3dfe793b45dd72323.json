@@ -1,7 +1,7 @@
 {
   "symbol": "bgme",
   "name": "Backed GameStop Corp",
-  "address": "0x7212088A11b4d8f6FC90fbB3dfE793B45dd72323",
+  "address": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "knight",
   "name": "CitaDAO",
-  "address": "0x3541A5C1b04AdABA0B83F161747815cd7B1516bC",
+  "address": "0x3541a5c1b04adaba0b83f161747815cd7b1516bc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

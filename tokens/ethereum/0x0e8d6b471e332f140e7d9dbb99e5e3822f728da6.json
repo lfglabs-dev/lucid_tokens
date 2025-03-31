@@ -1,7 +1,7 @@
 {
   "symbol": "abyss",
   "name": "Abyss",
-  "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
+  "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

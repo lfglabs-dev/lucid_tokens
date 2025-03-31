@@ -1,7 +1,7 @@
 {
   "symbol": "aag",
   "name": "AAG",
-  "address": "0x5ba19d656B65f1684cFea4Af428C23B9f3628F97",
+  "address": "0x5ba19d656b65f1684cfea4af428c23b9f3628f97",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

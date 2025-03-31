@@ -1,7 +1,7 @@
 {
   "symbol": "mmev",
   "name": "Midas mMEV",
-  "address": "0x030b69280892c888670EDCDCD8B69Fd8026A0BF3",
+  "address": "0x030b69280892c888670edcdcd8b69fd8026a0bf3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ogv",
   "name": "Origin DeFi Governance",
-  "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+  "address": "0x9c354503c38481a7a7a51629142963f98ecc12d0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

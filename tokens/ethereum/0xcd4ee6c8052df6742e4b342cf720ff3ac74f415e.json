@@ -1,7 +1,7 @@
 {
   "symbol": "stelai",
   "name": "StellaryAI",
-  "address": "0xCD4Ee6c8052Df6742e4B342cF720FF3ac74F415e",
+  "address": "0xcd4ee6c8052df6742e4b342cf720ff3ac74f415e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "vwo.d",
   "name": "Dinari VWO",
-  "address": "0x9f9e5C45D95D66E85E8A878007BF27CA2d987394",
+  "address": "0x9f9e5c45d95d66e85e8a878007bf27ca2d987394",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

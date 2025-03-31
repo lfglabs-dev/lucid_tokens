@@ -1,7 +1,7 @@
 {
   "symbol": "hot",
   "name": "Holo",
-  "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+  "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -12,7 +12,6 @@
   "platforms": {
     "ethereum": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
     "harmony-shard-0": "0x5dfeadcdd2d4eb29ac5ae876daa07ffd07bf6483",
-    "energi": "0x34b97eeab6fd9bbe95a5eaf4645307c5a6f3d4d0",
-    "sora": "0x004baaeb9bf0d5210a51fab72d10c84a34f53bea4e0e102d794d531a45ec50f9"
+    "energi": "0x34b97eeab6fd9bbe95a5eaf4645307c5a6f3d4d0"
   }
 }

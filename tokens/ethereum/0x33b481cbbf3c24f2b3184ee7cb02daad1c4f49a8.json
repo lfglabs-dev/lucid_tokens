@@ -1,7 +1,7 @@
 {
   "symbol": "d",
   "name": "Dar Open Network",
-  "address": "0x33b481CbBF3c24f2B3184Ee7Cb02dAAD1C4F49A8",
+  "address": "0x33b481cbbf3c24f2b3184ee7cb02daad1c4f49a8",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

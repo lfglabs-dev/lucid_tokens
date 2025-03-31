@@ -1,7 +1,7 @@
 {
   "symbol": "xom.d",
   "name": "Dinari XOM",
-  "address": "0x52926F7f983d3D7DDcBE644A809D67bBE4a9e785",
+  "address": "0x52926f7f983d3d7ddcbe644a809d67bbe4a9e785",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "re7cbbtc",
   "name": "Re7 cbBTC",
-  "address": "0xA02F5E93f783baF150Aa1F8b341Ae90fe0a772f7",
+  "address": "0xa02f5e93f783baf150aa1f8b341ae90fe0a772f7",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

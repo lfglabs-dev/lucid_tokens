@@ -1,7 +1,7 @@
 {
   "symbol": "temco",
   "name": "TEMCO",
-  "address": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
+  "address": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "cto",
   "name": "Chief Troll Officer",
-  "address": "0xa426660830ed887A25c1C6158Ca348038e1A37cB",
+  "address": "0xa426660830ed887a25c1c6158ca348038e1a37cb",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

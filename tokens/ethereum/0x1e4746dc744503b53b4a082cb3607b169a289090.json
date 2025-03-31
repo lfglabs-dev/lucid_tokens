@@ -1,7 +1,7 @@
 {
   "symbol": "ipor",
   "name": "IPOR",
-  "address": "0x1e4746dC744503b53b4A082cB3607B169a289090",
+  "address": "0x1e4746dc744503b53b4a082cb3607b169a289090",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

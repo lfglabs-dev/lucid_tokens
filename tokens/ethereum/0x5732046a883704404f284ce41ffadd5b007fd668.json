@@ -1,7 +1,7 @@
 {
   "symbol": "blz",
   "name": "Bluzelle",
-  "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+  "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x5732046a883704404f284ce41ffadd5b007fd668",
-    "osmosis": "ibc/63CDD51098FD99E04E5F5610A3882CBE7614C441607BA6FCD7F3A3C1CD5325F8",
     "energi": "0x3fa2c976654a6ba6dcb1e532a4b1e31fd4dcd3b9",
     "binance-smart-chain": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2"
   }

@@ -1,7 +1,7 @@
 {
   "symbol": "sohot",
   "name": "SOHOTRN",
-  "address": "0xC3f8143212871014B472EA83285aF7f25928DeE4",
+  "address": "0xc3f8143212871014b472ea83285af7f25928dee4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

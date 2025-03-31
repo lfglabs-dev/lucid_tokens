@@ -1,7 +1,7 @@
 {
   "symbol": "nmai",
   "name": "NomotaAI",
-  "address": "0x837EE5a664d51Bc2e7d26EB63cFfEb48e037bdE2",
+  "address": "0x837ee5a664d51bc2e7d26eb63cffeb48e037bde2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

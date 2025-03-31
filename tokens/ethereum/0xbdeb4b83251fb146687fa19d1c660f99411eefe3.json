@@ -1,7 +1,7 @@
 {
   "symbol": "svd",
   "name": "Savedroid",
-  "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
+  "address": "0xbdeb4b83251fb146687fa19d1c660f99411eefe3",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

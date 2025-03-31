@@ -1,7 +1,7 @@
 {
   "symbol": "kata",
   "name": "Katana Inu",
-  "address": "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
+  "address": "0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "civ",
   "name": "Civilization",
-  "address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+  "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

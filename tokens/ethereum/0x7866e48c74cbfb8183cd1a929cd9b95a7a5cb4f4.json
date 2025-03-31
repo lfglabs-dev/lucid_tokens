@@ -1,7 +1,7 @@
 {
   "symbol": "kit",
   "name": "DexKit",
-  "address": "0x7866E48C74CbFB8183cd1a929cd9b95a7a5CB4F4",
+  "address": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

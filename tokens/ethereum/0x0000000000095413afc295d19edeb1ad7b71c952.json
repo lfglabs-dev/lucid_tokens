@@ -1,7 +1,7 @@
 {
   "symbol": "lon",
   "name": "Tokenlon",
-  "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
+  "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

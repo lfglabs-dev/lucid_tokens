@@ -1,7 +1,7 @@
 {
   "symbol": "io",
   "name": "Ideal Opportunities",
-  "address": "0x7468D234a8db6f1085dbf4E403553bFEd41Df95C",
+  "address": "0x7468d234a8db6f1085dbf4e403553bfed41df95c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

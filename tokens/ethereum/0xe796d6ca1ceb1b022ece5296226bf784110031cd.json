@@ -1,7 +1,7 @@
 {
   "symbol": "bles",
   "name": "Blind Boxes",
-  "address": "0xE796d6ca1ceb1b022EcE5296226BF784110031Cd",
+  "address": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "ita.d",
   "name": "Dinari ITA",
-  "address": "0x993d9CA16686746fEf44e320e7f091578710cD18",
+  "address": "0x993d9ca16686746fef44e320e7f091578710cd18",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

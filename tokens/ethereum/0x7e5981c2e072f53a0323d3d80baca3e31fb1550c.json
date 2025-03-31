@@ -1,7 +1,7 @@
 {
   "symbol": "jovjou",
   "name": "JovJou",
-  "address": "0x7e5981c2E072F53a0323D3d80bAca3e31fb1550c",
+  "address": "0x7e5981c2e072f53a0323d3d80baca3e31fb1550c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

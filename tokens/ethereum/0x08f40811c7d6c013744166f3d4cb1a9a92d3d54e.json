@@ -1,7 +1,7 @@
 {
   "symbol": "nvg",
   "name": "NightVerse Game",
-  "address": "0x08F40811C7d6C013744166f3d4CB1A9A92D3D54E",
+  "address": "0x08f40811c7d6c013744166f3d4cb1a9a92d3d54e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

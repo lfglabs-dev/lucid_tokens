@@ -1,7 +1,7 @@
 {
   "symbol": "hq",
   "name": "HQ",
-  "address": "0xde6AcEAF7F2dCEB3d425643C5F85351f2B38FcdE",
+  "address": "0xde6aceaf7f2dceb3d425643c5f85351f2b38fcde",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "freedom",
   "name": "FREEDOM",
-  "address": "0xB49bF1dbDc567b997733093880734F030174474c",
+  "address": "0xb49bf1dbdc567b997733093880734f030174474c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

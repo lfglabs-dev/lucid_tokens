@@ -1,7 +1,7 @@
 {
   "symbol": "vix",
   "name": "VIX777",
-  "address": "0x283D480dFD6921055E9C335FC177bF8Cb9C94184",
+  "address": "0x283d480dfd6921055e9c335fc177bf8cb9c94184",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "zro",
   "name": "LayerZero",
-  "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+  "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

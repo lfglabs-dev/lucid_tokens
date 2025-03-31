@@ -1,7 +1,7 @@
 {
   "symbol": "rdx",
   "name": "RandomDEX",
-  "address": "0xF222b0E892f419c35e61892CdDf0a8ec190C4B9d",
+  "address": "0xf222b0e892f419c35e61892cddf0a8ec190c4b9d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

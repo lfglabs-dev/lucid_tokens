@@ -1,7 +1,7 @@
 {
   "symbol": "fomo",
   "name": "FOMO Network",
-  "address": "0x9028C2A7f8C8530450549915c5338841Db2a5fEa",
+  "address": "0x9028c2a7f8c8530450549915c5338841db2a5fea",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "bmc",
   "name": "BountyMarketCap",
-  "address": "0xd945d2031b4C63C0E363304FB771F709b502DC0a",
+  "address": "0xd945d2031b4c63c0e363304fb771f709b502dc0a",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

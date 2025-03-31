@@ -1,7 +1,7 @@
 {
   "symbol": "troppy",
   "name": "TROPPY",
-  "address": "0x7EeaB3De47a475FD2dec438AEF05b128887C6105",
+  "address": "0x7eeab3de47a475fd2dec438aef05b128887c6105",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

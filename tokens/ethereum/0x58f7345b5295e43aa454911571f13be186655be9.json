@@ -1,7 +1,7 @@
 {
   "symbol": "grlc",
   "name": "Garlicoin",
-  "address": "0x58f7345b5295E43aA454911571f13be186655BE9",
+  "address": "0x58f7345b5295e43aa454911571f13be186655be9",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

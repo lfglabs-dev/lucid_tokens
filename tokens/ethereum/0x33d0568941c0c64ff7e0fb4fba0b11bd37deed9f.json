@@ -1,7 +1,7 @@
 {
   "symbol": "ramp",
   "name": "RAMP [OLD]",
-  "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+  "address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,7 +1,7 @@
 {
   "symbol": "wfai",
   "name": "WaifuAI",
-  "address": "0x8A001303158670E284950565164933372807cD48",
+  "address": "0x8a001303158670e284950565164933372807cd48",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

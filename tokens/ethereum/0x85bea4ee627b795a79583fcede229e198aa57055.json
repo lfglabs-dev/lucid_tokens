@@ -1,7 +1,7 @@
 {
   "symbol": "marvin",
   "name": "Marvin Inu",
-  "address": "0x85bEA4eE627B795A79583FcedE229E198aa57055",
+  "address": "0x85bea4ee627b795a79583fcede229e198aa57055",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

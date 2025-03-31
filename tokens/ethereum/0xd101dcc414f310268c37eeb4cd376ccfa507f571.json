@@ -1,7 +1,7 @@
 {
   "symbol": "rsc",
   "name": "ResearchCoin",
-  "address": "0xD101dCC414F310268c37eEb4cD376CcFA507F571",
+  "address": "0xd101dcc414f310268c37eeb4cd376ccfa507f571",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

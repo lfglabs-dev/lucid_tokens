@@ -1,7 +1,7 @@
 {
   "symbol": "fug",
   "name": "FUG",
-  "address": "0xc4b9e3aa1071741220A548832C887B39Cb621970",
+  "address": "0xc4b9e3aa1071741220a548832c887b39cb621970",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

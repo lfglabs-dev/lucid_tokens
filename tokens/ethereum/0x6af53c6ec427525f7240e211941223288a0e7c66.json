@@ -1,7 +1,7 @@
 {
   "symbol": "warped",
   "name": "Warped Games",
-  "address": "0x6aF53C6ec427525f7240E211941223288a0E7C66",
+  "address": "0x6af53c6ec427525f7240e211941223288a0e7c66",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

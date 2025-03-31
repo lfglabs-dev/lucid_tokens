@@ -1,7 +1,7 @@
 {
   "symbol": "drbt",
   "name": "DeFi-Robot",
-  "address": "0x661013bB8D1C95D86D9C85f76E9004561F1bB36F",
+  "address": "0x661013bb8d1c95d86d9c85f76e9004561f1bb36f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

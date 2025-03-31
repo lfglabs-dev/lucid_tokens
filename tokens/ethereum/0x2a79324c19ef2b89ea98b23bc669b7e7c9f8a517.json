@@ -1,7 +1,7 @@
 {
   "symbol": "waxp",
   "name": "WAX",
-  "address": "0x2A79324c19Ef2B89Ea98b23BC669B7E7c9f8A517",
+  "address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

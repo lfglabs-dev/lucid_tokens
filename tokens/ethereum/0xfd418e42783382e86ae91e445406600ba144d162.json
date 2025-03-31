@@ -1,7 +1,7 @@
 {
   "symbol": "zrc",
   "name": "Zircuit",
-  "address": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+  "address": "0xfd418e42783382e86ae91e445406600ba144d162",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

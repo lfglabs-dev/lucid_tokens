@@ -1,7 +1,7 @@
 {
   "symbol": "kyra",
   "name": "KYRA",
-  "address": "0x4B41A481a7A3E0396751aA49BEe970B842FdAedE",
+  "address": "0x4b41a481a7a3e0396751aa49bee970b842fdaede",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

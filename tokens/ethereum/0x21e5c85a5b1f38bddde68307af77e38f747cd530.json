@@ -1,7 +1,7 @@
 {
   "symbol": "dogs",
   "name": "Doggensnout Skeptic",
-  "address": "0x21E5c85a5B1f38bdDDE68307Af77e38f747Cd530",
+  "address": "0x21e5c85a5b1f38bddde68307af77e38f747cd530",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

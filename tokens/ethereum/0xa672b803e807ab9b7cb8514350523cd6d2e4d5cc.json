@@ -1,7 +1,7 @@
 {
   "symbol": "nihao",
   "name": "Nihao Coin",
-  "address": "0xa672b803e807AB9B7cb8514350523cd6D2e4D5cc",
+  "address": "0xa672b803e807ab9b7cb8514350523cd6d2e4d5cc",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

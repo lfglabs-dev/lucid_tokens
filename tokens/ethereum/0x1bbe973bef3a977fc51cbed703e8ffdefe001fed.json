@@ -1,7 +1,7 @@
 {
   "symbol": "portal",
   "name": "Portal",
-  "address": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed",
+  "address": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
-    "solana": "FMQjDvT1GztVxdvYgMBEde4L54fftFGx9m5GmbqeJGM5"
+    "ethereum": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed"
   }
 }

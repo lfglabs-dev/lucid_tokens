@@ -1,7 +1,7 @@
 {
   "symbol": "veth",
   "name": "Vector ETH",
-  "address": "0x38D64ce1Bdf1A9f24E0Ec469C9cAde61236fB4a0",
+  "address": "0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

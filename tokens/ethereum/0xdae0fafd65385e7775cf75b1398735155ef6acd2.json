@@ -1,7 +1,7 @@
 {
   "symbol": "truu",
   "name": "Truth",
-  "address": "0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2",
+  "address": "0xdae0fafd65385e7775cf75b1398735155ef6acd2",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

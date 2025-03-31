@@ -1,7 +1,7 @@
 {
   "symbol": "wbt",
   "name": "WhiteBIT Coin",
-  "address": "0x925206b8a707096Ed26ae47C84747fE0bb734F59",
+  "address": "0x925206b8a707096ed26ae47c84747fe0bb734f59",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x925206b8a707096ed26ae47c84747fe0bb734f59",
-    "tron": "TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt"
+    "ethereum": "0x925206b8a707096ed26ae47c84747fe0bb734f59"
   }
 }

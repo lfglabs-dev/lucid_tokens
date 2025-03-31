@@ -1,7 +1,7 @@
 {
   "symbol": "dg",
   "name": "Decentral Games (Old)",
-  "address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+  "address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

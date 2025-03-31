@@ -1,7 +1,7 @@
 {
   "symbol": "nym",
   "name": "Nym",
-  "address": "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
+  "address": "0x525a8f6f3ba4752868cde25164382bfbae3990e1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -10,7 +10,6 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x525a8f6f3ba4752868cde25164382bfbae3990e1",
-    "osmosis": "ibc/37CB3078432510EE57B9AFA8DBE028B33AE3280A144826FEAC5F2334CF2C5539"
+    "ethereum": "0x525a8f6f3ba4752868cde25164382bfbae3990e1"
   }
 }

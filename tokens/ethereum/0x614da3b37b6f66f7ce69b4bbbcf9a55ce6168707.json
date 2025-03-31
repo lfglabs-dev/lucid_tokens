@@ -1,7 +1,7 @@
 {
   "symbol": "mmx",
   "name": "MMX",
-  "address": "0x614Da3b37B6F66F7Ce69B4Bbbcf9a55CE6168707",
+  "address": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
   "decimals": 18,
   "type": "ERC20",
   "logo": {
@@ -11,7 +11,6 @@
   },
   "platforms": {
     "ethereum": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
-    "polygon-pos": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e",
-    "solana": "8bd3PSBp15xbjjCJzEJDrQDPiBTXgAJtgoxTcmXxytWL"
+    "polygon-pos": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e"
   }
 }

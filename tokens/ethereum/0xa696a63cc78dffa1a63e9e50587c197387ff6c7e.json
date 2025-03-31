@@ -1,7 +1,7 @@
 {
   "symbol": "yvwbtc",
   "name": "WBTC yVault",
-  "address": "0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E",
+  "address": "0xa696a63cc78dffa1a63e9e50587c197387ff6c7e",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

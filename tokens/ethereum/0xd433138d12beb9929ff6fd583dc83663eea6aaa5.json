@@ -1,7 +1,7 @@
 {
   "symbol": "btr",
   "name": "Bitrue Coin",
-  "address": "0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+  "address": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

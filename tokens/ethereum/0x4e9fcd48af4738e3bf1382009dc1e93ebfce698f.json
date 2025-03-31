@@ -1,7 +1,7 @@
 {
   "symbol": "taonu",
   "name": "TAO INU",
-  "address": "0x4e9fcD48Af4738e3bF1382009dC1e93eBFCE698F",
+  "address": "0x4e9fcd48af4738e3bf1382009dc1e93ebfce698f",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

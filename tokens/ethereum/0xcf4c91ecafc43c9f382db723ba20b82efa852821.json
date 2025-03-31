@@ -1,7 +1,7 @@
 {
   "symbol": "$truth",
   "name": "Truth Inu",
-  "address": "0xCF4C91ECaFc43C9F382DB723Ba20B82efa852821",
+  "address": "0xcf4c91ecafc43c9f382db723ba20b82efa852821",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

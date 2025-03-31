@@ -1,7 +1,7 @@
 {
   "symbol": "shft",
   "name": "Shyft Network",
-  "address": "0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85",
+  "address": "0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

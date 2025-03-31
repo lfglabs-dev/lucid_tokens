@@ -1,7 +1,7 @@
 {
   "symbol": "mnto",
   "name": "Minato",
-  "address": "0x97a9bac06f90940bCe9CAeC2b880ff17707519e4",
+  "address": "0x97a9bac06f90940bce9caec2b880ff17707519e4",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

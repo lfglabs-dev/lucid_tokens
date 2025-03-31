@@ -1,7 +1,7 @@
 {
   "symbol": "utu",
   "name": "UTU Coin",
-  "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
+  "address": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

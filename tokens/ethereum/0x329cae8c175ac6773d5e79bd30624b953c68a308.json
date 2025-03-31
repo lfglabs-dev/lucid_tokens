@@ -1,7 +1,7 @@
 {
   "symbol": "misty",
   "name": "Misty Meets Pepe",
-  "address": "0x329CaE8C175ac6773D5e79bd30624b953C68a308",
+  "address": "0x329cae8c175ac6773d5e79bd30624b953c68a308",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

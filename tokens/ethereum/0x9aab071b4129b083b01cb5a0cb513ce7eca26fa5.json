@@ -1,7 +1,7 @@
 {
   "symbol": "hunt",
   "name": "Hunt",
-  "address": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+  "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

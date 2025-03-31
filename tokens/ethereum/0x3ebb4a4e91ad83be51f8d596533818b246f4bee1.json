@@ -1,7 +1,7 @@
 {
   "symbol": "sata",
   "name": "Signata",
-  "address": "0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1",
+  "address": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

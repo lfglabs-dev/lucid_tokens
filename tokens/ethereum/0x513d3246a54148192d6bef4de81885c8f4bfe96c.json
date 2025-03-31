@@ -1,7 +1,7 @@
 {
   "symbol": "gon",
   "name": "GOLFIN",
-  "address": "0x513D3246A54148192d6bEf4de81885c8F4bFE96c",
+  "address": "0x513d3246a54148192d6bef4de81885c8f4bfe96c",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

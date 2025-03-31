@@ -1,7 +1,7 @@
 {
   "symbol": "kine",
   "name": "Kine Protocol",
-  "address": "0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D",
+  "address": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

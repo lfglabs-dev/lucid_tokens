@@ -1,7 +1,7 @@
 {
   "symbol": "horus",
   "name": "HORUS",
-  "address": "0xf23E25286b7Abf0458746c098a847FdBA3dd9633",
+  "address": "0xf23e25286b7abf0458746c098a847fdba3dd9633",
   "decimals": 18,
   "type": "ERC20",
   "logo": {

@@ -1,6 +1,6 @@
 {
-  "symbol": "ath",
-  "name": "AthenaDAO",
+  "symbol": "ATH",
+  "name": "AthenaDAO Token",
   "address": "0xa4ffdf3208f46898ce063e25c1c43056fa754739",
   "decimals": 18,
   "type": "ERC20",

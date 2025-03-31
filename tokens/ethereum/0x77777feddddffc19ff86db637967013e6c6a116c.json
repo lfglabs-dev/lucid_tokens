@@ -1,6 +1,6 @@
 {
-  "symbol": "torn",
-  "name": "Tornado Cash",
+  "symbol": "TORN",
+  "name": "TornadoCash",
   "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
   "decimals": 18,
   "type": "ERC20",

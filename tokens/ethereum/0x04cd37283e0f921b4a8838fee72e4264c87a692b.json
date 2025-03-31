@@ -1,6 +1,6 @@
 {
-  "symbol": "star",
-  "name": "Sponstar",
+  "symbol": "$STAR",
+  "name": "StarOFToken",
   "address": "0x04cd37283e0f921b4a8838fee72e4264c87a692b",
   "decimals": 18,
   "type": "ERC20",

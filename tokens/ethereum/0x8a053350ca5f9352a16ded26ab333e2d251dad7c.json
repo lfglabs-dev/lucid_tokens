@@ -1,6 +1,6 @@
 {
-  "symbol": "mmeth",
-  "name": "Eigenpie mETH",
+  "symbol": "mmETH",
+  "name": "mmETH",
   "address": "0x8a053350ca5f9352a16ded26ab333e2d251dad7c",
   "decimals": 18,
   "type": "ERC20",

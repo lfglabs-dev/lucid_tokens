@@ -1,6 +1,6 @@
 {
-  "symbol": "ath",
-  "name": "Aethir",
+  "symbol": "ATH",
+  "name": "Aethir Token",
   "address": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
   "decimals": 18,
   "type": "ERC20",

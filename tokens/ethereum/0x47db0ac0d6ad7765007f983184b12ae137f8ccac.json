@@ -1,6 +1,6 @@
 {
-  "symbol": "hut.d",
-  "name": "Dinari HUT",
+  "symbol": "HUT.d",
+  "name": "Hut 8 Corp. Common Stock - Dinari",
   "address": "0x47db0ac0d6ad7765007f983184b12ae137f8ccac",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "celo",
-  "name": "Celo (Wormhole)",
+  "symbol": "CELO",
+  "name": "Celo native asset",
   "address": "0x3294395e62f4eb6af3f1fcf89f5602d90fb3ef69",
   "decimals": 18,
   "type": "ERC20",

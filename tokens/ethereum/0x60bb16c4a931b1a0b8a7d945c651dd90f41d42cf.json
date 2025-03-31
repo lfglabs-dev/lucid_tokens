@@ -1,6 +1,6 @@
 {
-  "symbol": "fbx",
-  "name": "Finance Blocks",
+  "symbol": "FBX",
+  "name": "FinanceBlocks",
   "address": "0x60bb16c4a931b1a0b8a7d945c651dd90f41d42cf",
   "decimals": 18,
   "type": "ERC20",

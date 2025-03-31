@@ -1,6 +1,6 @@
 {
-  "symbol": "epiko",
-  "name": "Epiko",
+  "symbol": "EPIKO",
+  "name": "Epiko Regal",
   "address": "0xb62e24b747eaa41454857cf6011832117df59cb8",
   "decimals": 18,
   "type": "ERC20",

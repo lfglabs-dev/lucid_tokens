@@ -1,8 +1,8 @@
 {
-  "symbol": "king",
-  "name": "KING Coin",
+  "symbol": "KING",
+  "name": "KING",
   "address": "0xe28027c99c7746ffb56b0113e5d9708ac86fae8f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30183/thumb/king.png?1683600013",

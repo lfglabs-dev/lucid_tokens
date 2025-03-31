@@ -1,8 +1,8 @@
 {
-  "symbol": "gala",
-  "name": "GALA",
+  "symbol": "GALA",
+  "name": "Gala",
   "address": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12493/thumb/GALA-COINGECKO.png?1600233435",

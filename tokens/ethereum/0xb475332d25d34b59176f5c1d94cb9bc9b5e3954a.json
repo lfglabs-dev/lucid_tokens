@@ -1,8 +1,8 @@
 {
-  "symbol": "hobbes",
+  "symbol": "HOBBES",
   "name": "Hobbes",
   "address": "0xb475332d25d34b59176f5c1d94cb9bc9b5e3954a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30928/thumb/hobbes.jpeg?1688967508",

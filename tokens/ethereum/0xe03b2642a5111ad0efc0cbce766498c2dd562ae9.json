@@ -1,8 +1,8 @@
 {
-  "symbol": "bc",
-  "name": "Old Bitcoin",
+  "symbol": "BC",
+  "name": "Bitcoin",
   "address": "0xe03b2642a5111ad0efc0cbce766498c2dd562ae9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28832/thumb/bitcoinlogo.png?1674790389",

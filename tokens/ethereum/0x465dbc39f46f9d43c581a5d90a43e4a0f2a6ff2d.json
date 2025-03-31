@@ -1,8 +1,8 @@
 {
-  "symbol": "$ito",
+  "symbol": "ITO",
   "name": "ITO",
   "address": "0x465dbc39f46f9d43c581a5d90a43e4a0f2a6ff2d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50324/thumb/Ito.png?1727162006",

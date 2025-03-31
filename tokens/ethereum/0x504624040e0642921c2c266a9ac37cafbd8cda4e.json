@@ -1,6 +1,6 @@
 {
-  "symbol": "love",
-  "name": "Love Power Coin",
+  "symbol": "LOVE",
+  "name": "LOVE",
   "address": "0x504624040e0642921c2c266a9ac37cafbd8cda4e",
   "decimals": 18,
   "type": "ERC20",

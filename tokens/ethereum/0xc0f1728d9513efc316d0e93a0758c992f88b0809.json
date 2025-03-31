@@ -1,8 +1,8 @@
 {
-  "symbol": "swat",
+  "symbol": "SWAT",
   "name": "SWTCoin",
   "address": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/5985/thumb/swtcoin.jpg?1547041927",

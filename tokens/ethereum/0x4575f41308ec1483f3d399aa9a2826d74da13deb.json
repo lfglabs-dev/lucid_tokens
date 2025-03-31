@@ -1,6 +1,6 @@
 {
-  "symbol": "oxt",
-  "name": "Orchid Protocol",
+  "symbol": "OXT",
+  "name": "Orchid",
   "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
   "decimals": 18,
   "type": "ERC20",

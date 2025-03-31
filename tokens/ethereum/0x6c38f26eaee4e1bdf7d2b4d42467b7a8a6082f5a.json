@@ -1,8 +1,8 @@
 {
-  "symbol": "shiro",
-  "name": "Shiro Neko CTO",
+  "symbol": "SHIRO",
+  "name": "ShiroNeko",
   "address": "0x6c38f26eaee4e1bdf7d2b4d42467b7a8a6082f5a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52459/thumb/IMG_7959.jpeg?1733397068",

@@ -1,8 +1,8 @@
 {
-  "symbol": "mellow",
+  "symbol": "MELLOW",
   "name": "Mellow Man",
   "address": "0x6942040b6d25d6207e98f8e26c6101755d67ac89",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39768/thumb/Mellow_Man.png?1724034992",

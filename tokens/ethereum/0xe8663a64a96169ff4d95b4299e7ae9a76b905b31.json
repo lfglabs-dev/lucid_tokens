@@ -1,8 +1,8 @@
 {
-  "symbol": "rating",
-  "name": "DPRating",
+  "symbol": "Rating",
+  "name": "Rating",
   "address": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/5383/thumb/dprating.png?1547224023",

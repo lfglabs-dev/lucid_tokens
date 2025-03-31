@@ -1,6 +1,6 @@
 {
-  "symbol": "anc",
-  "name": "Anchor Protocol",
+  "symbol": "ANC",
+  "name": "Wrapped ANC Token",
   "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
   "decimals": 18,
   "type": "ERC20",

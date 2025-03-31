@@ -1,6 +1,6 @@
 {
-  "symbol": "dyp",
-  "name": "Dypius [OLD]",
+  "symbol": "DYP",
+  "name": "DeFiYieldProtocol",
   "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
   "decimals": 18,
   "type": "ERC20",

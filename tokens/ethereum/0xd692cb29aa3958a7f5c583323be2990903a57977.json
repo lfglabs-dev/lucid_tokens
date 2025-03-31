@@ -1,6 +1,6 @@
 {
-  "symbol": "quant",
-  "name": "QUANT",
+  "symbol": "QUANT",
+  "name": "Quant",
   "address": "0xd692cb29aa3958a7f5c583323be2990903a57977",
   "decimals": 18,
   "type": "ERC20",

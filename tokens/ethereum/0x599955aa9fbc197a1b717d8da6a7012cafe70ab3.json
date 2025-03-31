@@ -1,8 +1,8 @@
 {
-  "symbol": "bope",
+  "symbol": "BOPE",
   "name": "Book of Pepe",
   "address": "0x599955aa9fbc197a1b717d8da6a7012cafe70ab3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36314/thumb/1240A08A-6ABE-4913-9B52-05EC784212B7.jpeg?1711092031",

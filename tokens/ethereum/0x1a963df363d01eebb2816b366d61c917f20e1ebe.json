@@ -1,6 +1,6 @@
 {
-  "symbol": "$mememe",
-  "name": "MEMEME",
+  "symbol": "MEMEME",
+  "name": "Mememe",
   "address": "0x1a963df363d01eebb2816b366d61c917f20e1ebe",
   "decimals": 18,
   "type": "ERC20",

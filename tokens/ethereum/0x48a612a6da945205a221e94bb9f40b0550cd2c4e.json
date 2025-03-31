@@ -1,8 +1,8 @@
 {
-  "symbol": "sttia",
-  "name": "Bridged stTIA (Hyperlane)",
+  "symbol": "stTIA",
+  "name": "stTIA.stride-ethereum",
   "address": "0x48a612a6da945205a221e94bb9f40b0550cd2c4e",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39913/thumb/stTIA.png?1724785466",

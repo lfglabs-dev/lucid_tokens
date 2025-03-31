@@ -7,6 +7,16 @@ const path = require('path');
 const ora = require('ora').default;
 const { program } = require('commander');
 
+// QuickNode RPC
+const QUICKNODE_RPC = "YOUR_QUICKNODE_RPC_URL";
+
+// ERC20 ABI for decimals
+const ERC20_ABI = [
+  "function decimals() view returns (uint8)",
+  "function symbol() view returns (string)",
+  "function name() view returns (string)"
+];
+
 // CLI options
 program
   .option('-o, --output <dir>', 'Output directory', './tokens')
@@ -24,10 +34,28 @@ fs.ensureDirSync(outputDir);
 // Progress spinner
 const spinner = ora('Processing tokens').start();
 
+// Initialize provider
+const provider = new ethers.providers.JsonRpcProvider(QUICKNODE_RPC);
+
 function normalizeAddress(address) {
   try {
     return ethers.utils.getAddress(address).toLowerCase();
   } catch (error) {
+    return null;
+  }
+}
+
+async function getTokenInfo(address) {
+  try {
+    const contract = new ethers.Contract(address, ERC20_ABI, provider);
+    const [decimals, symbol, name] = await Promise.all([
+      contract.decimals(),
+      contract.symbol(),
+      contract.name()
+    ]);
+    return { decimals, symbol, name };
+  } catch (error) {
+    console.warn(`Failed to fetch token info for ${address}: ${error.message}`);
     return null;
   }
 }
@@ -48,12 +76,19 @@ async function processToken(token, chain, address) {
     return;
   }
 
+  // Fetch actual token info from contract
+  const tokenInfo = await getTokenInfo(normalizedAddress);
+  if (!tokenInfo) {
+    console.warn(`Skipping token ${token.symbol} on chain ${chain} due to contract error`);
+    return;
+  }
+
   // Create token data structure with normalized addresses
   const tokenData = {
-    symbol: token.symbol,
-    name: token.name,
+    symbol: tokenInfo.symbol,
+    name: tokenInfo.name,
     address: normalizedAddress,
-    decimals: token.decimals || 18,
+    decimals: tokenInfo.decimals,
     type: 'ERC20',
     logo: token.logoURI ? {
       src: token.logoURI,

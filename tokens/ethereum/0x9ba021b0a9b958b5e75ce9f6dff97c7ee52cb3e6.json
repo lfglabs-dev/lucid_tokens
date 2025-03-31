@@ -1,6 +1,6 @@
 {
-  "symbol": "apxeth",
-  "name": "Dinero apxETH",
+  "symbol": "apxETH",
+  "name": "Autocompounding Pirex Ether",
   "address": "0x9ba021b0a9b958b5e75ce9f6dff97c7ee52cb3e6",
   "decimals": 18,
   "type": "ERC20",

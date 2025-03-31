@@ -1,6 +1,6 @@
 {
-  "symbol": "$coffee",
-  "name": "Coffee AI",
+  "symbol": "COFFEE",
+  "name": "COFFEE",
   "address": "0x18ef464fd73ed484c12339eaa5d5e3c8f6c48180",
   "decimals": 18,
   "type": "ERC20",

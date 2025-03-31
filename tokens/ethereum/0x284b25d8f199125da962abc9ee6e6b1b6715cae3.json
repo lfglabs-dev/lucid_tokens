@@ -1,8 +1,8 @@
 {
-  "symbol": "snap",
+  "symbol": "SNAP",
   "name": "Snap: first space coin",
   "address": "0x284b25d8f199125da962abc9ee6e6b1b6715cae3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50421/thumb/1000000669.jpg?1727685951",

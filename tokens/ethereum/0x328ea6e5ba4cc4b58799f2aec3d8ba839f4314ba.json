@@ -1,6 +1,6 @@
 {
-  "symbol": "$trumaga",
-  "name": "TrumpMAGA",
+  "symbol": "TruMaga",
+  "name": "TrumpMaga",
   "address": "0x328ea6e5ba4cc4b58799f2aec3d8ba839f4314ba",
   "decimals": 18,
   "type": "ERC20",

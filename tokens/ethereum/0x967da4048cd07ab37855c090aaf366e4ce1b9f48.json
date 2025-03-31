@@ -1,6 +1,6 @@
 {
-  "symbol": "ocean",
-  "name": "Ocean Protocol",
+  "symbol": "OCEAN",
+  "name": "Ocean Token",
   "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
   "decimals": 18,
   "type": "ERC20",

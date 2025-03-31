@@ -1,8 +1,8 @@
 {
-  "symbol": "hanabi",
+  "symbol": "Hanabi",
   "name": "Hanabi-chan",
   "address": "0x124386504d774979e1e9d2d19c6188391d7af8e3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50596/thumb/Picsart_24-10-08_16-00-19-260.png?1728445485",

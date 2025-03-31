@@ -1,6 +1,6 @@
 {
-  "symbol": "bent",
-  "name": "Bent Finance",
+  "symbol": "BENT",
+  "name": "Bent Token",
   "address": "0x01597e397605bf280674bf292623460b4204c375",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "ixt",
-  "name": "iXledger",
+  "symbol": "IXT",
+  "name": "IXT",
   "address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/814/thumb/ixledger.png?1547034602",

@@ -1,8 +1,8 @@
 {
-  "symbol": "g",
+  "symbol": "G",
   "name": "G",
   "address": "0x276105758dfb270f5cd845aa04a6ba09c88699ca",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38578/thumb/G_200.jpg?1718034774",

@@ -1,6 +1,6 @@
 {
-  "symbol": "lif3",
-  "name": "Lif3",
+  "symbol": "LIF3",
+  "name": "LIF3",
   "address": "0x7138eb0d563f3f6722500936a11dcae99d738a2c",
   "decimals": 18,
   "type": "ERC20",

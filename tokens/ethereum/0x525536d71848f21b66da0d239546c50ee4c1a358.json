@@ -1,8 +1,8 @@
 {
-  "symbol": "ctf",
+  "symbol": "CTF",
   "name": "Crypto Task Force",
   "address": "0x525536d71848f21b66da0d239546c50ee4c1a358",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54096/thumb/Crypto_Task_Force.png?1738224085",

@@ -1,8 +1,8 @@
 {
-  "symbol": "stonks",
-  "name": "Stonks on ETH",
+  "symbol": "STONKS",
+  "name": "Stonks",
   "address": "0x7d4a23832fad83258b32ce4fd3109ceef4332af4",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38610/thumb/STONK.jpg?1718101612",

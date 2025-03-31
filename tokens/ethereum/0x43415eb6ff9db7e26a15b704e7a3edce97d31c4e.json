@@ -1,8 +1,8 @@
 {
-  "symbol": "ustb",
-  "name": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+  "symbol": "USTB",
+  "name": "Superstate Short Duration US Government Securities Fund",
   "address": "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35012/thumb/ustb.jpeg?1707102680",

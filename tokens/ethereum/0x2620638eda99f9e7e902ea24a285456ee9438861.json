@@ -1,6 +1,6 @@
 {
-  "symbol": "csm",
-  "name": "Crust Shadow",
+  "symbol": "CSM",
+  "name": "Crust Storage Market",
   "address": "0x2620638eda99f9e7e902ea24a285456ee9438861",
   "decimals": 18,
   "type": "ERC20",

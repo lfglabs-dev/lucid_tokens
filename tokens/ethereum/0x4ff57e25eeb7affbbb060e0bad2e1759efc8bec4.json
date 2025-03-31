@@ -1,6 +1,6 @@
 {
-  "symbol": "blocx",
-  "name": "BLOCX.",
+  "symbol": "BLOCX",
+  "name": "BLOCX. (Bridge)",
   "address": "0x4ff57e25eeb7affbbb060e0bad2e1759efc8bec4",
   "decimals": 18,
   "type": "ERC20",

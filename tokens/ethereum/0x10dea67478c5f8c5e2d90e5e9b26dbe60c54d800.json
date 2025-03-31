@@ -1,6 +1,6 @@
 {
-  "symbol": "taiko",
-  "name": "Taiko",
+  "symbol": "TAIKO",
+  "name": "Taiko Token",
   "address": "0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800",
   "decimals": 18,
   "type": "ERC20",

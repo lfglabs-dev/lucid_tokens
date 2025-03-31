@@ -1,6 +1,6 @@
 {
-  "symbol": "dogpad",
-  "name": "DogPad Finance",
+  "symbol": "DOGPAD",
+  "name": "DogPad",
   "address": "0x6f3277ad0782a7da3eb676b85a8346a100bf9c1c",
   "decimals": 18,
   "type": "ERC20",

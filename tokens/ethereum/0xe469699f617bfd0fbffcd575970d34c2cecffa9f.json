@@ -1,8 +1,8 @@
 {
-  "symbol": "vuzz",
+  "symbol": "VUZZ",
   "name": "VuzzMind",
   "address": "0xe469699f617bfd0fbffcd575970d34c2cecffa9f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34294/thumb/tokenlogogecko.png?1704606291",

@@ -1,8 +1,8 @@
 {
-  "symbol": "$dcay",
+  "symbol": "DCAY",
   "name": "Whispers Of Decay",
   "address": "0x0db56f603e754f3539157e2b207eff10a4ebd641",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50248/thumb/WOD_200x200.png?1726686050",

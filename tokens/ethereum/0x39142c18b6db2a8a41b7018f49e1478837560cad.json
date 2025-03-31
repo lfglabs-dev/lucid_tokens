@@ -1,8 +1,8 @@
 {
-  "symbol": "stats",
-  "name": "STATS",
+  "symbol": "STATS",
+  "name": "Stats",
   "address": "0x39142c18b6db2a8a41b7018f49e1478837560cad",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28853/thumb/stats.png?1674898914",

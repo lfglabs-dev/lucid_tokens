@@ -1,6 +1,6 @@
 {
-  "symbol": "lyxe",
-  "name": "LUKSO [OLD]",
+  "symbol": "LYXe",
+  "name": "LUKSO Token",
   "address": "0xa8b919680258d369114910511cc87595aec0be6d",
   "decimals": 18,
   "type": "ERC20",

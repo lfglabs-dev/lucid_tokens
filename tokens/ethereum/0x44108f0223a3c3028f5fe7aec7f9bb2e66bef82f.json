@@ -1,6 +1,6 @@
 {
-  "symbol": "acx",
-  "name": "Across Protocol",
+  "symbol": "ACX",
+  "name": "Across Protocol Token",
   "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
   "decimals": 18,
   "type": "ERC20",

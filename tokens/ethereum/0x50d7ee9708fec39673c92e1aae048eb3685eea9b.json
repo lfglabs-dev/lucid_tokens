@@ -1,8 +1,8 @@
 {
-  "symbol": "ginnan",
+  "symbol": "GINNAN",
   "name": "Ginnan",
   "address": "0x50d7ee9708fec39673c92e1aae048eb3685eea9b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51413/thumb/Luku.png?1731102518",

@@ -1,8 +1,8 @@
 {
-  "symbol": "jest",
+  "symbol": "JEST",
   "name": "Jester",
   "address": "0xa4bc2b90743294e5e6fd3321a9a131947f7785db",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39549/thumb/jester-token-DARK-200px.png?1722892159",

@@ -1,6 +1,6 @@
 {
-  "symbol": "rkfi",
-  "name": "Arkefi",
+  "symbol": "RKFI",
+  "name": "Arkefi Token",
   "address": "0x65fda84473084ba2cca8452883e6ea3561092234",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "strm",
-  "name": "Streamer Inu",
+  "symbol": "STRM",
+  "name": "StreamerInu",
   "address": "0x8162b5bc8f651007cc38a09f557bab2bf4cefb5b",
   "decimals": 18,
   "type": "ERC20",

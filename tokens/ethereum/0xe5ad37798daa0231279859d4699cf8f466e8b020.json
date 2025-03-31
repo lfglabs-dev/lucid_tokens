@@ -1,6 +1,6 @@
 {
-  "symbol": "cost.d",
-  "name": "Dinari COST",
+  "symbol": "COST.d",
+  "name": "Costco Wholesale Corp - Dinari",
   "address": "0xe5ad37798daa0231279859d4699cf8f466e8b020",
   "decimals": 18,
   "type": "ERC20",

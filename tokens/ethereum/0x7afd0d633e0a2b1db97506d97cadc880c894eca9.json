@@ -1,8 +1,8 @@
 {
-  "symbol": "$maru",
-  "name": "Marutaro",
+  "symbol": "MARU",
+  "name": "MARUTARO",
   "address": "0x7afd0d633e0a2b1db97506d97cadc880c894eca9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52530/thumb/2024-11-19_02.51.33.jpg?1733568194",

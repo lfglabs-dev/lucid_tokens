@@ -1,6 +1,6 @@
 {
-  "symbol": "opch",
-  "name": "Opticash",
+  "symbol": "OPCH",
+  "name": "OPTICASH",
   "address": "0x4d4d883f920f7c0c36a1be71a02aa0cde2aa22d1",
   "decimals": 18,
   "type": "ERC20",

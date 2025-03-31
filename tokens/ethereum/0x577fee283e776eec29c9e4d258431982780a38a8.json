@@ -1,8 +1,8 @@
 {
-  "symbol": "pepa",
-  "name": "Pepa ERC",
+  "symbol": "PEPA",
+  "name": "PEPA",
   "address": "0x577fee283e776eec29c9e4d258431982780a38a8",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29866/thumb/3iGdoyL.png?1681890350",

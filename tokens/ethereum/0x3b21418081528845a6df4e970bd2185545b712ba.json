@@ -1,6 +1,6 @@
 {
-  "symbol": "chi",
-  "name": "Chi Protocol",
+  "symbol": "CHI",
+  "name": "CHI",
   "address": "0x3b21418081528845a6df4e970bd2185545b712ba",
   "decimals": 18,
   "type": "ERC20",

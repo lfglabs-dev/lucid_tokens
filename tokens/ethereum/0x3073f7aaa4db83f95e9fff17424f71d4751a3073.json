@@ -1,8 +1,8 @@
 {
-  "symbol": "move",
+  "symbol": "MOVE",
   "name": "Movement",
   "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39345/thumb/movement-testnet-token.png?1721878759",

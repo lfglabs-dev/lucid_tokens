@@ -1,6 +1,6 @@
 {
-  "symbol": "snow",
-  "name": "Snowswap",
+  "symbol": "SNOW",
+  "name": "SnowSwap",
   "address": "0xfe9a29ab92522d14fc65880d817214261d8479ae",
   "decimals": 18,
   "type": "ERC20",

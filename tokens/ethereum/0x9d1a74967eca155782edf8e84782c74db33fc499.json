@@ -1,8 +1,8 @@
 {
-  "symbol": "ai.com",
+  "symbol": "AI.COM",
   "name": "AI.COM",
   "address": "0x9d1a74967eca155782edf8e84782c74db33fc499",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33246/thumb/BbLZo3AH_400x400.jpg?1701172033",

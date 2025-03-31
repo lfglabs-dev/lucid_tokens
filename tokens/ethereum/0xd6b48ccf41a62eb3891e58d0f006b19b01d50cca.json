@@ -1,6 +1,6 @@
 {
-  "symbol": "seraph",
-  "name": "Seraph",
+  "symbol": "SERAPH",
+  "name": "SERAPH",
   "address": "0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca",
   "decimals": 18,
   "type": "ERC20",

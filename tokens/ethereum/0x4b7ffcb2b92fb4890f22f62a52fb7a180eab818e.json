@@ -1,6 +1,6 @@
 {
-  "symbol": "diva",
-  "name": "DIVA Protocol",
+  "symbol": "DIVA",
+  "name": "DIVA Token",
   "address": "0x4b7ffcb2b92fb4890f22f62a52fb7a180eab818e",
   "decimals": 18,
   "type": "ERC20",

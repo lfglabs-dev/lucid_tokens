@@ -1,8 +1,8 @@
 {
-  "symbol": "$npi",
+  "symbol": "NPI",
   "name": "Non-Playable Inu",
   "address": "0x80034f803afb1c6864e3ca481ef1362c54d094b9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38748/thumb/unnamed_%283%29.jpg?1718681702",

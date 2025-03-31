@@ -1,8 +1,8 @@
 {
-  "symbol": "spe",
+  "symbol": "SPE",
   "name": "SavePlanetEarth",
   "address": "0x4b91dfa774acde7ed70e93a6438363feaaa40f54",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/19759/thumb/spe.png?1635829598",

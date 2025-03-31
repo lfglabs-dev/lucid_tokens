@@ -1,6 +1,6 @@
 {
-  "symbol": "sdt",
-  "name": "Stake DAO",
+  "symbol": "SDT",
+  "name": "Stake DAO Token",
   "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "bmoney",
-  "name": "B-MONEY",
+  "symbol": "BMoney",
+  "name": "B-money",
   "address": "0xf10da48d4aaa8d784c5e369cb998e263cfe32aa8",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38136/thumb/bmoney_logo_200x200.png?1716570823",

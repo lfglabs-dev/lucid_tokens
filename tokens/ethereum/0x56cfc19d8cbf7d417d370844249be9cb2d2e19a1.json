@@ -1,8 +1,8 @@
 {
-  "symbol": "dogecaucus",
+  "symbol": "DOGECAUCUS",
   "name": "Doge Caucus",
   "address": "0x56cfc19d8cbf7d417d370844249be9cb2d2e19a1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54007/thumb/output-onlinepngtools_%283%29.png?1737963995",

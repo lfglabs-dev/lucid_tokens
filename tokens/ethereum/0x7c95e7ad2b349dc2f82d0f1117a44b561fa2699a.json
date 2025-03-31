@@ -1,6 +1,6 @@
 {
-  "symbol": "gracy",
-  "name": "Gracy",
+  "symbol": "GRACY",
+  "name": "Gracy Token",
   "address": "0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a",
   "decimals": 18,
   "type": "ERC20",

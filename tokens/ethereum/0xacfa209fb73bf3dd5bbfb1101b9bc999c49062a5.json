@@ -1,6 +1,6 @@
 {
-  "symbol": "bcdt",
-  "name": "EvidenZ",
+  "symbol": "BCDT",
+  "name": "Blockchain Certified Data Token",
   "address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
   "decimals": 18,
   "type": "ERC20",

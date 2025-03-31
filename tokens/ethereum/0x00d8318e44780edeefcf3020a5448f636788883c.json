@@ -1,6 +1,6 @@
 {
-  "symbol": "dappx",
-  "name": "dAppstore",
+  "symbol": "DAPPX",
+  "name": "dAppstore Token",
   "address": "0x00d8318e44780edeefcf3020a5448f636788883c",
   "decimals": 18,
   "type": "ERC20",

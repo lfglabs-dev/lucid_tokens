@@ -1,6 +1,6 @@
 {
-  "symbol": "sunc",
-  "name": "Sunrise",
+  "symbol": "SUNC",
+  "name": "Sunrise Token",
   "address": "0x692accdd8b86692427e0aa4752ae917df01cc56f",
   "decimals": 18,
   "type": "ERC20",

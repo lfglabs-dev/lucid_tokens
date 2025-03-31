@@ -1,6 +1,6 @@
 {
-  "symbol": "wethdydx",
-  "name": "dYdX",
+  "symbol": "wethDYDX",
+  "name": "Wrapped Ethereum DYDX",
   "address": "0x46b2deae6eff3011008ea27ea36b7c27255ddfa9",
   "decimals": 18,
   "type": "ERC20",

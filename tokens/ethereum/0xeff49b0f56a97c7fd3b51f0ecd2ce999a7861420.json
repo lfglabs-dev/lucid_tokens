@@ -1,8 +1,8 @@
 {
-  "symbol": "fofar",
+  "symbol": "FOFAR",
   "name": "Fofar",
   "address": "0xeff49b0f56a97c7fd3b51f0ecd2ce999a7861420",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36862/thumb/FOFAR2.png?1712643353",

@@ -1,8 +1,8 @@
 {
-  "symbol": "plsb",
+  "symbol": "PLSB",
   "name": "PulseBitcoin",
   "address": "0x5ee84583f67d5ecea5420dbb42b462896e7f8d06",
-  "decimals": 18,
+  "decimals": 12,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28690/thumb/%E2%82%BF.png?1673404685",

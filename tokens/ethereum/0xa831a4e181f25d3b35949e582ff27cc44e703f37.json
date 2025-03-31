@@ -1,6 +1,6 @@
 {
-  "symbol": "alex",
-  "name": "ALEX Lab",
+  "symbol": "ALEX",
+  "name": "ALEX",
   "address": "0xa831a4e181f25d3b35949e582ff27cc44e703f37",
   "decimals": 18,
   "type": "ERC20",

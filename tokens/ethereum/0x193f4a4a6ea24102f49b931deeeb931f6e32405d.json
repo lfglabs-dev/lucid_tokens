@@ -1,6 +1,6 @@
 {
-  "symbol": "tlos",
-  "name": "Telos",
+  "symbol": "TLOS",
+  "name": "TLOS",
   "address": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
   "decimals": 18,
   "type": "ERC20",

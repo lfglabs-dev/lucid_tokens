@@ -1,6 +1,6 @@
 {
-  "symbol": "ix",
-  "name": "illumineX",
+  "symbol": "IX",
+  "name": "illumineX Token",
   "address": "0x45e82579792dddf08cb3a037086604c262d78065",
   "decimals": 18,
   "type": "ERC20",

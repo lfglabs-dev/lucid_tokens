@@ -1,6 +1,6 @@
 {
-  "symbol": "pepes",
-  "name": "McPepe's",
+  "symbol": "PEPES",
+  "name": "McPepes",
   "address": "0x6bf765c43030387a983f429c1438e9d2025b7e12",
   "decimals": 18,
   "type": "ERC20",

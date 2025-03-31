@@ -1,8 +1,8 @@
 {
-  "symbol": "swgt",
+  "symbol": "SWGT",
   "name": "SmartWorld Global Token",
   "address": "0xc8bf8bc34874e07f6a0d4abc8be22ba9e372631b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35040/thumb/IMG_20240204_024533_022.png?1707192592",

@@ -1,8 +1,8 @@
 {
-  "symbol": "uspepe",
-  "name": "American Pepe",
+  "symbol": "USPEPE",
+  "name": "AMERICAN PEPE",
   "address": "0x07040971246a73ebda9cf29ea1306bb47c7c4e76",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39158/thumb/GR2g3RBWYAAXbCh.jpeg?1720775910",

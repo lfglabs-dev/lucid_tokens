@@ -1,6 +1,6 @@
 {
-  "symbol": "garbage",
-  "name": "Garbage",
+  "symbol": "$GARBAGE",
+  "name": "$GARBAGE",
   "address": "0x619e398858a3110df4d89056a15a40338a01e65f",
   "decimals": 18,
   "type": "ERC20",

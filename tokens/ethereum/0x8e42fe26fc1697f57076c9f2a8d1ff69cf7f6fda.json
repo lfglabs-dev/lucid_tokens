@@ -1,8 +1,8 @@
 {
-  "symbol": "aguri",
+  "symbol": "AGURI",
   "name": "Aguri-Chan",
   "address": "0x8e42fe26fc1697f57076c9f2a8d1ff69cf7f6fda",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50227/thumb/1000000487.jpg?1726556528",

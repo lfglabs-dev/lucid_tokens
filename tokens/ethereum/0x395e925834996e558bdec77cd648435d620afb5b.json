@@ -1,8 +1,8 @@
 {
-  "symbol": "tft",
-  "name": "ThreeFold",
+  "symbol": "TFT",
+  "name": "TFT on Ethereum",
   "address": "0x395e925834996e558bdec77cd648435d620afb5b",
-  "decimals": 18,
+  "decimals": 7,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/6704/thumb/black_logo_on_white_background_%282%29.jpg?1649742107",

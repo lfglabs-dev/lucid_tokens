@@ -1,6 +1,6 @@
 {
-  "symbol": "m87",
-  "name": "MESSIER",
+  "symbol": "M87",
+  "name": "Messier",
   "address": "0x80122c6a83c8202ea365233363d3f4837d13e888",
   "decimals": 18,
   "type": "ERC20",

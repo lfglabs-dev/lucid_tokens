@@ -1,6 +1,6 @@
 {
-  "symbol": "oct",
-  "name": "Octopus Network",
+  "symbol": "OCT",
+  "name": "Octopus Network Token",
   "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
   "decimals": 18,
   "type": "ERC20",

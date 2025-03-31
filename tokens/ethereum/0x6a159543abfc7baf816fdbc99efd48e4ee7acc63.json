@@ -1,8 +1,8 @@
 {
-  "symbol": "fuku",
+  "symbol": "FUKU",
   "name": "FUKU",
   "address": "0x6a159543abfc7baf816fdbc99efd48e4ee7acc63",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39923/thumb/logo_copy_200x200.png?1724813183",

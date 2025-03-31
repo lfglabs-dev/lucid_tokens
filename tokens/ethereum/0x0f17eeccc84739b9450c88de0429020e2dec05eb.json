@@ -1,6 +1,6 @@
 {
-  "symbol": "otacon",
-  "name": "Otacon AI",
+  "symbol": "OTACON",
+  "name": "Otacon",
   "address": "0x0f17eeccc84739b9450c88de0429020e2dec05eb",
   "decimals": 18,
   "type": "ERC20",

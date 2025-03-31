@@ -1,8 +1,8 @@
 {
-  "symbol": "nex",
-  "name": "Nash",
+  "symbol": "NEX",
+  "name": "Nash Exchange Token",
   "address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/3246/thumb/Nash-token_icon.png?1550821163",

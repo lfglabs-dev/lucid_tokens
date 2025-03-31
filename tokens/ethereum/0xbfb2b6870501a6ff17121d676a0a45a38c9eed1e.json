@@ -1,8 +1,8 @@
 {
-  "symbol": "toad",
-  "name": "LuckyToad",
+  "symbol": "TOAD",
+  "name": "LuckyToadv3",
   "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28867/thumb/LuckyToad_200x200.png?1674996527",

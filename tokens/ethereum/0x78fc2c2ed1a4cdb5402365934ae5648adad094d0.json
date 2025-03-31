@@ -1,6 +1,6 @@
 {
-  "symbol": "re7weth",
-  "name": "Re7 WETH Morpho Vault",
+  "symbol": "Re7WETH",
+  "name": "Re7 WETH",
   "address": "0x78fc2c2ed1a4cdb5402365934ae5648adad094d0",
   "decimals": 18,
   "type": "ERC20",

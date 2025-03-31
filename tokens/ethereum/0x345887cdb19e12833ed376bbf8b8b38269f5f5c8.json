@@ -1,6 +1,6 @@
 {
-  "symbol": "csix",
-  "name": "Carbon Browser",
+  "symbol": "CSIX",
+  "name": "Carbon",
   "address": "0x345887cdb19e12833ed376bbf8b8b38269f5f5c8",
   "decimals": 18,
   "type": "ERC20",

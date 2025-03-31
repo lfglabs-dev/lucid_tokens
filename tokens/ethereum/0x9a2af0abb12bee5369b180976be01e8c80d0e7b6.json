@@ -1,8 +1,8 @@
 {
-  "symbol": "empire",
-  "name": "Empire",
+  "symbol": "EMPIRE",
+  "name": "Empire Token",
   "address": "0x9a2af0abb12bee5369b180976be01e8c80d0e7b6",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/16390/thumb/pb_ranDy_400x400.png?1623897690",

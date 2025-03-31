@@ -1,8 +1,8 @@
 {
-  "symbol": "ags",
+  "symbol": "AGS",
   "name": "Aegis",
   "address": "0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12391/thumb/logo-3.png?1599540071",

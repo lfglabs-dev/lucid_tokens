@@ -1,8 +1,8 @@
 {
-  "symbol": "dgcs",
-  "name": "Aktionariat Green Consensus AG Tokenized Shares",
+  "symbol": "DGCS",
+  "name": "Draggable Green Consensus SA Shares",
   "address": "0x4e1a609ec87cf6477613f515f6eb64ef2d31089a",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33372/thumb/GCS.png?1701648529",

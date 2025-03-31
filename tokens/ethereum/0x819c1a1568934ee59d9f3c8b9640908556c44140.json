@@ -1,6 +1,6 @@
 {
-  "symbol": "hobbes",
-  "name": "Hobbes [OLD]",
+  "symbol": "HOBBES",
+  "name": "Hobbes",
   "address": "0x819c1a1568934ee59d9f3c8b9640908556c44140",
   "decimals": 18,
   "type": "ERC20",

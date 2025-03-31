@@ -1,6 +1,6 @@
 {
-  "symbol": "sivr.d",
-  "name": "Dinari SIVR",
+  "symbol": "SIVR.d",
+  "name": "abrdn Physical Silver Shares ETF - Dinari",
   "address": "0xe36fb561dcc177492da42a6ba5fd4a9d0987bfe2",
   "decimals": 18,
   "type": "ERC20",

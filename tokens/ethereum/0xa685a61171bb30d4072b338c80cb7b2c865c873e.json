@@ -1,6 +1,6 @@
 {
-  "symbol": "amana",
-  "name": "Aave MANA",
+  "symbol": "aMANA",
+  "name": "Aave interest bearing MANA",
   "address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
   "decimals": 18,
   "type": "ERC20",

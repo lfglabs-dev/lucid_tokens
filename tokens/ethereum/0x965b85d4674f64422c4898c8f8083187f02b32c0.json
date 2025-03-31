@@ -1,8 +1,8 @@
 {
-  "symbol": "sfil",
-  "name": "Filecoin Standard Full Hashrate",
+  "symbol": "SFIL",
+  "name": "FileCoin standard Full hashrate Token",
   "address": "0x965b85d4674f64422c4898c8f8083187f02b32c0",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/21669/thumb/_70BfuBY_400x400.jpg?1639706531",

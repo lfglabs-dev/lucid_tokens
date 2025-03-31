@@ -1,6 +1,6 @@
 {
-  "symbol": "hlg",
-  "name": "Holograph",
+  "symbol": "HLG",
+  "name": "Holograph Utility Token",
   "address": "0x740df024ce73f589acd5e8756b377ef8c6558bab",
   "decimals": 18,
   "type": "ERC20",

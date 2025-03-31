@@ -1,6 +1,6 @@
 {
-  "symbol": "gov",
-  "name": "SubDAO",
+  "symbol": "GOV",
+  "name": "SubDAO Governance",
   "address": "0x274e7eb07b485cfde53d02270555213447570ac6",
   "decimals": 18,
   "type": "ERC20",

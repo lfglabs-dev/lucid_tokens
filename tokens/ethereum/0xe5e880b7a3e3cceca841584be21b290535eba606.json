@@ -1,8 +1,8 @@
 {
-  "symbol": "andi",
+  "symbol": "ANDI",
   "name": "Andi",
   "address": "0xe5e880b7a3e3cceca841584be21b290535eba606",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38547/thumb/andi.jpeg?1717929042",

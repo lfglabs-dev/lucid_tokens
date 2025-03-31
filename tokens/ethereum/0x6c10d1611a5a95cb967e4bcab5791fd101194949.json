@@ -1,6 +1,6 @@
 {
-  "symbol": "xers",
-  "name": "X Project ERC",
+  "symbol": "XERS",
+  "name": "X Project",
   "address": "0x6c10d1611a5a95cb967e4bcab5791fd101194949",
   "decimals": 18,
   "type": "ERC20",

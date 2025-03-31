@@ -1,6 +1,6 @@
 {
-  "symbol": "tower",
-  "name": "Tower",
+  "symbol": "TOWER",
+  "name": "TOWER",
   "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "eno",
-  "name": "ENO",
+  "symbol": "ENO",
+  "name": "EnoToken",
   "address": "0x1c3d163219bb74f430411b95d66b72056f366ec1",
   "decimals": 18,
   "type": "ERC20",

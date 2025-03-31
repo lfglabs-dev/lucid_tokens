@@ -1,6 +1,6 @@
 {
-  "symbol": "zig",
-  "name": "ZIGChain",
+  "symbol": "ZIG",
+  "name": "ZigCoin",
   "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
   "decimals": 18,
   "type": "ERC20",

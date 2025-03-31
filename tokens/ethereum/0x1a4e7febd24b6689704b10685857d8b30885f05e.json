@@ -1,8 +1,8 @@
 {
-  "symbol": "beatai",
+  "symbol": "BEATAI",
   "name": "eBeat AI",
   "address": "0x1a4e7febd24b6689704b10685857d8b30885f05e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53142/thumb/2024-12-27_14.32.04-2.jpg?1735376775",

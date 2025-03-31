@@ -1,8 +1,8 @@
 {
-  "symbol": "izumi",
-  "name": "Izumi-chan",
+  "symbol": "IZUMI",
+  "name": "izumi-chan",
   "address": "0x13063bed4bebbe542005e191c459d2cfa96b98e1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51226/thumb/New_logo.png?1730394857",

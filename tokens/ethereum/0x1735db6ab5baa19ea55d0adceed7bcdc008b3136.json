@@ -1,6 +1,6 @@
 {
-  "symbol": "urqa",
-  "name": "UREEQA",
+  "symbol": "URQA",
+  "name": "UREEQA Token",
   "address": "0x1735db6ab5baa19ea55d0adceed7bcdc008b3136",
   "decimals": 18,
   "type": "ERC20",

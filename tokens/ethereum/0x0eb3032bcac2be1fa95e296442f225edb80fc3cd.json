@@ -1,6 +1,6 @@
 {
-  "symbol": "atc",
-  "name": "Aster",
+  "symbol": "ATC",
+  "name": "ASTER COIN",
   "address": "0x0eb3032bcac2be1fa95e296442f225edb80fc3cd",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "gdt",
-  "name": "Globe Derivative Exchange",
+  "symbol": "GDT",
+  "name": "GDT",
   "address": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15335/thumb/gdt.PNG?1620597146",

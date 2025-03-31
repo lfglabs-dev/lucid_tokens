@@ -1,6 +1,6 @@
 {
-  "symbol": "hao",
-  "name": "HistoryDAO",
+  "symbol": "HAO",
+  "name": "History Dao Token",
   "address": "0x3c4008eca800ec1283e4cf500e68d06bfabc00a8",
   "decimals": 18,
   "type": "ERC20",

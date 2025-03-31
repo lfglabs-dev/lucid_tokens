@@ -1,8 +1,8 @@
 {
-  "symbol": "business",
+  "symbol": "BUSINESS",
   "name": "Business Coin",
   "address": "0xc06caead870d3a8af2504637b6c5b7248bed6116",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52061/thumb/bsinesslogo.jpg?1732457220",

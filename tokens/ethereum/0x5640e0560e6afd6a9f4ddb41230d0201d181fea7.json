@@ -1,8 +1,8 @@
 {
-  "symbol": "dmaga",
-  "name": "dark maga",
+  "symbol": "DMAGA",
+  "name": "DARK MAGA",
   "address": "0x5640e0560e6afd6a9f4ddb41230d0201d181fea7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50583/thumb/elon.webp?1728416540",

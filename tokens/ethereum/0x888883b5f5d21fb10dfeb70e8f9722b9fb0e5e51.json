@@ -1,8 +1,8 @@
 {
-  "symbol": "europ",
+  "symbol": "EUROP",
   "name": "EURØP",
   "address": "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862",

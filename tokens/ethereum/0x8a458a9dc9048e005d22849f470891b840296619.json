@@ -1,6 +1,6 @@
 {
-  "symbol": "amkr",
-  "name": "Aave v3 MKR",
+  "symbol": "aEthMKR",
+  "name": "Aave Ethereum MKR",
   "address": "0x8a458a9dc9048e005d22849f470891b840296619",
   "decimals": 18,
   "type": "ERC20",

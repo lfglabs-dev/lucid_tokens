@@ -1,6 +1,6 @@
 {
-  "symbol": "rpill",
-  "name": "Red Pill",
+  "symbol": "RPILL",
+  "name": "RED PILL",
   "address": "0x43fe2b0c5485c10e772a1843e32a7642ace5b88c",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "adx",
-  "name": "AdEx",
+  "symbol": "ADX",
+  "name": "AdEx Network",
   "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
   "decimals": 18,
   "type": "ERC20",

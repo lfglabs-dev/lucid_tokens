@@ -1,6 +1,6 @@
 {
-  "symbol": "brz",
-  "name": "Brazilian Digital",
+  "symbol": "BRZ",
+  "name": "BRZ Token",
   "address": "0x01d33fd36ec67c6ada32cf36b31e88ee190b1839",
   "decimals": 18,
   "type": "ERC20",

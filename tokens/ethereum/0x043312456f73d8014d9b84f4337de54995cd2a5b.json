@@ -1,8 +1,8 @@
 {
-  "symbol": "bonk2.0",
-  "name": "Bonk2.0",
+  "symbol": "BONK2.0",
+  "name": "BONK2.0",
   "address": "0x043312456f73d8014d9b84f4337de54995cd2a5b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33685/thumb/20231211_114717.jpg?1702731710",

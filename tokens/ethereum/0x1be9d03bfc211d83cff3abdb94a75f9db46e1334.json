@@ -1,8 +1,8 @@
 {
-  "symbol": "21bnb",
+  "symbol": "21BNB",
   "name": "21.co Wrapped BNB",
   "address": "0x1be9d03bfc211d83cff3abdb94a75f9db46e1334",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34640/thumb/64ffa734ea3bc71b26cc760c_21co_W_Token_v2_21BNB-3.png?1705579198",

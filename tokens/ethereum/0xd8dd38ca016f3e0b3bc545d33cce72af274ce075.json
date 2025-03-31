@@ -1,6 +1,6 @@
 {
-  "symbol": "$swing",
-  "name": "Swing.xyz",
+  "symbol": "SWING",
+  "name": "Swing",
   "address": "0xd8dd38ca016f3e0b3bc545d33cce72af274ce075",
   "decimals": 18,
   "type": "ERC20",

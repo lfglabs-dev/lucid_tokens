@@ -1,6 +1,6 @@
 {
-  "symbol": "qf",
-  "name": "Quantum Fusion",
+  "symbol": "QF",
+  "name": "QuantumFusion",
   "address": "0x6019dcb2d0b3e0d1d8b0ce8d16191b3a4f93703d",
   "decimals": 18,
   "type": "ERC20",

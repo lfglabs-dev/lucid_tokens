@@ -1,6 +1,6 @@
 {
-  "symbol": "you",
-  "name": "Youwho",
+  "symbol": "YOU",
+  "name": "youwho",
   "address": "0xb92ba0a6a843379499770de82aa936d6ba0fd8ca",
   "decimals": 18,
   "type": "ERC20",

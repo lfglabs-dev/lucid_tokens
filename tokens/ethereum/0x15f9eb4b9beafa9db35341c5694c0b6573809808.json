@@ -1,8 +1,8 @@
 {
-  "symbol": "deda",
+  "symbol": "Deda",
   "name": "DedaCoin",
   "address": "0x15f9eb4b9beafa9db35341c5694c0b6573809808",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/40133/thumb/DEDA_%281%29.jpg?1725968896",

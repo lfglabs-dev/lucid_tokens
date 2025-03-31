@@ -1,6 +1,6 @@
 {
-  "symbol": "int",
-  "name": "InteNet",
+  "symbol": "INT",
+  "name": "InteNet Protocol",
   "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
   "decimals": 18,
   "type": "ERC20",

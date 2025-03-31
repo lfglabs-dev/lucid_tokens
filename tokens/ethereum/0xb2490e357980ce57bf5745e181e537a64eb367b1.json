@@ -1,6 +1,6 @@
 {
-  "symbol": "moon",
-  "name": "r/CryptoCurrency Moons",
+  "symbol": "MOON",
+  "name": "Moons",
   "address": "0xb2490e357980ce57bf5745e181e537a64eb367b1",
   "decimals": 18,
   "type": "ERC20",

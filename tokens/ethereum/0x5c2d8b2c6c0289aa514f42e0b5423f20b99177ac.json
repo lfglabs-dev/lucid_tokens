@@ -1,6 +1,6 @@
 {
-  "symbol": "mega",
-  "name": "MEGAonEth",
+  "symbol": "Mega",
+  "name": "MegaOnEth",
   "address": "0x5c2d8b2c6c0289aa514f42e0b5423f20b99177ac",
   "decimals": 18,
   "type": "ERC20",

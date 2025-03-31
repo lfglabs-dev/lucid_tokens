@@ -1,6 +1,6 @@
 {
-  "symbol": "qanx",
-  "name": "QANplatform",
+  "symbol": "QANX",
+  "name": "QANX Token",
   "address": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
   "decimals": 18,
   "type": "ERC20",

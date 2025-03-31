@@ -1,6 +1,6 @@
 {
-  "symbol": "ethe.d",
-  "name": "Dinari ETHE",
+  "symbol": "ETHE.d",
+  "name": "Grayscale Ethereum Trust (ETH) - Dinari",
   "address": "0x4e4016eb5014468f3dba5883c70f9997026ea11e",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "ever",
-  "name": "Everscale",
+  "symbol": "WEVER",
+  "name": "Wrapped EVER",
   "address": "0x1ffefd8036409cb6d652bd610de465933b226917",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12783/thumb/everscale_badge_main_round_1x.png?1640050196",

@@ -1,6 +1,6 @@
 {
-  "symbol": "jgn",
-  "name": "Juggernaut",
+  "symbol": "JGN",
+  "name": "Juggernaut DeFi",
   "address": "0x73374ea518de7addd4c2b624c0e8b113955ee041",
   "decimals": 18,
   "type": "ERC20",

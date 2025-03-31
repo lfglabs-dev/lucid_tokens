@@ -1,8 +1,8 @@
 {
-  "symbol": "ngtg$$",
-  "name": "Nugget Trap Gold Token",
+  "symbol": "NGTG$$",
+  "name": "NUGGET TRAP",
   "address": "0x810296898a4f870619b015c0b13c8c6e65b305e3",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51494/thumb/NJ8Zd0oV.jpg?1731407448",

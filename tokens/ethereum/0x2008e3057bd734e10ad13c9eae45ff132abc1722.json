@@ -1,8 +1,8 @@
 {
-  "symbol": "zco",
-  "name": "Zebi",
+  "symbol": "ZCO",
+  "name": "Zebi Coin",
   "address": "0x2008e3057bd734e10ad13c9eae45ff132abc1722",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/2756/thumb/zebi.png?1548761131",

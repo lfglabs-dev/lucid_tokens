@@ -1,8 +1,8 @@
 {
-  "symbol": "dinger",
-  "name": "Dinger",
+  "symbol": "DINGER",
+  "name": "Dinger Token",
   "address": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/19443/thumb/dinger-logo.png?1635234509",

@@ -1,8 +1,8 @@
 {
-  "symbol": "matrix",
-  "name": "MATRIX",
+  "symbol": "MATRIX",
+  "name": "MATRI𝕏",
   "address": "0x362033a25b37603d4c99442501fa7b2852ddb435",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52121/thumb/1000001653.jpg?1732606063",

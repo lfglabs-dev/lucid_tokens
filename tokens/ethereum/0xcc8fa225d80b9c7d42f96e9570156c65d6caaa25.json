@@ -1,8 +1,8 @@
 {
-  "symbol": "slp",
+  "symbol": "SLP",
   "name": "Smooth Love Potion",
   "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1578640057",

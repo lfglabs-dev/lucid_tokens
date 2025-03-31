@@ -1,6 +1,6 @@
 {
-  "symbol": "azn.d",
-  "name": "Dinari AZN",
+  "symbol": "AZN.d",
+  "name": "AstraZeneca PLC - Dinari",
   "address": "0x103d7c5c657cb92f4acec796da416d52a6a86bf6",
   "decimals": 18,
   "type": "ERC20",

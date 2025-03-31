@@ -1,6 +1,6 @@
 {
-  "symbol": "amo",
-  "name": "Amino [OLD]",
+  "symbol": "AMO",
+  "name": "Amino",
   "address": "0x1a2eb478fa07125c9935a77b3c03a82470801e30",
   "decimals": 18,
   "type": "ERC20",

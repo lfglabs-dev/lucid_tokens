@@ -1,8 +1,8 @@
 {
-  "symbol": "pyusd",
+  "symbol": "PYUSD",
   "name": "PayPal USD",
   "address": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Logo_%282%29.png?1691458314",

@@ -1,8 +1,8 @@
 {
-  "symbol": "znn",
-  "name": "Zenon",
+  "symbol": "wZNN",
+  "name": "Wrapped ZNN",
   "address": "0xb2e96a63479c2edd2fd62b382c89d5ca79f572d3",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30753/thumb/zenon.jpg?1686747490",

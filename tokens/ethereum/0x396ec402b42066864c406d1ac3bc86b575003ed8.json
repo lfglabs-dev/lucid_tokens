@@ -1,8 +1,8 @@
 {
-  "symbol": "buy",
-  "name": "Buying.com",
+  "symbol": "WBUY",
+  "name": "Wrapped BUY Token",
   "address": "0x396ec402b42066864c406d1ac3bc86b575003ed8",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/5290/thumb/buying_200x200.png?1628587856",

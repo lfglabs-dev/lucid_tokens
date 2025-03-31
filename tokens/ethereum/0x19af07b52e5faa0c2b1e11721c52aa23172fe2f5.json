@@ -1,8 +1,8 @@
 {
-  "symbol": "memes",
-  "name": "Memes Street",
+  "symbol": "MEMES",
+  "name": "MEMES ST",
   "address": "0x19af07b52e5faa0c2b1e11721c52aa23172fe2f5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33604/thumb/Meme_St.png?1702510836",

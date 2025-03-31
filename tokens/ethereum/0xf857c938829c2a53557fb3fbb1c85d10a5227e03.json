@@ -1,6 +1,6 @@
 {
-  "symbol": "ecl",
-  "name": "ECL",
+  "symbol": "ECL",
+  "name": "Euclid Token",
   "address": "0xf857c938829c2a53557fb3fbb1c85d10a5227e03",
   "decimals": 18,
   "type": "ERC20",

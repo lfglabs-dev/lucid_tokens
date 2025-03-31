@@ -1,8 +1,8 @@
 {
-  "symbol": "laputa",
+  "symbol": "LAPUTA",
   "name": "Ethereum Origins",
   "address": "0xf5e63b4c9db61c35bb66462745f9a5e64604f0a9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50464/thumb/IMG_20240930_030017_474.jpg?1727842544",

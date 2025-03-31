@@ -1,6 +1,6 @@
 {
-  "symbol": "qswap",
-  "name": "Quantum Network",
+  "symbol": "QSWAP",
+  "name": "Quantum Swap AI",
   "address": "0x6a8b188fadbe8b52a2c23ea2d0df74f8956e7730",
   "decimals": 18,
   "type": "ERC20",

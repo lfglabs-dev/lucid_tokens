@@ -1,8 +1,8 @@
 {
-  "symbol": "btcpx",
+  "symbol": "BTCpx",
   "name": "BTC Proxy",
   "address": "0x9c32185b81766a051e08de671207b34466dd1021",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/22630/thumb/MB1aYO7T_400x400.jpg?1642342656",

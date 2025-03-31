@@ -1,8 +1,8 @@
 {
-  "symbol": "kas",
-  "name": "Wrapped Kaspa",
+  "symbol": "KAS",
+  "name": "Kaspa",
   "address": "0x112b08621e27e10773ec95d250604a041f36c582",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31037/thumb/WKAS-256-black-ETH-3.png?1689846828",

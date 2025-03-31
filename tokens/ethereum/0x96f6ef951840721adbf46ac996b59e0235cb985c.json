@@ -1,6 +1,6 @@
 {
-  "symbol": "usdy",
-  "name": "Ondo US Dollar Yield",
+  "symbol": "USDY",
+  "name": "Ondo U.S. Dollar Yield",
   "address": "0x96f6ef951840721adbf46ac996b59e0235cb985c",
   "decimals": 18,
   "type": "ERC20",

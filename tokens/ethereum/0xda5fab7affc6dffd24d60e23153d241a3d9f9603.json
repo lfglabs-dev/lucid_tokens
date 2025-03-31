@@ -1,6 +1,6 @@
 {
-  "symbol": "cryptiq",
-  "name": "Cryptiq browser",
+  "symbol": "CryptiQ",
+  "name": "CryptiQ Ecosystem",
   "address": "0xda5fab7affc6dffd24d60e23153d241a3d9f9603",
   "decimals": 18,
   "type": "ERC20",

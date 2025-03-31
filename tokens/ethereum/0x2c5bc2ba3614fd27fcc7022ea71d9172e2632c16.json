@@ -1,6 +1,6 @@
 {
-  "symbol": "sov",
-  "name": "Shib Original Vision",
+  "symbol": "SOV",
+  "name": "ShibOriginalVision",
   "address": "0x2c5bc2ba3614fd27fcc7022ea71d9172e2632c16",
   "decimals": 18,
   "type": "ERC20",

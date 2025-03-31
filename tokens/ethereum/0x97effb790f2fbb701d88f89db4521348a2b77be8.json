@@ -1,6 +1,6 @@
 {
-  "symbol": "cvg",
-  "name": "Convergence Finance",
+  "symbol": "CVG",
+  "name": "Convergence",
   "address": "0x97effb790f2fbb701d88f89db4521348a2b77be8",
   "decimals": 18,
   "type": "ERC20",

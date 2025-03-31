@@ -1,6 +1,6 @@
 {
-  "symbol": "seur",
-  "name": "sEUR",
+  "symbol": "sEUR",
+  "name": "Synth sEUR",
   "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
   "decimals": 18,
   "type": "ERC20",

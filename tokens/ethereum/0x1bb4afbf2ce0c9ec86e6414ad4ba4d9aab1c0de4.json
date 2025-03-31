@@ -1,8 +1,8 @@
 {
-  "symbol": "tora",
+  "symbol": "TORA",
   "name": "TORA NEKO",
   "address": "0x1bb4afbf2ce0c9ec86e6414ad4ba4d9aab1c0de4",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50250/thumb/YaRSKn4Q_400x400.jpg?1726693699",

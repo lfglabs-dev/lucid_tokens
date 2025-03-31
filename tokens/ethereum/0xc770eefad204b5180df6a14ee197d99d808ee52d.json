@@ -1,6 +1,6 @@
 {
-  "symbol": "fox",
-  "name": "ShapeShift FOX",
+  "symbol": "FOX",
+  "name": "FOX",
   "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
   "decimals": 18,
   "type": "ERC20",

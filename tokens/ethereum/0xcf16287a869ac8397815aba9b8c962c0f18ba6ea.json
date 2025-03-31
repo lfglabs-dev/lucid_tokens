@@ -1,8 +1,8 @@
 {
-  "symbol": "vxr",
-  "name": "Vox Royale",
+  "symbol": "VXR",
+  "name": "VoxRoyale",
   "address": "0xcf16287a869ac8397815aba9b8c962c0f18ba6ea",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39314/thumb/VoxRoyaleLogo_%283%29.png?1721707447",

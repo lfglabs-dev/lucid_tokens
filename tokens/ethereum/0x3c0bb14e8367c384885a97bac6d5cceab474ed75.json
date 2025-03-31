@@ -1,6 +1,6 @@
 {
-  "symbol": "aii",
-  "name": "Artificial idiot",
+  "symbol": "AII",
+  "name": "AIIdiot",
   "address": "0x3c0bb14e8367c384885a97bac6d5cceab474ed75",
   "decimals": 18,
   "type": "ERC20",

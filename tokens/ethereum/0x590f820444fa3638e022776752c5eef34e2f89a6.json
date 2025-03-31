@@ -1,6 +1,6 @@
 {
-  "symbol": "alph",
-  "name": "Alephium",
+  "symbol": "ALPH",
+  "name": "Alephium (AlphBridge)",
   "address": "0x590f820444fa3638e022776752c5eef34e2f89a6",
   "decimals": 18,
   "type": "ERC20",

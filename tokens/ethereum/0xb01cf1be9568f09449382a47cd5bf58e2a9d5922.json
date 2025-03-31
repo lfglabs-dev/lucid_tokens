@@ -1,6 +1,6 @@
 {
-  "symbol": "speed",
-  "name": "Lightspeed",
+  "symbol": "Speed",
+  "name": "LightSpeed",
   "address": "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922",
   "decimals": 18,
   "type": "ERC20",

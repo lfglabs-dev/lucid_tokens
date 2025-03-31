@@ -1,8 +1,8 @@
 {
-  "symbol": "smai2.0",
-  "name": "SempsunAi2.0",
+  "symbol": "SmAi2.0",
+  "name": "SmAi2.0",
   "address": "0x02a97fd243b8301bcd6ba3a87693162d6bd130bd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35898/thumb/Artboard_14.png?1710164614",

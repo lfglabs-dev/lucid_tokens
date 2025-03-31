@@ -1,8 +1,8 @@
 {
-  "symbol": "moodeng",
+  "symbol": "MOODENG",
   "name": "MOO DENG",
   "address": "0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50348/thumb/1000000612.jpg?1727248974",

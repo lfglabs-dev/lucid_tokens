@@ -1,6 +1,6 @@
 {
-  "symbol": "grt",
-  "name": "The Graph",
+  "symbol": "GRT",
+  "name": "Graph Token",
   "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
   "decimals": 18,
   "type": "ERC20",

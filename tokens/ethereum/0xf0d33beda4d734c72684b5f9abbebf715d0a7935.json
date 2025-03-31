@@ -1,8 +1,8 @@
 {
-  "symbol": "ntx",
-  "name": "NuNet",
+  "symbol": "NTX",
+  "name": "NuNet Utility Token",
   "address": "0xf0d33beda4d734c72684b5f9abbebf715d0a7935",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/20950/thumb/8Zb2W2Wi_400x400.png?1638137477",

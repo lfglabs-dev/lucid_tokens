@@ -1,6 +1,6 @@
 {
-  "symbol": "max",
-  "name": "MAX",
+  "symbol": "MAX",
+  "name": "MAX Token",
   "address": "0xe7976c4efc60d9f4c200cc1bcef1a1e3b02c73e7",
   "decimals": 18,
   "type": "ERC20",

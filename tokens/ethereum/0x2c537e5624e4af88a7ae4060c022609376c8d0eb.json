@@ -1,8 +1,8 @@
 {
-  "symbol": "tryb",
+  "symbol": "TRYB",
   "name": "BiLira",
   "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1642668342",

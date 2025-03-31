@@ -1,8 +1,8 @@
 {
-  "symbol": "yvusdt",
+  "symbol": "yvUSDT",
   "name": "USDT yVault",
   "address": "0x3b27f92c0e212c671ea351827edf93db27cc0c65",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28780/thumb/yvUSDT-128-0x7Da96a3891Add058AdA2E826306D812C638D87a7.png?1674182545",

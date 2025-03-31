@@ -1,6 +1,6 @@
 {
-  "symbol": "trace",
-  "name": "Trace Network Labs",
+  "symbol": "TRACE",
+  "name": "Trace Network",
   "address": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b",
   "decimals": 18,
   "type": "ERC20",

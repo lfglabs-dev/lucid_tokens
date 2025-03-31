@@ -1,8 +1,8 @@
 {
-  "symbol": "golden",
+  "symbol": "GOLDEN",
   "name": "Golden Inu",
   "address": "0xd87996ff3d06858bfc20989aef50cc5fcd4d84ca",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31473/thumb/200x200_logo_golden_inu.png?1692957205",

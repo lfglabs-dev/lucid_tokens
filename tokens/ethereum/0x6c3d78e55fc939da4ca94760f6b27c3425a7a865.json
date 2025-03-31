@@ -1,8 +1,8 @@
 {
-  "symbol": "megadeath",
-  "name": "MEGADEATH (PEPE)",
+  "symbol": "MEGADETH",
+  "name": "MEGADETH",
   "address": "0x6c3d78e55fc939da4ca94760f6b27c3425a7a865",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38075/thumb/Megadeth_Logo_200x200_PNG.png?1716449151",

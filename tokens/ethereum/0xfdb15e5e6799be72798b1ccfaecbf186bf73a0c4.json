@@ -1,8 +1,8 @@
 {
-  "symbol": "ntx",
-  "name": "NitroEX",
+  "symbol": "NTX",
+  "name": "NitroEx",
   "address": "0xfdb15e5e6799be72798b1ccfaecbf186bf73a0c4",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13976/thumb/ntx-icon.png?1613435774",

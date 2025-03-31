@@ -1,6 +1,6 @@
 {
-  "symbol": "kng",
-  "name": "Kanga Exchange",
+  "symbol": "KNG",
+  "name": "Kanga Exchange Token",
   "address": "0x471d113059324321749e097705197a2b44a070fc",
   "decimals": 18,
   "type": "ERC20",

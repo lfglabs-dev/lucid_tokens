@@ -1,8 +1,8 @@
 {
-  "symbol": "deci",
-  "name": "Maximus DECI",
+  "symbol": "DECI",
+  "name": "Maximus Decimus",
   "address": "0x6b32022693210cd2cfc466b9ac0085de8fc34ea6",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27693/thumb/Deci.png?1665222159",

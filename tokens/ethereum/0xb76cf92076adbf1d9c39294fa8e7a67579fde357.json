@@ -1,6 +1,6 @@
 {
-  "symbol": "arpl",
-  "name": "Aave v3 RPL",
+  "symbol": "aEthRPL",
+  "name": "Aave Ethereum RPL",
   "address": "0xb76cf92076adbf1d9c39294fa8e7a67579fde357",
   "decimals": 18,
   "type": "ERC20",

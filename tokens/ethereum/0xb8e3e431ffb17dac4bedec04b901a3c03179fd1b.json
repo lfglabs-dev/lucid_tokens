@@ -1,8 +1,8 @@
 {
-  "symbol": "dope",
+  "symbol": "DOPE",
   "name": "DogePepe",
   "address": "0xb8e3e431ffb17dac4bedec04b901a3c03179fd1b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37049/thumb/DuhyZzFj_400x400.jpg?1713165301",

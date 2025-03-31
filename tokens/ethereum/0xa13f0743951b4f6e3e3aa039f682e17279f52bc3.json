@@ -1,6 +1,6 @@
 {
-  "symbol": "senc",
-  "name": "Sentinel Chain",
+  "symbol": "SENC",
+  "name": "Sentinel Chain Token",
   "address": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
   "decimals": 18,
   "type": "ERC20",

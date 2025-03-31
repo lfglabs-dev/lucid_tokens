@@ -1,6 +1,6 @@
 {
-  "symbol": "bork",
-  "name": "Bork on Ethereum",
+  "symbol": "BORK",
+  "name": "Bork",
   "address": "0x8808434a831efea81170a56a9ddc57cc9e6de1d8",
   "decimals": 18,
   "type": "ERC20",

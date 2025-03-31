@@ -1,6 +1,6 @@
 {
-  "symbol": "ctok",
-  "name": "Codyfight",
+  "symbol": "CTOK",
+  "name": "Codyfight Token",
   "address": "0xf1acfb5d95bc090bc55d8ae58a8df4081d73e009",
   "decimals": 18,
   "type": "ERC20",

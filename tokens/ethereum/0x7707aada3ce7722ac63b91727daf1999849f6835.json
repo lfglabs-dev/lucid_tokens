@@ -1,8 +1,8 @@
 {
-  "symbol": "bnk",
-  "name": "Bankera",
+  "symbol": "BNK",
+  "name": "Bankera Token",
   "address": "0x7707aada3ce7722ac63b91727daf1999849f6835",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1949/thumb/bankera.png?1650883375",

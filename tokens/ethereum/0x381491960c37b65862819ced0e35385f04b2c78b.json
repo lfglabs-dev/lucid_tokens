@@ -1,8 +1,8 @@
 {
-  "symbol": "hachiko",
-  "name": "Hachiko",
+  "symbol": "HACHIKO",
+  "name": "ハチ公",
   "address": "0x381491960c37b65862819ced0e35385f04b2c78b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38856/thumb/hachiko.jpeg?1719213544",

@@ -1,5 +1,5 @@
 {
-  "symbol": "move",
+  "symbol": "MOVE",
   "name": "Mover",
   "address": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
   "decimals": 18,

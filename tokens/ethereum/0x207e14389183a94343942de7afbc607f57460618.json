@@ -1,6 +1,6 @@
 {
-  "symbol": "thol",
-  "name": "AngelBlock",
+  "symbol": "THOL",
+  "name": "Tholos",
   "address": "0x207e14389183a94343942de7afbc607f57460618",
   "decimals": 18,
   "type": "ERC20",

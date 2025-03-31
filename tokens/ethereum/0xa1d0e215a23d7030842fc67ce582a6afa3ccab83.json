@@ -1,6 +1,6 @@
 {
-  "symbol": "yfii",
-  "name": "DFI.money",
+  "symbol": "YFII",
+  "name": "YFII.finance",
   "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
   "decimals": 18,
   "type": "ERC20",

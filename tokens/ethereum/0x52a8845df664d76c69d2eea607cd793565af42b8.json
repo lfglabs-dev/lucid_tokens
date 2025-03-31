@@ -1,6 +1,6 @@
 {
-  "symbol": "apex",
-  "name": "ApeX",
+  "symbol": "APEX",
+  "name": "ApeX Token",
   "address": "0x52a8845df664d76c69d2eea607cd793565af42b8",
   "decimals": 18,
   "type": "ERC20",

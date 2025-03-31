@@ -1,6 +1,6 @@
 {
-  "symbol": "inmeth",
-  "name": "Inception mETH",
+  "symbol": "InmETH",
+  "name": "Inception Restaked mETH",
   "address": "0xecf3672a6d2147e2a77f07069fb48d8cf6f6fbf9",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "tbos",
-  "name": "Aktionariat TBo c/o Comon Accelerator Holding AG Tokenized Shares",
+  "symbol": "TBOS",
+  "name": "TBo Shares SHA",
   "address": "0xb446566d6d644249d5d82aab5fea8a5b7da3f691",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33332/thumb/TBOS.png?1701518908",

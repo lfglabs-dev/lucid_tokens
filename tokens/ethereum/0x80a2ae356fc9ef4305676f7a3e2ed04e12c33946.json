@@ -1,8 +1,8 @@
 {
-  "symbol": "cyfi",
-  "name": "cYFI",
+  "symbol": "cYFI",
+  "name": "Compound yearn.finance",
   "address": "0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17530/thumb/cyfi.PNG?1628123155",

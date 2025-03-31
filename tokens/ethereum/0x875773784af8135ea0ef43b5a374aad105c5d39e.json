@@ -1,6 +1,6 @@
 {
-  "symbol": "idle",
-  "name": "Idle Finance",
+  "symbol": "IDLE",
+  "name": "Idle",
   "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
   "decimals": 18,
   "type": "ERC20",

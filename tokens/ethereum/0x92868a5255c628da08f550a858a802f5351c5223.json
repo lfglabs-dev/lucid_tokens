@@ -1,6 +1,6 @@
 {
-  "symbol": "bridge",
-  "name": "Cross-Chain Bridge",
+  "symbol": "BRIDGE",
+  "name": "Cross-Chain Bridge Token",
   "address": "0x92868a5255c628da08f550a858a802f5351c5223",
   "decimals": 18,
   "type": "ERC20",

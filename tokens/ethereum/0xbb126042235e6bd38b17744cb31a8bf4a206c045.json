@@ -1,6 +1,6 @@
 {
-  "symbol": "fanc",
-  "name": "fanC",
+  "symbol": "FANC",
+  "name": "fanC Token",
   "address": "0xbb126042235e6bd38b17744cb31a8bf4a206c045",
   "decimals": 18,
   "type": "ERC20",

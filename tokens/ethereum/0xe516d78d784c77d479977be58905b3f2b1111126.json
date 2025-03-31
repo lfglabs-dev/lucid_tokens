@@ -1,6 +1,6 @@
 {
-  "symbol": "spwn",
-  "name": "Bitspawn",
+  "symbol": "SPWN",
+  "name": "BitSpawn Token",
   "address": "0xe516d78d784c77d479977be58905b3f2b1111126",
   "decimals": 18,
   "type": "ERC20",

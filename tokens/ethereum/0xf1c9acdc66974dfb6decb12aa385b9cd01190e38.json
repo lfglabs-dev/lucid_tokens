@@ -1,6 +1,6 @@
 {
-  "symbol": "oseth",
-  "name": "StakeWise Staked ETH",
+  "symbol": "osETH",
+  "name": "Staked ETH",
   "address": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "bbc",
-  "name": "Big Bonus Coin [ETH]",
+  "symbol": "BBC",
+  "name": "Big Bonus Coin",
   "address": "0x015628ce9150db1bce2fbb717a09e846f8a32436",
   "decimals": 18,
   "type": "ERC20",

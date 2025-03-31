@@ -1,8 +1,8 @@
 {
-  "symbol": "bbtc",
+  "symbol": "BBTC",
   "name": "Binance Wrapped BTC",
   "address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666",

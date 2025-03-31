@@ -1,6 +1,6 @@
 {
-  "symbol": "usualusdc+",
-  "name": "MEV Capital Usual Boosted USDC Morpho Vault",
+  "symbol": "USUALUSDC+",
+  "name": " Usual Boosted USDC",
   "address": "0xd63070114470f685b75b74d60eec7c1113d33a3d",
   "decimals": 18,
   "type": "ERC20",

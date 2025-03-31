@@ -1,6 +1,6 @@
 {
-  "symbol": "apuff",
-  "name": "Airpuff",
+  "symbol": "APUFF",
+  "name": "APUFF",
   "address": "0x2be056e595110b30ddd5eaf674bdac54615307d9",
   "decimals": 18,
   "type": "ERC20",

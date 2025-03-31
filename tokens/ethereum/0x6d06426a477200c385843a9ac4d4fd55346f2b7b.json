@@ -1,8 +1,8 @@
 {
-  "symbol": "ginnan",
+  "symbol": "GINNAN",
   "name": "Ginnan Neko",
   "address": "0x6d06426a477200c385843a9ac4d4fd55346f2b7b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52346/thumb/GINNAN_200.jpg?1733149923",

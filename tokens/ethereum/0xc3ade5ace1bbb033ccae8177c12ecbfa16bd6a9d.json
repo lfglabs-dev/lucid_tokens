@@ -1,6 +1,6 @@
 {
-  "symbol": "insweth",
-  "name": "Inception swETH",
+  "symbol": "InswETH",
+  "name": "Inception Restaked swETH",
   "address": "0xc3ade5ace1bbb033ccae8177c12ecbfa16bd6a9d",
   "decimals": 18,
   "type": "ERC20",

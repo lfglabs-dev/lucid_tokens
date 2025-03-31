@@ -1,8 +1,8 @@
 {
-  "symbol": "para",
+  "symbol": "PARA",
   "name": "Paragon Network",
   "address": "0x8f43ee50942e96d84052253ab13f59c1d942fb98",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36967/thumb/0x8f43ee50942e96d84052253ab13f59c1d942fb98.png?1712908143",

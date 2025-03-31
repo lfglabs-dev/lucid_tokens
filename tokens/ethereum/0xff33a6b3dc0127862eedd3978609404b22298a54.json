@@ -1,6 +1,6 @@
 {
-  "symbol": "gorples",
-  "name": "GorplesCoin",
+  "symbol": "GORPLE",
+  "name": "Gorples Coin",
   "address": "0xff33a6b3dc0127862eedd3978609404b22298a54",
   "decimals": 18,
   "type": "ERC20",

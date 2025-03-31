@@ -1,8 +1,8 @@
 {
-  "symbol": "nds",
+  "symbol": "NDS",
   "name": "NodeStation AI",
   "address": "0x3824255df9eabc9347abcaa5872b1763fe9d47bc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37187/thumb/NodeStation_AI_200x200.png?1713666678",

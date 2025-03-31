@@ -1,6 +1,6 @@
 {
-  "symbol": "$flork",
-  "name": "Flork",
+  "symbol": "Flork",
+  "name": "HeyFlork",
   "address": "0xdb0238975ce84f89212ffa56c64c0f2b47f8f153",
   "decimals": 18,
   "type": "ERC20",

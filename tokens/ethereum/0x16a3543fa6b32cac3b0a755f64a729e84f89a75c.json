@@ -1,5 +1,5 @@
 {
-  "symbol": "tensor",
+  "symbol": "TENSOR",
   "name": "Wrapped Hypertensor",
   "address": "0x16a3543fa6b32cac3b0a755f64a729e84f89a75c",
   "decimals": 18,

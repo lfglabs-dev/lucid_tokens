@@ -1,8 +1,8 @@
 {
-  "symbol": "fedai",
+  "symbol": "FEDAI",
   "name": "Federal AI",
   "address": "0xd4318fa09c45cfb6355ded6085b0d698b64ec1cd",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34912/thumb/fed-ai-logo-200px.png?1706604536",

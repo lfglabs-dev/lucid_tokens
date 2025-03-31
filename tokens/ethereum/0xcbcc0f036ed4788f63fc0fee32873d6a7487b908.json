@@ -1,8 +1,8 @@
 {
-  "symbol": "hmq",
+  "symbol": "HMQ",
   "name": "Humaniq",
   "address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/647/thumb/humaniq.jpg?1547034375",

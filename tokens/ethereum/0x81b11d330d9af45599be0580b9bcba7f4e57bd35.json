@@ -1,6 +1,6 @@
 {
-  "symbol": "defi.d",
-  "name": "Dinari DEFI",
+  "symbol": "DEFI.d",
+  "name": "Hashdex Bitcoin Futures ETF - Dinari",
   "address": "0x81b11d330d9af45599be0580b9bcba7f4e57bd35",
   "decimals": 18,
   "type": "ERC20",

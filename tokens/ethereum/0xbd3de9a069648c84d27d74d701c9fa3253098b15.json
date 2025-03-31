@@ -1,6 +1,6 @@
 {
-  "symbol": "eqx",
-  "name": "EQIFi",
+  "symbol": "EQX",
+  "name": "EQIFi Token",
   "address": "0xbd3de9a069648c84d27d74d701c9fa3253098b15",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "3crv",
-  "name": "LP 3pool Curve",
+  "symbol": "3Crv",
+  "name": "Curve.fi DAI/USDC/USDT",
   "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
   "decimals": 18,
   "type": "ERC20",

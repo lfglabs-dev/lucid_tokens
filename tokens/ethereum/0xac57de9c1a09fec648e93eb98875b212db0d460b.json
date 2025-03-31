@@ -1,8 +1,8 @@
 {
-  "symbol": "babydoge",
+  "symbol": "BabyDoge",
   "name": "Baby Doge Coin",
   "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/16125/thumb/Baby_Doge.png?1623044048",

@@ -1,8 +1,8 @@
 {
-  "symbol": "kuji",
-  "name": "Kujira",
+  "symbol": "KUJI",
+  "name": "Kuji",
   "address": "0x96543ef8d2c75c26387c1a319ae69c0bee6f3fe7",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/20685/thumb/kuji-200x200.png?1637557201",

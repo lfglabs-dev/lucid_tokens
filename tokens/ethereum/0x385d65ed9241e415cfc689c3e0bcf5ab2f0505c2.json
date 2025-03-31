@@ -1,8 +1,8 @@
 {
-  "symbol": "mollars",
+  "symbol": "MOLLARS",
   "name": "MollarsToken",
   "address": "0x385d65ed9241e415cfc689c3e0bcf5ab2f0505c2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38435/thumb/cmc200x200.png?1717535763",

@@ -1,6 +1,6 @@
 {
-  "symbol": "app",
-  "name": "RWAX",
+  "symbol": "APP",
+  "name": "Moon App",
   "address": "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439",
   "decimals": 18,
   "type": "ERC20",

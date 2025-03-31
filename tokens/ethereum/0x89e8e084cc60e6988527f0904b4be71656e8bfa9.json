@@ -1,8 +1,8 @@
 {
-  "symbol": "smog",
+  "symbol": "SMOG",
   "name": "Smog",
   "address": "0x89e8e084cc60e6988527f0904b4be71656e8bfa9",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35117/thumb/SMOG_TOKEN__2.png?1707398947",

@@ -1,6 +1,6 @@
 {
-  "symbol": "kine",
-  "name": "Kine Protocol",
+  "symbol": "KINE",
+  "name": "Kine Governance Token",
   "address": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",
   "decimals": 18,
   "type": "ERC20",

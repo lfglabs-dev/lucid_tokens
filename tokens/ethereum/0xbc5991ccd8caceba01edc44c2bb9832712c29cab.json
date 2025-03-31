@@ -1,8 +1,8 @@
 {
-  "symbol": "uusdc",
-  "name": "Unagii USD Coin",
+  "symbol": "uUSDC",
+  "name": "unagii_USD Coin",
   "address": "0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13781/thumb/uUSDC.png?1611729843",

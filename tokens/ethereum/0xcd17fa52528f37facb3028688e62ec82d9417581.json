@@ -1,8 +1,8 @@
 {
-  "symbol": "mtrm",
+  "symbol": "MTRM",
   "name": "Materium",
   "address": "0xcd17fa52528f37facb3028688e62ec82d9417581",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/24613/thumb/mtrm.png?1648373908",

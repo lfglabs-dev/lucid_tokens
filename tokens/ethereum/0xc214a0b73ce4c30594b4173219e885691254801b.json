@@ -1,8 +1,8 @@
 {
-  "symbol": "toto",
-  "name": "Tiamonds",
+  "symbol": "TOTO",
+  "name": "TOTO Token",
   "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54709/thumb/toto-logo.png?1741421676",

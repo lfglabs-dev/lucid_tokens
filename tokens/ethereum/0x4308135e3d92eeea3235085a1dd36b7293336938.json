@@ -1,6 +1,6 @@
 {
-  "symbol": "cradle",
-  "name": "Cradle Games",
+  "symbol": "CRADLE",
+  "name": "Cradle",
   "address": "0x4308135e3d92eeea3235085a1dd36b7293336938",
   "decimals": 18,
   "type": "ERC20",

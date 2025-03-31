@@ -1,8 +1,8 @@
 {
-  "symbol": "ebtc",
-  "name": "Ether.fi Staked BTC",
+  "symbol": "eBTC",
+  "name": "ether.fi BTC",
   "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50411/thumb/eBTC.png?1727664788",

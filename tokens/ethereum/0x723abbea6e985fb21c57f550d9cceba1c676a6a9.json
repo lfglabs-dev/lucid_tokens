@@ -1,8 +1,8 @@
 {
-  "symbol": "scf",
+  "symbol": "SCF",
   "name": "Smoking Chicken Fish",
   "address": "0x723abbea6e985fb21c57f550d9cceba1c676a6a9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50753/thumb/1000367569.jpg?1728966181",

@@ -1,8 +1,8 @@
 {
-  "symbol": "fufu",
-  "name": "Fufu Token",
+  "symbol": "FUFU",
+  "name": "FuFu",
   "address": "0x7b37a55ffb30c11d95f943672ae98f28cfb7b087",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32225/thumb/6522723afff7e2e198ce38c6_FufuTokenIcon_250x250.png?1696931163",

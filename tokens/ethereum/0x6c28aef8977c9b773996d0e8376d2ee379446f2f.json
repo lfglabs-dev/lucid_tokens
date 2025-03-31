@@ -1,6 +1,6 @@
 {
-  "symbol": "quick",
-  "name": "Quickswap [OLD]",
+  "symbol": "QUICK",
+  "name": "Quickswap",
   "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
   "decimals": 18,
   "type": "ERC20",

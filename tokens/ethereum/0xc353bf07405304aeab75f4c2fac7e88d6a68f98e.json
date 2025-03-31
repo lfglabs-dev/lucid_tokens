@@ -1,6 +1,6 @@
 {
-  "symbol": "hope",
-  "name": "Hope.money",
+  "symbol": "HOPE",
+  "name": "HOPE",
   "address": "0xc353bf07405304aeab75f4c2fac7e88d6a68f98e",
   "decimals": 18,
   "type": "ERC20",

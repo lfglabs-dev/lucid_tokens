@@ -1,6 +1,6 @@
 {
-  "symbol": "tomi",
-  "name": "TOMI",
+  "symbol": "TOMI",
+  "name": "tomi Token",
   "address": "0x4385328cc4d643ca98dfea734360c0f596c83449",
   "decimals": 18,
   "type": "ERC20",

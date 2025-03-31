@@ -1,8 +1,8 @@
 {
-  "symbol": "ecoterra",
-  "name": "Ecoterra",
+  "symbol": "ECOTERRA",
+  "name": "ecoterra",
   "address": "0x982b50e55394641ca975a0eec630b120b671391a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31563/thumb/ECOTERRA.png?1693806744",

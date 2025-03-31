@@ -1,8 +1,8 @@
 {
-  "symbol": "mpdao",
-  "name": "Meta Pool DAO",
+  "symbol": "mpDAO",
+  "name": "Meta Pool DAO Token",
   "address": "0x798bcb35d2d48c8ce7ef8171860b8d53a98b361d",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/24249/thumb/Picture1.png?1647096780",

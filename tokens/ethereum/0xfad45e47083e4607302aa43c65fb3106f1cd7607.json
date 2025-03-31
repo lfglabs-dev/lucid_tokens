@@ -1,8 +1,8 @@
 {
-  "symbol": "hoge",
-  "name": "Hoge Finance",
+  "symbol": "HOGE",
+  "name": "hoge.finance",
   "address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14360/thumb/hoge.jpg?1615641604",

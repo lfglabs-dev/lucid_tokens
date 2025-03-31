@@ -1,6 +1,6 @@
 {
-  "symbol": "ibit.d",
-  "name": "Dinari IBIT",
+  "symbol": "IBIT.d",
+  "name": "iShares Bitcoin Trust iShares Bitcoin Trust - Dinari",
   "address": "0x3c4024408efac2dbf7ed453c95d9d97889e4846a",
   "decimals": 18,
   "type": "ERC20",

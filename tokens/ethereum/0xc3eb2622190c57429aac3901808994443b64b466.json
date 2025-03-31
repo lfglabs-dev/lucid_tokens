@@ -1,6 +1,6 @@
 {
-  "symbol": "oro",
-  "name": "ORO",
+  "symbol": "ORO",
+  "name": "ORO Token",
   "address": "0xc3eb2622190c57429aac3901808994443b64b466",
   "decimals": 18,
   "type": "ERC20",

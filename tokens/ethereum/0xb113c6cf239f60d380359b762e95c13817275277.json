@@ -1,8 +1,8 @@
 {
-  "symbol": "bmex",
-  "name": "BitMEX",
+  "symbol": "BMEX",
+  "name": "BitMEX Token",
   "address": "0xb113c6cf239f60d380359b762e95c13817275277",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/21831/thumb/bitmex-token.jpeg?1640081706",

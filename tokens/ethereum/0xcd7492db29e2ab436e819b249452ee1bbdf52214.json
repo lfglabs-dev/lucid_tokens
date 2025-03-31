@@ -1,8 +1,8 @@
 {
-  "symbol": "smi",
+  "symbol": "SMI",
   "name": "SafeMoon Inu",
   "address": "0xcd7492db29e2ab436e819b249452ee1bbdf52214",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/16091/thumb/SMI.png?1622801787",

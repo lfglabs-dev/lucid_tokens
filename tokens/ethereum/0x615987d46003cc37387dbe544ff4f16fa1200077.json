@@ -1,8 +1,8 @@
 {
-  "symbol": "nasdaq420",
+  "symbol": "NASDAQ420",
   "name": "Nasdaq420",
   "address": "0x615987d46003cc37387dbe544ff4f16fa1200077",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50928/thumb/1001412047.jpg?1729582198",

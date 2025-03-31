@@ -1,6 +1,6 @@
 {
-  "symbol": "deto",
-  "name": "Delta Exchange",
+  "symbol": "DETO",
+  "name": "Delta Exchange Token",
   "address": "0xab93df617f51e1e415b5b4f8111f122d6b48e55c",
   "decimals": 18,
   "type": "ERC20",

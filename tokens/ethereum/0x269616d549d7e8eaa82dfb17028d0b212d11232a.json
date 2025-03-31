@@ -1,6 +1,6 @@
 {
-  "symbol": "punk",
-  "name": "Punk Vault (NFTX)",
+  "symbol": "PUNK",
+  "name": "CryptoPunks",
   "address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "fwb",
-  "name": "Friends with Benefits Network",
+  "symbol": "FWB",
+  "name": "FWB network",
   "address": "0x269877f972622d3c293fca595c65cf34b7f527ce",
   "decimals": 18,
   "type": "ERC20",

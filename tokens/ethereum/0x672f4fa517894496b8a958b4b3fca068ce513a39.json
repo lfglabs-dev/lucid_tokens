@@ -1,6 +1,6 @@
 {
-  "symbol": "dck",
-  "name": "DexCheck AI",
+  "symbol": "DCK",
+  "name": "DexCheck",
   "address": "0x672f4fa517894496b8a958b4b3fca068ce513a39",
   "decimals": 18,
   "type": "ERC20",

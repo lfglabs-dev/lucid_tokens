@@ -1,8 +1,8 @@
 {
-  "symbol": "inxt",
+  "symbol": "INXT",
   "name": "Internxt",
   "address": "0x4a8f5f96d5436e43112c2fbc6a9f70da9e4e16d4",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/986/thumb/inxt.png?1639651885",

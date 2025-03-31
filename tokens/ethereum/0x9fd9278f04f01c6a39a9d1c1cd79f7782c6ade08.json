@@ -1,8 +1,8 @@
 {
-  "symbol": "biao",
+  "symbol": "BIAO",
   "name": "Biaoqing",
   "address": "0x9fd9278f04f01c6a39a9d1c1cd79f7782c6ade08",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38643/thumb/oPnGc4zJ_400x400.jpg?1718210024",

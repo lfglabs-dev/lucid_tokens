@@ -1,6 +1,6 @@
 {
-  "symbol": "rocki",
-  "name": "Rocki",
+  "symbol": "ROCKI",
+  "name": "ROCKI",
   "address": "0xff44b937788215eca197baaf9af69dbdc214aa04",
   "decimals": 18,
   "type": "ERC20",

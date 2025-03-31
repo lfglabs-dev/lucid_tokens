@@ -1,8 +1,8 @@
 {
-  "symbol": "tkx",
-  "name": "Tokenize Xchange",
+  "symbol": "TKX",
+  "name": "Tokenize Emblem",
   "address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/4984/thumb/Tokenize.png?1561602968",

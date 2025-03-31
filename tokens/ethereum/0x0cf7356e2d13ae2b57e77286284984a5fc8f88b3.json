@@ -1,6 +1,6 @@
 {
-  "symbol": "scot",
-  "name": "Scotcoin",
+  "symbol": "SCOT",
+  "name": "Scotcoin Token",
   "address": "0x0cf7356e2d13ae2b57e77286284984a5fc8f88b3",
   "decimals": 18,
   "type": "ERC20",

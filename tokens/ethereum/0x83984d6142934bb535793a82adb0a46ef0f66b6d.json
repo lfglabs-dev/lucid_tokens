@@ -1,8 +1,8 @@
 {
-  "symbol": "rem",
-  "name": "Remme",
+  "symbol": "REM",
+  "name": "REMME token",
   "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/2152/thumb/semme.png?1561622861",

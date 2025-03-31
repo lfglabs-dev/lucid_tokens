@@ -1,6 +1,6 @@
 {
-  "symbol": "rfrm",
-  "name": "Reform DAO",
+  "symbol": "$RFRM",
+  "name": "Reform",
   "address": "0xea3eed8616877f5d3c4aebf5a799f2e8d6de9a5e",
   "decimals": 18,
   "type": "ERC20",

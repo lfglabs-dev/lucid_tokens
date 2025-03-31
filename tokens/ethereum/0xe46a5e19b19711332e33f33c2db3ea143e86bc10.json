@@ -1,6 +1,6 @@
 {
-  "symbol": "mwbeth",
-  "name": "Eigenpie wBETH",
+  "symbol": "mwBETH",
+  "name": "mwBETH",
   "address": "0xe46a5e19b19711332e33f33c2db3ea143e86bc10",
   "decimals": 18,
   "type": "ERC20",

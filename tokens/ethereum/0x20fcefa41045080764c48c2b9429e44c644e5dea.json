@@ -1,6 +1,6 @@
 {
   "symbol": "foox",
-  "name": "Foox (Ordinals)",
+  "name": "foox",
   "address": "0x20fcefa41045080764c48c2b9429e44c644e5dea",
   "decimals": 18,
   "type": "ERC20",

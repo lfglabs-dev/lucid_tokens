@@ -1,6 +1,6 @@
 {
-  "symbol": "smbswap",
-  "name": "SimbCoin Swap",
+  "symbol": "SMB SWAP",
+  "name": "SIMBCOIN SWAP",
   "address": "0x53bd789f2cdb846b227d8ffc7b46ed4263231fdf",
   "decimals": 18,
   "type": "ERC20",

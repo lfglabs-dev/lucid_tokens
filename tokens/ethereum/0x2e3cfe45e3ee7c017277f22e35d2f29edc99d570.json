@@ -1,8 +1,8 @@
 {
-  "symbol": "wdag",
+  "symbol": "wDAG",
   "name": "Wrapped DAG",
   "address": "0x2e3cfe45e3ee7c017277f22e35d2f29edc99d570",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39576/thumb/Constellation_Network_Logo.png?1723003801",

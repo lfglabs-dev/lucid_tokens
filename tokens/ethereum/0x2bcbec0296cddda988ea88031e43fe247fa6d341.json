@@ -1,8 +1,8 @@
 {
-  "symbol": "mootun",
+  "symbol": "MOOTUN",
   "name": "Moo Tun",
   "address": "0x2bcbec0296cddda988ea88031e43fe247fa6d341",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50553/thumb/photo_2024-10-07_18.54.17.jpeg?1728351721",

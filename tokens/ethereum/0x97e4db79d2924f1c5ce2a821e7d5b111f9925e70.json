@@ -1,6 +1,6 @@
 {
-  "symbol": "jnj.d",
-  "name": "Dinari JNJ",
+  "symbol": "JNJ.d",
+  "name": "Johnson & Johnson - Dinari",
   "address": "0x97e4db79d2924f1c5ce2a821e7d5b111f9925e70",
   "decimals": 18,
   "type": "ERC20",

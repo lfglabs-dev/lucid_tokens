@@ -1,6 +1,6 @@
 {
-  "symbol": "bend",
-  "name": "BendDAO",
+  "symbol": "BEND",
+  "name": "Bend Token",
   "address": "0x0d02755a5700414b26ff040e1de35d337df56218",
   "decimals": 18,
   "type": "ERC20",

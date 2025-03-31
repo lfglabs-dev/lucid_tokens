@@ -1,6 +1,6 @@
 {
-  "symbol": "ko.d",
-  "name": "Dinari KO",
+  "symbol": "KO.d",
+  "name": "Coca-Cola Company - Dinari",
   "address": "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158",
   "decimals": 18,
   "type": "ERC20",

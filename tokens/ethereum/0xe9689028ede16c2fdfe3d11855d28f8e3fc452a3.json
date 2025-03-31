@@ -1,6 +1,6 @@
 {
-  "symbol": "bubble",
-  "name": "Imaginary Ones",
+  "symbol": "BUBBLE",
+  "name": "Bubble",
   "address": "0xe9689028ede16c2fdfe3d11855d28f8e3fc452a3",
   "decimals": 18,
   "type": "ERC20",

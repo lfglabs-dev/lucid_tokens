@@ -1,6 +1,6 @@
 {
-  "symbol": "ese",
-  "name": "Eesee",
+  "symbol": "ESE",
+  "name": "eesee",
   "address": "0x908ddb096bfb3acb19e2280aad858186ea4935c4",
   "decimals": 18,
   "type": "ERC20",

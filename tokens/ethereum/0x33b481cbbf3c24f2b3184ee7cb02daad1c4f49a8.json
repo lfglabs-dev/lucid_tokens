@@ -1,8 +1,8 @@
 {
-  "symbol": "d",
-  "name": "Dar Open Network",
+  "symbol": "D",
+  "name": "DAR Open Network",
   "address": "0x33b481cbbf3c24f2b3184ee7cb02daad1c4f49a8",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53414/thumb/dar.png?1736325510",

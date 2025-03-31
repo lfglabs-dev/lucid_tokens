@@ -1,6 +1,6 @@
 {
-  "symbol": "olt",
-  "name": "OneLedger",
+  "symbol": "OLT",
+  "name": "Oneledger Token",
   "address": "0x64a60493d888728cf42616e034a0dfeae38efcf0",
   "decimals": 18,
   "type": "ERC20",

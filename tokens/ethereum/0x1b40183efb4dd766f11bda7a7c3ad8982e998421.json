@@ -1,6 +1,6 @@
 {
-  "symbol": "vsp",
-  "name": "Vesper Finance",
+  "symbol": "VSP",
+  "name": "VesperToken",
   "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
   "decimals": 18,
   "type": "ERC20",

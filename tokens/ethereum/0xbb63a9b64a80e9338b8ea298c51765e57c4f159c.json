@@ -1,8 +1,8 @@
 {
-  "symbol": "pica",
+  "symbol": "PICA",
   "name": "Picasso",
   "address": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
-  "decimals": 18,
+  "decimals": 12,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28286/thumb/PICA.png?1669171116",

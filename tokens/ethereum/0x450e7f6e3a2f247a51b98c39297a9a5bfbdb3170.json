@@ -1,8 +1,8 @@
 {
-  "symbol": "egt",
-  "name": "Elon GOAT",
+  "symbol": "EGT",
+  "name": "ElonGoat",
   "address": "0x450e7f6e3a2f247a51b98c39297a9a5bfbdb3170",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/22301/thumb/ElonGoat.jpg?1641438513",

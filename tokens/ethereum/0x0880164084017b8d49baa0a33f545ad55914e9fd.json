@@ -1,8 +1,8 @@
 {
-  "symbol": "dti",
-  "name": "DT Inu",
+  "symbol": "DTI",
+  "name": "Donald Trump Inu",
   "address": "0x0880164084017b8d49baa0a33f545ad55914e9fd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38246/thumb/DTI_Avatar_CG.png?1716890507",

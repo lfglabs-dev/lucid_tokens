@@ -1,8 +1,8 @@
 {
-  "symbol": "satoshi",
+  "symbol": "SATOSHI",
   "name": "Satoshi Nakamoto",
   "address": "0xcbf4d5efa82e32a9187385480a7c74cb062b956c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37611/thumb/SATOSHI_LOGO.PNG?1715054986",

@@ -1,8 +1,8 @@
 {
-  "symbol": "open",
-  "name": "Open Platform",
+  "symbol": "OPENC",
+  "name": "OPEN Chain",
   "address": "0x9d86b1b2554ec410eccffbf111a6994910111340",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/2953/thumb/open-platform.png?1548330231",

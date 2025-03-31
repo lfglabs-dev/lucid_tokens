@@ -1,8 +1,8 @@
 {
-  "symbol": "hoshi",
+  "symbol": "HOSHI",
   "name": "Dejitaru Hoshi",
   "address": "0x5362ca75aa3c0e714bc628296640c43dc5cb9ed6",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31488/thumb/Hoshi_200x200_-_Copy.png?1693352629",

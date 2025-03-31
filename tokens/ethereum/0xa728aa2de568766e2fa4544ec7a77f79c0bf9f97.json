@@ -1,6 +1,6 @@
 {
-  "symbol": "jok",
-  "name": "JokInTheBox",
+  "symbol": "JOK",
+  "name": "Jok",
   "address": "0xa728aa2de568766e2fa4544ec7a77f79c0bf9f97",
   "decimals": 18,
   "type": "ERC20",

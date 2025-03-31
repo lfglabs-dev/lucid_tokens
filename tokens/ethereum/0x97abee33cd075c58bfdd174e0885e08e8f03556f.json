@@ -1,6 +1,6 @@
 {
-  "symbol": "sent",
-  "name": "Sentiment",
+  "symbol": "SENT",
+  "name": "Sentiment Token",
   "address": "0x97abee33cd075c58bfdd174e0885e08e8f03556f",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "volt",
+  "symbol": "VOLT",
   "name": "Volt Inu",
   "address": "0x7f792db54b0e580cdc755178443f0430cf799aca",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/25201/thumb/tghEEYDf_400x400.jpg?1650618171",

@@ -1,6 +1,6 @@
 {
-  "symbol": "efi",
-  "name": "Efinity",
+  "symbol": "EFI",
+  "name": "Efinity Token",
   "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
   "decimals": 18,
   "type": "ERC20",

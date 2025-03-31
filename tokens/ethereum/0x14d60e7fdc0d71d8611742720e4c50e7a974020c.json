@@ -1,8 +1,8 @@
 {
-  "symbol": "uscc",
-  "name": "Superstate USCC",
+  "symbol": "USCC",
+  "name": "Superstate Crypto Carry Fund",
   "address": "0x14d60e7fdc0d71d8611742720e4c50e7a974020c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39326/thumb/superstate.jpg?1721724143",

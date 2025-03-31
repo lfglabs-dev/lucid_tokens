@@ -1,6 +1,6 @@
 {
-  "symbol": "troll",
-  "name": "Troll",
+  "symbol": "TROLL",
+  "name": "TROLL",
   "address": "0xf8ebf4849f1fa4faf0dff2106a173d3a6cb2eb3a",
   "decimals": 18,
   "type": "ERC20",

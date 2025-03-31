@@ -1,8 +1,8 @@
 {
-  "symbol": "txn",
+  "symbol": "TXN",
   "name": "TXNScan",
   "address": "0x247e3866f743cce280433b865a669c9361421ecc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53658/thumb/IMG_4607.jpeg?1737001129",

@@ -1,8 +1,8 @@
 {
-  "symbol": "4chan",
-  "name": "4Chan",
+  "symbol": "4CHAN",
+  "name": "4CHAN",
   "address": "0xe0a458bf4acf353cb45e211281a334bb1d837885",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30124/thumb/4CHAN.png?1683259065",

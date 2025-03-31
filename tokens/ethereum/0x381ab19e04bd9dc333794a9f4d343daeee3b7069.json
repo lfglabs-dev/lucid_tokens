@@ -1,8 +1,8 @@
 {
-  "symbol": "dolan",
+  "symbol": "DOLAN",
   "name": "Dolan Duk",
   "address": "0x381ab19e04bd9dc333794a9f4d343daeee3b7069",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50723/thumb/Dolan_Duk.png?1728888827",

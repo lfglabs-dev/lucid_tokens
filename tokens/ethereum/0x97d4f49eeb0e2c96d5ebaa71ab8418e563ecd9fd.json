@@ -1,8 +1,8 @@
 {
-  "symbol": "lsd",
-  "name": "Liquid Staking Derivative",
+  "symbol": "LSD",
+  "name": "Liquid Staking Derivatives",
   "address": "0x97d4f49eeb0e2c96d5ebaa71ab8418e563ecd9fd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29188/thumb/LSD.jpg?1677219444",

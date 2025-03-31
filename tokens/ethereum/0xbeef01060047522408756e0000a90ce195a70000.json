@@ -1,8 +1,8 @@
 {
-  "symbol": "aptr",
-  "name": "Aperture Finance",
+  "symbol": "APTR",
+  "name": "Aperture",
   "address": "0xbeef01060047522408756e0000a90ce195a70000",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37940/thumb/icon_white.png?1715967425",

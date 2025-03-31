@@ -1,8 +1,8 @@
 {
-  "symbol": "salt",
-  "name": "SALT",
+  "symbol": "SALT",
+  "name": "Salt",
   "address": "0x4156d3342d5c385a87d264f90653733592000581",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/962/thumb/salt.png?1548608746",

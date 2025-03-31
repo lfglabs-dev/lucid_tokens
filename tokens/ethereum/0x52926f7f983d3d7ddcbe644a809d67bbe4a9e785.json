@@ -1,6 +1,6 @@
 {
-  "symbol": "xom.d",
-  "name": "Dinari XOM",
+  "symbol": "XOM.d",
+  "name": "Exxon Mobil Corporation - Dinari",
   "address": "0x52926f7f983d3d7ddcbe644a809d67bbe4a9e785",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "dogga",
+  "symbol": "DOGGA",
   "name": "Doggacoin",
   "address": "0x1a8a39f2986cf9688f6dc9e5ee0cc0bc8d5edd67",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38515/thumb/200x200.png?1717754943",

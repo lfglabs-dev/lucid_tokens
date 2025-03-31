@@ -1,8 +1,8 @@
 {
-  "symbol": "pepejr",
-  "name": "Pepe Junior",
+  "symbol": "PEPEJR",
+  "name": "Pepe JR",
   "address": "0x5dfbf02313e1be7e8db5aa6f660433588338f201",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38226/thumb/3F694106-EB37-4D96-AA6C-DBE6A5C4775D.png?1716828211",

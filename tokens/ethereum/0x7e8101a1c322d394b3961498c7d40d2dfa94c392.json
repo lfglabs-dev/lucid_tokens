@@ -1,6 +1,6 @@
 {
-  "symbol": "wbnvda",
-  "name": "Wrapped bNVDA",
+  "symbol": "wbNVDA",
+  "name": "Wrapped Backed NVIDIA Corp",
   "address": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "pbtc35a",
-  "name": "pBTC35A",
+  "symbol": "pBTC35A",
+  "name": "POW BTC-35W/T",
   "address": "0xa8b12cc90abf65191532a12bb5394a714a46d358",
   "decimals": 18,
   "type": "ERC20",

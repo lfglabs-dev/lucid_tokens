@@ -1,8 +1,8 @@
 {
-  "symbol": "d/acc",
+  "symbol": "D/ACC",
   "name": "d/acc",
   "address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33313/thumb/dddd.png?1701412963",

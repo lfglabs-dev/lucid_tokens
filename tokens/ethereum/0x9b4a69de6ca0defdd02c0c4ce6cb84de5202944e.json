@@ -1,8 +1,8 @@
 {
-  "symbol": "proof",
-  "name": "PROOF Platform",
+  "symbol": "PROOF",
+  "name": "PROOF",
   "address": "0x9b4a69de6ca0defdd02c0c4ce6cb84de5202944e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32478/thumb/PROOF_icon_-_200.png?1698286769",

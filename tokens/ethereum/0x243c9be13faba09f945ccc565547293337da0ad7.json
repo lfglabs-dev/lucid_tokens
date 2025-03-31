@@ -1,6 +1,6 @@
 {
-  "symbol": "truf",
-  "name": "TRUF.Network",
+  "symbol": "TRUF",
+  "name": "Truflation",
   "address": "0x243c9be13faba09f945ccc565547293337da0ad7",
   "decimals": 18,
   "type": "ERC20",

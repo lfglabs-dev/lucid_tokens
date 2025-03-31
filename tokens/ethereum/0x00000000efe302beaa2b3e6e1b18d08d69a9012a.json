@@ -1,8 +1,8 @@
 {
-  "symbol": "ausd",
+  "symbol": "AUSD",
   "name": "AUSD",
   "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39284/thumb/Agora_Olive.png?1721453639",

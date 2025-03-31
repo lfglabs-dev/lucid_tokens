@@ -1,8 +1,8 @@
 {
-  "symbol": "cheesed",
+  "symbol": "CHEESED",
   "name": "Cheesed",
   "address": "0xa247c6d23c8c7d223420700d16d189cff9357f38",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38836/thumb/Untitled_design.png?1719198911",

@@ -1,6 +1,6 @@
 {
-  "symbol": "hedgehog",
-  "name": "Hedgehog",
+  "symbol": "Hedgehog",
+  "name": "Liqui Hedgehog ",
   "address": "0x6d4ca1177087924edfe0908ef655169ea766fdc3",
   "decimals": 18,
   "type": "ERC20",

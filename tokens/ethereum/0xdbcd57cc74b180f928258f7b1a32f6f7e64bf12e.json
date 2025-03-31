@@ -1,6 +1,6 @@
 {
-  "symbol": "bepe",
-  "name": "Baby Pepe Token",
+  "symbol": "BEPE",
+  "name": "Baby Pepe",
   "address": "0xdbcd57cc74b180f928258f7b1a32f6f7e64bf12e",
   "decimals": 18,
   "type": "ERC20",

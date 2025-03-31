@@ -1,6 +1,6 @@
 {
-  "symbol": "vader",
-  "name": "Vader Protocol",
+  "symbol": "VADER",
+  "name": "Vader",
   "address": "0x2602278ee1882889b946eb11dc0e810075650983",
   "decimals": 18,
   "type": "ERC20",

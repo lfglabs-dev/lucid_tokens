@@ -1,6 +1,6 @@
 {
-  "symbol": "pickle",
-  "name": "Pickle Finance",
+  "symbol": "PICKLE",
+  "name": "PickleToken",
   "address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "spot",
-  "name": "Spot",
+  "symbol": "SPOT",
+  "name": "SPOT",
   "address": "0xc1f33e0cf7e40a67375007104b929e49a581bafe",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28426/thumb/SPOT_Logo_200x200_square.png?1671871463",

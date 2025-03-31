@@ -1,6 +1,6 @@
 {
-  "symbol": "deri",
-  "name": "Deri Protocol",
+  "symbol": "DERI",
+  "name": "Deri",
   "address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
   "decimals": 18,
   "type": "ERC20",

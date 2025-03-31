@@ -1,6 +1,6 @@
 {
-  "symbol": "hpo",
-  "name": "Hippo Wallet",
+  "symbol": "HPO",
+  "name": "Hippopotamus",
   "address": "0xa0ed3c520dc0632657ad2eaaf19e26c4fd431a84",
   "decimals": 18,
   "type": "ERC20",

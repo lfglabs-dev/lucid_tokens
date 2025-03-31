@@ -1,8 +1,8 @@
 {
-  "symbol": "hana",
+  "symbol": "HANA",
   "name": "Hana",
   "address": "0xb3912b20b3abc78c15e85e13ec0bf334fbb924f7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50418/thumb/hana.png?1727682715",

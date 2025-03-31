@@ -1,8 +1,8 @@
 {
-  "symbol": "echo",
-  "name": "Echo Bot",
+  "symbol": "ECHO",
+  "name": "ECHO BOT",
   "address": "0x2b46578b7f06f2b373ad0e0c9b28f800dcc80bf3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31266/thumb/hd1qyGUA_200x200.jpg?1692069013",

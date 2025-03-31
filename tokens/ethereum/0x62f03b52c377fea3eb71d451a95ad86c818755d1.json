@@ -1,6 +1,6 @@
 {
-  "symbol": "dogeverse",
-  "name": "DogeVerse",
+  "symbol": "DOGEVERSE",
+  "name": "Dogeverse",
   "address": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
   "decimals": 18,
   "type": "ERC20",

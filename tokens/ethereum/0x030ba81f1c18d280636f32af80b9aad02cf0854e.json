@@ -1,6 +1,6 @@
 {
-  "symbol": "aweth",
-  "name": "Aave WETH",
+  "symbol": "aWETH",
+  "name": "Aave interest bearing WETH",
   "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "swash",
-  "name": "Swash",
+  "symbol": "SWASH",
+  "name": "Swash Token",
   "address": "0xa130e3a33a4d84b04c3918c4e5762223ae252f80",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "hodl.d",
-  "name": "Dinari HODL",
+  "symbol": "HODL.d",
+  "name": "VanEck Bitcoin Trust - Dinari",
   "address": "0xaedc5e1e05c2fb8840f6d6df4e8f63e983c32bd5",
   "decimals": 18,
   "type": "ERC20",

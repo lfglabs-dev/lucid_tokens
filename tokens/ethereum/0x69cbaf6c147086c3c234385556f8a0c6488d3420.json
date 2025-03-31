@@ -2,7 +2,7 @@
   "symbol": "69420",
   "name": "69420",
   "address": "0x69cbaf6c147086c3c234385556f8a0c6488d3420",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32830/thumb/bg_f8f8f8-flat_750x_075_f-pad_750x1000_f8f8f8.jpg?1699585611",

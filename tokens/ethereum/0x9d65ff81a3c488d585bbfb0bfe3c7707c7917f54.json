@@ -1,6 +1,6 @@
 {
-  "symbol": "ssv",
-  "name": "SSV Network",
+  "symbol": "SSV",
+  "name": "SSV Token",
   "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
   "decimals": 18,
   "type": "ERC20",

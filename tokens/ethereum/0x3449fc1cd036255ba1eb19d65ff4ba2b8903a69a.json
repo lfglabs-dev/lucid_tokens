@@ -1,6 +1,6 @@
 {
-  "symbol": "bac",
-  "name": "Basis Cash",
+  "symbol": "BAC",
+  "name": "BAC",
   "address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
   "decimals": 18,
   "type": "ERC20",

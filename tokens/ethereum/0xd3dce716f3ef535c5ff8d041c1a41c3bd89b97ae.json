@@ -1,8 +1,8 @@
 {
-  "symbol": "scusd",
-  "name": "Rings scUSD",
+  "symbol": "scUSD",
+  "name": "Sonic USD",
   "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738",

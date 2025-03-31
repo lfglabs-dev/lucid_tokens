@@ -1,6 +1,6 @@
 {
-  "symbol": "sony.d",
-  "name": "Dinari SONY",
+  "symbol": "SONY.d",
+  "name": "Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated Common Stock) - Dinari",
   "address": "0xb49e40e97b41b253ecfe6b01a11f1a4f021724f9",
   "decimals": 18,
   "type": "ERC20",

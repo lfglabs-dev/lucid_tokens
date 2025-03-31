@@ -1,6 +1,6 @@
 {
-  "symbol": "azur",
-  "name": "Azuro Protocol",
+  "symbol": "AZUR",
+  "name": "Azuro",
   "address": "0x9e6be44cc1236eef7e1f197418592d363bedcd5a",
   "decimals": 18,
   "type": "ERC20",

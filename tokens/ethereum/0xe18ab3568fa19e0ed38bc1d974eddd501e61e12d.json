@@ -1,6 +1,6 @@
 {
-  "symbol": "bank",
-  "name": "BANK AI",
+  "symbol": "BANK",
+  "name": "Bank Ai",
   "address": "0xe18ab3568fa19e0ed38bc1d974eddd501e61e12d",
   "decimals": 18,
   "type": "ERC20",

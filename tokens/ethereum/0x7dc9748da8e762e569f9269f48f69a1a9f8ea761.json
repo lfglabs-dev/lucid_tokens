@@ -1,8 +1,8 @@
 {
-  "symbol": "zeusd",
+  "symbol": "ZeUSD",
   "name": "ZeUSD",
   "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54829/thumb/zoth_32.webp?1741933336",

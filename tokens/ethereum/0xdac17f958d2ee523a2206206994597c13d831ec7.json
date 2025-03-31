@@ -1,8 +1,8 @@
 {
-  "symbol": "usdt",
-  "name": "Tether",
+  "symbol": "USDT",
+  "name": "Tether USD",
   "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707",

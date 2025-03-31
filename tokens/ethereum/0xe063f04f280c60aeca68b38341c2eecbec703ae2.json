@@ -1,6 +1,6 @@
 {
-  "symbol": "xeth",
-  "name": "f(x) Protocol Leveraged ETH",
+  "symbol": "xETH",
+  "name": "Leveraged ETH",
   "address": "0xe063f04f280c60aeca68b38341c2eecbec703ae2",
   "decimals": 18,
   "type": "ERC20",

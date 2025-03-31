@@ -1,8 +1,8 @@
 {
-  "symbol": "hns",
-  "name": "Handshake",
+  "symbol": "WHNS",
+  "name": "Wrapped HNS",
   "address": "0xa771b49064da011df051052848477f18dba1d2ac",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10562/thumb/circle-handshakeLogo.png?1613668983",

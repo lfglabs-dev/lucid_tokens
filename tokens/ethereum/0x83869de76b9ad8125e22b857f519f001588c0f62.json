@@ -1,8 +1,8 @@
 {
-  "symbol": "exm",
-  "name": "EXMO Coin",
+  "symbol": "EXM",
+  "name": "EXMOCoin",
   "address": "0x83869de76b9ad8125e22b857f519f001588c0f62",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9154/thumb/exmo_token.png?1579588209",

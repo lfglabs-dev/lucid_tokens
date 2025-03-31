@@ -1,6 +1,6 @@
 {
-  "symbol": "tgt",
-  "name": "THORWallet DEX",
+  "symbol": "TGT",
+  "name": "THORWallet Governance Token",
   "address": "0x108a850856db3f85d0269a2693d896b394c80325",
   "decimals": 18,
   "type": "ERC20",

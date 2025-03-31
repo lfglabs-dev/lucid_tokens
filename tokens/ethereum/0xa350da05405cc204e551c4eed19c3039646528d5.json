@@ -1,6 +1,6 @@
 {
-  "symbol": "bspt",
-  "name": "Blocksport",
+  "symbol": "BSPT",
+  "name": "Blocksport Token",
   "address": "0xa350da05405cc204e551c4eed19c3039646528d5",
   "decimals": 18,
   "type": "ERC20",

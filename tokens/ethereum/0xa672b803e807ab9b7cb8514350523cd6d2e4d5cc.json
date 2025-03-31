@@ -1,8 +1,8 @@
 {
-  "symbol": "nihao",
-  "name": "Nihao Coin",
+  "symbol": "NIHAO",
+  "name": "Nihao coin",
   "address": "0xa672b803e807ab9b7cb8514350523cd6d2e4d5cc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38542/thumb/IMG_20240606_183621_682.png?1717927086",

@@ -1,8 +1,8 @@
 {
-  "symbol": "cro",
-  "name": "Cronos",
+  "symbol": "CRO",
+  "name": "CRO",
   "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7310/thumb/oCw2s3GI_400x400.jpeg?1645172042",

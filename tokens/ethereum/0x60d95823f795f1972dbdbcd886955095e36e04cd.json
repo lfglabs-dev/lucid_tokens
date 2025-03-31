@@ -1,6 +1,6 @@
 {
-  "symbol": "genie",
-  "name": "GENIE AI",
+  "symbol": "GENIE",
+  "name": "Genie Ai",
   "address": "0x60d95823f795f1972dbdbcd886955095e36e04cd",
   "decimals": 18,
   "type": "ERC20",

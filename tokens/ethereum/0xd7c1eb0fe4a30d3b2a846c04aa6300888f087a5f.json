@@ -1,6 +1,6 @@
 {
-  "symbol": "points",
-  "name": "Points",
+  "symbol": "POINTS",
+  "name": "POINTS",
   "address": "0xd7c1eb0fe4a30d3b2a846c04aa6300888f087a5f",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "blxm",
-  "name": "bloXmove",
+  "symbol": "BLXM",
+  "name": "bloXmove Token",
   "address": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
   "decimals": 18,
   "type": "ERC20",

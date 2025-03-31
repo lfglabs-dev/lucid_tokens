@@ -1,6 +1,6 @@
 {
-  "symbol": "trestle",
-  "name": "TRESTLE",
+  "symbol": "TRESTLE",
+  "name": "Trestle",
   "address": "0xde8cd13b812bcd82218754a740b27e76ec1e86ad",
   "decimals": 18,
   "type": "ERC20",

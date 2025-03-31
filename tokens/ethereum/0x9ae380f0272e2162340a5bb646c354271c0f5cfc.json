@@ -1,6 +1,6 @@
 {
-  "symbol": "cnc",
-  "name": "Conic",
+  "symbol": "CNC",
+  "name": "Conic Finance Token",
   "address": "0x9ae380f0272e2162340a5bb646c354271c0f5cfc",
   "decimals": 18,
   "type": "ERC20",

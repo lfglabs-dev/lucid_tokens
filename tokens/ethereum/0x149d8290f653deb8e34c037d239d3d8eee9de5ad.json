@@ -1,6 +1,6 @@
 {
-  "symbol": "king",
-  "name": "Kingdomverse",
+  "symbol": "KING",
+  "name": "KING",
   "address": "0x149d8290f653deb8e34c037d239d3d8eee9de5ad",
   "decimals": 18,
   "type": "ERC20",

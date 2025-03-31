@@ -1,8 +1,8 @@
 {
-  "symbol": "powr",
-  "name": "Powerledger",
+  "symbol": "POWR",
+  "name": "PowerLedger",
   "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1104/thumb/power-ledger.png?1547035082",

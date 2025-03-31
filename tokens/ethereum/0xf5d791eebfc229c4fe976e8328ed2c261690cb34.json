@@ -1,8 +1,8 @@
 {
-  "symbol": "boob",
+  "symbol": "BOOB",
   "name": "Book Of Bitcoin",
   "address": "0xf5d791eebfc229c4fe976e8328ed2c261690cb34",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37624/thumb/IMG_9021.jpeg?1715068444",

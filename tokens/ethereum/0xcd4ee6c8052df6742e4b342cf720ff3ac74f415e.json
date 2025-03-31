@@ -1,8 +1,8 @@
 {
-  "symbol": "stelai",
+  "symbol": "stelAI",
   "name": "StellaryAI",
   "address": "0xcd4ee6c8052df6742e4b342cf720ff3ac74f415e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36170/thumb/200x200.png?1710746923",

@@ -1,6 +1,6 @@
 {
-  "symbol": "gal",
-  "name": "Galxe",
+  "symbol": "GAL",
+  "name": "Project Galaxy",
   "address": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
   "decimals": 18,
   "type": "ERC20",

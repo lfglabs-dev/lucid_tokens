@@ -1,6 +1,6 @@
 {
-  "symbol": "ava",
-  "name": "AVA (Travala)",
+  "symbol": "AVA",
+  "name": "AVA",
   "address": "0xa6c0c097741d55ecd9a3a7def3a8253fd022ceb9",
   "decimals": 18,
   "type": "ERC20",

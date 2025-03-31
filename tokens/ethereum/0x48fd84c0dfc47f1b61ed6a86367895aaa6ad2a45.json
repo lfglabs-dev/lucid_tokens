@@ -1,6 +1,6 @@
 {
-  "symbol": "twin",
-  "name": "Twin Protocol",
+  "symbol": "TWIN",
+  "name": "Twin Token",
   "address": "0x48fd84c0dfc47f1b61ed6a86367895aaa6ad2a45",
   "decimals": 18,
   "type": "ERC20",

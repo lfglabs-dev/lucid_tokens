@@ -1,6 +1,6 @@
 {
-  "symbol": "fis",
-  "name": "Stafi",
+  "symbol": "FIS",
+  "name": "StaFi",
   "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
   "decimals": 18,
   "type": "ERC20",

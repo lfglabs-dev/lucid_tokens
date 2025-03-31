@@ -1,8 +1,8 @@
 {
-  "symbol": "monkas",
+  "symbol": "MONKAS",
   "name": "Monkas",
   "address": "0xdc7ac5d5d4a9c3b5d8f3183058a92776dc12f4f3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38137/thumb/Monkas.png?1716570831",

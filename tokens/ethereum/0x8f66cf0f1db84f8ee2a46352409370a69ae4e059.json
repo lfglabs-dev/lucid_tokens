@@ -1,8 +1,8 @@
 {
-  "symbol": "$khamoo",
-  "name": "Khamoo",
+  "symbol": "KHAMOO",
+  "name": "Kha Moo",
   "address": "0x8f66cf0f1db84f8ee2a46352409370a69ae4e059",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53138/thumb/IMG_9642.jpeg?1735374831",

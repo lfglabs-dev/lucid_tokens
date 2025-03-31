@@ -1,6 +1,6 @@
 {
-  "symbol": "harambeai",
-  "name": "Harambe AI",
+  "symbol": "HARAMBEAI",
+  "name": "Harambe AI Token",
   "address": "0x5484581038cbf8ef33b7f6daec7a2f01f71db3c2",
   "decimals": 18,
   "type": "ERC20",

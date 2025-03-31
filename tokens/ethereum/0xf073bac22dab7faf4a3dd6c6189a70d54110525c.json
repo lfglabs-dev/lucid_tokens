@@ -1,6 +1,6 @@
 {
-  "symbol": "ineth",
-  "name": "Inception Restaked ETH",
+  "symbol": "InETH",
+  "name": "InceptionLRT restaked ETH",
   "address": "0xf073bac22dab7faf4a3dd6c6189a70d54110525c",
   "decimals": 18,
   "type": "ERC20",

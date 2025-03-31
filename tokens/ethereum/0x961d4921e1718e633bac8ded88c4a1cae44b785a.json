@@ -1,6 +1,6 @@
 {
-  "symbol": "stflip",
-  "name": "Thunderhead Staked FLIP",
+  "symbol": "stFLIP",
+  "name": "StakedFLIP",
   "address": "0x961d4921e1718e633bac8ded88c4a1cae44b785a",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "rasto",
+  "symbol": "RASTO",
   "name": "Rastopyry",
   "address": "0x5408d3883ec28c2de205064ae9690142b035fed2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38967/thumb/Rastopyry.jpg?1719711675",

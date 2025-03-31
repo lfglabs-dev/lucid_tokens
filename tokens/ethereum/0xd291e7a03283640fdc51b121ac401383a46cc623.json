@@ -1,6 +1,6 @@
 {
-  "symbol": "rgt",
-  "name": "Rari Governance",
+  "symbol": "RGT",
+  "name": "Rari Governance Token",
   "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
   "decimals": 18,
   "type": "ERC20",

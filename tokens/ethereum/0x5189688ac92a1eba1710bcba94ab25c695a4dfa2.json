@@ -1,8 +1,8 @@
 {
-  "symbol": "bars",
-  "name": "Banksters",
+  "symbol": "BARS",
+  "name": "Banksters Token",
   "address": "0x5189688ac92a1eba1710bcba94ab25c695a4dfa2",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38408/thumb/BARS.jpg?1717464223",

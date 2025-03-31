@@ -1,8 +1,8 @@
 {
-  "symbol": "music",
+  "symbol": "$MUSIC",
   "name": "Gala Music",
   "address": "0xd8c0b13b551718b808fc97ead59499d5ef862775",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33472/thumb/gmusic.jpeg?1701947141",

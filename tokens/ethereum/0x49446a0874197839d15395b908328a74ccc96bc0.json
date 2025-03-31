@@ -1,6 +1,6 @@
 {
-  "symbol": "msteth",
-  "name": "Eigenpie mstETH",
+  "symbol": "mstETH",
+  "name": "mstETH",
   "address": "0x49446a0874197839d15395b908328a74ccc96bc0",
   "decimals": 18,
   "type": "ERC20",

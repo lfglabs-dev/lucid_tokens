@@ -1,6 +1,6 @@
 {
-  "symbol": "elfi",
-  "name": "ELYFI",
+  "symbol": "ELFI",
+  "name": "ELFI Token",
   "address": "0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4",
   "decimals": 18,
   "type": "ERC20",

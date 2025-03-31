@@ -1,6 +1,6 @@
 {
-  "symbol": "vst",
-  "name": "Voice Street",
+  "symbol": "VST",
+  "name": "Voice Street Token",
   "address": "0x77a1f4e744d810239f465043e35d067ca33de259",
   "decimals": 18,
   "type": "ERC20",

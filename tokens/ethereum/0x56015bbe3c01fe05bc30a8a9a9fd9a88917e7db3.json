@@ -1,6 +1,6 @@
 {
-  "symbol": "cat",
-  "name": "Mooncat CAT",
+  "symbol": "CAT",
+  "name": "Cat Token",
   "address": "0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3",
   "decimals": 18,
   "type": "ERC20",

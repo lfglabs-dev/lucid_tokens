@@ -1,8 +1,8 @@
 {
-  "symbol": "pac",
+  "symbol": "PAC",
   "name": "America Pac",
   "address": "0x4c44a8b7823b80161eb5e6d80c014024752607f2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50552/thumb/logo-transparent.png?1728350358",

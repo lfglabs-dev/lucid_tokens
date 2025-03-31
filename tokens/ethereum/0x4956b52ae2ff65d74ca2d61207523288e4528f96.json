@@ -1,6 +1,6 @@
 {
-  "symbol": "rlp",
-  "name": "Resolv RLP",
+  "symbol": "RLP",
+  "name": "Resolv Liquidity Provider Token",
   "address": "0x4956b52ae2ff65d74ca2d61207523288e4528f96",
   "decimals": 18,
   "type": "ERC20",

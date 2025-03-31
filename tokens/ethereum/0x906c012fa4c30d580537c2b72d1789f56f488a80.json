@@ -1,6 +1,6 @@
 {
-  "symbol": "pogs",
-  "name": "Pog Coin",
+  "symbol": "POGS",
+  "name": "PogCoin",
   "address": "0x906c012fa4c30d580537c2b72d1789f56f488a80",
   "decimals": 18,
   "type": "ERC20",

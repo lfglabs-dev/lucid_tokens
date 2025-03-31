@@ -1,6 +1,6 @@
 {
-  "symbol": "lrc",
-  "name": "Loopring",
+  "symbol": "LRC",
+  "name": "LoopringCoin V2",
   "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
   "decimals": 18,
   "type": "ERC20",

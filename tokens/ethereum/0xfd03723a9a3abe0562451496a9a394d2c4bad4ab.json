@@ -1,6 +1,6 @@
 {
-  "symbol": "dyad",
-  "name": "Dyad",
+  "symbol": "DYAD",
+  "name": "DYAD Stable",
   "address": "0xfd03723a9a3abe0562451496a9a394d2c4bad4ab",
   "decimals": 18,
   "type": "ERC20",

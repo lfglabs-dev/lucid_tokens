@@ -1,6 +1,6 @@
 {
-  "symbol": "zend",
-  "name": "zkLend",
+  "symbol": "ZEND",
+  "name": "zkLend Token",
   "address": "0xb2606492712d311be8f41d940afe8ce742a52d44",
   "decimals": 18,
   "type": "ERC20",

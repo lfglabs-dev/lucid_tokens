@@ -1,6 +1,6 @@
 {
-  "symbol": "pepe",
-  "name": "NEWPEPE",
+  "symbol": "PEPE",
+  "name": "PEPE",
   "address": "0xa57ed6e54be8125bbe45d6ca330e45ebb71ef11e",
   "decimals": 18,
   "type": "ERC20",

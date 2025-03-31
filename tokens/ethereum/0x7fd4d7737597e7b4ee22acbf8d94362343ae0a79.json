@@ -1,8 +1,8 @@
 {
-  "symbol": "wmc",
+  "symbol": "WMC",
   "name": "Wrapped MistCoin",
   "address": "0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32490/thumb/MistCOin200.png?1698293182",

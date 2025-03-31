@@ -1,6 +1,6 @@
 {
-  "symbol": "usdn",
-  "name": "SMARDEX USDN",
+  "symbol": "USDN",
+  "name": "Ultimate Synthetic Delta Neutral",
   "address": "0xde17a000ba631c5d7c2bd9fb692efea52d90dee2",
   "decimals": 18,
   "type": "ERC20",

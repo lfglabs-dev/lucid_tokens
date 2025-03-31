@@ -1,8 +1,8 @@
 {
-  "symbol": "usdx",
+  "symbol": "USDX",
   "name": "Hex Trust USD",
   "address": "0x7a486f809c952a6f8dec8cb0ff68173f2b8ed56c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38997/thumb/USDX.png?1719809776",

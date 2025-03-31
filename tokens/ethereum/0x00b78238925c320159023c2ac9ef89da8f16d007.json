@@ -1,6 +1,6 @@
 {
-  "symbol": "vps",
-  "name": "VPS Ai",
+  "symbol": "VPS",
+  "name": "VPS AI",
   "address": "0x00b78238925c320159023c2ac9ef89da8f16d007",
   "decimals": 18,
   "type": "ERC20",

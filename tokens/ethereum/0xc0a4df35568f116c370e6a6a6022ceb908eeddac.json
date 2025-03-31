@@ -1,8 +1,8 @@
 {
-  "symbol": "ux",
-  "name": "UX Chain",
+  "symbol": "UMEE",
+  "name": "UMEE",
   "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/20635/thumb/1Ab_Umee_Brand_Icon_Full_Color.png?1645018295",

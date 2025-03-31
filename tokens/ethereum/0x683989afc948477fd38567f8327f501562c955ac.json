@@ -1,8 +1,8 @@
 {
-  "symbol": "morphai",
+  "symbol": "MORPHAI",
   "name": "Morph AI",
   "address": "0x683989afc948477fd38567f8327f501562c955ac",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52567/thumb/Bottom_Text-White.png?1733673132",

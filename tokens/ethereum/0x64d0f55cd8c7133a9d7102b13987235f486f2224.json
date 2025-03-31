@@ -1,6 +1,6 @@
 {
-  "symbol": "borg",
-  "name": "SwissBorg",
+  "symbol": "BORG",
+  "name": "SwissBorg Token",
   "address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
   "decimals": 18,
   "type": "ERC20",

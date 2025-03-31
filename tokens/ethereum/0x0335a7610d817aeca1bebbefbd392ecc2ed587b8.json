@@ -1,6 +1,6 @@
 {
-  "symbol": "nitro",
-  "name": "Nitro League",
+  "symbol": "NITRO",
+  "name": "Nitro",
   "address": "0x0335a7610d817aeca1bebbefbd392ecc2ed587b8",
   "decimals": 18,
   "type": "ERC20",

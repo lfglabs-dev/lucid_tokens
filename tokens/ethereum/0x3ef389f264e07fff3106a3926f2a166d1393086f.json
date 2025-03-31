@@ -1,8 +1,8 @@
 {
-  "symbol": "sao",
+  "symbol": "SAO",
   "name": "Sator",
   "address": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/19410/thumb/sator-logo-CMC.png?1635211626",

@@ -1,6 +1,6 @@
 {
-  "symbol": "swell",
-  "name": "Swell",
+  "symbol": "SWELL",
+  "name": "Swell Governance Token",
   "address": "0x0a6e7ba5042b38349e437ec6db6214aec7b35676",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "q*",
+  "symbol": "Q*",
   "name": "QSTAR",
   "address": "0x9abfc0f085c82ec1be31d30843965fcc63053ffe",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33177/thumb/C33809C9-D900-437D-A78A-52A8C48423AA.jpeg?1700924002",

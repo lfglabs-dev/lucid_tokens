@@ -1,6 +1,6 @@
 {
-  "symbol": "hxro",
-  "name": "HXRO",
+  "symbol": "HXRO",
+  "name": "Hxro",
   "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
   "decimals": 18,
   "type": "ERC20",

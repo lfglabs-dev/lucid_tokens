@@ -1,6 +1,6 @@
 {
-  "symbol": "ftt",
-  "name": "FTX",
+  "symbol": "FTX Token",
+  "name": "FTT",
   "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
   "decimals": 18,
   "type": "ERC20",

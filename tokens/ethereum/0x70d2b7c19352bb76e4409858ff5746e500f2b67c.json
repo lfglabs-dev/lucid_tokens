@@ -1,6 +1,6 @@
 {
-  "symbol": "upi",
-  "name": "Pawtocol",
+  "symbol": "UPI",
+  "name": "Pawtocol Network UPI Token",
   "address": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
   "decimals": 18,
   "type": "ERC20",

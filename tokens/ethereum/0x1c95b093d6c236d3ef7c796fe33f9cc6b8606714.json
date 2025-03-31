@@ -1,8 +1,8 @@
 {
-  "symbol": "bomb",
+  "symbol": "BOMB",
   "name": "BOMB",
   "address": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7713/thumb/Bomb-token.png?1549944422",

@@ -1,6 +1,6 @@
 {
-  "symbol": "stable",
-  "name": "Stable",
+  "symbol": "STABLE",
+  "name": "STABLE",
   "address": "0x60b9c41d99fe3eb64ecc1344bad31d87f1bced6d",
   "decimals": 18,
   "type": "ERC20",

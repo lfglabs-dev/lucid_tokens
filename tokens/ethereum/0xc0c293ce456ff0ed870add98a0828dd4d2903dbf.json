@@ -1,6 +1,6 @@
 {
-  "symbol": "aura",
-  "name": "Aura Finance",
+  "symbol": "AURA",
+  "name": "Aura",
   "address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
   "decimals": 18,
   "type": "ERC20",

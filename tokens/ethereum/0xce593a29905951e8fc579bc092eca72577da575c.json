@@ -1,8 +1,8 @@
 {
-  "symbol": "gr",
+  "symbol": "GR",
   "name": "GROM",
   "address": "0xce593a29905951e8fc579bc092eca72577da575c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13216/thumb/gr.png?1606278269",

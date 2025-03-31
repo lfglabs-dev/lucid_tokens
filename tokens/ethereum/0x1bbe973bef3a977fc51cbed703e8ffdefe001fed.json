@@ -1,6 +1,6 @@
 {
-  "symbol": "portal",
-  "name": "Portal",
+  "symbol": "PORTAL",
+  "name": "PORTAL",
   "address": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
   "decimals": 18,
   "type": "ERC20",

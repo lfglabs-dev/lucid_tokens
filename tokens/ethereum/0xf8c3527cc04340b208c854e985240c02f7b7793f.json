@@ -1,6 +1,6 @@
 {
-  "symbol": "front",
-  "name": "Frontier",
+  "symbol": "FRONT",
+  "name": "Frontier Token",
   "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "grai",
-  "name": "Grai",
+  "symbol": "GRAI",
+  "name": "Gravita Debt Token",
   "address": "0x15f74458ae0bfdaa1a96ca1aa779d715cc1eefe4",
   "decimals": 18,
   "type": "ERC20",

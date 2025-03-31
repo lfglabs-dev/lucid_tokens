@@ -1,6 +1,6 @@
 {
-  "symbol": "sync",
-  "name": "Sync Network",
+  "symbol": "SYNC",
+  "name": "SYNC",
   "address": "0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32",
   "decimals": 18,
   "type": "ERC20",

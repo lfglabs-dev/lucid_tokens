@@ -1,6 +1,6 @@
 {
-  "symbol": "asusd",
-  "name": "Aave SUSD",
+  "symbol": "aSUSD",
+  "name": "Aave interest bearing SUSD",
   "address": "0x6c5024cd4f8a59110119c56f8933403a539555eb",
   "decimals": 18,
   "type": "ERC20",

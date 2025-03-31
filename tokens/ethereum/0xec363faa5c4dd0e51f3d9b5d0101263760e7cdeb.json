@@ -1,8 +1,8 @@
 {
-  "symbol": "iwbtc",
+  "symbol": "iWBTC",
   "name": "Instadapp WBTC",
   "address": "0xec363faa5c4dd0e51f3d9b5d0101263760e7cdeb",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/25784/thumb/instadapp_32.png?1653880918",

@@ -1,6 +1,6 @@
 {
-  "symbol": "chft",
-  "name": "Crypto Holding Frank",
+  "symbol": "CHFT",
+  "name": "Crypto Holding Frank Token",
   "address": "0x58002a6b6e659a16de9f02f529b10536e307b0d9",
   "decimals": 18,
   "type": "ERC20",

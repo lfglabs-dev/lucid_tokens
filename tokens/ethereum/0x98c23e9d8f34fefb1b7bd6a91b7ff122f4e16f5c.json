@@ -1,8 +1,8 @@
 {
-  "symbol": "ausdc",
-  "name": "Aave v3 USDC",
+  "symbol": "aEthUSDC",
+  "name": "Aave Ethereum USDC",
   "address": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355",

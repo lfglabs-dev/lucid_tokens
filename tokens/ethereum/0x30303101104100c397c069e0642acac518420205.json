@@ -1,8 +1,8 @@
 {
-  "symbol": "pc",
+  "symbol": "PC",
   "name": "Playable Coin",
   "address": "0x30303101104100c397c069e0642acac518420205",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39381/thumb/LogoPC_%282%29.jpg?1721960006",

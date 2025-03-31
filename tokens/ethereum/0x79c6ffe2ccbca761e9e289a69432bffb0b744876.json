@@ -1,8 +1,8 @@
 {
-  "symbol": "pineowl",
+  "symbol": "PINEOWL",
   "name": "Pineapple Owl",
   "address": "0x79c6ffe2ccbca761e9e289a69432bffb0b744876",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32089/thumb/Pineapple_Owl_Logo_Alt.png?1696412903",

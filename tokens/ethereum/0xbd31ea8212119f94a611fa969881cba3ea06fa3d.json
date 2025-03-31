@@ -1,8 +1,8 @@
 {
-  "symbol": "lunc",
-  "name": "Terra Classic (Wormhole)",
+  "symbol": "LUNA",
+  "name": "LUNA",
   "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1644226405",

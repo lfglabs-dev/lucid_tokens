@@ -1,6 +1,6 @@
 {
-  "symbol": "$shibashoot",
-  "name": "Shibashootout",
+  "symbol": "SHIBASHOOT",
+  "name": "Shiba Shootout",
   "address": "0xdbcc27ecc60cff70bd483f79b039f680f1f8af0b",
   "decimals": 18,
   "type": "ERC20",

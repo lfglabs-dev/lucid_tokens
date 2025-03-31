@@ -1,6 +1,6 @@
 {
-  "symbol": "wqt",
-  "name": "Work Quest",
+  "symbol": "WQT",
+  "name": "Work Quest Token",
   "address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
   "decimals": 18,
   "type": "ERC20",

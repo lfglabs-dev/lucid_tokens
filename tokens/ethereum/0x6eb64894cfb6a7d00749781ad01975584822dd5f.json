@@ -1,6 +1,6 @@
 {
-  "symbol": "twg",
-  "name": "The Wally Group",
+  "symbol": "TWG",
+  "name": "The Wally Group Token",
   "address": "0x6eb64894cfb6a7d00749781ad01975584822dd5f",
   "decimals": 18,
   "type": "ERC20",

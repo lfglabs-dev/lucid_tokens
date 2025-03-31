@@ -1,6 +1,6 @@
 {
-  "symbol": "flc",
-  "name": "Floor Protocol",
+  "symbol": "FLC",
+  "name": "Flooring Lab Credit",
   "address": "0x102c776ddb30c754ded4fdcc77a19230a60d4e4f",
   "decimals": 18,
   "type": "ERC20",

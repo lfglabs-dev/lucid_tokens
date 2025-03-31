@@ -1,8 +1,8 @@
 {
-  "symbol": "rinia",
+  "symbol": "RINIA",
   "name": "Rinia Inu",
   "address": "0x8f828a0644f12fa352888e645a90333d30f6fd7d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29466/thumb/rinia.png?1679110331",

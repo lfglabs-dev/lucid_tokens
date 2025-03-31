@@ -1,8 +1,8 @@
 {
-  "symbol": "ubt",
-  "name": "Unibright",
+  "symbol": "UBT",
+  "name": "UniBright",
   "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/2707/thumb/UnibrightLogo_colorful_500x500_preview.png?1547036916",

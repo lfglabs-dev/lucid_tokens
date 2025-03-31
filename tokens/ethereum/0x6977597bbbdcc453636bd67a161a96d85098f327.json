@@ -1,8 +1,8 @@
 {
-  "symbol": "pipi",
-  "name": "Pipi on ETH",
+  "symbol": "PIPI",
+  "name": "Pipi",
   "address": "0x6977597bbbdcc453636bd67a161a96d85098f327",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38581/thumb/Pipi_CoinGecko_logo.png?1718087534",

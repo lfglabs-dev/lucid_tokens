@@ -1,8 +1,8 @@
 {
-  "symbol": "yaku",
-  "name": "Yaku",
+  "symbol": "YAKU",
+  "name": "YAKU",
   "address": "0x1155db64b59265f57533bc0f9ae012fffd34eb7f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26785/thumb/_YAKU_logo.png?1660101303",

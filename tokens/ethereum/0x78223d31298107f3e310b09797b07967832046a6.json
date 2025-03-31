@@ -1,6 +1,6 @@
 {
-  "symbol": "rsft",
-  "name": "ROYAL SMART FUTURE TOKEN",
+  "symbol": "RSFT",
+  "name": "Royal Smart Future Token",
   "address": "0x78223d31298107f3e310b09797b07967832046a6",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "fakt",
-  "name": "Medifakt",
+  "symbol": "FAKT",
+  "name": "MEDIFAKT",
   "address": "0x0262e9374e95b9667b78136c3897cb4e4ef7f0c2",
   "decimals": 18,
   "type": "ERC20",

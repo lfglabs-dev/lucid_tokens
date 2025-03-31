@@ -1,8 +1,8 @@
 {
-  "symbol": "hinu",
-  "name": "Hokkaido Inu Token",
+  "symbol": "HINU",
+  "name": "Hokkaido Inu",
   "address": "0x0113c07b3b8e4f41b62d713b5b12616bf2856585",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38812/thumb/1000248760.jpg?1719070391",

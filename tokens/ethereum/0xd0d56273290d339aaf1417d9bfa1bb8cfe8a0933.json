@@ -1,6 +1,6 @@
 {
-  "symbol": "foom",
-  "name": "Foom",
+  "symbol": "FOOM",
+  "name": "FOOM",
   "address": "0xd0d56273290d339aaf1417d9bfa1bb8cfe8a0933",
   "decimals": 18,
   "type": "ERC20",

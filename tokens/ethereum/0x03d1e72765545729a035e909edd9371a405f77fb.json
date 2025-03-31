@@ -1,6 +1,6 @@
 {
-  "symbol": "nabox",
-  "name": "Nabox",
+  "symbol": "NABOX",
+  "name": "Nabox Token",
   "address": "0x03d1e72765545729a035e909edd9371a405f77fb",
   "decimals": 18,
   "type": "ERC20",

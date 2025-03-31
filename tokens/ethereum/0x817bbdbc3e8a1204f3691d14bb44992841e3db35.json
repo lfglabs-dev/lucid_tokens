@@ -1,6 +1,6 @@
 {
-  "symbol": "cudos",
-  "name": "Cudos",
+  "symbol": "CUDOS",
+  "name": "CudosToken",
   "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "mbase",
-  "name": "Minebase",
+  "symbol": "MBASE2.0",
+  "name": "Minebase 2.0",
   "address": "0x291aa47c58558adfc2bcd6f060578fdae1f6570c",
   "decimals": 18,
   "type": "ERC20",

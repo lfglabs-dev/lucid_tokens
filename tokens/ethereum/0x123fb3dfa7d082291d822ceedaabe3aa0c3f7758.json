@@ -1,8 +1,8 @@
 {
-  "symbol": "qai",
+  "symbol": "QAI",
   "name": "QuantaAI",
   "address": "0x123fb3dfa7d082291d822ceedaabe3aa0c3f7758",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53338/thumb/QUI_%281%29.jpg?1736154154",

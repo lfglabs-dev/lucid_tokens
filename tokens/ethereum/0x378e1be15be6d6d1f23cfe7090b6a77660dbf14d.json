@@ -1,6 +1,6 @@
 {
-  "symbol": "foxe",
-  "name": "FOXE",
+  "symbol": "FOXE",
+  "name": "Foxe",
   "address": "0x378e1be15be6d6d1f23cfe7090b6a77660dbf14d",
   "decimals": 18,
   "type": "ERC20",

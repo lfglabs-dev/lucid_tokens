@@ -1,6 +1,6 @@
 {
-  "symbol": "wcx",
-  "name": "WeCoOwn",
+  "symbol": "WCX",
+  "name": "WeCoOwn Rewards",
   "address": "0xc014186cf1ba36032aaec7f96088f09eb3934347",
   "decimals": 18,
   "type": "ERC20",

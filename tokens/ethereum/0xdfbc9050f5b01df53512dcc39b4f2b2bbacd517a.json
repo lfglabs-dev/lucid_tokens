@@ -1,8 +1,8 @@
 {
-  "symbol": "job",
+  "symbol": "JOB",
   "name": "Jobchain",
   "address": "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9352/thumb/Logo_%283%29.png?1566510871",

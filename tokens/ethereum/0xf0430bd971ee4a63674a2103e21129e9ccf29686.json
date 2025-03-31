@@ -1,8 +1,8 @@
 {
-  "symbol": "gary",
+  "symbol": "GARY",
   "name": "Elons Pet Snail",
   "address": "0xf0430bd971ee4a63674a2103e21129e9ccf29686",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51583/thumb/uFV4ZAm2sBWD2949mHE6_Giatv4eQZQHgh3tG3iHvlJvO2ws6bQEHago-qSkisQdVHhIwjyeu3Mqz_2ZHrL73MVRmE2TcjD8Hn3e84Y3FNK8W3Cr5K1-VU06u2NBsVK-VBuNeU7RIb4-D6A-8Fn6mEx4Dxpx3jvhoOWpaJGlhSkndBXo0lNGXBYZ0ai7YZ7-UqhnEy0W.jpg?1731568506",

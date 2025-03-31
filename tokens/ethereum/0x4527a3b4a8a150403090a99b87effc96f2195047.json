@@ -1,8 +1,8 @@
 {
-  "symbol": "p2ps",
-  "name": "P2P solutions foundation",
+  "symbol": "P2PS",
+  "name": "P2P Solutions Foundation",
   "address": "0x4527a3b4a8a150403090a99b87effc96f2195047",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/2798/thumb/p2ps.png?1547036973",

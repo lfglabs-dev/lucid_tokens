@@ -1,6 +1,6 @@
 {
-  "symbol": "boysclub",
-  "name": "Matt Furie's Boys Club",
+  "symbol": "BOYSCLUB",
+  "name": "Boy's club",
   "address": "0x6968676661ac9851c38907bdfcc22d5dd77b564d",
   "decimals": 18,
   "type": "ERC20",

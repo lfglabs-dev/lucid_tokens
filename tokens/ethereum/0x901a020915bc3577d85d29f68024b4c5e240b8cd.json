@@ -1,6 +1,6 @@
 {
-  "symbol": "blastup",
-  "name": "BlastUP",
+  "symbol": "BLASTUP",
+  "name": "BlastUP Token",
   "address": "0x901a020915bc3577d85d29f68024b4c5e240b8cd",
   "decimals": 18,
   "type": "ERC20",

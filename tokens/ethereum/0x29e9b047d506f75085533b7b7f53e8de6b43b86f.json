@@ -1,8 +1,8 @@
 {
-  "symbol": "doken",
-  "name": "Hokkaido Ken",
+  "symbol": "DOKEN",
+  "name": "HOKKAIDO KEN",
   "address": "0x29e9b047d506f75085533b7b7f53e8de6b43b86f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38881/thumb/1000252826.jpg?1719376282",

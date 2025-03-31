@@ -1,6 +1,6 @@
 {
-  "symbol": "cet",
-  "name": "CoinEx",
+  "symbol": "CET",
+  "name": "CoinEx Token",
   "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
   "decimals": 18,
   "type": "ERC20",

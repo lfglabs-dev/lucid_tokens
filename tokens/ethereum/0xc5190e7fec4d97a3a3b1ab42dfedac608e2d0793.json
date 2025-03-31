@@ -1,6 +1,6 @@
 {
-  "symbol": "fxi",
-  "name": "FX1Sports",
+  "symbol": "FXI",
+  "name": "FXI Sports",
   "address": "0xc5190e7fec4d97a3a3b1ab42dfedac608e2d0793",
   "decimals": 18,
   "type": "ERC20",

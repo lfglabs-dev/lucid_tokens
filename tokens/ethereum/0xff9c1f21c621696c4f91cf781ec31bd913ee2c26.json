@@ -1,6 +1,6 @@
 {
   "symbol": ".com",
-  "name": ".com (Ordinals)",
+  "name": ".com",
   "address": "0xff9c1f21c621696c4f91cf781ec31bd913ee2c26",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "txt",
-  "name": "Taxa Network",
+  "symbol": "TXT",
+  "name": "Taxa Token",
   "address": "0x547b2f82cecfab9c2b1d36fdda96ef9f58c63b8c",
   "decimals": 18,
   "type": "ERC20",

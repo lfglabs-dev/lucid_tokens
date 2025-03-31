@@ -1,8 +1,8 @@
 {
-  "symbol": "fund",
+  "symbol": "FUND",
   "name": "Unification",
   "address": "0xe9b076b476d8865cdf79d1cf7df420ee397a7f75",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7845/thumb/DV80FOp.png?1554953278",

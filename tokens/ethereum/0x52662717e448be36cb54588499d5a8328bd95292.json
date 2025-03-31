@@ -1,6 +1,6 @@
 {
-  "symbol": "tenshi",
-  "name": "Tenshi",
+  "symbol": "TENSHI",
+  "name": "TENSHI v2",
   "address": "0x52662717e448be36cb54588499d5a8328bd95292",
   "decimals": 18,
   "type": "ERC20",

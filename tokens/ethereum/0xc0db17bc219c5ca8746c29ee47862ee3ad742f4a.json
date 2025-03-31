@@ -1,6 +1,6 @@
 {
-  "symbol": "scotty",
-  "name": "ScottyTheAi",
+  "symbol": "SCOTTY",
+  "name": "Scotty AI",
   "address": "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a",
   "decimals": 18,
   "type": "ERC20",

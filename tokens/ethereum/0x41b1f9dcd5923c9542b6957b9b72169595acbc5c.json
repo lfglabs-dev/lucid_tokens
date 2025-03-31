@@ -1,6 +1,6 @@
 {
-  "symbol": "cheems",
-  "name": "Cheems CTO",
+  "symbol": "CHEEMS",
+  "name": "Cheems",
   "address": "0x41b1f9dcd5923c9542b6957b9b72169595acbc5c",
   "decimals": 18,
   "type": "ERC20",

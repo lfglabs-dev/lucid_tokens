@@ -1,8 +1,8 @@
 {
-  "symbol": "xsgd",
+  "symbol": "XSGD",
   "name": "XSGD",
   "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813",

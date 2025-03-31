@@ -1,6 +1,6 @@
 {
-  "symbol": "sha",
-  "name": "Safe Haven",
+  "symbol": "SHA",
+  "name": "Safe Haven Token",
   "address": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
   "decimals": 18,
   "type": "ERC20",

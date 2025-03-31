@@ -1,8 +1,8 @@
 {
-  "symbol": "chr",
-  "name": "Chromia",
+  "symbol": "CHR",
+  "name": "Chroma",
   "address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/5000/thumb/Chromia.png?1559038018",

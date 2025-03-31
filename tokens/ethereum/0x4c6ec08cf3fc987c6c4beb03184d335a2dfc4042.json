@@ -1,6 +1,6 @@
 {
-  "symbol": "paint",
-  "name": "MurAll",
+  "symbol": "PAINT",
+  "name": "Paint",
   "address": "0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "atri",
-  "name": "Atari",
+  "symbol": "ATRI",
+  "name": "AtariToken",
   "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12992/thumb/AtariLogoPS_200x200_%281%29.png?1643189483",

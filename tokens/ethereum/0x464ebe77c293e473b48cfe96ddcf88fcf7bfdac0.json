@@ -1,6 +1,6 @@
 {
-  "symbol": "krl",
-  "name": "KRYLL",
+  "symbol": "KRL",
+  "name": "Kryll",
   "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0",
   "decimals": 18,
   "type": "ERC20",

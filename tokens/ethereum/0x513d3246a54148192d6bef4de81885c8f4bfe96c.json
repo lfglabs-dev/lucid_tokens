@@ -1,8 +1,8 @@
 {
-  "symbol": "gon",
-  "name": "GOLFIN",
+  "symbol": "GON",
+  "name": "GON",
   "address": "0x513d3246a54148192d6bef4de81885c8f4bfe96c",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52957/thumb/Golfin_CMC_Logo.png?1734798386",

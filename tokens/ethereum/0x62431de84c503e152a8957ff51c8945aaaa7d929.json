@@ -1,8 +1,8 @@
 {
-  "symbol": "blast",
+  "symbol": "BLAST",
   "name": "BlastAI",
   "address": "0x62431de84c503e152a8957ff51c8945aaaa7d929",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35858/thumb/Design_sans_titre_%2818%29_15.51.23.png?1709896264",

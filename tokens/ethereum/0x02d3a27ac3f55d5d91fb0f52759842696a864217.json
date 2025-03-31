@@ -1,6 +1,6 @@
 {
-  "symbol": "ionx",
-  "name": "Charged Particles",
+  "symbol": "IONX",
+  "name": "Charged Particles - IONX",
   "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
   "decimals": 18,
   "type": "ERC20",

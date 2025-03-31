@@ -1,6 +1,6 @@
 {
-  "symbol": "crdc",
-  "name": "Cardiocoin",
+  "symbol": "CRDC",
+  "name": "CardioCoin",
   "address": "0xf81421fc15300c5a8cca9afe12f5cbad502fa756",
   "decimals": 18,
   "type": "ERC20",

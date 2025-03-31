@@ -1,8 +1,8 @@
 {
-  "symbol": "mononoke-inu",
+  "symbol": "Mononoke-Inu",
   "name": "Mononoke Inu",
   "address": "0x4da08a1bff50be96bded5c7019227164b49c2bfc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/18769/thumb/z9YDK0f.png?1633357322",

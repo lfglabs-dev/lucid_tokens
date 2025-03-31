@@ -1,6 +1,6 @@
 {
-  "symbol": "smart",
-  "name": "Smart Game Finance",
+  "symbol": "SMART",
+  "name": "Smart game",
   "address": "0xce20bb92ccf9bbf5091ef85649e71e552819ad8c",
   "decimals": 18,
   "type": "ERC20",

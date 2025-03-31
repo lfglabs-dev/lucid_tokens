@@ -1,6 +1,6 @@
 {
-  "symbol": "gtusdc",
-  "name": "Gauntlet USDC Prime Morpho Vault",
+  "symbol": "gtUSDC",
+  "name": "Gauntlet USDC Prime",
   "address": "0xdd0f28e19c1780eb6396170735d45153d261490d",
   "decimals": 18,
   "type": "ERC20",

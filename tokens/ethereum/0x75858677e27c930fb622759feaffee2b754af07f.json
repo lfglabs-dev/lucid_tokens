@@ -1,8 +1,8 @@
 {
-  "symbol": "soul",
-  "name": "Phantasma",
+  "symbol": "SOUL",
+  "name": "Phantasma Stake",
   "address": "0x75858677e27c930fb622759feaffee2b754af07f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/4130/thumb/phantasma.png?1548331035",

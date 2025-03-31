@@ -1,8 +1,8 @@
 {
-  "symbol": "ocai",
+  "symbol": "OCAI",
   "name": "OcNest AI",
   "address": "0xe0396ef787f8b0385f0e73d30acf8b922b1761f1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54116/thumb/ocnest_ai_200x200.png?1738311354",

@@ -1,6 +1,6 @@
 {
-  "symbol": "agla",
-  "name": "Angola",
+  "symbol": "AGLA",
+  "name": "Angola Coin",
   "address": "0x1f7e5118521b550bb1a9b435727c003eb033fc51",
   "decimals": 18,
   "type": "ERC20",

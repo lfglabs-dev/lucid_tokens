@@ -1,8 +1,8 @@
 {
-  "symbol": "pochita",
+  "symbol": "POCHITA",
   "name": "Pochita",
   "address": "0x92d001c60df1c2248ae9020bbac559331cefcdec",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50687/thumb/20241011_212314.png?1728777657",

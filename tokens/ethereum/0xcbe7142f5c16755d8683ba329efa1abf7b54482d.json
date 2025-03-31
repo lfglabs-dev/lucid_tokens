@@ -1,8 +1,8 @@
 {
-  "symbol": "mveda",
-  "name": "MedicalVeda",
+  "symbol": "MVEDA",
+  "name": "MedicalVEDA",
   "address": "0xcbe7142f5c16755d8683ba329efa1abf7b54482d",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13069/thumb/medicalveda_new_logo_final_%281%29.png?1604894690",

@@ -1,8 +1,8 @@
 {
-  "symbol": "pyges",
-  "name": "Pyges",
+  "symbol": "PHRYGES",
+  "name": "PHRYGES",
   "address": "0x96e99106d9c58573171dd6c19d767d2ae7ec0435",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37616/thumb/.png.?1715061787",

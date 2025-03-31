@@ -1,8 +1,8 @@
 {
-  "symbol": "goe",
+  "symbol": "GOE",
   "name": "God Of Ethereum",
   "address": "0xccc80ce58995baae4e5867e5cde3bd9f8b242376",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37567/thumb/1000018327.png?1714881612",

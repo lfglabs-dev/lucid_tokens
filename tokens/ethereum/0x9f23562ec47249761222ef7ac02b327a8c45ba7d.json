@@ -1,6 +1,6 @@
 {
-  "symbol": "xwbtc",
-  "name": "Leverage WBTC",
+  "symbol": "xWBTC",
+  "name": "Leveraged WBTC",
   "address": "0x9f23562ec47249761222ef7ac02b327a8c45ba7d",
   "decimals": 18,
   "type": "ERC20",

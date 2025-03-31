@@ -1,6 +1,6 @@
 {
-  "symbol": "mankreth",
-  "name": "Eigenpie ankrETH",
+  "symbol": "mAnkrETH",
+  "name": "mAnkrETH",
   "address": "0x5a4a503f4745c06a07e29d9a9dd88ab52f7a505b",
   "decimals": 18,
   "type": "ERC20",

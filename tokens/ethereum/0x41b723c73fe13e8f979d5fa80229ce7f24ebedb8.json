@@ -1,8 +1,8 @@
 {
-  "symbol": "ontact",
+  "symbol": "ONTACT",
   "name": "OnTact",
   "address": "0x41b723c73fe13e8f979d5fa80229ce7f24ebedb8",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52812/thumb/ontact.jpg?1734366769",

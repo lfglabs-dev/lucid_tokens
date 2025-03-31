@@ -1,6 +1,6 @@
 {
-  "symbol": "cig",
-  "name": "Cigarette",
+  "symbol": "CIG",
+  "name": "Cigarette Token",
   "address": "0xcb56b52316041a62b6b5d0583dce4a8ae7a3c629",
   "decimals": 18,
   "type": "ERC20",

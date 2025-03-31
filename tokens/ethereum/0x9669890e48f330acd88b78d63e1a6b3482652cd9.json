@@ -1,6 +1,6 @@
 {
-  "symbol": "bcnt",
-  "name": "Bincentive",
+  "symbol": "BCNT",
+  "name": "Bincentive Token",
   "address": "0x9669890e48f330acd88b78d63e1a6b3482652cd9",
   "decimals": 18,
   "type": "ERC20",

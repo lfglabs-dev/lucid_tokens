@@ -1,6 +1,6 @@
 {
-  "symbol": "maha",
-  "name": "Maha",
+  "symbol": "MAHA",
+  "name": "MahaDAO",
   "address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
   "decimals": 18,
   "type": "ERC20",

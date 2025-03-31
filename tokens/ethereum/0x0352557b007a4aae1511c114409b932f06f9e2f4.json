@@ -1,6 +1,6 @@
 {
-  "symbol": "srune",
-  "name": "sRUNE",
+  "symbol": "sRUNE",
+  "name": "Synth sRUNE",
   "address": "0x0352557b007a4aae1511c114409b932f06f9e2f4",
   "decimals": 18,
   "type": "ERC20",

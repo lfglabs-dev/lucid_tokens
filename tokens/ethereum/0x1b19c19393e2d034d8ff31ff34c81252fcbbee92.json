@@ -1,6 +1,6 @@
 {
-  "symbol": "ousg",
-  "name": "OUSG",
+  "symbol": "OUSG",
+  "name": "Ondo Short-Term U.S. Government Bond Fund",
   "address": "0x1b19c19393e2d034d8ff31ff34c81252fcbbee92",
   "decimals": 18,
   "type": "ERC20",

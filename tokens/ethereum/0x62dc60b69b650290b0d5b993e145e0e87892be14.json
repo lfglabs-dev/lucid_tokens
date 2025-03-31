@@ -1,8 +1,8 @@
 {
-  "symbol": "draggy0x62",
+  "symbol": "DRAGGY",
   "name": "Draggy 0x62",
   "address": "0x62dc60b69b650290b0d5b993e145e0e87892be14",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38942/thumb/xxxxx.jpg?1719570646",

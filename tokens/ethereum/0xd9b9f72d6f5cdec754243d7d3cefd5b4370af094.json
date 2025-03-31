@@ -1,6 +1,6 @@
 {
-  "symbol": "lgas",
-  "name": "Laser Gas",
+  "symbol": "LGAS",
+  "name": "Laser gas",
   "address": "0xd9b9f72d6f5cdec754243d7d3cefd5b4370af094",
   "decimals": 18,
   "type": "ERC20",

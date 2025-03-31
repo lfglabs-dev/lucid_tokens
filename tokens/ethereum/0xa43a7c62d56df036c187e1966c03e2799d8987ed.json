@@ -1,6 +1,6 @@
 {
-  "symbol": "trumatic",
-  "name": "TruFin Staked MATIC",
+  "symbol": "TruMATIC",
+  "name": "TruStake MATIC Vault Shares",
   "address": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
   "decimals": 18,
   "type": "ERC20",

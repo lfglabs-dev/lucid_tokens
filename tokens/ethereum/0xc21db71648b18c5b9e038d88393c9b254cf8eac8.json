@@ -1,6 +1,6 @@
 {
-  "symbol": "ery",
-  "name": "EURe Real Yield Morpho Vault",
+  "symbol": "ERY",
+  "name": "EUR Real Yield",
   "address": "0xc21db71648b18c5b9e038d88393c9b254cf8eac8",
   "decimals": 18,
   "type": "ERC20",

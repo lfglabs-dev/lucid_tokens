@@ -1,6 +1,6 @@
 {
-  "symbol": "eigen",
-  "name": "Eigenlayer",
+  "symbol": "EIGEN",
+  "name": "Eigen",
   "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
   "decimals": 18,
   "type": "ERC20",

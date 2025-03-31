@@ -1,8 +1,8 @@
 {
-  "symbol": "flut",
+  "symbol": "FLUT",
   "name": "Flute",
   "address": "0x4f08705fb8f33affc231ed66e626b40e84a71870",
-  "decimals": 18,
+  "decimals": 11,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29148/thumb/TheFlute200x200.png?1676966950",

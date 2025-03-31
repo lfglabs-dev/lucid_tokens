@@ -1,6 +1,6 @@
 {
-  "symbol": "moby",
-  "name": "Moby",
+  "symbol": "MOBY",
+  "name": "MobyToken",
   "address": "0x40a7df3df8b56147b781353d379cb960120211d7",
   "decimals": 18,
   "type": "ERC20",

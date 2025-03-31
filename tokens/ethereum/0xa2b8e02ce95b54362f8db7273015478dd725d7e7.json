@@ -1,8 +1,8 @@
 {
-  "symbol": "memecup",
+  "symbol": "MEMECUP",
   "name": "MEME CUP",
   "address": "0xa2b8e02ce95b54362f8db7273015478dd725d7e7",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38807/thumb/MEME_CUP.png?1719003892",

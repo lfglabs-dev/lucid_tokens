@@ -1,6 +1,6 @@
 {
-  "symbol": "$fame",
-  "name": "FAME- Rumble Kong League",
+  "symbol": "FAME",
+  "name": "$FAME Token",
   "address": "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "truth",
+  "symbol": "TRUTH",
   "name": "TruthGPT",
   "address": "0xaf75d880b3128981d1fed3292fc02e3fb37acd53",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29867/thumb/TruthGPT.png?1681891825",

@@ -1,8 +1,8 @@
 {
-  "symbol": "bcdn",
-  "name": "BlockCDN",
+  "symbol": "BCDN",
+  "name": "BCDN",
   "address": "0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40",
-  "decimals": 18,
+  "decimals": 15,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1301/thumb/blockcdn.png?1547350830",

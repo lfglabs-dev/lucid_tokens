@@ -1,6 +1,6 @@
 {
-  "symbol": "pho.d",
-  "name": "Dinari PHO",
+  "symbol": "PHO.d",
+  "name": "Invesco Water Resources ETF - Dinari",
   "address": "0x251530c7f24d6904a31425b9afa24b0e1e5aafde",
   "decimals": 18,
   "type": "ERC20",

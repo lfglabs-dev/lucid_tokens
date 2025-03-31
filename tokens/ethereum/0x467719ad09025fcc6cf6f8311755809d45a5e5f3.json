@@ -1,8 +1,8 @@
 {
-  "symbol": "axl",
+  "symbol": "AXL",
   "name": "Axelar",
   "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1663121730",

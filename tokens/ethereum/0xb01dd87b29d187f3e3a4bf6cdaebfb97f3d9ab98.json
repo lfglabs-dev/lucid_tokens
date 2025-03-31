@@ -1,6 +1,6 @@
 {
-  "symbol": "bold",
-  "name": "Liquity BOLD",
+  "symbol": "Bold",
+  "name": "Bold Stablecoin",
   "address": "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98",
   "decimals": 18,
   "type": "ERC20",

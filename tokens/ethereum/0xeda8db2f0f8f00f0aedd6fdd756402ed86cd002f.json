@@ -1,8 +1,8 @@
 {
-  "symbol": "opm",
+  "symbol": "OPM",
   "name": "OpMentis",
   "address": "0xeda8db2f0f8f00f0aedd6fdd756402ed86cd002f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52179/thumb/Opmentis.png?1732686904",

@@ -1,6 +1,6 @@
 {
-  "symbol": "eem.d",
-  "name": "Dinari EEM",
+  "symbol": "EEM.d",
+  "name": "iShares MSCI Emerging Markets ETF - Dinari",
   "address": "0xf0e9e98ef4b78ddfbbfafba519345d877eb7a81e",
   "decimals": 18,
   "type": "ERC20",

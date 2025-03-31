@@ -1,8 +1,8 @@
 {
-  "symbol": "brock",
+  "symbol": "BITROCK",
   "name": "Bitrock",
   "address": "0xde67d97b8770dc98c746a3fc0093c538666eb493",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30987/thumb/20230713_155626.png?1689563465",

@@ -1,8 +1,8 @@
 {
-  "symbol": "hit",
-  "name": "HitChain",
+  "symbol": "HIT",
+  "name": "HitchainCoin",
   "address": "0x7995ab36bb307afa6a683c24a25d90dc1ea83566",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/5555/thumb/hitchain.png?1547041361",

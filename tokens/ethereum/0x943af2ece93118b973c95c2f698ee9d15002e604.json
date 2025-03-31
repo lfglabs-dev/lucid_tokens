@@ -1,6 +1,6 @@
 {
-  "symbol": "duel",
-  "name": "GameGPT",
+  "symbol": "DUEL",
+  "name": "DUEL Token",
   "address": "0x943af2ece93118b973c95c2f698ee9d15002e604",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "mandox",
-  "name": "MandoX",
+  "symbol": "MANDOX",
+  "name": "Mandox",
   "address": "0x7a8adcf432ebcc2311b955d176ee4bfed13bb9a7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/24968/thumb/NmqN8g7.png?1649917431",

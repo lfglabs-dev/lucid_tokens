@@ -1,6 +1,6 @@
 {
-  "symbol": "form",
-  "name": "Formation FI",
+  "symbol": "FORM",
+  "name": "Formation Finance",
   "address": "0x21381e026ad6d8266244f2a583b35f9e4413fa2a",
   "decimals": 18,
   "type": "ERC20",

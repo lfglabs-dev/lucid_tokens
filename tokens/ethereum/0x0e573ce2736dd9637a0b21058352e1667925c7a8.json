@@ -1,8 +1,8 @@
 {
-  "symbol": "usdv",
-  "name": "Verified USD",
+  "symbol": "USDV",
+  "name": "USDV",
   "address": "0x0e573ce2736dd9637a0b21058352e1667925c7a8",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32948/thumb/usdv_%281%29.png?1699933314",

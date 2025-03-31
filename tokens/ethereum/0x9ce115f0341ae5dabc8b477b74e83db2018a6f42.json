@@ -1,6 +1,6 @@
 {
-  "symbol": "hair",
-  "name": "HairDAO",
+  "symbol": "HAIR",
+  "name": "HairDAO Token",
   "address": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
   "decimals": 18,
   "type": "ERC20",

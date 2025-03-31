@@ -1,8 +1,8 @@
 {
-  "symbol": "umad",
-  "name": "MADworld",
+  "symbol": "UMAD",
+  "name": "UMAD",
   "address": "0x31c2415c946928e9fd1af83cdfa38d3edbd4326f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/20939/thumb/UMAD_.png?1638238294",

@@ -1,8 +1,8 @@
 {
-  "symbol": "wasd",
+  "symbol": "WASD",
   "name": "WASD Studios",
   "address": "0xbdcd291c32e06bbf2d7b1ffc823959e3258e3583",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36442/thumb/logo200.png?1711440765",

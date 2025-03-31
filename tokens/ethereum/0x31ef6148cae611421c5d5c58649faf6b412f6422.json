@@ -1,8 +1,8 @@
 {
-  "symbol": "agv",
+  "symbol": "AGV",
   "name": "AgentVerse",
   "address": "0x31ef6148cae611421c5d5c58649faf6b412f6422",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53344/thumb/IMG_20250104_221111_827.jpg?1736156051",

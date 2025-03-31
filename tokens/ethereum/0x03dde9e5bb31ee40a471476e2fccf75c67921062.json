@@ -1,6 +1,6 @@
 {
-  "symbol": "eml",
-  "name": "EML Protocol",
+  "symbol": "EML",
+  "name": "EML Token",
   "address": "0x03dde9e5bb31ee40a471476e2fccf75c67921062",
   "decimals": 18,
   "type": "ERC20",

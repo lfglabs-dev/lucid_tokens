@@ -1,6 +1,6 @@
 {
-  "symbol": "sora",
-  "name": "Sora AI",
+  "symbol": "SORA",
+  "name": "Sora",
   "address": "0xb8a87405d9a4f2f866319b77004e88dff66c0d92",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "apm",
-  "name": "apM Coin",
+  "symbol": "APM",
+  "name": "APM Coin",
   "address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
   "decimals": 18,
   "type": "ERC20",

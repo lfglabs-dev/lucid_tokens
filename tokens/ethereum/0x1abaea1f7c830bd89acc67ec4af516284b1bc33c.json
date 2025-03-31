@@ -1,8 +1,8 @@
 {
-  "symbol": "eurc",
-  "name": "EURC",
+  "symbol": "EURC",
+  "name": "Euro Coin",
   "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420",

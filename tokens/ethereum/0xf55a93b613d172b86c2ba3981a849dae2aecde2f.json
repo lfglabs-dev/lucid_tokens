@@ -1,6 +1,6 @@
 {
-  "symbol": "yfx",
-  "name": "Your Futures Exchange",
+  "symbol": "YFX",
+  "name": "YFX",
   "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "magic",
+  "symbol": "MAGIC",
   "name": "Magnificent 7777",
   "address": "0x435cbf7c09e01d6a07b9997770f7b9d1ab754020",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51163/thumb/fc-k3Kh-_400x400.jpg?1730265401",

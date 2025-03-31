@@ -1,8 +1,8 @@
 {
-  "symbol": "dnode",
+  "symbol": "DNODE",
   "name": "DecentraNode",
   "address": "0x014337b35167b3711195361bb85259009e50a8a4",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35481/thumb/photo_2024-02-24_18.26.48.jpeg?1708849459",

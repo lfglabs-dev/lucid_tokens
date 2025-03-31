@@ -1,8 +1,8 @@
 {
-  "symbol": "adco",
+  "symbol": "ADCO",
   "name": "Advertise Coin",
   "address": "0xb6c3dc857845a713d3531cea5ac546f6767992f4",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14344/thumb/advertisecoin200x200.png?1615503478",

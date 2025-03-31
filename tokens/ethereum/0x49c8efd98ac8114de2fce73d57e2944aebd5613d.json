@@ -1,8 +1,8 @@
 {
-  "symbol": "atec",
+  "symbol": "ATEC",
   "name": "AnonTech",
   "address": "0x49c8efd98ac8114de2fce73d57e2944aebd5613d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36949/thumb/1000002162.jpg?1712897959",

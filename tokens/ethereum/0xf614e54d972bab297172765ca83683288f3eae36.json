@@ -1,8 +1,8 @@
 {
-  "symbol": "rwb",
+  "symbol": "RWB",
   "name": "RawBlock",
   "address": "0xf614e54d972bab297172765ca83683288f3eae36",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36819/thumb/photo_2024-03-18_04-07-55_%281%29-removebg-preview.jpg?1712551052",

@@ -1,8 +1,8 @@
 {
-  "symbol": "pc",
+  "symbol": "PC",
   "name": "Pepechain",
   "address": "0xe1ec350ea16d1ddaff57f31387b2d9708eb7ce28",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30059/thumb/Pepechain.png?1683001252",

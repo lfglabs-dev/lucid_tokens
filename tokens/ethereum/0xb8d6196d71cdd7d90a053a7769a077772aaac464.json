@@ -1,8 +1,8 @@
 {
-  "symbol": "mars",
+  "symbol": "MARS",
   "name": "Mars",
   "address": "0xb8d6196d71cdd7d90a053a7769a077772aaac464",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50353/thumb/1000000603.jpg?1727281973",

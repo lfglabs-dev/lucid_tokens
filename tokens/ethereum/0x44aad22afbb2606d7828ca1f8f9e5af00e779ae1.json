@@ -1,8 +1,8 @@
 {
-  "symbol": "simpson",
+  "symbol": "Simpson",
   "name": "Homer",
   "address": "0x44aad22afbb2606d7828ca1f8f9e5af00e779ae1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30243/thumb/1111.png?1683692033",

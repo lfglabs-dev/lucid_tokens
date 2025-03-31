@@ -1,6 +1,6 @@
 {
-  "symbol": "dog",
-  "name": "Own The Doge",
+  "symbol": "DOG",
+  "name": "The Doge NFT",
   "address": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
   "decimals": 18,
   "type": "ERC20",

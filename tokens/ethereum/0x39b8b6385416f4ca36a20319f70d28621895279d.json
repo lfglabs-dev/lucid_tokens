@@ -1,6 +1,6 @@
 {
-  "symbol": "eure",
-  "name": "Monerium EUR emoney",
+  "symbol": "EURe",
+  "name": "Monerium EURe",
   "address": "0x39b8b6385416f4ca36a20319f70d28621895279d",
   "decimals": 18,
   "type": "ERC20",

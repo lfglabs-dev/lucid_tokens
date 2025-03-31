@@ -1,6 +1,6 @@
 {
-  "symbol": "asdai",
-  "name": "Aave v3 sDAI",
+  "symbol": "aEthsDAI",
+  "name": "Aave Ethereum sDAI",
   "address": "0x4c612e3b15b96ff9a6faed838f8d07d479a8dd4c",
   "decimals": 18,
   "type": "ERC20",

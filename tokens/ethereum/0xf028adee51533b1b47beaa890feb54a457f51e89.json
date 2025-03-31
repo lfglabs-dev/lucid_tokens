@@ -1,6 +1,6 @@
 {
-  "symbol": "bmt",
-  "name": "BMCHAIN",
+  "symbol": "BMT",
+  "name": "BMChain Token",
   "address": "0xf028adee51533b1b47beaa890feb54a457f51e89",
   "decimals": 18,
   "type": "ERC20",

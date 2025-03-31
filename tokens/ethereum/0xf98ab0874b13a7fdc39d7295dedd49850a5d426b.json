@@ -1,8 +1,8 @@
 {
-  "symbol": "kira",
+  "symbol": "KIRA",
   "name": "KIRA",
   "address": "0xf98ab0874b13a7fdc39d7295dedd49850a5d426b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28196/thumb/KIRA_CMC.png?1668334302",

@@ -1,8 +1,8 @@
 {
-  "symbol": "x",
+  "symbol": "X",
   "name": "X",
   "address": "0xa62894d5196bc44e4c3978400ad07e7b30352372",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31144/thumb/IMG_5477.JPG?1691028622",

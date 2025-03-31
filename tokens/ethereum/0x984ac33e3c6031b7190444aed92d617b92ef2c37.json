@@ -1,8 +1,8 @@
 {
-  "symbol": "boton",
-  "name": "Boton AI",
+  "symbol": "BOTON",
+  "name": "BOTON AI",
   "address": "0x984ac33e3c6031b7190444aed92d617b92ef2c37",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52357/thumb/IMG_5131.png?1733174101",

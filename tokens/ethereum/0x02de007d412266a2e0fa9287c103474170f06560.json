@@ -1,6 +1,6 @@
 {
-  "symbol": "exd",
-  "name": "Exorde",
+  "symbol": "EXD",
+  "name": "Exorde Network Token",
   "address": "0x02de007d412266a2e0fa9287c103474170f06560",
   "decimals": 18,
   "type": "ERC20",

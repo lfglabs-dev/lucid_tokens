@@ -1,8 +1,8 @@
 {
-  "symbol": "mntl",
+  "symbol": "MNTL",
   "name": "AssetMantle",
   "address": "0x2c4f1df9c7de0c59778936c9b145ff56813f3295",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/25181/thumb/assetmantle.png?1650548235",

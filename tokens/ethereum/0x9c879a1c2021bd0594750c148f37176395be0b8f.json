@@ -1,6 +1,6 @@
 {
-  "symbol": "spsk.d",
-  "name": "Dinari SPSK",
+  "symbol": "SPSK.d",
+  "name": "SP Funds Dow Jones Global Sukuk ETF - Dinari",
   "address": "0x9c879a1c2021bd0594750c148f37176395be0b8f",
   "decimals": 18,
   "type": "ERC20",

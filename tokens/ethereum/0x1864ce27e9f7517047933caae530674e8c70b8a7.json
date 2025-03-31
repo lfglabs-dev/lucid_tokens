@@ -1,6 +1,6 @@
 {
-  "symbol": "pib",
-  "name": "Pibble",
+  "symbol": "PIB",
+  "name": "Pibble Token",
   "address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
   "decimals": 18,
   "type": "ERC20",

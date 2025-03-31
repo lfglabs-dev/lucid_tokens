@@ -1,8 +1,8 @@
 {
-  "symbol": "dad",
+  "symbol": "DAD",
   "name": "DAD",
   "address": "0x5b322514ff727253292637d9054301600c2c81e8",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9833/thumb/q_Vt0ajV_400x400.jpg?1572475136",

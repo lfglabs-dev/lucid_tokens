@@ -1,6 +1,6 @@
 {
-  "symbol": "idledaiyield",
-  "name": "IdleDAI (Best Yield)",
+  "symbol": "idleDAIYield",
+  "name": "IdleDAI v4 [Best yield]",
   "address": "0x3fe7940616e5bc47b0775a0dccf6237893353bb4",
   "decimals": 18,
   "type": "ERC20",

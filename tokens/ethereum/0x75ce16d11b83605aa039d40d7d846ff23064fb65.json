@@ -1,8 +1,8 @@
 {
-  "symbol": "dub",
+  "symbol": "DUB",
   "name": "DUBX",
   "address": "0x75ce16d11b83605aa039d40d7d846ff23064fb65",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31605/thumb/dubx200*200.png?1694071679",

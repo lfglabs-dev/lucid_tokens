@@ -1,6 +1,6 @@
 {
-  "symbol": "machina",
-  "name": "Church of the Machina",
+  "symbol": "MACHINA",
+  "name": "Machina",
   "address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
   "decimals": 18,
   "type": "ERC20",

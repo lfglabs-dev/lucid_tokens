@@ -1,6 +1,6 @@
 {
-  "symbol": "gekko",
-  "name": "GEKKO",
+  "symbol": "GEKKO",
+  "name": "Gekko",
   "address": "0xf017d3690346eb8234b85f74cee5e15821fee1f4",
   "decimals": 18,
   "type": "ERC20",

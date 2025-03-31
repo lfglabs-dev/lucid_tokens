@@ -1,6 +1,6 @@
 {
-  "symbol": "ehash",
-  "name": "EHash",
+  "symbol": "EHASH",
+  "name": "EHash Token",
   "address": "0x2942e3b38e33123965bfbc21e802be943a76bbc6",
   "decimals": 18,
   "type": "ERC20",

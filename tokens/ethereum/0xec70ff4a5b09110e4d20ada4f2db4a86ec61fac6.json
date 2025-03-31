@@ -1,6 +1,6 @@
 {
-  "symbol": "grp",
-  "name": "Grape",
+  "symbol": "GRP",
+  "name": "GRAPE",
   "address": "0xec70ff4a5b09110e4d20ada4f2db4a86ec61fac6",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "gaj",
-  "name": "Gaj Finance",
+  "symbol": "GAJ",
+  "name": "PolyGaj Token",
   "address": "0x9fda7ceec4c18008096c2fe2b85f05dc300f94d0",
   "decimals": 18,
   "type": "ERC20",

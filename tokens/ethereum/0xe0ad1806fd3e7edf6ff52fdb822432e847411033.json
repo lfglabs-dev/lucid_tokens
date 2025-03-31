@@ -1,6 +1,6 @@
 {
-  "symbol": "onx",
-  "name": "OnX Finance",
+  "symbol": "ONX",
+  "name": "OnX.finance",
   "address": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
   "decimals": 18,
   "type": "ERC20",

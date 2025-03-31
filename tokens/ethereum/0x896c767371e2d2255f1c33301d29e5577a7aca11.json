@@ -1,8 +1,8 @@
 {
-  "symbol": "bulla",
-  "name": "BULLA",
+  "symbol": "BULLA",
+  "name": "Bulladotfun",
   "address": "0x896c767371e2d2255f1c33301d29e5577a7aca11",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50684/thumb/Logo222.png?1728776667",

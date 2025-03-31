@@ -1,8 +1,8 @@
 {
-  "symbol": "ubsn",
-  "name": "Silent Notary",
+  "symbol": "UBSN",
+  "name": "UBSN",
   "address": "0x86efc496dca70bcfd92d19194290e8457a375773",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1599/thumb/silent-notary.png?1548609544",

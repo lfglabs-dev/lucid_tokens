@@ -1,6 +1,6 @@
 {
-  "symbol": "swt",
-  "name": "Smart Wallet",
+  "symbol": "SWT",
+  "name": "SmartWalletToken",
   "address": "0x45cb6aa4d4b2b51444b5f1a345bc5f9ff1973ed4",
   "decimals": 18,
   "type": "ERC20",

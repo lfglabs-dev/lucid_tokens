@@ -1,6 +1,6 @@
 {
-  "symbol": "argo",
-  "name": "ArGoApp",
+  "symbol": "ARGO",
+  "name": "ArGo Token",
   "address": "0x28cca76f6e8ec81e4550ecd761f899110b060e97",
   "decimals": 18,
   "type": "ERC20",

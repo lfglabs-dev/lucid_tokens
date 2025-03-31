@@ -1,6 +1,6 @@
 {
-  "symbol": "ctr",
-  "name": "Concentrator",
+  "symbol": "CTR",
+  "name": "Concentrator Token",
   "address": "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8",
   "decimals": 18,
   "type": "ERC20",

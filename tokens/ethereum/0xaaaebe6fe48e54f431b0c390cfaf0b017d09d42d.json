@@ -1,8 +1,8 @@
 {
-  "symbol": "cel",
-  "name": "Celsius Network",
+  "symbol": "CEL",
+  "name": "Celsius",
   "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/3263/thumb/CEL_logo.png?1609598753",

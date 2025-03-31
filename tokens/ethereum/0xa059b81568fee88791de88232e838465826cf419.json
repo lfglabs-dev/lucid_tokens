@@ -1,8 +1,8 @@
 {
-  "symbol": "$three",
-  "name": "THREE",
+  "symbol": "THREE",
+  "name": "Three Protocol Token",
   "address": "0xa059b81568fee88791de88232e838465826cf419",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37486/thumb/Three_Token.png?1714491488",

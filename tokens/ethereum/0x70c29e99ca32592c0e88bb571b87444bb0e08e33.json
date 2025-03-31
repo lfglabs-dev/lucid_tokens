@@ -1,8 +1,8 @@
 {
-  "symbol": "marvin",
+  "symbol": "MARVIN",
   "name": "The Martian Dog",
   "address": "0x70c29e99ca32592c0e88bb571b87444bb0e08e33",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50409/thumb/fe0e5409-f6aa-408d-9061-98d265b71b58.jpeg?1727664291",

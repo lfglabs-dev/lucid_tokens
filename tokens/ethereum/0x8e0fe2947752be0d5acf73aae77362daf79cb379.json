@@ -1,6 +1,6 @@
 {
-  "symbol": "nftd",
-  "name": "NFTrade",
+  "symbol": "NFTD",
+  "name": "NFTrade Token",
   "address": "0x8e0fe2947752be0d5acf73aae77362daf79cb379",
   "decimals": 18,
   "type": "ERC20",

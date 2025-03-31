@@ -1,8 +1,8 @@
 {
-  "symbol": "xpr",
-  "name": "XPR Network",
+  "symbol": "XPR",
+  "name": "Proton",
   "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10941/thumb/Proton-Icon.png?1588283737",

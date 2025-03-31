@@ -1,6 +1,6 @@
 {
-  "symbol": "vdo",
-  "name": "ValiDAO",
+  "symbol": "VDO",
+  "name": "Validao",
   "address": "0x2ef8a2ccb058915e00e16aa13cc6e36f19d8893b",
   "decimals": 18,
   "type": "ERC20",

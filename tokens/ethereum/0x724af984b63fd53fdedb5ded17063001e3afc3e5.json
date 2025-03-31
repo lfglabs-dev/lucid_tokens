@@ -1,6 +1,6 @@
 {
-  "symbol": "rock",
-  "name": "ROCK",
+  "symbol": "ROCK",
+  "name": "Rock",
   "address": "0x724af984b63fd53fdedb5ded17063001e3afc3e5",
   "decimals": 18,
   "type": "ERC20",

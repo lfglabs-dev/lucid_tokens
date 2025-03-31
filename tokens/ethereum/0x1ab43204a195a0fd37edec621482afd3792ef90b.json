@@ -1,6 +1,6 @@
 {
-  "symbol": "ply",
-  "name": "Aurigami",
+  "symbol": "PLY",
+  "name": "Aurigami Token",
   "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
   "decimals": 18,
   "type": "ERC20",

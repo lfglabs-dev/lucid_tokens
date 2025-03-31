@@ -1,6 +1,6 @@
 {
-  "symbol": "spus.d",
-  "name": "Dinari SPUS",
+  "symbol": "SPUS.d",
+  "name": "SP Funds S&P 500 Sharia  ETF - Dinari",
   "address": "0xdf9be795fee855aaeb82dc112b0f27b62524a17b",
   "decimals": 18,
   "type": "ERC20",

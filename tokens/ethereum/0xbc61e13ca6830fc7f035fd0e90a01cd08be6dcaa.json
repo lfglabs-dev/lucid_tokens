@@ -1,6 +1,6 @@
 {
-  "symbol": "shoot",
-  "name": "Mars Battle",
+  "symbol": "SHOOT",
+  "name": "SHOOT",
   "address": "0xbc61e13ca6830fc7f035fd0e90a01cd08be6dcaa",
   "decimals": 18,
   "type": "ERC20",

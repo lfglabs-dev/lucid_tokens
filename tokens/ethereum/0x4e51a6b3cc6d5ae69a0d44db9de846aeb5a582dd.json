@@ -1,8 +1,8 @@
 {
-  "symbol": "gyoza",
-  "name": "Gyoza",
+  "symbol": "GYOZA",
+  "name": "GYOZA",
   "address": "0x4e51a6b3cc6d5ae69a0d44db9de846aeb5a582dd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31083/thumb/logorecized_new.png?1690356726",

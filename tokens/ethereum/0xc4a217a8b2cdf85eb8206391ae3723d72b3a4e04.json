@@ -1,6 +1,6 @@
 {
-  "symbol": "bitb.d",
-  "name": "Dinari BITB",
+  "symbol": "BITB.d",
+  "name": "Bitwise Bitcoin ETF - Dinari",
   "address": "0xc4a217a8b2cdf85eb8206391ae3723d72b3a4e04",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "oly",
-  "name": "Olyverse",
+  "symbol": "OLY",
+  "name": "Olyseum",
   "address": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
   "decimals": 18,
   "type": "ERC20",

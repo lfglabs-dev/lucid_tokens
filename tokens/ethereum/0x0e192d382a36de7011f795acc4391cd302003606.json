@@ -1,6 +1,6 @@
 {
-  "symbol": "fst",
-  "name": "Futureswap",
+  "symbol": "FST",
+  "name": "Futureswap Token",
   "address": "0x0e192d382a36de7011f795acc4391cd302003606",
   "decimals": 18,
   "type": "ERC20",

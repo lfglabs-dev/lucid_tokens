@@ -1,8 +1,8 @@
 {
-  "symbol": "cheeseball",
+  "symbol": "CHEESEBALL",
   "name": "Cheeseball the Wizard",
   "address": "0x103143acf2e717acf8f021823e86a1dbfe944fb5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50636/thumb/GY2kMbsaEAAYh5C.jpg?1728547433",

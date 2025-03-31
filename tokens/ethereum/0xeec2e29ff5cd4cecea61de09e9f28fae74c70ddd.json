@@ -1,8 +1,8 @@
 {
-  "symbol": "aitt",
-  "name": "Aittcoin",
+  "symbol": "AITT",
+  "name": "AITTCOIN",
   "address": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36100/thumb/aittcoin.png?1710482811",

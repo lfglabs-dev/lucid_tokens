@@ -1,8 +1,8 @@
 {
-  "symbol": "kozue",
+  "symbol": "KOZUE",
   "name": "Kozue",
   "address": "0x3abe404faa776d2a833d554a068ef1a58193f080",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50288/thumb/photo_2024-09-21_01-06-33.jpg?1726884978",

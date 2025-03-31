@@ -1,6 +1,6 @@
 {
-  "symbol": "power",
-  "name": "Powerloom",
+  "symbol": "POWER",
+  "name": "Powerloom Token",
   "address": "0x429f0d8233e517f9acf6f0c8293bf35804063a83",
   "decimals": 18,
   "type": "ERC20",

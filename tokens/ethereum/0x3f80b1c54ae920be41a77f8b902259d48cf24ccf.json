@@ -1,6 +1,6 @@
 {
-  "symbol": "kernel",
-  "name": "KernelDAO",
+  "symbol": "KERNEL",
+  "name": "KERNEL",
   "address": "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf",
   "decimals": 18,
   "type": "ERC20",

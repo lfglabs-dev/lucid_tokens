@@ -1,8 +1,8 @@
 {
-  "symbol": "colon",
+  "symbol": "COLON",
   "name": "Colon",
   "address": "0xd09eb9099fac55edcbf4965e0a866779ca365a0c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39738/thumb/logo2.jpg?1723779701",

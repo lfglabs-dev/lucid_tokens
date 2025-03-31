@@ -1,8 +1,8 @@
 {
-  "symbol": "ethardio",
+  "symbol": "ETHARDIO",
   "name": "ETHARDIO",
   "address": "0x846e57af29fd21391919318a044191b8725822c2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50740/thumb/IMG_4782.jpeg?1728917572",

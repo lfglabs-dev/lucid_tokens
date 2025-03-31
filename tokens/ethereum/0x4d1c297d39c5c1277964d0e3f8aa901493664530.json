@@ -1,6 +1,6 @@
 {
-  "symbol": "puffer",
-  "name": "Puffer",
+  "symbol": "PUFFER",
+  "name": "PUFFER",
   "address": "0x4d1c297d39c5c1277964d0e3f8aa901493664530",
   "decimals": 18,
   "type": "ERC20",

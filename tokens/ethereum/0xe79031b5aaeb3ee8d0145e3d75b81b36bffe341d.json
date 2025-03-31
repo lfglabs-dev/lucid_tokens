@@ -1,8 +1,8 @@
 {
-  "symbol": "boppy",
+  "symbol": "BOPPY",
   "name": "Boppy The Bat",
   "address": "0xe79031b5aaeb3ee8d0145e3d75b81b36bffe341d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39078/thumb/1000008320.jpg?1720252070",

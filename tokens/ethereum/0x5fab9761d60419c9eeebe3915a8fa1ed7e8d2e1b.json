@@ -1,6 +1,6 @@
 {
-  "symbol": "dimo",
-  "name": "DIMO",
+  "symbol": "DIMO",
+  "name": "Dimo",
   "address": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b",
   "decimals": 18,
   "type": "ERC20",

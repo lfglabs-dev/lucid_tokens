@@ -1,6 +1,6 @@
 {
-  "symbol": "pleb",
-  "name": "PLEB Token",
+  "symbol": "PLEB",
+  "name": "PLEBToken",
   "address": "0xe19f85c920b572ca48942315b06d6cac86585c87",
   "decimals": 18,
   "type": "ERC20",

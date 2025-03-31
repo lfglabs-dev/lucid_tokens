@@ -1,8 +1,8 @@
 {
-  "symbol": "atn",
-  "name": "Athene Network",
+  "symbol": "ATN",
+  "name": "ATHENE NETWORK",
   "address": "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54594/thumb/atn-logo.jpg?1740569495",

@@ -1,6 +1,6 @@
 {
-  "symbol": "aweth",
-  "name": "Aave v3 WETH",
+  "symbol": "aEthWETH",
+  "name": "Aave Ethereum WETH",
   "address": "0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8",
   "decimals": 18,
   "type": "ERC20",

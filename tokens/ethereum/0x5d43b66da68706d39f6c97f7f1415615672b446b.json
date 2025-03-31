@@ -1,6 +1,6 @@
 {
-  "symbol": "rog",
-  "name": "ROGin AI",
+  "symbol": "ROG",
+  "name": "ROGIN.AI",
   "address": "0x5d43b66da68706d39f6c97f7f1415615672b446b",
   "decimals": 18,
   "type": "ERC20",

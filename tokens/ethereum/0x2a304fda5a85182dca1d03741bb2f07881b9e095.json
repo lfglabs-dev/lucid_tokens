@@ -1,8 +1,8 @@
 {
-  "symbol": "dco",
+  "symbol": "DCO",
   "name": "DCOMY",
   "address": "0x2a304fda5a85182dca1d03741bb2f07881b9e095",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29007/thumb/15-38-16-200x200.png?1675918337",

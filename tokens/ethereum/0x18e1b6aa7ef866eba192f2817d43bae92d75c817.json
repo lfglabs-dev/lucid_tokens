@@ -1,6 +1,6 @@
 {
-  "symbol": "opz",
-  "name": "OPZ",
+  "symbol": "OPZ",
+  "name": "OPZ Token",
   "address": "0x18e1b6aa7ef866eba192f2817d43bae92d75c817",
   "decimals": 18,
   "type": "ERC20",

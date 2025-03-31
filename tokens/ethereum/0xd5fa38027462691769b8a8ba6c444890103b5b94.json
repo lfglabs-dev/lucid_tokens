@@ -1,8 +1,8 @@
 {
-  "symbol": "dawg",
+  "symbol": "DAWG",
   "name": "Dawg Coin",
   "address": "0xd5fa38027462691769b8a8ba6c444890103b5b94",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33409/thumb/dawg_%281%29.jpg?1701700702",

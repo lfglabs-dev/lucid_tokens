@@ -1,6 +1,6 @@
 {
-  "symbol": "spyro",
-  "name": "SPYRO",
+  "symbol": "SPYRO",
+  "name": "Spyro",
   "address": "0x6d7497751656618fc38cfb5478994a20f7e235df",
   "decimals": 18,
   "type": "ERC20",

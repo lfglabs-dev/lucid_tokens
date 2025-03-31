@@ -1,6 +1,6 @@
 {
-  "symbol": "swrv",
-  "name": "Swerve",
+  "symbol": "SWRV",
+  "name": "Swerve DAO Token",
   "address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
   "decimals": 18,
   "type": "ERC20",

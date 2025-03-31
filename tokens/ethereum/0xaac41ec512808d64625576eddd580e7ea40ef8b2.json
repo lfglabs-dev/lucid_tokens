@@ -1,6 +1,6 @@
 {
-  "symbol": "gswap",
-  "name": "Gameswap",
+  "symbol": "GSWAP",
+  "name": "gameswap.org",
   "address": "0xaac41ec512808d64625576eddd580e7ea40ef8b2",
   "decimals": 18,
   "type": "ERC20",

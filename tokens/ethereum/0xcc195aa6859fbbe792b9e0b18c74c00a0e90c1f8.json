@@ -1,6 +1,6 @@
 {
-  "symbol": "hood.d",
-  "name": "Dinari HOOD",
+  "symbol": "HOOD.d",
+  "name": "Robinhood Markets, Inc. Class A Common Stock - Dinari",
   "address": "0xcc195aa6859fbbe792b9e0b18c74c00a0e90c1f8",
   "decimals": 18,
   "type": "ERC20",

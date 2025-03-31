@@ -1,6 +1,6 @@
 {
-  "symbol": "dragonx",
-  "name": "DragonX.win",
+  "symbol": "DRAGONX",
+  "name": "DragonX",
   "address": "0x96a5399d07896f757bd4c6ef56461f58db951862",
   "decimals": 18,
   "type": "ERC20",

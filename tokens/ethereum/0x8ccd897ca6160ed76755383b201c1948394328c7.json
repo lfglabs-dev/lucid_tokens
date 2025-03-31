@@ -1,8 +1,8 @@
 {
-  "symbol": "bai",
-  "name": "Balance AI",
+  "symbol": "wBAI",
+  "name": "Wrapped Balance AI",
   "address": "0x8ccd897ca6160ed76755383b201c1948394328c7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34732/thumb/Balance_AI.png?1705921540",

@@ -1,6 +1,6 @@
 {
-  "symbol": "vpp",
-  "name": "Virtue Poker Points",
+  "symbol": "VPP",
+  "name": "Virtue Player Points",
   "address": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "fdai",
+  "symbol": "fDAI",
   "name": "Flux DAI",
   "address": "0xe2ba8693ce7474900a045757fe0efca900f6530b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29052/thumb/fDAI_200x200.png?1676335235",

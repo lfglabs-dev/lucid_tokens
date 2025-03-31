@@ -1,6 +1,6 @@
 {
   "symbol": "pepecoin",
-  "name": "PepeCoin",
+  "name": "pepeCoin",
   "address": "0xa9e8acf069c58aec8825542845fd754e41a9489a",
   "decimals": 18,
   "type": "ERC20",

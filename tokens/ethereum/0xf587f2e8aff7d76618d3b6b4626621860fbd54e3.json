@@ -1,6 +1,6 @@
 {
-  "symbol": "gtcbbtcc",
-  "name": "cbBTC Core Morpho Vault",
+  "symbol": "gtcbBTCc",
+  "name": "Gauntlet cbBTC Core",
   "address": "0xf587f2e8aff7d76618d3b6b4626621860fbd54e3",
   "decimals": 18,
   "type": "ERC20",

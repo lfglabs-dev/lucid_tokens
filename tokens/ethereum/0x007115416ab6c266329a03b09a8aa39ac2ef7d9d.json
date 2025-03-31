@@ -1,6 +1,6 @@
 {
-  "symbol": "mbtc",
-  "name": "Midas mBTC",
+  "symbol": "mBTC",
+  "name": "Midas BTC Yield Token",
   "address": "0x007115416ab6c266329a03b09a8aa39ac2ef7d9d",
   "decimals": 18,
   "type": "ERC20",

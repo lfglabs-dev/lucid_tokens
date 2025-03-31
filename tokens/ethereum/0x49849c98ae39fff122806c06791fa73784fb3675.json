@@ -1,6 +1,6 @@
 {
-  "symbol": "renbtccurve",
-  "name": "LP renBTC Curve",
+  "symbol": "crvRenWBTC",
+  "name": "Curve.fi renBTC/wBTC",
   "address": "0x49849c98ae39fff122806c06791fa73784fb3675",
   "decimals": 18,
   "type": "ERC20",

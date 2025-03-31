@@ -1,8 +1,8 @@
 {
-  "symbol": "nrch",
-  "name": "Enreach",
+  "symbol": "NRCH",
+  "name": "EnreachDAO",
   "address": "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14694/thumb/enreachdao.jpg?1617813758",

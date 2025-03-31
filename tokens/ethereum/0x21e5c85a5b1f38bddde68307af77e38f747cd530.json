@@ -1,8 +1,8 @@
 {
-  "symbol": "dogs",
+  "symbol": "DOGS",
   "name": "Doggensnout Skeptic",
   "address": "0x21e5c85a5b1f38bddde68307af77e38f747cd530",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35772/thumb/DOGS200.jpg?1709791857",

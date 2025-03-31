@@ -1,6 +1,6 @@
 {
-  "symbol": "skya",
-  "name": "Sekuya Multiverse",
+  "symbol": "SKYA",
+  "name": "Sekuya",
   "address": "0x623cd3a3edf080057892aaf8d773bbb7a5c9b6e9",
   "decimals": 18,
   "type": "ERC20",

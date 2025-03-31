@@ -1,6 +1,6 @@
 {
-  "symbol": "neuron",
-  "name": "Cerebrum DAO",
+  "symbol": "NEURON",
+  "name": "Cerebrum DAO Token",
   "address": "0xab814ce69e15f6b9660a3b184c0b0c97b9394a6b",
   "decimals": 18,
   "type": "ERC20",

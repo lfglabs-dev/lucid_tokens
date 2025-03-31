@@ -1,6 +1,6 @@
 {
-  "symbol": "susda",
-  "name": "sUSDa",
+  "symbol": "sUSDa",
+  "name": "USDa saving token",
   "address": "0x2b66aade1e9c062ff411bd47c44e0ad696d43bd9",
   "decimals": 18,
   "type": "ERC20",

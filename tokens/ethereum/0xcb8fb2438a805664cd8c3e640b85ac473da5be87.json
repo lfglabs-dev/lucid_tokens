@@ -1,6 +1,6 @@
 {
-  "symbol": "cti",
-  "name": "ClinTex CTi",
+  "symbol": "CTI",
+  "name": "ClinTex CTI",
   "address": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
   "decimals": 18,
   "type": "ERC20",

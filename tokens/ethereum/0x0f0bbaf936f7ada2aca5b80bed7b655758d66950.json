@@ -1,8 +1,8 @@
 {
-  "symbol": "wifpepemog",
+  "symbol": "WIFPEPEMOGINU",
   "name": "WIFPEPEMOGINU",
   "address": "0x0f0bbaf936f7ada2aca5b80bed7b655758d66950",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35686/thumb/200x200.jpg?1709531939",

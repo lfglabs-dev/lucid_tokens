@@ -1,6 +1,6 @@
 {
-  "symbol": "mir",
-  "name": "Mirror Protocol",
+  "symbol": "MIR",
+  "name": "Wrapped MIR Token",
   "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
   "decimals": 18,
   "type": "ERC20",

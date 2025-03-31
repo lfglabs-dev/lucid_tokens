@@ -1,6 +1,6 @@
 {
-  "symbol": "apfc",
-  "name": "APF coin",
+  "symbol": "APFC",
+  "name": "APF Coin",
   "address": "0x8ed955a2b7d2c3a17a9d05daca95e01818f8c11e",
   "decimals": 18,
   "type": "ERC20",

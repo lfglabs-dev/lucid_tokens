@@ -1,6 +1,6 @@
 {
-  "symbol": "unqt",
-  "name": "Unique Utility",
+  "symbol": "UNQT",
+  "name": "Unique Utility Token",
   "address": "0xa80f2c8f61c56546001f5fc2eb8d6e4e72c45d4c",
   "decimals": 18,
   "type": "ERC20",

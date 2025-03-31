@@ -1,8 +1,8 @@
 {
-  "symbol": "rfx",
+  "symbol": "RFX",
   "name": "Reflex",
   "address": "0x159a1dfae19057de57dfffcbb3da1ae784678965",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12745/thumb/2MKGMRCT_400x400.png?1602194456",

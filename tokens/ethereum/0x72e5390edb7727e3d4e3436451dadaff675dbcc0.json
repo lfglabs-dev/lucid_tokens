@@ -1,8 +1,8 @@
 {
-  "symbol": "hanu",
+  "symbol": "HANU",
   "name": "Hanu Yokia",
   "address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
-  "decimals": 18,
+  "decimals": 12,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17161/thumb/Goji_Hanu_Logo_200x200.png?1627127472",

@@ -1,6 +1,6 @@
 {
-  "symbol": "idledaisafe",
-  "name": "IdleDAI (Risk Adjusted)",
+  "symbol": "idleDAISafe",
+  "name": "IdleDAI v4 [Risk adjusted]",
   "address": "0xa14ea0e11121e6e951e87c66afe460a00bcd6a16",
   "decimals": 18,
   "type": "ERC20",

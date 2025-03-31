@@ -1,8 +1,8 @@
 {
-  "symbol": "cyba",
-  "name": "Cybria",
+  "symbol": "CYBA",
+  "name": "CYBRIA",
   "address": "0x1063181dc986f76f7ea2dd109e16fc596d0f522a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "missing_thumb.png",

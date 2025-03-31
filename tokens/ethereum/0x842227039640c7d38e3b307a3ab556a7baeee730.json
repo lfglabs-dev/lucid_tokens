@@ -1,6 +1,6 @@
 {
-  "symbol": "v.d",
-  "name": "Dinari V",
+  "symbol": "V.d",
+  "name": "VISA Inc. - Dinari",
   "address": "0x842227039640c7d38e3b307a3ab556a7baeee730",
   "decimals": 18,
   "type": "ERC20",

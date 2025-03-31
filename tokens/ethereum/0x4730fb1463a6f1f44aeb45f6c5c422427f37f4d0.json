@@ -1,6 +1,6 @@
 {
-  "symbol": "four",
-  "name": "4th Pillar FOUR",
+  "symbol": "FOUR",
+  "name": "The 4th Pillar Token",
   "address": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
   "decimals": 18,
   "type": "ERC20",

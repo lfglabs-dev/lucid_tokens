@@ -1,8 +1,8 @@
 {
-  "symbol": "usdc",
-  "name": "USDC",
+  "symbol": "USDC",
+  "name": "USD Coin",
   "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",

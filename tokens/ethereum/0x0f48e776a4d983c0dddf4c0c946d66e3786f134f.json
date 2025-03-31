@@ -1,8 +1,8 @@
 {
-  "symbol": "xetra",
-  "name": "Xetra AI",
+  "symbol": "XETRA",
+  "name": "XETRA AI",
   "address": "0x0f48e776a4d983c0dddf4c0c946d66e3786f134f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53124/thumb/Logo_%282%29.png?1735268597",

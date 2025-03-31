@@ -1,6 +1,6 @@
 {
-  "symbol": "susx",
-  "name": "Savings USX",
+  "symbol": "sUSX",
+  "name": "Saving USX",
   "address": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
   "decimals": 18,
   "type": "ERC20",

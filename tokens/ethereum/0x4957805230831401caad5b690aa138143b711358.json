@@ -1,6 +1,6 @@
 {
-  "symbol": "dora",
-  "name": "Dora Factory",
+  "symbol": "DORA",
+  "name": "Dorayaki",
   "address": "0x4957805230831401caad5b690aa138143b711358",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "lto",
-  "name": "LTO Network",
+  "symbol": "LTO",
+  "name": "LTO Network Token",
   "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/6068/thumb/lto.png?1638855565",

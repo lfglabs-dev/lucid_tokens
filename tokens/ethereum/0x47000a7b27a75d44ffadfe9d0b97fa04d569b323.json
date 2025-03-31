@@ -1,8 +1,8 @@
 {
-  "symbol": "trumpius",
+  "symbol": "TRUMPIUS",
   "name": "Trumpius Maximus",
   "address": "0x47000a7b27a75d44ffadfe9d0b97fa04d569b323",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53229/thumb/Trumpius_Maximus.jpg?1735808285",

@@ -1,6 +1,6 @@
 {
-  "symbol": "ruby",
-  "name": "Ruby Protocol",
+  "symbol": "RUBY",
+  "name": "RubyToken",
   "address": "0xb30240d48c05a4b950c470e2d6aefc9117a50624",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "flx",
-  "name": "Flux Protocol",
+  "symbol": "FLX",
+  "name": "Flux Token",
   "address": "0x3ea8ea4237344c9931214796d9417af1a1180770",
   "decimals": 18,
   "type": "ERC20",

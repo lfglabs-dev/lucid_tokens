@@ -1,8 +1,8 @@
 {
-  "symbol": "ddbam",
+  "symbol": "DDBAM",
   "name": "Didi Bam Bam",
   "address": "0x5832fbf930dacbdd9a1697dca7b3c518277ff0b0",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51976/thumb/Didi_Bam_Bam.png?1732284869",

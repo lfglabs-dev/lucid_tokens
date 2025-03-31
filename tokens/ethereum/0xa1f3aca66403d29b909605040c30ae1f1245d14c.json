@@ -1,8 +1,8 @@
 {
-  "symbol": "tfbill",
-  "name": "Adapt3r Digital Treasury Bill Fund",
+  "symbol": "tfBILL",
+  "name": "Adapt3r Treasury Bill Fund",
   "address": "0xa1f3aca66403d29b909605040c30ae1f1245d14c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34761/thumb/s3hkVoBT_400x400.png?1705986984",

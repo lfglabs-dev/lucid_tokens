@@ -1,6 +1,6 @@
 {
-  "symbol": "euri",
-  "name": "Eurite",
+  "symbol": "EURI",
+  "name": "EURITE",
   "address": "0x9d1a7a3191102e9f900faa10540837ba84dcbae7",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "monkei",
+  "symbol": "MONKEI",
   "name": "Monkei",
   "address": "0x28b7f370a2b0fd04a9f420c8863b12f35c0f791a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38705/thumb/20240613_070137.png?1718359786",

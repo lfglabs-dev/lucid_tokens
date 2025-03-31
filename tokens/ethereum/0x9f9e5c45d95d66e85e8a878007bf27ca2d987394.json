@@ -1,6 +1,6 @@
 {
-  "symbol": "vwo.d",
-  "name": "Dinari VWO",
+  "symbol": "VWO.d",
+  "name": "Vanguard FTSE Emerging Markets ETF - Dinari",
   "address": "0x9f9e5c45d95d66e85e8a878007bf27ca2d987394",
   "decimals": 18,
   "type": "ERC20",

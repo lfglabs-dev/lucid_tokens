@@ -1,8 +1,8 @@
 {
-  "symbol": "terminus",
-  "name": "Terminus",
+  "symbol": "TERMINUS",
+  "name": "First City in Mars",
   "address": "0xcbde0453d4e7d748077c1b0ac2216c011dd2f406",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50307/thumb/terminus.jpg?1727057343",

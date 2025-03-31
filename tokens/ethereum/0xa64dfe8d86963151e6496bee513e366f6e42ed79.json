@@ -1,8 +1,8 @@
 {
-  "symbol": "goku",
-  "name": "Goku",
+  "symbol": "GOKU",
+  "name": "Goku Inu",
   "address": "0xa64dfe8d86963151e6496bee513e366f6e42ed79",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17947/thumb/goku.png?1642919069",

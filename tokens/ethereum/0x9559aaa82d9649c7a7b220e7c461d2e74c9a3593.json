@@ -1,6 +1,6 @@
 {
-  "symbol": "reth",
-  "name": "StaFi Staked ETH",
+  "symbol": "rETH",
+  "name": "StaFi",
   "address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
   "decimals": 18,
   "type": "ERC20",

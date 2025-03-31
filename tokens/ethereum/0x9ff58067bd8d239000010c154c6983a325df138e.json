@@ -1,6 +1,6 @@
 {
-  "symbol": "propc",
-  "name": "Propchain",
+  "symbol": "PROPC",
+  "name": "Propchain Token",
   "address": "0x9ff58067bd8d239000010c154c6983a325df138e",
   "decimals": 18,
   "type": "ERC20",

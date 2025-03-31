@@ -1,6 +1,6 @@
 {
-  "symbol": "over",
-  "name": "Overtime",
+  "symbol": "OVER",
+  "name": "Overtime DAO Token",
   "address": "0x90ce5720c17587d28e4af120ae2d313b3bad1722",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "cdceth",
-  "name": "Crypto.com Staked ETH",
+  "symbol": "CDCETH",
+  "name": "Crypto.com Wrapped Staked ETH",
   "address": "0xfe18ae03741a5b84e39c295ac9c856ed7991c38e",
   "decimals": 18,
   "type": "ERC20",

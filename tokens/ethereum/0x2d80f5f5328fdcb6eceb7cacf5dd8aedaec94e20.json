@@ -1,8 +1,8 @@
 {
-  "symbol": "aga",
-  "name": "AGA",
+  "symbol": "AGA",
+  "name": "AGA Token",
   "address": "0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12180/thumb/aga-logo.png?1597937396",

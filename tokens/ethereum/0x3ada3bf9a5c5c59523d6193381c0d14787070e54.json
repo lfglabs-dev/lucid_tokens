@@ -1,6 +1,6 @@
 {
-  "symbol": "neva",
-  "name": "Neva",
+  "symbol": "NEVA",
+  "name": "Neva Network",
   "address": "0x3ada3bf9a5c5c59523d6193381c0d14787070e54",
   "decimals": 18,
   "type": "ERC20",

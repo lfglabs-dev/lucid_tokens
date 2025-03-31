@@ -1,6 +1,6 @@
 {
-  "symbol": "poshi",
-  "name": "Poshi World",
+  "symbol": "POSHI",
+  "name": "Poshi",
   "address": "0x1ed5cf624240296d941796970ac745bc24bd4a06",
   "decimals": 18,
   "type": "ERC20",

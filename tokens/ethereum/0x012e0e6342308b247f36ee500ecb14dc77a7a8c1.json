@@ -1,8 +1,8 @@
 {
-  "symbol": "skt",
-  "name": "Sukhavati Network",
+  "symbol": "SKT",
+  "name": "Sukhavati Network Token",
   "address": "0x012e0e6342308b247f36ee500ecb14dc77a7a8c1",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17674/thumb/logo2.png?1628830203",

@@ -1,8 +1,8 @@
 {
-  "symbol": "vetme",
+  "symbol": "VetMe",
   "name": "VetMe",
   "address": "0xe7ef051c6ea1026a70967e8f04da143c67fa4e1f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28787/thumb/2.png?1674201162",

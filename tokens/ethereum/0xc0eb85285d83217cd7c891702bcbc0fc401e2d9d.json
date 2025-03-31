@@ -1,8 +1,8 @@
 {
-  "symbol": "hvn",
-  "name": "Hiveterminal",
+  "symbol": "HVN",
+  "name": "Hive Project Token",
   "address": "0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/899/thumb/Hiveterminal_token.jpg?1547034726",

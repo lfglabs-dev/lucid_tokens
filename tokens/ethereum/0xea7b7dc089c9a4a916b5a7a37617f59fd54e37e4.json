@@ -1,8 +1,8 @@
 {
-  "symbol": "hypc",
-  "name": "HyperCycle",
+  "symbol": "HyPC",
+  "name": "HyperCycle Token",
   "address": "0xea7b7dc089c9a4a916b5a7a37617f59fd54e37e4",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29917/thumb/HyperCycle-Logo-2022_icon_copy_%281%29.png?1682050109",

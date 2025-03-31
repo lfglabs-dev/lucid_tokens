@@ -1,8 +1,8 @@
 {
-  "symbol": "gecky",
+  "symbol": "GECKY",
   "name": "Gecky",
   "address": "0x694200465963898a9fef06a5b778d9e65721685c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50854/thumb/Gecky_logo.jpg?1729301616",

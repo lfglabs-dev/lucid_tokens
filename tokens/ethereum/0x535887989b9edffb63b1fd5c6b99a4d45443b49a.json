@@ -1,8 +1,8 @@
 {
-  "symbol": "trump47",
-  "name": "47th POTUS",
+  "symbol": "TRUMP47",
+  "name": "47th President of the United States",
   "address": "0x535887989b9edffb63b1fd5c6b99a4d45443b49a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51009/thumb/TRUMP47logo_%281%29.png?1729723716",

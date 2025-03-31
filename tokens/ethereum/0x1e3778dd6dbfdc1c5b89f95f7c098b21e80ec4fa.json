@@ -1,6 +1,6 @@
 {
-  "symbol": "vic",
-  "name": "Victory Impact",
+  "symbol": "VIC",
+  "name": "VIC Token",
   "address": "0x1e3778dd6dbfdc1c5b89f95f7c098b21e80ec4fa",
   "decimals": 18,
   "type": "ERC20",

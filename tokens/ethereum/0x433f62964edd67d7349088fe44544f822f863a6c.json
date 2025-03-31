@@ -1,8 +1,8 @@
 {
-  "symbol": "moge",
+  "symbol": "MOGE",
   "name": "Moge",
   "address": "0x433f62964edd67d7349088fe44544f822f863a6c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38724/thumb/imresizer-1718360282476.jpg?1718477698",

@@ -1,6 +1,6 @@
 {
-  "symbol": "primal",
-  "name": "PRIMAL",
+  "symbol": "PRIMAL",
+  "name": "PRIMAL Token",
   "address": "0xdd13dedecebda566322195bc4451d672a148752c",
   "decimals": 18,
   "type": "ERC20",

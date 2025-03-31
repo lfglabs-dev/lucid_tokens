@@ -1,6 +1,6 @@
 {
-  "symbol": "synt",
-  "name": "Synternet",
+  "symbol": "SYNT",
+  "name": "Synternet Token",
   "address": "0xda987c655ebc38c801db64a8608bc1aa56cd9a31",
   "decimals": 18,
   "type": "ERC20",

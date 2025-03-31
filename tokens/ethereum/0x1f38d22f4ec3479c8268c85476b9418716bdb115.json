@@ -1,8 +1,8 @@
 {
-  "symbol": "meh",
+  "symbol": "MEH",
   "name": "Meh",
   "address": "0x1f38d22f4ec3479c8268c85476b9418716bdb115",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51393/thumb/IMG_3247.jpeg?1731010993",

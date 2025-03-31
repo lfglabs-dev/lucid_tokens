@@ -1,6 +1,6 @@
 {
-  "symbol": "legion",
-  "name": "Legion",
+  "symbol": "LEGION",
+  "name": "LEGION",
   "address": "0xb2a25f7d864636e44bc1bf7a316897652bf07463",
   "decimals": 18,
   "type": "ERC20",

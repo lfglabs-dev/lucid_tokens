@@ -1,8 +1,8 @@
 {
-  "symbol": "mma",
+  "symbol": "MMA",
   "name": "Meme Alliance",
   "address": "0x9b3a8159e119eb09822115ae08ee1526849e1116",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33765/thumb/MA_CircleLogo_200x200.png?1702967936",

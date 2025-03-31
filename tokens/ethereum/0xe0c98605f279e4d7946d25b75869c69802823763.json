@@ -1,6 +1,6 @@
 {
-  "symbol": "re7wbtc",
-  "name": "Re7 WBTC Morpho Vault",
+  "symbol": "Re7WBTC",
+  "name": "Re7 WBTC",
   "address": "0xe0c98605f279e4d7946d25b75869c69802823763",
   "decimals": 18,
   "type": "ERC20",

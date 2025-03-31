@@ -1,8 +1,8 @@
 {
-  "symbol": "ausdt",
-  "name": "Aave USDT",
+  "symbol": "aUSDT",
+  "name": "Aave interest bearing USDT",
   "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14243/thumb/aUSDT.78f5faae.png?1615528400",

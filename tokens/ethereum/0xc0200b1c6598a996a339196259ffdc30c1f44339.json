@@ -1,8 +1,8 @@
 {
-  "symbol": "kek",
-  "name": "El Risitas",
+  "symbol": "KEK",
+  "name": "EI Risitas",
   "address": "0xc0200b1c6598a996a339196259ffdc30c1f44339",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33746/thumb/IMG_3232.jpeg?1702938263",

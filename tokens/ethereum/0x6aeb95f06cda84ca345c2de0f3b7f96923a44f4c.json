@@ -1,8 +1,8 @@
 {
-  "symbol": "berry",
-  "name": "Rentberry",
+  "symbol": "BERRY",
+  "name": "Berry",
   "address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
-  "decimals": 18,
+  "decimals": 14,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1787/thumb/rentberry.png?1548608046",

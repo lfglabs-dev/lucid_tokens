@@ -1,6 +1,6 @@
 {
-  "symbol": "autumn",
-  "name": "Autumn",
+  "symbol": "AUTUMN",
+  "name": "Autumn Token",
   "address": "0x4c3bae16c79c30eeb1004fb03c878d89695e3a99",
   "decimals": 18,
   "type": "ERC20",

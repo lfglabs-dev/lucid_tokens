@@ -1,6 +1,6 @@
 {
-  "symbol": "primate",
-  "name": "Primate",
+  "symbol": "PRIMATE",
+  "name": "PRIMATE",
   "address": "0x46e98ffe40e408ba6412beb670507e083c8b95ff",
   "decimals": 18,
   "type": "ERC20",

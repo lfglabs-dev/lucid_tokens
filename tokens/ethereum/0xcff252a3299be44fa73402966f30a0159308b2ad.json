@@ -1,8 +1,8 @@
 {
-  "symbol": "envoy",
+  "symbol": "ENVOY",
   "name": "Envoy A.I",
   "address": "0xcff252a3299be44fa73402966f30a0159308b2ad",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52749/thumb/Ao1dYC8L_400x400.jpg?1734187970",

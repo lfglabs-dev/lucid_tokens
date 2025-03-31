@@ -1,6 +1,6 @@
 {
-  "symbol": "wsb",
-  "name": "WallStreetBets DApp",
+  "symbol": "WSB",
+  "name": "pTokens WSB",
   "address": "0xe1590a6fa0cff9c960181cb77d8a873601772f64",
   "decimals": 18,
   "type": "ERC20",

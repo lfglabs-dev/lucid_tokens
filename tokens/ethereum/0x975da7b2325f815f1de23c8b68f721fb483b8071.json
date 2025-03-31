@@ -1,6 +1,6 @@
 {
-  "symbol": "loopin",
-  "name": "LooPIN Network",
+  "symbol": "LOOPIN",
+  "name": "LooPIN",
   "address": "0x975da7b2325f815f1de23c8b68f721fb483b8071",
   "decimals": 18,
   "type": "ERC20",

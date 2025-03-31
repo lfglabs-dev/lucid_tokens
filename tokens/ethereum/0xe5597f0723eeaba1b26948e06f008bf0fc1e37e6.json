@@ -1,6 +1,6 @@
 {
   "symbol": "gm",
-  "name": "GM",
+  "name": "gm",
   "address": "0xe5597f0723eeaba1b26948e06f008bf0fc1e37e6",
   "decimals": 18,
   "type": "ERC20",

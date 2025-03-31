@@ -1,6 +1,6 @@
 {
-  "symbol": "tst",
-  "name": "Teleport System Token",
+  "symbol": "TST",
+  "name": "TeleportSystemToken",
   "address": "0x0828096494ad6252f0f853abfc5b6ec9dfe9fdad",
   "decimals": 18,
   "type": "ERC20",

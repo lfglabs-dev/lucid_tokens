@@ -1,6 +1,6 @@
 {
-  "symbol": "hopr",
-  "name": "HOPR",
+  "symbol": "HOPR",
+  "name": "HOPR Token",
   "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
   "decimals": 18,
   "type": "ERC20",

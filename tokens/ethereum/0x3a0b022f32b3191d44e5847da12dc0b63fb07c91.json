@@ -1,6 +1,6 @@
 {
-  "symbol": "spellfire",
-  "name": "Spellfire",
+  "symbol": "SPELLFIRE",
+  "name": "SPELLFIRE Token",
   "address": "0x3a0b022f32b3191d44e5847da12dc0b63fb07c91",
   "decimals": 18,
   "type": "ERC20",

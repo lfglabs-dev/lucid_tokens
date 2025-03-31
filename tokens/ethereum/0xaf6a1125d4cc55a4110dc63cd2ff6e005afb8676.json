@@ -1,6 +1,6 @@
 {
-  "symbol": "punk",
-  "name": "PunkCity",
+  "symbol": "WPUNK",
+  "name": "Wrapped Punk",
   "address": "0xaf6a1125d4cc55a4110dc63cd2ff6e005afb8676",
   "decimals": 18,
   "type": "ERC20",

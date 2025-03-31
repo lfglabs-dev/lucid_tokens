@@ -1,8 +1,8 @@
 {
-  "symbol": "niox",
+  "symbol": "NIOX",
   "name": "Autonio",
   "address": "0xc813ea5e3b48bebeedb796ab42a30c5599b01740",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1122/thumb/NewLogo.png?1597298450",

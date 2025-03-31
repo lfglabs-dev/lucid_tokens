@@ -1,8 +1,8 @@
 {
-  "symbol": "usv",
-  "name": "Atlas USV",
+  "symbol": "USV",
+  "name": "Universal Store of Value",
   "address": "0x88536c9b2c4701b8db824e6a16829d5b5eb84440",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/22066/thumb/7iUyjg5t.png?1640744823",

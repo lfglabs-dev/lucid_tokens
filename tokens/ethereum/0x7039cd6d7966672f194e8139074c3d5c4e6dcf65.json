@@ -1,8 +1,8 @@
 {
-  "symbol": "strump",
+  "symbol": "STRUMP",
   "name": "Super Trump",
   "address": "0x7039cd6d7966672f194e8139074c3d5c4e6dcf65",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36083/thumb/Super_Trump.png?1710418492",

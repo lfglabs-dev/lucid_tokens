@@ -1,8 +1,8 @@
 {
-  "symbol": "ybtc",
-  "name": "pSTAKE Staked Bitcoin",
+  "symbol": "YBTC",
+  "name": "YBTC",
   "address": "0x4b6d20acfc764ef6b60f0339e7cbad83284e7d6e",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53716/thumb/photo_2025-01-09_22.22.19.jpeg?1737093902",

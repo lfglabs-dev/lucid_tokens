@@ -1,6 +1,6 @@
 {
-  "symbol": "matrix",
-  "name": "Matrix.Win",
+  "symbol": "MATRIX",
+  "name": "MATRIX.WIN",
   "address": "0xf2fc894381792ded27a7f08d9f0f246363cbe1ea",
   "decimals": 18,
   "type": "ERC20",

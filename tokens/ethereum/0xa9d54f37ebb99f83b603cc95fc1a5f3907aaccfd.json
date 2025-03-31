@@ -1,6 +1,6 @@
 {
-  "symbol": "pika",
-  "name": "Pikaboss",
+  "symbol": "PIKA",
+  "name": "Pikachu",
   "address": "0xa9d54f37ebb99f83b603cc95fc1a5f3907aaccfd",
   "decimals": 18,
   "type": "ERC20",

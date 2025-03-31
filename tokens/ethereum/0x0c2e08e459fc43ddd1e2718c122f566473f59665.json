@@ -1,8 +1,8 @@
 {
-  "symbol": "burger",
+  "symbol": "BURGER",
   "name": "Crypto Burger",
   "address": "0x0c2e08e459fc43ddd1e2718c122f566473f59665",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50266/thumb/BURGER.jpg?1726740734",

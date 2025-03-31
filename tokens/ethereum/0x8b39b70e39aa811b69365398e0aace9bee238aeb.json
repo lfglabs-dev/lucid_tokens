@@ -1,6 +1,6 @@
 {
-  "symbol": "pkf",
-  "name": "Red Kite",
+  "symbol": "PKF",
+  "name": "PolkaFoundry",
   "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
   "decimals": 18,
   "type": "ERC20",

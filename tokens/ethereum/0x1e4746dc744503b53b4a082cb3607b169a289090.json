@@ -1,6 +1,6 @@
 {
-  "symbol": "ipor",
-  "name": "IPOR",
+  "symbol": "IPOR",
+  "name": "IPOR Token",
   "address": "0x1e4746dc744503b53b4a082cb3607b169a289090",
   "decimals": 18,
   "type": "ERC20",

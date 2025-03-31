@@ -1,6 +1,6 @@
 {
-  "symbol": "grg",
-  "name": "RigoBlock",
+  "symbol": "GRG",
+  "name": "Rigo Token",
   "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
   "decimals": 18,
   "type": "ERC20",

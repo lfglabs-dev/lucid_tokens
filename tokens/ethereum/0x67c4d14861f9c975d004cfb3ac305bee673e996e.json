@@ -1,8 +1,8 @@
 {
-  "symbol": "landwu",
-  "name": "Land Wu",
+  "symbol": "LANDWU",
+  "name": "Landwu",
   "address": "0x67c4d14861f9c975d004cfb3ac305bee673e996e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38677/thumb/LandWu-Gold-PFP-CG.png?1718309238",

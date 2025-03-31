@@ -1,8 +1,8 @@
 {
-  "symbol": "hoodrat",
+  "symbol": "HOODRAT",
   "name": "Hoodrat",
   "address": "0xdee6cdd28da9f51e3a8421395973894a884f3b2d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53059/thumb/Hoodrat_CTO.png?1735159169",

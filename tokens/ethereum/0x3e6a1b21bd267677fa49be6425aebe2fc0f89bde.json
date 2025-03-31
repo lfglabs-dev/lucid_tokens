@@ -1,6 +1,6 @@
 {
-  "symbol": "qbio",
-  "name": "Quantum Biology DAO",
+  "symbol": "QBIO",
+  "name": "Quantum Biology DAO Token",
   "address": "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde",
   "decimals": 18,
   "type": "ERC20",

@@ -1,5 +1,5 @@
 {
-  "symbol": "loot",
+  "symbol": "$LOOT",
   "name": "LootBot",
   "address": "0xb478c6245e3d85d6ec3486b62ea872128d562541",
   "decimals": 18,

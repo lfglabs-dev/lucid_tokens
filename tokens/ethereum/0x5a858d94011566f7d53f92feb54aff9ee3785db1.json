@@ -1,8 +1,8 @@
 {
-  "symbol": "fefe",
+  "symbol": "FEFE",
   "name": "Fefe",
   "address": "0x5a858d94011566f7d53f92feb54aff9ee3785db1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "missing_thumb.png",

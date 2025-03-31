@@ -1,6 +1,6 @@
 {
-  "symbol": "aaave",
-  "name": "Aave AAVE",
+  "symbol": "aAAVE",
+  "name": "Aave interest bearing AAVE",
   "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "lmeow",
+  "symbol": "LMEOW",
   "name": "lmeow",
   "address": "0x1ae7e1d0ce06364ced9ad58225a1705b3e5db92b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35794/thumb/Untitled_design_200%281%29.png?1709801192",

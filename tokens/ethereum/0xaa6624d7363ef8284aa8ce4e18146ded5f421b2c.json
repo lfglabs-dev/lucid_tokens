@@ -1,6 +1,6 @@
 {
   "symbol": "0dog",
-  "name": "Bitcoin Dogs",
+  "name": "0dog",
   "address": "0xaa6624d7363ef8284aa8ce4e18146ded5f421b2c",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "satoz",
+  "symbol": "SATOZ",
   "name": "Satozhi",
   "address": "0x845e2e8b42dced7dedcdba9bde32c9e338224f97",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14786/thumb/0GeSrIaQ_400x400.jpg?1618416420",

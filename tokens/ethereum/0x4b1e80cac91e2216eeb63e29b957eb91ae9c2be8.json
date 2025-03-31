@@ -1,6 +1,6 @@
 {
-  "symbol": "jup",
-  "name": "Jupiter Project",
+  "symbol": "JUP",
+  "name": "Jupiter",
   "address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
   "decimals": 18,
   "type": "ERC20",

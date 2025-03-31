@@ -1,6 +1,6 @@
 {
-  "symbol": "wlyx",
-  "name": "Wrapped LYX (SigmaSwap)",
+  "symbol": "wLYX",
+  "name": "Wrapped LYX",
   "address": "0x0808e6c4400bde1d70db0d02170b67de05e07ef5",
   "decimals": 18,
   "type": "ERC20",

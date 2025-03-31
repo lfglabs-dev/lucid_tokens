@@ -1,8 +1,8 @@
 {
-  "symbol": "keke",
+  "symbol": "KEKE",
   "name": "KEK",
   "address": "0xf7168c8abb0ff80116413a8d95396bbdc318a3ff",
-  "decimals": 18,
+  "decimals": 7,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30172/thumb/KEKE.png?1683541095",

@@ -1,6 +1,6 @@
 {
-  "symbol": "hord",
-  "name": "Hord",
+  "symbol": "HORD",
+  "name": "HORD Token",
   "address": "0x43a96962254855f16b925556f9e97be436a43448",
   "decimals": 18,
   "type": "ERC20",

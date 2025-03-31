@@ -1,8 +1,8 @@
 {
-  "symbol": "xfund",
-  "name": "xFUND",
+  "symbol": "xFUND",
+  "name": "unification.com/xfund",
   "address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13770/thumb/xfund.png?1611697744",

@@ -1,6 +1,6 @@
 {
-  "symbol": "sama",
-  "name": "Moonsama",
+  "symbol": "SAMA",
+  "name": "SAMA",
   "address": "0xe04f47ff45576249bc5083dfdf987e03d0550113",
   "decimals": 18,
   "type": "ERC20",

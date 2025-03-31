@@ -1,6 +1,6 @@
 {
-  "symbol": "high",
-  "name": "Highstreet",
+  "symbol": "HIGH",
+  "name": "Highstreet token",
   "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
   "decimals": 18,
   "type": "ERC20",

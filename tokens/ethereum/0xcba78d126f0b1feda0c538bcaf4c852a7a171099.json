@@ -1,6 +1,6 @@
 {
-  "symbol": "moe",
-  "name": "MOE",
+  "symbol": "MOE",
+  "name": "MOE Token",
   "address": "0xcba78d126f0b1feda0c538bcaf4c852a7a171099",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "eng",
+  "symbol": "ENG",
   "name": "Enigma",
   "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1007/thumb/enigma-logo.png?1547034914",

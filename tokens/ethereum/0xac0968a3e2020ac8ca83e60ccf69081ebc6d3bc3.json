@@ -1,6 +1,6 @@
 {
-  "symbol": "cind",
-  "name": "Cindrum",
+  "symbol": "CIND",
+  "name": "CINDRUM",
   "address": "0xac0968a3e2020ac8ca83e60ccf69081ebc6d3bc3",
   "decimals": 18,
   "type": "ERC20",

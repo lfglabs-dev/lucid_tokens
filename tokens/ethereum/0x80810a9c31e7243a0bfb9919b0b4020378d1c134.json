@@ -1,8 +1,8 @@
 {
-  "symbol": "gop",
+  "symbol": "GOP",
   "name": "The Republican Party",
   "address": "0x80810a9c31e7243a0bfb9919b0b4020378d1c134",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51202/thumb/GOP_002.png?1730350658",

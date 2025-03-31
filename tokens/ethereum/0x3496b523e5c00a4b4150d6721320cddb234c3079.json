@@ -1,6 +1,6 @@
 {
-  "symbol": "num",
-  "name": "Numbers Protocol",
+  "symbol": "NUM",
+  "name": "NUM Token",
   "address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
   "decimals": 18,
   "type": "ERC20",

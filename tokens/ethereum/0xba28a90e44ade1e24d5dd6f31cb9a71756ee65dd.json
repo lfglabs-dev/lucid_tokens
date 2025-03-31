@@ -1,8 +1,8 @@
 {
-  "symbol": "gsfy",
+  "symbol": "GSFY",
   "name": "Gasify AI",
   "address": "0xba28a90e44ade1e24d5dd6f31cb9a71756ee65dd",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38152/thumb/Gasify_drop_clear_200_200.png?1716667959",

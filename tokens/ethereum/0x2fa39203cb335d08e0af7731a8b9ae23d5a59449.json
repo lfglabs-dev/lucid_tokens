@@ -1,6 +1,6 @@
 {
-  "symbol": "$scratch",
-  "name": "Scratch",
+  "symbol": "$SCRATCH",
+  "name": "$SCRATCH",
   "address": "0x2fa39203cb335d08e0af7731a8b9ae23d5a59449",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "iceland",
-  "name": "ICE LAND on ETH",
+  "symbol": "ICELAND",
+  "name": "Ice Land",
   "address": "0x420fbb6006fb251318414ffa530590c3d7618e33",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38808/thumb/ICELAND_1_%283%29.png?1719007395",

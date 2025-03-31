@@ -1,6 +1,6 @@
 {
-  "symbol": "dap",
-  "name": "DApp AI",
+  "symbol": "DAP",
+  "name": "dappAI",
   "address": "0xbf72ee725f9b06dc564324774801acebad061946",
   "decimals": 18,
   "type": "ERC20",

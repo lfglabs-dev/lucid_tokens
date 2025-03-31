@@ -1,8 +1,8 @@
 {
-  "symbol": "oggy",
-  "name": "Oggy Inu [ETH]",
+  "symbol": "OGGY",
+  "name": "Oggy Inu",
   "address": "0x7e877b99897d514da01bd1d177e693ec639961af",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32619/thumb/Oggy_logo_200x200.png?1698756117",

@@ -1,8 +1,8 @@
 {
-  "symbol": "dcnt",
+  "symbol": "DCNT",
   "name": "Decanect",
   "address": "0x4ce4c025692b3142dbde1cd432ef55b9a8d18701",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27309/thumb/200-x-200-jpeg.jpg?1663239875",

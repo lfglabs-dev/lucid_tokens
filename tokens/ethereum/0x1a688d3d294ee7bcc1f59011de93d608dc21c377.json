@@ -1,8 +1,8 @@
 {
-  "symbol": "uco",
-  "name": "Archethic",
+  "symbol": "UCO",
+  "name": "Archethic Universal Coin",
   "address": "0x1a688d3d294ee7bcc1f59011de93d608dc21c377",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12330/thumb/uco.png?1639550258",

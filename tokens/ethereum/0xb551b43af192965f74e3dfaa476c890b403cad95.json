@@ -1,8 +1,8 @@
 {
-  "symbol": "data",
-  "name": "DataBot",
+  "symbol": "DATA",
+  "name": "Data bot",
   "address": "0xb551b43af192965f74e3dfaa476c890b403cad95",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31508/thumb/Databot_LOGO_coingecko.png?1693361296",

@@ -1,8 +1,8 @@
 {
-  "symbol": "smart",
+  "symbol": "SMART",
   "name": "Smart AI",
   "address": "0xfe7290b932cd0d5aec29c57394e87cdaa41cc054",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37356/thumb/200x200.png?1714103604",

@@ -1,6 +1,6 @@
 {
-  "symbol": "mtn",
-  "name": "Medicalchain",
+  "symbol": "MTN",
+  "name": "MedToken",
   "address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
   "decimals": 18,
   "type": "ERC20",

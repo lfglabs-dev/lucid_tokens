@@ -1,8 +1,8 @@
 {
-  "symbol": "fun",
-  "name": "FUNToken",
+  "symbol": "FUN",
+  "name": "FunFair",
   "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/761/thumb/funfair.png?1592404368",

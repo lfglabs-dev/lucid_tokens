@@ -1,6 +1,6 @@
 {
-  "symbol": "$zkitty",
-  "name": "ZKitty Bot",
+  "symbol": "$ZKITTY",
+  "name": "ZKittyBot",
   "address": "0x7df18e4efd6e6f73cfb462937dac40fe42533016",
   "decimals": 18,
   "type": "ERC20",

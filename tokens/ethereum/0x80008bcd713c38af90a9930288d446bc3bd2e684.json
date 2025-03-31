@@ -1,6 +1,6 @@
 {
-  "symbol": "karate",
-  "name": "Karate Combat",
+  "symbol": "KARATE",
+  "name": "Karate",
   "address": "0x80008bcd713c38af90a9930288d446bc3bd2e684",
   "decimals": 18,
   "type": "ERC20",

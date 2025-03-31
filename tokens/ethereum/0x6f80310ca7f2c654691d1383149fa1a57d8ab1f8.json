@@ -1,6 +1,6 @@
 {
-  "symbol": "silo",
-  "name": "Silo Finance",
+  "symbol": "Silo",
+  "name": "Silo Governance Token",
   "address": "0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8",
   "decimals": 18,
   "type": "ERC20",

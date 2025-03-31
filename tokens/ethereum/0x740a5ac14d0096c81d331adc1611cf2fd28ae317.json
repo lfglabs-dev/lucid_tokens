@@ -1,8 +1,8 @@
 {
-  "symbol": "pleb",
+  "symbol": "PLEB",
   "name": "Plebz",
   "address": "0x740a5ac14d0096c81d331adc1611cf2fd28ae317",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36185/thumb/IMG_0130.jpeg?1710759784",

@@ -1,6 +1,6 @@
 {
-  "symbol": "tip",
-  "name": "Tipcoin",
+  "symbol": "TIP",
+  "name": "Tip",
   "address": "0x0176b898e92e814c06cc379e508ceb571f70bd40",
   "decimals": 18,
   "type": "ERC20",

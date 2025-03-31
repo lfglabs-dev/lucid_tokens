@@ -1,6 +1,6 @@
 {
-  "symbol": "ultra",
-  "name": "ULTRA",
+  "symbol": "ULTRA",
+  "name": "Prisma ULTRA USD",
   "address": "0x35282d87011f87508d457f08252bc5bfa52e10a0",
   "decimals": 18,
   "type": "ERC20",

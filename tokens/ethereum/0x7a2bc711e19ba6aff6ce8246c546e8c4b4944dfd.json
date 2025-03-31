@@ -1,8 +1,8 @@
 {
-  "symbol": "waxe",
-  "name": "WAXE",
+  "symbol": "WAXE",
+  "name": "WAX Economic Token",
   "address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13508/thumb/waxe_logo.png?1609232755",

@@ -1,6 +1,6 @@
 {
-  "symbol": "dss",
-  "name": "Defi Shopping Stake",
+  "symbol": "DSS",
+  "name": "DssToken",
   "address": "0x213c53c96a01a89e6dcc5683cf16473203e17513",
   "decimals": 18,
   "type": "ERC20",

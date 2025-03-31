@@ -1,8 +1,8 @@
 {
-  "symbol": "poppy",
+  "symbol": "POPPY",
   "name": "Poppy",
   "address": "0xca4f53e6117623992126a9a45ce61682fe8678df",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53418/thumb/photo_2025-01-06_17-20-33.jpg?1736353232",

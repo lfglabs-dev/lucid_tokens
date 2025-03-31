@@ -1,8 +1,8 @@
 {
-  "symbol": "goldcat",
+  "symbol": "GOLDCAT",
   "name": "GOLD CAT",
   "address": "0x607496f14918891594177c24a983e901c1896e63",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37268/thumb/zzUr8L_n_400x400.jpg?1713886460",

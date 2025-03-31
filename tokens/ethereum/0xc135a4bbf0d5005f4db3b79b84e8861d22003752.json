@@ -1,8 +1,8 @@
 {
-  "symbol": "titan",
+  "symbol": "TITAN",
   "name": "Titan",
   "address": "0xc135a4bbf0d5005f4db3b79b84e8861d22003752",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50371/thumb/1000326830.jpg?1727371869",

@@ -1,6 +1,6 @@
 {
-  "symbol": "wom",
-  "name": "Wombat Exchange",
+  "symbol": "WOM",
+  "name": "Wombat Token",
   "address": "0xc0b314a8c08637685fc3dafc477b92028c540cfb",
   "decimals": 18,
   "type": "ERC20",

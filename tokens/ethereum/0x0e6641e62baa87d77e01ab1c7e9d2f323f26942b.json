@@ -1,6 +1,6 @@
 {
-  "symbol": "aset",
-  "name": "AssetLink",
+  "symbol": "ASET",
+  "name": "AssetLink Token",
   "address": "0x0e6641e62baa87d77e01ab1c7e9d2f323f26942b",
   "decimals": 18,
   "type": "ERC20",

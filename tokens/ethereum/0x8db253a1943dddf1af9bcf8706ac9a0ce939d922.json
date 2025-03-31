@@ -1,6 +1,6 @@
 {
-  "symbol": "unb",
-  "name": "Unbound Finance",
+  "symbol": "UNB",
+  "name": "Unbound",
   "address": "0x8db253a1943dddf1af9bcf8706ac9a0ce939d922",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "jrt",
-  "name": "Jarvis Reward",
+  "symbol": "JRT",
+  "name": "Jarvis Reward Token",
   "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
   "decimals": 18,
   "type": "ERC20",

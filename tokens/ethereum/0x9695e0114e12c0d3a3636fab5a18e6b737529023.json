@@ -1,6 +1,6 @@
 {
-  "symbol": "dfyn",
-  "name": "Dfyn Network",
+  "symbol": "DFYN",
+  "name": "DFYN Token",
   "address": "0x9695e0114e12c0d3a3636fab5a18e6b737529023",
   "decimals": 18,
   "type": "ERC20",

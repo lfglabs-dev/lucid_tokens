@@ -1,6 +1,6 @@
 {
-  "symbol": "lshare",
-  "name": "LIF3 LSHARE",
+  "symbol": "LSHARE",
+  "name": "LSHARE",
   "address": "0x8e01397163b21f64cec1f06ca6cc7d9aa8f718e9",
   "decimals": 18,
   "type": "ERC20",

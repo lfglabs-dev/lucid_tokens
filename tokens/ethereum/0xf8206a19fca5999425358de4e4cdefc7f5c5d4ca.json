@@ -1,8 +1,8 @@
 {
-  "symbol": "wigl",
-  "name": "Wigl",
+  "symbol": "WIGL",
+  "name": "WIGL",
   "address": "0xf8206a19fca5999425358de4e4cdefc7f5c5d4ca",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50194/thumb/token-wigl-circle-200x200.png?1726223557",

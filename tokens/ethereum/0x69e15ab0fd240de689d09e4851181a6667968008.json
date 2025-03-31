@@ -1,8 +1,8 @@
 {
-  "symbol": "pepe",
+  "symbol": "PEPE",
   "name": "El Sapo Pepe",
   "address": "0x69e15ab0fd240de689d09e4851181a6667968008",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52841/thumb/El_Sapo_Pepe.jpg?1734469615",

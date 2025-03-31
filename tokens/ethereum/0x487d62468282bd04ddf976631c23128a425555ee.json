@@ -1,8 +1,8 @@
 {
-  "symbol": "upc",
+  "symbol": "UPC",
   "name": "UPCX",
   "address": "0x487d62468282bd04ddf976631c23128a425555ee",
-  "decimals": 18,
+  "decimals": 5,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33308/thumb/02_UPC_logo_RGB_black_200_200.png?1701409035",

@@ -1,6 +1,6 @@
 {
-  "symbol": "bdxn",
-  "name": "Bondex",
+  "symbol": "BDXN",
+  "name": "Bondex Token",
   "address": "0xbdbdbdd0c22888e63cb9098ad6d68439197cb091",
   "decimals": 18,
   "type": "ERC20",

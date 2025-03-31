@@ -1,6 +1,6 @@
 {
-  "symbol": "cow",
-  "name": "CoinWind",
+  "symbol": "COW",
+  "name": "CoinWind Token",
   "address": "0x34965f73cfa05bf8d8af37cb4af64fa950605ea8",
   "decimals": 18,
   "type": "ERC20",

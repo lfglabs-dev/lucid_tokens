@@ -1,6 +1,6 @@
 {
-  "symbol": "lfg",
-  "name": "Gamerse",
+  "symbol": "LFG",
+  "name": "LFG Token [via ChainPort.io]",
   "address": "0x969786c4a8884013d1c9ff18dcca2aedbbbfaa8f",
   "decimals": 18,
   "type": "ERC20",

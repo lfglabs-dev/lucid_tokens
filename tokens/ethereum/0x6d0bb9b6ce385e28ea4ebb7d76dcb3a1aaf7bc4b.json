@@ -1,6 +1,6 @@
 {
-  "symbol": "cret",
-  "name": "CREAT'OR",
+  "symbol": "CRET",
+  "name": "CREATOR",
   "address": "0x6d0bb9b6ce385e28ea4ebb7d76dcb3a1aaf7bc4b",
   "decimals": 18,
   "type": "ERC20",

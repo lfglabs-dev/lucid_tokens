@@ -1,8 +1,8 @@
 {
-  "symbol": "wsbc",
+  "symbol": "WSBC",
   "name": "WSB Classic",
   "address": "0xe46091dce9c67691bcf22768bbee0bc9e20d4beb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30165/thumb/pwlogo.51968540.png?1683531636",

@@ -1,6 +1,6 @@
 {
-  "symbol": "jpm.d",
-  "name": "Dinari JPM",
+  "symbol": "JPM.d",
+  "name": "JPMorgan Chase & Co. - Dinari",
   "address": "0x4026f916beda6ca2b347c44517a83f5efab3f569",
   "decimals": 18,
   "type": "ERC20",

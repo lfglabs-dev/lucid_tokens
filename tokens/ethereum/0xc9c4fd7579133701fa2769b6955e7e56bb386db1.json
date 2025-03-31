@@ -1,6 +1,6 @@
 {
-  "symbol": "brg",
-  "name": "Bridge Oracle",
+  "symbol": "BRG",
+  "name": "Bridge",
   "address": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
   "decimals": 18,
   "type": "ERC20",

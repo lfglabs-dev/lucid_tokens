@@ -1,8 +1,8 @@
 {
-  "symbol": "solve",
-  "name": "SOLVE",
+  "symbol": "SOLVE",
+  "name": "Healthcare Administration Token",
   "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1768/thumb/Solve.Token_logo_200_200_wiyhout_BG.png?1575869846",

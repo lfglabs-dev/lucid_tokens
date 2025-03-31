@@ -1,6 +1,6 @@
 {
-  "symbol": "rvf",
-  "name": "RocketX Exchange",
+  "symbol": "RVF",
+  "name": "RocketX Exchange V2",
   "address": "0x2fb652314c3d850e9049057bbe9813f1eee882d3",
   "decimals": 18,
   "type": "ERC20",

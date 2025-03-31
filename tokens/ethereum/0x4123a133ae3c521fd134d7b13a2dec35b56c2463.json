@@ -1,8 +1,8 @@
 {
-  "symbol": "open",
-  "name": "Open Custody Protocol",
+  "symbol": "QRDO",
+  "name": "Qredo Token",
   "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17541/thumb/qrdo.png?1630637735",

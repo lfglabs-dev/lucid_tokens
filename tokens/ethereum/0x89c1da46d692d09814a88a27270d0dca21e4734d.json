@@ -1,8 +1,8 @@
 {
-  "symbol": "gm",
-  "name": "GM Frens",
+  "symbol": "GM",
+  "name": "GM",
   "address": "0x89c1da46d692d09814a88a27270d0dca21e4734d",
-  "decimals": 18,
+  "decimals": 10,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50619/thumb/ovgVM9qf_400x400.jpg?1728490970",

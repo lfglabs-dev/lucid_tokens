@@ -1,8 +1,8 @@
 {
-  "symbol": "bsl",
+  "symbol": "BSL",
   "name": "BankSocial",
   "address": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15738/thumb/banksocial_small.png?1621685752",

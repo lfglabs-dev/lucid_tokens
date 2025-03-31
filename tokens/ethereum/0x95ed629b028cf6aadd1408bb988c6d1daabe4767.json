@@ -1,8 +1,8 @@
 {
-  "symbol": "dorky",
+  "symbol": "DORKY",
   "name": "Dork Lord",
   "address": "0x95ed629b028cf6aadd1408bb988c6d1daabe4767",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51191/thumb/Dork_lord_Logo_200X_%283%29.png?1730314832",

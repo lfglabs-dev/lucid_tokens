@@ -1,6 +1,6 @@
 {
-  "symbol": "jarvis",
-  "name": "Jarvis",
+  "symbol": "JARVIS",
+  "name": "JARVIS",
   "address": "0xbd8fdda057de7e0162b7a386bec253844b5e07a5",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "btco.d",
-  "name": "Dinari BTCO",
+  "symbol": "BTCO.d",
+  "name": "Invesco Galaxy Bitcoin ETF - Dinari",
   "address": "0x0c7ec64a7b3416bc3578e02d4b1e5763da756183",
   "decimals": 18,
   "type": "ERC20",

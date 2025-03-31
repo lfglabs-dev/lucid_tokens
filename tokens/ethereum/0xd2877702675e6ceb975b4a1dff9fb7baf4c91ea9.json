@@ -1,6 +1,6 @@
 {
-  "symbol": "lunc",
-  "name": "Wrapped Terra Classic",
+  "symbol": "LUNA",
+  "name": "Wrapped LUNA Token",
   "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
   "decimals": 18,
   "type": "ERC20",

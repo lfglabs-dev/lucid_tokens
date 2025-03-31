@@ -1,8 +1,8 @@
 {
-  "symbol": "$node",
+  "symbol": "NODE",
   "name": "NodelyAI",
   "address": "0xff284f2e8cce4cd2f4537d8a9369482b545908fb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50518/thumb/200X200_LOGO.png?1728043815",

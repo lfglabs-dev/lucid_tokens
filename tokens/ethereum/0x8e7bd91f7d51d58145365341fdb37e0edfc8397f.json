@@ -1,8 +1,8 @@
 {
-  "symbol": "magapepe",
-  "name": "MAGA PEPE (ETH)",
+  "symbol": "MAGAPEPE",
+  "name": "MAGA PEPE",
   "address": "0x8e7bd91f7d51d58145365341fdb37e0edfc8397f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38420/thumb/MAGA_PEPE.jpg?1717481617",

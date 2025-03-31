@@ -1,6 +1,6 @@
 {
-  "symbol": "abpt",
-  "name": "Aave Balancer Pool Token",
+  "symbol": "ABPT",
+  "name": "Aave Balance Pool Token",
   "address": "0x41a08648c3766f9f9d85598ff102a08f4ef84f84",
   "decimals": 18,
   "type": "ERC20",

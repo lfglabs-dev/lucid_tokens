@@ -1,6 +1,6 @@
 {
-  "symbol": "frc",
-  "name": "Force",
+  "symbol": "FRC",
+  "name": "FORCE",
   "address": "0x58083b54013631bacc0bbb6d4efa543fee1d9ce0",
   "decimals": 18,
   "type": "ERC20",

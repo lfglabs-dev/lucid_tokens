@@ -1,8 +1,8 @@
 {
-  "symbol": "day",
-  "name": "Dayhub",
+  "symbol": "DAY",
+  "name": "Day",
   "address": "0x2282c726f54c93193e6b8e5bf1b82303dc11d36e",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52722/thumb/dayhub_logo_nbc_200x200.png?1734098049",

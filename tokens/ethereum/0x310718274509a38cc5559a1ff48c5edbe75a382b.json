@@ -1,6 +1,6 @@
 {
-  "symbol": "moeth",
-  "name": "Eigenpie oETH",
+  "symbol": "mOETH",
+  "name": "mOETH",
   "address": "0x310718274509a38cc5559a1ff48c5edbe75a382b",
   "decimals": 18,
   "type": "ERC20",

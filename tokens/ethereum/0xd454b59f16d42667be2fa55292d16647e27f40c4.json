@@ -1,8 +1,8 @@
 {
-  "symbol": "xprt",
-  "name": "Persistence One",
+  "symbol": "XPRT",
+  "name": "XPRT native asset",
   "address": "0xd454b59f16d42667be2fa55292d16647e27f40c4",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14582/thumb/512_Light.png?1617149658",

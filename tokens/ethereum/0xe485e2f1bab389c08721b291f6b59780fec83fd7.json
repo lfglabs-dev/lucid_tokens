@@ -1,6 +1,6 @@
 {
-  "symbol": "shu",
-  "name": "Shutter",
+  "symbol": "SHU",
+  "name": "Shutter Token",
   "address": "0xe485e2f1bab389c08721b291f6b59780fec83fd7",
   "decimals": 18,
   "type": "ERC20",

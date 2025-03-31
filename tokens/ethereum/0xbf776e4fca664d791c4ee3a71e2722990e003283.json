@@ -1,6 +1,6 @@
 {
-  "symbol": "smty",
-  "name": "Smoothy",
+  "symbol": "SMTY",
+  "name": "SMTYToken",
   "address": "0xbf776e4fca664d791c4ee3a71e2722990e003283",
   "decimals": 18,
   "type": "ERC20",

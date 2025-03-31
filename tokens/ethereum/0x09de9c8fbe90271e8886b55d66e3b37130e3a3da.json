@@ -1,6 +1,6 @@
 {
-  "symbol": "ccl.d",
-  "name": "Dinari CCL",
+  "symbol": "CCL.d",
+  "name": "Carnival Corporation - Dinari",
   "address": "0x09de9c8fbe90271e8886b55d66e3b37130e3a3da",
   "decimals": 18,
   "type": "ERC20",

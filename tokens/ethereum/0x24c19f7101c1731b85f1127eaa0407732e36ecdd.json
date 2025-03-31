@@ -1,6 +1,6 @@
 {
-  "symbol": "sgtv2",
-  "name": "SharedStake Governance v2",
+  "symbol": "SGT",
+  "name": "Sharedstake.finance",
   "address": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd",
   "decimals": 18,
   "type": "ERC20",

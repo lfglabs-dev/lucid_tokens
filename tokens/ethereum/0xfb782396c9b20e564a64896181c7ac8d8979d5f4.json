@@ -1,6 +1,6 @@
 {
-  "symbol": "diver",
-  "name": "Divergence Protocol",
+  "symbol": "DIVER",
+  "name": "DivergenceProtocol",
   "address": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
   "decimals": 18,
   "type": "ERC20",

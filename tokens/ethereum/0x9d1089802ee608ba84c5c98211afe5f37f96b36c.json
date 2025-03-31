@@ -1,8 +1,8 @@
 {
-  "symbol": "fusdc",
+  "symbol": "fUSDC",
   "name": "Fluid USDC",
   "address": "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28471/thumb/fUSDC-200x200.png?1671002126",

@@ -1,6 +1,6 @@
 {
-  "symbol": "int",
-  "name": "Intrepid Token",
+  "symbol": "INT",
+  "name": "IntrepidToken",
   "address": "0xa2762ba628b962f93498d8893b6e4346140fe96d",
   "decimals": 18,
   "type": "ERC20",

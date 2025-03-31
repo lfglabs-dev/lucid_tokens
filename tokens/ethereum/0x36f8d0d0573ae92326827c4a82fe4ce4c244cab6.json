@@ -1,6 +1,6 @@
 {
-  "symbol": "madai",
-  "name": "Morpho-Aave Dai Stablecoin",
+  "symbol": "maDAI",
+  "name": "Morpho-Aave Dai Stablecoin Supply Vault",
   "address": "0x36f8d0d0573ae92326827c4a82fe4ce4c244cab6",
   "decimals": 18,
   "type": "ERC20",

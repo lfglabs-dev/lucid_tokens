@@ -1,8 +1,8 @@
 {
-  "symbol": "goat",
+  "symbol": "GOAT",
   "name": "Goatseus Maximus",
   "address": "0x5200b34e6a519f289f5258de4554ebd3db12e822",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50775/thumb/IMG_0422.jpeg?1729135116",

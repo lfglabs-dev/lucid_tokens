@@ -1,6 +1,6 @@
 {
-  "symbol": "motion",
-  "name": "MOTION",
+  "symbol": "MOTION",
+  "name": "Motion",
   "address": "0x1945e804b8a25b98ab140e58295404d768ca3f6b",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "sandy",
-  "name": "SANDY",
+  "symbol": "SANDY",
+  "name": "Sandy",
   "address": "0xc033f6932f71c6ff1de3177f90dff24b70e50618",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37196/thumb/photo_2024-04-16_15-20-28.jpg?1713677445",

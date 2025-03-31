@@ -1,6 +1,6 @@
 {
-  "symbol": "wzm",
-  "name": "Woozoo Music",
+  "symbol": "WZM",
+  "name": "WooZooMusic",
   "address": "0xd15a1a2a3211b58113e45809f05934252e34e2f8",
   "decimals": 18,
   "type": "ERC20",

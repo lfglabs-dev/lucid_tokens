@@ -1,6 +1,6 @@
 {
-  "symbol": "creo",
-  "name": "Creo Engine",
+  "symbol": "CREO",
+  "name": "CreoEngine",
   "address": "0xe636f94a71ec52cc61ef21787ae351ad832347b7",
   "decimals": 18,
   "type": "ERC20",

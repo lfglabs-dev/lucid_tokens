@@ -1,8 +1,8 @@
 {
-  "symbol": "csushi",
-  "name": "cSUSHI",
+  "symbol": "cSUSHI",
+  "name": "Compound Sushi Token",
   "address": "0x4b0181102a0112a2ef11abee5563bb4a3176c9d7",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17529/thumb/csushi.PNG?1628122792",

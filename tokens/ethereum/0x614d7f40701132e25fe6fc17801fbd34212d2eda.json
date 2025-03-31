@@ -1,8 +1,8 @@
 {
-  "symbol": "blast",
-  "name": "SafeBlast",
+  "symbol": "BLAST",
+  "name": "SafeBLAST",
   "address": "0x614d7f40701132e25fe6fc17801fbd34212d2eda",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15686/thumb/safeblast.png?1621561206",

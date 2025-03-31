@@ -1,6 +1,6 @@
 {
-  "symbol": "fnct",
-  "name": "Financie Token",
+  "symbol": "FNCT",
+  "name": "FiNANCiE Token",
   "address": "0x8af78f0c818302164f73b2365fe152c2d1fe80e1",
   "decimals": 18,
   "type": "ERC20",

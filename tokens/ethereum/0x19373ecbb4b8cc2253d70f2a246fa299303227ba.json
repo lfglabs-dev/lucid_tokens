@@ -1,6 +1,6 @@
 {
-  "symbol": "och",
-  "name": "Orchai",
+  "symbol": "OCH",
+  "name": "Orchai Token",
   "address": "0x19373ecbb4b8cc2253d70f2a246fa299303227ba",
   "decimals": 18,
   "type": "ERC20",

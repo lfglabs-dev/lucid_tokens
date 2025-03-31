@@ -1,6 +1,6 @@
 {
-  "symbol": "fcp",
-  "name": "Filipcoin",
+  "symbol": "FCP",
+  "name": "FILIPCOIN",
   "address": "0xb6dd77fd132dcaa10f1858734e838a0fa7431580",
   "decimals": 18,
   "type": "ERC20",

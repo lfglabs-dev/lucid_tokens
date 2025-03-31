@@ -1,8 +1,8 @@
 {
-  "symbol": "ebull",
+  "symbol": "EBULL",
   "name": "ETHEREUM IS GOOD",
   "address": "0x71297312753ea7a2570a5a3278ed70d9a75f4f44",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39868/thumb/ETHEREUM_IS_GOOD.png?1724485683",

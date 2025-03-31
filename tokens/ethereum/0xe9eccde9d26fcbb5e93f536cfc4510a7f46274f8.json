@@ -1,8 +1,8 @@
 {
-  "symbol": "infra",
+  "symbol": "INFRA",
   "name": "infraX",
   "address": "0xe9eccde9d26fcbb5e93f536cfc4510a7f46274f8",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36063/thumb/RENDR.png?1710405370",

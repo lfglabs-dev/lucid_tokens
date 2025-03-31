@@ -1,6 +1,6 @@
 {
-  "symbol": "stone",
-  "name": "StakeStone ETH",
+  "symbol": "STONE",
+  "name": "StakeStone Ether",
   "address": "0x7122985656e38bdc0302db86685bb972b145bd3c",
   "decimals": 18,
   "type": "ERC20",

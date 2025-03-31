@@ -1,6 +1,6 @@
 {
-  "symbol": "jdc",
-  "name": "JD Coin",
+  "symbol": "JDC",
+  "name": "JDCOIN",
   "address": "0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce",
   "decimals": 18,
   "type": "ERC20",

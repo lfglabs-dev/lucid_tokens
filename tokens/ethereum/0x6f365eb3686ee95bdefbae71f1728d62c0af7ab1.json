@@ -1,6 +1,6 @@
 {
-  "symbol": "aither",
-  "name": "Aither",
+  "symbol": "$AITHER",
+  "name": "Aither Protocol",
   "address": "0x6f365eb3686ee95bdefbae71f1728d62c0af7ab1",
   "decimals": 18,
   "type": "ERC20",

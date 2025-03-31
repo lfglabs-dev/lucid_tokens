@@ -1,8 +1,8 @@
 {
-  "symbol": "dec",
-  "name": "Dark Energy Crystals",
+  "symbol": "DEC",
+  "name": "DarkEnergyCrystals",
   "address": "0x9393fdc77090f31c7db989390d43f454b1a6e7f3",
-  "decimals": 18,
+  "decimals": 3,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12923/thumb/DEC_token.png?1603683753",

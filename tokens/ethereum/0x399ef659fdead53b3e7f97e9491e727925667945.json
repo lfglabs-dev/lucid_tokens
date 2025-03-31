@@ -1,6 +1,6 @@
 {
-  "symbol": "l1x",
-  "name": "Layer One X",
+  "symbol": "L1X",
+  "name": "L1X",
   "address": "0x399ef659fdead53b3e7f97e9491e727925667945",
   "decimals": 18,
   "type": "ERC20",

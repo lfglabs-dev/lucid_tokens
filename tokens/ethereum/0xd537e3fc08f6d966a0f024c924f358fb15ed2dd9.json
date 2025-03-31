@@ -1,8 +1,8 @@
 {
-  "symbol": "uhosu",
+  "symbol": "UHOSU",
   "name": "Uhosu",
   "address": "0xd537e3fc08f6d966a0f024c924f358fb15ed2dd9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50780/thumb/UHO%E3%80%80%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%80%80%E9%80%8F%E9%81%8E%E3%80%80%E7%A2%BA%E5%AE%9A.png?1729143789",

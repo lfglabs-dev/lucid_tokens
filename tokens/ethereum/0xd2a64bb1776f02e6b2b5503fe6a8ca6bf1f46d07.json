@@ -1,6 +1,6 @@
 {
-  "symbol": "wood.d",
-  "name": "Dinari WOOD",
+  "symbol": "WOOD.d",
+  "name": "iShares Global Timber & Forestry ETF - Dinari",
   "address": "0xd2a64bb1776f02e6b2b5503fe6a8ca6bf1f46d07",
   "decimals": 18,
   "type": "ERC20",

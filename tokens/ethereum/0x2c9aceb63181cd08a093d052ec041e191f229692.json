@@ -1,6 +1,6 @@
 {
-  "symbol": "anb",
-  "name": "Angryb",
+  "symbol": "ANB",
+  "name": "Angry Token",
   "address": "0x2c9aceb63181cd08a093d052ec041e191f229692",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "mfi",
-  "name": "Marginswap",
+  "symbol": "MFI",
+  "name": "MarginSwap",
   "address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
   "decimals": 18,
   "type": "ERC20",

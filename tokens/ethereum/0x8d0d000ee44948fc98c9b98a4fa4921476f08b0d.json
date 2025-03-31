@@ -1,6 +1,6 @@
 {
-  "symbol": "usd1",
-  "name": "USD1",
+  "symbol": "USD1",
+  "name": "World Liberty Financial USD",
   "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
   "decimals": 18,
   "type": "ERC20",

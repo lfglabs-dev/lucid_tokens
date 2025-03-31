@@ -1,6 +1,6 @@
 {
-  "symbol": "aammdai",
-  "name": "Aave AMM DAI",
+  "symbol": "aAmmDAI",
+  "name": "Aave AMM Market DAI",
   "address": "0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "agts",
+  "symbol": "AGTS",
   "name": "AgenTensor",
   "address": "0x55bd5f6a1caea02c4f1eae6119b2ac0babab2c9f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52287/thumb/IMG_20241129_101608_043.jpg?1732954477",

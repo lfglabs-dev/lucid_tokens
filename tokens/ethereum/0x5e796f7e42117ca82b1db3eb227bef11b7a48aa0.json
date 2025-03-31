@@ -1,6 +1,6 @@
 {
-  "symbol": "walrf.d",
-  "name": "Dinari WALRF",
+  "symbol": "WALRF.d",
+  "name": "MEGAWATT LITHM&BATT MTLS - Dinari",
   "address": "0x5e796f7e42117ca82b1db3eb227bef11b7a48aa0",
   "decimals": 18,
   "type": "ERC20",

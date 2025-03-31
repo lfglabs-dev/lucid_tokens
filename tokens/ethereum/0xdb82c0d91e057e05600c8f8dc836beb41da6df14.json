@@ -1,6 +1,6 @@
 {
-  "symbol": "sln",
-  "name": "Smart Layer Network",
+  "symbol": "SLN",
+  "name": "Smart Layer Network Token",
   "address": "0xdb82c0d91e057e05600c8f8dc836beb41da6df14",
   "decimals": 18,
   "type": "ERC20",

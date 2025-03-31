@@ -1,6 +1,6 @@
 {
-  "symbol": "oax",
-  "name": "OAX",
+  "symbol": "OAX",
+  "name": "openANX Token",
   "address": "0x701c244b988a513c945973defa05de933b23fe1d",
   "decimals": 18,
   "type": "ERC20",

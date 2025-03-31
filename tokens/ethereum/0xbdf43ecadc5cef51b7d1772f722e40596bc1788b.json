@@ -1,6 +1,6 @@
 {
-  "symbol": "sei",
-  "name": "LayerZero Bridged Sei",
+  "symbol": "SEI",
+  "name": "SEI",
   "address": "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b",
   "decimals": 18,
   "type": "ERC20",

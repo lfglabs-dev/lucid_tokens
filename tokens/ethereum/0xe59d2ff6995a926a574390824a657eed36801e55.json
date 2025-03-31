@@ -1,6 +1,6 @@
 {
-  "symbol": "aammuniaaveweth",
-  "name": "Aave AMM UniAAVEWETH",
+  "symbol": "aAmmUniAAVEWETH",
+  "name": "Aave AMM Market UniAAVEWETH",
   "address": "0xe59d2ff6995a926a574390824a657eed36801e55",
   "decimals": 18,
   "type": "ERC20",

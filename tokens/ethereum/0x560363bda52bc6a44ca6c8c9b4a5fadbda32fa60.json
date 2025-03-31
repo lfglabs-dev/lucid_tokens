@@ -1,6 +1,6 @@
 {
-  "symbol": "sfund",
-  "name": "Seedify.fund",
+  "symbol": "SFUND",
+  "name": "SeedifyFund",
   "address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
   "decimals": 18,
   "type": "ERC20",

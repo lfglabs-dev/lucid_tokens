@@ -1,6 +1,6 @@
 {
-  "symbol": "unn",
-  "name": "UNION Protocol Governance",
+  "symbol": "UNN",
+  "name": "UNION Protocol Governance Token",
   "address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
   "decimals": 18,
   "type": "ERC20",

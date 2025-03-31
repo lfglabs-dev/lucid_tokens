@@ -1,8 +1,8 @@
 {
-  "symbol": "lmr",
+  "symbol": "LMR",
   "name": "Lumerin",
   "address": "0x4b1d0b9f081468d780ca1d5d79132b64301085d1",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/24593/thumb/Lumerin-icon.png?1650688090",

@@ -1,6 +1,6 @@
 {
-  "symbol": "idleusdtsafe",
-  "name": "IdleUSDT (Risk Adjusted)",
+  "symbol": "idleUSDTSafe",
+  "name": "IdleUSDT v4 [Risk adjusted]",
   "address": "0x28fac5334c9f7262b3a3fe707e250e01053e07b5",
   "decimals": 18,
   "type": "ERC20",

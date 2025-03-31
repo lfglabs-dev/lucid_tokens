@@ -1,8 +1,8 @@
 {
-  "symbol": "ton",
-  "name": "Toncoin",
+  "symbol": "TONCOIN",
+  "name": "Wrapped TON Coin",
   "address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17980/thumb/ton.PNG?1630023132",

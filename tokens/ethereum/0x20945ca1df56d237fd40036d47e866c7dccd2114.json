@@ -1,6 +1,6 @@
 {
-  "symbol": "nsure",
-  "name": "Nsure Network",
+  "symbol": "Nsure",
+  "name": "Nsure Network Token",
   "address": "0x20945ca1df56d237fd40036d47e866c7dccd2114",
   "decimals": 18,
   "type": "ERC20",

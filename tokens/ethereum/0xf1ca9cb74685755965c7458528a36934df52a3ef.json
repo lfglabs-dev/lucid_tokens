@@ -1,6 +1,6 @@
 {
-  "symbol": "avinoc",
-  "name": "AVINOC",
+  "symbol": "AVINOC",
+  "name": "AVINOC Token",
   "address": "0xf1ca9cb74685755965c7458528a36934df52a3ef",
   "decimals": 18,
   "type": "ERC20",

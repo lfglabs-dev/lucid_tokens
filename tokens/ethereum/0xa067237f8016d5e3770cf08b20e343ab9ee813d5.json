@@ -1,8 +1,8 @@
 {
-  "symbol": "$grl",
+  "symbol": "GRL",
   "name": "Greelance",
   "address": "0xa067237f8016d5e3770cf08b20e343ab9ee813d5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31387/thumb/G-logo.jpg?1692760056",

@@ -1,8 +1,8 @@
 {
-  "symbol": "aicm",
-  "name": "AICM Marketplace",
+  "symbol": "AICM",
+  "name": "AI Crypto Marketplace",
   "address": "0x87904be82bc1c29e94a0b99474d183b4e08a7e47",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52484/thumb/IMG_6164.jpeg?1733427051",

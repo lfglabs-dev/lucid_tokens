@@ -1,8 +1,8 @@
 {
-  "symbol": "nina",
+  "symbol": "NINA",
   "name": "Nina",
   "address": "0xe94db607eba8f76a377d9bcc327c9856ed90fbde",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54353/thumb/1000161703.png?1739382520",

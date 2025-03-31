@@ -1,6 +1,6 @@
 {
-  "symbol": "pussy",
-  "name": "Pussy Financial",
+  "symbol": "PUSSY",
+  "name": "PUSSY token",
   "address": "0x9196e18bc349b1f64bc08784eae259525329a1ad",
   "decimals": 18,
   "type": "ERC20",

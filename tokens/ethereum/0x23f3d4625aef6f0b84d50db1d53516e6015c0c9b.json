@@ -1,6 +1,6 @@
 {
-  "symbol": "nuts",
-  "name": "Thetanuts Finance",
+  "symbol": "NUTS",
+  "name": "Thetanuts Finance Governance Token",
   "address": "0x23f3d4625aef6f0b84d50db1d53516e6015c0c9b",
   "decimals": 18,
   "type": "ERC20",

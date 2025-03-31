@@ -1,6 +1,6 @@
 {
-  "symbol": "brrr.d",
-  "name": "Dinari BRRR",
+  "symbol": "BRRR.d",
+  "name": "Valkyrie Bitcoin Fund - Dinari",
   "address": "0xf12a38e6e51913ea04d70dba97d7420a13fd7941",
   "decimals": 18,
   "type": "ERC20",

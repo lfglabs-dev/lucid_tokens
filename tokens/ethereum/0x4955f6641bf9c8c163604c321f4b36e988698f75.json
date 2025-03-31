@@ -1,8 +1,8 @@
 {
-  "symbol": "dogecast",
+  "symbol": "DOGECAST",
   "name": "Dogecast",
   "address": "0x4955f6641bf9c8c163604c321f4b36e988698f75",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51768/thumb/DogeCast_Logo.jpg?1731935881",

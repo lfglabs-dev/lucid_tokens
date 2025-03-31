@@ -1,6 +1,6 @@
 {
-  "symbol": "sbux.d",
-  "name": "Dinari SBUX",
+  "symbol": "SBUX.d",
+  "name": "Starbucks Corp - Dinari",
   "address": "0x86ccbf2471be7ebca2c2c92a12fcf7089a44b4df",
   "decimals": 18,
   "type": "ERC20",

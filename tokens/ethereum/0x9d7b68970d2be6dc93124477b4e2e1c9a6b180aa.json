@@ -1,8 +1,8 @@
 {
-  "symbol": "dede",
+  "symbol": "Dede",
   "name": "Dede",
   "address": "0x9d7b68970d2be6dc93124477b4e2e1c9a6b180aa",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30976/thumb/dd_%281%29.png?1689310321",

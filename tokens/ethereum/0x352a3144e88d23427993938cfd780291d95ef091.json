@@ -1,6 +1,6 @@
 {
-  "symbol": "moseth",
-  "name": "Eigenpie OsETH",
+  "symbol": "mOsETH",
+  "name": "mOsETH",
   "address": "0x352a3144e88d23427993938cfd780291d95ef091",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "bob",
-  "name": "BOB Token",
+  "symbol": "BOB",
+  "name": "BOB",
   "address": "0x7d8146cf21e8d7cbe46054e01588207b51198729",
   "decimals": 18,
   "type": "ERC20",

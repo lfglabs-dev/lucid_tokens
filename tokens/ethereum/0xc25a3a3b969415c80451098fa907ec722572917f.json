@@ -1,6 +1,6 @@
 {
-  "symbol": "scurve",
-  "name": "LP-sCurve",
+  "symbol": "crvPlain3andSUSD",
+  "name": "Curve.fi DAI/USDC/USDT/sUSD",
   "address": "0xc25a3a3b969415c80451098fa907ec722572917f",
   "decimals": 18,
   "type": "ERC20",

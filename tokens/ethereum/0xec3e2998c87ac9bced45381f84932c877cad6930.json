@@ -1,6 +1,6 @@
 {
-  "symbol": "mcd.d",
-  "name": "Dinari MCD",
+  "symbol": "MCD.d",
+  "name": "McDonald's Corporation - Dinari",
   "address": "0xec3e2998c87ac9bced45381f84932c877cad6930",
   "decimals": 18,
   "type": "ERC20",

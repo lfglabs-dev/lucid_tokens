@@ -1,8 +1,8 @@
 {
-  "symbol": "brett",
-  "name": "Brett ETH",
+  "symbol": "BRETT",
+  "name": "Brett",
   "address": "0x80ee5c641a8ffc607545219a3856562f56427fe9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36832/thumb/zD21_tw__400x400.jpg?1712559083",

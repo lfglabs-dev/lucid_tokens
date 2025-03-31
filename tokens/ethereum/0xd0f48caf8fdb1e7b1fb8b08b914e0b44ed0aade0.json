@@ -1,6 +1,6 @@
 {
-  "symbol": "gbtc.d",
-  "name": "Dinari GBTC",
+  "symbol": "GBTC.d",
+  "name": "Grayscale Bitcoin Trust (BTC) - Dinari",
   "address": "0xd0f48caf8fdb1e7b1fb8b08b914e0b44ed0aade0",
   "decimals": 18,
   "type": "ERC20",

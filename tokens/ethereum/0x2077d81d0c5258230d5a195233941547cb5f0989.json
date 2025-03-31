@@ -1,8 +1,8 @@
 {
-  "symbol": "trog",
+  "symbol": "TROG",
   "name": "Trog",
   "address": "0x2077d81d0c5258230d5a195233941547cb5f0989",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38386/thumb/TROG_200.png?1717396451",

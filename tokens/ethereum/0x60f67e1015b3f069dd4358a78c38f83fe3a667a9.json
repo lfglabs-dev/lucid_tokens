@@ -1,6 +1,6 @@
 {
-  "symbol": "route",
-  "name": "Router Protocol",
+  "symbol": "ROUTE",
+  "name": "Route",
   "address": "0x60f67e1015b3f069dd4358a78c38f83fe3a667a9",
   "decimals": 18,
   "type": "ERC20",

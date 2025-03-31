@@ -1,6 +1,6 @@
 {
-  "symbol": "ton",
-  "name": "TON Community",
+  "symbol": "TON",
+  "name": "TONToken",
   "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
   "decimals": 18,
   "type": "ERC20",

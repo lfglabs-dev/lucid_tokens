@@ -1,8 +1,8 @@
 {
-  "symbol": "root",
+  "symbol": "ROOT",
   "name": "The Root Network",
   "address": "0xa3d4bee77b05d4a0c943877558ce21a763c4fa29",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33122/thumb/6T1Tapl__400x400.jpg?1700740439",

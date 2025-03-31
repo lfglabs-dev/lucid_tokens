@@ -1,8 +1,8 @@
 {
-  "symbol": "coval",
-  "name": "Circuits of Value",
+  "symbol": "Coval",
+  "name": "CircuitsOfValue",
   "address": "0x3d658390460295fb963f54dc0899cfb1c30776df",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950",

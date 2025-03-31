@@ -1,6 +1,6 @@
 {
-  "symbol": "tune",
-  "name": "Bitune",
+  "symbol": "TUNE",
+  "name": "Bitune AI Platform Token",
   "address": "0x1fac00ccee478eced6a120a50ed2ab28ee7fe32b",
   "decimals": 18,
   "type": "ERC20",

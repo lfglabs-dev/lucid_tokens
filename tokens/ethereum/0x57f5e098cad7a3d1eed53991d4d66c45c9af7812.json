@@ -1,6 +1,6 @@
 {
-  "symbol": "wusdm",
-  "name": "Wrapped USDM",
+  "symbol": "wUSDM",
+  "name": "Wrapped Mountain Protocol USD",
   "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
   "decimals": 18,
   "type": "ERC20",

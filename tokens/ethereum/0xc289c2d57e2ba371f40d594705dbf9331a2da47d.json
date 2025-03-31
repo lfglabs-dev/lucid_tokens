@@ -1,8 +1,8 @@
 {
-  "symbol": "lolcat",
+  "symbol": "LOLCAT",
   "name": "First Meme",
   "address": "0xc289c2d57e2ba371f40d594705dbf9331a2da47d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50393/thumb/logo200x.png?1727583313",

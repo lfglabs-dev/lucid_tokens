@@ -1,8 +1,8 @@
 {
-  "symbol": "wusdr",
+  "symbol": "wUSDR",
   "name": "Wrapped USDR",
   "address": "0xc03b43d492d904406db2d7d57e67c7e8234ba752",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",

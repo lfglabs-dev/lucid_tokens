@@ -1,6 +1,6 @@
 {
-  "symbol": "gains",
-  "name": "Gains",
+  "symbol": "GAINS",
+  "name": "GAINS",
   "address": "0x056c1d42fb1326f57da7f19ebb7dda4673f1ff55",
   "decimals": 18,
   "type": "ERC20",

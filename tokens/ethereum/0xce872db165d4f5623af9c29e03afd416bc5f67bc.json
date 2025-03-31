@@ -1,6 +1,6 @@
 {
-  "symbol": "svn",
-  "name": "StakeVault.Network",
+  "symbol": "SVN",
+  "name": "StakeVault",
   "address": "0xce872db165d4f5623af9c29e03afd416bc5f67bc",
   "decimals": 18,
   "type": "ERC20",

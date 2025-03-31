@@ -1,6 +1,6 @@
 {
-  "symbol": "fwsteth",
-  "name": "Fluid Wrapped Staked ETH",
+  "symbol": "fwstETH",
+  "name": "Fluid Wrapped liquid staked Ether 2.0",
   "address": "0x2411802d8bea09be0af8fd8d08314a63e706b29c",
   "decimals": 18,
   "type": "ERC20",

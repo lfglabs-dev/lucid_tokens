@@ -1,8 +1,8 @@
 {
-  "symbol": "niza",
-  "name": "Niza Global",
+  "symbol": "Niza",
+  "name": "Niza",
   "address": "0xb58e26ac9cc14c0422c2b419b0ca555ee4dcb7cb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32328/thumb/NizaCoin-logo-transaprent.png?1697451581",

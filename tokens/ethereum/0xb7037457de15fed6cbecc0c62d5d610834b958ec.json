@@ -1,6 +1,6 @@
 {
-  "symbol": "whirl",
-  "name": "Whirl",
+  "symbol": "WHIRL",
+  "name": "Whirl Token",
   "address": "0xb7037457de15fed6cbecc0c62d5d610834b958ec",
   "decimals": 18,
   "type": "ERC20",

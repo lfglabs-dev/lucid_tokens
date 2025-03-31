@@ -1,6 +1,6 @@
 {
-  "symbol": "cat.d",
-  "name": "Dinari CAT",
+  "symbol": "CAT.d",
+  "name": "Caterpillar Inc. - Dinari",
   "address": "0x4cfba646ca9c05ad653fea94d485d15cfc449b2d",
   "decimals": 18,
   "type": "ERC20",

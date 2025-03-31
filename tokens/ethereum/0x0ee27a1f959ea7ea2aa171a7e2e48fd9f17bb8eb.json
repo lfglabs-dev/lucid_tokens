@@ -1,8 +1,8 @@
 {
-  "symbol": "grok",
-  "name": "First GROK AI",
+  "symbol": "GROK",
+  "name": "GROK",
   "address": "0x0ee27a1f959ea7ea2aa171a7e2e48fd9f17bb8eb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33005/thumb/Untitled_design_%2829%29.png?1700122635",

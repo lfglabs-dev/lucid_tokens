@@ -1,8 +1,8 @@
 {
-  "symbol": "sfai",
+  "symbol": "SFAI",
   "name": "SupportFi AI",
   "address": "0x544f7ba526dc4e835f674c585a478c142dd8cca1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52752/thumb/1000037322.jpg?1734190092",

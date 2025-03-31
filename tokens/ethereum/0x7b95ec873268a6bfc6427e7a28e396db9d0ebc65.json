@@ -1,6 +1,6 @@
 {
-  "symbol": "acrv",
-  "name": "Aave v3 CRV",
+  "symbol": "aEthCRV",
+  "name": "Aave Ethereum CRV",
   "address": "0x7b95ec873268a6bfc6427e7a28e396db9d0ebc65",
   "decimals": 18,
   "type": "ERC20",

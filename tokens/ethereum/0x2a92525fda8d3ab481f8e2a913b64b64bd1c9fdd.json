@@ -1,6 +1,6 @@
 {
-  "symbol": "welf",
-  "name": "WELF",
+  "symbol": "$WELF",
+  "name": "welf",
   "address": "0x2a92525fda8d3ab481f8e2a913b64b64bd1c9fdd",
   "decimals": 18,
   "type": "ERC20",

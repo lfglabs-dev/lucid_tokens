@@ -1,6 +1,6 @@
 {
-  "symbol": "xgpt",
-  "name": "X-GPT",
+  "symbol": "XGPT",
+  "name": "XGPT",
   "address": "0x51fe05eac152494908ff1ebbd50e116e960baf64",
   "decimals": 18,
   "type": "ERC20",

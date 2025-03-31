@@ -1,6 +1,6 @@
 {
-  "symbol": "wbmstr",
-  "name": "Wrapped bMSTR",
+  "symbol": "wbMSTR",
+  "name": "Wrapped Backed MicroStrategy Inc",
   "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
   "decimals": 18,
   "type": "ERC20",

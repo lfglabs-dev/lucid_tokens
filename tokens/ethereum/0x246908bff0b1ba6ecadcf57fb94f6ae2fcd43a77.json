@@ -1,8 +1,8 @@
 {
-  "symbol": "divi",
+  "symbol": "DIVI",
   "name": "Divi",
   "address": "0x246908bff0b1ba6ecadcf57fb94f6ae2fcd43a77",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1273/thumb/red_logomark.png?1590383789",

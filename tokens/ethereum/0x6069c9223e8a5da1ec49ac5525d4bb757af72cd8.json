@@ -1,6 +1,6 @@
 {
-  "symbol": "musk",
-  "name": "MUSK Gold",
+  "symbol": "MUSK",
+  "name": "MuskGold",
   "address": "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "mmai",
+  "symbol": "MMAI",
   "name": "MetamonkeyAi",
   "address": "0xaa0c5b3567fd1bac8a2a11eb16c3f81a49eea90f",
-  "decimals": 18,
+  "decimals": 7,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27208/thumb/metamonkey.jpeg?1662608488",

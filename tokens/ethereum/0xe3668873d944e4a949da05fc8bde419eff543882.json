@@ -1,6 +1,6 @@
 {
-  "symbol": "yprisma",
-  "name": "Yearn yPRISMA",
+  "symbol": "yPRISMA",
+  "name": "Yearn PRISMA",
   "address": "0xe3668873d944e4a949da05fc8bde419eff543882",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "bles",
-  "name": "Blind Boxes",
+  "symbol": "BLES",
+  "name": "Blind Boxes Token",
   "address": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
   "decimals": 18,
   "type": "ERC20",

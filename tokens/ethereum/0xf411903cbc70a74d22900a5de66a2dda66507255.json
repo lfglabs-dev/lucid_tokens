@@ -1,6 +1,6 @@
 {
-  "symbol": "vra",
-  "name": "Verasity",
+  "symbol": "VRA",
+  "name": "VERA",
   "address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
   "decimals": 18,
   "type": "ERC20",

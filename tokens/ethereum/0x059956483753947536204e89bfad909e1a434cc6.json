@@ -1,6 +1,6 @@
 {
-  "symbol": "ml",
-  "name": "Mintlayer",
+  "symbol": "ML",
+  "name": "MLTToken",
   "address": "0x059956483753947536204e89bfad909e1a434cc6",
   "decimals": 18,
   "type": "ERC20",

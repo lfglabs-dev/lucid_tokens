@@ -1,8 +1,8 @@
 {
-  "symbol": "ppc",
-  "name": "Peercoin",
+  "symbol": "wPPC",
+  "name": "WrappedPeercoin",
   "address": "0x044d078f1c86508e13328842cc75ac021b272958",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/4/thumb/peercoin-icon-green-transparent_6x.png?1547033591",

@@ -1,6 +1,6 @@
 {
-  "symbol": "achf",
-  "name": "Anchored Coins ACHF",
+  "symbol": "ACHF",
+  "name": "Anchored Coins CHF",
   "address": "0x653aab62056b92641116d63927de6141d780e596",
   "decimals": 18,
   "type": "ERC20",

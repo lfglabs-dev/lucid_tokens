@@ -1,6 +1,6 @@
 {
-  "symbol": "inj",
-  "name": "Injective",
+  "symbol": "INJ",
+  "name": "Injective Token",
   "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
   "decimals": 18,
   "type": "ERC20",

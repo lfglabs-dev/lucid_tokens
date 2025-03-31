@@ -1,8 +1,8 @@
 {
-  "symbol": "spctr",
+  "symbol": "SPCTR",
   "name": "Spectre",
   "address": "0xb29e475b69f843046a757747943c00dce8a3d982",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50466/thumb/photo_2024-09-20_21-27-40-removebg-preview_%281%29.png?1727844894",

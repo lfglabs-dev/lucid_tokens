@@ -1,8 +1,8 @@
 {
-  "symbol": "ustbl",
+  "symbol": "USTBL",
   "name": "Spiko US T-Bills Money Market Fund",
   "address": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
-  "decimals": 18,
+  "decimals": 5,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39666/thumb/USTB.png?1723541269",

@@ -1,6 +1,6 @@
 {
-  "symbol": "kiro",
-  "name": "KIRO",
+  "symbol": "KIRO",
+  "name": "Kirobo",
   "address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
   "decimals": 18,
   "type": "ERC20",

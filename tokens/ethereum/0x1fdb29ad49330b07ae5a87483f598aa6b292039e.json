@@ -1,6 +1,6 @@
 {
-  "symbol": "ltd",
-  "name": "Living the Dream",
+  "symbol": "LTD",
+  "name": "LivingTheDream",
   "address": "0x1fdb29ad49330b07ae5a87483f598aa6b292039e",
   "decimals": 18,
   "type": "ERC20",

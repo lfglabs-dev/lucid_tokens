@@ -1,8 +1,8 @@
 {
-  "symbol": "andy",
-  "name": "Andy on ETH",
+  "symbol": "ANDY",
+  "name": "ANDY",
   "address": "0x748509433ef209c4d11ada51347d5724a5da0ca5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37330/thumb/V7hhqYRg_311.png?1714028798",

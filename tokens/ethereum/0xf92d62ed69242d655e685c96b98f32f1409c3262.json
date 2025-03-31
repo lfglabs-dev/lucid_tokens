@@ -1,8 +1,8 @@
 {
-  "symbol": "a4m",
-  "name": "AlienForm",
+  "symbol": "A4M",
+  "name": "Alien Form",
   "address": "0xf92d62ed69242d655e685c96b98f32f1409c3262",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34129/thumb/CMC_CG_logo.png?1704175857",

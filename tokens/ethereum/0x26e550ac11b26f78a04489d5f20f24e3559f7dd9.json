@@ -1,8 +1,8 @@
 {
-  "symbol": "kekius",
+  "symbol": "KEKIUS",
   "name": "Kekius Maximus",
   "address": "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52791/thumb/Untitled_design.png?1734292733",

@@ -1,8 +1,8 @@
 {
-  "symbol": "xeroai",
+  "symbol": "XEROAI",
   "name": "Xero AI",
   "address": "0xc5842df170b8c8d09eb851a8d5db3dfa00669e3f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36539/thumb/Untitled_design_%285%29.png?1711708210",

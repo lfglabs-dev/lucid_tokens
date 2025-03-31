@@ -1,8 +1,8 @@
 {
-  "symbol": "boa",
-  "name": "BOSagora",
+  "symbol": "BOA",
+  "name": "BOSAGORA",
   "address": "0x746dda2ea243400d5a63e0700f190ab79f06489e",
-  "decimals": 18,
+  "decimals": 7,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9202/thumb/boaLogo.png?1565231346",

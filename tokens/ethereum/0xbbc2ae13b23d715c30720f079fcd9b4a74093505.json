@@ -1,6 +1,6 @@
 {
-  "symbol": "ern",
-  "name": "Ethernity Chain",
+  "symbol": "ERN",
+  "name": "@EthernityChain $ERN Token",
   "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
   "decimals": 18,
   "type": "ERC20",

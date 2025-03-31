@@ -1,8 +1,8 @@
 {
-  "symbol": "nsbt",
-  "name": "Neutrino System Base",
+  "symbol": "NSBT",
+  "name": "Neutrino System Base Token",
   "address": "0x9d79d5b61de59d882ce90125b18f74af650acb93",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13268/thumb/83005f7ab1.png?1606877707",

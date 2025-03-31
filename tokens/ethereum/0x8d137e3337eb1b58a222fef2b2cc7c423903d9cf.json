@@ -1,6 +1,6 @@
 {
-  "symbol": "sqgl",
-  "name": "SQGL Vault (NFTX)",
+  "symbol": "SQGL",
+  "name": "Chromie Squiggle",
   "address": "0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf",
   "decimals": 18,
   "type": "ERC20",

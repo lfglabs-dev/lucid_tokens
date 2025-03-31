@@ -1,8 +1,8 @@
 {
-  "symbol": "kochi",
-  "name": "Kochi Ken ETH",
+  "symbol": "KOCHI",
+  "name": "Kochi Ken",
   "address": "0x6fba952443be1de22232c824eb8d976b426b3c38",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38721/thumb/1000243344.jpg?1718476896",

@@ -1,6 +1,6 @@
 {
-  "symbol": "archive",
-  "name": "Chainback",
+  "symbol": "Chainback Web3 Internet Archive",
+  "name": "ARCHIVE",
   "address": "0xc7f950271d118a5bdf250dffc39128dcced8472c",
   "decimals": 18,
   "type": "ERC20",

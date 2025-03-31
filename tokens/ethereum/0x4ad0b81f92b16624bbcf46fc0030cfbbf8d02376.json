@@ -1,6 +1,6 @@
 {
-  "symbol": "udai",
-  "name": "Unagii Dai",
+  "symbol": "uDAI",
+  "name": "unagii_Dai Stablecoin",
   "address": "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376",
   "decimals": 18,
   "type": "ERC20",

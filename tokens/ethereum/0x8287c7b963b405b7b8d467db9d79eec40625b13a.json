@@ -1,6 +1,6 @@
 {
-  "symbol": "swingby",
-  "name": "Swingby",
+  "symbol": "SWINGBY",
+  "name": "SWINGBY token",
   "address": "0x8287c7b963b405b7b8d467db9d79eec40625b13a",
   "decimals": 18,
   "type": "ERC20",

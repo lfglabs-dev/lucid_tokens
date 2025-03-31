@@ -1,8 +1,8 @@
 {
-  "symbol": "rtbl",
+  "symbol": "rTBL",
   "name": "Rolling T-bill",
   "address": "0x526be1c610616be0e8e69893fc6766fddfbada61",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51979/thumb/rTBL_Icon.png?1732288771",

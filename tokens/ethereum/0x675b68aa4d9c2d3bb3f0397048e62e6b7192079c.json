@@ -1,8 +1,8 @@
 {
-  "symbol": "fuel",
-  "name": "Fuel Network",
+  "symbol": "FUEL",
+  "name": "FUEL",
   "address": "0x675b68aa4d9c2d3bb3f0397048e62e6b7192079c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29577/thumb/fuel.png?1679804392",

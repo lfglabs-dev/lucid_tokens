@@ -1,6 +1,6 @@
 {
-  "symbol": "dsla",
-  "name": "DSLA Protocol",
+  "symbol": "DSLA",
+  "name": "DSLA",
   "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
   "decimals": 18,
   "type": "ERC20",

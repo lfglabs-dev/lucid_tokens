@@ -1,8 +1,8 @@
 {
-  "symbol": "ccomp",
-  "name": "cCOMP",
+  "symbol": "cCOMP",
+  "name": "Compound Collateral",
   "address": "0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12840/thumb/1_z8UrVtod3bme4-J_pXAQQA_2x.png?1602936322",

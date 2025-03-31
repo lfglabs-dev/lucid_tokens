@@ -1,8 +1,8 @@
 {
-  "symbol": "skibidi",
+  "symbol": "Skibidi",
   "name": "Skibidi Dop Dop",
   "address": "0xfab13732ae25267a5f47f6f31660c9a82b5fa9f1",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52594/thumb/skibidi-logo-coingecko.png?1733727963",

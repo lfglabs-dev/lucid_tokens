@@ -1,8 +1,8 @@
 {
-  "symbol": "riz",
-  "name": "Rivalz Network",
+  "symbol": "RIZ",
+  "name": "Rivalz Token",
   "address": "0x058d411ab9911f90c74f471bdc9d2bb4cf9b309c",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54076/thumb/rivalz-emblem-smsq-color.png?1738175385",

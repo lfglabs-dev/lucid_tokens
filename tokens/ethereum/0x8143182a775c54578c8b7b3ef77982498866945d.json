@@ -1,8 +1,8 @@
 {
-  "symbol": "quil",
+  "symbol": "wQUIL",
   "name": "Wrapped QUIL",
   "address": "0x8143182a775c54578c8b7b3ef77982498866945d",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37978/thumb/Wrapped_QUIL.png?1716197853",

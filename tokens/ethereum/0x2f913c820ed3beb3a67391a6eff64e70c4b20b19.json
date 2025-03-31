@@ -1,6 +1,6 @@
 {
-  "symbol": "m-btc",
-  "name": "Merlin's Seal BTC",
+  "symbol": "M-BTC",
+  "name": "Merlin BTC",
   "address": "0x2f913c820ed3beb3a67391a6eff64e70c4b20b19",
   "decimals": 18,
   "type": "ERC20",

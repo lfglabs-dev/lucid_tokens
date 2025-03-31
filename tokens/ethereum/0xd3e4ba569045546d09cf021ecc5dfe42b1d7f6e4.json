@@ -1,6 +1,6 @@
 {
-  "symbol": "mnw",
-  "name": "Morpheus Network",
+  "symbol": "MNW",
+  "name": "Morpheus.Network",
   "address": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4",
   "decimals": 18,
   "type": "ERC20",

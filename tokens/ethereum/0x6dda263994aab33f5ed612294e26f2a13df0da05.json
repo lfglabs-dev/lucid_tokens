@@ -1,6 +1,6 @@
 {
-  "symbol": "qhub",
-  "name": "QHUB",
+  "symbol": "IQT",
+  "name": "IQ Protocol Token",
   "address": "0x6dda263994aab33f5ed612294e26f2a13df0da05",
   "decimals": 18,
   "type": "ERC20",

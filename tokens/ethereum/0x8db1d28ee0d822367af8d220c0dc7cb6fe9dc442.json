@@ -1,6 +1,6 @@
 {
-  "symbol": "ethpad",
-  "name": "ETHPad",
+  "symbol": "ETHPAD",
+  "name": "ETHPAD.network",
   "address": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
   "decimals": 18,
   "type": "ERC20",

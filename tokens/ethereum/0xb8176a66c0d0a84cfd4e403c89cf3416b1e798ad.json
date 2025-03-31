@@ -1,6 +1,6 @@
 {
-  "symbol": "bitbedr",
-  "name": "BITBEDR",
+  "symbol": "BEDR",
+  "name": "Bitcoin EDen Rich",
   "address": "0xb8176a66c0d0a84cfd4e403c89cf3416b1e798ad",
   "decimals": 18,
   "type": "ERC20",

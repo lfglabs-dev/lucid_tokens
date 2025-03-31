@@ -1,6 +1,6 @@
 {
-  "symbol": "mate",
-  "name": "Virtumate",
+  "symbol": "MATE",
+  "name": "VIRTUMATE",
   "address": "0x62126ec407eae34393ab88b1f5d57e8566e570be",
   "decimals": 18,
   "type": "ERC20",

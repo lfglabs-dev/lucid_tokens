@@ -1,8 +1,8 @@
 {
-  "symbol": "draggy",
-  "name": "Draggy CTO",
+  "symbol": "DRAGGY",
+  "name": "Draggy",
   "address": "0xd12a99dbc40036cec6f1b776dccd2d36f5953b94",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38851/thumb/IMG_2691.jpeg?1719213087",

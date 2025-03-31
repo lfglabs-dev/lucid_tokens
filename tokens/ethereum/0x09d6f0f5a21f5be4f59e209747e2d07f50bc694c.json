@@ -1,6 +1,6 @@
 {
-  "symbol": "nftfi",
-  "name": "NFTFI",
+  "symbol": "NFTFI",
+  "name": "NFTfi",
   "address": "0x09d6f0f5a21f5be4f59e209747e2d07f50bc694c",
   "decimals": 18,
   "type": "ERC20",

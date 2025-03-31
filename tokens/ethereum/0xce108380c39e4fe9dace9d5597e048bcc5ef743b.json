@@ -1,6 +1,6 @@
 {
-  "symbol": "blues",
-  "name": "Blueshift",
+  "symbol": "BLUES",
+  "name": "Blueshift Token",
   "address": "0xce108380c39e4fe9dace9d5597e048bcc5ef743b",
   "decimals": 18,
   "type": "ERC20",

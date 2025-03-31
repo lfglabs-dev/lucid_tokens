@@ -1,8 +1,8 @@
 {
-  "symbol": "dovu",
-  "name": "DOVU",
+  "symbol": "DOVU[eth]",
+  "name": "Dovu",
   "address": "0x2aeabde1ab736c59e9a19bed67681869eef39526",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31930/thumb/Dovu_Icon_Black_%281%29.png?1695711686",

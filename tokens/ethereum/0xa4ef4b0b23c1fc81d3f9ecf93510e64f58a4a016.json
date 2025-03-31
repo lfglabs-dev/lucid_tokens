@@ -1,6 +1,6 @@
 {
-  "symbol": "1mil",
-  "name": "1MillionNFTs",
+  "symbol": "1MIL",
+  "name": "1MILNFT",
   "address": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "a3a",
-  "name": "3A",
+  "symbol": "A3A",
+  "name": "3A Utility Token",
   "address": "0x3f817b28da4940f018c6b5c0a11c555ebb1264f9",
   "decimals": 18,
   "type": "ERC20",

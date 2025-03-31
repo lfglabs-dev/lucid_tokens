@@ -1,6 +1,6 @@
 {
-  "symbol": "bna",
-  "name": "BananaTok",
+  "symbol": "BNA",
+  "name": "Banana",
   "address": "0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8",
   "decimals": 18,
   "type": "ERC20",

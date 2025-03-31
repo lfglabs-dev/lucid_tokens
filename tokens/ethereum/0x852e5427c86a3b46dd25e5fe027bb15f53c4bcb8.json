@@ -1,8 +1,8 @@
 {
-  "symbol": "niifi",
-  "name": "NiiFi",
+  "symbol": "NIIFI",
+  "name": "NiiFiToken",
   "address": "0x852e5427c86a3b46dd25e5fe027bb15f53c4bcb8",
-  "decimals": 18,
+  "decimals": 15,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/16033/thumb/niifi.PNG?1622674467",

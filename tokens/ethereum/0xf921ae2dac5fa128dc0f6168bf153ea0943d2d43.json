@@ -1,8 +1,8 @@
 {
-  "symbol": "fire",
+  "symbol": "FIRE",
   "name": "Fire Protocol",
   "address": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13495/thumb/fire.jpg?1609165121",

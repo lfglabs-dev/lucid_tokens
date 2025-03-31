@@ -1,6 +1,6 @@
 {
-  "symbol": "ac",
-  "name": "ArtCoin",
+  "symbol": "AC",
+  "name": "ARTCOIN",
   "address": "0x1250b98cbde9f99f4c42dcdacee193221f17eb50",
   "decimals": 18,
   "type": "ERC20",

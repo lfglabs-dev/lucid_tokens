@@ -1,8 +1,8 @@
 {
-  "symbol": "nls",
-  "name": "Nolus",
+  "symbol": "NLS",
+  "name": "NLS native asset",
   "address": "0xb34e17562e4f1f63a2d4cf684ed8bc124e519771",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30786/thumb/nolus_logo_element.png?1687249162",

@@ -1,8 +1,8 @@
 {
-  "symbol": "popkat",
+  "symbol": "POPKAT",
   "name": "POPKAT",
   "address": "0x0d3e106b9555c8c7052da0e7909956d640ac2c69",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51287/thumb/Logo.png?1730569618",

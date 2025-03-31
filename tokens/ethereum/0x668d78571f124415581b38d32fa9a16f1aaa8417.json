@@ -1,6 +1,6 @@
 {
   "symbol": "1ex",
-  "name": "1ex",
+  "name": "1ex token",
   "address": "0x668d78571f124415581b38d32fa9a16f1aaa8417",
   "decimals": 18,
   "type": "ERC20",

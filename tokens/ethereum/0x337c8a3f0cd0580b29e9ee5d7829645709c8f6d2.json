@@ -1,8 +1,8 @@
 {
-  "symbol": "boba",
+  "symbol": "BOBA",
   "name": "BOBA",
   "address": "0x337c8a3f0cd0580b29e9ee5d7829645709c8f6d2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37137/thumb/2024-04-17_16.37.10.jpg?1713419002",

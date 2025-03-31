@@ -1,8 +1,8 @@
 {
-  "symbol": "storj",
-  "name": "Storj",
+  "symbol": "STORJ",
+  "name": "StorjToken",
   "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/949/thumb/storj.png?1547034811",

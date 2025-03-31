@@ -1,8 +1,8 @@
 {
-  "symbol": "mvd",
+  "symbol": "MVD",
   "name": "Metavault DAO",
   "address": "0x788b6d2b37aa51d916f2837ae25b05f0e61339d1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/23899/thumb/mvd.png?1660680251",

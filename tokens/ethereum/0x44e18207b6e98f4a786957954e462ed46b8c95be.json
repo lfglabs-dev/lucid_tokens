@@ -1,8 +1,8 @@
 {
-  "symbol": "terminus",
+  "symbol": "Terminus",
   "name": "Terminus",
   "address": "0x44e18207b6e98f4a786957954e462ed46b8c95be",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50445/thumb/IMG_20240929_205420_024.jpg?1727770817",

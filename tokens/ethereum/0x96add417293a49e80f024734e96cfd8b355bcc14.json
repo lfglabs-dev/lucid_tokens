@@ -1,6 +1,6 @@
 {
-  "symbol": "lila",
-  "name": "LiquidLayer",
+  "symbol": "LILA",
+  "name": "LiquidLayer Token",
   "address": "0x96add417293a49e80f024734e96cfd8b355bcc14",
   "decimals": 18,
   "type": "ERC20",

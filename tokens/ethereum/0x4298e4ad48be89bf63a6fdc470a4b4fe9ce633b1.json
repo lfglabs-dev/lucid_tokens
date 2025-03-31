@@ -1,8 +1,8 @@
 {
-  "symbol": "estee",
-  "name": "Estee",
+  "symbol": "ESTEE",
+  "name": "ESTEE",
   "address": "0x4298e4ad48be89bf63a6fdc470a4b4fe9ce633b1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50398/thumb/1000049277.png?1727590423",

@@ -1,8 +1,8 @@
 {
-  "symbol": "dcn",
+  "symbol": "٨",
   "name": "Dentacoin",
   "address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/850/thumb/dentacoin.png?1547034647",

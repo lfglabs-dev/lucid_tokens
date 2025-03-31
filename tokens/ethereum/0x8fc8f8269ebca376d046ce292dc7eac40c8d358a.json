@@ -1,8 +1,8 @@
 {
-  "symbol": "dfi",
-  "name": "DeFiChain",
+  "symbol": "DFI",
+  "name": "DeFiChain Token",
   "address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/11757/thumb/symbol-defi-blockchain_200.png?1597306538",

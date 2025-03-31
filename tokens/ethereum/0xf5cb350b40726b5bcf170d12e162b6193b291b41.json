@@ -1,8 +1,8 @@
 {
-  "symbol": "bis",
-  "name": "Bismuth",
+  "symbol": "wBIS",
+  "name": "Wrapped BIS",
   "address": "0xf5cb350b40726b5bcf170d12e162b6193b291b41",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/974/thumb/bis200px.png?1615787741",

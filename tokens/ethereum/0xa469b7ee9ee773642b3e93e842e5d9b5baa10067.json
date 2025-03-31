@@ -1,6 +1,6 @@
 {
-  "symbol": "usdz",
-  "name": "Anzen USDz",
+  "symbol": "USDz",
+  "name": "USDz",
   "address": "0xa469b7ee9ee773642b3e93e842e5d9b5baa10067",
   "decimals": 18,
   "type": "ERC20",

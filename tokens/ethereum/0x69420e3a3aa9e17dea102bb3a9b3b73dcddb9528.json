@@ -1,8 +1,8 @@
 {
-  "symbol": "$elon",
+  "symbol": "ELON",
   "name": "Elon",
   "address": "0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37515/thumb/elonlogo.png?1714630893",

@@ -1,6 +1,6 @@
 {
-  "symbol": "zoomer",
-  "name": "Zoomer",
+  "symbol": "ZOOMER",
+  "name": "ZOOMER",
   "address": "0x0d505c03d30e65f6e9b4ef88855a47a89e4b7676",
   "decimals": 18,
   "type": "ERC20",

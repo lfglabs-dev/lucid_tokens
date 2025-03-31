@@ -1,6 +1,6 @@
 {
-  "symbol": "rseth",
-  "name": "Kelp DAO Restaked ETH",
+  "symbol": "rsETH",
+  "name": "rsETH",
   "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
   "decimals": 18,
   "type": "ERC20",

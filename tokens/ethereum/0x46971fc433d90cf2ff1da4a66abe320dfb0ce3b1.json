@@ -1,8 +1,8 @@
 {
-  "symbol": "wne",
+  "symbol": "WNE",
   "name": "Winee3",
   "address": "0x46971fc433d90cf2ff1da4a66abe320dfb0ce3b1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38951/thumb/IMG_20240624_191006_190.jpg?1719596169",

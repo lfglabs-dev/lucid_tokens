@@ -1,6 +1,6 @@
 {
-  "symbol": "summer",
-  "name": "Summer",
+  "symbol": "SUMMER",
+  "name": "Summer Token",
   "address": "0x4d4f3715050571a447fffa2cd4cf091c7014ca5c",
   "decimals": 18,
   "type": "ERC20",

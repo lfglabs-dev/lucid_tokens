@@ -1,6 +1,6 @@
 {
-  "symbol": "suzume",
-  "name": "Shita-kiri Suzume",
+  "symbol": "SUZUME",
+  "name": "Shita-Kiri Suzume",
   "address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
   "decimals": 18,
   "type": "ERC20",

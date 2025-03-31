@@ -1,6 +1,6 @@
 {
-  "symbol": "nest",
-  "name": "Nest Protocol",
+  "symbol": "NEST",
+  "name": "NEST",
   "address": "0xcd6926193308d3b371fdd6a6219067e550000000",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "es",
+  "symbol": "ES",
   "name": "Eclipse",
   "address": "0x6055dc6ff1077eebe5e6d2ba1a1f53d7ef8430de",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54958/thumb/Eclipse_logo_logo_green_%281%29.png?1742867213",

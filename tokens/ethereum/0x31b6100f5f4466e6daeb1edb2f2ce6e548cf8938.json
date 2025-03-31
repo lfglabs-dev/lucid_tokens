@@ -1,6 +1,6 @@
 {
-  "symbol": "puff",
-  "name": "Puff The Dragon",
+  "symbol": "Puff",
+  "name": "Puff",
   "address": "0x31b6100f5f4466e6daeb1edb2f2ce6e548cf8938",
   "decimals": 18,
   "type": "ERC20",

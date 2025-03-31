@@ -1,8 +1,8 @@
 {
-  "symbol": "unibtc",
-  "name": "Universal BTC",
+  "symbol": "uniBTC",
+  "name": "uniBTC",
   "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",

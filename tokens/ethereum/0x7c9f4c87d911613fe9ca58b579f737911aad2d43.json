@@ -1,6 +1,6 @@
 {
-  "symbol": "maticpo",
-  "name": "MATIC (Wormhole)",
+  "symbol": "WMATIC",
+  "name": "Wrapped Matic",
   "address": "0x7c9f4c87d911613fe9ca58b579f737911aad2d43",
   "decimals": 18,
   "type": "ERC20",

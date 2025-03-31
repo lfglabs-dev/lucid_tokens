@@ -1,8 +1,8 @@
 {
-  "symbol": "lunr",
-  "name": "LunarCrush",
+  "symbol": "eLunr",
+  "name": "Ethereum-bridged Lunr Token",
   "address": "0xa87135285ae208e22068acdbff64b11ec73eaa5a",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/19256/thumb/lunr.png?1639975807",

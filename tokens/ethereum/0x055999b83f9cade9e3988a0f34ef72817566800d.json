@@ -1,6 +1,6 @@
 {
-  "symbol": "rtb",
-  "name": "Roundtable",
+  "symbol": "RTB",
+  "name": "RTB",
   "address": "0x055999b83f9cade9e3988a0f34ef72817566800d",
   "decimals": 18,
   "type": "ERC20",

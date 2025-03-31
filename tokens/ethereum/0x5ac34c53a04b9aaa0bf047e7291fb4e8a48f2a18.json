@@ -1,6 +1,6 @@
 {
-  "symbol": "nai",
-  "name": "Nuklai",
+  "symbol": "NAI",
+  "name": "Nuklai Token",
   "address": "0x5ac34c53a04b9aaa0bf047e7291fb4e8a48f2a18",
   "decimals": 18,
   "type": "ERC20",

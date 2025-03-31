@@ -1,6 +1,6 @@
 {
-  "symbol": "snt",
-  "name": "Status",
+  "symbol": "SNT",
+  "name": "Status Network Token",
   "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
   "decimals": 18,
   "type": "ERC20",

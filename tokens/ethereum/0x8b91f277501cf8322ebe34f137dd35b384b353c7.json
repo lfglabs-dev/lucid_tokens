@@ -1,8 +1,8 @@
 {
-  "symbol": "core",
+  "symbol": "CORE",
   "name": "CoreAI",
   "address": "0x8b91f277501cf8322ebe34f137dd35b384b353c7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35106/thumb/Black_And_White._Global_Technology_Abstract_Logo.__%287%29_%281%29.png?1707381177",

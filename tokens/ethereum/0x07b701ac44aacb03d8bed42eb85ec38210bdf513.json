@@ -1,8 +1,8 @@
 {
-  "symbol": "taproot",
-  "name": "Taproot",
+  "symbol": "TAPROOT",
+  "name": "TAPROOT",
   "address": "0x07b701ac44aacb03d8bed42eb85ec38210bdf513",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35368/thumb/200.png?1708401189",

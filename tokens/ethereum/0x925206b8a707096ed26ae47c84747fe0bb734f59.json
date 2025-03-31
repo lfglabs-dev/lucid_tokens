@@ -1,8 +1,8 @@
 {
-  "symbol": "wbt",
-  "name": "WhiteBIT Coin",
+  "symbol": "WBT",
+  "name": "WBT",
   "address": "0x925206b8a707096ed26ae47c84747fe0bb734f59",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27045/thumb/whitebit.png?1661503166",

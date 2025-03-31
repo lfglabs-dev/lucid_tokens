@@ -1,8 +1,8 @@
 {
-  "symbol": "ebet",
-  "name": "EarnBet",
+  "symbol": "EBET",
+  "name": "EarnBet Coin",
   "address": "0x5fbc2ffe91ac74e3e286bd7504b233f0e5291c69",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32032/thumb/logo.png?1696232947",

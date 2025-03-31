@@ -2,7 +2,7 @@
   "symbol": "puppies",
   "name": "I love puppies",
   "address": "0xcf91b70017eabde82c9671e30e5502d312ea6eb2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35708/thumb/1000005823.jpg?1709624357",

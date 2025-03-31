@@ -1,8 +1,8 @@
 {
-  "symbol": "digg",
-  "name": "DIGG",
+  "symbol": "DIGG",
+  "name": "Digg",
   "address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13737/thumb/digg.PNG?1611292196",

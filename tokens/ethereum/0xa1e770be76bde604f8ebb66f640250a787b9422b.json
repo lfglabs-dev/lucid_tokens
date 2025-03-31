@@ -1,6 +1,6 @@
 {
-  "symbol": "deb",
-  "name": "AndUsChain",
+  "symbol": "DEB",
+  "name": "AndusChain Token",
   "address": "0xa1e770be76bde604f8ebb66f640250a787b9422b",
   "decimals": 18,
   "type": "ERC20",

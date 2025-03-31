@@ -1,6 +1,6 @@
 {
-  "symbol": "kgc",
-  "name": "Krypton Galaxy Coin",
+  "symbol": "KGC",
+  "name": "Krypton",
   "address": "0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb",
   "decimals": 18,
   "type": "ERC20",

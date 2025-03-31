@@ -1,6 +1,6 @@
 {
-  "symbol": "gme.d",
-  "name": "Dinari GME",
+  "symbol": "GME.d",
+  "name": "GameStop Corp. Class A - Dinari",
   "address": "0x7fb5da212239593f4bf544fbe2ec70ce91f0afdb",
   "decimals": 18,
   "type": "ERC20",

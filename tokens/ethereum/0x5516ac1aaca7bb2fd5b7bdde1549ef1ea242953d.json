@@ -1,6 +1,6 @@
 {
-  "symbol": "detf",
-  "name": "Decentralized ETF",
+  "symbol": "DETF",
+  "name": "DETF token",
   "address": "0x5516ac1aaca7bb2fd5b7bdde1549ef1ea242953d",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "lpeth",
-  "name": "Loop ETH",
+  "symbol": "lpETH",
+  "name": "Loop Liquidity Pool - WETH",
   "address": "0xa684eaf215ad323452e2b2bf6f817d4aa5c116ab",
   "decimals": 18,
   "type": "ERC20",

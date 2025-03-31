@@ -1,6 +1,6 @@
 {
-  "symbol": "farm",
-  "name": "Harvest Finance",
+  "symbol": "FARM",
+  "name": "FARM Reward Token",
   "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
   "decimals": 18,
   "type": "ERC20",

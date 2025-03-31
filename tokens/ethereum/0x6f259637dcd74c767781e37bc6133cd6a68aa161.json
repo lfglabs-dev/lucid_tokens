@@ -1,6 +1,6 @@
 {
-  "symbol": "ht",
-  "name": "Huobi",
+  "symbol": "HT",
+  "name": "HuobiToken",
   "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
   "decimals": 18,
   "type": "ERC20",

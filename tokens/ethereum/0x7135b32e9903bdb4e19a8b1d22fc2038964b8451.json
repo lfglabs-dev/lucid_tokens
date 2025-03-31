@@ -1,6 +1,6 @@
 {
-  "symbol": "early",
-  "name": "EarlyFans",
+  "symbol": "EARLY",
+  "name": "EARLY Token",
   "address": "0x7135b32e9903bdb4e19a8b1d22fc2038964b8451",
   "decimals": 18,
   "type": "ERC20",

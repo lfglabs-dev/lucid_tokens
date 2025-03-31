@@ -1,6 +1,6 @@
 {
-  "symbol": "red",
-  "name": "RedStone",
+  "symbol": "RED",
+  "name": "Redstone",
   "address": "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de",
   "decimals": 18,
   "type": "ERC20",

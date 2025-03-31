@@ -1,8 +1,8 @@
 {
-  "symbol": "runevm",
+  "symbol": "RUNEVM",
   "name": "RUNEVM",
   "address": "0x72d4bc91fbd9b257eae62a5758288d9797c9a76a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50290/thumb/RUNEVM.png?1726886391",

@@ -1,8 +1,8 @@
 {
-  "symbol": "ctk",
-  "name": "Cryptyk",
+  "symbol": "CTK",
+  "name": "Cryptyk Tokens",
   "address": "0x42a501903afaa1086b5975773375c80e363f4063",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/2729/thumb/ctk.PNG?1631091279",

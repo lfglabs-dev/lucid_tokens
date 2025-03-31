@@ -1,8 +1,8 @@
 {
-  "symbol": "floki",
+  "symbol": "FLOKI",
   "name": "FLOKI",
   "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/16746/thumb/PNG_image.png?1643184642",

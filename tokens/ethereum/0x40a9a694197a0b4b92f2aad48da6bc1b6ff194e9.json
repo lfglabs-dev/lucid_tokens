@@ -1,6 +1,6 @@
 {
-  "symbol": "@lfg",
-  "name": "LFG",
+  "symbol": "@LFG",
+  "name": "@LFG",
   "address": "0x40a9a694197a0b4b92f2aad48da6bc1b6ff194e9",
   "decimals": 18,
   "type": "ERC20",

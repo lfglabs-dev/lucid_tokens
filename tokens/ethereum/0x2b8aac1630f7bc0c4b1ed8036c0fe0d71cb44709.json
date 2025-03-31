@@ -1,8 +1,8 @@
 {
-  "symbol": "mask",
+  "symbol": "MASK",
   "name": "Wojak Mask",
   "address": "0x2b8aac1630f7bc0c4b1ed8036c0fe0d71cb44709",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38514/thumb/masklogo.png?1717754902",

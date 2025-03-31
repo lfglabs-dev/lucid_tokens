@@ -1,8 +1,8 @@
 {
-  "symbol": "yvwbtc",
+  "symbol": "yvWBTC",
   "name": "WBTC yVault",
   "address": "0xa696a63cc78dffa1a63e9e50587c197387ff6c7e",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28796/thumb/yvWBTC-128-0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E.png?1674226331",

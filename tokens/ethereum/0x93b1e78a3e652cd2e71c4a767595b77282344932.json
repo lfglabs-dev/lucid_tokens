@@ -1,6 +1,6 @@
 {
-  "symbol": "bito",
-  "name": "BITO Coin",
+  "symbol": "BITO",
+  "name": "BitoPro Coin",
   "address": "0x93b1e78a3e652cd2e71c4a767595b77282344932",
   "decimals": 18,
   "type": "ERC20",

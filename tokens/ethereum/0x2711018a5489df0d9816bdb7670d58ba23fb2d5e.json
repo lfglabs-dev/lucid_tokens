@@ -1,6 +1,6 @@
 {
-  "symbol": "spte.d",
-  "name": "Dinari SPTE",
+  "symbol": "SPTE.d",
+  "name": "SP Funds S&P Global Technology ETF - Dinari",
   "address": "0x2711018a5489df0d9816bdb7670d58ba23fb2d5e",
   "decimals": 18,
   "type": "ERC20",

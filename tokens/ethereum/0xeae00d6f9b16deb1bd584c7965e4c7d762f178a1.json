@@ -1,6 +1,6 @@
 {
-  "symbol": "xbg",
-  "name": "XBorg",
+  "symbol": "XBG",
+  "name": "XBorg Token",
   "address": "0xeae00d6f9b16deb1bd584c7965e4c7d762f178a1",
   "decimals": 18,
   "type": "ERC20",

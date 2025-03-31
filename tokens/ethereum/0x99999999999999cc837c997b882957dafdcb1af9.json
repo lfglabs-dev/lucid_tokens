@@ -1,6 +1,6 @@
 {
-  "symbol": "wusdn",
-  "name": "SMARDEX WRAPPED USDN",
+  "symbol": "WUSDN",
+  "name": "Wrapped Ultimate Synthetic Delta Neutral",
   "address": "0x99999999999999cc837c997b882957dafdcb1af9",
   "decimals": 18,
   "type": "ERC20",

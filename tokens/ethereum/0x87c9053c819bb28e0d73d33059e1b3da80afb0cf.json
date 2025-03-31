@@ -1,6 +1,6 @@
 {
-  "symbol": "mre7yield",
-  "name": "Midas mRe7YIELD",
+  "symbol": "mRe7YIELD",
+  "name": "Midas Re7 Yield",
   "address": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf",
   "decimals": 18,
   "type": "ERC20",

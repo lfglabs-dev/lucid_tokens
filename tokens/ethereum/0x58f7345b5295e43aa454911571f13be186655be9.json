@@ -1,8 +1,8 @@
 {
-  "symbol": "grlc",
-  "name": "Garlicoin",
+  "symbol": "WGRLC",
+  "name": "Wrapped GRLC",
   "address": "0x58f7345b5295e43aa454911571f13be186655be9",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/2699/thumb/garlicoin.png?1548126827",

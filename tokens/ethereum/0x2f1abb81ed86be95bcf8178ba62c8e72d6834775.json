@@ -1,6 +1,6 @@
 {
-  "symbol": "pwbtc",
-  "name": "MEV Capital Pendle WBTC",
+  "symbol": "pWBTC",
+  "name": "Pendle WBTC",
   "address": "0x2f1abb81ed86be95bcf8178ba62c8e72d6834775",
   "decimals": 18,
   "type": "ERC20",

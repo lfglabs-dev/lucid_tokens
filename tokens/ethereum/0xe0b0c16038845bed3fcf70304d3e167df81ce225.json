@@ -1,6 +1,6 @@
 {
-  "symbol": "cswap",
-  "name": "CrossSwap",
+  "symbol": "CSWAP",
+  "name": "CrossSwap.com",
   "address": "0xe0b0c16038845bed3fcf70304d3e167df81ce225",
   "decimals": 18,
   "type": "ERC20",

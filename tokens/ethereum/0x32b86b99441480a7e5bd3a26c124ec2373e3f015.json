@@ -1,6 +1,6 @@
 {
-  "symbol": "bad",
-  "name": "Bad Idea AI",
+  "symbol": "BAD",
+  "name": "BAD IDEA AI",
   "address": "0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
   "decimals": 18,
   "type": "ERC20",

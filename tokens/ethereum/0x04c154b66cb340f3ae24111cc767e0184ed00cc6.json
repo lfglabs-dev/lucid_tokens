@@ -1,6 +1,6 @@
 {
-  "symbol": "pxeth",
-  "name": "Dinero Staked ETH",
+  "symbol": "pxETH",
+  "name": "Pirex Ether",
   "address": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
   "decimals": 18,
   "type": "ERC20",

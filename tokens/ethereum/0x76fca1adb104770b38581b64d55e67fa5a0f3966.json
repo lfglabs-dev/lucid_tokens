@@ -1,8 +1,8 @@
 {
-  "symbol": ":zkt:",
+  "symbol": ":ZKT:",
   "name": "ZkTsunami",
   "address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29253/thumb/SoloturkLogo.png?1677646357",

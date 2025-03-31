@@ -1,6 +1,6 @@
 {
-  "symbol": "bio",
-  "name": "Bio Protocol",
+  "symbol": "BIO",
+  "name": "BIO",
   "address": "0xcb1592591996765ec0efc1f92599a19767ee5ffa",
   "decimals": 18,
   "type": "ERC20",

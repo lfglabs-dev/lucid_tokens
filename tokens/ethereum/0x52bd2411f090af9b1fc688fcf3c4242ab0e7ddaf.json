@@ -1,6 +1,6 @@
 {
-  "symbol": "meli.d",
-  "name": "Dinari MELI",
+  "symbol": "MELI.d",
+  "name": "Mercado Libre, Inc - Dinari",
   "address": "0x52bd2411f090af9b1fc688fcf3c4242ab0e7ddaf",
   "decimals": 18,
   "type": "ERC20",

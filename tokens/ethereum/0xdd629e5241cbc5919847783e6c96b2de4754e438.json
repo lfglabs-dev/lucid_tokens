@@ -1,6 +1,6 @@
 {
-  "symbol": "mtbill",
-  "name": "Midas mTBILL",
+  "symbol": "mTBILL",
+  "name": "Midas US Treasury Bill Token",
   "address": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
   "decimals": 18,
   "type": "ERC20",

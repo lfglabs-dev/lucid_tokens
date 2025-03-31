@@ -1,8 +1,8 @@
 {
-  "symbol": "random9",
+  "symbol": "RANDOM9",
   "name": "Elons Gamertag",
   "address": "0x156994e6cabea296e7a73cf3742355bf71a64cec",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53643/thumb/photo_2025-01-04_08-43-08_%282%29.jpg?1736962840",

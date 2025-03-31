@@ -1,6 +1,6 @@
 {
-  "symbol": "satt",
-  "name": "SaTT",
+  "symbol": "SATT",
+  "name": "Smart Advertising Transaction Token",
   "address": "0xdf49c9f599a0a9049d97cff34d0c30e468987389",
   "decimals": 18,
   "type": "ERC20",

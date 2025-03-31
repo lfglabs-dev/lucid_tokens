@@ -1,6 +1,6 @@
 {
-  "symbol": "cds",
-  "name": "Capital DAO Starter",
+  "symbol": "CDS",
+  "name": "Capital DAO Starter Token",
   "address": "0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e",
   "decimals": 18,
   "type": "ERC20",

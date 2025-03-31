@@ -1,6 +1,6 @@
 {
-  "symbol": "theos",
-  "name": "Theos",
+  "symbol": "THEOS",
+  "name": "THEOS",
   "address": "0x9e10f61749c4952c320412a6b26901605ff6da1d",
   "decimals": 18,
   "type": "ERC20",

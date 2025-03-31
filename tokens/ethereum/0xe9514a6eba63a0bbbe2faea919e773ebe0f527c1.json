@@ -1,6 +1,6 @@
 {
-  "symbol": "kek",
-  "name": "Kekcoin (ETH)",
+  "symbol": "KEK",
+  "name": "Kekcoin",
   "address": "0xe9514a6eba63a0bbbe2faea919e773ebe0f527c1",
   "decimals": 18,
   "type": "ERC20",

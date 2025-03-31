@@ -1,6 +1,6 @@
 {
-  "symbol": "bac.d",
-  "name": "Dinari BAC",
+  "symbol": "BAC.d",
+  "name": "Bank of America Corporation - Dinari",
   "address": "0x6c1aa3dd4195522ffd963215a13416324eaf9216",
   "decimals": 18,
   "type": "ERC20",

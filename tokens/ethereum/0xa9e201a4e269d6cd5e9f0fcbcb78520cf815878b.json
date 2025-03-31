@@ -1,6 +1,6 @@
 {
-  "symbol": "aammunirenweth",
-  "name": "Aave AMM UniRENWETH",
+  "symbol": "aAmmUniRENWETH",
+  "name": "Aave AMM Market UniRENWETH",
   "address": "0xa9e201a4e269d6cd5e9f0fcbcb78520cf815878b",
   "decimals": 18,
   "type": "ERC20",

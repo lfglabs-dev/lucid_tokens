@@ -1,8 +1,8 @@
 {
-  "symbol": "base",
-  "name": "Maximus BASE",
+  "symbol": "BASE",
+  "name": "Maximus Base",
   "address": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27683/thumb/IMG_1131.PNG?1665214262",

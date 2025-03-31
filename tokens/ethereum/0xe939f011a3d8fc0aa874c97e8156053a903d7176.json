@@ -1,6 +1,6 @@
 {
-  "symbol": "dolz",
-  "name": "DOLZ.io",
+  "symbol": "DOLZ",
+  "name": "Dolz",
   "address": "0xe939f011a3d8fc0aa874c97e8156053a903d7176",
   "decimals": 18,
   "type": "ERC20",

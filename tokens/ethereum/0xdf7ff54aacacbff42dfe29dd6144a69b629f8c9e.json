@@ -1,6 +1,6 @@
 {
-  "symbol": "azrx",
-  "name": "Aave ZRX",
+  "symbol": "aZRX",
+  "name": "Aave interest bearing ZRX",
   "address": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
   "decimals": 18,
   "type": "ERC20",

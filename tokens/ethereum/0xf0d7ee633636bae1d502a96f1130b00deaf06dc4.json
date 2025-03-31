@@ -1,6 +1,6 @@
 {
-  "symbol": "arkx.d",
-  "name": "Dinari ARKX",
+  "symbol": "ARKX.d",
+  "name": "ARK Space Exploration & Innovation ETF - Dinari",
   "address": "0xf0d7ee633636bae1d502a96f1130b00deaf06dc4",
   "decimals": 18,
   "type": "ERC20",

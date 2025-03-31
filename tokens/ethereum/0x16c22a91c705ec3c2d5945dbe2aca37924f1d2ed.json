@@ -1,8 +1,8 @@
 {
-  "symbol": "eric",
-  "name": "Elon's Pet Fish ERIC",
+  "symbol": "ERIC",
+  "name": "ERIC",
   "address": "0x16c22a91c705ec3c2d5945dbe2aca37924f1d2ed",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37176/thumb/Elons-Pet-Fish-ERIC-200x200-1.png?1713512158",

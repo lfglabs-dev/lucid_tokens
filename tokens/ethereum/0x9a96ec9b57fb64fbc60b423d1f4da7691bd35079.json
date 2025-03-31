@@ -1,6 +1,6 @@
 {
-  "symbol": "ajna",
-  "name": "Ajna Protocol",
+  "symbol": "AJNA",
+  "name": "AjnaToken",
   "address": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
   "decimals": 18,
   "type": "ERC20",

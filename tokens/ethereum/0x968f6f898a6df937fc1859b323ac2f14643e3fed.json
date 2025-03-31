@@ -1,6 +1,6 @@
 {
-  "symbol": "nwc",
-  "name": "Numerico",
+  "symbol": "NWC",
+  "name": "Newscrypto",
   "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
   "decimals": 18,
   "type": "ERC20",

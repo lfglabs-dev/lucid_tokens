@@ -1,6 +1,6 @@
 {
-  "symbol": "para",
-  "name": "Para",
+  "symbol": "PARA",
+  "name": "ParaWerx",
   "address": "0xd16fd95d949f996e3808eeea0e3881c59e76ef1e",
   "decimals": 18,
   "type": "ERC20",

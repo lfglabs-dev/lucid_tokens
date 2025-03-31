@@ -1,8 +1,8 @@
 {
-  "symbol": "codex",
-  "name": "Codex Multichain",
+  "symbol": "CODEX",
+  "name": "CODEX",
   "address": "0xfd26e39807772251c3bb90fb1fcd9ce5b80c5c24",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33980/thumb/200x200.jpg?1703580135",

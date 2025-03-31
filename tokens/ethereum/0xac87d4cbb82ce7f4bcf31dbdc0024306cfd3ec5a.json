@@ -1,6 +1,6 @@
 {
-  "symbol": "kei",
-  "name": "KEI Finance",
+  "symbol": "KEI",
+  "name": "KEI finance",
   "address": "0xac87d4cbb82ce7f4bcf31dbdc0024306cfd3ec5a",
   "decimals": 18,
   "type": "ERC20",

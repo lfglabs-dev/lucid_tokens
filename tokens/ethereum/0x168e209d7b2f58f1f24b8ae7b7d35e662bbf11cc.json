@@ -1,6 +1,6 @@
 {
-  "symbol": "lai",
-  "name": "LayerAI",
+  "symbol": "LAI",
+  "name": "LayerAI Token",
   "address": "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc",
   "decimals": 18,
   "type": "ERC20",

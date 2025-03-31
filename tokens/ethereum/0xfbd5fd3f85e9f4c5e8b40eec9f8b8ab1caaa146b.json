@@ -1,6 +1,6 @@
 {
-  "symbol": "treat",
-  "name": "Treat Token",
+  "symbol": "TREAT",
+  "name": "Treat",
   "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b",
   "decimals": 18,
   "type": "ERC20",

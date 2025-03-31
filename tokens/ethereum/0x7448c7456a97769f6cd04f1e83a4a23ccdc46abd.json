@@ -1,6 +1,6 @@
 {
-  "symbol": "mav",
-  "name": "Maverick Protocol",
+  "symbol": "MAV",
+  "name": "Maverick Token",
   "address": "0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "omikami",
+  "symbol": "OMIKAMI",
   "name": "AMATERASU OMIKAMI",
   "address": "0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31821/thumb/Omikami_BTC_AMZN.png?1695205438",

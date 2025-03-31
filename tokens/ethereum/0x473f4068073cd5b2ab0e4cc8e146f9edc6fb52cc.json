@@ -1,6 +1,6 @@
 {
-  "symbol": "nut",
-  "name": "NutCoin",
+  "symbol": "NUT",
+  "name": "Nutcoin",
   "address": "0x473f4068073cd5b2ab0e4cc8e146f9edc6fb52cc",
   "decimals": 18,
   "type": "ERC20",

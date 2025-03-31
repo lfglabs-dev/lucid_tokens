@@ -1,8 +1,8 @@
 {
-  "symbol": "$stra",
+  "symbol": "STRA",
   "name": "Sentra",
   "address": "0x93181f0625329fc0f5c35d1670ceb541867acc65",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51111/thumb/0x93181f0625329fc0f5c35d1670ceb541867acc65.jpg?1730116278",

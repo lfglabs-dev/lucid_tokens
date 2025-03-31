@@ -1,6 +1,6 @@
 {
-  "symbol": "phm",
-  "name": "Phantom Protocol",
+  "symbol": "PHM",
+  "name": "Phantom Protocol Token",
   "address": "0x3f9bec82c776c47405bcb38070d2395fd18f89d3",
   "decimals": 18,
   "type": "ERC20",

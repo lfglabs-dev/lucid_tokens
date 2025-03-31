@@ -1,6 +1,6 @@
 {
-  "symbol": "$cino",
-  "name": "Cinogames",
+  "symbol": "CINO",
+  "name": "Cino Token",
   "address": "0x9b0b23b35ad8136e6181f22b346134ce5f426090",
   "decimals": 18,
   "type": "ERC20",

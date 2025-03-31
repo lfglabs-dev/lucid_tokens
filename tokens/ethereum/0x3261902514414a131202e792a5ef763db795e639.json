@@ -1,6 +1,6 @@
 {
-  "symbol": "repx",
-  "name": "RepoSwap",
+  "symbol": "REPX",
+  "name": "Reposwap",
   "address": "0x3261902514414a131202e792a5ef763db795e639",
   "decimals": 18,
   "type": "ERC20",

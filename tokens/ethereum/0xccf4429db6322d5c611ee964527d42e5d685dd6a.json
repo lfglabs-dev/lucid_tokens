@@ -1,8 +1,8 @@
 {
-  "symbol": "cwbtc",
-  "name": "cWBTC",
+  "symbol": "cWBTC",
+  "name": "Compound Wrapped BTC",
   "address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10823/thumb/cwbtc.png?1584331700",

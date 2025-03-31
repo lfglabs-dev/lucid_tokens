@@ -1,6 +1,6 @@
 {
-  "symbol": "hmt",
-  "name": "HUMAN Protocol",
+  "symbol": "HMT",
+  "name": "Human Token",
   "address": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867",
   "decimals": 18,
   "type": "ERC20",

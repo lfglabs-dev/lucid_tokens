@@ -1,6 +1,6 @@
 {
-  "symbol": "fevr",
-  "name": "RealFevr",
+  "symbol": "FEVR",
+  "name": "FevrToken",
   "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
   "decimals": 18,
   "type": "ERC20",

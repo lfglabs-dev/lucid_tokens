@@ -1,6 +1,6 @@
 {
-  "symbol": "tru",
-  "name": "Truebit Protocol",
+  "symbol": "TRU",
+  "name": "Truebit",
   "address": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
   "decimals": 18,
   "type": "ERC20",

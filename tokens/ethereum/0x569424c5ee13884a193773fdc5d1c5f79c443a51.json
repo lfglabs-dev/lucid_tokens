@@ -1,6 +1,6 @@
 {
-  "symbol": "pine",
-  "name": "Pine",
+  "symbol": "PINE",
+  "name": "Pine Token",
   "address": "0x569424c5ee13884a193773fdc5d1c5f79c443a51",
   "decimals": 18,
   "type": "ERC20",

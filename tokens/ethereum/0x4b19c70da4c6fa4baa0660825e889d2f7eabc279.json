@@ -1,6 +1,6 @@
 {
-  "symbol": "gmm",
-  "name": "Gamium",
+  "symbol": "GMM",
+  "name": "Gamium [via ChainPort.io]",
   "address": "0x4b19c70da4c6fa4baa0660825e889d2f7eabc279",
   "decimals": 18,
   "type": "ERC20",

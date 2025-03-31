@@ -1,6 +1,6 @@
 {
-  "symbol": "acrv",
-  "name": "Aave CRV",
+  "symbol": "aCRV",
+  "name": "Aave interest bearing CRV",
   "address": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
   "decimals": 18,
   "type": "ERC20",

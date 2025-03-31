@@ -1,6 +1,6 @@
 {
-  "symbol": "lemd",
-  "name": "Lemond",
+  "symbol": "LEMD",
+  "name": "lemond.money",
   "address": "0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa",
   "decimals": 18,
   "type": "ERC20",

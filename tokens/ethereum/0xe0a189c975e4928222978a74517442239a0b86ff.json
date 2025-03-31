@@ -1,8 +1,8 @@
 {
-  "symbol": "keys",
+  "symbol": "KEYS",
   "name": "Keys",
   "address": "0xe0a189c975e4928222978a74517442239a0b86ff",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/20604/thumb/200x200_%2843%29.png?1637289427",

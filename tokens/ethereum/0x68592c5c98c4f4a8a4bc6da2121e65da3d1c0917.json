@@ -1,8 +1,8 @@
 {
-  "symbol": "usdlr",
-  "name": "Stable USDLR",
+  "symbol": "USDLR",
+  "name": "USDLR by Stable",
   "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33115/thumb/0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917.png?1700731571",

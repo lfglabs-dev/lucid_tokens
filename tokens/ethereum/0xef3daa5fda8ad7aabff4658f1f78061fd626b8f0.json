@@ -1,6 +1,6 @@
 {
-  "symbol": "muzz",
-  "name": "MUZZLE",
+  "symbol": "MUZZ",
+  "name": "MuzzleToken",
   "address": "0xef3daa5fda8ad7aabff4658f1f78061fd626b8f0",
   "decimals": 18,
   "type": "ERC20",

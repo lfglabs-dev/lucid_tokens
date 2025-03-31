@@ -1,6 +1,6 @@
 {
-  "symbol": "relay",
-  "name": "Relay Chain",
+  "symbol": "RELAY",
+  "name": "Relay Token",
   "address": "0x5d843fa9495d23de997c394296ac7b4d721e841c",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "anon",
-  "name": "Hey Anon",
+  "symbol": "Anon",
+  "name": "HeyAnon",
   "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
   "decimals": 18,
   "type": "ERC20",

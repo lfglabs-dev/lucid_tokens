@@ -1,6 +1,6 @@
 {
-  "symbol": "value",
-  "name": "Value DeFi",
+  "symbol": "VALUE",
+  "name": "Value Liquidity",
   "address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "tai",
+  "symbol": "TAI",
   "name": "Trace AI",
   "address": "0x267eb2a9a13dc304a9deff4277abe850d0852c5f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31058/thumb/200x200.png?1689926761",

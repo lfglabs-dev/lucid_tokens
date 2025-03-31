@@ -1,8 +1,8 @@
 {
   "symbol": "0x0",
-  "name": "0x0.ai: AI Smart Contract",
+  "name": "0x0.ai: AI Smart Contract Auditor",
   "address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28880/thumb/0x0.png?1675140105",

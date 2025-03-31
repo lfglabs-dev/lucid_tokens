@@ -1,6 +1,6 @@
 {
-  "symbol": "skull",
-  "name": "Wolf Skull",
+  "symbol": "SKULL",
+  "name": "WOLF SKULL",
   "address": "0x70ef0df8b656403fc8c632c52661f19fc9934471",
   "decimals": 18,
   "type": "ERC20",

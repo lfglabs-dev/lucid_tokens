@@ -1,6 +1,6 @@
 {
-  "symbol": "xrpl",
-  "name": "Constellation Staked RPL",
+  "symbol": "xRPL",
+  "name": "Constellation RPL",
   "address": "0x1db1afd9552eeb28e2e36597082440598b7f1320",
   "decimals": 18,
   "type": "ERC20",

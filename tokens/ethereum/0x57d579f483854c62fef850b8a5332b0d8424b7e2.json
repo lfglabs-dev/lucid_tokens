@@ -1,6 +1,6 @@
 {
-  "symbol": "openx",
-  "name": "OpenSwap.One",
+  "symbol": "1OpenX",
+  "name": "OpenSwap Token",
   "address": "0x57d579f483854c62fef850b8a5332b0d8424b7e2",
   "decimals": 18,
   "type": "ERC20",

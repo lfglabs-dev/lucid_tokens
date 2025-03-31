@@ -1,8 +1,8 @@
 {
-  "symbol": "qqq",
+  "symbol": "QQQ",
   "name": "QQQ6900",
   "address": "0x690031313d70c2545357f4487c6a3f134c434507",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51390/thumb/qqq_logo.jpg?1730997530",

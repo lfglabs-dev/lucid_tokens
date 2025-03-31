@@ -1,8 +1,8 @@
 {
-  "symbol": "gondola",
+  "symbol": "GONDOLA",
   "name": "Gondola",
   "address": "0xd43fba1f38d9b306aeef9d78ad177d51ef802b46",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39090/thumb/Gondola_Logo_CG.png?1720484225",

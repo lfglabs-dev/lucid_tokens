@@ -1,6 +1,6 @@
 {
-  "symbol": "sake",
-  "name": "SakeSwap",
+  "symbol": "SAKE",
+  "name": "SakeToken",
   "address": "0x066798d9ef0833ccc719076dab77199ecbd178b0",
   "decimals": 18,
   "type": "ERC20",

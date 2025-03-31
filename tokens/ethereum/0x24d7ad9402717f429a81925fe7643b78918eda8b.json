@@ -1,8 +1,8 @@
 {
-  "symbol": "xion",
+  "symbol": "XION",
   "name": "XION",
   "address": "0x24d7ad9402717f429a81925fe7643b78918eda8b",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39034/thumb/Burnt-Xion-Blaise-Logo-White-On-Black-Square.png?1720038410",

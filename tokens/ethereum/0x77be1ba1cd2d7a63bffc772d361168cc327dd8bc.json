@@ -1,8 +1,8 @@
 {
-  "symbol": "meow",
-  "name": "Meow Meow Coin",
+  "symbol": "喵喵喵喵喵",
+  "name": "我们一起学猫叫，一起喵喵喵喵喵",
   "address": "0x77be1ba1cd2d7a63bffc772d361168cc327dd8bc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35079/thumb/meow.jpeg?1707301706",

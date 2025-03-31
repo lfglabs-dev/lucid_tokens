@@ -1,6 +1,6 @@
 {
-  "symbol": "eqb",
-  "name": "Equilibria Finance",
+  "symbol": "EQB",
+  "name": "Equilibria Token",
   "address": "0xfe80d611c6403f70e5b1b9b722d2b3510b740b2b",
   "decimals": 18,
   "type": "ERC20",

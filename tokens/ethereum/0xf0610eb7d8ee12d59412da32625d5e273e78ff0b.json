@@ -1,6 +1,6 @@
 {
-  "symbol": "mdex",
-  "name": "MasterDEX",
+  "symbol": "MDEX",
+  "name": "MasterDEX Token",
   "address": "0xf0610eb7d8ee12d59412da32625d5e273e78ff0b",
   "decimals": 18,
   "type": "ERC20",

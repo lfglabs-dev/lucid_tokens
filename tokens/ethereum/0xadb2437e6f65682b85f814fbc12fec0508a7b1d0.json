@@ -1,6 +1,6 @@
 {
-  "symbol": "uncx",
-  "name": "UNCX Network",
+  "symbol": "UNCX",
+  "name": "UniCrypt",
   "address": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "csco.d",
-  "name": "Dinari CSCO",
+  "symbol": "CSCO.d",
+  "name": "Cisco Systems, Inc. Common Stock (DE) - Dinari",
   "address": "0x0a27c31f087cd3d30cdad339731bede4194531a4",
   "decimals": 18,
   "type": "ERC20",

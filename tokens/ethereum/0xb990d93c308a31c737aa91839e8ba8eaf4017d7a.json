@@ -1,8 +1,8 @@
 {
-  "symbol": "pirate",
+  "symbol": "PIRATE",
   "name": "PirateCash",
   "address": "0xb990d93c308a31c737aa91839e8ba8eaf4017d7a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7155/thumb/logo_%281%29.png?1637683371",

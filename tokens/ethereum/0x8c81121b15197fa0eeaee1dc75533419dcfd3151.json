@@ -1,6 +1,6 @@
 {
-  "symbol": "idlewbtcyield",
-  "name": "IdleWBTC (Best Yield)",
+  "symbol": "idleWBTCYield",
+  "name": "IdleWBTC v4 [Best yield]",
   "address": "0x8c81121b15197fa0eeaee1dc75533419dcfd3151",
   "decimals": 18,
   "type": "ERC20",

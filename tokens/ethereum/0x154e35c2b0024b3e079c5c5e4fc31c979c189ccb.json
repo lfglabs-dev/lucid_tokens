@@ -1,6 +1,6 @@
 {
-  "symbol": "raid",
-  "name": "Raid",
+  "symbol": "RAID",
+  "name": "Raid Guild Token ⚔️",
   "address": "0x154e35c2b0024b3e079c5c5e4fc31c979c189ccb",
   "decimals": 18,
   "type": "ERC20",

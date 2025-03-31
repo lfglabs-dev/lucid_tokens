@@ -1,8 +1,8 @@
 {
-  "symbol": "prai",
+  "symbol": "PRAI",
   "name": "ProtonAI",
   "address": "0x13439d2ec5aee05f52712ad9fb9fcadd300bb608",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38016/thumb/photo_2024-05-20_13-55-48.jpg?1716276751",

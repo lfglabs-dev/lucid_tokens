@@ -1,6 +1,6 @@
 {
-  "symbol": "rsveth",
-  "name": "Reddio Vault Ethereum",
+  "symbol": "rsvETH",
+  "name": "RedSonic Vault Ethereum",
   "address": "0xca9de1f80df74331c5fcb7eee2d05e746d47bfb2",
   "decimals": 18,
   "type": "ERC20",

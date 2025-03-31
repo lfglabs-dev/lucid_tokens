@@ -1,8 +1,8 @@
 {
-  "symbol": "ioi",
-  "name": "IOI Token",
+  "symbol": "IOI",
+  "name": "IOI Token ",
   "address": "0x8b3870df408ff4d7c3a26df852d41034eda11d81",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15952/thumb/IOI_new_logo.png?1636797701",

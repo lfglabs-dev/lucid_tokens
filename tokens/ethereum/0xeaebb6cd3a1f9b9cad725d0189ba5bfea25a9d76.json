@@ -1,8 +1,8 @@
 {
-  "symbol": "bsim",
+  "symbol": "bSIM",
   "name": "BloxSIM",
   "address": "0xeaebb6cd3a1f9b9cad725d0189ba5bfea25a9d76",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50545/thumb/Logo_Circle.png?1728286059",

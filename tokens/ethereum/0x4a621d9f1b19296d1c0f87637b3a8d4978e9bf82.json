@@ -1,6 +1,6 @@
 {
-  "symbol": "cyfm",
-  "name": "CyberFM",
+  "symbol": "CYFM",
+  "name": "CyberFM Radio",
   "address": "0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82",
   "decimals": 18,
   "type": "ERC20",

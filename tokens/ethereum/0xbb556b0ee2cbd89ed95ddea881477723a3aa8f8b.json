@@ -1,6 +1,6 @@
 {
-  "symbol": "alca",
-  "name": "AliceNet",
+  "symbol": "ALCA",
+  "name": "AliceNet Staking Token",
   "address": "0xbb556b0ee2cbd89ed95ddea881477723a3aa8f8b",
   "decimals": 18,
   "type": "ERC20",

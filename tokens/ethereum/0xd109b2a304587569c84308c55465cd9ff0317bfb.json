@@ -1,6 +1,6 @@
 {
-  "symbol": "aammbptbalweth",
-  "name": "Aave AMM BptBALWETH",
+  "symbol": "aAmmBptBALWETH",
+  "name": "Aave AMM Market BptBALWETH",
   "address": "0xd109b2a304587569c84308c55465cd9ff0317bfb",
   "decimals": 18,
   "type": "ERC20",

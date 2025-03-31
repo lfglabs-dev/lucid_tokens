@@ -1,6 +1,6 @@
 {
-  "symbol": "onc",
-  "name": "One Cash",
+  "symbol": "ONC",
+  "name": "ONC",
   "address": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc",
   "decimals": 18,
   "type": "ERC20",

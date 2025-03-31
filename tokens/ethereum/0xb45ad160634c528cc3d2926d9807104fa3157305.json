@@ -1,6 +1,6 @@
 {
-  "symbol": "sdola",
-  "name": "sDOLA",
+  "symbol": "sDOLA",
+  "name": "Staked Dola",
   "address": "0xb45ad160634c528cc3d2926d9807104fa3157305",
   "decimals": 18,
   "type": "ERC20",

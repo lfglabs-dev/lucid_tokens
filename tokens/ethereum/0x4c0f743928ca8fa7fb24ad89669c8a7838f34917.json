@@ -1,6 +1,6 @@
 {
-  "symbol": "$stack",
-  "name": "STACKER AI",
+  "symbol": "$STACK",
+  "name": "$STACK",
   "address": "0x4c0f743928ca8fa7fb24ad89669c8a7838f34917",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "sob",
+  "symbol": "SOB",
   "name": "Secured On Blockchain",
   "address": "0x142f4330ab3eda738cb373791c2e99cc325bed20",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36725/thumb/sob.jpeg?1712143555",

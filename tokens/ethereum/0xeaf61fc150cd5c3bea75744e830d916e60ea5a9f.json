@@ -1,8 +1,8 @@
 {
-  "symbol": "type",
+  "symbol": "TYPE",
   "name": "Typerium",
   "address": "0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/4019/thumb/type.png?1547039124",

@@ -1,6 +1,6 @@
 {
-  "symbol": "stpeth",
-  "name": "Stake Together",
+  "symbol": "stpETH",
+  "name": "Stake Together Protocol",
   "address": "0x218de5e6324c5351c3a2bf0c40d76f585b8de04d",
   "decimals": 18,
   "type": "ERC20",

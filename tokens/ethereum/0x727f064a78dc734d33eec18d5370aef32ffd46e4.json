@@ -1,6 +1,6 @@
 {
-  "symbol": "orion",
-  "name": "Orion Money",
+  "symbol": "ORION",
+  "name": "Orion Money Token",
   "address": "0x727f064a78dc734d33eec18d5370aef32ffd46e4",
   "decimals": 18,
   "type": "ERC20",

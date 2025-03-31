@@ -1,6 +1,6 @@
 {
-  "symbol": "bank",
-  "name": "Float Protocol",
+  "symbol": "BANK",
+  "name": "Float Bank",
   "address": "0x24a6a37576377f63f194caa5f518a60f45b42921",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "maga",
-  "name": "MAGA Hat",
+  "symbol": "MAGA",
+  "name": "MAGA",
   "address": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37988/thumb/MAGA200.jpg?1716223291",

@@ -1,6 +1,6 @@
 {
-  "symbol": "shping",
-  "name": "Shping",
+  "symbol": "SHPING",
+  "name": "Shping Coin",
   "address": "0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "tet",
-  "name": "Tectum",
+  "symbol": "TET",
+  "name": "Tectum Emission Token",
   "address": "0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29575/thumb/Icon_TET.png?1679740721",

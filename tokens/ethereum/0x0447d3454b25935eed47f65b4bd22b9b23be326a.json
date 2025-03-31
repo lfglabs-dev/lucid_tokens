@@ -1,6 +1,6 @@
 {
-  "symbol": "gem",
-  "name": "Opal",
+  "symbol": "GEM",
+  "name": "GEM ",
   "address": "0x0447d3454b25935eed47f65b4bd22b9b23be326a",
   "decimals": 18,
   "type": "ERC20",

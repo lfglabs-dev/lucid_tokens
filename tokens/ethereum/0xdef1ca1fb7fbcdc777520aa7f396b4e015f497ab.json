@@ -1,6 +1,6 @@
 {
-  "symbol": "cow",
-  "name": "CoW Protocol",
+  "symbol": "COW",
+  "name": "CoW Protocol Token",
   "address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
   "decimals": 18,
   "type": "ERC20",

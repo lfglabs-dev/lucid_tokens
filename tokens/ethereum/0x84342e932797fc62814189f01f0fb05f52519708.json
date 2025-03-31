@@ -1,6 +1,6 @@
 {
-  "symbol": "nht",
-  "name": "Neighbourhoods",
+  "symbol": "NHT",
+  "name": "Neighbourhoods Token",
   "address": "0x84342e932797fc62814189f01f0fb05f52519708",
   "decimals": 18,
   "type": "ERC20",

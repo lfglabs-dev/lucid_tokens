@@ -1,6 +1,6 @@
 {
-  "symbol": "slap",
-  "name": "CatSlap",
+  "symbol": "SLAP",
+  "name": "Catslap",
   "address": "0xf107edabf59ba696e38de62ad5327415bd4d4236",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "em",
-  "name": "Eminer",
+  "symbol": "EM",
+  "name": "EminerToken",
   "address": "0x35b08722aa26be119c1608029ccbc976ac5c1082",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9155/thumb/KDbQPKIu_400x400.png?1564735775",

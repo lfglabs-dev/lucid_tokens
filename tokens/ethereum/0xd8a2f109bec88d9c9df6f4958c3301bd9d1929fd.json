@@ -1,8 +1,8 @@
 {
-  "symbol": "clx",
+  "symbol": "CLX",
   "name": "CloneX AI",
   "address": "0xd8a2f109bec88d9c9df6f4958c3301bd9d1929fd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53469/thumb/r4wEIPpx_400x400.jpg?1736456204",

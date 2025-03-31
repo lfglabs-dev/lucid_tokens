@@ -1,6 +1,6 @@
 {
-  "symbol": "emon",
-  "name": "Ethermon",
+  "symbol": "EMON",
+  "name": "EthermonToken",
   "address": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
   "decimals": 18,
   "type": "ERC20",

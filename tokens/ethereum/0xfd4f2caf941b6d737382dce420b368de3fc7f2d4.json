@@ -1,6 +1,6 @@
 {
-  "symbol": "patex",
-  "name": "Patex",
+  "symbol": "PATEX",
+  "name": "Patex Token",
   "address": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
   "decimals": 18,
   "type": "ERC20",

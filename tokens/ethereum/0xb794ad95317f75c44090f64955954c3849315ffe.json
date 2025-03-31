@@ -1,6 +1,6 @@
 {
-  "symbol": "ribbit",
-  "name": "Ribbit Meme",
+  "symbol": "RIBBIT",
+  "name": "Ribbit",
   "address": "0xb794ad95317f75c44090f64955954c3849315ffe",
   "decimals": 18,
   "type": "ERC20",

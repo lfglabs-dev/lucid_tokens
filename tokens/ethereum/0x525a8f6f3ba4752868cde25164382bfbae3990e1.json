@@ -1,8 +1,8 @@
 {
-  "symbol": "nym",
-  "name": "Nym",
+  "symbol": "NYM",
+  "name": "NYM",
   "address": "0x525a8f6f3ba4752868cde25164382bfbae3990e1",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/24488/thumb/NYM_Token.png?1649926353",

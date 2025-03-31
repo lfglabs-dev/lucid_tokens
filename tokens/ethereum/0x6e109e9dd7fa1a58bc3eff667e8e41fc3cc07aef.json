@@ -1,8 +1,8 @@
 {
-  "symbol": "cnht",
-  "name": "CNH Tether",
+  "symbol": "CNHT",
+  "name": "Tether CNH",
   "address": "0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/5251/thumb/cny-tether-logo.png?1547040741",

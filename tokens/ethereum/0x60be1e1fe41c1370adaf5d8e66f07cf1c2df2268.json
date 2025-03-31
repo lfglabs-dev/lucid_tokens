@@ -1,6 +1,6 @@
 {
-  "symbol": "perc",
-  "name": "Perion",
+  "symbol": "PERC",
+  "name": "Perion Credits",
   "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
   "decimals": 18,
   "type": "ERC20",

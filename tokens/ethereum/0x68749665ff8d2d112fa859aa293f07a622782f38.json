@@ -1,8 +1,8 @@
 {
-  "symbol": "xaut",
+  "symbol": "XAUt",
   "name": "Tether Gold",
   "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10481/thumb/tether-gold.png?1579946148",

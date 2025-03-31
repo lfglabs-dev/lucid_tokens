@@ -1,6 +1,6 @@
 {
-  "symbol": "ppizza",
-  "name": "PPizza",
+  "symbol": "PPIZZA",
+  "name": "P Pizza",
   "address": "0xab306326bc72c2335bd08f42cbec383691ef8446",
   "decimals": 18,
   "type": "ERC20",

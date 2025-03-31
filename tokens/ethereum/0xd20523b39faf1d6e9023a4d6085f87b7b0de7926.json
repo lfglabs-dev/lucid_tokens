@@ -1,6 +1,6 @@
 {
-  "symbol": "oath",
-  "name": "OATH",
+  "symbol": "OATH",
+  "name": "Oath Token",
   "address": "0xd20523b39faf1d6e9023a4d6085f87b7b0de7926",
   "decimals": 18,
   "type": "ERC20",

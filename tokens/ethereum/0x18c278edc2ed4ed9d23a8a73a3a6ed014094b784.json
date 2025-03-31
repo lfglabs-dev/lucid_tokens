@@ -1,6 +1,6 @@
 {
-  "symbol": "btcw.d",
-  "name": "Dinari BTCW",
+  "symbol": "BTCW.d",
+  "name": "WisdomTree Bitcoin Fund - Dinari",
   "address": "0x18c278edc2ed4ed9d23a8a73a3a6ed014094b784",
   "decimals": 18,
   "type": "ERC20",

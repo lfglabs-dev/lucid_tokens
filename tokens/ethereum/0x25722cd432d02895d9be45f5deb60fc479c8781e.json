@@ -1,6 +1,6 @@
 {
-  "symbol": "$sponge",
-  "name": "Sponge (OLD)",
+  "symbol": "SPONGE",
+  "name": "SpongeBob",
   "address": "0x25722cd432d02895d9be45f5deb60fc479c8781e",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "a1inch",
-  "name": "Aave v3 1INCH",
+  "symbol": "aEth1INCH",
+  "name": "Aave Ethereum 1INCH",
   "address": "0x71aef7b30728b9bb371578f36c5a1f1502a5723e",
   "decimals": 18,
   "type": "ERC20",

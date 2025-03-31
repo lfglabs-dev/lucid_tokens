@@ -1,6 +1,6 @@
 {
-  "symbol": "obx",
-  "name": "OpenBlox",
+  "symbol": "OBX",
+  "name": "OpenBlox Token",
   "address": "0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25",
   "decimals": 18,
   "type": "ERC20",

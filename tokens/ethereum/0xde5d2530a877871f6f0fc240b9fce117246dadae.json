@@ -1,6 +1,6 @@
 {
-  "symbol": "$juice",
-  "name": "Juice",
+  "symbol": "JUICE",
+  "name": "JUICE",
   "address": "0xde5d2530a877871f6f0fc240b9fce117246dadae",
   "decimals": 18,
   "type": "ERC20",

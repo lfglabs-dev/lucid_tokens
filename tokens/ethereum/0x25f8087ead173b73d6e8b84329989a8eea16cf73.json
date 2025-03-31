@@ -1,6 +1,6 @@
 {
-  "symbol": "ygg",
-  "name": "Yield Guild Games",
+  "symbol": "YGG",
+  "name": "Yield Guild Games Token",
   "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
   "decimals": 18,
   "type": "ERC20",

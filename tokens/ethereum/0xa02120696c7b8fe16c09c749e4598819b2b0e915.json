@@ -1,6 +1,6 @@
 {
-  "symbol": "wxt",
-  "name": "WXT Token",
+  "symbol": "WXT",
+  "name": "Wirex Token",
   "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
   "decimals": 18,
   "type": "ERC20",

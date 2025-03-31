@@ -1,6 +1,6 @@
 {
-  "symbol": "spec",
-  "name": "Speculate DAO",
+  "symbol": "SPEC",
+  "name": "Speculate",
   "address": "0xab0ceb816ad51168ea61545316ee0b3387122243",
   "decimals": 18,
   "type": "ERC20",

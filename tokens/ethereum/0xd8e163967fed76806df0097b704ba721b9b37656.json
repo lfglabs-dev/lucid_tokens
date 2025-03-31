@@ -1,6 +1,6 @@
 {
-  "symbol": "cope",
-  "name": "Cope Coin",
+  "symbol": "COPE",
+  "name": "Cope",
   "address": "0xd8e163967fed76806df0097b704ba721b9b37656",
   "decimals": 18,
   "type": "ERC20",

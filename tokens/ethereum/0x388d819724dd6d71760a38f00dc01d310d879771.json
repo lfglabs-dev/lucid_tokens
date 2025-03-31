@@ -1,8 +1,8 @@
 {
-  "symbol": "jm",
+  "symbol": "JM",
   "name": "JustMoney",
   "address": "0x388d819724dd6d71760a38f00dc01d310d879771",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/25450/thumb/jm.png?1651803017",

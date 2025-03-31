@@ -1,6 +1,6 @@
 {
-  "symbol": "fu",
-  "name": "FU Money",
+  "symbol": "FU",
+  "name": "FUMoney",
   "address": "0x6c05b8141cefb64502b6dfcaae7c77babbac18fa",
   "decimals": 18,
   "type": "ERC20",

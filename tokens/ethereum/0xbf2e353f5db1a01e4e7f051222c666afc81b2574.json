@@ -1,8 +1,8 @@
 {
-  "symbol": "the dogefather",
-  "name": "DogeFather",
+  "symbol": "DOGEFATHER",
+  "name": "The DogeFather",
   "address": "0xbf2e353f5db1a01e4e7f051222c666afc81b2574",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52742/thumb/CGLOGO.jpg?1734162811",

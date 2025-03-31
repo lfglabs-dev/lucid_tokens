@@ -1,8 +1,8 @@
 {
-  "symbol": "trio",
-  "name": "Maximus TRIO",
+  "symbol": "TRIO",
+  "name": "Maximus Trio",
   "address": "0xf55cd1e399e1cc3d95303048897a680be3313308",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27684/thumb/IMG_1127.PNG?1665214637",

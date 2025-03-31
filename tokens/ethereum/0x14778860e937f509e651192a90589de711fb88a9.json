@@ -1,6 +1,6 @@
 {
-  "symbol": "cyber",
-  "name": "CYBER",
+  "symbol": "CYBER",
+  "name": "CyberConnect",
   "address": "0x14778860e937f509e651192a90589de711fb88a9",
   "decimals": 18,
   "type": "ERC20",

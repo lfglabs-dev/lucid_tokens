@@ -1,6 +1,6 @@
 {
-  "symbol": "hello",
-  "name": "HELLO",
+  "symbol": "HELLO",
+  "name": "Hello",
   "address": "0x411099c0b413f4feddb10edf6a8be63bd321311c",
   "decimals": 18,
   "type": "ERC20",

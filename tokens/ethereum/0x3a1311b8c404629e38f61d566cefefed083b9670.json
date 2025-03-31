@@ -1,8 +1,8 @@
 {
-  "symbol": "pinu",
+  "symbol": "PINU",
   "name": "Piccolo Inu",
   "address": "0x3a1311b8c404629e38f61d566cefefed083b9670",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/19335/thumb/Piccolo-Inu.png?1643191682",

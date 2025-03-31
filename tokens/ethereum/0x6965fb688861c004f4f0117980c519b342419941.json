@@ -1,5 +1,5 @@
 {
-  "symbol": "$number",
+  "symbol": "NUMBER",
   "name": "NUMBER",
   "address": "0x6965fb688861c004f4f0117980c519b342419941",
   "decimals": 18,

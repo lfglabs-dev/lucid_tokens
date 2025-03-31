@@ -1,6 +1,6 @@
 {
-  "symbol": "md",
-  "name": "MetaDeck",
+  "symbol": "MD",
+  "name": "METADECK",
   "address": "0xefb2beb3b6325855bc257bad9166bf2687c68cc1",
   "decimals": 18,
   "type": "ERC20",

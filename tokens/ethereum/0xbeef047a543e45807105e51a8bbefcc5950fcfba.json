@@ -1,6 +1,6 @@
 {
-  "symbol": "steakusdt",
-  "name": "Steakhouse USDT Morpho Vault",
+  "symbol": "steakUSDT",
+  "name": "Steakhouse USDT",
   "address": "0xbeef047a543e45807105e51a8bbefcc5950fcfba",
   "decimals": 18,
   "type": "ERC20",

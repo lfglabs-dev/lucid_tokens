@@ -1,8 +1,8 @@
 {
-  "symbol": "nous",
+  "symbol": "NOUS",
   "name": "NousAI",
   "address": "0x65226a023ff652de48ec9fc4f2e89e5a4244a862",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37020/thumb/logo_150.png?1713154924",

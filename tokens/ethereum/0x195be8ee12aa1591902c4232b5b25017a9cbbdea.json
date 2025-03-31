@@ -1,6 +1,6 @@
 {
-  "symbol": "popo",
-  "name": "POPO",
+  "symbol": "POPO",
+  "name": "Popo",
   "address": "0x195be8ee12aa1591902c4232b5b25017a9cbbdea",
   "decimals": 18,
   "type": "ERC20",

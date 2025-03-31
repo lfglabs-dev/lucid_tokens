@@ -1,8 +1,8 @@
 {
-  "symbol": "eurr",
+  "symbol": "EURR",
   "name": "StablR Euro",
   "address": "0x50753cfaf86c094925bf976f218d043f8791e408",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53720/thumb/stablreuro-logo.png?1737125898",

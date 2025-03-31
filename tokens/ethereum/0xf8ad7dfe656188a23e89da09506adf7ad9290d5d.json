@@ -1,6 +1,6 @@
 {
-  "symbol": "bly",
-  "name": "Blocery",
+  "symbol": "BLY",
+  "name": "Blocery Token",
   "address": "0xf8ad7dfe656188a23e89da09506adf7ad9290d5d",
   "decimals": 18,
   "type": "ERC20",

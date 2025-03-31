@@ -1,6 +1,6 @@
 {
-  "symbol": "ode",
-  "name": "ODEM",
+  "symbol": "ODEM",
+  "name": "ODEM Token",
   "address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
   "decimals": 18,
   "type": "ERC20",

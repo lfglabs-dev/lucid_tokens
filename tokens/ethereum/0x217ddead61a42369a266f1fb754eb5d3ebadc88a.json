@@ -1,6 +1,6 @@
 {
-  "symbol": "don",
-  "name": "Don-key",
+  "symbol": "DON",
+  "name": "Donkey",
   "address": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "bezoge",
+  "symbol": "BEZOGE",
   "name": "Bezoge Earth",
   "address": "0xdc349913d53b446485e98b76800b6254f43df695",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15639/thumb/token-logo.png?1621408212",

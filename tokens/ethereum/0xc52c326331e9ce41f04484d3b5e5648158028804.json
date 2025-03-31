@@ -1,6 +1,6 @@
 {
-  "symbol": "zcx",
-  "name": "Unizen",
+  "symbol": "ZCX",
+  "name": "ZEN Exchange Token",
   "address": "0xc52c326331e9ce41f04484d3b5e5648158028804",
   "decimals": 18,
   "type": "ERC20",

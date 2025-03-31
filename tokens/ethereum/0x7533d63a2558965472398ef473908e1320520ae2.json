@@ -1,8 +1,8 @@
 {
-  "symbol": "intx",
+  "symbol": "INTX",
   "name": "INTEXCOIN",
   "address": "0x7533d63a2558965472398ef473908e1320520ae2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/11854/thumb/INTX.png?1595167044",

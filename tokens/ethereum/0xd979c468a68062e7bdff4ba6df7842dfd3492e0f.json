@@ -1,6 +1,6 @@
 {
-  "symbol": "bbl",
-  "name": "Beoble",
+  "symbol": "BBL",
+  "name": "beoble",
   "address": "0xd979c468a68062e7bdff4ba6df7842dfd3492e0f",
   "decimals": 18,
   "type": "ERC20",

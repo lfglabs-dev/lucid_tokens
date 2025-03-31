@@ -1,8 +1,8 @@
 {
-  "symbol": "pika",
-  "name": "Pikamoon",
+  "symbol": "PIKA",
+  "name": "PIKAMOON",
   "address": "0xd1e64bcc904cfdc19d0faba155a9edc69b4bcdae",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36366/thumb/Pikamoon.png?1711336684",

@@ -1,6 +1,6 @@
 {
-  "symbol": "ethx",
-  "name": "Stader ETHx",
+  "symbol": "ETHx",
+  "name": "ETHx",
   "address": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
   "decimals": 18,
   "type": "ERC20",

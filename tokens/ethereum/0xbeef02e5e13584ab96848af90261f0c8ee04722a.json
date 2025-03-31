@@ -1,6 +1,6 @@
 {
-  "symbol": "steakpyusd",
-  "name": "Steakhouse PYUSD Morpho Vault",
+  "symbol": "steakPYUSD",
+  "name": "Steakhouse PYUSD",
   "address": "0xbeef02e5e13584ab96848af90261f0c8ee04722a",
   "decimals": 18,
   "type": "ERC20",

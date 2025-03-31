@@ -1,6 +1,6 @@
 {
-  "symbol": "gdt",
-  "name": "Gradient Protocol",
+  "symbol": "GDT",
+  "name": "Gradient",
   "address": "0x396c95abe154b3b2ed204cf45c8726aa7ad47a4d",
   "decimals": 18,
   "type": "ERC20",

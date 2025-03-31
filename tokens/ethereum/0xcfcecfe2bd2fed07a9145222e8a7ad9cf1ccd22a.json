@@ -1,8 +1,8 @@
 {
-  "symbol": "ads",
+  "symbol": "ADS",
   "name": "Adshares",
   "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
-  "decimals": 18,
+  "decimals": 11,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/868/thumb/ads_tr_900.png?1549005693",

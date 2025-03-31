@@ -1,6 +1,6 @@
 {
-  "symbol": "cor",
-  "name": "Coreto",
+  "symbol": "COR",
+  "name": "COR Token",
   "address": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
   "decimals": 18,
   "type": "ERC20",

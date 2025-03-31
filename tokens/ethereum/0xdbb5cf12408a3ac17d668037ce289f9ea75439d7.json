@@ -1,8 +1,8 @@
 {
-  "symbol": "wmtx",
-  "name": "World Mobile Token",
+  "symbol": "WMTX",
+  "name": "WorldMobileToken",
   "address": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17333/thumb/Colored_Token.png?1627346708",

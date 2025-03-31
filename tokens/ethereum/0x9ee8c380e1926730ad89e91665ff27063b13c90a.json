@@ -1,6 +1,6 @@
 {
-  "symbol": "ca",
-  "name": "Coupon Assets",
+  "symbol": "CA",
+  "name": "Coupon Assets Token",
   "address": "0x9ee8c380e1926730ad89e91665ff27063b13c90a",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "mezz",
-  "name": "MEZZ",
+  "symbol": "MEZZ",
+  "name": "MEZZ Token",
   "address": "0xc4c346edc55504574cceb00aa1091d22404a4bc3",
   "decimals": 18,
   "type": "ERC20",

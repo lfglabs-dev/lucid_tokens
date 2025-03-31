@@ -1,6 +1,6 @@
 {
-  "symbol": "slr",
-  "name": "Solarcoin",
+  "symbol": "SLR",
+  "name": "SolarCoin on Mainnet",
   "address": "0x4e9e4ab99cfc14b852f552f5fb3aa68617825b6c",
   "decimals": 18,
   "type": "ERC20",

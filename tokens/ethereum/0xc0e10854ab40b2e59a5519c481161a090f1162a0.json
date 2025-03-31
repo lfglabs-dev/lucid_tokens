@@ -1,8 +1,8 @@
 {
-  "symbol": "cairo",
+  "symbol": "CAIRO",
   "name": "Cairo",
   "address": "0xc0e10854ab40b2e59a5519c481161a090f1162a0",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50653/thumb/1000028254.jpg?1728621012",

@@ -1,6 +1,6 @@
 {
-  "symbol": "obol",
-  "name": "Obol",
+  "symbol": "OBOL",
+  "name": "Obol Network",
   "address": "0x0b010000b7624eb9b3dfbc279673c76e9d29d5f7",
   "decimals": 18,
   "type": "ERC20",

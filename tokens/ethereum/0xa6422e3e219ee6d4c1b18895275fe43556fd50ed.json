@@ -1,6 +1,6 @@
 {
-  "symbol": "stbu",
-  "name": "Stobox Token",
+  "symbol": "STBU",
+  "name": "Stobox Token v.2",
   "address": "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed",
   "decimals": 18,
   "type": "ERC20",

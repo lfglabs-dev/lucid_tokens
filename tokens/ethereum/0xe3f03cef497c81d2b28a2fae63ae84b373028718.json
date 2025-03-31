@@ -1,8 +1,8 @@
 {
-  "symbol": "marvin",
+  "symbol": "MARVIN",
   "name": "MARVIN",
   "address": "0xe3f03cef497c81d2b28a2fae63ae84b373028718",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34548/thumb/cg.jpg?1705341719",

@@ -1,6 +1,6 @@
 {
-  "symbol": "naos",
-  "name": "NAOS Finance",
+  "symbol": "NAOS",
+  "name": "NAOSToken",
   "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "mape",
+  "symbol": "MAPE",
   "name": "MAGA Pepe",
   "address": "0x683a4ac99e65200921f556a19dadf4b0214b5938",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39226/thumb/1000272700.jpg?1721189132",

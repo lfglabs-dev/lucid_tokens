@@ -1,6 +1,6 @@
 {
-  "symbol": "tbtc",
-  "name": "tBTC",
+  "symbol": "tBTC",
+  "name": "tBTC v2",
   "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
   "decimals": 18,
   "type": "ERC20",

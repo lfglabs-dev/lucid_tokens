@@ -1,6 +1,6 @@
 {
-  "symbol": "meld",
-  "name": "MELD",
+  "symbol": "MELD",
+  "name": "Meld",
   "address": "0x333000333b26ee30214b4af6419d9ab07a450400",
   "decimals": 18,
   "type": "ERC20",

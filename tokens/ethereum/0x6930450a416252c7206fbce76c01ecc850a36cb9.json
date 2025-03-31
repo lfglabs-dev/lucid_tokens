@@ -1,8 +1,8 @@
 {
-  "symbol": "sheb",
+  "symbol": "SHEB",
   "name": "SHEBOSHIS",
   "address": "0x6930450a416252c7206fbce76c01ecc850a36cb9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35291/thumb/SHEB200.jpg?1708076359",

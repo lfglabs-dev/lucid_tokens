@@ -1,6 +1,6 @@
 {
-  "symbol": "kap",
-  "name": "KAP Games",
+  "symbol": "KAP",
+  "name": "Kapital DAO Token",
   "address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
   "decimals": 18,
   "type": "ERC20",

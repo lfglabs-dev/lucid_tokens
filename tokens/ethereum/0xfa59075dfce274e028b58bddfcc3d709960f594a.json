@@ -1,6 +1,6 @@
 {
-  "symbol": "ybusd",
-  "name": "Veno Yield Bearing USD",
+  "symbol": "ybUSD",
+  "name": "Veno Yield Bearing USD Token",
   "address": "0xfa59075dfce274e028b58bddfcc3d709960f594a",
   "decimals": 18,
   "type": "ERC20",

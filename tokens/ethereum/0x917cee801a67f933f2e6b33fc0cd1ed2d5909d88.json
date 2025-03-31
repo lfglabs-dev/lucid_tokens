@@ -1,6 +1,6 @@
 {
-  "symbol": "weeths",
-  "name": "ether.fi weETHs",
+  "symbol": "weETHs",
+  "name": "Super Symbiotic LRT",
   "address": "0x917cee801a67f933f2e6b33fc0cd1ed2d5909d88",
   "decimals": 18,
   "type": "ERC20",

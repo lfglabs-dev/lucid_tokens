@@ -1,6 +1,6 @@
 {
-  "symbol": "ucx",
-  "name": "UCX",
+  "symbol": "UCX",
+  "name": "U Token",
   "address": "0x3d3af44cf092a49280e316f09c8f20ecf97bc933",
   "decimals": 18,
   "type": "ERC20",

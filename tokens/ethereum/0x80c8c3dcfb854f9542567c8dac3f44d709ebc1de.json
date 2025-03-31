@@ -1,6 +1,6 @@
 {
-  "symbol": "milk2",
-  "name": "Spaceswap MILK2",
+  "symbol": "MILK2",
+  "name": "MilkyWay Token by SpaceSwap v2",
   "address": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
   "decimals": 18,
   "type": "ERC20",

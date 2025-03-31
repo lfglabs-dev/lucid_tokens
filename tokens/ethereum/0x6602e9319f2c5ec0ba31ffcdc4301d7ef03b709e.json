@@ -1,6 +1,6 @@
 {
-  "symbol": "wbrge",
-  "name": "Wrapped OrdBridge",
+  "symbol": "wBRGE",
+  "name": "Wrapped-BRGE",
   "address": "0x6602e9319f2c5ec0ba31ffcdc4301d7ef03b709e",
   "decimals": 18,
   "type": "ERC20",

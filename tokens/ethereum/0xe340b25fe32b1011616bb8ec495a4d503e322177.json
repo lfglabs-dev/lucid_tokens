@@ -1,6 +1,6 @@
 {
-  "symbol": "aammunidaiusdc",
-  "name": "Aave AMM UniDAIUSDC",
+  "symbol": "aAmmUniDAIUSDC",
+  "name": "Aave AMM Market UniDAIUSDC",
   "address": "0xe340b25fe32b1011616bb8ec495a4d503e322177",
   "decimals": 18,
   "type": "ERC20",

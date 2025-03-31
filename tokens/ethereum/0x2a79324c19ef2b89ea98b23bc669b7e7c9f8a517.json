@@ -1,8 +1,8 @@
 {
-  "symbol": "waxp",
-  "name": "WAX",
+  "symbol": "WAXP",
+  "name": "WAXP Token",
   "address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1372/thumb/WAX_Coin_Tickers_P_512px.png?1602812260",

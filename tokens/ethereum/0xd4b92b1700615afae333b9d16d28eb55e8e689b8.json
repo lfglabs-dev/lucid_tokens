@@ -1,8 +1,8 @@
 {
-  "symbol": "cats",
-  "name": "CatCoin Token",
+  "symbol": "CATS",
+  "name": "CATCOIN",
   "address": "0xd4b92b1700615afae333b9d16d28eb55e8e689b8",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/23569/thumb/17318.png?1644475322",

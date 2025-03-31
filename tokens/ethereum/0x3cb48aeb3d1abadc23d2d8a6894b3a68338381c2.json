@@ -1,8 +1,8 @@
 {
-  "symbol": "palai",
+  "symbol": "PALAI",
   "name": "PaladinAI",
   "address": "0x3cb48aeb3d1abadc23d2d8a6894b3a68338381c2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33703/thumb/Design_sans_titre_%288%29_%282%29.png?1702826502",

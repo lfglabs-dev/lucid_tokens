@@ -1,8 +1,8 @@
 {
-  "symbol": "closedai",
-  "name": "Super Closed Source",
+  "symbol": "ClosedAI",
+  "name": "Super Closed Source for Maximum Profit",
   "address": "0x571d9b73dc04ed88b4e273e048c8d4848f83b779",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35977/thumb/400x400.jpg?1710306253",

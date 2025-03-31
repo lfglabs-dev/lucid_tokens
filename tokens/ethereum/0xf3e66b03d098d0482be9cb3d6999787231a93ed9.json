@@ -1,8 +1,8 @@
 {
-  "symbol": "promptide",
+  "symbol": "PROMPTIDE",
   "name": "PromptIDE",
   "address": "0xf3e66b03d098d0482be9cb3d6999787231a93ed9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32753/thumb/Prompt200.jpg?1699265135",

@@ -1,6 +1,6 @@
 {
-  "symbol": "arch",
-  "name": "Archimedes Finance",
+  "symbol": "ARCH",
+  "name": "ARCH",
   "address": "0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "xrun",
-  "name": "XRun",
+  "symbol": "XRUN",
+  "name": "XRUN",
   "address": "0x5833dbb0749887174b254ba4a5df747ff523a905",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "gav",
+  "symbol": "GAV",
   "name": "GavCoin",
   "address": "0x55c3a56e638e96c91f98735cc86f60a6820e6a44",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37525/thumb/GAV200.jpg?1714637917",

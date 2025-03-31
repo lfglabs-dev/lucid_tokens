@@ -1,6 +1,6 @@
 {
-  "symbol": "dog",
-  "name": "LEDOG (DOG)",
+  "symbol": "DOG",
+  "name": "LEDOG",
   "address": "0x864cb5194722d5a1596f4be8b899916d30dad8d8",
   "decimals": 18,
   "type": "ERC20",

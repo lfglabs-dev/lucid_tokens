@@ -1,8 +1,8 @@
 {
-  "symbol": "depin",
+  "symbol": "DEPIN",
   "name": "Depinet",
   "address": "0x28e58ee9932697f610de907a279684d30c407ba9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52799/thumb/rvsVY54s_400x400.jpg?1734334866",

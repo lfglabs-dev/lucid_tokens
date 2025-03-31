@@ -1,8 +1,8 @@
 {
-  "symbol": "wagmi",
+  "symbol": "WAGMI",
   "name": "WAGMICOIN",
   "address": "0x5f4ab80c2c7755d565371236f090597921d18ee5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52120/thumb/WAGMI_200.jpg?1732605778",

@@ -1,6 +1,6 @@
 {
-  "symbol": "htx",
-  "name": "HTX DAO",
+  "symbol": "HTX",
+  "name": "HTX",
   "address": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
   "decimals": 18,
   "type": "ERC20",

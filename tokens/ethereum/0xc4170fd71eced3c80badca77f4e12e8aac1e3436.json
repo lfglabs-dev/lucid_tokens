@@ -1,6 +1,6 @@
 {
-  "symbol": "kmon",
-  "name": "Kryptomon",
+  "symbol": "KMON",
+  "name": "KmonCoin",
   "address": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436",
   "decimals": 18,
   "type": "ERC20",

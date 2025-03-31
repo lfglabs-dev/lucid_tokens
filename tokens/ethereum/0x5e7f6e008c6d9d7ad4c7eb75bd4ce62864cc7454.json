@@ -1,6 +1,6 @@
 {
-  "symbol": "tap (bitcoin)",
-  "name": "Tapify",
+  "symbol": "tap",
+  "name": "tap",
   "address": "0x5e7f6e008c6d9d7ad4c7eb75bd4ce62864cc7454",
   "decimals": 18,
   "type": "ERC20",

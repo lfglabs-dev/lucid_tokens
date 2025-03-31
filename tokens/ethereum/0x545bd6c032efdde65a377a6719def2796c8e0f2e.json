@@ -1,6 +1,6 @@
 {
-  "symbol": "aens",
-  "name": "Aave v3 ENS",
+  "symbol": "aEthENS",
+  "name": "Aave Ethereum ENS",
   "address": "0x545bd6c032efdde65a377a6719def2796c8e0f2e",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "usyc",
-  "name": "Hashnote USYC",
+  "symbol": "USYC",
+  "name": "US Yield Coin",
   "address": "0x136471a34f6ef19fe571effc1ca711fdb8e49f2b",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51054/thumb/Hashnote_Logo-icon-only_dark_200x200.png?1729873943",

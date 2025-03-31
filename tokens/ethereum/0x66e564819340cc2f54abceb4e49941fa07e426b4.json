@@ -1,8 +1,8 @@
 {
-  "symbol": "$brett",
-  "name": "BRETT0X66",
+  "symbol": "BRETT",
+  "name": "BRETT",
   "address": "0x66e564819340cc2f54abceb4e49941fa07e426b4",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38235/thumb/1000069263.jpg?1716860926",

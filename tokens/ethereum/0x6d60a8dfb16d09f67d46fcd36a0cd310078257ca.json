@@ -1,6 +1,6 @@
 {
-  "symbol": "cix",
-  "name": "Centurion Invest",
+  "symbol": "CIX",
+  "name": "Centurion Invest Token",
   "address": "0x6d60a8dfb16d09f67d46fcd36a0cd310078257ca",
   "decimals": 18,
   "type": "ERC20",

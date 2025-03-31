@@ -1,6 +1,6 @@
 {
-  "symbol": "lba",
-  "name": "Libra Credit",
+  "symbol": "LBA",
+  "name": "LibraToken",
   "address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
   "decimals": 18,
   "type": "ERC20",

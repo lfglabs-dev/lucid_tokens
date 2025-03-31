@@ -1,8 +1,8 @@
 {
-  "symbol": "$pp",
+  "symbol": "PP",
   "name": "Print The Pepe",
   "address": "0x8442e0e292186854bb6875b2a0fc1308b9ded793",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29964/thumb/printthepepe.PNG?1682389733",

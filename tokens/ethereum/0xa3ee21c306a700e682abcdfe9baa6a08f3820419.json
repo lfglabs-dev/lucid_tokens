@@ -1,6 +1,6 @@
 {
-  "symbol": "ctc",
-  "name": "Creditcoin",
+  "symbol": "G-CRE",
+  "name": "Gluwa Creditcoin Vesting Token",
   "address": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
   "decimals": 18,
   "type": "ERC20",

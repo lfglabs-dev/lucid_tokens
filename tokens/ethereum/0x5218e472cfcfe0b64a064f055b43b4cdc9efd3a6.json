@@ -1,6 +1,6 @@
 {
-  "symbol": "ersdl",
-  "name": "Residual Token",
+  "symbol": "eRSDL",
+  "name": "UnFederalReserveToken",
   "address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
   "decimals": 18,
   "type": "ERC20",

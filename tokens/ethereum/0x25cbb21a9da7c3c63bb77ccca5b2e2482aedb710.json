@@ -1,8 +1,8 @@
 {
-  "symbol": "hoba",
+  "symbol": "HOBA",
   "name": "Honey Badger",
   "address": "0x25cbb21a9da7c3c63bb77ccca5b2e2482aedb710",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39202/thumb/hoba_logo_2_200x200.png?1721033406",

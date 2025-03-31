@@ -1,8 +1,8 @@
 {
-  "symbol": "agusd",
-  "name": "Aave GUSD",
+  "symbol": "aGUSD",
+  "name": "Aave interest bearing GUSD",
   "address": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17246/thumb/aGUSD_2x.png?1626942603",

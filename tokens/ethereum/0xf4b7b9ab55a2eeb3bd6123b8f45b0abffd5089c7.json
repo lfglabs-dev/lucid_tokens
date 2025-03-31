@@ -1,8 +1,8 @@
 {
-  "symbol": "shib",
+  "symbol": "SHIB",
   "name": "Strategic Hub for Innovation in Blockchain",
   "address": "0xf4b7b9ab55a2eeb3bd6123b8f45b0abffd5089c7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51410/thumb/IMG_5825.jpeg?1731095991",

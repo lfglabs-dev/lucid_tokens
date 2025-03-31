@@ -1,6 +1,6 @@
 {
-  "symbol": "evermoon",
-  "name": "EverMoon ERC",
+  "symbol": "EVERMOON",
+  "name": "EverMoon",
   "address": "0x4ad434b8cdc3aa5ac97932d6bd18b5d313ab0f6f",
   "decimals": 18,
   "type": "ERC20",

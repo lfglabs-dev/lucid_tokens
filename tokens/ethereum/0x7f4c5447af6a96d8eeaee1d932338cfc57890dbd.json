@@ -1,6 +1,6 @@
 {
-  "symbol": "$dave",
-  "name": "Dave Coin",
+  "symbol": "DAVE",
+  "name": "Dave",
   "address": "0x7f4c5447af6a96d8eeaee1d932338cfc57890dbd",
   "decimals": 18,
   "type": "ERC20",

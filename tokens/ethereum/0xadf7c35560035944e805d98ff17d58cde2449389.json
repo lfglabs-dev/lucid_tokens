@@ -1,6 +1,6 @@
 {
-  "symbol": "spec",
-  "name": "Spectral",
+  "symbol": "SPEC",
+  "name": "Spectral Token",
   "address": "0xadf7c35560035944e805d98ff17d58cde2449389",
   "decimals": 18,
   "type": "ERC20",

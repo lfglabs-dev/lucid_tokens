@@ -1,6 +1,6 @@
 {
-  "symbol": "strdy",
-  "name": "Sturdy",
+  "symbol": "STRDY",
+  "name": "Sturdy Token",
   "address": "0xaeb3607ec434454ceb308f5cd540875efb54309a",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "grow",
-  "name": "ValleyDAO",
+  "symbol": "GROW",
+  "name": "ValleyDAO Token",
   "address": "0x761a3557184cbc07b7493da0661c41177b2f97fa",
   "decimals": 18,
   "type": "ERC20",

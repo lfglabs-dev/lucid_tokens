@@ -1,6 +1,6 @@
 {
-  "symbol": "rena",
-  "name": "RENA Finance",
+  "symbol": "RENA",
+  "name": "Rena",
   "address": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76",
   "decimals": 18,
   "type": "ERC20",

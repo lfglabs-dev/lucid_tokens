@@ -1,6 +1,6 @@
 {
-  "symbol": "spo",
-  "name": "Spores Network",
+  "symbol": "SPO",
+  "name": "Spores",
   "address": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
   "decimals": 18,
   "type": "ERC20",

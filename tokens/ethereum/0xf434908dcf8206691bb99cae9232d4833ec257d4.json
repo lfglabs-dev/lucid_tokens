@@ -1,6 +1,6 @@
 {
-  "symbol": "jack",
-  "name": "Blackjack.fun",
+  "symbol": "JACK",
+  "name": "Blackjack.fun Coin",
   "address": "0xf434908dcf8206691bb99cae9232d4833ec257d4",
   "decimals": 18,
   "type": "ERC20",

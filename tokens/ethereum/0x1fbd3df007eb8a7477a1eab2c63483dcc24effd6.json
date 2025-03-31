@@ -1,6 +1,6 @@
 {
-  "symbol": "sca",
-  "name": "Scaleswap",
+  "symbol": "SCA",
+  "name": "ScaleSwapToken",
   "address": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
   "decimals": 18,
   "type": "ERC20",

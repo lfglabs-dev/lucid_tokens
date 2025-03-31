@@ -1,6 +1,6 @@
 {
-  "symbol": "nova",
-  "name": "Nova",
+  "symbol": "NOVA",
+  "name": "Nova Token",
   "address": "0xd0b3a986fff305854a7238a8e099cce1ced01a3d",
   "decimals": 18,
   "type": "ERC20",

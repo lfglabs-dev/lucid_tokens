@@ -1,6 +1,6 @@
 {
-  "symbol": "handz",
-  "name": "Handz of Gods",
+  "symbol": "UNI-V2",
+  "name": "Uniswap V2",
   "address": "0x9baa12a9e3b9dc355f162082762f95626367d087",
   "decimals": 18,
   "type": "ERC20",

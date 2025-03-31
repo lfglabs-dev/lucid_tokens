@@ -1,6 +1,6 @@
 {
-  "symbol": "aenj",
-  "name": "Aave ENJ v1",
+  "symbol": "aENJ",
+  "name": "Aave Interest bearing ENJ",
   "address": "0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40",
   "decimals": 18,
   "type": "ERC20",

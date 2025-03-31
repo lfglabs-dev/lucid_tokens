@@ -1,6 +1,6 @@
 {
-  "symbol": "rfd",
-  "name": "Refund",
+  "symbol": "RFD",
+  "name": "REFUND",
   "address": "0x955d5c14c8d4944da1ea7836bd44d54a8ec35ba1",
   "decimals": 18,
   "type": "ERC20",

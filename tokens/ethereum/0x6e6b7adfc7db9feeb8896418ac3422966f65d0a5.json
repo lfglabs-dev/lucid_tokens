@@ -1,6 +1,6 @@
 {
-  "symbol": "net",
-  "name": "Nektar Network",
+  "symbol": "NET",
+  "name": "Nektar Token",
   "address": "0x6e6b7adfc7db9feeb8896418ac3422966f65d0a5",
   "decimals": 18,
   "type": "ERC20",

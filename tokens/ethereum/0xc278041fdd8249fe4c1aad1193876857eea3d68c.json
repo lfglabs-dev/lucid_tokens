@@ -1,6 +1,6 @@
 {
-  "symbol": "idletusdyield",
-  "name": "IdleTUSD (Best Yield)",
+  "symbol": "idleTUSDYield",
+  "name": "IdleTUSD v4 [Best yield]",
   "address": "0xc278041fdd8249fe4c1aad1193876857eea3d68c",
   "decimals": 18,
   "type": "ERC20",

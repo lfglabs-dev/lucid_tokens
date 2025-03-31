@@ -1,6 +1,6 @@
 {
-  "symbol": "pxp",
-  "name": "PointPay",
+  "symbol": "PXP",
+  "name": "PointPay Token",
   "address": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb",
   "decimals": 18,
   "type": "ERC20",

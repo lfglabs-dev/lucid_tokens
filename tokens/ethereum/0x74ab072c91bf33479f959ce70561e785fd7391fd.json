@@ -1,8 +1,8 @@
 {
-  "symbol": "gbtc",
-  "name": "GBTC6900",
+  "symbol": "GBTC6900",
+  "name": "GBTC",
   "address": "0x74ab072c91bf33479f959ce70561e785fd7391fd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50689/thumb/IMG_5468.jpeg?1728779712",

@@ -1,6 +1,6 @@
 {
-  "symbol": "fias",
-  "name": "FIAS",
+  "symbol": "FIAS",
+  "name": "Fias",
   "address": "0x8e4f1ce473b292d56934c36976356e3e22c35585",
   "decimals": 18,
   "type": "ERC20",

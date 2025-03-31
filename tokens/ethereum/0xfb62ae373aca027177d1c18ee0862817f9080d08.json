@@ -1,6 +1,6 @@
 {
-  "symbol": "dpet",
-  "name": "My DeFi Pet",
+  "symbol": "DPET",
+  "name": "My DeFi Pet Token",
   "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
   "decimals": 18,
   "type": "ERC20",

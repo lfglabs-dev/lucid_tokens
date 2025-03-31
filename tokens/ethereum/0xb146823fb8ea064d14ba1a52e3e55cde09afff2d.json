@@ -1,6 +1,6 @@
 {
-  "symbol": "eye",
-  "name": "EyeTech",
+  "symbol": "EYE",
+  "name": "ChartAI",
   "address": "0xb146823fb8ea064d14ba1a52e3e55cde09afff2d",
   "decimals": 18,
   "type": "ERC20",

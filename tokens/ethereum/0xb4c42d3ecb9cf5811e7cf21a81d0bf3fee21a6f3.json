@@ -1,8 +1,8 @@
 {
-  "symbol": "nwo",
-  "name": "NEW WORLD ORDER",
+  "symbol": "NWO",
+  "name": "New World Order",
   "address": "0xb4c42d3ecb9cf5811e7cf21a81d0bf3fee21a6f3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51828/thumb/IMG_4759.jpeg?1732042900",

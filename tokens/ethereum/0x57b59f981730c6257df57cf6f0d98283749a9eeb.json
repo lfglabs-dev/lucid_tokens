@@ -1,6 +1,6 @@
 {
-  "symbol": "build",
-  "name": "BUILD",
+  "symbol": "BUILD",
+  "name": "Build Token",
   "address": "0x57b59f981730c6257df57cf6f0d98283749a9eeb",
   "decimals": 18,
   "type": "ERC20",

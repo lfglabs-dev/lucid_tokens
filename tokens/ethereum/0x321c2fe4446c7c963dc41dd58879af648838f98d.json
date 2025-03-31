@@ -1,6 +1,6 @@
 {
-  "symbol": "ctx",
-  "name": "Cryptex Finance",
+  "symbol": "CTX",
+  "name": "Cryptex",
   "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
   "decimals": 18,
   "type": "ERC20",

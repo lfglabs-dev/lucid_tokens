@@ -1,6 +1,6 @@
 {
-  "symbol": "sccn",
-  "name": "Succession",
+  "symbol": "SCCN",
+  "name": "SUCCESSION",
   "address": "0xdfddf7a69716124bc346ba556d4b9f9e74c4a8bc",
   "decimals": 18,
   "type": "ERC20",

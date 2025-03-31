@@ -1,6 +1,6 @@
 {
-  "symbol": "one",
-  "name": "One",
+  "symbol": "ONE",
+  "name": "BigONE Token",
   "address": "0x946551dd05c5abd7cc808927480225ce36d8c475",
   "decimals": 18,
   "type": "ERC20",

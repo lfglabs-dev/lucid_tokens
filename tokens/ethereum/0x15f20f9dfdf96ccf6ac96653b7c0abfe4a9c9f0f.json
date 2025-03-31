@@ -1,6 +1,6 @@
 {
-  "symbol": "wsb",
-  "name": "Wall Street Baby",
+  "symbol": "WSB",
+  "name": "WALL STREET BABY",
   "address": "0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
   "decimals": 18,
   "type": "ERC20",

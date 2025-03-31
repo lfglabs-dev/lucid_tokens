@@ -1,6 +1,6 @@
 {
-  "symbol": "$icons",
-  "name": "SportsIcon",
+  "symbol": "$ICONS",
+  "name": "$ICONS Token",
   "address": "0x3f68e7b44e9bcb486c2feadb7a2289d9cdfc9088",
   "decimals": 18,
   "type": "ERC20",

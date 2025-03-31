@@ -1,8 +1,8 @@
 {
-  "symbol": "ryno",
+  "symbol": "RYNO",
   "name": "Ryno AI",
   "address": "0x82e229f145aa61000e523f97e5e8174107414897",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50345/thumb/coingecko.png?1727247804",

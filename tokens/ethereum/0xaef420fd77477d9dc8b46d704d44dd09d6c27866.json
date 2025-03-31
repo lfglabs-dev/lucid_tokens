@@ -1,8 +1,8 @@
 {
-  "symbol": "cgv",
-  "name": "Cogito Finance",
+  "symbol": "CGV",
+  "name": "Cogito Governance Token",
   "address": "0xaef420fd77477d9dc8b46d704d44dd09d6c27866",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30731/thumb/CGV_logo_32.png?1686648683",

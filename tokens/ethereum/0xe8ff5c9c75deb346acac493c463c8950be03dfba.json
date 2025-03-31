@@ -1,6 +1,6 @@
 {
-  "symbol": "vibe",
-  "name": "VIBE",
+  "symbol": "VIBE",
+  "name": "Vibe Coin",
   "address": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
   "decimals": 18,
   "type": "ERC20",

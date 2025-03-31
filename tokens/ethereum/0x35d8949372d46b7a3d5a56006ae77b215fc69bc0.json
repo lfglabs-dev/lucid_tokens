@@ -1,6 +1,6 @@
 {
-  "symbol": "usd0++",
-  "name": "Staked USD0",
+  "symbol": "USD0++",
+  "name": "USD0 Liquid Bond",
   "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
   "decimals": 18,
   "type": "ERC20",

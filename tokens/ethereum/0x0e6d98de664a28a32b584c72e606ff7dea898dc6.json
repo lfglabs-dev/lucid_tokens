@@ -1,6 +1,6 @@
 {
-  "symbol": "prai",
-  "name": "Produce AI",
+  "symbol": "PRAI",
+  "name": "ProduceAI",
   "address": "0x0e6d98de664a28a32b584c72e606ff7dea898dc6",
   "decimals": 18,
   "type": "ERC20",

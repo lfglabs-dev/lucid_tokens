@@ -1,6 +1,6 @@
 {
-  "symbol": "spork",
-  "name": "SporkDAO",
+  "symbol": "SPORK",
+  "name": "The SporkDAO Token",
   "address": "0xb624fde1a972b1c89ec1dad691442d5e8e891469",
   "decimals": 18,
   "type": "ERC20",

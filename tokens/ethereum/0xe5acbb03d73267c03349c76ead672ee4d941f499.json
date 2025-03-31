@@ -1,8 +1,8 @@
 {
-  "symbol": "beam",
-  "name": "BEAM",
+  "symbol": "WBEAM",
+  "name": "Wrapped BEAM",
   "address": "0xe5acbb03d73267c03349c76ead672ee4d941f499",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7339/thumb/BEAM.png?1558013729",

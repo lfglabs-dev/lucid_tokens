@@ -1,8 +1,8 @@
 {
-  "symbol": "neirei",
+  "symbol": "NEIREI",
   "name": "Neirei",
   "address": "0x1d4fb9bfa1967be6ca74819e28b98c2aa5ae8b59",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50238/thumb/NeiRei_Logo_200x200_TSP.png?1726675694",

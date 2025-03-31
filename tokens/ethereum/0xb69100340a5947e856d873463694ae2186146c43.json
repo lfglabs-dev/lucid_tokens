@@ -1,8 +1,8 @@
 {
-  "symbol": "peper",
-  "name": "Baby Pepe on ETH",
+  "symbol": "PEPER",
+  "name": "Baby Pepe",
   "address": "0xb69100340a5947e856d873463694ae2186146c43",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38904/thumb/PEPER200.png?1719470358",

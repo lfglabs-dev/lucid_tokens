@@ -1,6 +1,6 @@
 {
-  "symbol": "ocn",
-  "name": "Odyssey",
+  "symbol": "OCN",
+  "name": "OCoin",
   "address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
   "decimals": 18,
   "type": "ERC20",

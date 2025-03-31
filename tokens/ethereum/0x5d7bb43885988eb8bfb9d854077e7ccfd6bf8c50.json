@@ -1,6 +1,6 @@
 {
-  "symbol": "adbe.d",
-  "name": "Dinari ADBE",
+  "symbol": "ADBE.d",
+  "name": "Adobe Inc. - Dinari",
   "address": "0x5d7bb43885988eb8bfb9d854077e7ccfd6bf8c50",
   "decimals": 18,
   "type": "ERC20",

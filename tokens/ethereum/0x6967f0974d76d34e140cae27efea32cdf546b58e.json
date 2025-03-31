@@ -1,6 +1,6 @@
 {
-  "symbol": "gmrt",
-  "name": "The Game Company",
+  "symbol": "GMRT",
+  "name": "Gamertag Token",
   "address": "0x6967f0974d76d34e140cae27efea32cdf546b58e",
   "decimals": 18,
   "type": "ERC20",

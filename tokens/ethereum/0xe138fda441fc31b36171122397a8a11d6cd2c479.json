@@ -1,8 +1,8 @@
 {
-  "symbol": "gtc",
-  "name": "Global Trust Coin",
+  "symbol": "GTC",
+  "name": "GTIB",
   "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7752/thumb/gtib.png?1550222444",

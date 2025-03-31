@@ -1,6 +1,6 @@
 {
-  "symbol": "gdag",
-  "name": "GhostDAG.org",
+  "symbol": "GDAG",
+  "name": "GHOSTDAG",
   "address": "0x8bf30e9f44e5d068a9d0c20da22660997a532e33",
   "decimals": 18,
   "type": "ERC20",

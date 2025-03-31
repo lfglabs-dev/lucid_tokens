@@ -1,6 +1,6 @@
 {
-  "symbol": "scm",
-  "name": "ScamFari",
+  "symbol": "SCM",
+  "name": "Scamfari",
   "address": "0x8353b92201f19b4812eee32efd325f7ede123718",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "arbx",
-  "name": "Arbitrax AI",
+  "symbol": "ARBX",
+  "name": "ArbitraX AI",
   "address": "0xcac88fbd9b3fb2b018be2b68e3c55aa90628be6e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53792/thumb/logo.png?1737383376",

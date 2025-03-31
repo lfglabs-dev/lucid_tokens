@@ -1,6 +1,6 @@
 {
-  "symbol": "clv",
-  "name": "Clover Finance",
+  "symbol": "CLV",
+  "name": "Clover",
   "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
   "decimals": 18,
   "type": "ERC20",

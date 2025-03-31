@@ -1,8 +1,8 @@
 {
-  "symbol": "seai",
+  "symbol": "SEAI",
   "name": "ServeFi AI",
   "address": "0x6fcd2db93082e85d662173a70feaf59b97860c3e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52831/thumb/servefi_logo.jpg?1734455089",

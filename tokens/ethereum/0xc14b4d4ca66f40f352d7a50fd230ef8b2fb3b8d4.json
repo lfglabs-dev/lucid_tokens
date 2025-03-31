@@ -1,6 +1,6 @@
 {
-  "symbol": "tools",
-  "name": "Blocktools",
+  "symbol": "TOOLS",
+  "name": "BLOCKTOOLS",
   "address": "0xc14b4d4ca66f40f352d7a50fd230ef8b2fb3b8d4",
   "decimals": 18,
   "type": "ERC20",

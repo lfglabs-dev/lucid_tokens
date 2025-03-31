@@ -1,8 +1,8 @@
 {
-  "symbol": "blkc",
-  "name": "BlackHat Coin",
+  "symbol": "BLKC",
+  "name": "BlackHat",
   "address": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15987/thumb/logo_light.png?1622537905",

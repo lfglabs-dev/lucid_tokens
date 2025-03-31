@@ -1,6 +1,6 @@
 {
-  "symbol": "bnb",
-  "name": "Binance Coin (Wormhole)",
+  "symbol": "WBNB",
+  "name": "Wrapped BNB",
   "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
   "decimals": 18,
   "type": "ERC20",

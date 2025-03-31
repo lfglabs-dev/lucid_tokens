@@ -1,6 +1,6 @@
 {
-  "symbol": "aammbptwbtcweth",
-  "name": "Aave AMM BptWBTCWETH",
+  "symbol": "aAmmBptWBTCWETH",
+  "name": "Aave AMM Market BptWBTCWETH",
   "address": "0x358bd0d980e031e23eba9aa793926857703783bd",
   "decimals": 18,
   "type": "ERC20",

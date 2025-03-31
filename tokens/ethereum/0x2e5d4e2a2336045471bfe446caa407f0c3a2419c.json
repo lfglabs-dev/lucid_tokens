@@ -1,8 +1,8 @@
 {
-  "symbol": "rsvusdt",
+  "symbol": "rsvUSDT",
   "name": "RedSonic Vault Tether USD",
   "address": "0x2e5d4e2a2336045471bfe446caa407f0c3a2419c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39743/thumb/rsv_usdt.png?1723781316",

@@ -1,6 +1,6 @@
 {
-  "symbol": "wander",
-  "name": "WANDER",
+  "symbol": "WANDER",
+  "name": "WanderCoin",
   "address": "0x25c31b1f93f846c7c8debfd05898f162740a4581",
   "decimals": 18,
   "type": "ERC20",

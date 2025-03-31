@@ -1,8 +1,8 @@
 {
-  "symbol": "edlc",
+  "symbol": "EDLC",
   "name": "Edelcoin",
   "address": "0xc47ef9b19c3e29317a50f5fbe594eba361dada4a",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31621/thumb/edelcoin_logo_200_%281%29.png?1694075153",

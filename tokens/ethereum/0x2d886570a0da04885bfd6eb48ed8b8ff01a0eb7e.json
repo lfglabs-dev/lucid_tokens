@@ -1,8 +1,8 @@
 {
-  "symbol": "bcb",
+  "symbol": "BCB",
   "name": "Blockchain Bets",
   "address": "0x2d886570a0da04885bfd6eb48ed8b8ff01a0eb7e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28694/thumb/200x200.jpg?1673412258",

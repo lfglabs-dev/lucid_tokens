@@ -1,6 +1,6 @@
 {
-  "symbol": "usdz",
-  "name": "USD ZEE",
+  "symbol": "USDZ",
+  "name": "USDZ",
   "address": "0x8baef8c9568c21b1a2b2fd048f8b4da835691fd0",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "gou",
+  "symbol": "GOU",
   "name": "Gou",
   "address": "0xed89fc0f41d8be2c98b13b7e3cd3e876d73f1d30",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39792/thumb/Gou200x200.png?1724116497",

@@ -1,8 +1,8 @@
 {
-  "symbol": "coshi",
+  "symbol": "CoShi",
   "name": "CoShi Inu",
   "address": "0x668c50b1c7f46effbe3f242687071d7908aab00a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15219/thumb/200.jpg?1620119215",

@@ -1,8 +1,8 @@
 {
-  "symbol": "tsla",
+  "symbol": "TSLA",
   "name": "TSLA6900",
   "address": "0xa3bc09171c009f05df7f0b8aaa818ee42d8a91bc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50692/thumb/IMG_0315.jpeg?1728781026",

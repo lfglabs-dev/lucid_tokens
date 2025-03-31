@@ -1,6 +1,6 @@
 {
-  "symbol": "osmi",
-  "name": "OSMI",
+  "symbol": "OSMI",
+  "name": "Osmi AI",
   "address": "0x5485a469faea1492191cfce7528ab6e58135aa4d",
   "decimals": 18,
   "type": "ERC20",

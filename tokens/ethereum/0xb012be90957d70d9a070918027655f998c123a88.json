@@ -1,6 +1,6 @@
 {
-  "symbol": "hmx",
-  "name": "Hermes DAO",
+  "symbol": "HMX",
+  "name": "Hermes",
   "address": "0xb012be90957d70d9a070918027655f998c123a88",
   "decimals": 18,
   "type": "ERC20",

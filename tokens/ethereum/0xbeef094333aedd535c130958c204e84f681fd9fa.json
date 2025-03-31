@@ -1,6 +1,6 @@
 {
-  "symbol": "steakwbtc",
-  "name": "Steakhouse WBTC Morpho Vault",
+  "symbol": "steakWBTC",
+  "name": "Steakhouse WBTC",
   "address": "0xbeef094333aedd535c130958c204e84f681fd9fa",
   "decimals": 18,
   "type": "ERC20",

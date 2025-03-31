@@ -1,8 +1,8 @@
 {
-  "symbol": "mcf",
-  "name": "MCFinance",
+  "symbol": "MCF",
+  "name": "MCF token",
   "address": "0xe33ae4e795114279721047484e5ad5cc7df24fcb",
-  "decimals": 18,
+  "decimals": 10,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17608/thumb/arFRQ0b.png?1628650181",

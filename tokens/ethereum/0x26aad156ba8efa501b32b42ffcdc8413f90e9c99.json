@@ -1,6 +1,6 @@
 {
-  "symbol": "edu",
-  "name": "Open Campus",
+  "symbol": "EDU",
+  "name": "EDU Coin",
   "address": "0x26aad156ba8efa501b32b42ffcdc8413f90e9c99",
   "decimals": 18,
   "type": "ERC20",

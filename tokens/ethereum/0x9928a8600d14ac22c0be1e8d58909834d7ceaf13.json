@@ -1,8 +1,8 @@
 {
-  "symbol": "dnx",
-  "name": "Dynex",
+  "symbol": "0xDNX",
+  "name": "Wrapped DNX",
   "address": "0x9928a8600d14ac22c0be1e8d58909834d7ceaf13",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27776/thumb/Transparent_Logo.png?1665728441",

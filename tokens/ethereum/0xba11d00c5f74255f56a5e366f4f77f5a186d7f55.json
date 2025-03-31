@@ -1,6 +1,6 @@
 {
-  "symbol": "band",
-  "name": "Band Protocol",
+  "symbol": "BAND",
+  "name": "BandToken",
   "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
   "decimals": 18,
   "type": "ERC20",

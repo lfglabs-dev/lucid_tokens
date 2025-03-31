@@ -1,8 +1,8 @@
 {
-  "symbol": "duckies",
+  "symbol": "DUCKIES",
   "name": "Yellow Duckies",
   "address": "0x90b7e285ab6cf4e3a2487669dba3e339db8a3320",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27630/thumb/logo.png?1664956807",

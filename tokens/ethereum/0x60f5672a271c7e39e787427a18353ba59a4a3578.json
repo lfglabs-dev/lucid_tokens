@@ -1,6 +1,6 @@
 {
-  "symbol": "pika",
-  "name": "Pika",
+  "symbol": "PIKA",
+  "name": "PIKA",
   "address": "0x60f5672a271c7e39e787427a18353ba59a4a3578",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "payb",
-  "name": "PayB",
+  "symbol": "PAYB",
+  "name": "PAYBTC",
   "address": "0xdcb5645eda1ed34c5641d81b927d33ebae9cf2a4",
   "decimals": 18,
   "type": "ERC20",

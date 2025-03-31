@@ -1,6 +1,6 @@
 {
-  "symbol": "dvt",
-  "name": "SafeStake",
+  "symbol": "DVT",
+  "name": "SafeStake Network Token",
   "address": "0x29fa1fee0f4f0ab0e36ef7ab8d7a35439ec6be75",
   "decimals": 18,
   "type": "ERC20",

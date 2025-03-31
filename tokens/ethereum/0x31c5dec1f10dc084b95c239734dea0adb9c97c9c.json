@@ -1,6 +1,6 @@
 {
-  "symbol": "ojee",
-  "name": "VIMworld OJEE",
+  "symbol": "OJEE",
+  "name": "VIMworld",
   "address": "0x31c5dec1f10dc084b95c239734dea0adb9c97c9c",
   "decimals": 18,
   "type": "ERC20",

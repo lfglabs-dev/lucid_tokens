@@ -1,8 +1,8 @@
 {
-  "symbol": "track",
+  "symbol": "TRACK",
   "name": "Tracker AI",
   "address": "0xda558a295e8d2c1438f7b4806e283940dec7e6db",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36131/thumb/IMG_20240305_181940_607_%281%29.png?1710581387",

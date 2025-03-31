@@ -1,8 +1,8 @@
 {
-  "symbol": "stilt",
+  "symbol": "STILT",
   "name": "Stilton",
   "address": "0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26132/thumb/2vfQHbe9_400x400.png?1655969754",

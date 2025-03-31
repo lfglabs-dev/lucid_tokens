@@ -1,6 +1,6 @@
 {
-  "symbol": "wojak",
-  "name": "Wojak",
+  "symbol": "WOJAK",
+  "name": "Wojak Coin",
   "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
   "decimals": 18,
   "type": "ERC20",

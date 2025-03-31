@@ -1,6 +1,6 @@
 {
-  "symbol": "u",
-  "name": "U Coin",
+  "symbol": "U",
+  "name": "UCOIN",
   "address": "0xe07710cdcd1c9f0fb04bfd013f9854e4552671ce",
   "decimals": 18,
   "type": "ERC20",

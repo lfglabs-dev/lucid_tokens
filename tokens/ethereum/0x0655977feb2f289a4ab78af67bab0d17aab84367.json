@@ -1,5 +1,5 @@
 {
-  "symbol": "scrvusd",
+  "symbol": "scrvUSD",
   "name": "Savings crvUSD",
   "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
   "decimals": 18,

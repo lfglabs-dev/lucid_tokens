@@ -1,6 +1,6 @@
 {
-  "symbol": "shk",
-  "name": "iShook",
+  "symbol": "SHK",
+  "name": "SHOOK",
   "address": "0xebe4a49df7885d015329c919bf43e6460a858f1e",
   "decimals": 18,
   "type": "ERC20",

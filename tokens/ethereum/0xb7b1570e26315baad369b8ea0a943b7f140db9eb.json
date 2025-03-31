@@ -1,8 +1,8 @@
 {
-  "symbol": "dps",
+  "symbol": "DPS",
   "name": "DEEPSPACE",
   "address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17953/thumb/f1LFu897_400x400.jpg?1629898614",

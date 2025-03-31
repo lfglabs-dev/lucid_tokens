@@ -1,6 +1,6 @@
 {
-  "symbol": "sena",
-  "name": "Ethena Staked ENA",
+  "symbol": "sENA",
+  "name": "Staked ENA",
   "address": "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9",
   "decimals": 18,
   "type": "ERC20",

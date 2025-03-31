@@ -1,8 +1,8 @@
 {
-  "symbol": "mbtc",
-  "name": "Babypie Wrapped BTC",
+  "symbol": "mBTC",
+  "name": "Liquid Staked BTC",
   "address": "0xbdf245957992bfbc62b07e344128a1eec7b7ee3f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50314/thumb/mbtc_%281%29.png?1727079604",

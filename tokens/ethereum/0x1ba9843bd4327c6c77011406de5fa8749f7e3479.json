@@ -1,6 +1,6 @@
 {
-  "symbol": "astg",
-  "name": "Aave v3 STG",
+  "symbol": "aEthSTG",
+  "name": "Aave Ethereum STG",
   "address": "0x1ba9843bd4327c6c77011406de5fa8749f7e3479",
   "decimals": 18,
   "type": "ERC20",

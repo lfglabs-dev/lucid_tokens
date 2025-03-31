@@ -1,6 +1,6 @@
 {
-  "symbol": "fuse",
-  "name": "Fuse",
+  "symbol": "FUSE",
+  "name": "Fuse Token",
   "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
   "decimals": 18,
   "type": "ERC20",

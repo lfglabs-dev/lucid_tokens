@@ -1,6 +1,6 @@
 {
-  "symbol": "fwt",
-  "name": "Freeway",
+  "symbol": "FWT",
+  "name": "FreewayToken",
   "address": "0x20e7125677311fca903a8897042b9983f22ea295",
   "decimals": 18,
   "type": "ERC20",

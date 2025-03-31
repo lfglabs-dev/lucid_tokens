@@ -1,6 +1,6 @@
 {
-  "symbol": "vachi",
-  "name": "NOVAWCHI",
+  "symbol": "VACHI",
+  "name": "Novawchi",
   "address": "0x337af08bb6980ecb68389c5ed8876d08643abf8a",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "uranus",
-  "name": "URANUS",
+  "symbol": "URANUS",
+  "name": "Uranus",
   "address": "0x355c46eebbcbe1fc2844ade63ee565204addd37c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50423/thumb/CG_logo.png?1727686956",

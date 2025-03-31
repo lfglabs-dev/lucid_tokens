@@ -1,6 +1,6 @@
 {
-  "symbol": "shido",
-  "name": "Shido Network",
+  "symbol": "SHIDO",
+  "name": "Shido",
   "address": "0xe2512a2f19f0388ad3d7a5263eaa82acd564827b",
   "decimals": 18,
   "type": "ERC20",

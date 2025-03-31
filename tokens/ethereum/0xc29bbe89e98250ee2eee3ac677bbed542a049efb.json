@@ -1,6 +1,6 @@
 {
-  "symbol": "cdn",
-  "name": "CEDEN",
+  "symbol": "CDN",
+  "name": "CEDEN Network Token",
   "address": "0xc29bbe89e98250ee2eee3ac677bbed542a049efb",
   "decimals": 18,
   "type": "ERC20",

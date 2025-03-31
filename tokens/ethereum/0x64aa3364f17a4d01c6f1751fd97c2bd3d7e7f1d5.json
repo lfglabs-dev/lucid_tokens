@@ -1,8 +1,8 @@
 {
-  "symbol": "ohm",
+  "symbol": "OHM",
   "name": "Olympus",
   "address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1628311611",

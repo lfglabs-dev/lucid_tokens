@@ -1,8 +1,8 @@
 {
-  "symbol": "cbu",
-  "name": "Banque Universal",
+  "symbol": "CBU",
+  "name": "BANQUEUNIVERSAL",
   "address": "0xcef46305d096fa876dd23048bf80f9345282e3fc",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/8112/thumb/png_tr.png?1554952499",

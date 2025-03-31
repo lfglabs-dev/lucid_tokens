@@ -1,6 +1,6 @@
 {
-  "symbol": "dxn",
-  "name": "DBXen",
+  "symbol": "DXN",
+  "name": "DBXen Token",
   "address": "0x80f0c1c49891dcfdd40b6e0f960f84e6042bcb6f",
   "decimals": 18,
   "type": "ERC20",

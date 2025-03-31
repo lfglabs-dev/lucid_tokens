@@ -1,6 +1,6 @@
 {
-  "symbol": "nxra",
-  "name": "Nexera",
+  "symbol": "NXRA",
+  "name": "AllianceBlock Nexera Token",
   "address": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
   "decimals": 18,
   "type": "ERC20",

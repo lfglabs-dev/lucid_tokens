@@ -1,8 +1,8 @@
 {
-  "symbol": "bitcoin",
-  "name": "HarryPotterObamaSonic10Inu (ETH)",
+  "symbol": "BITCOIN",
+  "name": "HarryPotterObamaSonic10Inu",
   "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30323/thumb/hpos10i_logo_casino_night-dexview.png?1684117567",

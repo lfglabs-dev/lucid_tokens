@@ -1,6 +1,6 @@
 {
-  "symbol": "safe",
-  "name": "Safe",
+  "symbol": "SAFE",
+  "name": "Safe Token",
   "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
   "decimals": 18,
   "type": "ERC20",

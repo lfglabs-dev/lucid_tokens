@@ -1,8 +1,8 @@
 {
-  "symbol": "dogei",
+  "symbol": "DOGEI",
   "name": "Dogei",
   "address": "0xe6705367880b4d5d1aeae948fd620f55ef7413e4",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51911/thumb/Dogei_C_200x200.png?1732177550",

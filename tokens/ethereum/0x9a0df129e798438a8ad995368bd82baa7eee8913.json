@@ -1,6 +1,6 @@
 {
-  "symbol": "beep",
-  "name": "BEEP Coin",
+  "symbol": "BEEP",
+  "name": "Beep",
   "address": "0x9a0df129e798438a8ad995368bd82baa7eee8913",
   "decimals": 18,
   "type": "ERC20",

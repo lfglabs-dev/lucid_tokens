@@ -1,8 +1,8 @@
 {
-  "symbol": "pfrog",
+  "symbol": "PFROG",
   "name": "Peace Frog",
   "address": "0xa44136dc2e7a1543abbbf1c2a97e57c8d885e0be",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52282/thumb/IMG_20241128_072112_974.jpg?1732939435",

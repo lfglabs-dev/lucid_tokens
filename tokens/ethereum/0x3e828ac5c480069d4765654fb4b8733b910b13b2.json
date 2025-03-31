@@ -1,6 +1,6 @@
 {
-  "symbol": "clny",
-  "name": "Colony Network",
+  "symbol": "CLNY",
+  "name": "Colony Network Token",
   "address": "0x3e828ac5c480069d4765654fb4b8733b910b13b2",
   "decimals": 18,
   "type": "ERC20",

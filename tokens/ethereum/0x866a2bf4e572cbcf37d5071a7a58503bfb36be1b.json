@@ -1,8 +1,8 @@
 {
-  "symbol": "m",
+  "symbol": "M",
   "name": "M by M^0",
   "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/40048/thumb/M_Symbol_256x256.png?1725445596",

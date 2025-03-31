@@ -1,8 +1,8 @@
 {
-  "symbol": "zazzles",
+  "symbol": "ZAZZLES",
   "name": "Zazzles",
   "address": "0x44a023a4c32bdd2c89ee87ee76a2332b1a883012",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39071/thumb/ZA200.jpg?1720224896",

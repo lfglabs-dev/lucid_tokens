@@ -1,6 +1,6 @@
 {
-  "symbol": "poai",
-  "name": "Port AI",
+  "symbol": "POAI",
+  "name": "PORT AI",
   "address": "0x2056ec69ac5afaf210b851ff74de4c194fcd986e",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "monkeys",
+  "symbol": "MONKEYS",
   "name": "Monkeys",
   "address": "0xf2a22b900dde3ba18ec2aef67d4c8c1a0dab6aac",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29815/thumb/photo_2023-04-09_04-20-36.jpg?1681434852",

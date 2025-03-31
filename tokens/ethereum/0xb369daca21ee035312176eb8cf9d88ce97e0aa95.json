@@ -1,6 +1,6 @@
 {
-  "symbol": "$skol",
-  "name": "Skol",
+  "symbol": "SKOL",
+  "name": "Skol!",
   "address": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95",
   "decimals": 18,
   "type": "ERC20",

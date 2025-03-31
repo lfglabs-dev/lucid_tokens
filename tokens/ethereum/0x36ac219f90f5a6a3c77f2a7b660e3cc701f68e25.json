@@ -1,6 +1,6 @@
 {
-  "symbol": "xcm",
-  "name": "Coinmetro",
+  "symbol": "XCM",
+  "name": "CoinMetro Token",
   "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
   "decimals": 18,
   "type": "ERC20",

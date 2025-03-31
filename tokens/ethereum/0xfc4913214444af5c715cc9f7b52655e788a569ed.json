@@ -1,8 +1,8 @@
 {
-  "symbol": "icsa",
-  "name": "Icosa (ETH)",
+  "symbol": "ICSA",
+  "name": "Icosa",
   "address": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37540/thumb/icosa.jpeg?1714705688",

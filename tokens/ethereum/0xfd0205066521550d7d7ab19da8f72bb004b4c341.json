@@ -1,6 +1,6 @@
 {
-  "symbol": "lit",
-  "name": "Timeless",
+  "symbol": "LIT",
+  "name": "Liquidity Incentive Token",
   "address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341",
   "decimals": 18,
   "type": "ERC20",

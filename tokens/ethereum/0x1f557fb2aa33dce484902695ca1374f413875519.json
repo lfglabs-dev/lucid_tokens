@@ -1,6 +1,6 @@
 {
-  "symbol": "ves",
-  "name": "Vestate",
+  "symbol": "VES",
+  "name": "VESTATE",
   "address": "0x1f557fb2aa33dce484902695ca1374f413875519",
   "decimals": 18,
   "type": "ERC20",

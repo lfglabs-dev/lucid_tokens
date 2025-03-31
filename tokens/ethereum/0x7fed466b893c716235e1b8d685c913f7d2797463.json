@@ -1,8 +1,8 @@
 {
-  "symbol": "thub",
+  "symbol": "THUB",
   "name": "TensorHub",
   "address": "0x7fed466b893c716235e1b8d685c913f7d2797463",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36779/thumb/Tensor.jpeg?1712310491",

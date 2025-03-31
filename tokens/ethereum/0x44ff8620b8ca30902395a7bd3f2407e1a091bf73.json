@@ -1,6 +1,6 @@
 {
-  "symbol": "virtual",
-  "name": "Virtuals Protocol",
+  "symbol": "VIRTUAL",
+  "name": "Virtual Protocol",
   "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
   "decimals": 18,
   "type": "ERC20",

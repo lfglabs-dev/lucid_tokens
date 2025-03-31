@@ -1,6 +1,6 @@
 {
-  "symbol": "afrax",
-  "name": "Aave v3 FRAX",
+  "symbol": "aEthFRAX",
+  "name": "Aave Ethereum FRAX",
   "address": "0xd4e245848d6e1220dbe62e155d89fa327e43cb06",
   "decimals": 18,
   "type": "ERC20",

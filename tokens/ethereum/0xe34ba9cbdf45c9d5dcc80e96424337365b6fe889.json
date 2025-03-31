@@ -1,8 +1,8 @@
 {
-  "symbol": "medusa",
+  "symbol": "MEDUSA",
   "name": "Medusa",
   "address": "0xe34ba9cbdf45c9d5dcc80e96424337365b6fe889",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51533/thumb/madusa.png?1731498818",

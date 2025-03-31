@@ -1,8 +1,8 @@
 {
-  "symbol": "biao",
+  "symbol": "BIAO",
   "name": "Biaocoin",
   "address": "0x00282fd551d03dc033256c4bf119532e8c735d8a",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30602/thumb/biao_cmc.png?1685516220",

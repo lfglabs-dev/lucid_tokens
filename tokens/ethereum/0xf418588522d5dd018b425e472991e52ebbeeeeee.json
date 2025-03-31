@@ -1,6 +1,6 @@
 {
-  "symbol": "push",
-  "name": "Push Protocol",
+  "symbol": "PUSH",
+  "name": "Ethereum Push Notification Service",
   "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
   "decimals": 18,
   "type": "ERC20",

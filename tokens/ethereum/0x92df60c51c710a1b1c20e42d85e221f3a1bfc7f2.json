@@ -1,6 +1,6 @@
 {
-  "symbol": "banana",
-  "name": "ApeSwap",
+  "symbol": "BANANA",
+  "name": "ApeSwapFinance Banana",
   "address": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
   "decimals": 18,
   "type": "ERC20",

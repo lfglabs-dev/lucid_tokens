@@ -1,6 +1,6 @@
 {
-  "symbol": "sexy",
-  "name": "Settled EthXY Token",
+  "symbol": "SEXY",
+  "name": "Settled ETHXY Token",
   "address": "0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2",
   "decimals": 18,
   "type": "ERC20",

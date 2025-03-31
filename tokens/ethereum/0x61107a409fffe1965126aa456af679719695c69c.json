@@ -1,6 +1,6 @@
 {
-  "symbol": "umi",
-  "name": "Umi Digital",
+  "symbol": "UMI",
+  "name": "UmiToken",
   "address": "0x61107a409fffe1965126aa456af679719695c69c",
   "decimals": 18,
   "type": "ERC20",

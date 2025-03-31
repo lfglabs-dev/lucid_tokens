@@ -1,6 +1,6 @@
 {
-  "symbol": "fxn",
-  "name": "f(x) Protocol",
+  "symbol": "FXN",
+  "name": "FXN Token",
   "address": "0x365accfca291e7d3914637abf1f7635db165bb09",
   "decimals": 18,
   "type": "ERC20",

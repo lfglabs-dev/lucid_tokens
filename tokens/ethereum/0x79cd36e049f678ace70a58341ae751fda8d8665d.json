@@ -1,6 +1,6 @@
 {
-  "symbol": "frepe",
-  "name": "Fren Pepe",
+  "symbol": "FREPE",
+  "name": "Frepe",
   "address": "0x79cd36e049f678ace70a58341ae751fda8d8665d",
   "decimals": 18,
   "type": "ERC20",

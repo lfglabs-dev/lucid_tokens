@@ -1,6 +1,6 @@
 {
-  "symbol": "fit",
-  "name": "Fit",
+  "symbol": "FIT",
+  "name": "FIT",
   "address": "0x9b01637302b6adfc2c82678e2a8d680cff6337b7",
   "decimals": 18,
   "type": "ERC20",

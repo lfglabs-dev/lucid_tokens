@@ -1,6 +1,6 @@
 {
-  "symbol": "unit0",
-  "name": "Unit0",
+  "symbol": "UNIT0",
+  "name": "UNIT0",
   "address": "0x48b847cf774a5710f36f594b11fc10e2e59bba72",
   "decimals": 18,
   "type": "ERC20",

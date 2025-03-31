@@ -1,6 +1,6 @@
 {
-  "symbol": "ustb",
-  "name": "Re.al US T-Bill",
+  "symbol": "USTB",
+  "name": "US T-Bill",
   "address": "0x83fedbc0b85c6e29b589aa6bdefb1cc581935ecd",
   "decimals": 18,
   "type": "ERC20",

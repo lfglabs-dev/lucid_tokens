@@ -1,6 +1,6 @@
 {
-  "symbol": "gate",
-  "name": "GATENet",
+  "symbol": "GATE",
+  "name": "GATE",
   "address": "0x9d7630adf7ab0b0cb00af747db76864df0ec82e4",
   "decimals": 18,
   "type": "ERC20",

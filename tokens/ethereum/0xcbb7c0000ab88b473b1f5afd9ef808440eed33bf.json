@@ -1,8 +1,8 @@
 {
-  "symbol": "cbbtc",
+  "symbol": "cbBTC",
   "name": "Coinbase Wrapped BTC",
   "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/40143/thumb/cbbtc.png?1726018397",

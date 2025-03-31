@@ -1,8 +1,8 @@
 {
-  "symbol": "ethereum",
+  "symbol": "ETHEREUM",
   "name": "HarryPotterTrumpHomerSimpson777Inu",
   "address": "0x24249b5a869a445c9b0ce269a08d73c618df9d21",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31320/thumb/hp777_%281%29.jpg?1692354204",

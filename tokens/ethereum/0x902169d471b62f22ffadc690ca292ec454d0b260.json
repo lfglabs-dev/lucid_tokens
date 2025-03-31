@@ -1,6 +1,6 @@
 {
-  "symbol": "rbt",
-  "name": "Reboot World",
+  "symbol": "RBT",
+  "name": "RebootWorld",
   "address": "0x902169d471b62f22ffadc690ca292ec454d0b260",
   "decimals": 18,
   "type": "ERC20",

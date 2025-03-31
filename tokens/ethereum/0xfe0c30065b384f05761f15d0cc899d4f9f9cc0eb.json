@@ -1,6 +1,6 @@
 {
-  "symbol": "ethfi",
-  "name": "Ether.fi",
+  "symbol": "ETHFI",
+  "name": "ether.fi governance token",
   "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
   "decimals": 18,
   "type": "ERC20",

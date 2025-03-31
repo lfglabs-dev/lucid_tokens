@@ -1,6 +1,6 @@
 {
-  "symbol": "hez",
-  "name": "Hermez Network",
+  "symbol": "HEZ",
+  "name": "Hermez Network Token",
   "address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
   "decimals": 18,
   "type": "ERC20",

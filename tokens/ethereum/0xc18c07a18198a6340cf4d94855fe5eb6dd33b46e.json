@@ -1,8 +1,8 @@
 {
-  "symbol": "qlindo",
-  "name": "QLINDO",
+  "symbol": "QLINDO",
+  "name": "Qlindo Realestate Investment Token",
   "address": "0xc18c07a18198a6340cf4d94855fe5eb6dd33b46e",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26851/thumb/21315.png?1660467490",

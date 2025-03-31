@@ -1,6 +1,6 @@
 {
-  "symbol": "matrix",
-  "name": "Matrix Labs",
+  "symbol": "MATRIX",
+  "name": "MatrixSwapToken",
   "address": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "peri",
-  "name": "PERI Finance",
+  "symbol": "PERI",
+  "name": "Peri Finance Token",
   "address": "0x5d30ad9c6374bf925d0a75454fa327aacf778492",
   "decimals": 18,
   "type": "ERC20",

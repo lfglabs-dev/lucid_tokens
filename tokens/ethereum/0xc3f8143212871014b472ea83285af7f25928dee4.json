@@ -1,8 +1,8 @@
 {
-  "symbol": "sohot",
+  "symbol": "SOHOT",
   "name": "SOHOTRN",
   "address": "0xc3f8143212871014b472ea83285af7f25928dee4",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34719/thumb/SOHOTRN.png?1705916112",

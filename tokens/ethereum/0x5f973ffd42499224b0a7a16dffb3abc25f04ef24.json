@@ -1,8 +1,8 @@
 {
-  "symbol": "lab",
+  "symbol": "LAB",
   "name": "Labda",
   "address": "0x5f973ffd42499224b0a7a16dffb3abc25f04ef24",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53612/thumb/IMG_20250114_212146_358.png?1736887654",

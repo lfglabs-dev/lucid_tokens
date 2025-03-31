@@ -1,6 +1,6 @@
 {
-  "symbol": "wmemo",
-  "name": "Wonderful Memories",
+  "symbol": "wMEMO",
+  "name": "Wrapped MEMO",
   "address": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
   "decimals": 18,
   "type": "ERC20",

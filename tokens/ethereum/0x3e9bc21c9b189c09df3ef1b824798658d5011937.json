@@ -1,6 +1,6 @@
 {
-  "symbol": "lina",
-  "name": "Linear",
+  "symbol": "LINA",
+  "name": "Linear Token",
   "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
   "decimals": 18,
   "type": "ERC20",

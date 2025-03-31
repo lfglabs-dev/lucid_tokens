@@ -1,6 +1,6 @@
 {
-  "symbol": "octa",
-  "name": "OctaSpace",
+  "symbol": "wOCTA",
+  "name": "wOCTA",
   "address": "0xfa704148d516b209d52c2d75f239274c8f8eaf1a",
   "decimals": 18,
   "type": "ERC20",

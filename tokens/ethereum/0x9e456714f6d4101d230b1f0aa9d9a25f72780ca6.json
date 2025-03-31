@@ -1,8 +1,8 @@
 {
-  "symbol": "omagent",
+  "symbol": "OMAGENT",
   "name": "OmniAgent",
   "address": "0x9e456714f6d4101d230b1f0aa9d9a25f72780ca6",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52737/thumb/IMG_20241213_011935_730.jpg?1734105833",

@@ -1,8 +1,8 @@
 {
-  "symbol": "gatsby",
+  "symbol": "GATSBY",
   "name": "Gatsby Inu",
   "address": "0x5d0ebc4ec5ac18d30512fb6287886245061b3dbd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30578/thumb/gatsby.jpeg?1685355153",

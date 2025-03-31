@@ -1,6 +1,6 @@
 {
-  "symbol": "evry",
-  "name": "Evrynet",
+  "symbol": "EVRY",
+  "name": "EvrynetToken",
   "address": "0xd7dcd9b99787c619b4d57979521258d1a7267ad7",
   "decimals": 18,
   "type": "ERC20",

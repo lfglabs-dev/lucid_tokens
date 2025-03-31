@@ -1,8 +1,8 @@
 {
-  "symbol": "xshib",
+  "symbol": "XSHIB",
   "name": "XSHIB",
   "address": "0xb61ebb6bceb7635ecd7e59884ee2e2bcdfd810ba",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32839/thumb/LOGOSHIB.jpg?1699587693",

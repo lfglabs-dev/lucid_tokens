@@ -1,8 +1,8 @@
 {
-  "symbol": "bonki",
-  "name": "BONK Inu",
+  "symbol": "BONKI",
+  "name": "BONK INU",
   "address": "0xf995771a957c19319a7d8d58b4082b049420340f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33510/thumb/IMG_20231207_184637_498_%282%29.jpg?1702041006",

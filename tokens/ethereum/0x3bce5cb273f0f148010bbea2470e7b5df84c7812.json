@@ -1,6 +1,6 @@
 {
-  "symbol": "sceth",
-  "name": "Rings scETH",
+  "symbol": "scETH",
+  "name": "Sonic ETH",
   "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
   "decimals": 18,
   "type": "ERC20",

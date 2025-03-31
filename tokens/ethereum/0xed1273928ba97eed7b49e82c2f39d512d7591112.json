@@ -1,6 +1,6 @@
 {
-  "symbol": "nerd",
-  "name": "NerdBot",
+  "symbol": "NERD",
+  "name": "Nerd Token",
   "address": "0xed1273928ba97eed7b49e82c2f39d512d7591112",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "hai",
-  "name": "Hacken",
+  "symbol": "HAI",
+  "name": "Hacken Token",
   "address": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/11081/thumb/logo_haken_vector.png?1593511379",

@@ -1,8 +1,8 @@
 {
-  "symbol": "reuni",
-  "name": "Reunit Wallet",
+  "symbol": "REUNI",
+  "name": "Reunit Token",
   "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29492/thumb/reunit_200.png?1679280627",

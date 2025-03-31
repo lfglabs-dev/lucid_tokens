@@ -1,8 +1,8 @@
 {
-  "symbol": "iusdc",
+  "symbol": "iUSDC",
   "name": "Instadapp USDC",
   "address": "0xc8871267e07408b89aa5aecc58adca5e574557f8",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/25820/thumb/iUSDC_100x100.png?1654055475",

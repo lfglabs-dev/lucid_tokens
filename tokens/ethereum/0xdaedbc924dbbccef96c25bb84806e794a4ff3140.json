@@ -1,8 +1,8 @@
 {
-  "symbol": "bio",
+  "symbol": "BIO",
   "name": "Bionergy",
   "address": "0xdaedbc924dbbccef96c25bb84806e794a4ff3140",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52777/thumb/Bionergy.jpg?1734283425",

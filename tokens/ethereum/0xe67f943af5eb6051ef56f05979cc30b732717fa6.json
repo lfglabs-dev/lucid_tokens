@@ -1,8 +1,8 @@
 {
-  "symbol": "watt",
+  "symbol": "WATT",
   "name": "WATTTON",
   "address": "0xe67f943af5eb6051ef56f05979cc30b732717fa6",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27215/thumb/CG_WATT_LOGO.png?1662611245",

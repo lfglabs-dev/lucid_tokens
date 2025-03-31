@@ -1,8 +1,8 @@
 {
-  "symbol": "pickle",
+  "symbol": "PICKLE",
   "name": "Pickle",
   "address": "0x6942016b8de9d18a5831eeda915e48b27cc8e23d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39021/thumb/Pickle.png?1719941713",

@@ -1,6 +1,6 @@
 {
-  "symbol": "ueth",
-  "name": "Unagii ETH",
+  "symbol": "uETH",
+  "name": "unagii_ETH",
   "address": "0x77607588222e01bf892a29abab45796a2047fc7b",
   "decimals": 18,
   "type": "ERC20",

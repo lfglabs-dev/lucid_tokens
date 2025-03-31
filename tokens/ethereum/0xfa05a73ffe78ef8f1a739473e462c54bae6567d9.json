@@ -1,6 +1,6 @@
 {
-  "symbol": "lun",
-  "name": "Lunyr",
+  "symbol": "LUN",
+  "name": "Lunyr Token",
   "address": "0xfa05a73ffe78ef8f1a739473e462c54bae6567d9",
   "decimals": 18,
   "type": "ERC20",

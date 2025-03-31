@@ -1,8 +1,8 @@
 {
-  "symbol": "leslie",
+  "symbol": "LESLIE",
   "name": "Leslie",
   "address": "0xcc9e0bd9438ca0056653d134de794abeaff8c676",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33189/thumb/IMG_0721_%282%29.png?1700955081",

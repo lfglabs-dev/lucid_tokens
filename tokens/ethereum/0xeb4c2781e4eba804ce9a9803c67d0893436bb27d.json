@@ -1,8 +1,8 @@
 {
-  "symbol": "renbtc",
+  "symbol": "renBTC",
   "name": "renBTC",
   "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/11370/thumb/Bitcoin.jpg?1628072791",

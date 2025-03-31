@@ -1,8 +1,8 @@
 {
-  "symbol": "chwy",
+  "symbol": "CHWY",
   "name": "CHWY",
   "address": "0xce176825afc335d9759cb4e323ee8b31891de747",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39008/thumb/CHWY.png?1719878913",

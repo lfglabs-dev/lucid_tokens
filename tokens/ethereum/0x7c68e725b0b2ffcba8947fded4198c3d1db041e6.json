@@ -1,8 +1,8 @@
 {
-  "symbol": "pongo",
+  "symbol": "Pongo",
   "name": "Pongo",
   "address": "0x7c68e725b0b2ffcba8947fded4198c3d1db041e6",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37556/thumb/X_200.png?1714753471",

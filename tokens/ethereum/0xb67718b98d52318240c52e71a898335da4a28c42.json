@@ -1,8 +1,8 @@
 {
-  "symbol": "innbc",
-  "name": "Innovative Bioresearch Coin",
+  "symbol": "INNBC",
+  "name": "InnovativeBioresearchCoin",
   "address": "0xb67718b98d52318240c52e71a898335da4a28c42",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/4043/thumb/INNBC.png?1582800857",

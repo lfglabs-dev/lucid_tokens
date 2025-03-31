@@ -1,8 +1,8 @@
 {
-  "symbol": "eurq",
+  "symbol": "EURQ",
   "name": "Quantoz EURQ",
   "address": "0x8df723295214ea6f21026eeeb4382d475f146f9f",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51853/thumb/EURQ_1000px_Color.png?1732071269",

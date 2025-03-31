@@ -1,8 +1,8 @@
 {
-  "symbol": "cbat",
-  "name": "cBAT",
+  "symbol": "cBAT",
+  "name": "Compound Basic Attention Token",
   "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10645/thumb/cBAT1.JPG?1581390910",

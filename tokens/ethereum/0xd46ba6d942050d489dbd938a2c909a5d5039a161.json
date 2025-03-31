@@ -1,8 +1,8 @@
 {
-  "symbol": "ampl",
+  "symbol": "AMPL",
   "name": "Ampleforth",
   "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250",

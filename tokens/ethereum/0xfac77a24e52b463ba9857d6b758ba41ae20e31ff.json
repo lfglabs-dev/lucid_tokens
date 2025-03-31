@@ -1,6 +1,6 @@
 {
-  "symbol": "lsd",
-  "name": "LSDx Finance",
+  "symbol": "LSD",
+  "name": "LSD Coin",
   "address": "0xfac77a24e52b463ba9857d6b758ba41ae20e31ff",
   "decimals": 18,
   "type": "ERC20",

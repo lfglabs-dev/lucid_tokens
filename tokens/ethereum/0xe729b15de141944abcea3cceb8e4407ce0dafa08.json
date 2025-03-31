@@ -1,6 +1,6 @@
 {
-  "symbol": "mojo",
-  "name": "Mojo Meme",
+  "symbol": "MOJO",
+  "name": "MOJO",
   "address": "0xe729b15de141944abcea3cceb8e4407ce0dafa08",
   "decimals": 18,
   "type": "ERC20",

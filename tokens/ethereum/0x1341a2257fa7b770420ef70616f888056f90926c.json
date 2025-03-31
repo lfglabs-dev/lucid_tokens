@@ -1,8 +1,8 @@
 {
-  "symbol": "zoot",
-  "name": "Zoo",
+  "symbol": "ZOOT",
+  "name": "Zoo Token",
   "address": "0x1341a2257fa7b770420ef70616f888056f90926c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15629/thumb/gyzERsO.png?1621394316",

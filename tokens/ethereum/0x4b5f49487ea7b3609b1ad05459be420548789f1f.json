@@ -1,6 +1,6 @@
 {
-  "symbol": "lever",
-  "name": "LeverFi",
+  "symbol": "LEVER",
+  "name": "Lever",
   "address": "0x4b5f49487ea7b3609b1ad05459be420548789f1f",
   "decimals": 18,
   "type": "ERC20",

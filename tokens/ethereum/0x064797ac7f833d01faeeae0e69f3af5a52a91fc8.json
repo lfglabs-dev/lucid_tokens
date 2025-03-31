@@ -1,8 +1,8 @@
 {
-  "symbol": "su",
+  "symbol": "SU",
   "name": "Smol Su",
   "address": "0x064797ac7f833d01faeeae0e69f3af5a52a91fc8",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30179/thumb/SmolSu_%281%29.jpg?1683598316",

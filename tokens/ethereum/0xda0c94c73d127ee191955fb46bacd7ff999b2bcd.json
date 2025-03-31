@@ -1,6 +1,6 @@
 {
-  "symbol": "standard",
-  "name": "Construct",
+  "symbol": "STANDARD",
+  "name": "Stakeborg Standard",
   "address": "0xda0c94c73d127ee191955fb46bacd7ff999b2bcd",
   "decimals": 18,
   "type": "ERC20",

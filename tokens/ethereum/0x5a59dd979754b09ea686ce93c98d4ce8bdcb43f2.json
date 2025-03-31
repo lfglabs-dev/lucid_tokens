@@ -1,6 +1,6 @@
 {
-  "symbol": "cros",
-  "name": "Cros",
+  "symbol": "CROS",
+  "name": "Cros Token",
   "address": "0x5a59dd979754b09ea686ce93c98d4ce8bdcb43f2",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "nux",
-  "name": "Peanut",
+  "symbol": "NUX",
+  "name": "NUX Peanut.trade",
   "address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
   "decimals": 18,
   "type": "ERC20",

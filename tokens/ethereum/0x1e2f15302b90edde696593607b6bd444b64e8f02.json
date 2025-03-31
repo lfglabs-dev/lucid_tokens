@@ -1,8 +1,8 @@
 {
-  "symbol": "shiryo-inu",
-  "name": "Shiryo",
+  "symbol": "Shiryo-Inu",
+  "name": "Shiryo-Inu",
   "address": "0x1e2f15302b90edde696593607b6bd444b64e8f02",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/19652/thumb/shiryo_inu.png?1648267828",

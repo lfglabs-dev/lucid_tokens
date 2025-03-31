@@ -1,6 +1,6 @@
 {
-  "symbol": "ushy.d",
-  "name": "Dinari USHY",
+  "symbol": "USHY.d",
+  "name": "iShares Broad USD High Yield Corporate Bond ETF - Dinari",
   "address": "0xd16acb3147bcafd8469ffb288f45db52cc04ae68",
   "decimals": 18,
   "type": "ERC20",

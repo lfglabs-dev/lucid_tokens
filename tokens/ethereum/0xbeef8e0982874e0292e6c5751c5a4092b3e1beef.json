@@ -1,6 +1,6 @@
 {
-  "symbol": "moobifi",
-  "name": "Staked BIFI",
+  "symbol": "mooBIFI",
+  "name": "Moo BIFI",
   "address": "0xbeef8e0982874e0292e6c5751c5a4092b3e1beef",
   "decimals": 18,
   "type": "ERC20",

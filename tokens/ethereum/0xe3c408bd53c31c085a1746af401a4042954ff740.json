@@ -1,8 +1,8 @@
 {
-  "symbol": "gmt",
-  "name": "GMT",
+  "symbol": "GMT",
+  "name": "GreenMetaverseToken",
   "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/23597/thumb/gmt.png?1644658792",

@@ -1,6 +1,6 @@
 {
-  "symbol": "@g",
-  "name": "Graphite Network",
+  "symbol": "@G",
+  "name": "G@ETH",
   "address": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
   "decimals": 18,
   "type": "ERC20",

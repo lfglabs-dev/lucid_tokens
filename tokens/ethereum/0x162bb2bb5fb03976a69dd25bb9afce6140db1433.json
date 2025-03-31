@@ -2,7 +2,7 @@
   "symbol": "dog",
   "name": "dog",
   "address": "0x162bb2bb5fb03976a69dd25bb9afce6140db1433",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32464/thumb/200.png?1698242675",

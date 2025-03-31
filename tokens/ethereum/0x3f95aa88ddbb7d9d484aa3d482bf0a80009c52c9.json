@@ -1,6 +1,6 @@
 {
-  "symbol": "bernx",
-  "name": "Backed ERNX € Bond",
+  "symbol": "bERNX",
+  "name": "Backed ERNX € Ultrashort Bond",
   "address": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
   "decimals": 18,
   "type": "ERC20",

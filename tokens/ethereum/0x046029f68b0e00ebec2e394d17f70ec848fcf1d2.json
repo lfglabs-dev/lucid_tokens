@@ -1,6 +1,6 @@
 {
-  "symbol": "usd3",
-  "name": "Stable.com USD3",
+  "symbol": "USD3",
+  "name": "Stable.com USD",
   "address": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2",
   "decimals": 18,
   "type": "ERC20",

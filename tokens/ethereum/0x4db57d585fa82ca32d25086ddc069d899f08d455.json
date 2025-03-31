@@ -1,6 +1,6 @@
 {
-  "symbol": "enoch",
-  "name": "Enoch",
+  "symbol": "ENOCH",
+  "name": "ENOCH",
   "address": "0x4db57d585fa82ca32d25086ddc069d899f08d455",
   "decimals": 18,
   "type": "ERC20",

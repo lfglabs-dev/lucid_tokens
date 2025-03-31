@@ -1,6 +1,6 @@
 {
-  "symbol": "arcona",
-  "name": "Arcona",
+  "symbol": "ARCONA",
+  "name": "Arcona Distribution Contract",
   "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
   "decimals": 18,
   "type": "ERC20",

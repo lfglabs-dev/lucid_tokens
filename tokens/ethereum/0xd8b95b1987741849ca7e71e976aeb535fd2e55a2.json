@@ -1,6 +1,6 @@
 {
-  "symbol": "bcsbgc3",
-  "name": "Backed Swiss Domestic Government Bond 0-3",
+  "symbol": "bCSBGC3",
+  "name": "Backed CSBGC3 CHF Swiss Domestic Government Bond 0-3yr",
   "address": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
   "decimals": 18,
   "type": "ERC20",

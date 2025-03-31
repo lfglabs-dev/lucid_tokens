@@ -1,8 +1,8 @@
 {
-  "symbol": "dollar",
+  "symbol": "DOLLAR",
   "name": "Dollar",
   "address": "0xe95076d9fe7155c17b455ac49497e78912c4ab65",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39312/thumb/pfp_200x200.png?1721706165",

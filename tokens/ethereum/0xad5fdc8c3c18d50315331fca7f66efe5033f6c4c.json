@@ -1,6 +1,6 @@
 {
-  "symbol": "crazy",
-  "name": "Crazy Frog Coin",
+  "symbol": "CRAZY",
+  "name": "Crazy Frog",
   "address": "0xad5fdc8c3c18d50315331fca7f66efe5033f6c4c",
   "decimals": 18,
   "type": "ERC20",

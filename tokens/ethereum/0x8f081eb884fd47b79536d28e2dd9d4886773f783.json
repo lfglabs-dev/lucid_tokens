@@ -1,8 +1,8 @@
 {
-  "symbol": "becoin",
-  "name": "bePAY Finance",
+  "symbol": "BECOIN",
+  "name": "beCoin",
   "address": "0x8f081eb884fd47b79536d28e2dd9d4886773f783",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/21275/thumb/logo-becoin.png?1638861929",

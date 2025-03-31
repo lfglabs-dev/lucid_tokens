@@ -1,6 +1,6 @@
 {
-  "symbol": "booh",
-  "name": "Booh World (ETH)",
+  "symbol": "BOOH",
+  "name": "BoohToken",
   "address": "0xc18b4c1e0b4d4d0f1e9627f25399f5073079ac3d",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "waac",
+  "symbol": "WAAC",
   "name": "Wrapped AyeAyeCoin",
   "address": "0x30ae41d5f9988d359c733232c6c693c0e645c77e",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "missing_thumb.png",

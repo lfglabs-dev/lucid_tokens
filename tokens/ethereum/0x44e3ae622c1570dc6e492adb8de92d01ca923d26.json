@@ -1,6 +1,6 @@
 {
-  "symbol": "ryze",
-  "name": "Ryze",
+  "symbol": "RYZE",
+  "name": "Aryze",
   "address": "0x44e3ae622c1570dc6e492adb8de92d01ca923d26",
   "decimals": 18,
   "type": "ERC20",

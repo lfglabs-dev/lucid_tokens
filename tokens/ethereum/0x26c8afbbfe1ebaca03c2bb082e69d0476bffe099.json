@@ -1,6 +1,6 @@
 {
-  "symbol": "cell",
-  "name": "Cellframe",
+  "symbol": "CELL",
+  "name": "Cellframe Token",
   "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
   "decimals": 18,
   "type": "ERC20",

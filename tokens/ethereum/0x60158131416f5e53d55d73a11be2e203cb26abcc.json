@@ -1,8 +1,8 @@
 {
-  "symbol": "eon",
-  "name": "Hyper",
+  "symbol": "EON",
+  "name": "HYPER",
   "address": "0x60158131416f5e53d55d73a11be2e203cb26abcc",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35247/thumb/EON_Token_200_x_200.png?1707987981",

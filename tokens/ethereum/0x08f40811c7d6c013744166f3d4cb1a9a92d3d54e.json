@@ -1,6 +1,6 @@
 {
-  "symbol": "nvg",
-  "name": "NightVerse Game",
+  "symbol": "NVG",
+  "name": "Nightverse Game",
   "address": "0x08f40811c7d6c013744166f3d4cb1a9a92d3d54e",
   "decimals": 18,
   "type": "ERC20",

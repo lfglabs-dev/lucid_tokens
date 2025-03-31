@@ -1,6 +1,6 @@
 {
-  "symbol": "gf",
-  "name": "GuildFi",
+  "symbol": "GF",
+  "name": "GuildFi Token",
   "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "four",
-  "name": "FourCoin",
+  "symbol": "FOUR",
+  "name": "Four",
   "address": "0x244b797d622d4dee8b188b03546acaabd0cf91a0",
   "decimals": 18,
   "type": "ERC20",

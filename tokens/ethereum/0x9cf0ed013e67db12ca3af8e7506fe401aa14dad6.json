@@ -1,6 +1,6 @@
 {
-  "symbol": "spectre",
-  "name": "Spectre AI",
+  "symbol": "SPECTRE",
+  "name": "SPECTRE AI",
   "address": "0x9cf0ed013e67db12ca3af8e7506fe401aa14dad6",
   "decimals": 18,
   "type": "ERC20",

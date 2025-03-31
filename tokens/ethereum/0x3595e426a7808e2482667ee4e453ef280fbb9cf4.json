@@ -1,8 +1,8 @@
 {
-  "symbol": "cocaine",
+  "symbol": "COCAINE",
   "name": "Nose Candy",
   "address": "0x3595e426a7808e2482667ee4e453ef280fbb9cf4",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50544/thumb/coka.jpg?1728285636",

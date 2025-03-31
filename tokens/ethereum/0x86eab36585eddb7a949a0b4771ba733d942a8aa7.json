@@ -1,8 +1,8 @@
 {
-  "symbol": "reddit",
+  "symbol": "REDDIT",
   "name": "Reddit",
   "address": "0x86eab36585eddb7a949a0b4771ba733d942a8aa7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30791/thumb/IMG_0365.jpeg?1687334890",

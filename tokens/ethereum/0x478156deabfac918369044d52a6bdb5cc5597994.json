@@ -1,8 +1,8 @@
 {
-  "symbol": "sgr",
+  "symbol": "SGR",
   "name": "Schrodinger",
   "address": "0x478156deabfac918369044d52a6bdb5cc5597994",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36288/thumb/Project_Schrodinger_Logo_Square_200x200.png?1711009156",

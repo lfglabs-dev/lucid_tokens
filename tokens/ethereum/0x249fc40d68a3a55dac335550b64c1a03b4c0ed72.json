@@ -1,6 +1,6 @@
 {
-  "symbol": "dinoshi",
-  "name": "DINOSHI",
+  "symbol": "DINOSHI",
+  "name": "Dinoshi",
   "address": "0x249fc40d68a3a55dac335550b64c1a03b4c0ed72",
   "decimals": 18,
   "type": "ERC20",

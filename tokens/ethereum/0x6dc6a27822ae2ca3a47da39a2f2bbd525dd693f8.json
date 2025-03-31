@@ -1,6 +1,6 @@
 {
-  "symbol": "cydoge",
-  "name": "Cyberdoge",
+  "symbol": "CYDOGE",
+  "name": "CYBERDOGE",
   "address": "0x6dc6a27822ae2ca3a47da39a2f2bbd525dd693f8",
   "decimals": 18,
   "type": "ERC20",

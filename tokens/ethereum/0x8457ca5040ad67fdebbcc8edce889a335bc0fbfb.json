@@ -1,6 +1,6 @@
 {
-  "symbol": "alt",
-  "name": "AltLayer",
+  "symbol": "ALT",
+  "name": "AltLayer Token",
   "address": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb",
   "decimals": 18,
   "type": "ERC20",

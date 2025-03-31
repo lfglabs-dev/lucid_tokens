@@ -1,8 +1,8 @@
 {
-  "symbol": "ausdt",
-  "name": "Alloy Tether",
+  "symbol": "aUSD₮",
+  "name": "aUSD₮",
   "address": "0x9eead9ce15383caeed975427340b3a369410cfbf",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38747/thumb/ausdt.png?1718681185",

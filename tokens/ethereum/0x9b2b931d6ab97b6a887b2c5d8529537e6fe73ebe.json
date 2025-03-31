@@ -1,8 +1,8 @@
 {
-  "symbol": "allin",
+  "symbol": "AllIn",
   "name": "All In",
   "address": "0x9b2b931d6ab97b6a887b2c5d8529537e6fe73ebe",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28411/thumb/IMG_20221206_124556_908.png?1670387132",

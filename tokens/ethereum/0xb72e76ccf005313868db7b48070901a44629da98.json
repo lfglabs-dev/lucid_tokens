@@ -1,8 +1,8 @@
 {
-  "symbol": "sqgrow",
+  "symbol": "SQGROW",
   "name": "SquidGrow",
   "address": "0xb72e76ccf005313868db7b48070901a44629da98",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50187/thumb/sqrd.jpg?1726200522",

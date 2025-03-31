@@ -1,6 +1,6 @@
 {
-  "symbol": "long",
-  "name": "LONG (ETH)",
+  "symbol": "LONG",
+  "name": "LONG",
   "address": "0x0080428794a79a40ae03cf6e6c1d56bd5467a4a2",
   "decimals": 18,
   "type": "ERC20",

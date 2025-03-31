@@ -1,6 +1,6 @@
 {
-  "symbol": "pg.d",
-  "name": "Dinari PG",
+  "symbol": "PG.d",
+  "name": "Procter & Gamble Company - Dinari",
   "address": "0xaa88ab7413f909eef5bd69bb2a2b6f97dc6743b8",
   "decimals": 18,
   "type": "ERC20",

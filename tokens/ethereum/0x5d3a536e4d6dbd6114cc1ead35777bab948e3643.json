@@ -1,8 +1,8 @@
 {
-  "symbol": "cdai",
-  "name": "cDAI",
+  "symbol": "cDAI",
+  "name": "Compound Dai",
   "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9281/thumb/cDAI.png?1576467585",

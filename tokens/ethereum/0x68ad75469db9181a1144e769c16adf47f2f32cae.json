@@ -1,6 +1,6 @@
 {
-  "symbol": "maxeth",
-  "name": "Max on ETH",
+  "symbol": "$MaxETH",
+  "name": "$MaxETH",
   "address": "0x68ad75469db9181a1144e769c16adf47f2f32cae",
   "decimals": 18,
   "type": "ERC20",

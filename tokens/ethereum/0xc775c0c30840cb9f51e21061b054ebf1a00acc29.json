@@ -1,8 +1,8 @@
 {
-  "symbol": "psl",
-  "name": "Pastel",
+  "symbol": "WPSL",
+  "name": "Wrapped PSL",
   "address": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
-  "decimals": 18,
+  "decimals": 5,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14293/thumb/A4qGwEij_400x400.jpg?1615290394",

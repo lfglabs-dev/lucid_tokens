@@ -1,6 +1,6 @@
 {
-  "symbol": "coin.d",
-  "name": "Dinari COIN",
+  "symbol": "COIN.d",
+  "name": "Coinbase Global, Inc. Class A Common Stock - Dinari",
   "address": "0xd71b200bf061509b85df50cc0d8cdee8818a4577",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "$emoji",
-  "name": "emoji ERC20",
+  "symbol": "Emoji",
+  "name": "Emoji",
   "address": "0xf12ccd17759367cf139776710b47b00c43d1ac2b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "missing_thumb.png",

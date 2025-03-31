@@ -1,6 +1,6 @@
 {
-  "symbol": "nnt",
-  "name": "Nunu Spirits",
+  "symbol": "anyNNT",
+  "name": "NunuToken",
   "address": "0x19193f450086d0442157b852081976d41657ad56",
   "decimals": 18,
   "type": "ERC20",

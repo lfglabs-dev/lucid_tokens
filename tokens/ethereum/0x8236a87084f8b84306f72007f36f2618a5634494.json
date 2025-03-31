@@ -1,8 +1,8 @@
 {
-  "symbol": "lbtc",
-  "name": "Lombard Staked BTC",
+  "symbol": "LBTC",
+  "name": "Lombard Staked Bitcoin",
   "address": "0x8236a87084f8b84306f72007f36f2618a5634494",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872",

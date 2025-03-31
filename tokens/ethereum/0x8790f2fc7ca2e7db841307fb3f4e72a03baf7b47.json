@@ -1,6 +1,6 @@
 {
-  "symbol": "spillways",
-  "name": "Spillways",
+  "symbol": "SpillWays",
+  "name": "SpillWays",
   "address": "0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47",
   "decimals": 18,
   "type": "ERC20",

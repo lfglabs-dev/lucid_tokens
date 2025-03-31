@@ -1,8 +1,8 @@
 {
-  "symbol": "iro",
+  "symbol": "IRO",
   "name": "Iro-Chan",
   "address": "0xba2ae4e0a9c6ecaf172015aa2cdd70a21f5a290b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39485/thumb/msg6170389846-185200.jpg?1722482686",

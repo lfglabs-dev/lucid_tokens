@@ -1,8 +1,8 @@
 {
-  "symbol": "okinami",
+  "symbol": "Okinami",
   "name": "Kanagawa Nami",
   "address": "0x1c4853ec0d55e420002c5efabc7ed8e0ba7a4121",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26629/thumb/KANAGAWA_%284%29.png?1659324703",

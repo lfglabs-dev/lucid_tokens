@@ -1,6 +1,6 @@
 {
-  "symbol": "basedai",
-  "name": "BasedAI",
+  "symbol": "basedAI",
+  "name": "basedAI",
   "address": "0x44971abf0251958492fee97da3e5c5ada88b9185",
   "decimals": 18,
   "type": "ERC20",

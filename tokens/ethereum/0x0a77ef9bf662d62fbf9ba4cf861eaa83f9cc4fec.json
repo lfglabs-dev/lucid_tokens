@@ -1,6 +1,6 @@
 {
-  "symbol": "xwg",
-  "name": "X World Games",
+  "symbol": "XWG",
+  "name": "XWG",
   "address": "0x0a77ef9bf662d62fbf9ba4cf861eaa83f9cc4fec",
   "decimals": 18,
   "type": "ERC20",

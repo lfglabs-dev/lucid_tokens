@@ -1,8 +1,8 @@
 {
-  "symbol": "monkeys",
-  "name": "Monkeys Token",
+  "symbol": "MONKEYS",
+  "name": "Tails from the list",
   "address": "0x9ce07410673206c693bcec9b07710767637a564c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29782/thumb/Monkeys_Logo_-_CG.png?1681285266",

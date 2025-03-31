@@ -1,6 +1,6 @@
 {
-  "symbol": "xt",
-  "name": "XT.com",
+  "symbol": "XT",
+  "name": "XT Token",
   "address": "0x4be10da47a07716af28ad199fbe020501bddd7af",
   "decimals": 18,
   "type": "ERC20",

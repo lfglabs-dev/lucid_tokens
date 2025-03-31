@@ -1,6 +1,6 @@
 {
-  "symbol": "slvlusd",
-  "name": "Staked Level USD",
+  "symbol": "slvlUSD",
+  "name": "Staked lvlUSD",
   "address": "0x4737d9b4592b40d51e110b94c9c043c6654067ae",
   "decimals": 18,
   "type": "ERC20",

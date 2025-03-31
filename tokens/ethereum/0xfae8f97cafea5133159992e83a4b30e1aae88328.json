@@ -1,6 +1,6 @@
 {
-  "symbol": "spwo.d",
-  "name": "Dinari SPWO",
+  "symbol": "SPWO.d",
+  "name": "SP Funds S&P World (ex-US) ETF - Dinari",
   "address": "0xfae8f97cafea5133159992e83a4b30e1aae88328",
   "decimals": 18,
   "type": "ERC20",

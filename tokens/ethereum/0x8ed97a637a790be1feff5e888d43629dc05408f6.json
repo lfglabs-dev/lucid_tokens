@@ -1,5 +1,5 @@
 {
-  "symbol": "npc",
+  "symbol": "NPC",
   "name": "Non-Playable Coin",
   "address": "0x8ed97a637a790be1feff5e888d43629dc05408f6",
   "decimals": 18,

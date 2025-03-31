@@ -1,8 +1,8 @@
 {
-  "symbol": "maai",
+  "symbol": "MAAI",
   "name": "Mars AI",
   "address": "0x716457d3ee671231e3a9fd320940e88ac247a733",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53343/thumb/Mars_ai_new_logo_200x200.png?1736155705",

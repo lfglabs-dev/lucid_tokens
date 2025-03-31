@@ -1,8 +1,8 @@
 {
-  "symbol": "wgr",
-  "name": "Wagerr",
+  "symbol": "WWGR",
+  "name": "Wrapped Wagerr",
   "address": "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/759/thumb/syGKmAT.png?1619597241",

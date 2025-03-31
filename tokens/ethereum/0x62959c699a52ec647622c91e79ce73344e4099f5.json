@@ -1,6 +1,6 @@
 {
-  "symbol": "dfa",
-  "name": "DeFine",
+  "symbol": "DFA",
+  "name": "DeFine Art",
   "address": "0x62959c699a52ec647622c91e79ce73344e4099f5",
   "decimals": 18,
   "type": "ERC20",

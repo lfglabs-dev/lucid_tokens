@@ -1,6 +1,6 @@
 {
-  "symbol": "idv",
-  "name": "Idavoll DAO",
+  "symbol": "IDV",
+  "name": "Idavoll",
   "address": "0x45448e05020576929fcdeabc228e35b420098840",
   "decimals": 18,
   "type": "ERC20",

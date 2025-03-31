@@ -1,6 +1,6 @@
 {
-  "symbol": "wfo",
-  "name": "WoofOracle",
+  "symbol": "WFO",
+  "name": "Wfo",
   "address": "0x97d2fc7d16bc34121c3311f2e2e05d298c19956f",
   "decimals": 18,
   "type": "ERC20",

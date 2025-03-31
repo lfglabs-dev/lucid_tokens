@@ -1,8 +1,8 @@
 {
-  "symbol": "cate",
+  "symbol": "CATE",
   "name": "CateCoin",
   "address": "0x051fb509e4a775fabd257611eea1efaed8f91359",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/15364/thumb/logo.png?1620647627",

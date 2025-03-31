@@ -1,8 +1,8 @@
 {
-  "symbol": "rizz",
+  "symbol": "RIZZ",
   "name": "Rizz",
   "address": "0x582dd5e7c8af79d45a96de4af5d1152a061abb50",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50598/thumb/200x200px.png?1728446110",

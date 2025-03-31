@@ -1,6 +1,6 @@
 {
-  "symbol": "crown",
-  "name": "Crown Token",
+  "symbol": "CROWN",
+  "name": "CROWN",
   "address": "0xf3bb9f16677f2b86efd1dfca1c141a99783fde58",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "eye",
-  "name": "Behodler",
+  "symbol": "EYE",
+  "name": "Behodler.io",
   "address": "0x155ff1a85f440ee0a382ea949f24ce4e0b751c65",
   "decimals": 18,
   "type": "ERC20",

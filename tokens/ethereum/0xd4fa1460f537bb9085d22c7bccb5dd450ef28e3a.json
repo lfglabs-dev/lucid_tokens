@@ -1,8 +1,8 @@
 {
-  "symbol": "ppt",
-  "name": "Populous",
+  "symbol": "PPT",
+  "name": "Populous Platform",
   "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/753/thumb/populous.png?1548331905",

@@ -1,8 +1,8 @@
 {
-  "symbol": "shibdoge",
+  "symbol": "ShibDoge",
   "name": "ShibaDoge",
   "address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/22018/thumb/5HMWoFW0_400x400.jpg?1640596392",

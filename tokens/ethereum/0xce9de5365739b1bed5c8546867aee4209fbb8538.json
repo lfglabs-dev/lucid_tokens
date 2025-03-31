@@ -1,6 +1,6 @@
 {
-  "symbol": "thug",
-  "name": "Thug Life",
+  "symbol": "THUG",
+  "name": "Thug Life Token",
   "address": "0xce9de5365739b1bed5c8546867aee4209fbb8538",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "turt",
-  "name": "TurtSat",
+  "symbol": "TURT",
+  "name": "TURT",
   "address": "0x0800394f6e23dd539929c8b77a3d45c96f76aefc",
   "decimals": 18,
   "type": "ERC20",

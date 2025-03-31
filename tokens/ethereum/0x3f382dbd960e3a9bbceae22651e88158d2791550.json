@@ -1,6 +1,6 @@
 {
-  "symbol": "ghst",
-  "name": "Aavegotchi",
+  "symbol": "GHST",
+  "name": "Aavegotchi GHST Token",
   "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
   "decimals": 18,
   "type": "ERC20",

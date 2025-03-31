@@ -1,8 +1,8 @@
 {
-  "symbol": "wpokt",
-  "name": "Wrapped POKT",
+  "symbol": "wPOKT",
+  "name": "Wrapped Pocket",
   "address": "0x67f4c72a50f8df6487720261e188f2abe83f57d7",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31696/thumb/Pocket_PNG_file_transparent.png?1694485793",

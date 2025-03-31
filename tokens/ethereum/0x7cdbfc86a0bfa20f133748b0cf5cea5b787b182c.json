@@ -1,6 +1,6 @@
 {
-  "symbol": "tkst",
-  "name": "TokenSight",
+  "symbol": "TKST",
+  "name": "TokenSight Token",
   "address": "0x7cdbfc86a0bfa20f133748b0cf5cea5b787b182c",
   "decimals": 18,
   "type": "ERC20",

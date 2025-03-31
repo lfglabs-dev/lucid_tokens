@@ -1,8 +1,8 @@
 {
-  "symbol": "skey",
-  "name": "Skey Network",
+  "symbol": "Skey",
+  "name": "SmartKey",
   "address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13425/thumb/SKEY_Network_logo_black.png?1633421778",

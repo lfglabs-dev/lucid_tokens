@@ -1,8 +1,8 @@
 {
-  "symbol": "matt",
+  "symbol": "MATT",
   "name": "Matt Furie",
   "address": "0x790814cd782983fab4d7b92cf155187a865d9f18",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39195/thumb/Matt_Furie.jpg?1721017162",

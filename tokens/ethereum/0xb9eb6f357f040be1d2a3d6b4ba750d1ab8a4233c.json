@@ -1,8 +1,8 @@
 {
-  "symbol": "fresco",
+  "symbol": "FRESCO",
   "name": "Fresco",
   "address": "0xb9eb6f357f040be1d2a3d6b4ba750d1ab8a4233c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38462/thumb/20240603_150308.png?1717604775",

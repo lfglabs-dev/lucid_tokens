@@ -1,6 +1,6 @@
 {
-  "symbol": "peth",
-  "name": "pETH",
+  "symbol": "pETH",
+  "name": "JPEG’d ETH",
   "address": "0x821a278dfff762c76410264303f25bf42e195c0c",
   "decimals": 18,
   "type": "ERC20",

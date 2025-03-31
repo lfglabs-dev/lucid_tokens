@@ -1,5 +1,5 @@
 {
-  "symbol": "wstusdt",
+  "symbol": "wstUSDT",
   "name": "Wrapped Staked USDT",
   "address": "0x572975ff6d5136c81c8d7448b6361ef9eefe1ab0",
   "decimals": 18,

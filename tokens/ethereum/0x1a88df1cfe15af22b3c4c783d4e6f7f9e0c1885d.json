@@ -1,6 +1,6 @@
 {
-  "symbol": "stkgho",
-  "name": "Aave stkGHO",
+  "symbol": "stkGHO",
+  "name": "stk GHO",
   "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
   "decimals": 18,
   "type": "ERC20",

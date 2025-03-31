@@ -1,8 +1,8 @@
 {
-  "symbol": "egod",
+  "symbol": "EGOD",
   "name": "EgodCoin",
   "address": "0xa1d23bbef17f88fefc2ada631738e4c42e906a2e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38148/thumb/EGOD200.jpg?1716664153",

@@ -1,6 +1,6 @@
 {
-  "symbol": "asto",
-  "name": "Altered State Machine",
+  "symbol": "ASTO",
+  "name": "Altered State Machine Utility Token",
   "address": "0x823556202e86763853b40e9cde725f412e294689",
   "decimals": 18,
   "type": "ERC20",

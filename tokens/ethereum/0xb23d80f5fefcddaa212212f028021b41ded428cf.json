@@ -1,6 +1,6 @@
 {
-  "symbol": "prime",
-  "name": "Echelon Prime",
+  "symbol": "PRIME",
+  "name": "Prime",
   "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
   "decimals": 18,
   "type": "ERC20",

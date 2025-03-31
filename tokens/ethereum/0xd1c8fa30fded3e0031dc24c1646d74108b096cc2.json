@@ -1,8 +1,8 @@
 {
-  "symbol": "lucky",
-  "name": "Luckyinu",
+  "symbol": "LUCKY",
+  "name": "luckyinu",
   "address": "0xd1c8fa30fded3e0031dc24c1646d74108b096cc2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34998/thumb/Luckyinu_%281%29.png?1706955605",

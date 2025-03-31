@@ -1,8 +1,8 @@
 {
-  "symbol": "memeai",
-  "name": "Meme AI Coin",
+  "symbol": "MEMEAI",
+  "name": "MEME AI",
   "address": "0x695d38eb4e57e0f137e36df7c1f0f2635981246b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34356/thumb/MEMEAI.png?1704706407",

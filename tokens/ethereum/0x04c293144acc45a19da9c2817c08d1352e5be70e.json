@@ -1,8 +1,8 @@
 {
-  "symbol": "mugi",
+  "symbol": "MUGI",
   "name": "Mugi",
   "address": "0x04c293144acc45a19da9c2817c08d1352e5be70e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50253/thumb/mugicoingecko.png?1726721976",

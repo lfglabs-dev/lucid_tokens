@@ -1,8 +1,8 @@
 {
-  "symbol": "mira",
-  "name": "Chains of War",
+  "symbol": "MIRA",
+  "name": "MIRA",
   "address": "0xf5207ac91c9e7ec7ebb03e93cbcbcad10878ac79",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29094/thumb/Mira-Token-v2-500px.png?1676531172",

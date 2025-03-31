@@ -1,8 +1,8 @@
 {
-  "symbol": "ect",
+  "symbol": "ECT",
   "name": "Ecotrader",
   "address": "0xb96682a8f558b8199a2dc039b1dd8911e5068faf",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54992/thumb/Eco_DS.png?1743063491",

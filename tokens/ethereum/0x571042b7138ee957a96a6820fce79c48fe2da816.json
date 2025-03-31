@@ -1,6 +1,6 @@
 {
-  "symbol": "eslbr",
-  "name": "Escrowed LBR",
+  "symbol": "esLBR",
+  "name": "esLBR",
   "address": "0x571042b7138ee957a96a6820fce79c48fe2da816",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "plot",
-  "name": "PlotX",
+  "symbol": "PLOT",
+  "name": "PLOT",
   "address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
   "decimals": 18,
   "type": "ERC20",

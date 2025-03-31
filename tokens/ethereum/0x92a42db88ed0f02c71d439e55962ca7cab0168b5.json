@@ -1,8 +1,8 @@
 {
-  "symbol": "trdg",
-  "name": "TRDGtoken",
+  "symbol": "TRDG",
+  "name": "Tardigrades.Finance",
   "address": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14371/thumb/trdg.png?1635830350",

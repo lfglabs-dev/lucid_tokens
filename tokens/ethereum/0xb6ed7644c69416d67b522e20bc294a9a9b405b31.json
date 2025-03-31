@@ -1,8 +1,8 @@
 {
-  "symbol": "0xbtc",
-  "name": "0xBitcoin",
+  "symbol": "0xBTC",
+  "name": "0xBitcoin Token",
   "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/4454/thumb/0xbtc.png?1561603765",

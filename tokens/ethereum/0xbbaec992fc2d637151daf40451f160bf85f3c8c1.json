@@ -1,8 +1,8 @@
 {
-  "symbol": "usdm",
+  "symbol": "USDM",
   "name": "USD Mapped Token",
   "address": "0xbbaec992fc2d637151daf40451f160bf85f3c8c1",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37726/thumb/usdmlogo200x200.png?1715334207",

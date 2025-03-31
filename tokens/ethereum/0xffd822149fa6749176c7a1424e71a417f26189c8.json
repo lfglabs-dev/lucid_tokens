@@ -1,6 +1,6 @@
 {
   "symbol": "thing",
-  "name": "Nothing Token",
+  "name": "nothing",
   "address": "0xffd822149fa6749176c7a1424e71a417f26189c8",
   "decimals": 18,
   "type": "ERC20",

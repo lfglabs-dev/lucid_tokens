@@ -1,6 +1,6 @@
 {
-  "symbol": "runner",
-  "name": "Runner on ETH",
+  "symbol": "RUNNER",
+  "name": "Homestar Runner",
   "address": "0x6fd46112c8ec76e7940dbfdc150774ee6eff27b2",
   "decimals": 18,
   "type": "ERC20",

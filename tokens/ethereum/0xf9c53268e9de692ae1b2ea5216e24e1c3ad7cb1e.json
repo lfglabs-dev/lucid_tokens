@@ -1,6 +1,6 @@
 {
-  "symbol": "ido",
-  "name": "Idexo",
+  "symbol": "IDO",
+  "name": "Idexo Token",
   "address": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e",
   "decimals": 18,
   "type": "ERC20",

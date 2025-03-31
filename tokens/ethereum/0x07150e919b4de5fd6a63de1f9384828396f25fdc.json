@@ -1,8 +1,8 @@
 {
-  "symbol": "base",
+  "symbol": "BASE",
   "name": "Base Protocol",
   "address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13265/thumb/200x200green.png?1607650121",

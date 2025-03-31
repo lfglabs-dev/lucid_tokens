@@ -1,6 +1,6 @@
 {
-  "symbol": "id",
-  "name": "Everest",
+  "symbol": "ID",
+  "name": "Everest ID",
   "address": "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
   "decimals": 18,
   "type": "ERC20",

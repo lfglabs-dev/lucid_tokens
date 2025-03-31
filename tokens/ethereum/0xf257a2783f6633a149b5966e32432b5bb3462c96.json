@@ -1,8 +1,8 @@
 {
-  "symbol": "dogecoin",
+  "symbol": "DOGECOIN",
   "name": "RagingElonMarsCoin",
   "address": "0xf257a2783f6633a149b5966e32432b5bb3462c96",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31463/thumb/JgNkdCWn_400x400.jpg?1692942844",

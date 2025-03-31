@@ -1,6 +1,6 @@
 {
-  "symbol": "stos",
-  "name": "Stratos",
+  "symbol": "STOS",
+  "name": "Stratos Token",
   "address": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc",
   "decimals": 18,
   "type": "ERC20",

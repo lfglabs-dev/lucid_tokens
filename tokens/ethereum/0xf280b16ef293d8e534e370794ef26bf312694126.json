@@ -1,8 +1,8 @@
 {
-  "symbol": "asteroid",
+  "symbol": "ASTEROID",
   "name": "Asteroid Shiba",
   "address": "0xf280b16ef293d8e534e370794ef26bf312694126",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50333/thumb/IMG_0704.jpeg?1727164612",

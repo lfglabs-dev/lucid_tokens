@@ -1,6 +1,6 @@
 {
-  "symbol": "par",
-  "name": "Parallel",
+  "symbol": "PAR",
+  "name": "PAR Stablecoin",
   "address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
   "decimals": 18,
   "type": "ERC20",

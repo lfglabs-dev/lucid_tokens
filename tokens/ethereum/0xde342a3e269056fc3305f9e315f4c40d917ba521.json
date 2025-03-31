@@ -1,8 +1,8 @@
 {
-  "symbol": "byte",
+  "symbol": "BYTE",
   "name": "Byte",
   "address": "0xde342a3e269056fc3305f9e315f4c40d917ba521",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33527/thumb/Byte200.jpeg?1702138460",

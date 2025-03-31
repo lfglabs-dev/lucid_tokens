@@ -1,8 +1,8 @@
 {
-  "symbol": "rev",
+  "symbol": "REV",
   "name": "REV",
   "address": "0x93d91003af5e6beffd574036f98d166c12ae6e32",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53415/thumb/Frame_%288%29.png?1736334190",

@@ -1,6 +1,6 @@
 {
-  "symbol": "mct",
-  "name": "MicroTuber",
+  "symbol": "MCT",
+  "name": "Micro Tuber",
   "address": "0x6876eba317272fe221c67405c5e8eb3b24535547",
   "decimals": 18,
   "type": "ERC20",

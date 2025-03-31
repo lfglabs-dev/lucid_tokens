@@ -1,8 +1,8 @@
 {
-  "symbol": "euroe",
+  "symbol": "EUROe",
   "name": "EUROe Stablecoin",
   "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28913/thumb/euroe-200x200-round.png?1675338103",

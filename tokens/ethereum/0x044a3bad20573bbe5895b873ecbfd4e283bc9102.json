@@ -1,6 +1,6 @@
 {
-  "symbol": "knd",
-  "name": "Kindred",
+  "symbol": "KND",
+  "name": "Kindred Swap",
   "address": "0x044a3bad20573bbe5895b873ecbfd4e283bc9102",
   "decimals": 18,
   "type": "ERC20",

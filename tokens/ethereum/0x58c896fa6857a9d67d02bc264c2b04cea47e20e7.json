@@ -1,8 +1,8 @@
 {
-  "symbol": "ghub",
+  "symbol": "GHUB",
   "name": "The GameHub",
   "address": "0x58c896fa6857a9d67d02bc264c2b04cea47e20e7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36718/thumb/photo_2024-04-02_10.33.14.jpeg?1712128679",

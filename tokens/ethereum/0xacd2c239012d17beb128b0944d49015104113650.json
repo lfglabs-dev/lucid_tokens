@@ -1,6 +1,6 @@
 {
-  "symbol": "karrat",
-  "name": "Karrat",
+  "symbol": "KARRAT",
+  "name": "KarratCoin",
   "address": "0xacd2c239012d17beb128b0944d49015104113650",
   "decimals": 18,
   "type": "ERC20",

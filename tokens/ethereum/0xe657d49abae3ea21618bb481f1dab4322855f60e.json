@@ -1,6 +1,6 @@
 {
-  "symbol": "rainbow",
-  "name": "Rainbow",
+  "symbol": "RAINBOW",
+  "name": "Rainbow ",
   "address": "0xe657d49abae3ea21618bb481f1dab4322855f60e",
   "decimals": 18,
   "type": "ERC20",

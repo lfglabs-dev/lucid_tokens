@@ -1,6 +1,6 @@
 {
-  "symbol": "botx",
-  "name": "BOTXCOIN",
+  "symbol": "BOTX",
+  "name": "botXcoin",
   "address": "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "mausdt",
-  "name": "Morpho-Aave Tether USD",
+  "symbol": "maUSDT",
+  "name": "Morpho-Aave Tether USD Supply Vault",
   "address": "0xafe7131a57e44f832cb2de78ade38cad644aac2f",
   "decimals": 18,
   "type": "ERC20",

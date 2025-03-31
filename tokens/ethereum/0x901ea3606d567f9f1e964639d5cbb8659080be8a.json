@@ -1,6 +1,6 @@
 {
-  "symbol": "cwt",
-  "name": "CoinW",
+  "symbol": "CWT",
+  "name": "Coinw token",
   "address": "0x901ea3606d567f9f1e964639d5cbb8659080be8a",
   "decimals": 18,
   "type": "ERC20",

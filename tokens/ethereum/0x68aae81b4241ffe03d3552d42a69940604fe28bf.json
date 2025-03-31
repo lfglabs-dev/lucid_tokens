@@ -1,8 +1,8 @@
 {
-  "symbol": "muffin",
+  "symbol": "MUFFIN",
   "name": "Muffin",
   "address": "0x68aae81b4241ffe03d3552d42a69940604fe28bf",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37023/thumb/muffin_coingecko.png?1713155913",

@@ -1,6 +1,6 @@
 {
-  "symbol": "quad",
-  "name": "Quad Terminal",
+  "symbol": "QUAD",
+  "name": "Quadency Token",
   "address": "0xab2a7b5876d707e0126b3a75ef7781c77c8877ee",
   "decimals": 18,
   "type": "ERC20",

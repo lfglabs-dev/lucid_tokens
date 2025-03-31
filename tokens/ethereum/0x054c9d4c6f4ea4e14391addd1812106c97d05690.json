@@ -1,6 +1,6 @@
 {
-  "symbol": "lld",
-  "name": "Liberland LLD",
+  "symbol": "LLD",
+  "name": "Liberland Dollar",
   "address": "0x054c9d4c6f4ea4e14391addd1812106c97d05690",
   "decimals": 18,
   "type": "ERC20",

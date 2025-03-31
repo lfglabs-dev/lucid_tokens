@@ -1,8 +1,8 @@
 {
-  "symbol": "hex",
+  "symbol": "HEX",
   "name": "HEX",
   "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/10103/thumb/HEX-logo.png?1575942673",

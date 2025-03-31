@@ -1,6 +1,6 @@
 {
-  "symbol": "hymb.d",
-  "name": "Dinari HYMB",
+  "symbol": "HYMB.d",
+  "name": "SPDR Nuveen Bloomberg High Yield Municipal Bond ETF - Dinari",
   "address": "0x88cee7bf66435f6fdbb681a6a522f26598fe39a2",
   "decimals": 18,
   "type": "ERC20",

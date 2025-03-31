@@ -1,8 +1,8 @@
 {
-  "symbol": "bluesparrow",
-  "name": "BlueSparrow",
+  "symbol": "BlueSparrow",
+  "name": "BlueSparrowToken",
   "address": "0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26085/thumb/bluesparrow.?1655766000",

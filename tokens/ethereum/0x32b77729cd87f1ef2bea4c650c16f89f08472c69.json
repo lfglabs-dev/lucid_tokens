@@ -1,6 +1,6 @@
 {
-  "symbol": "box",
-  "name": "DeBox",
+  "symbol": "BOX",
+  "name": "DeBoxToken",
   "address": "0x32b77729cd87f1ef2bea4c650c16f89f08472c69",
   "decimals": 18,
   "type": "ERC20",

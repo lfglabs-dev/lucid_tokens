@@ -1,8 +1,8 @@
 {
-  "symbol": "misha",
-  "name": "MISHA",
+  "symbol": "MISHA",
+  "name": "Vitalik's Dog",
   "address": "0x0ccae1bc46fb018dd396ed4c45565d4cb9d41098",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50400/thumb/11_%282%29.png?1727591136",

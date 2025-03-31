@@ -1,6 +1,6 @@
 {
-  "symbol": "cybro",
-  "name": "CYBRO",
+  "symbol": "CYBRO",
+  "name": "Cybro Token",
   "address": "0xd58826d2c0babf1a60d8b508160b52e9c19aff07",
   "decimals": 18,
   "type": "ERC20",

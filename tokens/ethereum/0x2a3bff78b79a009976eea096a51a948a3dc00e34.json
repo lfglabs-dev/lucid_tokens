@@ -1,6 +1,6 @@
 {
-  "symbol": "wild",
-  "name": "Wilder World",
+  "symbol": "WILD",
+  "name": "Wilder",
   "address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
   "decimals": 18,
   "type": "ERC20",

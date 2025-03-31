@@ -1,8 +1,8 @@
 {
-  "symbol": "hxai",
+  "symbol": "HxAI",
   "name": "Healix AI",
   "address": "0x384efd1e8b05c23dc392a40cb4e515e2229a5243",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53406/thumb/HxAI_logo.png?1736290533",

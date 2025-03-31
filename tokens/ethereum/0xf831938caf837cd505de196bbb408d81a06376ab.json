@@ -1,6 +1,6 @@
 {
-  "symbol": "jeff",
-  "name": "Jeff",
+  "symbol": "JEFF",
+  "name": "JEFF",
   "address": "0xf831938caf837cd505de196bbb408d81a06376ab",
   "decimals": 18,
   "type": "ERC20",

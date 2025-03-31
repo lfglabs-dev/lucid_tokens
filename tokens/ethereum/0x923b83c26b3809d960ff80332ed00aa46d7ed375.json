@@ -1,6 +1,6 @@
 {
-  "symbol": "ctr",
-  "name": "Creator Platform",
+  "symbol": "CTR",
+  "name": "Creator Chain",
   "address": "0x923b83c26b3809d960ff80332ed00aa46d7ed375",
   "decimals": 18,
   "type": "ERC20",

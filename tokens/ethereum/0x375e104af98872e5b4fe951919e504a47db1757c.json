@@ -1,8 +1,8 @@
 {
-  "symbol": "ginnan",
+  "symbol": "GINNAN",
   "name": "Ginnan Doge's Brother",
   "address": "0x375e104af98872e5b4fe951919e504a47db1757c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50262/thumb/Ginnan_Doge's_Brother.png?1726725076",

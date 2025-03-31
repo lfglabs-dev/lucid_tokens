@@ -1,6 +1,6 @@
 {
-  "symbol": "abat",
-  "name": "Aave BAT",
+  "symbol": "aBAT",
+  "name": "Aave interest bearing BAT",
   "address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1",
   "decimals": 18,
   "type": "ERC20",

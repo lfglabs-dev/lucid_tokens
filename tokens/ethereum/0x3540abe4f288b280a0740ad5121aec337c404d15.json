@@ -1,6 +1,6 @@
 {
-  "symbol": "tpro",
-  "name": "TPRO Network",
+  "symbol": "TPRO",
+  "name": "TPRO",
   "address": "0x3540abe4f288b280a0740ad5121aec337c404d15",
   "decimals": 18,
   "type": "ERC20",

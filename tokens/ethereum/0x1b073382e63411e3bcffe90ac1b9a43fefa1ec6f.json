@@ -1,8 +1,8 @@
 {
-  "symbol": "best",
-  "name": "Bitpanda Ecosystem",
+  "symbol": "BEST",
+  "name": "Bitpanda Ecosystem Token",
   "address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/8738/thumb/BEST-Coin-Logo.png?1619079782",

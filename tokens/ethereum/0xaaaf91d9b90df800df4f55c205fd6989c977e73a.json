@@ -1,8 +1,8 @@
 {
-  "symbol": "tkn",
-  "name": "Monolith",
+  "symbol": "TKN",
+  "name": "Monolith TKN",
   "address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/675/thumb/Monolith.png?1566296607",

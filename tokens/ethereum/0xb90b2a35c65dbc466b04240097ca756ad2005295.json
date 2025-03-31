@@ -1,6 +1,6 @@
 {
-  "symbol": "bobo",
-  "name": "BOBO Coin",
+  "symbol": "BOBO",
+  "name": "BOBO",
   "address": "0xb90b2a35c65dbc466b04240097ca756ad2005295",
   "decimals": 18,
   "type": "ERC20",

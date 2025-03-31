@@ -1,8 +1,8 @@
 {
-  "symbol": "awbtc",
-  "name": "Aave WBTC v1",
+  "symbol": "aWBTC",
+  "name": "Aave Interest bearing WBTC",
   "address": "0xfc4b8ed459e00e5400be803a9bb3954234fd50e3",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/11734/thumb/aWBTC.png?1593087741",

@@ -1,8 +1,8 @@
 {
-  "symbol": "velar",
+  "symbol": "VELAR",
   "name": "Velar",
   "address": "0x033bbde722ea3cdcec73cffea6581df9f9c257de",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/35763/thumb/gradientPNG.png?1709749255",

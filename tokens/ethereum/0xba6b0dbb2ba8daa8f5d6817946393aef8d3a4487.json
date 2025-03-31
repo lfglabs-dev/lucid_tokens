@@ -1,6 +1,6 @@
 {
-  "symbol": "hsf",
-  "name": "Hillstone Finance",
+  "symbol": "HSF",
+  "name": "Hillstone.Finance",
   "address": "0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487",
   "decimals": 18,
   "type": "ERC20",

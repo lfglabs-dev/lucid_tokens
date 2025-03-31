@@ -1,8 +1,8 @@
 {
-  "symbol": "brcbot",
+  "symbol": "BRCBOT",
   "name": "BRC20 BOT",
   "address": "0x5e05f367a1923b2a886e2f2bc45c2278a0b9b448",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33607/thumb/IMG_20231206_032536_412.jpg?1702511057",

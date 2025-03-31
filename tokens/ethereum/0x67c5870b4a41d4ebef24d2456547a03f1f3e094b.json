@@ -1,8 +1,8 @@
 {
-  "symbol": "$g",
+  "symbol": "G$",
   "name": "GoodDollar",
   "address": "0x67c5870b4a41d4ebef24d2456547a03f1f3e094b",
-  "decimals": 18,
+  "decimals": 2,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14782/thumb/G__Coin_%281%29.png?1696514451",

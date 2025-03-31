@@ -1,6 +1,6 @@
 {
-  "symbol": "hotcross",
-  "name": "Hot Cross",
+  "symbol": "HOTCROSS",
+  "name": "Hot Cross Token",
   "address": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
   "decimals": 18,
   "type": "ERC20",

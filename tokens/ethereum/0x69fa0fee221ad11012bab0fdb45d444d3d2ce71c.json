@@ -1,6 +1,6 @@
 {
-  "symbol": "xrune",
-  "name": "Thorstarter",
+  "symbol": "XRUNE",
+  "name": "XRUNE Token",
   "address": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
   "decimals": 18,
   "type": "ERC20",

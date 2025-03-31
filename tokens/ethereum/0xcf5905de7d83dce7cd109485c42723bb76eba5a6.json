@@ -1,6 +1,6 @@
 {
-  "symbol": "ero.d",
-  "name": "Dinari ERO",
+  "symbol": "ERO.d",
+  "name": "Ero Copper Corp. - Dinari",
   "address": "0xcf5905de7d83dce7cd109485c42723bb76eba5a6",
   "decimals": 18,
   "type": "ERC20",

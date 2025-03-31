@@ -1,6 +1,6 @@
 {
-  "symbol": "arkb.d",
-  "name": "Dinari ARKB",
+  "symbol": "ARKB.d",
+  "name": "ARK 21Shares Bitcoin ETF - Dinari",
   "address": "0xa64c9f707bbb4cbc4e22f596a53d85b3ab7000f8",
   "decimals": 18,
   "type": "ERC20",

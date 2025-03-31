@@ -1,6 +1,6 @@
 {
-  "symbol": "wsienna",
-  "name": "Sienna [ERC-20]",
+  "symbol": "wSIENNA",
+  "name": "Sienna (ERC20)",
   "address": "0x9b00e6e8d787b13756eb919786c9745054db64f9",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "cusdc",
-  "name": "cUSDC",
+  "symbol": "cUSDC",
+  "name": "Compound USD Coin",
   "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9442/thumb/Compound_USDC.png?1567581577",

@@ -1,6 +1,6 @@
 {
-  "symbol": "dysto",
-  "name": "DystoWorld AI",
+  "symbol": "DYSTO",
+  "name": "DystoWorld",
   "address": "0xde466831fde62e5141d49ba9d962d3fa3fae466f",
   "decimals": 18,
   "type": "ERC20",

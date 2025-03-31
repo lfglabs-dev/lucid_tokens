@@ -1,6 +1,6 @@
 {
-  "symbol": "gora",
-  "name": "Gora",
+  "symbol": "GORA",
+  "name": "GoraToken",
   "address": "0x3b9b5ad79cbb7649143decd5afc749a75f8e6c7f",
   "decimals": 18,
   "type": "ERC20",

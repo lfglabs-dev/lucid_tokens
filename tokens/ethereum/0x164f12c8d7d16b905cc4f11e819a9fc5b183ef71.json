@@ -1,8 +1,8 @@
 {
-  "symbol": "$dmp",
-  "name": "Dmarketplace",
+  "symbol": "DMP",
+  "name": "dMarketplace Token",
   "address": "0x164f12c8d7d16b905cc4f11e819a9fc5b183ef71",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51019/thumb/IMG_0175.jpeg?1729769717",

@@ -1,6 +1,6 @@
 {
-  "symbol": "znd",
-  "name": "ZND Token",
+  "symbol": "ZND",
+  "name": "ZNDToken",
   "address": "0x2d8ea194902bc55431420bd26be92b0782dce91d",
   "decimals": 18,
   "type": "ERC20",

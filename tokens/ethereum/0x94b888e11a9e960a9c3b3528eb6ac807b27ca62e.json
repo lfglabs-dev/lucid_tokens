@@ -1,6 +1,6 @@
 {
-  "symbol": "inlseth",
-  "name": "Inception lsETH",
+  "symbol": "InlsETH",
+  "name": "Inception Restaked lsETH",
   "address": "0x94b888e11a9e960a9c3b3528eb6ac807b27ca62e",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "elmt",
+  "symbol": "ELMT",
   "name": "Element",
   "address": "0x600d601d8b9eb5de5ac90fefc68d0d08801bfd3f",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33775/thumb/ELMT_Logo_Mark_Filled_-_Neon_LG.png?1702970207",

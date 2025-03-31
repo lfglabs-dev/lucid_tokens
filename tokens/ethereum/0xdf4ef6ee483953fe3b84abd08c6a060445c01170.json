@@ -1,8 +1,8 @@
 {
-  "symbol": "wacme",
-  "name": "Wrapped Accumulate",
+  "symbol": "WACME",
+  "name": "Wrapped ACME",
   "address": "0xdf4ef6ee483953fe3b84abd08c6a060445c01170",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27207/thumb/accumulate-logo-200x200.png?1662607409",

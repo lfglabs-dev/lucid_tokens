@@ -1,6 +1,6 @@
 {
-  "symbol": "rfuel",
-  "name": "RioDeFi",
+  "symbol": "RFuel",
+  "name": "Rio Fuel Token",
   "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
   "decimals": 18,
   "type": "ERC20",

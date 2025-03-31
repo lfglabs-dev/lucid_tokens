@@ -1,6 +1,6 @@
 {
-  "symbol": "mooncat",
-  "name": "MOONCAT Vault (NFTX)",
+  "symbol": "MOONCAT",
+  "name": "MoonCats",
   "address": "0x98968f0747e0a261532cacc0be296375f5c08398",
   "decimals": 18,
   "type": "ERC20",

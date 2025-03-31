@@ -1,8 +1,8 @@
 {
-  "symbol": "ishi",
+  "symbol": "ISHI",
   "name": "Ishi",
   "address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36109/thumb/ishi_medium_%281%29.jpg?1710486321",

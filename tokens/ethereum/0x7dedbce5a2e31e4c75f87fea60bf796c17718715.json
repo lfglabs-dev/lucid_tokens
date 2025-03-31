@@ -1,6 +1,6 @@
 {
-  "symbol": "pnp",
-  "name": "Penpie",
+  "symbol": "PNP",
+  "name": "Penpie Token",
   "address": "0x7dedbce5a2e31e4c75f87fea60bf796c17718715",
   "decimals": 18,
   "type": "ERC20",

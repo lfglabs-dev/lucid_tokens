@@ -1,6 +1,6 @@
 {
-  "symbol": "dbr",
-  "name": "DOLA Borrowing Right",
+  "symbol": "DBR",
+  "name": "Dola Borrowing Right",
   "address": "0xad038eb671c44b853887a7e32528fab35dc5d710",
   "decimals": 18,
   "type": "ERC20",

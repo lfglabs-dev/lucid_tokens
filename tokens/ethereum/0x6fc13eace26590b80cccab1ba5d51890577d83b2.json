@@ -1,6 +1,6 @@
 {
-  "symbol": "umb",
-  "name": "Umbrella Network",
+  "symbol": "UMB",
+  "name": "Umbrella",
   "address": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
   "decimals": 18,
   "type": "ERC20",

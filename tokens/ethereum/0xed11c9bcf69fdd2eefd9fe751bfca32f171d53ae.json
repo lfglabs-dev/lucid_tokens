@@ -1,8 +1,8 @@
 {
-  "symbol": "koin",
+  "symbol": "KOIN",
   "name": "Koinos",
   "address": "0xed11c9bcf69fdd2eefd9fe751bfca32f171d53ae",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13116/thumb/koinos-mark-circle-250px.png?1614870541",

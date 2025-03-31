@@ -1,5 +1,5 @@
 {
-  "symbol": "defend",
+  "symbol": "DEFEND",
   "name": "BlockDefend AI",
   "address": "0x9511ff502f982643935a39206f98a6c18d4527cf",
   "decimals": 18,

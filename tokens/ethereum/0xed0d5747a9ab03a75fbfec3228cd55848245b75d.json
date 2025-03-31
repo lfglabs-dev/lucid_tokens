@@ -1,8 +1,8 @@
 {
-  "symbol": "ngm",
-  "name": "e-Money",
+  "symbol": "NGM",
+  "name": "Next Generation Money",
   "address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13722/thumb/logo-200x200.jpg?1626095888",

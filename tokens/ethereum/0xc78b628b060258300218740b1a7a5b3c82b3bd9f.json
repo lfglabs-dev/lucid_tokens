@@ -1,6 +1,6 @@
 {
-  "symbol": "comai",
-  "name": "Commune AI",
+  "symbol": "wCOMAI",
+  "name": "Wrapped Commune AI",
   "address": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "degen",
-  "name": "Degen",
+  "symbol": "DEGEN",
+  "name": "DEGEN",
   "address": "0xfee293840d23b0b2de8c55e1cf7a9f01c157767c",
   "decimals": 18,
   "type": "ERC20",

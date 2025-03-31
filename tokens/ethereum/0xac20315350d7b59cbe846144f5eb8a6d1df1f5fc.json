@@ -1,6 +1,6 @@
 {
-  "symbol": "rddt.d",
-  "name": "Dinari RDDT",
+  "symbol": "RDDT.d",
+  "name": "Reddit, Inc. - Dinari",
   "address": "0xac20315350d7b59cbe846144f5eb8a6d1df1f5fc",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "let",
-  "name": "Linkeye",
+  "symbol": "LET",
+  "name": "LinkEye Token",
   "address": "0xfa3118b34522580c35ae27f6cf52da1dbb756288",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1814/thumb/linkeye.png?1547975964",

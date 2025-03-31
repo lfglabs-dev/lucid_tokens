@@ -1,6 +1,6 @@
 {
-  "symbol": "ezbc.d",
-  "name": "Dinari EZBC",
+  "symbol": "EZBC.d",
+  "name": "Franklin Bitcoin ETF - Dinari",
   "address": "0xc4c6213024d9adc5132707942905918df7fbbbe8",
   "decimals": 18,
   "type": "ERC20",

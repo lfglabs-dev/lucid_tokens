@@ -1,8 +1,8 @@
 {
-  "symbol": "nexusai",
+  "symbol": "NexusAI",
   "name": "NexusAI",
   "address": "0xe96edd48cf0c6e930ce55f171a721017b28e0f08",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36238/thumb/NexusAI.png?1710918464",

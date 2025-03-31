@@ -1,8 +1,8 @@
 {
-  "symbol": "brbtc",
-  "name": "Bedrock BTC",
+  "symbol": "brBTC",
+  "name": "brBTC",
   "address": "0x2ec37d45fcae65d9787ecf71dc85a444968f6646",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",

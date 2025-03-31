@@ -1,6 +1,6 @@
 {
-  "symbol": "ufo.d",
-  "name": "Dinari UFO",
+  "symbol": "UFO.d",
+  "name": "Procure Space ETF - Dinari",
   "address": "0x1194e99f23c8b99cb55a328160aeb0bb010bf0c3",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "rserg",
+  "symbol": "rsERG",
   "name": "rsERG",
   "address": "0x6c060ba738af39a09f3b45ac6487dfc9ebb885f6",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51002/thumb/symbol_bold__1080px__black.png?1729700748",

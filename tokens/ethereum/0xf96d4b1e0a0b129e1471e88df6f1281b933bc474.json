@@ -1,6 +1,6 @@
 {
-  "symbol": "speth",
-  "name": "Spectrum ETH",
+  "symbol": "spETH",
+  "name": "Spectrum Staked ETH",
   "address": "0xf96d4b1e0a0b129e1471e88df6f1281b933bc474",
   "decimals": 18,
   "type": "ERC20",

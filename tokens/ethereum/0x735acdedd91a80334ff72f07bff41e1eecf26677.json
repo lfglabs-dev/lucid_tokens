@@ -1,6 +1,6 @@
 {
-  "symbol": "euus",
-  "name": "Nexus Pro EUUS",
+  "symbol": "EUUS",
+  "name": "EUUS",
   "address": "0x735acdedd91a80334ff72f07bff41e1eecf26677",
   "decimals": 18,
   "type": "ERC20",

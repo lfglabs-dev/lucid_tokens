@@ -1,6 +1,6 @@
 {
-  "symbol": "mimir",
-  "name": "Mimir",
+  "symbol": "MIMIR",
+  "name": "Mimir Token",
   "address": "0x71dc40668682a124231301414167e4cf7f55383c",
   "decimals": 18,
   "type": "ERC20",

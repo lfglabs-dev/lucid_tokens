@@ -1,8 +1,8 @@
 {
-  "symbol": "ichi",
-  "name": "Legacy ICHI",
+  "symbol": "ICHI",
+  "name": "ichi.farm",
   "address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26004/thumb/legacy.png?1655278844",

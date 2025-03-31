@@ -1,6 +1,6 @@
 {
-  "symbol": "hbot",
-  "name": "Hummingbot",
+  "symbol": "HBOT",
+  "name": "Hummingbot Governance Token",
   "address": "0xe5097d9baeafb89f9bcb78c9290d545db5f9e9cb",
   "decimals": 18,
   "type": "ERC20",

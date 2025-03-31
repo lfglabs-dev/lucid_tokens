@@ -1,6 +1,6 @@
 {
-  "symbol": "adai",
-  "name": "Aave DAI",
+  "symbol": "aDAI",
+  "name": "Aave interest bearing DAI",
   "address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
   "decimals": 18,
   "type": "ERC20",

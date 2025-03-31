@@ -1,6 +1,6 @@
 {
-  "symbol": "asm",
-  "name": "Assemble AI",
+  "symbol": "ASM",
+  "name": "ASSEMBLE",
   "address": "0x2565ae0385659badcada1031db704442e1b69982",
   "decimals": 18,
   "type": "ERC20",

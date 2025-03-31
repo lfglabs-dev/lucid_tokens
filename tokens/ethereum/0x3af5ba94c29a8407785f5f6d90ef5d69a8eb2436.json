@@ -1,8 +1,8 @@
 {
-  "symbol": "uwbtc",
-  "name": "Unagii Wrapped Bitcoin",
+  "symbol": "uWBTC",
+  "name": "unagii_Wrapped BTC",
   "address": "0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14625/thumb/uBTC.png?1617294190",

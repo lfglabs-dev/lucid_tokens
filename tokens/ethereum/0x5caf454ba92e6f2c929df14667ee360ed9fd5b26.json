@@ -1,6 +1,6 @@
 {
-  "symbol": "dev",
-  "name": "Dev Protocol",
+  "symbol": "DEV",
+  "name": "Dev",
   "address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
   "decimals": 18,
   "type": "ERC20",

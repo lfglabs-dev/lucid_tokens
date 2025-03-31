@@ -1,8 +1,8 @@
 {
-  "symbol": "cmkr",
-  "name": "cMKR",
+  "symbol": "cMKR",
+  "name": "Compound Maker",
   "address": "0x95b4ef2869ebd94beb4eee400a99824bf5dc325b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17528/thumb/cmkr.PNG?1628122490",

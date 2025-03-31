@@ -1,6 +1,6 @@
 {
-  "symbol": "pzeth",
-  "name": "Renzo Restaked LST",
+  "symbol": "pzETH",
+  "name": "Renzo Restaked LST ",
   "address": "0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811",
   "decimals": 18,
   "type": "ERC20",

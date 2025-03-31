@@ -1,6 +1,6 @@
 {
-  "symbol": "thales",
-  "name": "Thales",
+  "symbol": "THALES",
+  "name": "Thales DAO Token",
   "address": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
   "decimals": 18,
   "type": "ERC20",

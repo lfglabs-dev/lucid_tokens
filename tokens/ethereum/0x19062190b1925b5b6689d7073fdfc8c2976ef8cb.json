@@ -1,8 +1,8 @@
 {
-  "symbol": "bzz",
-  "name": "Swarm",
+  "symbol": "BZZ",
+  "name": "BZZ",
   "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
-  "decimals": 18,
+  "decimals": 16,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/16509/thumb/Swarm_Logo_1_%E2%97%8B_1_200px.png?1628508564",

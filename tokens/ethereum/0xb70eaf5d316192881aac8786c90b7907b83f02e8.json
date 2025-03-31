@@ -1,5 +1,5 @@
 {
-  "symbol": "reset",
+  "symbol": "RESET",
   "name": "MetaReset",
   "address": "0xb70eaf5d316192881aac8786c90b7907b83f02e8",
   "decimals": 18,

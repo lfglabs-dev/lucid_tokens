@@ -1,8 +1,8 @@
 {
-  "symbol": "sol",
-  "name": "SOL (Wormhole)",
+  "symbol": "SOL",
+  "name": "Wrapped SOL",
   "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",

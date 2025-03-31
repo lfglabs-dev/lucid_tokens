@@ -1,8 +1,8 @@
 {
-  "symbol": "ntmpi",
-  "name": "Neutaro",
+  "symbol": "$NTMPI",
+  "name": "neutaro",
   "address": "0x53be7be0ce7f92bcbd2138305735160fb799be4f",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "missing_thumb.png",

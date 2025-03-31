@@ -1,6 +1,6 @@
 {
-  "symbol": "wvg0",
-  "name": "Wrapped Virgin Gen-0 CryptoKittties",
+  "symbol": "WVG0",
+  "name": "Wrapped Virgin Gen 0",
   "address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
   "decimals": 18,
   "type": "ERC20",

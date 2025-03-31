@@ -1,6 +1,6 @@
 {
-  "symbol": "toons",
-  "name": "City Boys",
+  "symbol": "TOONS",
+  "name": "CityBoys",
   "address": "0x792833b894775bd769b3c602ba7172e59a83ab3f",
   "decimals": 18,
   "type": "ERC20",

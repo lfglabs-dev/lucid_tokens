@@ -1,6 +1,6 @@
 {
-  "symbol": "dxi",
-  "name": "Dacxi",
+  "symbol": "DXI",
+  "name": "Dacxi Coin",
   "address": "0x5e29cf3e3fed4df50acab95f8268e9ee26ea36f2",
   "decimals": 18,
   "type": "ERC20",

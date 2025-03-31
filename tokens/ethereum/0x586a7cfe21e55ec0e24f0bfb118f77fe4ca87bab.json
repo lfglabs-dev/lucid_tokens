@@ -1,6 +1,6 @@
 {
-  "symbol": "crypto",
-  "name": "BetbuInu",
+  "symbol": "CRYPTO",
+  "name": "BitcoinEthereumTetherBNBXRPUSDCDogecoinCardanoSolanaTronMaticLitecoinPolkadotShibaInuDaiBitcoinCashWrappedBitcoinAvaxTonLinkStellarLEOUNITUSDAtomMoneroOKBEthereumClassicHederaInternetComputerFilecoinMantleLidoDaoAptosArbitrumCronosVechainNEARQuantOptismMakerTheGraphAaveXDCNetworkAlgorandTheSandboxAxieInfinityMultuversXStacksTezosUSDDThetaNetworkBitcoinSVManaSynthetixInjectiveApeCoinFantomNeiRendereCashFlowKavaChilizKucoinTokenGalaCurveDaoTOkenPaxDollarRocketPoolKlaytnZcashPaxGoldIOTATetherGoldFraxShareTerraClassicCasperGMXPepeBitTorrentCompoundMinaSuiHuobiTokenGateTokenTrustWalletTokenBoneDashNEXOGeminiDollarArweaveThorChaindYdXWooNetworkZiliqaCAKEInu",
   "address": "0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab",
   "decimals": 18,
   "type": "ERC20",

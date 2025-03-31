@@ -1,6 +1,6 @@
 {
-  "symbol": "dogc",
-  "name": "DOGC",
+  "symbol": "DOGC",
+  "name": "Dogc",
   "address": "0xeeacc51af745846ddf46012b46c6910ea9b12898",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "brise",
+  "symbol": "BRISE",
   "name": "Bitgert",
   "address": "0xf2b2f7b47715256ce4ea43363a867fdce9353e3a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17388/thumb/bitrise.PNG?1627522379",

@@ -1,8 +1,8 @@
 {
-  "symbol": "pepenomics",
+  "symbol": "PEPENOMICS",
   "name": "Pepenomics",
   "address": "0x696969ade0cc455414fc4800ebea505d690b2429",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38908/thumb/IMG_20240626_063256_114.jpg?1719472539",

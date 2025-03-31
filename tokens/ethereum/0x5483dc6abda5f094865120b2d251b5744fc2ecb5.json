@@ -1,6 +1,6 @@
 {
-  "symbol": "tpad",
-  "name": "TaoPad",
+  "symbol": "TPAD",
+  "name": "Taopad",
   "address": "0x5483dc6abda5f094865120b2d251b5744fc2ecb5",
   "decimals": 18,
   "type": "ERC20",

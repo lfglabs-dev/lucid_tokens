@@ -1,8 +1,8 @@
 {
-  "symbol": "twif",
+  "symbol": "TWIF",
   "name": "Tomwifhat",
   "address": "0x62760e76dce6b500349ec5f6119228d047913350",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37972/thumb/IMG_20240520_025422_580.png?1716194512",

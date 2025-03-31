@@ -1,6 +1,6 @@
 {
-  "symbol": "$ads",
-  "name": "Alkimi",
+  "symbol": "$ADS",
+  "name": "Alkimi Exchange",
   "address": "0x3106a0a076bedae847652f42ef07fd58589e001f",
   "decimals": 18,
   "type": "ERC20",

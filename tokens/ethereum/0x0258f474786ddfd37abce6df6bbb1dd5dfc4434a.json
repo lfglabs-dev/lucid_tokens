@@ -1,8 +1,8 @@
 {
-  "symbol": "orn",
-  "name": "Orion",
+  "symbol": "ORN",
+  "name": "Orion Protocol",
   "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/11841/thumb/orion_logo.png?1594943318",

@@ -1,8 +1,8 @@
 {
-  "symbol": "swipes",
-  "name": "Bndr",
+  "symbol": "$SWIPES",
+  "name": "BNDR",
   "address": "0x4cb1e6c430bb4b874869fd6049ed07ae975b02f1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37491/thumb/Logocoingeko.png?1714499814",

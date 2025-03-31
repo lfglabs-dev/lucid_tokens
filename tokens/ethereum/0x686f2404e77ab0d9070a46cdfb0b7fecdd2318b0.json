@@ -1,6 +1,6 @@
 {
-  "symbol": "lords",
-  "name": "LORDS",
+  "symbol": "LORDS",
+  "name": "Lords",
   "address": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
   "decimals": 18,
   "type": "ERC20",

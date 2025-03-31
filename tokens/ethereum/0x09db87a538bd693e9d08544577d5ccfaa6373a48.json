@@ -1,6 +1,6 @@
 {
-  "symbol": "yneth",
-  "name": "YieldNest Restaked ETH",
+  "symbol": "ynETH",
+  "name": "ynETH",
   "address": "0x09db87a538bd693e9d08544577d5ccfaa6373a48",
   "decimals": 18,
   "type": "ERC20",

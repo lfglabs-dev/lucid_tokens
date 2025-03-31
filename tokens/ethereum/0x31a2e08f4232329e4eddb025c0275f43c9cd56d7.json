@@ -1,6 +1,6 @@
 {
-  "symbol": "lusd",
-  "name": "LUSD",
+  "symbol": "lUSD",
+  "name": "lUSD",
   "address": "0x31a2e08f4232329e4eddb025c0275f43c9cd56d7",
   "decimals": 18,
   "type": "ERC20",

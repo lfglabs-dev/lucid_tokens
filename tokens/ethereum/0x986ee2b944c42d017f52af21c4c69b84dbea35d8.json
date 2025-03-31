@@ -1,6 +1,6 @@
 {
-  "symbol": "bmx",
-  "name": "BitMart",
+  "symbol": "BMC",
+  "name": "BitMartToken",
   "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
   "decimals": 18,
   "type": "ERC20",

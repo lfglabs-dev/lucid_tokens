@@ -1,8 +1,8 @@
 {
-  "symbol": "pepo",
+  "symbol": "PEPO",
   "name": "Peepo",
   "address": "0xd1b89856d82f978d049116eba8b7f9df2f342ff3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38502/thumb/20240605_135108.png?1717752182",

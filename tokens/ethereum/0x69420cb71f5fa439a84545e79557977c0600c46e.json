@@ -1,8 +1,8 @@
 {
-  "symbol": "trump",
+  "symbol": "TRUMP",
   "name": "TrumpEffect69420",
   "address": "0x69420cb71f5fa439a84545e79557977c0600c46e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51562/thumb/JuDaQ7ec_400x400.jpg?1731519740",

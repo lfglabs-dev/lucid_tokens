@@ -1,8 +1,8 @@
 {
-  "symbol": "tnt",
-  "name": "Tierion",
+  "symbol": "TNT",
+  "name": "Tierion Network Token",
   "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/923/thumb/tierion.png?1547034767",

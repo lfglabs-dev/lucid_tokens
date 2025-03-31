@@ -1,6 +1,6 @@
 {
-  "symbol": "jpeg",
-  "name": "JPEG'd (OLD)",
+  "symbol": "JPEG",
+  "name": "JPEG’d Governance Token",
   "address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
   "decimals": 18,
   "type": "ERC20",

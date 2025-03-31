@@ -1,6 +1,6 @@
 {
-  "symbol": "oblue",
-  "name": "Blueprint oBLUE",
+  "symbol": "oBLUE",
+  "name": "Option to buy BLUE",
   "address": "0xedb73d4ed90be7a49d06d0d940055e6d181d22fa",
   "decimals": 18,
   "type": "ERC20",

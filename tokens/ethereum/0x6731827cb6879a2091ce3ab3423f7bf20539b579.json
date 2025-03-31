@@ -1,6 +1,6 @@
 {
-  "symbol": "mpwr",
-  "name": "Empower",
+  "symbol": "MPWR",
+  "name": "Empower Token",
   "address": "0x6731827cb6879a2091ce3ab3423f7bf20539b579",
   "decimals": 18,
   "type": "ERC20",

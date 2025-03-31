@@ -1,8 +1,8 @@
 {
-  "symbol": "shx",
-  "name": "Stronghold",
+  "symbol": "SHX",
+  "name": "Stronghold SHx",
   "address": "0xee7527841a932d2912224e20a405e1a1ff747084",
-  "decimals": 18,
+  "decimals": 7,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7427/thumb/Blue_Mark_-_White_BG.png?1627127444",

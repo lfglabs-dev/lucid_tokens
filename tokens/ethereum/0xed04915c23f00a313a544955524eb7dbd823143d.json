@@ -1,8 +1,8 @@
 {
-  "symbol": "ach",
-  "name": "Alchemy Pay",
+  "symbol": "ACH",
+  "name": "Alchemy",
   "address": "0xed04915c23f00a313a544955524eb7dbd823143d",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266",

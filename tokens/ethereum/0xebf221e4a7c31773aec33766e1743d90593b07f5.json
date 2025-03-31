@@ -1,8 +1,8 @@
 {
-  "symbol": "chat",
+  "symbol": "CHAT",
   "name": "Chat Chain",
   "address": "0xebf221e4a7c31773aec33766e1743d90593b07f5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50315/thumb/cg.png?1727099752",

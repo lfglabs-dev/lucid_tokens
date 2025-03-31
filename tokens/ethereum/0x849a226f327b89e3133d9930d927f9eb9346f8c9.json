@@ -1,8 +1,8 @@
 {
-  "symbol": "cgu",
-  "name": "Crypto Global United",
+  "symbol": "CGU",
+  "name": "Crypto Gaming United",
   "address": "0x849a226f327b89e3133d9930d927f9eb9346f8c9",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/20751/thumb/2022_CGU-MG_RGB.png?1666606977",

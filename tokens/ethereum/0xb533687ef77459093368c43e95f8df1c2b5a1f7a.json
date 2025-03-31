@@ -1,6 +1,6 @@
 {
-  "symbol": "asg",
-  "name": "Nekoverse: City of Greed Anima Spirit Gem",
+  "symbol": "ASG",
+  "name": "Anima Spirit Gem",
   "address": "0xb533687ef77459093368c43e95f8df1c2b5a1f7a",
   "decimals": 18,
   "type": "ERC20",

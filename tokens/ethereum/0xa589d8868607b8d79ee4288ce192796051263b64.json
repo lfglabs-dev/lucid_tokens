@@ -1,6 +1,6 @@
 {
-  "symbol": "tate",
-  "name": "TATE",
+  "symbol": "TATE",
+  "name": "Tate",
   "address": "0xa589d8868607b8d79ee4288ce192796051263b64",
   "decimals": 18,
   "type": "ERC20",

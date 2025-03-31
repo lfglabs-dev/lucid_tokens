@@ -1,6 +1,6 @@
 {
-  "symbol": "idyp",
-  "name": "iDypius",
+  "symbol": "iDYP",
+  "name": "iDeFiYieldProtocol",
   "address": "0xbd100d061e120b2c67a24453cf6368e63f1be056",
   "decimals": 18,
   "type": "ERC20",

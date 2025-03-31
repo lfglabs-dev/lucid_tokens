@@ -1,6 +1,6 @@
 {
-  "symbol": "auni",
-  "name": "Aave v3 UNI",
+  "symbol": "aEthUNI",
+  "name": "Aave Ethereum UNI",
   "address": "0xf6d2224916ddfbbab6e6bd0d1b7034f4ae0cab18",
   "decimals": 18,
   "type": "ERC20",

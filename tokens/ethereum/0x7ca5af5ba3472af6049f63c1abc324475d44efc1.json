@@ -1,8 +1,8 @@
 {
-  "symbol": "kndx",
-  "name": "KONDUX",
+  "symbol": "KNDX",
+  "name": "Kondux",
   "address": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28244/thumb/kndx.png?1668587937",

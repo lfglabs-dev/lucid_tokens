@@ -1,6 +1,6 @@
 {
-  "symbol": "start",
-  "name": "Starter.xyz",
+  "symbol": "START",
+  "name": "BSCstarter",
   "address": "0x1d7ca62f6af49ec66f6680b8606e634e55ef22c1",
   "decimals": 18,
   "type": "ERC20",

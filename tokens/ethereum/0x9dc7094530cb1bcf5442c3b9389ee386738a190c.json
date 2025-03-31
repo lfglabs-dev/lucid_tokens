@@ -1,6 +1,6 @@
 {
-  "symbol": "macrv",
-  "name": "Morpho-Aave Curve DAO Token",
+  "symbol": "maCRV",
+  "name": "Morpho-Aave Curve DAO Token Supply Vault",
   "address": "0x9dc7094530cb1bcf5442c3b9389ee386738a190c",
   "decimals": 18,
   "type": "ERC20",

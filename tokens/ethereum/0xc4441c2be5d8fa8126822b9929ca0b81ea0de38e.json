@@ -1,6 +1,6 @@
 {
-  "symbol": "usual",
-  "name": "Usual",
+  "symbol": "USUAL",
+  "name": "USUAL",
   "address": "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e",
   "decimals": 18,
   "type": "ERC20",

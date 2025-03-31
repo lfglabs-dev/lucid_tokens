@@ -1,8 +1,8 @@
 {
-  "symbol": "husd",
+  "symbol": "HUSD",
   "name": "HUSD",
   "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/9567/thumb/HUSD.jpg?1568889385",

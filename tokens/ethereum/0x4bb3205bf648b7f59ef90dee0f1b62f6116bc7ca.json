@@ -1,6 +1,6 @@
 {
-  "symbol": "byn",
-  "name": "NBX",
+  "symbol": "BYN",
+  "name": "Beyond Finance",
   "address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
   "decimals": 18,
   "type": "ERC20",

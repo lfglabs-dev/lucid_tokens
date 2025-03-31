@@ -1,6 +1,6 @@
 {
-  "symbol": "grain",
-  "name": "Granary",
+  "symbol": "GRAIN",
+  "name": "Granary Token",
   "address": "0xf88baf18fab7e330fa0c4f83949e23f52fececce",
   "decimals": 18,
   "type": "ERC20",

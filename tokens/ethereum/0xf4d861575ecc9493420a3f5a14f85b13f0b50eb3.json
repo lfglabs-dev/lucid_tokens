@@ -1,6 +1,6 @@
 {
-  "symbol": "fcl",
-  "name": "Fractal",
+  "symbol": "FCL",
+  "name": "Fractal Protocol Token",
   "address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "arki",
+  "symbol": "ARKI",
   "name": "ArkiTech",
   "address": "0xd3210f246ae54c5a45a7b4a83315bf718f591bfc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33426/thumb/ARKI.jpg?1701770159",

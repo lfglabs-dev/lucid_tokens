@@ -1,6 +1,6 @@
 {
-  "symbol": "alink",
-  "name": "Aave v3 LINK",
+  "symbol": "aEthLINK",
+  "name": "Aave Ethereum LINK",
   "address": "0x5e8c8a7243651db1384c0ddfdbe39761e8e7e51a",
   "decimals": 18,
   "type": "ERC20",

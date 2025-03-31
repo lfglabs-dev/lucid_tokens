@@ -1,6 +1,6 @@
 {
-  "symbol": "reth2",
-  "name": "rETH2",
+  "symbol": "rETH2",
+  "name": "StakeWise Reward ETH2",
   "address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5",
   "decimals": 18,
   "type": "ERC20",

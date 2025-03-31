@@ -1,6 +1,6 @@
 {
-  "symbol": "dream",
-  "name": "Dream",
+  "symbol": "DREAM",
+  "name": "DREAM",
   "address": "0xb44377b74ef1773639b663d0754cb8410a847d02",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "vtrading",
-  "name": "Vtrading",
+  "symbol": "VT",
+  "name": "VTrading Token",
   "address": "0x69cade383df52ec02562869da8aa146be08c5c3c",
   "decimals": 18,
   "type": "ERC20",

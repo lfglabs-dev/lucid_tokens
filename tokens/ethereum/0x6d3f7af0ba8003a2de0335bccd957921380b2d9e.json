@@ -1,8 +1,8 @@
 {
-  "symbol": "limon",
+  "symbol": "LIMON",
   "name": "LimoncelloAI",
   "address": "0x6d3f7af0ba8003a2de0335bccd957921380b2d9e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50330/thumb/coingecko.jpg?1727163970",

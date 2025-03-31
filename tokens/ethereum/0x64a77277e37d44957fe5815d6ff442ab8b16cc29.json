@@ -1,8 +1,8 @@
 {
-  "symbol": "dawgs",
+  "symbol": "DAWGS",
   "name": "SpaceDawgs",
   "address": "0x64a77277e37d44957fe5815d6ff442ab8b16cc29",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17076/thumb/twitter-facebook-Instagram-pfp.png?1646792743",

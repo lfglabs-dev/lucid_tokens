@@ -1,6 +1,6 @@
 {
-  "symbol": "mm",
-  "name": "Millimeter",
+  "symbol": "MM",
+  "name": "MilliMeter",
   "address": "0xc3c221fe28c33814c28c822b631fd76047ef1a63",
   "decimals": 18,
   "type": "ERC20",

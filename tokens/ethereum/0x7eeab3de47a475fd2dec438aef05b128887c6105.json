@@ -1,8 +1,8 @@
 {
-  "symbol": "troppy",
+  "symbol": "TROPPY",
   "name": "TROPPY",
   "address": "0x7eeab3de47a475fd2dec438aef05b128887c6105",
-  "decimals": 18,
+  "decimals": 11,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52388/thumb/TROPPY_DARK_CLOSE_UP_PFP_%281%29_%281%29.jpg?1733268871",

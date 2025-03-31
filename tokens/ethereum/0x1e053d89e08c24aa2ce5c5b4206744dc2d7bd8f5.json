@@ -1,6 +1,6 @@
 {
-  "symbol": "tt",
-  "name": "ThunderCore",
+  "symbol": "TT",
+  "name": "ETH-Peg Thunder Token",
   "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
   "decimals": 18,
   "type": "ERC20",

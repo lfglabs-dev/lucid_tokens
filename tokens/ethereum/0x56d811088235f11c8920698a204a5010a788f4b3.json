@@ -1,6 +1,6 @@
 {
-  "symbol": "bzrx",
-  "name": "bZx Protocol",
+  "symbol": "BZRX",
+  "name": "bZx Protocol Token",
   "address": "0x56d811088235f11c8920698a204a5010a788f4b3",
   "decimals": 18,
   "type": "ERC20",

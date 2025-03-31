@@ -1,6 +1,6 @@
 {
-  "symbol": "here",
-  "name": "SphereX Token",
+  "symbol": "HERE",
+  "name": "SphereX",
   "address": "0xd722424cf94b583752dfc80c08e2531ab3b762dc",
   "decimals": 18,
   "type": "ERC20",

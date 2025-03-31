@@ -1,6 +1,6 @@
 {
-  "symbol": "dgen",
-  "name": "DGEN",
+  "symbol": "DGEN",
+  "name": "DEGEN",
   "address": "0x45f93404ae1e4f0411a7f42bc6a5dc395792738d",
   "decimals": 18,
   "type": "ERC20",

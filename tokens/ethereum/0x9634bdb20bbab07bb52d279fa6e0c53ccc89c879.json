@@ -1,8 +1,8 @@
 {
-  "symbol": "pepega",
+  "symbol": "PEPEGA",
   "name": "Pepega",
   "address": "0x9634bdb20bbab07bb52d279fa6e0c53ccc89c879",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/38225/thumb/pepega_logo.png?1716827655",

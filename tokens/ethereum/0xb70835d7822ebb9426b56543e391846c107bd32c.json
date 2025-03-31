@@ -1,6 +1,6 @@
 {
-  "symbol": "gtc",
-  "name": "Game",
+  "symbol": "GTC",
+  "name": "Game.com Token",
   "address": "0xb70835d7822ebb9426b56543e391846c107bd32c",
   "decimals": 18,
   "type": "ERC20",

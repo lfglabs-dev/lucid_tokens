@@ -1,6 +1,6 @@
 {
-  "symbol": "eusd",
-  "name": "Electronic USD",
+  "symbol": "eUSD",
+  "name": "Electronic Dollar",
   "address": "0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f",
   "decimals": 18,
   "type": "ERC20",

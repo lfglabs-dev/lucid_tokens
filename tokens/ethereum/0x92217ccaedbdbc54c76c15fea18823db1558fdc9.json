@@ -1,6 +1,6 @@
 {
-  "symbol": "fula",
-  "name": "Functionland",
+  "symbol": "FULA",
+  "name": "Functionland Fula",
   "address": "0x92217ccaedbdbc54c76c15fea18823db1558fdc9",
   "decimals": 18,
   "type": "ERC20",

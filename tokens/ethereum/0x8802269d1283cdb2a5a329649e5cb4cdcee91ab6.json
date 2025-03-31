@@ -1,8 +1,8 @@
 {
-  "symbol": "fight",
+  "symbol": "FIGHT",
   "name": "Fight to MAGA",
   "address": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39208/thumb/photo_2024-07-14_03-15-23.jpg?1721101331",

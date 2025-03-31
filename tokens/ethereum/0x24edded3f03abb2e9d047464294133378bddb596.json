@@ -1,6 +1,6 @@
 {
-  "symbol": "sect",
-  "name": "SECT BOT [OLD]",
+  "symbol": "SECT",
+  "name": "Sect Bot",
   "address": "0x24edded3f03abb2e9d047464294133378bddb596",
   "decimals": 18,
   "type": "ERC20",

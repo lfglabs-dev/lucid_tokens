@@ -1,6 +1,6 @@
 {
-  "symbol": "dodo",
-  "name": "DODO",
+  "symbol": "DODO",
+  "name": "DODO bird",
   "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
   "decimals": 18,
   "type": "ERC20",

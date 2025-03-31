@@ -1,6 +1,6 @@
 {
-  "symbol": "usdd",
-  "name": "USDD",
+  "symbol": "USDD",
+  "name": "Decentralized USD",
   "address": "0x3d7975eccfc61a2102b08925cbba0a4d4dbb6555",
   "decimals": 18,
   "type": "ERC20",

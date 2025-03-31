@@ -1,8 +1,8 @@
 {
-  "symbol": "21bch",
-  "name": "21.co Wrapped BCH",
+  "symbol": "21BCH",
+  "name": "21.co Wrapped BitcoinCash",
   "address": "0xff4927e04c6a01868284f5c3fb9cba7f7ca4aec0",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34641/thumb/64ffa735a9399e1dddbd5d21_21co_W_Token_v2_21BCH-2.png?1705579277",

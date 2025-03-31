@@ -1,8 +1,8 @@
 {
-  "symbol": "frm",
-  "name": "Ferrum Network",
+  "symbol": "FRM",
+  "name": "Ferrum Network Token",
   "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/8251/thumb/frm.png?1563777564",

@@ -1,8 +1,8 @@
 {
-  "symbol": "hget",
+  "symbol": "HGET",
   "name": "Hedget",
   "address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12453/thumb/Hedget.png?1599944809",

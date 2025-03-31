@@ -1,8 +1,8 @@
 {
-  "symbol": "salman",
+  "symbol": "SALMAN",
   "name": "Mohameme Bit Salman",
   "address": "0x69bb12b8ee418e4833b8debe4a2bb997ab9ce18e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39266/thumb/fefe.png?1721360999",

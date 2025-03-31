@@ -1,8 +1,8 @@
 {
-  "symbol": "btce",
-  "name": "bitcoin (2015 Wrapper) (Meme)",
+  "symbol": "btc",
+  "name": "bitcoin",
   "address": "0xc0bc84e95864bdfdcd1ccfb8a3aa522e79ca1410",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "missing_thumb.png",

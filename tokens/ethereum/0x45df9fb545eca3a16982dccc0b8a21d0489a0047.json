@@ -1,6 +1,6 @@
 {
-  "symbol": "voy",
-  "name": "Voy Finance",
+  "symbol": "VOY",
+  "name": "VOY Finance",
   "address": "0x45df9fb545eca3a16982dccc0b8a21d0489a0047",
   "decimals": 18,
   "type": "ERC20",

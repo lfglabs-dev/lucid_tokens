@@ -1,6 +1,6 @@
 {
-  "symbol": "useu",
-  "name": "Nexus Pro USEU",
+  "symbol": "USEU",
+  "name": "USEU",
   "address": "0xe07ecc676daf0b24b24a1c46c966d9c463984b38",
   "decimals": 18,
   "type": "ERC20",

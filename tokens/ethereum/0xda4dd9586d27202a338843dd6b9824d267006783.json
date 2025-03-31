@@ -1,8 +1,8 @@
 {
-  "symbol": "ect",
-  "name": "Echain Network",
+  "symbol": "ECT",
+  "name": "Echain Token",
   "address": "0xda4dd9586d27202a338843dd6b9824d267006783",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/28133/thumb/1666808362379-8226c3c3451e049842cfe21d65cb91ad.png?1667719253",

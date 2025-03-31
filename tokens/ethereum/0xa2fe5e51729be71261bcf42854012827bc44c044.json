@@ -1,6 +1,6 @@
 {
-  "symbol": "burn",
-  "name": "BURN",
+  "symbol": "BURN",
+  "name": "Burn",
   "address": "0xa2fe5e51729be71261bcf42854012827bc44c044",
   "decimals": 18,
   "type": "ERC20",

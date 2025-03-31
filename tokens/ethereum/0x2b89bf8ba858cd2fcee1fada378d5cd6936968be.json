@@ -1,8 +1,8 @@
 {
-  "symbol": "wscrt",
-  "name": "Secret (ERC20)",
+  "symbol": "WSCRT",
+  "name": "Wrapped SCRT",
   "address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13767/thumb/Secret_S_Black_Coingecko.png?1611667298",

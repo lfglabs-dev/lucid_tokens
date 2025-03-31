@@ -1,6 +1,6 @@
 {
-  "symbol": "ruff",
-  "name": "Ruff",
+  "symbol": "RUFF",
+  "name": "RUFF",
   "address": "0xf278c1ca969095ffddded020290cf8b5c424ace2",
   "decimals": 18,
   "type": "ERC20",

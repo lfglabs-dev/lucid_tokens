@@ -1,6 +1,6 @@
 {
-  "symbol": "vusd",
-  "name": "Vesper V-Dollar",
+  "symbol": "VUSD",
+  "name": "VUSD",
   "address": "0x677ddbd918637e5f2c79e164d402454de7da8619",
   "decimals": 18,
   "type": "ERC20",

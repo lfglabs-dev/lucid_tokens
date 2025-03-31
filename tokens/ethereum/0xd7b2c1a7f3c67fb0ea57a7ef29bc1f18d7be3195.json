@@ -1,6 +1,6 @@
 {
-  "symbol": "vmint",
-  "name": "VoluMint",
+  "symbol": "vMINT",
+  "name": "Volumint",
   "address": "0xd7b2c1a7f3c67fb0ea57a7ef29bc1f18d7be3195",
   "decimals": 18,
   "type": "ERC20",

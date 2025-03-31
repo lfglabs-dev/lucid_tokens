@@ -1,6 +1,6 @@
 {
-  "symbol": "chrp",
-  "name": "Chirpley",
+  "symbol": "CHRP",
+  "name": "Chirpley Token",
   "address": "0x70bc0dc6414eb8974bc70685f798838a87d8cce4",
   "decimals": 18,
   "type": "ERC20",

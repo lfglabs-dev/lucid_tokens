@@ -1,8 +1,8 @@
 {
-  "symbol": "wtrx",
-  "name": "Wrapped Tron",
+  "symbol": "TRX",
+  "name": "TRON",
   "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/22471/thumb/xOesRfpN_400x400.jpg?1641884861",

@@ -1,6 +1,6 @@
 {
-  "symbol": "ita.d",
-  "name": "Dinari ITA",
+  "symbol": "ITA.d",
+  "name": "iShares U.S. Aerospace & Defense ETF - Dinari",
   "address": "0x993d9ca16686746fef44e320e7f091578710cd18",
   "decimals": 18,
   "type": "ERC20",

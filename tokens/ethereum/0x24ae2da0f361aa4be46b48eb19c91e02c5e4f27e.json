@@ -1,6 +1,6 @@
 {
-  "symbol": "meveth",
-  "name": "mevETH",
+  "symbol": "mevETH",
+  "name": "Mev Liquid Staking Receipt",
   "address": "0x24ae2da0f361aa4be46b48eb19c91e02c5e4f27e",
   "decimals": 18,
   "type": "ERC20",

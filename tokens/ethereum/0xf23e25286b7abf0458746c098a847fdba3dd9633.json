@@ -1,8 +1,8 @@
 {
-  "symbol": "horus",
+  "symbol": "HORUS",
   "name": "HORUS",
   "address": "0xf23e25286b7abf0458746c098a847fdba3dd9633",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52127/thumb/1Zhbkph5_400x400.jpg?1732615991",

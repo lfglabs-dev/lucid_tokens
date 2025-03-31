@@ -1,6 +1,6 @@
 {
-  "symbol": "bgb",
-  "name": "Bitget Token",
+  "symbol": "BGB",
+  "name": "BitgetToken",
   "address": "0x54d2252757e1672eead234d27b1270728ff90581",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "kel",
-  "name": "KelVPN",
+  "symbol": "KEL",
+  "name": "KelVpn Token",
   "address": "0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432",
   "decimals": 18,
   "type": "ERC20",

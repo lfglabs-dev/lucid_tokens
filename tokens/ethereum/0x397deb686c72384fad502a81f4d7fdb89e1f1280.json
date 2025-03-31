@@ -1,8 +1,8 @@
 {
-  "symbol": "xels",
-  "name": "XELS",
+  "symbol": "XELS",
+  "name": "Xels Token",
   "address": "0x397deb686c72384fad502a81f4d7fdb89e1f1280",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14729/thumb/Xels_logo_square_%281%29.png?1617957186",

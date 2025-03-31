@@ -1,6 +1,6 @@
 {
-  "symbol": "aren",
-  "name": "Aave REN v1",
+  "symbol": "aREN",
+  "name": "Aave Interest bearing REN",
   "address": "0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c",
   "decimals": 18,
   "type": "ERC20",

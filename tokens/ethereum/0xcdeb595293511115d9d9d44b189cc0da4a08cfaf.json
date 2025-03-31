@@ -1,6 +1,6 @@
 {
-  "symbol": "jfish",
-  "name": "Jellyfish Mobile",
+  "symbol": "JFISH",
+  "name": "Jellyfish Mobile Token",
   "address": "0xcdeb595293511115d9d9d44b189cc0da4a08cfaf",
   "decimals": 18,
   "type": "ERC20",

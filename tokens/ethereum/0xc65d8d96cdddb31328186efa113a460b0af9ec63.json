@@ -1,6 +1,6 @@
 {
-  "symbol": "pell",
-  "name": "Pell Network Token",
+  "symbol": "PELL",
+  "name": "PELL Network Token",
   "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
   "decimals": 18,
   "type": "ERC20",

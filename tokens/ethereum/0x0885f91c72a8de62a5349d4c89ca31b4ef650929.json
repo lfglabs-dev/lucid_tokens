@@ -1,6 +1,6 @@
 {
-  "symbol": "alf",
-  "name": "ALF TOKEN",
+  "symbol": "ALF",
+  "name": "ALF",
   "address": "0x0885f91c72a8de62a5349d4c89ca31b4ef650929",
   "decimals": 18,
   "type": "ERC20",

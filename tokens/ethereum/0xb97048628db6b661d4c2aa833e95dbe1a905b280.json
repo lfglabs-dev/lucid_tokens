@@ -1,6 +1,6 @@
 {
-  "symbol": "pay",
-  "name": "TenX",
+  "symbol": "PAY",
+  "name": "TenX Pay Token",
   "address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280",
   "decimals": 18,
   "type": "ERC20",

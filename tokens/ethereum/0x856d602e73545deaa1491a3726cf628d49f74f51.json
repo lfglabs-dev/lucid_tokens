@@ -1,6 +1,6 @@
 {
-  "symbol": "gram",
-  "name": "GRAM Ecosystem",
+  "symbol": "GRAM",
+  "name": "GRAM Token",
   "address": "0x856d602e73545deaa1491a3726cf628d49f74f51",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "pulse",
-  "name": "PulseMarkets",
+  "symbol": "PULSE",
+  "name": "Pulse",
   "address": "0x52a047ee205701895ee06a375492490ec9c597ce",
   "decimals": 18,
   "type": "ERC20",

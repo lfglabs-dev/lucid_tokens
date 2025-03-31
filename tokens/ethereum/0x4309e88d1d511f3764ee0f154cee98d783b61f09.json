@@ -1,6 +1,6 @@
 {
-  "symbol": "ocai",
-  "name": "Onchain AI",
+  "symbol": "OCAI",
+  "name": "Onchain AI Token",
   "address": "0x4309e88d1d511f3764ee0f154cee98d783b61f09",
   "decimals": 18,
   "type": "ERC20",

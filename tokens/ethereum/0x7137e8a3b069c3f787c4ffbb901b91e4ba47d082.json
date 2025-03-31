@@ -1,8 +1,8 @@
 {
-  "symbol": "zeus",
+  "symbol": "Zeus",
   "name": "Zeus",
   "address": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36847/thumb/_ZEUS.jpg?1712584303",

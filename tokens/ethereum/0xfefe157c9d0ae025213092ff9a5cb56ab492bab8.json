@@ -1,8 +1,8 @@
 {
-  "symbol": "fefe",
+  "symbol": "FEFE",
   "name": "Fefe",
   "address": "0xfefe157c9d0ae025213092ff9a5cb56ab492bab8",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39637/thumb/Fefe.jpg?1723268787",

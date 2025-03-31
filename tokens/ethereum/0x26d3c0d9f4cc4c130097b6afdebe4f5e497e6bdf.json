@@ -1,8 +1,8 @@
 {
-  "symbol": "mnt",
+  "symbol": "MNT",
   "name": "Mynth",
   "address": "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50513/thumb/mynth-token.png?1728031157",

@@ -1,6 +1,6 @@
 {
-  "symbol": "arbot",
-  "name": "Alpha Radar AI",
+  "symbol": "ARBOT",
+  "name": "Arbot",
   "address": "0x723696965f47b990dff00064fcaca95f0ee01123",
   "decimals": 18,
   "type": "ERC20",

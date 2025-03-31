@@ -1,6 +1,6 @@
 {
-  "symbol": "covn",
-  "name": "Covenant",
+  "symbol": "COVN",
+  "name": "covenant",
   "address": "0x19ac2659599fd01c853de846919544276ad26f50",
   "decimals": 18,
   "type": "ERC20",

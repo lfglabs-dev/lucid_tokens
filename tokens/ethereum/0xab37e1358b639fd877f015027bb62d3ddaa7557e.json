@@ -1,8 +1,8 @@
 {
-  "symbol": "lien",
-  "name": "Lien",
+  "symbol": "LIEN",
+  "name": "lien",
   "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12224/thumb/Lien.png?1598262819",

@@ -1,6 +1,6 @@
 {
-  "symbol": "alusd",
-  "name": "Aave v3 LUSD",
+  "symbol": "aEthLUSD",
+  "name": "Aave Ethereum LUSD",
   "address": "0x3fe6a295459fae07df8a0cecc36f37160fe86aa9",
   "decimals": 18,
   "type": "ERC20",

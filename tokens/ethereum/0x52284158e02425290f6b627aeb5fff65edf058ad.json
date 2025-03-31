@@ -1,6 +1,6 @@
 {
-  "symbol": "$fmb",
-  "name": "FlappyMoonbird",
+  "symbol": "FMB",
+  "name": "Flappy Moon Bird",
   "address": "0x52284158e02425290f6b627aeb5fff65edf058ad",
   "decimals": 18,
   "type": "ERC20",

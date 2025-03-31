@@ -1,6 +1,6 @@
 {
-  "symbol": "yvdai",
-  "name": "yvDAI",
+  "symbol": "yvDAI",
+  "name": "DAI yVault",
   "address": "0xda816459f1ab5631232fe5e97a05bbbb94970c95",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "drc",
+  "symbol": "DRC",
   "name": "Digital Reserve Currency",
   "address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606",
-  "decimals": 18,
+  "decimals": 0,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12802/thumb/DRC-Digital-Reserve-Currency-Coingecko.png?1603355646",

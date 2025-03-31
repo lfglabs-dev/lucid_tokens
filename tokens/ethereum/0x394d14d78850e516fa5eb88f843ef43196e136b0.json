@@ -1,6 +1,6 @@
 {
-  "symbol": "digau",
-  "name": "Dignity Gold",
+  "symbol": "DIGau",
+  "name": "DIGau",
   "address": "0x394d14d78850e516fa5eb88f843ef43196e136b0",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "kermit",
+  "symbol": "KERMIT",
   "name": "Kermit",
   "address": "0x53250b5dfa8c911547afeaf18db025024c8e919a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29858/thumb/Kermit.png?1681867984",

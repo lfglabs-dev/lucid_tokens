@@ -1,8 +1,8 @@
 {
-  "symbol": "molly",
+  "symbol": "MOLLY",
   "name": "Molly",
   "address": "0xbdbe9f26918918bd3f43a0219d54e5fda9ce1bb3",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39211/thumb/IMG_7800.jpeg?1721105099",

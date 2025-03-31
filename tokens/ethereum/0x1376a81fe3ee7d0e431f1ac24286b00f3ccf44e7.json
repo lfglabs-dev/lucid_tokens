@@ -1,6 +1,6 @@
 {
-  "symbol": "welle",
-  "name": "Welle",
+  "symbol": "Welle",
+  "name": "WelleToken",
   "address": "0x1376a81fe3ee7d0e431f1ac24286b00f3ccf44e7",
   "decimals": 18,
   "type": "ERC20",

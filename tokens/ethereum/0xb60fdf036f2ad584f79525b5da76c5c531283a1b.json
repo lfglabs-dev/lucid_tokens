@@ -1,8 +1,8 @@
 {
-  "symbol": "nemo",
+  "symbol": "NEMO",
   "name": "Nemo Sum",
   "address": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37575/thumb/200x200.png?1714929206",

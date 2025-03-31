@@ -1,6 +1,6 @@
 {
-  "symbol": "xyo",
-  "name": "XYO Network",
+  "symbol": "XYO",
+  "name": "XY Oracle",
   "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
   "decimals": 18,
   "type": "ERC20",

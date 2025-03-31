@@ -1,8 +1,8 @@
 {
-  "symbol": "xrt",
-  "name": "Robonomics Network",
+  "symbol": "XRT",
+  "name": "Robonomics",
   "address": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/7024/thumb/Robonomics-Network-logo.png?1547043451",

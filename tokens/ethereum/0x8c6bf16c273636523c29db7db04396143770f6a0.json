@@ -1,6 +1,6 @@
 {
-  "symbol": "aaa",
-  "name": "Moon Rabbit",
+  "symbol": "AAA",
+  "name": "MoonRabbit",
   "address": "0x8c6bf16c273636523c29db7db04396143770f6a0",
   "decimals": 18,
   "type": "ERC20",

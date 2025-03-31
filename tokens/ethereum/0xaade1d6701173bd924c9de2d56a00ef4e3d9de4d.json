@@ -1,8 +1,8 @@
 {
-  "symbol": "bws",
+  "symbol": "BWS",
   "name": "Blockchain Web Services",
   "address": "0xaade1d6701173bd924c9de2d56a00ef4e3d9de4d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/52044/thumb/01_BWS_Logo_Only-200x200.png?1732396374",

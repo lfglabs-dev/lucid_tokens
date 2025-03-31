@@ -1,6 +1,6 @@
 {
-  "symbol": "loom",
-  "name": "Loom Network (NEW)",
+  "symbol": "LOOM",
+  "name": "Loom Token",
   "address": "0x42476f744292107e34519f9c357927074ea3f75d",
   "decimals": 18,
   "type": "ERC20",

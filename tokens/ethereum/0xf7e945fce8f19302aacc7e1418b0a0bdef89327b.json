@@ -1,8 +1,8 @@
 {
-  "symbol": "ize",
+  "symbol": "IZE",
   "name": "Galvan",
   "address": "0xf7e945fce8f19302aacc7e1418b0a0bdef89327b",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29442/thumb/Galvan_%28IZE%29.png?1678865632",

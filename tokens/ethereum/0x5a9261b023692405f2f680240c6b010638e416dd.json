@@ -1,6 +1,6 @@
 {
-  "symbol": "jan",
-  "name": "Storm Warfare",
+  "symbol": "JAN",
+  "name": "JANUS TOKEN",
   "address": "0x5a9261b023692405f2f680240c6b010638e416dd",
   "decimals": 18,
   "type": "ERC20",

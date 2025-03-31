@@ -1,8 +1,8 @@
 {
-  "symbol": "biai",
+  "symbol": "BIAI",
   "name": "BlockInsightAI",
   "address": "0x880eeea0637f91bb259dfd7bb261638a42bddb25",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51044/thumb/LOGO.png?1729835239",

@@ -1,6 +1,6 @@
 {
-  "symbol": "tkn",
-  "name": "Token Name Service",
+  "symbol": "TKN",
+  "name": "TokenDao",
   "address": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625",
   "decimals": 18,
   "type": "ERC20",

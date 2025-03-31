@@ -1,6 +1,6 @@
 {
-  "symbol": "ayin",
-  "name": "Ayin",
+  "symbol": "AYIN",
+  "name": "AYIN (AlphBridge)",
   "address": "0x320aebbdca1397f2e3c7f1e482e104a7d9ec97e4",
   "decimals": 18,
   "type": "ERC20",

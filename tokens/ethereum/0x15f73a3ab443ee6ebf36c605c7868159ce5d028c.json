@@ -1,8 +1,8 @@
 {
-  "symbol": "sst",
-  "name": "SmartsetToken",
+  "symbol": "SST",
+  "name": "SMARTSET TOKEN",
   "address": "0x15f73a3ab443ee6ebf36c605c7868159ce5d028c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34385/thumb/IMG_6239.jpeg?1704779818",

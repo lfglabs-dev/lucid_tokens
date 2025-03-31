@@ -1,6 +1,6 @@
 {
-  "symbol": "snpad",
-  "name": "SNPad",
+  "symbol": "SNPAD",
+  "name": "SNP adverse",
   "address": "0x772358ef6ed3e18bde1263f7d229601c5fa81875",
   "decimals": 18,
   "type": "ERC20",

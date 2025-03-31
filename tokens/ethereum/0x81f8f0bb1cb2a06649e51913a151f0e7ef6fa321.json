@@ -1,6 +1,6 @@
 {
-  "symbol": "vita",
-  "name": "VitaDAO",
+  "symbol": "VITA",
+  "name": "VitaDAO Token",
   "address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
   "decimals": 18,
   "type": "ERC20",

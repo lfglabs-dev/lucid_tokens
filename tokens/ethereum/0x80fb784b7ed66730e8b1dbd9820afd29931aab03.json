@@ -1,6 +1,6 @@
 {
-  "symbol": "lend",
-  "name": "Aave [OLD]",
+  "symbol": "LEND",
+  "name": "EthLend Token",
   "address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
   "decimals": 18,
   "type": "ERC20",

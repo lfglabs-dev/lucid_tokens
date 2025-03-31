@@ -1,6 +1,6 @@
 {
-  "symbol": "mns",
-  "name": "Monnos",
+  "symbol": "MNS",
+  "name": "Monnos Token",
   "address": "0x53884b61963351c283118a8e1fc05ba464a11959",
   "decimals": 18,
   "type": "ERC20",

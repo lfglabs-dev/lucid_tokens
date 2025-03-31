@@ -1,8 +1,8 @@
 {
-  "symbol": "botc",
+  "symbol": "BOTC",
   "name": "Bot Compiler",
   "address": "0x9532ca064278ce3ba4fcc66cebec6d9f04f58f70",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31513/thumb/imageedit_1_8217440916.png?1693362746",

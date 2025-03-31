@@ -1,6 +1,6 @@
 {
-  "symbol": "elk",
-  "name": "Elk Finance",
+  "symbol": "ELK",
+  "name": "Elk",
   "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
   "decimals": 18,
   "type": "ERC20",

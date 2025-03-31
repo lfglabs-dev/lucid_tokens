@@ -1,6 +1,6 @@
 {
-  "symbol": "kalis",
-  "name": "Kalichain",
+  "symbol": "wKalis",
+  "name": "wKalis",
   "address": "0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a",
   "decimals": 18,
   "type": "ERC20",

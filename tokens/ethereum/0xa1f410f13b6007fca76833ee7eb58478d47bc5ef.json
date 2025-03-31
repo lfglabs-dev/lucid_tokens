@@ -1,8 +1,8 @@
 {
-  "symbol": "rjv",
-  "name": "Rejuve.AI",
+  "symbol": "RJV",
+  "name": "Rejuve Token",
   "address": "0xa1f410f13b6007fca76833ee7eb58478d47bc5ef",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29366/thumb/2023_Rejuve_Logo_-_Square_-_Teal.jpg?1678345338",

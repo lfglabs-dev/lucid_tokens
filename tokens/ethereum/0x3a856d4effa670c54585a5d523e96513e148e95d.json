@@ -1,6 +1,6 @@
 {
-  "symbol": "trias",
-  "name": "TriasLab",
+  "symbol": "TRIAS",
+  "name": "Trias Token",
   "address": "0x3a856d4effa670c54585a5d523e96513e148e95d",
   "decimals": 18,
   "type": "ERC20",

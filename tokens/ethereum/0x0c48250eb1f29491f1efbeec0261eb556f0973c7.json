@@ -1,6 +1,6 @@
 {
-  "symbol": "aimbot",
-  "name": "Aimbot AI",
+  "symbol": "AIMBOT",
+  "name": "AimBot",
   "address": "0x0c48250eb1f29491f1efbeec0261eb556f0973c7",
   "decimals": 18,
   "type": "ERC20",

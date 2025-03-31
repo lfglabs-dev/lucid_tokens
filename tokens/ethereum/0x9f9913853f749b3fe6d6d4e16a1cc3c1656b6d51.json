@@ -1,6 +1,6 @@
 {
-  "symbol": "bitt",
-  "name": "BITT",
+  "symbol": "BITT",
+  "name": "BITTOKEN",
   "address": "0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
   "decimals": 18,
   "type": "ERC20",

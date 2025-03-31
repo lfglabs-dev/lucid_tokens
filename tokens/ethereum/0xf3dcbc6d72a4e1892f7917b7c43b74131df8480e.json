@@ -1,6 +1,6 @@
 {
-  "symbol": "bdp",
-  "name": "Big Data Protocol",
+  "symbol": "BDP",
+  "name": "BDPToken",
   "address": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e",
   "decimals": 18,
   "type": "ERC20",

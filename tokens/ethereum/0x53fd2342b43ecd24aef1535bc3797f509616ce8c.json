@@ -1,8 +1,8 @@
 {
-  "symbol": "anarchy",
+  "symbol": "ANARCHY",
   "name": "Anarchy",
   "address": "0x53fd2342b43ecd24aef1535bc3797f509616ce8c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26583/thumb/90EWu8yp_400x400.jpg?1658891996",

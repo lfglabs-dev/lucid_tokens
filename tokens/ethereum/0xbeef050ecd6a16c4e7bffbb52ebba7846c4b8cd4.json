@@ -1,6 +1,6 @@
 {
-  "symbol": "steaketh",
-  "name": "Steakhouse ETH Morpho Vault",
+  "symbol": "steakETH",
+  "name": "Steakhouse ETH",
   "address": "0xbeef050ecd6a16c4e7bffbb52ebba7846c4b8cd4",
   "decimals": 18,
   "type": "ERC20",

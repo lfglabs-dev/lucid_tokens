@@ -1,8 +1,8 @@
 {
-  "symbol": "naruto",
+  "symbol": "NARUTO",
   "name": "Naruto",
   "address": "0xad8d0de33c43eefe104a279cdb6ae250c12e6214",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29963/thumb/logo.jpg?1682389582",

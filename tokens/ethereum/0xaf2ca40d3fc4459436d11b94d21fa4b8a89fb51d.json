@@ -1,6 +1,6 @@
 {
-  "symbol": "gcoti",
-  "name": "COTI Governance Token",
+  "symbol": "gCOTI",
+  "name": "gCOTI Token",
   "address": "0xaf2ca40d3fc4459436d11b94d21fa4b8a89fb51d",
   "decimals": 18,
   "type": "ERC20",

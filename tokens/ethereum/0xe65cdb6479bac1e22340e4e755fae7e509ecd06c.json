@@ -1,8 +1,8 @@
 {
-  "symbol": "caave",
-  "name": "cAAVE",
+  "symbol": "cAAVE",
+  "name": "Compound Aave Token",
   "address": "0xe65cdb6479bac1e22340e4e755fae7e509ecd06c",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/17527/thumb/caave.PNG?1628122171",

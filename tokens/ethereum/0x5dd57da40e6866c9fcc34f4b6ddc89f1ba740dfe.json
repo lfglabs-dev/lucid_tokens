@@ -1,6 +1,6 @@
 {
-  "symbol": "bright",
-  "name": "BrightID",
+  "symbol": "BRIGHT",
+  "name": "Bright",
   "address": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
   "decimals": 18,
   "type": "ERC20",

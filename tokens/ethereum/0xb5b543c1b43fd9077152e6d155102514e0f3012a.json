@@ -1,8 +1,8 @@
 {
-  "symbol": "sam",
-  "name": "SAM",
+  "symbol": "SAM",
+  "name": "Uncle SAM",
   "address": "0xb5b543c1b43fd9077152e6d155102514e0f3012a",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51018/thumb/1000005294.jpg?1729768617",

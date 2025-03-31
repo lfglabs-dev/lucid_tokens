@@ -1,8 +1,8 @@
 {
-  "symbol": "klaus",
-  "name": "KLAUS",
+  "symbol": "KLAUS",
+  "name": "Klaus",
   "address": "0xb612bfc5ce2fb1337bd29f5af24ca85dbb181ce2",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50656/thumb/KlausCMC-2.png?1728631696",

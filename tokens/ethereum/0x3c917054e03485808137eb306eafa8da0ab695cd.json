@@ -1,6 +1,6 @@
 {
-  "symbol": "orb",
-  "name": "Deroute AI",
+  "symbol": "ORB",
+  "name": "OrbCity",
   "address": "0x3c917054e03485808137eb306eafa8da0ab695cd",
   "decimals": 18,
   "type": "ERC20",

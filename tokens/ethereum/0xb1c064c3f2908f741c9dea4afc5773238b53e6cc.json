@@ -1,8 +1,8 @@
 {
-  "symbol": "xrp",
-  "name": "WarioXRPDumbledoreYugioh69Inu",
+  "symbol": "XRP",
+  "name": "WarioXrpDumbledoreYugioh69Inu",
   "address": "0xb1c064c3f2908f741c9dea4afc5773238b53e6cc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31167/thumb/ETYYcV7I_400x400.jpg?1691058740",

@@ -1,8 +1,8 @@
 {
-  "symbol": "$swag",
+  "symbol": "SWAG",
   "name": "Swag",
   "address": "0x36c7188d64c44301272db3293899507eabb8ed43",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39267/thumb/swagpp1.png?1721361710",

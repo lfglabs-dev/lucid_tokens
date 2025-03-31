@@ -1,8 +1,8 @@
 {
-  "symbol": "$grok",
-  "name": "Grok",
+  "symbol": "GROK",
+  "name": "GROK",
   "address": "0x8390a1da07e376ef7add4be859ba74fb83aa02d5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32788/thumb/grok.jpeg?1699366775",

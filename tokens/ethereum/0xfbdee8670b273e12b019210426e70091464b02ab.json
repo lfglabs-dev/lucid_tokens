@@ -1,6 +1,6 @@
 {
-  "symbol": "mc.wm",
-  "name": "MEV Capital M^0 Morpho Vault",
+  "symbol": "MC.wM",
+  "name": "MEV Capital M^0 Vault",
   "address": "0xfbdee8670b273e12b019210426e70091464b02ab",
   "decimals": 18,
   "type": "ERC20",

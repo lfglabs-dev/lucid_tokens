@@ -1,8 +1,8 @@
 {
-  "symbol": "suki",
-  "name": "SUKI",
+  "symbol": "SUKI",
+  "name": "Suki",
   "address": "0x696733ce8f387c7a648443d9e21c6c1ee8519b94",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50231/thumb/IMG_5134.jpeg?1726569417",

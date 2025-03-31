@@ -1,8 +1,8 @@
 {
-  "symbol": "f9",
-  "name": "Falcon Nine",
+  "symbol": "F9",
+  "name": "Falcon 9",
   "address": "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/16858/thumb/logo-f9.png?1625465513",

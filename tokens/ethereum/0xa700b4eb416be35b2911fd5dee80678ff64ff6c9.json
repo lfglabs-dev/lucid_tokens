@@ -1,6 +1,6 @@
 {
-  "symbol": "aaave",
-  "name": "Aave v3 AAVE",
+  "symbol": "aEthAAVE",
+  "name": "Aave Ethereum AAVE",
   "address": "0xa700b4eb416be35b2911fd5dee80678ff64ff6c9",
   "decimals": 18,
   "type": "ERC20",

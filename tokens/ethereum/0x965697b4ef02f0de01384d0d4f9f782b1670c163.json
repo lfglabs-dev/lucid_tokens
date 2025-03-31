@@ -1,8 +1,8 @@
 {
-  "symbol": "oxy",
-  "name": "Oxygen",
+  "symbol": "OXY",
+  "name": "Oxygen Ecosystem Token",
   "address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13509/thumb/8DjBZ79V_400x400.jpg?1609236331",

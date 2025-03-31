@@ -1,6 +1,6 @@
 {
-  "symbol": "zoo",
-  "name": "ZooCoin",
+  "symbol": "ZOO",
+  "name": "ZOO",
   "address": "0x0c08638473cafbca3beb113616a1871f4bfad4f9",
   "decimals": 18,
   "type": "ERC20",

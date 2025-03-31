@@ -1,8 +1,8 @@
 {
-  "symbol": "barron",
+  "symbol": "BARRON",
   "name": "Mini Donald",
   "address": "0x1f70300bce8c2302780bd0a153ebb75b8ca7efcb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39157/thumb/BARRON200.jpg?1720775302",

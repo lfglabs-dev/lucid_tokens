@@ -1,6 +1,6 @@
 {
-  "symbol": "boba",
-  "name": "Boba Network",
+  "symbol": "BOBA",
+  "name": "Boba Token",
   "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "giga",
+  "symbol": "GIGA",
   "name": "GigaSwap",
   "address": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/26919/thumb/final_62fcaacdbcc9640975d3fb7c_822256.png?1660815521",

@@ -1,8 +1,8 @@
 {
-  "symbol": "dawae",
-  "name": "Dawae",
+  "symbol": "DAWAE",
+  "name": "DAWAE",
   "address": "0x2a897de60073e13c1f34f672033c1c1d08657fbb",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972",

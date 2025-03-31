@@ -1,6 +1,6 @@
 {
-  "symbol": "trava",
-  "name": "Trava Finance",
+  "symbol": "TRAVA",
+  "name": "TravaFinance Token",
   "address": "0x186d0ba3dfc3386c464eecd96a61fbb1e2da00bf",
   "decimals": 18,
   "type": "ERC20",

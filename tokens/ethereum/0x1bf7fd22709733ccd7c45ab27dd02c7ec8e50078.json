@@ -1,6 +1,6 @@
 {
-  "symbol": "qtcon",
-  "name": "Quiztok",
+  "symbol": "QTCON",
+  "name": "Qtcon",
   "address": "0x1bf7fd22709733ccd7c45ab27dd02c7ec8e50078",
   "decimals": 18,
   "type": "ERC20",

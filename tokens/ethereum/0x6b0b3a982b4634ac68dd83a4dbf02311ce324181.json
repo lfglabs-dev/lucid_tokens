@@ -1,6 +1,6 @@
 {
-  "symbol": "ali",
-  "name": "Artificial Liquid Intelligence",
+  "symbol": "ALI",
+  "name": "Artificial Liquid Intelligence Token",
   "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
   "decimals": 18,
   "type": "ERC20",

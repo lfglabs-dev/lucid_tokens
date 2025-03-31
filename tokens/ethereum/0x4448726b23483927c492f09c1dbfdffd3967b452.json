@@ -1,8 +1,8 @@
 {
-  "symbol": "percy",
+  "symbol": "PERCY",
   "name": "Percy Verence",
   "address": "0x4448726b23483927c492f09c1dbfdffd3967b452",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53314/thumb/1000046837.jpg?1736083979",

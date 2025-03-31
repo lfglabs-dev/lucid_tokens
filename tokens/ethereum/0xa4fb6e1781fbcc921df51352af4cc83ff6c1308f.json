@@ -1,8 +1,8 @@
 {
-  "symbol": "doge",
+  "symbol": "DOGE",
   "name": "Department Of Government Efficiency",
   "address": "0xa4fb6e1781fbcc921df51352af4cc83ff6c1308f",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50204/thumb/Department_Of_Government_Efficiency.png?1726285037",

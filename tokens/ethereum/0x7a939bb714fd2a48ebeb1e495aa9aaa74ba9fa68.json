@@ -1,6 +1,6 @@
 {
-  "symbol": "evz",
-  "name": "Electric Vehicle Zone",
+  "symbol": "EVZ",
+  "name": "EVZ",
   "address": "0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
   "decimals": 18,
   "type": "ERC20",

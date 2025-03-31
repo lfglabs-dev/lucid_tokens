@@ -1,8 +1,8 @@
 {
-  "symbol": "gnx",
-  "name": "Genaro Network",
+  "symbol": "GNX",
+  "name": "Genaro X",
   "address": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/1361/thumb/genaro-network.png?1547035387",

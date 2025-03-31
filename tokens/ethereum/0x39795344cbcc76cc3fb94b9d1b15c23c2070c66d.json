@@ -1,8 +1,8 @@
 {
-  "symbol": "share",
+  "symbol": "SHARE",
   "name": "Seigniorage Shares",
   "address": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/12306/thumb/logo_%281%29.png?1607658707",

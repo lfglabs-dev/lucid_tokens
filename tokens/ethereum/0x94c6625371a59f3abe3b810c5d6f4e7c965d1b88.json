@@ -1,6 +1,6 @@
 {
-  "symbol": "$insora",
-  "name": "INSORA AI",
+  "symbol": "INSORA",
+  "name": "Insora AI",
   "address": "0x94c6625371a59f3abe3b810c5d6f4e7c965d1b88",
   "decimals": 18,
   "type": "ERC20",

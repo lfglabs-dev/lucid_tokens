@@ -1,6 +1,6 @@
 {
-  "symbol": "ice",
-  "name": "Popsicle Finance",
+  "symbol": "ICE",
+  "name": "IceToken",
   "address": "0xf16e81dce15b08f326220742020379b855b87df9",
   "decimals": 18,
   "type": "ERC20",

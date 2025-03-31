@@ -1,8 +1,8 @@
 {
-  "symbol": "qs",
+  "symbol": "QS",
   "name": "Quick Sync",
   "address": "0x8b7cf3a97c1f840bcf490dfd7d6a16a96dd5dd0c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/54612/thumb/Icon_Black.jpg?1740707473",

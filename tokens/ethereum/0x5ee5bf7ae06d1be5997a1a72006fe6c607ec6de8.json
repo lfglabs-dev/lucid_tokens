@@ -1,8 +1,8 @@
 {
-  "symbol": "awbtc",
-  "name": "Aave v3 WBTC",
+  "symbol": "aEthWBTC",
+  "name": "Aave Ethereum WBTC",
   "address": "0x5ee5bf7ae06d1be5997a1a72006fe6c607ec6de8",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/32883/thumb/wbtc.png?1699719908",

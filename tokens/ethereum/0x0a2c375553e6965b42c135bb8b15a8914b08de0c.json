@@ -1,8 +1,8 @@
 {
-  "symbol": "frog",
-  "name": "Frog on ETH",
+  "symbol": "FROG",
+  "name": "Frog",
   "address": "0x0a2c375553e6965b42c135bb8b15a8914b08de0c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38706/thumb/Frog.png?1718359990",

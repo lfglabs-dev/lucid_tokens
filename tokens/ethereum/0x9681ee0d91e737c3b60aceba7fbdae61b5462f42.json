@@ -1,8 +1,8 @@
 {
-  "symbol": "cyce",
+  "symbol": "CYCE",
   "name": "Crypto Carbon Energy",
   "address": "0x9681ee0d91e737c3b60aceba7fbdae61b5462f42",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/29824/thumb/CYCE.jpg?1681461094",

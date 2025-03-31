@@ -1,8 +1,8 @@
 {
-  "symbol": "edoge",
+  "symbol": "EDOGE",
   "name": "Ethereum Doge",
   "address": "0x786f112c9a6bc840cdc07cfd840105efd6ef2d4b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50340/thumb/5QPi_WR0_400x400.jpg?1727203850",

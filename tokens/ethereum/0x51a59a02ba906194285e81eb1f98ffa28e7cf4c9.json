@@ -1,8 +1,8 @@
 {
-  "symbol": "pepe",
+  "symbol": "PEPE",
   "name": "Pepe King Prawn",
   "address": "0x51a59a02ba906194285e81eb1f98ffa28e7cf4c9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31942/thumb/Pepe_King_Prawn.png?1695725486",

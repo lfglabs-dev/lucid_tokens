@@ -1,6 +1,6 @@
 {
-  "symbol": "plt",
-  "name": "Palette",
+  "symbol": "PLT",
+  "name": "Palette Token",
   "address": "0x0944d5848bd9f60a34ba92aea300d4286696eb76",
   "decimals": 18,
   "type": "ERC20",

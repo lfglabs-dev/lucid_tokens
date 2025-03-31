@@ -1,8 +1,8 @@
 {
-  "symbol": "lexi",
+  "symbol": "Lexi",
   "name": "LexiAI",
   "address": "0x1caf237d7a2d103e3e9b1855988c01ac10344600",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39484/thumb/photo_2024-07-24_12-22-36.jpg?1722482539",

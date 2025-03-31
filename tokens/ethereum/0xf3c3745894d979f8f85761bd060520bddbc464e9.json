@@ -1,8 +1,8 @@
 {
-  "symbol": "lion",
-  "name": "King Of Meme",
+  "symbol": "LION",
+  "name": "KING OF MEME",
   "address": "0xf3c3745894d979f8f85761bd060520bddbc464e9",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/38770/thumb/200x200.png?1718769855",

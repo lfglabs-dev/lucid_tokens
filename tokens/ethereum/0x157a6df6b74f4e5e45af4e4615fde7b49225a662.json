@@ -1,6 +1,6 @@
 {
-  "symbol": "island",
-  "name": "ISLAND Token",
+  "symbol": "ISLAND",
+  "name": "ISLAND",
   "address": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
   "decimals": 18,
   "type": "ERC20",

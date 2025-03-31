@@ -1,5 +1,5 @@
 {
-  "symbol": "xsteth",
+  "symbol": "xstETH",
   "name": "Leveraged stETH",
   "address": "0x5a097b014c547718e79030a077a91ae37679eff5",
   "decimals": 18,

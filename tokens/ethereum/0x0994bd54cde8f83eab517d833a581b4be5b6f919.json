@@ -1,8 +1,8 @@
 {
-  "symbol": "palcoin",
-  "name": "PALCOIN Ventures",
+  "symbol": "Palcoin",
+  "name": "Palcoin Ventures",
   "address": "0x0994bd54cde8f83eab517d833a581b4be5b6f919",
-  "decimals": 18,
+  "decimals": 4,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51317/thumb/IMG_20241029_021655_516.jpg?1730707511",

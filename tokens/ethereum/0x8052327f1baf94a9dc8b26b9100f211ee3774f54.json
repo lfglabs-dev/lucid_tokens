@@ -1,6 +1,6 @@
 {
-  "symbol": "atd",
-  "name": "A2DAO",
+  "symbol": "ATD",
+  "name": "A2DAO Token",
   "address": "0x8052327f1baf94a9dc8b26b9100f211ee3774f54",
   "decimals": 18,
   "type": "ERC20",

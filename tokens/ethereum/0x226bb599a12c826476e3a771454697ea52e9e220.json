@@ -1,8 +1,8 @@
 {
-  "symbol": "pro",
+  "symbol": "PRO",
   "name": "Propy",
   "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/869/thumb/propy.png?1548332100",

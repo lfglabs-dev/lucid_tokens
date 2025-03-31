@@ -1,8 +1,8 @@
 {
-  "symbol": "grok1.5",
-  "name": "Grok1.5",
+  "symbol": "GROK1.5",
+  "name": "Grok 1.5",
   "address": "0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/34838/thumb/IMG_20240123_045540_147.jpg?1706240605",

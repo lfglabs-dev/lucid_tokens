@@ -1,8 +1,8 @@
 {
-  "symbol": "kuma",
+  "symbol": "KUMA",
   "name": "Kuma",
   "address": "0x95ad53e32942c0cf9fd60208964782af8bedb709",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53563/thumb/kumalogo.jpg?1736676694",

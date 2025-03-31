@@ -1,6 +1,6 @@
 {
-  "symbol": "gems",
-  "name": "Gems VIP",
+  "symbol": "GEMS",
+  "name": "GEMS",
   "address": "0x3010ccb5419f1ef26d40a7cd3f0d707a0fa127dc",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "chad",
-  "name": "Chad Frog",
+  "symbol": "CHAD",
+  "name": "CHAD FROG",
   "address": "0x9e22b4f836a461ddc7765e5fad693688e76e6069",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37364/thumb/CHAD200.jpg?1714110736",

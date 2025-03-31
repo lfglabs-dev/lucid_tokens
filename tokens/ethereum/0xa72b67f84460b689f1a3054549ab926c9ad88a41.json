@@ -1,8 +1,8 @@
 {
-  "symbol": "$pivot",
+  "symbol": "$PIVOT",
   "name": "Pivot AI",
   "address": "0xa72b67f84460b689f1a3054549ab926c9ad88a41",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/53594/thumb/6307601177658902877.jpg?1736806045",

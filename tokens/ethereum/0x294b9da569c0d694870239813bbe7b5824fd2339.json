@@ -1,6 +1,6 @@
 {
-  "symbol": "air",
-  "name": "AIRian",
+  "symbol": "AIR",
+  "name": "AIR Token",
   "address": "0x294b9da569c0d694870239813bbe7b5824fd2339",
   "decimals": 18,
   "type": "ERC20",

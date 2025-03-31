@@ -1,6 +1,6 @@
 {
-  "symbol": "inu",
-  "name": "Inu on ETH",
+  "symbol": "INU",
+  "name": "Inu",
   "address": "0xf7d75a5e807b5345eb7aab8cc9a2f9e2175eb88e",
   "decimals": 18,
   "type": "ERC20",

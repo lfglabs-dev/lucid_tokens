@@ -1,6 +1,6 @@
 {
-  "symbol": "oja",
-  "name": "Ojamu",
+  "symbol": "OJA",
+  "name": "Ojamu Token",
   "address": "0x0aa7efe4945db24d95ca6e117bba65ed326e291a",
   "decimals": 18,
   "type": "ERC20",

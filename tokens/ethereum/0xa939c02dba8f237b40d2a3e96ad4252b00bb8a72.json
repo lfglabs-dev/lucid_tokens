@@ -1,6 +1,6 @@
 {
-  "symbol": "mlseth",
-  "name": "Eigenpie LsETH",
+  "symbol": "mLsETH",
+  "name": "mLsETH",
   "address": "0xa939c02dba8f237b40d2a3e96ad4252b00bb8a72",
   "decimals": 18,
   "type": "ERC20",

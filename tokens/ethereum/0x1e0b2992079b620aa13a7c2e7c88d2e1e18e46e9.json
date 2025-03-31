@@ -1,8 +1,8 @@
 {
-  "symbol": "kompete",
-  "name": "KOMPETE",
+  "symbol": "KOMPETE",
+  "name": "KOMPETE Token",
   "address": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
-  "decimals": 18,
+  "decimals": 10,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/24298/thumb/sdkSQyZ.jpeg?1647268750",

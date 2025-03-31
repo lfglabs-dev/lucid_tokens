@@ -1,6 +1,6 @@
 {
-  "symbol": "wbtsla",
-  "name": "Wrapped bTSLA",
+  "symbol": "wbTSLA",
+  "name": "Wrapped Backed Tesla Inc",
   "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
   "decimals": 18,
   "type": "ERC20",

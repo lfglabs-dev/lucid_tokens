@@ -1,6 +1,6 @@
 {
-  "symbol": "aeur",
-  "name": "Anchored Coins AEUR",
+  "symbol": "AEUR",
+  "name": "Anchored Coins EUR",
   "address": "0xa40640458fbc27b6eefedea1e9c9e17d4cee7a21",
   "decimals": 18,
   "type": "ERC20",

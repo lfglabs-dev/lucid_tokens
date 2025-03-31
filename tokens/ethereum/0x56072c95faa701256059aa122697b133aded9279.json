@@ -1,6 +1,6 @@
 {
-  "symbol": "sky",
-  "name": "Sky",
+  "symbol": "SKY",
+  "name": "SKY Governance Token",
   "address": "0x56072c95faa701256059aa122697b133aded9279",
   "decimals": 18,
   "type": "ERC20",

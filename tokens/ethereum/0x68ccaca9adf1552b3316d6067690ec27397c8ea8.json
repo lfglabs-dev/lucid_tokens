@@ -1,6 +1,6 @@
 {
-  "symbol": "$tos",
-  "name": "Cryptopia",
+  "symbol": "TOS",
+  "name": "Cryptos",
   "address": "0x68ccaca9adf1552b3316d6067690ec27397c8ea8",
   "decimals": 18,
   "type": "ERC20",

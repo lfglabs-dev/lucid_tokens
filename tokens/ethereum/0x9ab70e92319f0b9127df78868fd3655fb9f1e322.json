@@ -1,6 +1,6 @@
 {
-  "symbol": "wwy",
-  "name": "WeWay",
+  "symbol": "WWY",
+  "name": "WeWay Token",
   "address": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322",
   "decimals": 18,
   "type": "ERC20",

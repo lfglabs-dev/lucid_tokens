@@ -1,6 +1,6 @@
 {
-  "symbol": "amas",
-  "name": "Amasa",
+  "symbol": "AMAS",
+  "name": "Amasa Token",
   "address": "0x65a8fba02f641a13bb7b01d5e1129b0521004f52",
   "decimals": 18,
   "type": "ERC20",

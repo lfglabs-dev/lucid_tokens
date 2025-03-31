@@ -1,8 +1,8 @@
 {
-  "symbol": "patton",
+  "symbol": "PATTON",
   "name": "Patton",
   "address": "0x2a961d752eaa791cbff05991e4613290aec0d9ac",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/37755/thumb/PATOON200.jpg?1715446479",

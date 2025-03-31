@@ -1,8 +1,8 @@
 {
-  "symbol": "bone",
+  "symbol": "BONE",
   "name": "FLEABONE",
   "address": "0x7076de6ff1d91e00be7e92458089c833de99e22e",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51637/thumb/FLEABONE.png?1731687324",

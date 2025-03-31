@@ -1,6 +1,6 @@
 {
-  "symbol": "yieldeth",
-  "name": "YieldETH (Sommelier)",
+  "symbol": "YieldETH",
+  "name": "Real Yield ETH",
   "address": "0xb5b29320d2dde5ba5bafa1ebcd270052070483ec",
   "decimals": 18,
   "type": "ERC20",

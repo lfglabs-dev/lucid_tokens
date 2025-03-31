@@ -1,8 +1,8 @@
 {
-  "symbol": "ltx",
-  "name": "Lattice",
+  "symbol": "LTX",
+  "name": "Lattice Token",
   "address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
-  "decimals": 18,
+  "decimals": 8,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/13050/thumb/Lattice.jpg?1613976295",

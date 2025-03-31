@@ -1,6 +1,6 @@
 {
-  "symbol": "asnx",
-  "name": "Aave v3 SNX",
+  "symbol": "aEthSNX",
+  "name": "Aave Ethereum SNX",
   "address": "0xc7b4c17861357b8abb91f25581e7263e08dcb59c",
   "decimals": 18,
   "type": "ERC20",

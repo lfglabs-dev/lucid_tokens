@@ -1,6 +1,6 @@
 {
-  "symbol": "sweat",
-  "name": "Sweat Economy",
+  "symbol": "SWEAT",
+  "name": "SWEAT",
   "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
   "decimals": 18,
   "type": "ERC20",

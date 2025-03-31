@@ -1,6 +1,6 @@
 {
-  "symbol": "zkl",
-  "name": "zkLink",
+  "symbol": "ZKL",
+  "name": "ZKLink",
   "address": "0xfc385a1df85660a7e041423db512f779070fcede",
   "decimals": 18,
   "type": "ERC20",

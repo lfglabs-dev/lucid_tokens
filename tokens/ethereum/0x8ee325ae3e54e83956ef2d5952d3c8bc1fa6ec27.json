@@ -1,8 +1,8 @@
 {
-  "symbol": "tyrant",
+  "symbol": "TYRANT",
   "name": "Fable Of The Dragon",
   "address": "0x8ee325ae3e54e83956ef2d5952d3c8bc1fa6ec27",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/27911/thumb/da9bdde1-d446-4291-a79d-1b1c2ec183ff.png?1666342614",

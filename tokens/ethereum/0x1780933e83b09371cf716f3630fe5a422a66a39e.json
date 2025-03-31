@@ -1,6 +1,6 @@
 {
-  "symbol": "qdx",
-  "name": "Quidax",
+  "symbol": "QDX",
+  "name": "Quidax Token",
   "address": "0x1780933e83b09371cf716f3630fe5a422a66a39e",
   "decimals": 18,
   "type": "ERC20",

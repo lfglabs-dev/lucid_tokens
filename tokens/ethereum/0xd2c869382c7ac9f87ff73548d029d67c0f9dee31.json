@@ -1,8 +1,8 @@
 {
-  "symbol": "wagiebot",
-  "name": "Wagie Bot",
+  "symbol": "WagieBot",
+  "name": "WagieBot",
   "address": "0xd2c869382c7ac9f87ff73548d029d67c0f9dee31",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/30954/thumb/Wagies3%281%29.png?1689216156",

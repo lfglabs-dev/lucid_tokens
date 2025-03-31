@@ -1,6 +1,6 @@
 {
-  "symbol": "swm",
-  "name": "Swarm Network",
+  "symbol": "SWM",
+  "name": "SWARM",
   "address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
   "decimals": 18,
   "type": "ERC20",

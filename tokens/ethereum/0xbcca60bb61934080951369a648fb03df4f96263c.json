@@ -1,8 +1,8 @@
 {
-  "symbol": "ausdc",
-  "name": "Aave v2 USDC",
+  "symbol": "aUSDC",
+  "name": "Aave interest bearing USDC",
   "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
-  "decimals": 18,
+  "decimals": 6,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/14318/thumb/aUSDC.e260d492.png?1615527797",

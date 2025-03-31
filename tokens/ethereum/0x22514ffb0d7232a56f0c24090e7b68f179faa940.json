@@ -1,6 +1,6 @@
 {
-  "symbol": "qorpo",
-  "name": "QORPO WORLD",
+  "symbol": "QORPO",
+  "name": "QORPO Token",
   "address": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
   "decimals": 18,
   "type": "ERC20",

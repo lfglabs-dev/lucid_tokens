@@ -1,8 +1,8 @@
 {
-  "symbol": "$drip",
+  "symbol": "DRIP",
   "name": "DRIP",
   "address": "0xb8a914a00664e9361eae187468eff94905dfbc15",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50926/thumb/drip_200.png?1729581778",

@@ -1,8 +1,8 @@
 {
-  "symbol": "ss",
+  "symbol": "SS",
   "name": "Secret Society",
   "address": "0xe4b4c008ff36e3c50c4299c223504a480de9c833",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/36865/thumb/622BD442-4493-4AF9-8DF9-CF464B7AFC44.png?1712644574",

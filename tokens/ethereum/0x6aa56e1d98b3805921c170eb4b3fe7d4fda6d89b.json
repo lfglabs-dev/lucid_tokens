@@ -1,8 +1,8 @@
 {
-  "symbol": "trump",
+  "symbol": "TRUMP",
   "name": "MAGA",
   "address": "0x6aa56e1d98b3805921c170eb4b3fe7d4fda6d89b",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31498/thumb/Maga-Trump-Logo-200px.png?1693357313",

@@ -1,6 +1,6 @@
 {
-  "symbol": "oraix",
-  "name": "OraiDEX",
+  "symbol": "ORAIX",
+  "name": "OraiDEX Token",
   "address": "0x2d869ae129e308f94cc47e66eaefb448cee0d03e",
   "decimals": 18,
   "type": "ERC20",

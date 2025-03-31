@@ -1,6 +1,6 @@
 {
-  "symbol": "nihao",
-  "name": "Nihao",
+  "symbol": "NiHao",
+  "name": "NiHao",
   "address": "0xc3681a720605bd6f8fe9a2fabff6a7cdecdc605d",
   "decimals": 18,
   "type": "ERC20",

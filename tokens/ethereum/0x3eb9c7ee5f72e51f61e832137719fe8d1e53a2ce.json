@@ -1,8 +1,8 @@
 {
-  "symbol": "dmind",
+  "symbol": "DMIND",
   "name": "DecentraMind",
   "address": "0x3eb9c7ee5f72e51f61e832137719fe8d1e53a2ce",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/33315/thumb/IMG_20231130_105535_975.jpg?1701413610",

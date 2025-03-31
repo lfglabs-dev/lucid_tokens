@@ -1,6 +1,6 @@
 {
-  "symbol": "nlk",
-  "name": "NuLink",
+  "symbol": "NLK",
+  "name": "NuLink token",
   "address": "0x744030ad4e6c10faf5483b62473d88a254d62261",
   "decimals": 18,
   "type": "ERC20",

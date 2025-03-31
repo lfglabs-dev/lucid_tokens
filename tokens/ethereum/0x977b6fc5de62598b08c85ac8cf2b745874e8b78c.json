@@ -1,6 +1,6 @@
 {
-  "symbol": "acbeth",
-  "name": "Aave v3 cbETH",
+  "symbol": "aEthcbETH",
+  "name": "Aave Ethereum cbETH",
   "address": "0x977b6fc5de62598b08c85ac8cf2b745874e8b78c",
   "decimals": 18,
   "type": "ERC20",

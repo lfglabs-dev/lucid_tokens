@@ -1,6 +1,6 @@
 {
-  "symbol": "ult",
-  "name": "Shardus",
+  "symbol": "ULT",
+  "name": "Unblocked Ledger Token",
   "address": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "uno",
-  "name": "Lunos",
+  "symbol": "UNO",
+  "name": "UnoRe",
   "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "srusd",
-  "name": "Reservoir srUSD",
+  "symbol": "srUSD",
+  "name": "Savings rUSD",
   "address": "0x738d1115b90efa71ae468f1287fc864775e23a31",
   "decimals": 18,
   "type": "ERC20",

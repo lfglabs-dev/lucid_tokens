@@ -1,8 +1,8 @@
 {
-  "symbol": "cbdc",
+  "symbol": "CBDC",
   "name": "CBDC",
   "address": "0xe07c41e9cdf7e0a7800e4bbf90d414654fd6413d",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://assets.coingecko.com/coins/images/31665/thumb/MThOhXH1_400x400.jpg?1694398007",

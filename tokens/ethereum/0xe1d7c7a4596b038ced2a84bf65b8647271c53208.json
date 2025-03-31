@@ -1,6 +1,6 @@
 {
-  "symbol": "nfty",
-  "name": "NFTY",
+  "symbol": "NFTY",
+  "name": "NFTY Token",
   "address": "0xe1d7c7a4596b038ced2a84bf65b8647271c53208",
   "decimals": 18,
   "type": "ERC20",

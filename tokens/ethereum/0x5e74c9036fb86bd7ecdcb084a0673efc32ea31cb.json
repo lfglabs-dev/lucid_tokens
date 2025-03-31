@@ -1,6 +1,6 @@
 {
-  "symbol": "seth",
-  "name": "sETH",
+  "symbol": "sETH",
+  "name": "Synth sETH",
   "address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
   "decimals": 18,
   "type": "ERC20",

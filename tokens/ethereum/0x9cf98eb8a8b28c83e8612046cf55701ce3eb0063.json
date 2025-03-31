@@ -1,6 +1,6 @@
 {
-  "symbol": "ugt",
-  "name": "Unreal Finance",
+  "symbol": "UGT",
+  "name": "Unreal Governance Token",
   "address": "0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063",
   "decimals": 18,
   "type": "ERC20",

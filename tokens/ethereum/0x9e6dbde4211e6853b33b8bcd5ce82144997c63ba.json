@@ -1,6 +1,6 @@
 {
-  "symbol": "sq.d",
-  "name": "Dinari SQ",
+  "symbol": "XYZ.d",
+  "name": "Block, Inc. - Dinari",
   "address": "0x9e6dbde4211e6853b33b8bcd5ce82144997c63ba",
   "decimals": 18,
   "type": "ERC20",

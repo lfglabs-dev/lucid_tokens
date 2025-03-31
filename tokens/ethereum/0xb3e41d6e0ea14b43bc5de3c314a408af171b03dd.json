@@ -1,8 +1,8 @@
 {
-  "symbol": "kabosu",
+  "symbol": "KABOSU",
   "name": "Kabosu",
   "address": "0xb3e41d6e0ea14b43bc5de3c314a408af171b03dd",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/50789/thumb/1000000874.jpg?1729213094",

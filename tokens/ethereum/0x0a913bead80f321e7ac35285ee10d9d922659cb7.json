@@ -1,6 +1,6 @@
 {
-  "symbol": "dos",
-  "name": "DOS Network",
+  "symbol": "DOS",
+  "name": "DOS Network Token",
   "address": "0x0a913bead80f321e7ac35285ee10d9d922659cb7",
   "decimals": 18,
   "type": "ERC20",

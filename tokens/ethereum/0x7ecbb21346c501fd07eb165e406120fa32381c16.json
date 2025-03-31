@@ -1,6 +1,6 @@
 {
-  "symbol": "ecoreal",
-  "name": "Ecoreal Estate",
+  "symbol": "ECOREAL",
+  "name": "ECOREAL",
   "address": "0x7ecbb21346c501fd07eb165e406120fa32381c16",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "solvbtc.bbn",
-  "name": "Solv Protocol SolvBTC.BBN",
+  "symbol": "SolvBTC.BBN",
+  "name": "SolvBTC Babylon",
   "address": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "avgo.d",
-  "name": "Dinari AVGO",
+  "symbol": "AVGO.d",
+  "name": "Broadcom Inc. Common Stock - Dinari",
   "address": "0x53aff1d59ea64f7f836670e33e99a0443f0ef25c",
   "decimals": 18,
   "type": "ERC20",

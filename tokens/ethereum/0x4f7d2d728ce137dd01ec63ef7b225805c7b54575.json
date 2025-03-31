@@ -1,8 +1,8 @@
 {
-  "symbol": "wally",
+  "symbol": "WALLY",
   "name": "Emotional Support Alligator",
   "address": "0x4f7d2d728ce137dd01ec63ef7b225805c7b54575",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/51993/thumb/1000493062.jpg?1732295841",

@@ -1,6 +1,6 @@
 {
-  "symbol": "utk",
-  "name": "xMoney",
+  "symbol": "UTK",
+  "name": "Utrust Token",
   "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
   "decimals": 18,
   "type": "ERC20",

@@ -1,6 +1,6 @@
 {
-  "symbol": "re7usdt",
-  "name": "Re7 USDT Morpho Vault",
+  "symbol": "Re7USDT",
+  "name": "Re7 USDT",
   "address": "0x95eef579155cd2c5510f312c8fa39208c3be01a8",
   "decimals": 18,
   "type": "ERC20",

@@ -1,8 +1,8 @@
 {
-  "symbol": "andwu",
+  "symbol": "ANDWU",
   "name": "Chinese Andy",
   "address": "0x2e2e7a1f05946ecb2b43b99e3fc2984fa7d7e3bc",
-  "decimals": 18,
+  "decimals": 9,
   "type": "ERC20",
   "logo": {
     "src": "https://coin-images.coingecko.com/coins/images/39122/thumb/AndWu_Logo_Tsp_200x200.png?1720627160",

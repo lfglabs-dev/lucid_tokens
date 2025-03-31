@@ -1,6 +1,6 @@
 {
-  "symbol": "union",
-  "name": "Union Finance",
+  "symbol": "UNION",
+  "name": "Union Token",
   "address": "0x5dfe42eea70a3e6f93ee54ed9c321af07a85535c",
   "decimals": 18,
   "type": "ERC20",

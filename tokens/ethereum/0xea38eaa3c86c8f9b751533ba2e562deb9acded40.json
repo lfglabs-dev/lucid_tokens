@@ -1,6 +1,6 @@
 {
-  "symbol": "fuel",
-  "name": "Etherparty",
+  "symbol": "FUEL",
+  "name": "Fuel Token",
   "address": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
   "decimals": 18,
   "type": "ERC20",

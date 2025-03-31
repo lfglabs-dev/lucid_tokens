@@ -1,6 +1,6 @@
 {
-  "symbol": "cntr",
-  "name": "Centaur",
+  "symbol": "CNTR",
+  "name": "Centaur Token",
   "address": "0x03042482d64577a7bdb282260e2ea4c8a89c064b",
   "decimals": 18,
   "type": "ERC20",

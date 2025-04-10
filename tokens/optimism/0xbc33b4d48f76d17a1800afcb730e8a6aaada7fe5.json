@@ -1,0 +1,19 @@
+{
+  "symbol": "vDOT",
+  "name": "Bifrost Voucher DOT",
+  "address": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28875/thumb/vDOT.png?1675133140",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "arbitrum-one": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "optimistic-ethereum": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "binance-smart-chain": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+    "ethereum": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MASKS",
+  "name": "Masks",
+  "address": "0x3925f9820c312d968644f12ebd314c13558a7c05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39684/thumb/undefined_-_Imgur.png?1723657352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x3925f9820c312d968644f12ebd314c13558a7c05"
+  }
+}

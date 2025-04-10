@@ -1,0 +1,18 @@
+{
+  "symbol": "0xBTC",
+  "name": "0xBitcoin Token",
+  "address": "0xe0bb0d3de8c10976511e5030ca403dbf4c25165b",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4454/thumb/0xbtc.png?1561603765",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+    "optimistic-ethereum": "0xe0bb0d3de8c10976511e5030ca403dbf4c25165b",
+    "arbitrum-one": "0x7cb16cb78ea464ad35c8a50abf95dff3c9e09d5d",
+    "polygon-pos": "0x71b821aa52a49f32eed535fca6eb5aa130085978"
+  }
+}

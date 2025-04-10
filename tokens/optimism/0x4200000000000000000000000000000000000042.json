@@ -1,0 +1,15 @@
+{
+  "symbol": "OP",
+  "name": "Optimism",
+  "address": "0x4200000000000000000000000000000000000042",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25244/thumb/OP.jpeg?1651026279",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x4200000000000000000000000000000000000042"
+  }
+}

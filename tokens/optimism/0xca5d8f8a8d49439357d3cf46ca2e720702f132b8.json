@@ -1,0 +1,21 @@
+{
+  "symbol": "GYD",
+  "name": "Gyro Dollar",
+  "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33428/thumb/resized_GYD.png?1701772473",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "polygon-zkevm": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "xdai": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "optimistic-ethereum": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "avalanche": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "arbitrum-one": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "base": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+  }
+}

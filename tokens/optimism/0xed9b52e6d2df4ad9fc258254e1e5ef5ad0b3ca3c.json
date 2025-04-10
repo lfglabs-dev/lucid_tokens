@@ -1,0 +1,15 @@
+{
+  "symbol": "FDOS",
+  "name": "Fieldoo AG Shares SHA",
+  "address": "0xed9b52e6d2df4ad9fc258254e1e5ef5ad0b3ca3c",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33392/thumb/FDOS.png?1701680368",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xed9b52e6d2df4ad9fc258254e1e5ef5ad0b3ca3c"
+  }
+}

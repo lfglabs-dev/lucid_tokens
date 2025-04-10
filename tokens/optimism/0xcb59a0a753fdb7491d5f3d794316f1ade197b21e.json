@@ -1,0 +1,20 @@
+{
+  "symbol": "TUSD",
+  "name": "TrueUSD",
+  "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30837/thumb/tusd.jpeg?1687837876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+    "optimistic-ethereum": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
+    "fantom": "0x9879abdea01a879644185341f7af7d8343556b7a",
+    "cronos": "0x87efb3ec1576dec8ed47e58b832bedcd86ee186e",
+    "arbitrum-one": "0x4d15a3a2286d883af0aa1b3f21367843fac63e07",
+    "polygon-pos": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756"
+  }
+}

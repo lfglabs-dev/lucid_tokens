@@ -1,0 +1,15 @@
+{
+  "symbol": "CTH",
+  "name": "Cthulhu",
+  "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29487/thumb/logo200.png?1679213444",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xf8e943f646816e4b51279b8934753821ed832dca"
+  }
+}

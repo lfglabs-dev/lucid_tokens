@@ -1,0 +1,16 @@
+{
+  "symbol": "MONEY",
+  "name": "Defi.Money Stablecoin",
+  "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39230/thumb/_MONEY200p.Logomark.png?1721209171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
+    "arbitrum-one": "0x69420f9e38a4e60a62224c489be4bf7a94402496"
+  }
+}

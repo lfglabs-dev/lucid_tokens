@@ -1,0 +1,15 @@
+{
+  "symbol": "EXA",
+  "name": "exactly",
+  "address": "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31089/thumb/EXA.png?1690447530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b"
+  }
+}

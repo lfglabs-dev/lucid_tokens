@@ -1,0 +1,15 @@
+{
+  "symbol": "ZIP",
+  "name": "Zip Token",
+  "address": "0xfa436399d0458dbe8ab890c3441256e3e09022a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22910/thumb/zip.png?1642949795",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xfa436399d0458dbe8ab890c3441256e3e09022a8"
+  }
+}

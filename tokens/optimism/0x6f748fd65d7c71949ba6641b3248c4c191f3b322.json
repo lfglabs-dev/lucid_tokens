@@ -1,0 +1,15 @@
+{
+  "symbol": "exaWBTC",
+  "name": "exactly WBTC",
+  "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322"
+  }
+}

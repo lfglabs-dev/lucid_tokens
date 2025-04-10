@@ -1,0 +1,15 @@
+{
+  "symbol": "TEC",
+  "name": "Token Engineering Commons",
+  "address": "0x8fc7c1109c08904160d6ae36482b79814d45eb78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18233/thumb/72481541.png?1643198626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x8fc7c1109c08904160d6ae36482b79814d45eb78"
+  }
+}

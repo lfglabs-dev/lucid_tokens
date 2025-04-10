@@ -1,0 +1,16 @@
+{
+  "symbol": "BEETS",
+  "name": "BeethovenxToken",
+  "address": "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19158/thumb/beets-icon-large.png?1634545465",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
+    "optimistic-ethereum": "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "BALN",
+  "name": "Balanced Token",
+  "address": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1634020474",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x94cf269d63c4140ed481cb0b149dae03c4620cdf",
+    "optimistic-ethereum": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
+    "avalanche": "0x542245f2b93b30994a4670121541b38226f1208c",
+    "arbitrum-one": "0xac7952d30850c9d214b0f44cbe213781b4dacf05",
+    "base": "0x76e118fa6839ddad531411b8cc7a9dcdfd7d4fb0"
+  }
+}

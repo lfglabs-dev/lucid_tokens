@@ -1,0 +1,17 @@
+{
+  "symbol": "aOptrETH",
+  "name": "Aave Optimism rETH",
+  "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32885/thumb/reth.png?1699768947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcc9ee9483f662091a1de4795249e24ac0ac2630f",
+    "optimistic-ethereum": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+    "arbitrum-one": "0x8eb270e296023e9d92081fdf967ddd7878724424"
+  }
+}

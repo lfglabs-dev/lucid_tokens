@@ -1,0 +1,15 @@
+{
+  "symbol": "wOptiDoge",
+  "name": "Wrapped OptiDoge",
+  "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31066/thumb/Wrapped_OptiDoge_logo_200x200px_.png?1690178968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xc26921b5b9ee80773774d36c84328ccb22c3a819"
+  }
+}

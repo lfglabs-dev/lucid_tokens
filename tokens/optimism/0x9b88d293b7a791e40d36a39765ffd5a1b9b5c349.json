@@ -1,0 +1,17 @@
+{
+  "symbol": "CELO",
+  "name": "Celo native asset",
+  "address": "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32400/thumb/celo_wh.png?1698055352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3294395e62f4eb6af3f1fcf89f5602d90fb3ef69",
+    "optimistic-ethereum": "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
+    "arbitrum-one": "0x4e51ac49bc5e2d87e0ef713e9e5ab2d71ef4f336"
+  }
+}

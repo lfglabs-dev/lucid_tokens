@@ -1,0 +1,22 @@
+{
+  "symbol": "ROUTE",
+  "name": "Route Token",
+  "address": "0x8413041a7702603d9d991f2c4add29e4e8a241f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13709/thumb/route_token_200x200-19.png?1611057698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+    "optimistic-ethereum": "0x8413041a7702603d9d991f2c4add29e4e8a241f8",
+    "aurora": "0xa1fc14bc890a98142443b7abc0eeccae6186cd9a",
+    "binance-smart-chain": "0xfd2700c51812753215754de9ec51cdd42bf725b9",
+    "fantom": "0x11bbf12363dc8375b78d2719395d505f52a02f68",
+    "avalanche": "0xf44ff799ea2bbfec96f9a50498209aac3c2b3b8b",
+    "arbitrum-one": "0x11bbf12363dc8375b78d2719395d505f52a02f68",
+    "polygon-pos": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+  }
+}

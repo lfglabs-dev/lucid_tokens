@@ -1,0 +1,15 @@
+{
+  "symbol": "VRGNS",
+  "name": "Vereign Digital Shares SHA",
+  "address": "0x071682832d213638f8eda67a873262e581a4006d",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33364/thumb/VRGNS.png?1701613337",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x071682832d213638f8eda67a873262e581a4006d"
+  }
+}

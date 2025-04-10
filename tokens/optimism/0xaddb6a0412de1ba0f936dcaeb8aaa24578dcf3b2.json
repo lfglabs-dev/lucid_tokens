@@ -1,0 +1,19 @@
+{
+  "symbol": "cbETH",
+  "name": "Coinbase Wrapped Staked ETH",
+  "address": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27008/thumb/cbeth.png?1661390066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "optimistic-ethereum": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
+    "arbitrum-one": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
+    "polygon-pos": "0x4b4327db1600b8b1440163f667e199cef35385f5",
+    "base": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TVPLS",
+  "name": "TV PLUS AG Shares SHA",
+  "address": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33375/thumb/TVPLS.png?1701649948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675"
+  }
+}

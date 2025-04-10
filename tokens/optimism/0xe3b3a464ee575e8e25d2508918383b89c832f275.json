@@ -1,0 +1,15 @@
+{
+  "symbol": "pUSDC.e",
+  "name": "Prize USDC.e - Aave",
+  "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xe3b3a464ee575e8e25d2508918383b89c832f275"
+  }
+}

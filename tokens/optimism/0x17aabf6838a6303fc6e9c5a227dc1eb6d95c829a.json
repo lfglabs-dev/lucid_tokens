@@ -1,0 +1,15 @@
+{
+  "symbol": "TUX",
+  "name": "MagicalTux",
+  "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33909/thumb/1703116654-picsay.png?1703294825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a"
+  }
+}

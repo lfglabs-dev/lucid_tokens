@@ -1,0 +1,26 @@
+{
+  "symbol": "DUSD",
+  "name": "Davos.xyz USD",
+  "address": "0xb396b31599333739a97951b74652c117be86ee1d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28775/thumb/Token_Logo.png?1674100108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xec38621e72d86775a89c7422746de1f52bba5320",
+    "blast": "0x578122317baca7a3c7bb5301460d2f4f96e9394a",
+    "x-layer": "0x0a2f62fa25a19e5f860d150735d52b19ede10273",
+    "polygon-zkevm": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
+    "optimistic-ethereum": "0xb396b31599333739a97951b74652c117be86ee1d",
+    "mantle": "0x62a509ba95c75cabc7190469025e5abee4eddb2a",
+    "mode": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
+    "linea": "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4",
+    "ethereum": "0xa48f322f8b3edff967629af79e027628b9dd1298",
+    "binance-smart-chain": "0x8ec1877698acf262fe8ad8a295ad94d6ea258988",
+    "arbitrum-one": "0x8ec1877698acf262fe8ad8a295ad94d6ea258988",
+    "base": "0xf2393eeadd67bf68a60f39992113775966f34e1e"
+  }
+}

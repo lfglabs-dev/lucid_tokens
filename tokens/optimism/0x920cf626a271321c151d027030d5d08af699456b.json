@@ -1,0 +1,15 @@
+{
+  "symbol": "KWENTA",
+  "name": "Kwenta",
+  "address": "0x920cf626a271321c151d027030d5d08af699456b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27409/thumb/kwenta.png?1668768595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x920cf626a271321c151d027030d5d08af699456b"
+  }
+}

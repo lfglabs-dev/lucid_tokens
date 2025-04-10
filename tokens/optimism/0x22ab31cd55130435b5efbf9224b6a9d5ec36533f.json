@@ -1,0 +1,15 @@
+{
+  "symbol": "exawstETH",
+  "name": "exactly wstETH",
+  "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1691117228",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f"
+  }
+}

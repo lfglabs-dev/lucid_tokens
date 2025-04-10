@@ -1,0 +1,15 @@
+{
+  "symbol": "BNRY",
+  "name": "Binary Coin",
+  "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xb5090d514bcaca7dafb7e52763658844121f346d"
+  }
+}

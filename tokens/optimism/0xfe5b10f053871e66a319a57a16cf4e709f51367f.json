@@ -1,0 +1,15 @@
+{
+  "symbol": "OVERPOWERED",
+  "name": "OVERPOWERED",
+  "address": "0xfe5b10f053871e66a319a57a16cf4e709f51367f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38180/thumb/overpowered.png?1716788158",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xfe5b10f053871e66a319a57a16cf4e709f51367f"
+  }
+}

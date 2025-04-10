@@ -12,28 +12,30 @@ const CHAINS = {
   'world-chain': 'https://worldchain-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'ethereum': 'https://eth-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'zksync': 'https://zksync-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'optimistic-ethereum': 'https://opt-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'optimism': 'https://opt-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'polygon-pos': 'https://polygon-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'arbitrum-one': 'https://arb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'arbitrum': 'https://arb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'mantle': 'https://mantle-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'berachain': 'https://berachain-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'blast': 'https://blast-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'linea': 'https://linea-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'zora-network': 'https://zora-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'zora': 'https://zora-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'base': 'https://base-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'scroll': 'https://scroll-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'xdai': 'https://gnosis-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'gnosis': 'https://gnosis-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'binance-smart-chain': 'https://bnb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'avalanche': 'https://avax-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE'
 };
 
-// Chain name mapping for DeFiLlama to our format
+// Chain name mapping from DeFiLlama to our internal format
 const CHAIN_MAPPING = {
   'ethereum': 'ethereum',
   'polygon-pos': 'polygon-pos',
   'binance-smart-chain': 'binance-smart-chain',
-  'arbitrum': 'arbitrum-one',
-  'optimism': 'optimistic-ethereum',
+  'arbitrum': 'arbitrum',
+  'arbitrum-one': 'arbitrum',
+  'optimism': 'optimism',
+  'optimistic-ethereum': 'optimism',
   'avalanche': 'avalanche',
   'zksync': 'zksync',
   'base': 'base',
@@ -41,8 +43,10 @@ const CHAIN_MAPPING = {
   'scroll': 'scroll',
   'mantle': 'mantle',
   'blast': 'blast',
-  'zora': 'zora-network',
-  'gnosis': 'xdai',
+  'zora': 'zora',
+  'zora-network': 'zora',
+  'gnosis': 'gnosis',
+  'xdai': 'gnosis',
   'berachain': 'berachain',
   'world-chain': 'world-chain'
 };
@@ -107,11 +111,15 @@ async function getTokenInfo(address, chain) {
 }
 
 async function processToken(token, chain, address) {
-  // Map the chain name to our format
-  const mappedChain = CHAIN_MAPPING[chain] || chain;
+  // Map the chain name to our internal format
+  const internalChain = CHAIN_MAPPING[chain];
+  if (!internalChain) {
+    console.warn(`Skipping token ${token.symbol} on chain ${chain} - unknown chain mapping`);
+    return;
+  }
   
   // Skip if we don't have a provider for this chain
-  if (!providers[mappedChain]) {
+  if (!providers[internalChain]) {
     console.warn(`Skipping token ${token.symbol} on chain ${chain} - no provider available`);
     return;
   }
@@ -123,7 +131,7 @@ async function processToken(token, chain, address) {
     return;
   }
 
-  const chainDir = path.join(outputDir, mappedChain);
+  const chainDir = path.join(outputDir, internalChain);
   const tokenFile = path.join(chainDir, `${normalizedAddress}.json`);
 
   // Skip if file exists and force is not set
@@ -132,7 +140,7 @@ async function processToken(token, chain, address) {
   }
 
   // Fetch actual token info from contract
-  const tokenInfo = await getTokenInfo(normalizedAddress, mappedChain);
+  const tokenInfo = await getTokenInfo(normalizedAddress, internalChain);
   if (!tokenInfo) {
     console.warn(`Skipping token ${token.symbol} on chain ${chain} due to contract error`);
     return;

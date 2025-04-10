@@ -1,0 +1,19 @@
+{
+  "symbol": "aOptWBTC",
+  "name": "Aave Optimism WBTC",
+  "address": "0x078f358208685046a11c85e8ad32895ded33a249",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32883/thumb/wbtc.png?1699719908",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ee5bf7ae06d1be5997a1a72006fe6c607ec6de8",
+    "optimistic-ethereum": "0x078f358208685046a11c85e8ad32895ded33a249",
+    "avalanche": "0x078f358208685046a11c85e8ad32895ded33a249",
+    "arbitrum-one": "0x078f358208685046a11c85e8ad32895ded33a249",
+    "polygon-pos": "0x078f358208685046a11c85e8ad32895ded33a249"
+  }
+}

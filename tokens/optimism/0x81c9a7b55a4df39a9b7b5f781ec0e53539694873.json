@@ -1,0 +1,15 @@
+{
+  "symbol": "exaUSDC.e",
+  "name": "exactly USDC.e",
+  "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1691117494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873"
+  }
+}

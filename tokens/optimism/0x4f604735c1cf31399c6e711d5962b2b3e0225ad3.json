@@ -1,0 +1,21 @@
+{
+  "symbol": "USDGLO",
+  "name": "Glo Dollar",
+  "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29319/thumb/glo_logo_coingecko.png?1678068662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "optimistic-ethereum": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "vechain": "0x29c630cce4ddb23900f5fe66ab55e488c15b9f5e",
+    "celo": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "arbitrum-one": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "polygon-pos": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "base": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+  }
+}

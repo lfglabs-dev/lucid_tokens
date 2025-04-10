@@ -1,0 +1,19 @@
+{
+  "symbol": "axlUSDT",
+  "name": "Axelar Wrapped USDT",
+  "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31002/thumb/uusdt_D_3x.png?1689648389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0xd226392c23fb3476274ed6759d4a478db3197d82",
+    "optimistic-ethereum": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+    "kava": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+    "arbitrum-one": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+    "polygon-pos": "0xceed2671d8634e3ee65000edbbee66139b132fbf"
+  }
+}

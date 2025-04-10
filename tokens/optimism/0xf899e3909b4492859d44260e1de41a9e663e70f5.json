@@ -1,0 +1,21 @@
+{
+  "symbol": "RADIO",
+  "name": "RadioShack Token",
+  "address": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25307/thumb/ZVoPiysPJq6dPIZm_Se-6vjmsBepwhHlTQfdYZRILbHyVVTRUYCO-wmJJ4zT10HXCGv1j-ZyWr2u2sBaVlap5Y-ILqeXZuIquWdBDxxG0E0qDpgH7omLqYdgWWLSM_TUK9d1PiiYdu6bERdCDaucgFjlqwmhVQK4uV4jyUiXzchVUnu8Qt6SnxlNxz88G0mQ_tfiwkFv_vKqtgb1CcPycVZVz9.jpg?1651211260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x613a489785c95afeb3b404cc41565ccff107b6e0",
+    "optimistic-ethereum": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
+    "ethereum": "0x7a5d3a9dcd33cb8d527f7b5f96eb4fef43d55636",
+    "binance-smart-chain": "0x30807d3b851a31d62415b8bb7af7dca59390434a",
+    "fantom": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
+    "avalanche": "0x02bfd11499847003de5f0f5aa081c43854d48815",
+    "cronos": "0xf899e3909b4492859d44260e1de41a9e663e70f5"
+  }
+}

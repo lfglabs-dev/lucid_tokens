@@ -1,0 +1,17 @@
+{
+  "symbol": "BOND",
+  "name": "BarnBridge Governance Token (Optimism)",
+  "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1602728853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+    "optimistic-ethereum": "0x3e7ef8f50246f725885102e8238cbba33f276747",
+    "arbitrum-one": "0x0d81e50bc677fa67341c44d7eaa9228dee64a4e1"
+  }
+}

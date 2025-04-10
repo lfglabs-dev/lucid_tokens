@@ -1,0 +1,15 @@
+{
+  "symbol": "2192",
+  "name": "LERNITAS",
+  "address": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36240/thumb/lernitas.jpg?1710920218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d"
+  }
+}

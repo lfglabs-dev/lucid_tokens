@@ -1,0 +1,15 @@
+{
+  "symbol": "SIAS",
+  "name": "SIA Shares SHA",
+  "address": "0x5ad323d764301e057614edb0449f470d68ea9485",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33373/thumb/SIA.png?1701649606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x5ad323d764301e057614edb0449f470d68ea9485"
+  }
+}

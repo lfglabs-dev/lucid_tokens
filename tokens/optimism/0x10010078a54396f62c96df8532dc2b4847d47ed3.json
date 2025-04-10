@@ -1,0 +1,19 @@
+{
+  "symbol": "HND",
+  "name": "Hundred Finance",
+  "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18445/thumb/hnd.PNG?1632054703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "optimistic-ethereum": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "harmony-shard-0": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "fantom": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "arbitrum-one": "0x10010078a54396f62c96df8532dc2b4847d47ed3"
+  }
+}

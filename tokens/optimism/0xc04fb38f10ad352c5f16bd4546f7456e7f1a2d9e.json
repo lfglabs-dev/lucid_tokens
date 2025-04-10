@@ -1,0 +1,20 @@
+{
+  "symbol": "MNTO",
+  "name": "Minato",
+  "address": "0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24622/thumb/MNTO_200x200.png?1648448664",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x97a9bac06f90940bce9caec2b880ff17707519e4",
+    "optimistic-ethereum": "0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e",
+    "harmony-shard-0": "0xcad5937a790541ba912542d81fcf36d75fbf7dd7",
+    "binance-smart-chain": "0x854a63b35b70a7becbed508ff0b6ff5038d0c917",
+    "arbitrum-one": "0xf0dfad1817b5ba73726b02ab34dd4b4b00bcd392",
+    "polygon-pos": "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8"
+  }
+}

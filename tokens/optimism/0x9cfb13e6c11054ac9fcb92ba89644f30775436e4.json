@@ -1,0 +1,17 @@
+{
+  "symbol": "axl-wstETH",
+  "name": "Axelar Wrapped wstETH",
+  "address": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32223/thumb/steth-wei_D_3x.png?1696926841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd7bb095a60d7666d4a6f236423b47ddd6ae6cfa7",
+    "optimistic-ethereum": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
+    "arbitrum-one": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "OPUL",
+  "name": "OpulousToken",
+  "address": "0x1f444e9fb735b2438bee3b841efea060d235abf1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16548/thumb/opulous.PNG?1624418744",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80d55c03180349fff4a229102f62328220a96444",
+    "optimistic-ethereum": "0x1f444e9fb735b2438bee3b841efea060d235abf1",
+    "binance-smart-chain": "0x686318000d982bc8dcc1cdcf8ffd22322f0960ed",
+    "avalanche": "0x6c44e09737ac84bcf27633883daf7487898e4e5e",
+    "arbitrum-one": "0x0c5fa0e07949f941a6c2c29a008252db1527d6ee",
+    "polygon-pos": "0xcccde52ef8f7d74d73ee033f7daccfafe29edd45",
+    "base": "0x118a14bd824a7099e8c5279216ff410a7e5472bd"
+  }
+}

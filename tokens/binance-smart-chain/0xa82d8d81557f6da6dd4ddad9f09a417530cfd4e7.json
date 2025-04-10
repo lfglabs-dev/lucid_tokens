@@ -1,0 +1,15 @@
+{
+  "symbol": "BLM",
+  "name": "Blombard",
+  "address": "0xa82d8d81557f6da6dd4ddad9f09a417530cfd4e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40050/thumb/photo_2024-08-21_02-23-49.jpg?1725446226",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa82d8d81557f6da6dd4ddad9f09a417530cfd4e7"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "LYRA",
+  "name": "Lyra by Virtuals",
+  "address": "0x99956f143dcca77cddf4b4b2a0fa4d491703244d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53984/thumb/WhatsApp_Image_2025-01-22_at_23.29.41.jpeg?1737876448",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x99956f143dcca77cddf4b4b2a0fa4d491703244d",
+    "story": "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1"
+  }
+}

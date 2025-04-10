@@ -1,0 +1,15 @@
+{
+  "symbol": "CROW",
+  "name": "Cropto Wheat Token",
+  "address": "0x0da0bd2f57a27a70665d53db4ea71e1f26f77a46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35306/thumb/CROW_IMG.jpeg?1708156194",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0da0bd2f57a27a70665d53db4ea71e1f26f77a46"
+  }
+}

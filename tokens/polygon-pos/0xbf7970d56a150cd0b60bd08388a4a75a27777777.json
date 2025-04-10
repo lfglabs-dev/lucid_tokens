@@ -1,0 +1,15 @@
+{
+  "symbol": "BET",
+  "name": "BET",
+  "address": "0xbf7970d56a150cd0b60bd08388a4a75a27777777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37681/thumb/KEw4DCX8_400x400.jpg?1715195667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xbf7970d56a150cd0b60bd08388a4a75a27777777"
+  }
+}

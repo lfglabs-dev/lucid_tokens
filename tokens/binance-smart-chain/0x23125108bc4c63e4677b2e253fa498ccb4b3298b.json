@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGECOIN",
+  "name": "Buff Doge Coin",
+  "address": "0x23125108bc4c63e4677b2e253fa498ccb4b3298b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18516/thumb/BUFF_KOIN.png?1632231567",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x23125108bc4c63e4677b2e253fa498ccb4b3298b"
+  }
+}

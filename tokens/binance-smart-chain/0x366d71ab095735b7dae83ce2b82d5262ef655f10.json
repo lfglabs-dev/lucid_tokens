@@ -1,0 +1,15 @@
+{
+  "symbol": "APAD",
+  "name": "AnyPad",
+  "address": "0x366d71ab095735b7dae83ce2b82d5262ef655f10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18385/thumb/vxBgiYKj_400x400.png?1631746435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x366d71ab095735b7dae83ce2b82d5262ef655f10"
+  }
+}

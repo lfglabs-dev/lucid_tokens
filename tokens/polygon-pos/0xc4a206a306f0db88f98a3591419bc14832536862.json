@@ -1,0 +1,15 @@
+{
+  "symbol": "ELE",
+  "name": "Elefant",
+  "address": "0xc4a206a306f0db88f98a3591419bc14832536862",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34417/thumb/7XBqPLzZ_400x400.jpg?1704820988",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc4a206a306f0db88f98a3591419bc14832536862"
+  }
+}

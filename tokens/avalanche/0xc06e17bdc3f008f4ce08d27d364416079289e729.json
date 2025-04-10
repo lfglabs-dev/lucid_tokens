@@ -1,0 +1,15 @@
+{
+  "symbol": "DWC",
+  "name": "DOGwifCROCS",
+  "address": "0xc06e17bdc3f008f4ce08d27d364416079289e729",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34207/thumb/DOGwifCrocs.png?1704275865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xc06e17bdc3f008f4ce08d27d364416079289e729"
+  }
+}

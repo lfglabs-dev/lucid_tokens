@@ -1,0 +1,15 @@
+{
+  "symbol": "SFEX",
+  "name": "SafeX",
+  "address": "0x5392ff4a9bd006dc272c1855af6640e17cc5ec0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16938/thumb/sfex.png?1640336533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5392ff4a9bd006dc272c1855af6640e17cc5ec0b"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "iFARM",
+  "name": "iFARM",
+  "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14472/thumb/ifarm.png?1616389133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
+    "arbitrum-one": "0x9dca587dc65ac0a043828b0acd946d71eb8d46c1",
+    "polygon-pos": "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff",
+    "base": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea"
+  }
+}

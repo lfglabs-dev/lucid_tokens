@@ -1,0 +1,15 @@
+{
+  "symbol": "BNY",
+  "name": "TaskBunny Token",
+  "address": "0x6009e7cd237087e6d7570990e8bdac09c3e182b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51478/thumb/Bunny_coin_200x200.png?1731404290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6009e7cd237087e6d7570990e8bdac09c3e182b0"
+  }
+}

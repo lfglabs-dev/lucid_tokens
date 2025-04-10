@@ -1,0 +1,15 @@
+{
+  "symbol": "BRLY",
+  "name": "Berally Token",
+  "address": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb"
+  }
+}

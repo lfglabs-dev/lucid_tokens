@@ -1,0 +1,15 @@
+{
+  "symbol": "CGT",
+  "name": "CGTcoin",
+  "address": "0x4418260a42145eeb873eafc48d8618d8261dfde7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51283/thumb/photo_2024-10-18_09-21-39.jpg?1730567421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4418260a42145eeb873eafc48d8618d8261dfde7"
+  }
+}

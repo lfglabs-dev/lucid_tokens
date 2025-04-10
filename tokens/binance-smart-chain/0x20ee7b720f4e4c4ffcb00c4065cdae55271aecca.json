@@ -1,0 +1,16 @@
+{
+  "symbol": "NFT",
+  "name": "APENFT",
+  "address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15687/thumb/apenft.jpg?1621562368",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
+    "binance-smart-chain": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca"
+  }
+}

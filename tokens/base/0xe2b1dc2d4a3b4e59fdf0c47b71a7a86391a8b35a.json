@@ -1,0 +1,16 @@
+{
+  "symbol": "RWA",
+  "name": "RWA Inc",
+  "address": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50975/thumb/RWA_Logo_200x200_circle.png?1729633572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+    "binance-smart-chain": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a"
+  }
+}

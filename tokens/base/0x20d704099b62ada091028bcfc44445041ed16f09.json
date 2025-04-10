@@ -1,0 +1,15 @@
+{
+  "symbol": "CHAOS",
+  "name": "CHAOS",
+  "address": "0x20d704099b62ada091028bcfc44445041ed16f09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52444/thumb/chaos-2.jpg?1733365634",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x20d704099b62ada091028bcfc44445041ed16f09"
+  }
+}

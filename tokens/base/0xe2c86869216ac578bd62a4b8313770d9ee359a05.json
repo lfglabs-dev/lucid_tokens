@@ -1,0 +1,15 @@
+{
+  "symbol": "EMT",
+  "name": "EMAIL Token",
+  "address": "0xe2c86869216ac578bd62a4b8313770d9ee359a05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38631/thumb/EMT_square_LG%282%29.png?1718171885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe2c86869216ac578bd62a4b8313770d9ee359a05"
+  }
+}

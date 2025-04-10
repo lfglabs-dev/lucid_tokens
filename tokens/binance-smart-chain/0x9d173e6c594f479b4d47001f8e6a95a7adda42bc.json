@@ -1,0 +1,15 @@
+{
+  "symbol": "ZOON",
+  "name": "CryptoZoon",
+  "address": "0x9d173e6c594f479b4d47001f8e6a95a7adda42bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17419/thumb/logo200_%2820%29.png?1627599450",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9d173e6c594f479b4d47001f8e6a95a7adda42bc"
+  }
+}

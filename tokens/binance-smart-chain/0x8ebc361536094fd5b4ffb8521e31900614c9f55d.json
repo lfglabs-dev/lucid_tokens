@@ -1,0 +1,15 @@
+{
+  "symbol": "DARC",
+  "name": "DARC Token",
+  "address": "0x8ebc361536094fd5b4ffb8521e31900614c9f55d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2943/thumb/darctoken.png?1645230834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8ebc361536094fd5b4ffb8521e31900614c9f55d"
+  }
+}

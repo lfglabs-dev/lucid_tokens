@@ -1,0 +1,15 @@
+{
+  "symbol": "ZIGGY",
+  "name": "Ziggy",
+  "address": "0xd628dc2c4ec10feb07e5c8bf039f7c1c374d1b07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55087/thumb/200x200.png?1743665692",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd628dc2c4ec10feb07e5c8bf039f7c1c374d1b07"
+  }
+}

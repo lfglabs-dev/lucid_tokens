@@ -1,0 +1,17 @@
+{
+  "symbol": "GLCH",
+  "name": "Glitch",
+  "address": "0xf0902eb0049a4003793bab33f3566a22d2834442",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13712/thumb/glitch_logo.jpeg?1611100011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x038a68ff68c393373ec894015816e33ad41bd564",
+    "binance-smart-chain": "0xf0902eb0049a4003793bab33f3566a22d2834442",
+    "polygon-pos": "0xbe5cf150e1ff59ca7f2499eaa13bfc40aae70e78"
+  }
+}

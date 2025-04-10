@@ -1,0 +1,16 @@
+{
+  "symbol": "MANA",
+  "name": "(PoS) Decentraland MANA",
+  "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "polygon-pos": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4"
+  }
+}

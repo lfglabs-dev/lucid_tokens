@@ -1,0 +1,15 @@
+{
+  "symbol": "TEA",
+  "name": "Tea-Fi Token",
+  "address": "0xa2b835e77cbff1b1fdb853b5e63a8ac25c3f5774",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50964/thumb/logo.png?1729605782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa2b835e77cbff1b1fdb853b5e63a8ac25c3f5774"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "RDX",
+  "name": "RandomDEX",
+  "address": "0x2659631cfbe9b1b6dcbc1384a3864509356e7b4d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52766/thumb/Icon_removed_BG.png?1734268221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2659631cfbe9b1b6dcbc1384a3864509356e7b4d",
+    "ethereum": "0xf222b0e892f419c35e61892cddf0a8ec190c4b9d"
+  }
+}

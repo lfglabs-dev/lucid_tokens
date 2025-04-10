@@ -1,0 +1,15 @@
+{
+  "symbol": "DAYL",
+  "name": "Daylight",
+  "address": "0x62529d7de8293217c8f74d60c8c0f6481de47f0e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29173/thumb/DAYL_Ticker.png?1677127392",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x62529d7de8293217c8f74d60c8c0f6481de47f0e"
+  }
+}

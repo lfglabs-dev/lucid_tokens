@@ -1,0 +1,15 @@
+{
+  "symbol": "MISSER",
+  "name": "Misser",
+  "address": "0x0718f45bbf4781ce891e4e18182f025725f0fc95",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39315/thumb/misser_pic.png?1721707572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0718f45bbf4781ce891e4e18182f025725f0fc95"
+  }
+}

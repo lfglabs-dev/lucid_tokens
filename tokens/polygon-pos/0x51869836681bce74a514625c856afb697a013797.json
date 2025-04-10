@@ -1,0 +1,15 @@
+{
+  "symbol": "GENESIS",
+  "name": "Genesis",
+  "address": "0x51869836681bce74a514625c856afb697a013797",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19905/thumb/kKkWmniB_400x400.jpg?1636100432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x51869836681bce74a514625c856afb697a013797"
+  }
+}

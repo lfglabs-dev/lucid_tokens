@@ -1,0 +1,15 @@
+{
+  "symbol": "SNK",
+  "name": "SNAKE",
+  "address": "0x34980c35353a8d7b1a1ba02e02e387a8383e004a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38989/thumb/%D9%A2%D9%A0%D9%A2%D9%A4%D9%A0%D9%A6%D9%A2%D9%A5_%D9%A0%D9%A7%D9%A1%D9%A7%D9%A0%D9%A5.jpg?1719807416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x34980c35353a8d7b1a1ba02e02e387a8383e004a"
+  }
+}

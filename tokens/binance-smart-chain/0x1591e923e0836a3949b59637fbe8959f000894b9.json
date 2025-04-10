@@ -1,0 +1,15 @@
+{
+  "symbol": "MAI",
+  "name": "Multi AI",
+  "address": "0x1591e923e0836a3949b59637fbe8959f000894b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31423/thumb/logo_black_back-round_200_200.png?1692858009",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1591e923e0836a3949b59637fbe8959f000894b9"
+  }
+}

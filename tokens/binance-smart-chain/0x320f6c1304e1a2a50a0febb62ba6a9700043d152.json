@@ -1,0 +1,15 @@
+{
+  "symbol": "PME",
+  "name": "Pomerium Community Meme Token",
+  "address": "0x320f6c1304e1a2a50a0febb62ba6a9700043d152",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32880/thumb/Logo.png?1699711684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x320f6c1304e1a2a50a0febb62ba6a9700043d152"
+  }
+}

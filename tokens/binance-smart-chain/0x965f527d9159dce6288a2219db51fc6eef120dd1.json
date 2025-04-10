@@ -1,0 +1,15 @@
+{
+  "symbol": "BSW",
+  "name": "Biswap",
+  "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16845/thumb/biswap.png?1625388985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x965f527d9159dce6288a2219db51fc6eef120dd1"
+  }
+}

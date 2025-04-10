@@ -1,0 +1,15 @@
+{
+  "symbol": "AICR",
+  "name": "AI Crew",
+  "address": "0x499fc0ec9aade85de50af0c17513c7b850eb275f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31569/thumb/Token_AICR.png?1693809531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x499fc0ec9aade85de50af0c17513c7b850eb275f"
+  }
+}

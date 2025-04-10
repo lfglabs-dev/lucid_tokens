@@ -1,0 +1,15 @@
+{
+  "symbol": "CPA",
+  "name": "CPA by Virtuals",
+  "address": "0xd9da0a693ea8057dcd97f02df6c98951acf92ef7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53396/thumb/cpa-token-icon.png?1736280028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd9da0a693ea8057dcd97f02df6c98951acf92ef7"
+  }
+}

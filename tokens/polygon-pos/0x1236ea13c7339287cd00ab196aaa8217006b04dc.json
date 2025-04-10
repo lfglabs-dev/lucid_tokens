@@ -1,0 +1,18 @@
+{
+  "symbol": "oEPL",
+  "name": "Orbit Bridge Polygon EpicLeague",
+  "address": "0x1236ea13c7339287cd00ab196aaa8217006b04dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32139/thumb/epl_symbol_200.png?1696591947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1236ea13c7339287cd00ab196aaa8217006b04dc",
+    "oasys": "0xd2e426ea2ffa72dd1dc75e7bd148fb959e3e04b2",
+    "binance-smart-chain": "0x1236ea13c7339287cd00ab196aaa8217006b04dc",
+    "polygon-pos": "0x1236ea13c7339287cd00ab196aaa8217006b04dc"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "SPORE",
+  "name": "SporeFinance",
+  "address": "0x33a3d962955a3862c8093d1273344719f03ca17c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14470/thumb/SPORE.png?1616567184",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985",
+    "binance-smart-chain": "0x33a3d962955a3862c8093d1273344719f03ca17c"
+  }
+}

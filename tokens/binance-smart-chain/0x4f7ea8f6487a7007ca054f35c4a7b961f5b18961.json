@@ -1,0 +1,15 @@
+{
+  "symbol": "CATS",
+  "name": "GoldenCat",
+  "address": "0x4f7ea8f6487a7007ca054f35c4a7b961f5b18961",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51029/thumb/goldencat200x200.jpg?1729785170",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f7ea8f6487a7007ca054f35c4a7b961f5b18961"
+  }
+}

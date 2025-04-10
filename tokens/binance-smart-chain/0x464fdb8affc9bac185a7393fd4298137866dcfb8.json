@@ -1,0 +1,16 @@
+{
+  "symbol": "REALM",
+  "name": "REALM",
+  "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18366/thumb/realm.PNG?1631665838",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+    "binance-smart-chain": "0x464fdb8affc9bac185a7393fd4298137866dcfb8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GrokCat",
+  "name": "Grok Cat",
+  "address": "0x4615c8e2db74517a34712c9bdea5c418d999014b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36797/thumb/0x4615c8e2db74517a34712c9bdea5c418d999014b_%281%29.png?1712434697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4615c8e2db74517a34712c9bdea5c418d999014b"
+  }
+}

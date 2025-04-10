@@ -1,0 +1,15 @@
+{
+  "symbol": "wM",
+  "name": "WrappedM by M^0",
+  "address": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55070/thumb/wm.jpg?1743589588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x437cc33344a0b27a429f795ff6b469c72698b291"
+  }
+}

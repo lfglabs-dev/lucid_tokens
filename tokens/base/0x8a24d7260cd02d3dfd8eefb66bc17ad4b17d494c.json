@@ -1,0 +1,15 @@
+{
+  "symbol": "BSB",
+  "name": "Based Street Bets",
+  "address": "0x8a24d7260cd02d3dfd8eefb66bc17ad4b17d494c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36558/thumb/Logo_BSB.png?1711902137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8a24d7260cd02d3dfd8eefb66bc17ad4b17d494c"
+  }
+}

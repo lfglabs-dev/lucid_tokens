@@ -1,0 +1,15 @@
+{
+  "symbol": "TENFI",
+  "name": "TEN Finance",
+  "address": "0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15631/thumb/TENFI_Logo.png?1621399643",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd15c444f1199ae72795eba15e8c1db44e47abf62"
+  }
+}

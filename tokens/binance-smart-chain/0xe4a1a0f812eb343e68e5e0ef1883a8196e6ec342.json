@@ -1,0 +1,15 @@
+{
+  "symbol": "CICCA",
+  "name": "Cicca Defi Network",
+  "address": "0xe4a1a0f812eb343e68e5e0ef1883a8196e6ec342",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32410/thumb/CICCALOGOOOO.jpg?1698057882",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe4a1a0f812eb343e68e5e0ef1883a8196e6ec342"
+  }
+}

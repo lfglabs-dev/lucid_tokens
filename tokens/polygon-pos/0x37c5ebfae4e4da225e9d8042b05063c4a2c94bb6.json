@@ -1,0 +1,15 @@
+{
+  "symbol": "STAU",
+  "name": "STAU",
+  "address": "0x37c5ebfae4e4da225e9d8042b05063c4a2c94bb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52341/thumb/STAU.png?1733127902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x37c5ebfae4e4da225e9d8042b05063c4a2c94bb6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SPS",
+  "name": "Splintershards",
+  "address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17332/thumb/splinter.PNG?1627339560",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1633b7157e7638c4d6593436111bf125ee74703f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BABI",
+  "name": "Babylons Governance Token",
+  "address": "0xec15a508a187e8ddfe572a5423faa82bbdd65120",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17838/thumb/CW32Ubsk_400x400.jpg?1629462119",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xec15a508a187e8ddfe572a5423faa82bbdd65120"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SEAT",
+  "name": "Seamans Token",
+  "address": "0xc79fc2885e207e1c4cc69cf94402dd1a5642452e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc79fc2885e207e1c4cc69cf94402dd1a5642452e"
+  }
+}

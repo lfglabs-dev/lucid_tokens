@@ -1,0 +1,15 @@
+{
+  "symbol": "CHEEL",
+  "name": "CHEELEE",
+  "address": "0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28573/thumb/Cheelee_PNG_200x200.png?1671877426",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0"
+  }
+}

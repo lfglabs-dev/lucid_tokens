@@ -1,0 +1,15 @@
+{
+  "symbol": "DGH",
+  "name": "Digihealth",
+  "address": "0xa87584cfeb892c33a1c9a233e4a733b45c4160e6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28391/thumb/Its.png?1670139269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa87584cfeb892c33a1c9a233e4a733b45c4160e6"
+  }
+}

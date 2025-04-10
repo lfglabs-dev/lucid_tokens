@@ -1,0 +1,15 @@
+{
+  "symbol": "MB28",
+  "name": "Mbridge28",
+  "address": "0xb821559455a59fc006c4869ff97dfdf16d3c1088",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53529/thumb/photo_2025-01-10_19.35.13.jpeg?1736579709",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb821559455a59fc006c4869ff97dfdf16d3c1088"
+  }
+}

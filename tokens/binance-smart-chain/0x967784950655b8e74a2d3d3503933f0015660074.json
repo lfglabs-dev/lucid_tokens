@@ -1,0 +1,15 @@
+{
+  "symbol": "alif",
+  "name": "ALIF",
+  "address": "0x967784950655b8e74a2d3d3503933f0015660074",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29392/thumb/aliflogo.png?1678504084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x967784950655b8e74a2d3d3503933f0015660074"
+  }
+}

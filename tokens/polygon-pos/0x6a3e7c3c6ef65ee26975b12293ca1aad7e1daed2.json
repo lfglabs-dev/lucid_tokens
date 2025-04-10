@@ -1,0 +1,15 @@
+{
+  "symbol": "ALPHA",
+  "name": "Aavegotchi ALPHA",
+  "address": "0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24738/thumb/alpha.png?1648769768",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2"
+  }
+}

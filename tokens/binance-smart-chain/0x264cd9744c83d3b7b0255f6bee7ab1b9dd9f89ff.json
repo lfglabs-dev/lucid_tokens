@@ -1,0 +1,15 @@
+{
+  "symbol": "CST",
+  "name": "Crypto Samurai Token",
+  "address": "0x264cd9744c83d3b7b0255f6bee7ab1b9dd9f89ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38744/thumb/CST.jpg?1718679832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x264cd9744c83d3b7b0255f6bee7ab1b9dd9f89ff"
+  }
+}

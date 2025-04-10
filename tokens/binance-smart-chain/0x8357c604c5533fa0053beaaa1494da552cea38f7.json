@@ -1,0 +1,16 @@
+{
+  "symbol": "SPO",
+  "name": "Spores Token",
+  "address": "0x8357c604c5533fa0053beaaa1494da552cea38f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17431/thumb/SPO_token.png?1627619762",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
+    "binance-smart-chain": "0x8357c604c5533fa0053beaaa1494da552cea38f7"
+  }
+}

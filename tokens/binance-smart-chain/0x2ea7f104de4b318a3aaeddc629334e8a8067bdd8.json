@@ -1,0 +1,15 @@
+{
+  "symbol": "CAIR",
+  "name": "Crypto-AI-Robo",
+  "address": "0x2ea7f104de4b318a3aaeddc629334e8a8067bdd8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33410/thumb/2000px-Atheismsymbol_endorsed_by_AAI.svg.png?1701701207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2ea7f104de4b318a3aaeddc629334e8a8067bdd8"
+  }
+}

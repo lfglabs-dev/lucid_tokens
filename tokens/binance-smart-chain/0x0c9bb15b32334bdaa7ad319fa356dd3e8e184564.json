@@ -1,0 +1,15 @@
+{
+  "symbol": "MOGUL",
+  "name": "MarineMoguls",
+  "address": "0x0c9bb15b32334bdaa7ad319fa356dd3e8e184564",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38652/thumb/Marine_Moguls_LOGO.png?1718229899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0c9bb15b32334bdaa7ad319fa356dd3e8e184564"
+  }
+}

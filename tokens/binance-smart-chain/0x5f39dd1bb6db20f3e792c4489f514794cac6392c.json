@@ -1,0 +1,16 @@
+{
+  "symbol": "PLY",
+  "name": "PlayNity token",
+  "address": "0x5f39dd1bb6db20f3e792c4489f514794cac6392c",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21479/thumb/ply.png?1639651574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20d60c6eb195868d4643f2c9b0809e4de6cc003d",
+    "binance-smart-chain": "0x5f39dd1bb6db20f3e792c4489f514794cac6392c"
+  }
+}

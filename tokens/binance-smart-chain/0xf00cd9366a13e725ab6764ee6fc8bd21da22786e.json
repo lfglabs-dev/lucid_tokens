@@ -1,0 +1,15 @@
+{
+  "symbol": "TWD",
+  "name": "THE WORD",
+  "address": "0xf00cd9366a13e725ab6764ee6fc8bd21da22786e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34295/thumb/20240101_090728.png?1704606367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf00cd9366a13e725ab6764ee6fc8bd21da22786e"
+  }
+}

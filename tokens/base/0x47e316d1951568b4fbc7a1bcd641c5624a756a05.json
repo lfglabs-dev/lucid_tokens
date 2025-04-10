@@ -1,0 +1,15 @@
+{
+  "symbol": "WAGC",
+  "name": "Wrapped Argocoin",
+  "address": "0x47e316d1951568b4fbc7a1bcd641c5624a756a05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34256/thumb/Argocoin.png?1704343655",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x47e316d1951568b4fbc7a1bcd641c5624a756a05"
+  }
+}

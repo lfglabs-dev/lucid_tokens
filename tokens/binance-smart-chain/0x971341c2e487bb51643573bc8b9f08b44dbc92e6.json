@@ -1,0 +1,15 @@
+{
+  "symbol": "$MOONPOT",
+  "name": "MoonPot",
+  "address": "0x971341c2e487bb51643573bc8b9f08b44dbc92e6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28888/thumb/IMG_20230130_210408.png?1675154885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x971341c2e487bb51643573bc8b9f08b44dbc92e6"
+  }
+}

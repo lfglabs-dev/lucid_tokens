@@ -1,0 +1,16 @@
+{
+  "symbol": "MINDS",
+  "name": "Minds",
+  "address": "0x686015ebf044a1b8a4be750346be00293a996071",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11517/thumb/Minds.png?1590580465",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb26631c6dda06ad89b93c71400d25692de89c068",
+    "base": "0x686015ebf044a1b8a4be750346be00293a996071"
+  }
+}

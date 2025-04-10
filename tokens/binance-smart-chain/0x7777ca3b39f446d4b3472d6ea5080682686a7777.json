@@ -1,0 +1,15 @@
+{
+  "symbol": "GFX",
+  "name": "GameFiX.Ai",
+  "address": "0x7777ca3b39f446d4b3472d6ea5080682686a7777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37693/thumb/200x200.jpg?1715231983",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7777ca3b39f446d4b3472d6ea5080682686a7777"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "INDEX",
+  "name": "Index (PoS)",
+  "address": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12729/thumb/index.png?1634894321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+    "polygon-pos": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b"
+  }
+}

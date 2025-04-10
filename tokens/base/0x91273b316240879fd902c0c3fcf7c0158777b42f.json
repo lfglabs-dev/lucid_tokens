@@ -1,0 +1,15 @@
+{
+  "symbol": "OLYN",
+  "name": "Olyn by Virtuals",
+  "address": "0x91273b316240879fd902c0c3fcf7c0158777b42f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52167/thumb/olyn.jpg?1732682477",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x91273b316240879fd902c0c3fcf7c0158777b42f"
+  }
+}

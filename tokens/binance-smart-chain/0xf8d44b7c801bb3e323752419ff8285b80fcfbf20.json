@@ -1,0 +1,15 @@
+{
+  "symbol": "DOM",
+  "name": "DomusAI",
+  "address": "0xf8d44b7c801bb3e323752419ff8285b80fcfbf20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40030/thumb/DOM.jpg?1725360704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8d44b7c801bb3e323752419ff8285b80fcfbf20"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DOBO",
+  "name": "donablock",
+  "address": "0x04088b85ab27f247c76e3adbf787f5a51e3470b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35284/thumb/DOBO_200*200_simbol.png?1708055260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x04088b85ab27f247c76e3adbf787f5a51e3470b6"
+  }
+}

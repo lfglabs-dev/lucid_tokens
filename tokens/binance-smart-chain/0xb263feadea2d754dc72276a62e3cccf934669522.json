@@ -1,0 +1,15 @@
+{
+  "symbol": "SNG",
+  "name": "SNG Token",
+  "address": "0xb263feadea2d754dc72276a62e3cccf934669522",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38732/thumb/IMG-20240615-WA0009.jpg?1718499014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb263feadea2d754dc72276a62e3cccf934669522"
+  }
+}

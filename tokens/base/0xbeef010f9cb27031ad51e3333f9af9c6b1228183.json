@@ -1,0 +1,15 @@
+{
+  "symbol": "steakUSDC",
+  "name": "Steakhouse USDC",
+  "address": "0xbeef010f9cb27031ad51e3333f9af9c6b1228183",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52414/thumb/steak-usdc-flushed.png?1733305792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbeef010f9cb27031ad51e3333f9af9c6b1228183"
+  }
+}

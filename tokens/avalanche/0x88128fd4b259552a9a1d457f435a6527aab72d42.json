@@ -1,0 +1,18 @@
+{
+  "symbol": "MKR.e",
+  "name": "Maker",
+  "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1364/thumb/Mark_Maker.png?1585191826",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "energi": "0x050317d93f29d1ba5ff3eac3b8157fd4e345588d",
+    "avalanche": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+    "polygon-pos": "0x6f7c932e7684666c9fd1d44527765433e01ff61d"
+  }
+}

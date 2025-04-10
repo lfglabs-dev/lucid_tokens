@@ -1,0 +1,15 @@
+{
+  "symbol": "BREAD",
+  "name": "Bread",
+  "address": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54952/thumb/photo_2025-03-21_13.46.43.jpeg?1742805118",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead"
+  }
+}

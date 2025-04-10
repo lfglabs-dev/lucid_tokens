@@ -1,0 +1,15 @@
+{
+  "symbol": "SOIL",
+  "name": "Soileum",
+  "address": "0x99865fe33d55651dbc531cd6f489bdf9a33973bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55138/thumb/SOIL-ICON.png?1744109773",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x99865fe33d55651dbc531cd6f489bdf9a33973bd"
+  }
+}

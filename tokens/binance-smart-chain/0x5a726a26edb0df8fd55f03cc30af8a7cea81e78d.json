@@ -1,0 +1,15 @@
+{
+  "symbol": "CWT",
+  "name": "CROSSWALLET.app",
+  "address": "0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16460/thumb/AAoUhOw.png?1624259013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d"
+  }
+}

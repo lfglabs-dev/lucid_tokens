@@ -1,0 +1,15 @@
+{
+  "symbol": "AXS",
+  "name": "Axie Infinity Shard",
+  "address": "0x556b60c53fbc1518ad17e03d52e47368dd4d81b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22952/thumb/AXSet_wh_small.png?1644224450",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x556b60c53fbc1518ad17e03d52e47368dd4d81b3"
+  }
+}

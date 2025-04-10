@@ -1,0 +1,15 @@
+{
+  "symbol": "AFNTY",
+  "name": "Affinity",
+  "address": "0xf59918b07278ff20109f8c37d7255e0677b45c43",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27345/thumb/YPtUpB2I_400x400.jpeg?1663647788",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf59918b07278ff20109f8c37d7255e0677b45c43"
+  }
+}

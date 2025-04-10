@@ -1,0 +1,15 @@
+{
+  "symbol": "ST",
+  "name": "SocialTrade",
+  "address": "0xce74702e67e3127613f3465384282bad77757ca3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53023/thumb/st.jpg?1735012015",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xce74702e67e3127613f3465384282bad77757ca3"
+  }
+}

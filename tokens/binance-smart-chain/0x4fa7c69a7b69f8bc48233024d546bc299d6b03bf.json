@@ -1,0 +1,15 @@
+{
+  "symbol": "quq",
+  "name": "quq",
+  "address": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54945/thumb/quq.jpg?1742635780",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf"
+  }
+}

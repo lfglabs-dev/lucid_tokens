@@ -1,0 +1,15 @@
+{
+  "symbol": "LINGO",
+  "name": "Lingo",
+  "address": "0xfb42da273158b0f642f59f2ba7cc1d5457481677",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52647/thumb/Lingo_200x200.png?1733914947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfb42da273158b0f642f59f2ba7cc1d5457481677"
+  }
+}

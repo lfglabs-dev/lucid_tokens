@@ -1,0 +1,15 @@
+{
+  "symbol": "CROAK",
+  "name": "CROAK",
+  "address": "0xacb54d07ca167934f57f829bee2cc665e1a5ebef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38592/thumb/Croak-for-coingeko.png?1718092516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xacb54d07ca167934f57f829bee2cc665e1a5ebef"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "aUSD",
+  "name": "Aurelius USD",
+  "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37318/thumb/aUSD.png?1713975421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79"
+  }
+}

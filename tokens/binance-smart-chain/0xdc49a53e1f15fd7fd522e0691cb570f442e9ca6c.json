@@ -1,0 +1,15 @@
+{
+  "symbol": "QGold",
+  "name": "Quorium",
+  "address": "0xdc49a53e1f15fd7fd522e0691cb570f442e9ca6c",
+  "decimals": 3,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33597/thumb/Linked_in_Profile_Picture.png?1702476714",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdc49a53e1f15fd7fd522e0691cb570f442e9ca6c"
+  }
+}

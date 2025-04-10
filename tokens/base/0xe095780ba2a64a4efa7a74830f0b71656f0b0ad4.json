@@ -1,0 +1,18 @@
+{
+  "symbol": "BYTE",
+  "name": "Byte",
+  "address": "0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33527/thumb/Byte200.jpeg?1702138460",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde342a3e269056fc3305f9e315f4c40d917ba521",
+    "binance-smart-chain": "0x840ef7e5f896be71d46df234c60898216fefcbe3",
+    "arbitrum-one": "0x847503fbf003ce8b005546aa3c03b80b7c2f9771",
+    "base": "0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4"
+  }
+}

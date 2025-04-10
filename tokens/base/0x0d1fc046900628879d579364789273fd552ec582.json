@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOSHI",
+  "name": "BOOSHI",
+  "address": "0x0d1fc046900628879d579364789273fd552ec582",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51056/thumb/BOOSHI.png?1729875831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0d1fc046900628879d579364789273fd552ec582"
+  }
+}

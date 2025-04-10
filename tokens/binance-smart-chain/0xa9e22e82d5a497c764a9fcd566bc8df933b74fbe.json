@@ -1,0 +1,15 @@
+{
+  "symbol": "AGT",
+  "name": "AGRITECH",
+  "address": "0xa9e22e82d5a497c764a9fcd566bc8df933b74fbe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30052/thumb/Agritech_Final_200x200_.png?1682996742",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa9e22e82d5a497c764a9fcd566bc8df933b74fbe"
+  }
+}

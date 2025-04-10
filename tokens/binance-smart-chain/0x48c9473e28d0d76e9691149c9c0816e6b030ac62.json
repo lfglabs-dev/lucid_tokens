@@ -1,0 +1,15 @@
+{
+  "symbol": "NGY",
+  "name": "NAGAYA",
+  "address": "0x48c9473e28d0d76e9691149c9c0816e6b030ac62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34255/thumb/Logo_Coin_Nagaya_-_Nagaya_x_Latoken_%282%29.png?1704343648",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x48c9473e28d0d76e9691149c9c0816e6b030ac62"
+  }
+}

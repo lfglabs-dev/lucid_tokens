@@ -1,0 +1,15 @@
+{
+  "symbol": "TRUE",
+  "name": "True",
+  "address": "0x21cfcfc3d8f98fc728f48341d10ad8283f6eb7ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54818/thumb/512x512.png?1741851363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x21cfcfc3d8f98fc728f48341d10ad8283f6eb7ab"
+  }
+}

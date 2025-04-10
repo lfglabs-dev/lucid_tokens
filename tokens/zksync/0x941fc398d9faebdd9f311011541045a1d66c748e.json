@@ -1,0 +1,15 @@
+{
+  "symbol": "NOP",
+  "name": "NOP App",
+  "address": "0x941fc398d9faebdd9f311011541045a1d66c748e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36376/thumb/191.png?1711342125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x941fc398d9faebdd9f311011541045a1d66c748e"
+  }
+}

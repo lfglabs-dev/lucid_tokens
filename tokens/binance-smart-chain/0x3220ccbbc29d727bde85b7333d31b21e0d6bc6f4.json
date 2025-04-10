@@ -1,0 +1,15 @@
+{
+  "symbol": "PupDoge",
+  "name": "PupDoge",
+  "address": "0x3220ccbbc29d727bde85b7333d31b21e0d6bc6f4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17473/thumb/pupdoge.PNG?1627894702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3220ccbbc29d727bde85b7333d31b21e0d6bc6f4"
+  }
+}

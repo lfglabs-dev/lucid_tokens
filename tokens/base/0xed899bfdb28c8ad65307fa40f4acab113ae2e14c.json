@@ -1,0 +1,15 @@
+{
+  "symbol": "ROOST",
+  "name": "Roost Coin",
+  "address": "0xed899bfdb28c8ad65307fa40f4acab113ae2e14c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36458/thumb/roost.jpeg?1711493580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xed899bfdb28c8ad65307fa40f4acab113ae2e14c"
+  }
+}

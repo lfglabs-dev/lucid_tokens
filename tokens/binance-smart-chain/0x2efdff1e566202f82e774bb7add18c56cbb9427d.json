@@ -1,0 +1,15 @@
+{
+  "symbol": "ZAFI",
+  "name": "ZakumiFi",
+  "address": "0x2efdff1e566202f82e774bb7add18c56cbb9427d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28138/thumb/Logo-Zakumi.png?1667786381",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2efdff1e566202f82e774bb7add18c56cbb9427d"
+  }
+}

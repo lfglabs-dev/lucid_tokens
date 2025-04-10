@@ -1,0 +1,15 @@
+{
+  "symbol": "GDP",
+  "name": "Gertrude",
+  "address": "0xf8f97a79a3fa77104fab4814e3ed93899777de0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53175/thumb/logo-mark-fill-default.png?1735558750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf8f97a79a3fa77104fab4814e3ed93899777de0d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MOON",
+  "name": "MoonBase Token",
+  "address": "0xef0b2ccb53a683fa48799245f376d6a60929f003",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31867/thumb/moon-logo-200x200.png?1695290347",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xef0b2ccb53a683fa48799245f376d6a60929f003"
+  }
+}

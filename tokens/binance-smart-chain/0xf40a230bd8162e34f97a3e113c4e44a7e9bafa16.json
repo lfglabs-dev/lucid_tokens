@@ -1,0 +1,15 @@
+{
+  "symbol": "HOGSCOIN",
+  "name": "CryptoHog",
+  "address": "0xf40a230bd8162e34f97a3e113c4e44a7e9bafa16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53910/thumb/png.png?1737708802",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf40a230bd8162e34f97a3e113c4e44a7e9bafa16"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DMLG",
+  "name": "Defi Monster Legends",
+  "address": "0x1c796c140de269e255372ea687ef7644bab87935",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19195/thumb/dmlg.png?1634638943",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1c796c140de269e255372ea687ef7644bab87935"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "uEOS",
+  "name": "EOS (Universal)",
+  "address": "0x31d664ebd97a50d5a2cd49b16f7714ab2516ed25",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54726/thumb/UA-EOS.png?1741244637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x31d664ebd97a50d5a2cd49b16f7714ab2516ed25"
+  }
+}

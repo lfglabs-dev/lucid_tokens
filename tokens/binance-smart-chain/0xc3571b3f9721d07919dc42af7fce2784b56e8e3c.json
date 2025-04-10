@@ -1,0 +1,15 @@
+{
+  "symbol": "ZHOA",
+  "name": "Chengpang Zhoa",
+  "address": "0xc3571b3f9721d07919dc42af7fce2784b56e8e3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54407/thumb/Chengpang_Zhoa.jpg?1739522056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc3571b3f9721d07919dc42af7fce2784b56e8e3c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ZAT",
+  "name": "zkApes token",
+  "address": "0x47ef4a5641992a72cfd57b9406c9d9cefee8e0c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30316/thumb/zkApes.png?1683885347",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x47ef4a5641992a72cfd57b9406c9d9cefee8e0c4"
+  }
+}

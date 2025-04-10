@@ -1,0 +1,15 @@
+{
+  "symbol": "ACE",
+  "name": "Apollo Caps ETF",
+  "address": "0xcb7bf0218ccbf340c6676706c60a41c1e9cbdd44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38365/thumb/ACE_200x200.png?1717273418",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcb7bf0218ccbf340c6676706c60a41c1e9cbdd44"
+  }
+}

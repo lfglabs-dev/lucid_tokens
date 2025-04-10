@@ -1,0 +1,15 @@
+{
+  "symbol": "GEC",
+  "name": "Gecko Inu",
+  "address": "0xe8385cecb013561b69beb63ff59f4d10734881f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33948/thumb/token_icon.png?1703537806",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe8385cecb013561b69beb63ff59f4d10734881f3"
+  }
+}

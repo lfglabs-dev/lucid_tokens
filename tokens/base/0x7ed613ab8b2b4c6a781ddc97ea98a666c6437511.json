@@ -1,0 +1,15 @@
+{
+  "symbol": "AYB",
+  "name": "All Your Base",
+  "address": "0x7ed613ab8b2b4c6a781ddc97ea98a666c6437511",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35777/thumb/logo-aby.png?1709794884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7ed613ab8b2b4c6a781ddc97ea98a666c6437511"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BROGE",
+  "name": "Broge",
+  "address": "0xe8e55a847bb446d967ef92f4580162fb8f2d3f38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36297/thumb/1000004999.jpg?1711048058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe8e55a847bb446d967ef92f4580162fb8f2d3f38"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LCN",
+  "name": "Lyncoin",
+  "address": "0xd6a540543327b5a4f2223f123640932ee3c6c583",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33090/thumb/bitcoin.png?1700603002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd6a540543327b5a4f2223f123640932ee3c6c583"
+  }
+}

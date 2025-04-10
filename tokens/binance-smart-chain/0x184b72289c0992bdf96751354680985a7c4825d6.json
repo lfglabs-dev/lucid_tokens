@@ -1,0 +1,15 @@
+{
+  "symbol": "asBTC",
+  "name": "Astherus BTC",
+  "address": "0x184b72289c0992bdf96751354680985a7c4825d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54130/thumb/asBTC_logo_%28200x200%29.png?1738393686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x184b72289c0992bdf96751354680985a7c4825d6"
+  }
+}

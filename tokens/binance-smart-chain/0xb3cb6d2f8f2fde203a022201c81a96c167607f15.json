@@ -1,0 +1,15 @@
+{
+  "symbol": "GAMMA",
+  "name": "GAMMA",
+  "address": "0xb3cb6d2f8f2fde203a022201c81a96c167607f15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20895/thumb/gamma.png?1638528110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb3cb6d2f8f2fde203a022201c81a96c167607f15"
+  }
+}

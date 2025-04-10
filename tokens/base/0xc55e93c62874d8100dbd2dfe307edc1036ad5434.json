@@ -1,0 +1,17 @@
+{
+  "symbol": "mooBIFI",
+  "name": "Moo BIFI",
+  "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32597/thumb/319381e63428d3c2ab6e035d5f3abd76.png?1698682355",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbeef8e0982874e0292e6c5751c5a4092b3e1beef",
+    "optimistic-ethereum": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
+    "base": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434"
+  }
+}

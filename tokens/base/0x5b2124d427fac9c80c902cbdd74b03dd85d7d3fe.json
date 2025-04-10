@@ -1,0 +1,18 @@
+{
+  "symbol": "DYP",
+  "name": "Dypius",
+  "address": "0x5b2124d427fac9c80c902cbdd74b03dd85d7d3fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33016/thumb/RS-zDhFE_400x400.jpg?1700157370",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3",
+    "binance-smart-chain": "0x1a3264f2e7b1cfc6220ec9348d33ccf02af7aaa4",
+    "avalanche": "0x1a3264f2e7b1cfc6220ec9348d33ccf02af7aaa4",
+    "base": "0x5b2124d427fac9c80c902cbdd74b03dd85d7d3fe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ARARA",
+  "name": "Araracoin",
+  "address": "0xda05ca5303d75f14e298fb8aeff51fd2f2105803",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54852/thumb/logo_200_200_stxqsn.png?1742105177",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xda05ca5303d75f14e298fb8aeff51fd2f2105803"
+  }
+}

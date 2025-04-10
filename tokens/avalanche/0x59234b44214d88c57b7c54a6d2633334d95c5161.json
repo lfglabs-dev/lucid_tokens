@@ -1,0 +1,16 @@
+{
+  "symbol": "NUMI",
+  "name": "NUMINE Token",
+  "address": "0x59234b44214d88c57b7c54a6d2633334d95c5161",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55029/thumb/Token_Logo_NUMI_200.png?1743320367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa29c9a740de8194e4016747e9a04a84946ada0a5",
+    "avalanche": "0x59234b44214d88c57b7c54a6d2633334d95c5161"
+  }
+}

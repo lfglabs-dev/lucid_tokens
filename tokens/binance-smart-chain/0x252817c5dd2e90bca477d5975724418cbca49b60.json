@@ -1,0 +1,15 @@
+{
+  "symbol": "NEZHA",
+  "name": "NEZHA",
+  "address": "0x252817c5dd2e90bca477d5975724418cbca49b60",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54346/thumb/1000005913.jpg?1739368737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x252817c5dd2e90bca477d5975724418cbca49b60"
+  }
+}

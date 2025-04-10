@@ -1,0 +1,15 @@
+{
+  "symbol": "KEPT",
+  "name": "KeptChain",
+  "address": "0x8a9430e92153c026092544444cbb38077e6688d1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38406/thumb/Kept_200_200.png?1717463539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8a9430e92153c026092544444cbb38077e6688d1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wow",
+  "name": "wow",
+  "address": "0x8216e8143902a8fe0b676006bc25eb23829c123d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51527/thumb/23bafybeialew5mz6o2d6abynkd7kafunbgcgxcatyjdr5s2mgr4ae4zeltwe_%281%29.jpg?1731497334",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8216e8143902a8fe0b676006bc25eb23829c123d"
+  }
+}

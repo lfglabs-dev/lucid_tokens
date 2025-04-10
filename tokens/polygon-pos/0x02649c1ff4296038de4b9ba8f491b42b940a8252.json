@@ -1,0 +1,15 @@
+{
+  "symbol": "XGEM",
+  "name": "Exchange Genesis Ethlas Medium",
+  "address": "0x02649c1ff4296038de4b9ba8f491b42b940a8252",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22535/thumb/17200.png?1642023748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x02649c1ff4296038de4b9ba8f491b42b940a8252"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MHCASH",
+  "name": "MHCASH",
+  "address": "0xd58b8747307936d1324bf8c40f45687c7bacc6b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32540/thumb/icon256.png?1698473190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd58b8747307936d1324bf8c40f45687c7bacc6b9"
+  }
+}

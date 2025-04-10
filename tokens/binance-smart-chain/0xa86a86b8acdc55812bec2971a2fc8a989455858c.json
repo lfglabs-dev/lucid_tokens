@@ -1,0 +1,15 @@
+{
+  "symbol": "DSC",
+  "name": "DSFS Coin",
+  "address": "0xa86a86b8acdc55812bec2971a2fc8a989455858c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39942/thumb/1.png?1724885232",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa86a86b8acdc55812bec2971a2fc8a989455858c"
+  }
+}

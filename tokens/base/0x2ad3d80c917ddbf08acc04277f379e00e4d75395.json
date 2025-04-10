@@ -1,0 +1,15 @@
+{
+  "symbol": "COW",
+  "name": "COW",
+  "address": "0x2ad3d80c917ddbf08acc04277f379e00e4d75395",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39745/thumb/CrashCowLogo200p.png?1723781632",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2ad3d80c917ddbf08acc04277f379e00e4d75395"
+  }
+}

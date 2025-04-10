@@ -1,0 +1,15 @@
+{
+  "symbol": "MONK",
+  "name": "0xMonk by Virtuals",
+  "address": "0x06abb84958029468574b28b6e7792a770ccaa2f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53683/thumb/icon.png?1737015961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x06abb84958029468574b28b6e7792a770ccaa2f6"
+  }
+}

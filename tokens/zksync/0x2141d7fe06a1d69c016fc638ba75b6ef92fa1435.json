@@ -1,0 +1,15 @@
+{
+  "symbol": "ZKID",
+  "name": "zkSync id",
+  "address": "0x2141d7fe06a1d69c016fc638ba75b6ef92fa1435",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30115/thumb/logo_transparent.png?1683108210",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x2141d7fe06a1d69c016fc638ba75b6ef92fa1435"
+  }
+}

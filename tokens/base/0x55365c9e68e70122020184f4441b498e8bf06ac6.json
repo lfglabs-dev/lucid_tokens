@@ -1,0 +1,17 @@
+{
+  "symbol": "QWLA",
+  "name": "Qawalla Token",
+  "address": "0x55365c9e68e70122020184f4441b498e8bf06ac6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15242/thumb/qwla.png?1648268288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2",
+    "base": "0x55365c9e68e70122020184f4441b498e8bf06ac6",
+    "polygon-pos": "0x4fafad147c8cd0e52f83830484d164e960bdc6c3"
+  }
+}

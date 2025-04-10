@@ -1,0 +1,15 @@
+{
+  "symbol": "BTL",
+  "name": "Battle Saga",
+  "address": "0x708955db0d4c52ffbf9aa34af7f3ca8bf07390a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21990/thumb/200x200.png?1640581733",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x708955db0d4c52ffbf9aa34af7f3ca8bf07390a8"
+  }
+}

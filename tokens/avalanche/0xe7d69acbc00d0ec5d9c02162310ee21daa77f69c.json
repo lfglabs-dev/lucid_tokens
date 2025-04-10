@@ -1,0 +1,15 @@
+{
+  "symbol": "COQAI",
+  "name": "COQ AI",
+  "address": "0xe7d69acbc00d0ec5d9c02162310ee21daa77f69c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53363/thumb/coqaicircleimage200.png?1736196180",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe7d69acbc00d0ec5d9c02162310ee21daa77f69c"
+  }
+}

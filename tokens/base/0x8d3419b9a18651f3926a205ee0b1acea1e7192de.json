@@ -1,0 +1,15 @@
+{
+  "symbol": "LOA",
+  "name": "Law of  Attraction",
+  "address": "0x8d3419b9a18651f3926a205ee0b1acea1e7192de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38008/thumb/1.png?1716270777",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8d3419b9a18651f3926a205ee0b1acea1e7192de"
+  }
+}

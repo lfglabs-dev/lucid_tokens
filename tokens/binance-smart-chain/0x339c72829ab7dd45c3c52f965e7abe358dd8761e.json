@@ -1,0 +1,15 @@
+{
+  "symbol": "WANA",
+  "name": "Wanaka Farm",
+  "address": "0x339c72829ab7dd45c3c52f965e7abe358dd8761e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18020/thumb/wanaka.PNG?1630282979",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x339c72829ab7dd45c3c52f965e7abe358dd8761e"
+  }
+}

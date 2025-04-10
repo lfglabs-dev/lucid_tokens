@@ -1,0 +1,15 @@
+{
+  "symbol": "CPI",
+  "name": "CPI Token",
+  "address": "0xf7b4113896234f1ed53a40ee7f884ca61ac9282c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51112/thumb/CPI-01.png?1730116435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf7b4113896234f1ed53a40ee7f884ca61ac9282c"
+  }
+}

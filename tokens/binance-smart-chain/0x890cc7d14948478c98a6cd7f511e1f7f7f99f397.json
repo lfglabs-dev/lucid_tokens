@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFU",
+  "name": "StaySAFU Token",
+  "address": "0x890cc7d14948478c98a6cd7f511e1f7f7f99f397",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17781/thumb/staysafu.PNG?1629247764",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x890cc7d14948478c98a6cd7f511e1f7f7f99f397"
+  }
+}

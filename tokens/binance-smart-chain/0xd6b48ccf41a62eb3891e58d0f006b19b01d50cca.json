@@ -1,0 +1,16 @@
+{
+  "symbol": "SERAPH",
+  "name": "SERAPH",
+  "address": "0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53325/thumb/o39aNcS6_400x400.jpg?1736092811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca",
+    "ethereum": "0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca"
+  }
+}

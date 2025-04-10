@@ -1,0 +1,17 @@
+{
+  "symbol": "G",
+  "name": "Gravity",
+  "address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39200/thumb/gravity.jpg?1721020647",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+    "binance-smart-chain": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+    "base": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "amUSDC",
+  "name": "Aave Matic Market USDC",
+  "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17249/thumb/amUSDC_2x.png?1626941306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1a13f4ca1d028320a707d99520abfefca3998b7f"
+  }
+}

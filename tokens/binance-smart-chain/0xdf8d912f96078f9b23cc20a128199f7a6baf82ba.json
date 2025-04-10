@@ -1,0 +1,15 @@
+{
+  "symbol": "BHA",
+  "name": "BHA",
+  "address": "0xdf8d912f96078f9b23cc20a128199f7a6baf82ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39111/thumb/1000051241.jpg?1720586479",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf8d912f96078f9b23cc20a128199f7a6baf82ba"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FOMO",
+  "name": "FOMO Token",
+  "address": "0xa7ea9d5d4d4c7cf7dbde5871e6d108603c6942a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37673/thumb/200px.png?1715189071",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa7ea9d5d4d4c7cf7dbde5871e6d108603c6942a5"
+  }
+}

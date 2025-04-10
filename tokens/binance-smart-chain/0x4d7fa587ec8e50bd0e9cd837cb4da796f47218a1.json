@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFE",
+  "name": "SAFE(AnWang)",
+  "address": "0x4d7fa587ec8e50bd0e9cd837cb4da796f47218a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26604/thumb/logo.png?1658992439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4d7fa587ec8e50bd0e9cd837cb4da796f47218a1"
+  }
+}

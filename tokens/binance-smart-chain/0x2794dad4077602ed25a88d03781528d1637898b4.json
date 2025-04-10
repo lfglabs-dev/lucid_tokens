@@ -1,0 +1,16 @@
+{
+  "symbol": "VITE",
+  "name": "Vite",
+  "address": "0x2794dad4077602ed25a88d03781528d1637898b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4513/thumb/Vite.png?1558014583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
+    "binance-smart-chain": "0x2794dad4077602ed25a88d03781528d1637898b4"
+  }
+}

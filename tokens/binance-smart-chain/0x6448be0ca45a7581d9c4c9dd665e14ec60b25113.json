@@ -1,0 +1,15 @@
+{
+  "symbol": "BKPT",
+  "name": "Biokript",
+  "address": "0x6448be0ca45a7581d9c4c9dd665e14ec60b25113",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6448be0ca45a7581d9c4c9dd665e14ec60b25113"
+  }
+}

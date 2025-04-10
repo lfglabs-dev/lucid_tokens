@@ -1,0 +1,15 @@
+{
+  "symbol": "JYC",
+  "name": "Joe-Yo Coin",
+  "address": "0x13b8abb1cfd7bbe1f5764fe967ed049d488d9d1d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25337/thumb/Joe_Yo_Coin_200.png?1651299958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x13b8abb1cfd7bbe1f5764fe967ed049d488d9d1d"
+  }
+}

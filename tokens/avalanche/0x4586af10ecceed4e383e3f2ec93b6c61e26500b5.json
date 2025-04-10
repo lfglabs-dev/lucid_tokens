@@ -1,0 +1,15 @@
+{
+  "symbol": "HUNDRED",
+  "name": "HUNDRED",
+  "address": "0x4586af10ecceed4e383e3f2ec93b6c61e26500b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31876/thumb/img200.png?1695355084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x4586af10ecceed4e383e3f2ec93b6c61e26500b5"
+  }
+}

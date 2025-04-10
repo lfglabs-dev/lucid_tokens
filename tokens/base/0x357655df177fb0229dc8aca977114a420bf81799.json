@@ -1,0 +1,15 @@
+{
+  "symbol": "RFC",
+  "name": "ROYAL FINANCE COIN",
+  "address": "0x357655df177fb0229dc8aca977114a420bf81799",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39205/thumb/1718077177995-c26be60cfd1ba40772b5ac48b95ab19b.png?1721067386",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x357655df177fb0229dc8aca977114a420bf81799"
+  }
+}

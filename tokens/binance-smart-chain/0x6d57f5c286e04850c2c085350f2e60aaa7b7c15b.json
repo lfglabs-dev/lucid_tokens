@@ -1,0 +1,15 @@
+{
+  "symbol": "GrokGirl",
+  "name": "Grok Girl",
+  "address": "0x6d57f5c286e04850c2c085350f2e60aaa7b7c15b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33710/thumb/photo_2023-12-14_22.29.50.png?1702855105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d57f5c286e04850c2c085350f2e60aaa7b7c15b"
+  }
+}

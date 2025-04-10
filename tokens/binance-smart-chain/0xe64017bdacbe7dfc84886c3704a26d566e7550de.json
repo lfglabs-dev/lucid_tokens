@@ -1,0 +1,15 @@
+{
+  "symbol": "KKT",
+  "name": "Kingdom Karnage Token",
+  "address": "0xe64017bdacbe7dfc84886c3704a26d566e7550de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22598/thumb/KKT_200x200.png?1643193056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe64017bdacbe7dfc84886c3704a26d566e7550de"
+  }
+}

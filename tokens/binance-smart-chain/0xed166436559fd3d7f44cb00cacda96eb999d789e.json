@@ -1,0 +1,15 @@
+{
+  "symbol": "lpBNB",
+  "name": "Loop BNB - lpBNB",
+  "address": "0xed166436559fd3d7f44cb00cacda96eb999d789e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52728/thumb/lpBNB.png?1734101832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xed166436559fd3d7f44cb00cacda96eb999d789e"
+  }
+}

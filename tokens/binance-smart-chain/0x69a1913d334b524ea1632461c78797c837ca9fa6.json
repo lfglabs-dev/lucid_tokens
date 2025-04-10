@@ -1,0 +1,16 @@
+{
+  "symbol": "RFuel",
+  "name": "Rio Fuel Token",
+  "address": "0x69a1913d334b524ea1632461c78797c837ca9fa6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12623/thumb/RFUEL_SQR.png?1602481093",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+    "binance-smart-chain": "0x69a1913d334b524ea1632461c78797c837ca9fa6"
+  }
+}

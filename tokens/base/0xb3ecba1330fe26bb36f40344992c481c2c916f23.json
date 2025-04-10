@@ -1,0 +1,15 @@
+{
+  "symbol": "BDOGE",
+  "name": "Based Doge",
+  "address": "0xb3ecba1330fe26bb36f40344992c481c2c916f23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53027/thumb/coin.png?1735052684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb3ecba1330fe26bb36f40344992c481c2c916f23"
+  }
+}

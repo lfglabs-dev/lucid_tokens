@@ -1,0 +1,15 @@
+{
+  "symbol": "NURI",
+  "name": "NURI Token",
+  "address": "0xaaae8378809bb8815c08d3c59eb0c7d1529ad769",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38831/thumb/Nuri_token.png?1719192439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0xaaae8378809bb8815c08d3c59eb0c7d1529ad769"
+  }
+}

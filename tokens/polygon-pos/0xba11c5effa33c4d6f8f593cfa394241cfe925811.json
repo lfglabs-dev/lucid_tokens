@@ -1,0 +1,16 @@
+{
+  "symbol": "OUSG",
+  "name": "Ondo Short-Term U.S. Government Bond Fund",
+  "address": "0xba11c5effa33c4d6f8f593cfa394241cfe925811",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29023/thumb/OUSG.png?1676015920",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b19c19393e2d034d8ff31ff34c81252fcbbee92",
+    "polygon-pos": "0xba11c5effa33c4d6f8f593cfa394241cfe925811"
+  }
+}

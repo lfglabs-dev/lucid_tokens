@@ -1,0 +1,15 @@
+{
+  "symbol": "WODS",
+  "name": "WODS - Wolf of Dumb Street",
+  "address": "0x4398c398e5ac747e6d51bf1db1dac346ca90fee0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54163/thumb/WODSLOGO.png?1738482779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4398c398e5ac747e6d51bf1db1dac346ca90fee0"
+  }
+}

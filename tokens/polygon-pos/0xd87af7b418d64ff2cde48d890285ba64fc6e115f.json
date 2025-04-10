@@ -1,0 +1,15 @@
+{
+  "symbol": "DTEC",
+  "name": "DTEC",
+  "address": "0xd87af7b418d64ff2cde48d890285ba64fc6e115f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35304/thumb/WhatsApp_Image_2024-02-16_at_11.56.50.jpeg?1708154271",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd87af7b418d64ff2cde48d890285ba64fc6e115f"
+  }
+}

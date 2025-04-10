@@ -1,0 +1,15 @@
+{
+  "symbol": "GrokQueen",
+  "name": "Grok Queen",
+  "address": "0xbc5e9b2b222130115788139b495af4e1c6a70912",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbc5e9b2b222130115788139b495af4e1c6a70912"
+  }
+}

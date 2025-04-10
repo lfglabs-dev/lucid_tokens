@@ -1,0 +1,15 @@
+{
+  "symbol": "ATOZ",
+  "name": "Race_Kingdom",
+  "address": "0x3606f220daeaeb3d47ac1923a8ce2a61205c88cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26472/thumb/Race_Kingdom_Logo.png?1658195315",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3606f220daeaeb3d47ac1923a8ce2a61205c88cd"
+  }
+}

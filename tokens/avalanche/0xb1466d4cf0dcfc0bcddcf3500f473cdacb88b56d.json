@@ -1,0 +1,17 @@
+{
+  "symbol": "WET",
+  "name": "Weble Ecosystem Token",
+  "address": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17353/thumb/cropped-logo-wombat.png?1627368904",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
+    "binance-smart-chain": "0x632b8c4e95b2f8a9309417f8d990ab9c04c77369",
+    "polygon-pos": "0x632b8c4e95b2f8a9309417f8d990ab9c04c77369"
+  }
+}

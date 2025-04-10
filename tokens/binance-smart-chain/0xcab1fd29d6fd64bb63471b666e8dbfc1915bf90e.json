@@ -1,0 +1,15 @@
+{
+  "symbol": "MEGALAND",
+  "name": "METAGALAXY LAND",
+  "address": "0xcab1fd29d6fd64bb63471b666e8dbfc1915bf90e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20983/thumb/dud5mv4kNaj1PZwSQ3Eazt5voNIycBwyhJQFaXdE.png?1638165470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcab1fd29d6fd64bb63471b666e8dbfc1915bf90e"
+  }
+}

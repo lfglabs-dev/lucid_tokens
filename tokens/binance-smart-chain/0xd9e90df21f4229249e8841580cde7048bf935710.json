@@ -1,0 +1,15 @@
+{
+  "symbol": "$SHIELD",
+  "name": "Shield Protocol",
+  "address": "0xd9e90df21f4229249e8841580cde7048bf935710",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54405/thumb/IMG_8921.jpeg?1739520910",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9e90df21f4229249e8841580cde7048bf935710"
+  }
+}

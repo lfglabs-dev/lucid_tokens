@@ -1,0 +1,15 @@
+{
+  "symbol": "CITDEL",
+  "name": "Citadel by Virtuals",
+  "address": "0x4bf3ccf7da80751c0db8272ed54e2932900563a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53805/thumb/elephant-pfp.jpg?1737407061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4bf3ccf7da80751c0db8272ed54e2932900563a2"
+  }
+}

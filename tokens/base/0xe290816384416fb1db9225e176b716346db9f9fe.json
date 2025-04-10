@@ -1,0 +1,17 @@
+{
+  "symbol": "9MM",
+  "name": "9MM",
+  "address": "0xe290816384416fb1db9225e176b716346db9f9fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54791/thumb/9mm.jpg?1741590221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "pulsechain": "0x7b39712ef45f7dced2bbdf11f3d5046ba61da719",
+    "sonic": "0xc5cb0b67d24d72b9d86059344c88fb3ce93bf37c",
+    "base": "0xe290816384416fb1db9225e176b716346db9f9fe"
+  }
+}

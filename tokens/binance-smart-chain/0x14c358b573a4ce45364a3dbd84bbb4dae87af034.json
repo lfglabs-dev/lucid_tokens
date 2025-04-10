@@ -1,0 +1,15 @@
+{
+  "symbol": "DND",
+  "name": "DungeonSwap Token",
+  "address": "0x14c358b573a4ce45364a3dbd84bbb4dae87af034",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15207/thumb/logo-200x200.png?1620102338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x14c358b573a4ce45364a3dbd84bbb4dae87af034"
+  }
+}

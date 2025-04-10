@@ -1,0 +1,15 @@
+{
+  "symbol": "THG",
+  "name": "Thetan Gem",
+  "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18414/thumb/c4N4n8k-_400x400.png?1631831447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9fd87aefe02441b123c3c32466cd9db4c578618f"
+  }
+}

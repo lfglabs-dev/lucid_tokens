@@ -1,0 +1,15 @@
+{
+  "symbol": "BUMSHAFT",
+  "name": "Bumshaft",
+  "address": "0x381896019bb6f85747e114568488bb1c42ad4d8a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53809/thumb/Bumshaft.jpg?1737408742",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x381896019bb6f85747e114568488bb1c42ad4d8a"
+  }
+}

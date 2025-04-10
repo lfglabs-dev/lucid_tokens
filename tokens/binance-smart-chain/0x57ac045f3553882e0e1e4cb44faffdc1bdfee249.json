@@ -1,0 +1,15 @@
+{
+  "symbol": "COMA",
+  "name": "Compound Meta",
+  "address": "0x57ac045f3553882e0e1e4cb44faffdc1bdfee249",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28686/thumb/logo_%283%29.png?1673358054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57ac045f3553882e0e1e4cb44faffdc1bdfee249"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "vETH",
+  "name": "Venus ETH",
+  "address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13900/thumb/venus_eth.png?1612773542",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8"
+  }
+}

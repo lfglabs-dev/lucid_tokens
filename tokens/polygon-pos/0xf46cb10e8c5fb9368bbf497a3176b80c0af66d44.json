@@ -1,0 +1,15 @@
+{
+  "symbol": "VP",
+  "name": "Vortex Protocol",
+  "address": "0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44",
+  "decimals": 11,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28122/thumb/vp.png?1667636113",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wROSE",
+  "name": "Wrapped ROSE",
+  "address": "0xf00600ebc7633462bc4f9c61ea2ce99f5aaebd4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13162/thumb/rose.png?1605772906",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf00600ebc7633462bc4f9c61ea2ce99f5aaebd4a"
+  }
+}

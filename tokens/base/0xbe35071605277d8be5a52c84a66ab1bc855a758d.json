@@ -1,0 +1,16 @@
+{
+  "symbol": "B4FWX",
+  "name": "Be For FWX",
+  "address": "0xbe35071605277d8be5a52c84a66ab1bc855a758d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38663/thumb/B4FWX_Logo-02_200x200.png?1718256956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x13b1f0579bc895b2ffb835f295fd9b63fef36da0",
+    "base": "0xbe35071605277d8be5a52c84a66ab1bc855a758d"
+  }
+}

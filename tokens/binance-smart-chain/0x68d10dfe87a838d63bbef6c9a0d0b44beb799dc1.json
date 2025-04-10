@@ -1,0 +1,15 @@
+{
+  "symbol": "MTG",
+  "name": "MagnetGold",
+  "address": "0x68d10dfe87a838d63bbef6c9a0d0b44beb799dc1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19302/thumb/mtg.PNG?1634917649",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x68d10dfe87a838d63bbef6c9a0d0b44beb799dc1"
+  }
+}

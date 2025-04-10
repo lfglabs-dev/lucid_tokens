@@ -1,0 +1,15 @@
+{
+  "symbol": "ATHENA",
+  "name": "Athena by Virtuals",
+  "address": "0x1a43287cbfcc5f35082e6e2aa98e5b474fe7bd4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52006/thumb/athenalogo.png?1732304469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1a43287cbfcc5f35082e6e2aa98e5b474fe7bd4e"
+  }
+}

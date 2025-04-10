@@ -1,0 +1,18 @@
+{
+  "symbol": "FPI",
+  "name": "Frax Price Index",
+  "address": "0x2dd1b4d4548accea497050619965f91f78b3b532",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24945/thumb/fpi.png?1649485834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
+    "fraxtal": "0xfc00000000000000000000000000000000000003",
+    "binance-smart-chain": "0x2dd1b4d4548accea497050619965f91f78b3b532",
+    "arbitrum-one": "0x1b01514a2b3cdef16fd3c680a818a0ab97da8a09"
+  }
+}

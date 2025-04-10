@@ -1,0 +1,15 @@
+{
+  "symbol": "EBC",
+  "name": "Epic Ballad Coin",
+  "address": "0x3f7ca3e85305aed836636999d054519f6ccc4056",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51170/thumb/EBC.png?1730268485",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3f7ca3e85305aed836636999d054519f6ccc4056"
+  }
+}

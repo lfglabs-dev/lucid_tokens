@@ -1,0 +1,15 @@
+{
+  "symbol": "wsuperOETHb",
+  "name": "Wrapped Super OETH",
+  "address": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39829/thumb/Wrapped_Super_OETH.png?1724208632",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6"
+  }
+}

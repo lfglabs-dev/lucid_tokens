@@ -1,0 +1,18 @@
+{
+  "symbol": "clBTC",
+  "name": "clBTC",
+  "address": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
+    "arbitrum-one": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+    "optimistic-ethereum": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+    "ethereum": "0xe7ae30c03395d66f30a26c49c91edae151747911"
+  }
+}

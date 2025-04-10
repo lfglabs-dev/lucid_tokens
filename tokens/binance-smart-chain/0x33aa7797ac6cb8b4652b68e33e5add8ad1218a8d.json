@@ -1,0 +1,15 @@
+{
+  "symbol": "AQDC",
+  "name": "AQDC",
+  "address": "0x33aa7797ac6cb8b4652b68e33e5add8ad1218a8d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25771/thumb/aqdc.png?1653624068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x33aa7797ac6cb8b4652b68e33e5add8ad1218a8d"
+  }
+}

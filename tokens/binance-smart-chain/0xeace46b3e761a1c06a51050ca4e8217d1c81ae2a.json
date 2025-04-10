@@ -1,0 +1,15 @@
+{
+  "symbol": "FINA",
+  "name": "Lufina",
+  "address": "0xeace46b3e761a1c06a51050ca4e8217d1c81ae2a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51468/thumb/200x200.png?1731337947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeace46b3e761a1c06a51050ca4e8217d1c81ae2a"
+  }
+}

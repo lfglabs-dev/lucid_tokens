@@ -1,0 +1,15 @@
+{
+  "symbol": "RAMEN",
+  "name": "Ramen Token",
+  "address": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54443/thumb/rsz_tokens_1.png?1739772470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7"
+  }
+}

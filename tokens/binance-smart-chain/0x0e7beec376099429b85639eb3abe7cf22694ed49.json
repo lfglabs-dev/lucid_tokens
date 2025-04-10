@@ -1,0 +1,15 @@
+{
+  "symbol": "BUNI",
+  "name": "Buni Token",
+  "address": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17366/thumb/buni.PNG?1627436421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0e7beec376099429b85639eb3abe7cf22694ed49"
+  }
+}

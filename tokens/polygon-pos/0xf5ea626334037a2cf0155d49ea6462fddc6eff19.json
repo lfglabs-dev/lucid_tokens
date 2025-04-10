@@ -1,0 +1,15 @@
+{
+  "symbol": "SPADE",
+  "name": "PolygonFarm Finance",
+  "address": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17364/thumb/Polygon-Farm-Finance-Logo-200x200.png?1627389003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19"
+  }
+}

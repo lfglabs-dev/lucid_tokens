@@ -1,0 +1,15 @@
+{
+  "symbol": "ZF",
+  "name": "zkSwap Finance",
+  "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31633/thumb/zf.png?1694077015",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PRPS",
+  "name": "Purpose",
+  "address": "0x972999c58bbce63a2e398d4ed3bde414b8349eb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2539/thumb/purpose.png?1547036654",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x972999c58bbce63a2e398d4ed3bde414b8349eb3"
+  }
+}

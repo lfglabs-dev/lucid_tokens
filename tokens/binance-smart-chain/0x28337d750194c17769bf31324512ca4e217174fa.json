@@ -1,0 +1,15 @@
+{
+  "symbol": "DTNG",
+  "name": "DTNGToken",
+  "address": "0x28337d750194c17769bf31324512ca4e217174fa",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24128/thumb/dtng.png?1646467707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x28337d750194c17769bf31324512ca4e217174fa"
+  }
+}

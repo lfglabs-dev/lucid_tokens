@@ -1,0 +1,15 @@
+{
+  "symbol": "STAKELAYER",
+  "name": "StakeLayer",
+  "address": "0xde8e272ed57488c817b9023c1b2d3e1923ccab86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50635/thumb/20241009_112455_0000.png?1728546877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde8e272ed57488c817b9023c1b2d3e1923ccab86"
+  }
+}

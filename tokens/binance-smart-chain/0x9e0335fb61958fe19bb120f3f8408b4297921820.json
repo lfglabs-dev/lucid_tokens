@@ -1,0 +1,15 @@
+{
+  "symbol": "FFE",
+  "name": "FORBIDDEN FRUIT ENERGY",
+  "address": "0x9e0335fb61958fe19bb120f3f8408b4297921820",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30453/thumb/FFE_TOKEN.png?1684491407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9e0335fb61958fe19bb120f3f8408b4297921820"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CLANKSTER",
+  "name": "Clankster",
+  "address": "0x3e1a6d23303be04403badc8bff348027148fef27",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53806/thumb/Clankster.jpg?1737408033",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3e1a6d23303be04403badc8bff348027148fef27"
+  }
+}

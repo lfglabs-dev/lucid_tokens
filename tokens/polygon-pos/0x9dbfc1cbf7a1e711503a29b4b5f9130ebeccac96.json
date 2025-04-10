@@ -1,0 +1,15 @@
+{
+  "symbol": "UPO",
+  "name": "UpOnly",
+  "address": "0x9dbfc1cbf7a1e711503a29b4b5f9130ebeccac96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24900/thumb/f-WNwLNJ_400x400.jpg?1649323846",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x9dbfc1cbf7a1e711503a29b4b5f9130ebeccac96"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SWCH",
+  "name": "SwissCheese Token",
+  "address": "0x3ce1327867077b551ae9a6987bf10c9fd08edce1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31344/thumb/IMG_7198.jpeg?1692606890",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3ce1327867077b551ae9a6987bf10c9fd08edce1"
+  }
+}

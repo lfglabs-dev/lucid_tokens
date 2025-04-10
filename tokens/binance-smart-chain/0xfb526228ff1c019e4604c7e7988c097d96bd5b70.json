@@ -1,0 +1,15 @@
+{
+  "symbol": "VGO",
+  "name": "Virgo Token",
+  "address": "0xfb526228ff1c019e4604c7e7988c097d96bd5b70",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19209/thumb/vgoLogo200.png?1634689795",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfb526228ff1c019e4604c7e7988c097d96bd5b70"
+  }
+}

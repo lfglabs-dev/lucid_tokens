@@ -1,0 +1,17 @@
+{
+  "symbol": "ankrMATIC",
+  "name": "Ankr Staked MATIC",
+  "address": "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25742/thumb/a-matic-c-da4ec10dc9723e695700e25dbf8c8edf.png?1653462321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58",
+    "ethereum": "0x26dcfbfa8bc267b250432c01c982eaf81cc5480c",
+    "binance-smart-chain": "0x738d96caf7096659db4c1afbf1e1bdfd281f388c"
+  }
+}

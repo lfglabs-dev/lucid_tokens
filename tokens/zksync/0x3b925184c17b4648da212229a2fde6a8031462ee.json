@@ -1,0 +1,15 @@
+{
+  "symbol": "DUDIEZ",
+  "name": "Dudiez Meme Token",
+  "address": "0x3b925184c17b4648da212229a2fde6a8031462ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36310/thumb/dudProfile.jpg?1711090369",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x3b925184c17b4648da212229a2fde6a8031462ee"
+  }
+}

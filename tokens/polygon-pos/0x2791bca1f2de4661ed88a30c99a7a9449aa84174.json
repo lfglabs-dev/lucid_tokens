@@ -1,0 +1,15 @@
+{
+  "symbol": "USDC",
+  "name": "USD Coin (PoS)",
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33000/thumb/usdc.png?1700119918",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "WECO",
+  "name": "WECOIN",
+  "address": "0x5d37abafd5498b0e7af753a2e83bd4f0335aa89f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30644/thumb/wecoin-logo-200x200.png?1686039111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5d37abafd5498b0e7af753a2e83bd4f0335aa89f"
+  }
+}

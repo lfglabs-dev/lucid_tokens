@@ -1,0 +1,15 @@
+{
+  "symbol": "MVTT10F",
+  "name": "MarketVector Token Terminal Fundamental Index",
+  "address": "0xe8b46b116d3bdfa787ce9cf3f5acc78dc7ca380e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54605/thumb/MV-logo.png?1740639926",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe8b46b116d3bdfa787ce9cf3f5acc78dc7ca380e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GBD",
+  "name": "Great Bounty Dealer",
+  "address": "0xdf7434d15656809f56dd17371b2339baacd9b494",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19686/thumb/13606.png?1635746153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf7434d15656809f56dd17371b2339baacd9b494"
+  }
+}

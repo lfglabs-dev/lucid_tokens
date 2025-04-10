@@ -1,0 +1,15 @@
+{
+  "symbol": "SGT",
+  "name": "SPACEGOAT TOKEN",
+  "address": "0x783fe4a84645431b31b914b609b86127b96057ea",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16077/thumb/Space-Goat-200-x-200-01.png?1622772917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x783fe4a84645431b31b914b609b86127b96057ea"
+  }
+}

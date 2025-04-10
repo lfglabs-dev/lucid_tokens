@@ -1,0 +1,15 @@
+{
+  "symbol": "RYIU",
+  "name": "RYIU Token",
+  "address": "0x5dc2085fe510bbaaba2119d71b09c25098caca3f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14512/thumb/ryi-unity_logo.png?1616633237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5dc2085fe510bbaaba2119d71b09c25098caca3f"
+  }
+}

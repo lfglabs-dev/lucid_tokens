@@ -1,0 +1,15 @@
+{
+  "symbol": "MOE",
+  "name": "Moe Token",
+  "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "FRF",
+  "name": "France REV Finance",
+  "address": "0x99083d1b9c6744c71d0cf70b8965faca37684527",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22224/thumb/LOGO200_FRF.png?1641218289",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5a29c96fa93ffa8845fb7f8616a03aa85fcc11d6",
+    "coinex-smart-chain": "0x99083d1b9c6744c71d0cf70b8965faca37684527",
+    "avalanche": "0x99083d1b9c6744c71d0cf70b8965faca37684527",
+    "polygon-pos": "0x99083d1b9c6744c71d0cf70b8965faca37684527"
+  }
+}

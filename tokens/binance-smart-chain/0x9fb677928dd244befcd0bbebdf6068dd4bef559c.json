@@ -1,0 +1,15 @@
+{
+  "symbol": "Aqua",
+  "name": "BelaAqua",
+  "address": "0x9fb677928dd244befcd0bbebdf6068dd4bef559c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15566/thumb/d5bnQ0H.png?1625578396",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9fb677928dd244befcd0bbebdf6068dd4bef559c"
+  }
+}

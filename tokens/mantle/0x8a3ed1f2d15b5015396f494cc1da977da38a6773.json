@@ -1,0 +1,16 @@
+{
+  "symbol": "NTGL",
+  "name": "Entangle",
+  "address": "0x8a3ed1f2d15b5015396f494cc1da977da38a6773",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34522/thumb/entangle.jpeg?1705302451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x12652c6d93fdb6f4f37d48a8687783c782bb0d10",
+    "mantle": "0x8a3ed1f2d15b5015396f494cc1da977da38a6773"
+  }
+}

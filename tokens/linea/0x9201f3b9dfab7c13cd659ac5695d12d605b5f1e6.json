@@ -1,0 +1,15 @@
+{
+  "symbol": "ECP",
+  "name": "ECP",
+  "address": "0x9201f3b9dfab7c13cd659ac5695d12d605b5f1e6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31112/thumb/EchoDex.logo.200x200_%281%29.png?1690525270",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x9201f3b9dfab7c13cd659ac5695d12d605b5f1e6"
+  }
+}

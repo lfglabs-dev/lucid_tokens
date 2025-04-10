@@ -1,0 +1,15 @@
+{
+  "symbol": "X314",
+  "name": "X314",
+  "address": "0x40ba01da634a189d248fb1ee47141a4e11cd94bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52542/thumb/200.png?1733587249",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x40ba01da634a189d248fb1ee47141a4e11cd94bd"
+  }
+}

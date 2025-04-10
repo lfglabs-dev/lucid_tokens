@@ -1,0 +1,15 @@
+{
+  "symbol": "JK",
+  "name": "JK COIN",
+  "address": "0x1ec58fe5e681e35e490b5d4cbecdf42b29c1b063",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20392/thumb/14488.png?1636962392",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ec58fe5e681e35e490b5d4cbecdf42b29c1b063"
+  }
+}

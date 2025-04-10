@@ -1,0 +1,15 @@
+{
+  "symbol": "AIS",
+  "name": "AI Swap",
+  "address": "0x8974769bcfc2715fcabcfe4341ba4fcc804abcd8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31487/thumb/aiswap-logo-200x200.png?1693316954",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8974769bcfc2715fcabcfe4341ba4fcc804abcd8"
+  }
+}

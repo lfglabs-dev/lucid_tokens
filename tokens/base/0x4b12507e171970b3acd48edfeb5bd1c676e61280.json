@@ -1,0 +1,15 @@
+{
+  "symbol": "IVT",
+  "name": "ivault Token",
+  "address": "0x4b12507e171970b3acd48edfeb5bd1c676e61280",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53215/thumb/ivault_Token_logo_200x200.png?1735674471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4b12507e171970b3acd48edfeb5bd1c676e61280"
+  }
+}

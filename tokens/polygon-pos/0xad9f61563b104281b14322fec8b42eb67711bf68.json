@@ -1,0 +1,15 @@
+{
+  "symbol": "SNG",
+  "name": "Synergy Land Token",
+  "address": "0xad9f61563b104281b14322fec8b42eb67711bf68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30471/thumb/15919.png?1684671822",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xad9f61563b104281b14322fec8b42eb67711bf68"
+  }
+}

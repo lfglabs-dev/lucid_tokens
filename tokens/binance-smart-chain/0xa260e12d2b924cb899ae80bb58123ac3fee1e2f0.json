@@ -1,0 +1,15 @@
+{
+  "symbol": "HOOK",
+  "name": "Hook Token",
+  "address": "0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28288/thumb/hooked2.png?1669195270",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0"
+  }
+}

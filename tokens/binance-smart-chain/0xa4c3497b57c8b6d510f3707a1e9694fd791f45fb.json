@@ -1,0 +1,15 @@
+{
+  "symbol": "VON",
+  "name": "Vameon",
+  "address": "0xa4c3497b57c8b6d510f3707a1e9694fd791f45fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53046/thumb/200x200.png?1735146321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa4c3497b57c8b6d510f3707a1e9694fd791f45fb"
+  }
+}

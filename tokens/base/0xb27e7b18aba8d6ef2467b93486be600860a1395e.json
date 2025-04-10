@@ -1,0 +1,15 @@
+{
+  "symbol": "5TARS",
+  "name": "5TARS Token",
+  "address": "0xb27e7b18aba8d6ef2467b93486be600860a1395e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54199/thumb/5tars_token_S.png?1738749419",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb27e7b18aba8d6ef2467b93486be600860a1395e"
+  }
+}

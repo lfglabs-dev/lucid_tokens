@@ -1,0 +1,16 @@
+{
+  "symbol": "av3CRV",
+  "name": "Curve.fi avDAI/avUSDC/avUSDT",
+  "address": "0x1337bedc9d22ecbe766df105c9623922a27963ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12972/thumb/3pool_128.png?1603948039",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "avalanche": "0x1337bedc9d22ecbe766df105c9623922a27963ec"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AGT",
+  "name": "AvataGo",
+  "address": "0x49074051ad996828504d7f719fc5769ac942220d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34544/thumb/Image_2024-01-14_at_16.36.jpeg?1705340501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x49074051ad996828504d7f719fc5769ac942220d"
+  }
+}

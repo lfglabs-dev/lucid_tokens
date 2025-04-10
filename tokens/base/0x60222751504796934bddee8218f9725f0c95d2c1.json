@@ -1,0 +1,15 @@
+{
+  "symbol": "SIMP",
+  "name": "Simps Token",
+  "address": "0x60222751504796934bddee8218f9725f0c95d2c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51994/thumb/200.png?1732296595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x60222751504796934bddee8218f9725f0c95d2c1"
+  }
+}

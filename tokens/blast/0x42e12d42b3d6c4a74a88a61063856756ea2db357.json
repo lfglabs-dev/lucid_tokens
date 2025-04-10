@@ -1,0 +1,15 @@
+{
+  "symbol": "ORBIT",
+  "name": "Orbit Protocol",
+  "address": "0x42e12d42b3d6c4a74a88a61063856756ea2db357",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35675/thumb/orbit.png?1709520496",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x42e12d42b3d6c4a74a88a61063856756ea2db357"
+  }
+}

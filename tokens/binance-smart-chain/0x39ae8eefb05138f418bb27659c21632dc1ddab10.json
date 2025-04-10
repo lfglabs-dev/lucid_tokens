@@ -1,0 +1,16 @@
+{
+  "symbol": "KAI",
+  "name": "KardiaChain Token",
+  "address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7942/thumb/kai.png?1647079540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "kardiachain": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+    "binance-smart-chain": "0x39ae8eefb05138f418bb27659c21632dc1ddab10"
+  }
+}

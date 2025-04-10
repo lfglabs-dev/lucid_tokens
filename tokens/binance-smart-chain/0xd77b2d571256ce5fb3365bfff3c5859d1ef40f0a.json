@@ -1,0 +1,15 @@
+{
+  "symbol": "mCAKE",
+  "name": "mCakeToken",
+  "address": "0xd77b2d571256ce5fb3365bfff3c5859d1ef40f0a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50712/thumb/EasyCakeLogo.png?1728790082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd77b2d571256ce5fb3365bfff3c5859d1ef40f0a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$MFLATE",
+  "name": "Memeflate",
+  "address": "0xafe3321309a994831884fc1725f4c3236ac79f76",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19598/thumb/mflate.PNG?1635489960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xafe3321309a994831884fc1725f4c3236ac79f76"
+  }
+}

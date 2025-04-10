@@ -1,0 +1,15 @@
+{
+  "symbol": "EVO",
+  "name": "Devomon",
+  "address": "0xf2b688b2201979d44fdf18d1d8c641305cf560ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34687/thumb/Logo_Circle_Devomon_transparent-200x200.png?1705851262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf2b688b2201979d44fdf18d1d8c641305cf560ba"
+  }
+}

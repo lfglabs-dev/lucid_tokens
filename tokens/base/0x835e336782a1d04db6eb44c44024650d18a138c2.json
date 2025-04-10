@@ -1,0 +1,15 @@
+{
+  "symbol": "$BAGEL",
+  "name": "BAGEL",
+  "address": "0x835e336782a1d04db6eb44c44024650d18a138c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38158/thumb/_bagel_logo.png?1716669784",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x835e336782a1d04db6eb44c44024650d18a138c2"
+  }
+}

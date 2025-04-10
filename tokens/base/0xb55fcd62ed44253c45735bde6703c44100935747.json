@@ -1,0 +1,15 @@
+{
+  "symbol": "APL",
+  "name": "APOLLO AI by Virtuals",
+  "address": "0xb55fcd62ed44253c45735bde6703c44100935747",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54064/thumb/47dc8ba3-ccdc-4f1c-8b78-90d2c8690b69.png?1738138423",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb55fcd62ed44253c45735bde6703c44100935747"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AICell",
+  "name": "AICell",
+  "address": "0xde04da55b74435d7b9f2c5c62d9f1b53929b09aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52910/thumb/aqK6ODkn_400x400.jpg?1734647715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde04da55b74435d7b9f2c5c62d9f1b53929b09aa"
+  }
+}

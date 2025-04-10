@@ -1,0 +1,15 @@
+{
+  "symbol": "SML",
+  "name": "Smell Token",
+  "address": "0xfcb54da3f4193435184f3f647467e12b50754575",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32191/thumb/SML.jpg?1696744491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xfcb54da3f4193435184f3f647467e12b50754575"
+  }
+}

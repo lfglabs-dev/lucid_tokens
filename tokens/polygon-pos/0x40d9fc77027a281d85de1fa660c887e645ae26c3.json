@@ -1,0 +1,15 @@
+{
+  "symbol": "TRC",
+  "name": "MetaTrace",
+  "address": "0x40d9fc77027a281d85de1fa660c887e645ae26c3",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31427/thumb/MetaTrace.png?1692858491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x40d9fc77027a281d85de1fa660c887e645ae26c3"
+  }
+}

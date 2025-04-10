@@ -1,0 +1,18 @@
+{
+  "symbol": "INSUR",
+  "name": "Bsc-Peg INSUR Token",
+  "address": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14226/thumb/insur.png?1615124622",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+    "binance-smart-chain": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+    "avalanche": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+    "polygon-pos": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067"
+  }
+}

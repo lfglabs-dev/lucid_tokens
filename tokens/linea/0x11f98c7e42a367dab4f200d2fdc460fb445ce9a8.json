@@ -1,0 +1,15 @@
+{
+  "symbol": "SPARTA",
+  "name": "SPARTA",
+  "address": "0x11f98c7e42a367dab4f200d2fdc460fb445ce9a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30836/thumb/SpartaDex_200x200.jpg?1687769674",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x11f98c7e42a367dab4f200d2fdc460fb445ce9a8"
+  }
+}

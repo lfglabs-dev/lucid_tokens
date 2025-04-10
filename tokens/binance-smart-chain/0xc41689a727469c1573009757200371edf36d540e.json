@@ -1,0 +1,15 @@
+{
+  "symbol": "DYNA",
+  "name": "Dynamix",
+  "address": "0xc41689a727469c1573009757200371edf36d540e",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18747/thumb/12275.png?1633316967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc41689a727469c1573009757200371edf36d540e"
+  }
+}

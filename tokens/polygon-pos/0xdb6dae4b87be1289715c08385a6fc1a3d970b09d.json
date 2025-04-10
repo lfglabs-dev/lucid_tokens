@@ -1,0 +1,15 @@
+{
+  "symbol": "MOOVE",
+  "name": "MOOVE Protocol",
+  "address": "0xdb6dae4b87be1289715c08385a6fc1a3d970b09d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31549/thumb/Logo-Circle-Moove.png?1693795935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xdb6dae4b87be1289715c08385a6fc1a3d970b09d"
+  }
+}

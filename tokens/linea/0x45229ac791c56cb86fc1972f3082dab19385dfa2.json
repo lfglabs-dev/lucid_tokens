@@ -1,0 +1,15 @@
+{
+  "symbol": "FOXX",
+  "name": "Foxx Of Linea",
+  "address": "0x45229ac791c56cb86fc1972f3082dab19385dfa2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52863/thumb/Lx4ZUq5m_400x400.jpg?1734542667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x45229ac791c56cb86fc1972f3082dab19385dfa2"
+  }
+}

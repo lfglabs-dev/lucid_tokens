@@ -1,0 +1,16 @@
+{
+  "symbol": "LEGEND",
+  "name": "Legend",
+  "address": "0xc7837be3d71e00fcbe76d77602bcf353df859664",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53648/thumb/O4mqYoXG_400x400.jpg?1736983095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b1ff83ae0751ffb7ce0224e9c330e859e95dd16",
+    "base": "0xc7837be3d71e00fcbe76d77602bcf353df859664"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ELDA",
+  "name": "Eldarune",
+  "address": "0xab2ed911bdbea001fd3b29adbc35d8a76e68aae4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30335/thumb/hFHpfc5D_400x400.jpg?1684155742",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xab2ed911bdbea001fd3b29adbc35d8a76e68aae4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "FULA",
+  "name": "Functionland Fula",
+  "address": "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/24782/thumb/fula.png?1696523942",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb",
+    "ethereum": "0x92217ccaedbdbc54c76c15fea18823db1558fdc9"
+  }
+}

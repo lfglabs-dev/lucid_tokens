@@ -1,0 +1,15 @@
+{
+  "symbol": "DXCT",
+  "name": "DNAxCAT",
+  "address": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17603/thumb/dxct.png?1634545609",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5b1baec64af6dc54e6e04349315919129a6d3c23"
+  }
+}

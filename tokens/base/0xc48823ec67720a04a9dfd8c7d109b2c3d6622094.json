@@ -1,0 +1,15 @@
+{
+  "symbol": "MCADE",
+  "name": "Metacade",
+  "address": "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29764/thumb/IMG_20230407_190739_059.jpg?1681192683",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094"
+  }
+}

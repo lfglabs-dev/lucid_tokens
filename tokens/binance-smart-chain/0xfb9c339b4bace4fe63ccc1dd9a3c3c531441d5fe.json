@@ -1,0 +1,15 @@
+{
+  "symbol": "SHILL",
+  "name": "Shill",
+  "address": "0xfb9c339b4bace4fe63ccc1dd9a3c3c531441d5fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18176/thumb/SHILL_Logo.png?1630896205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfb9c339b4bace4fe63ccc1dd9a3c3c531441d5fe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "IRENA",
+  "name": "IRENA Green Energy",
+  "address": "0x9eeb6c5ff183e6001c65a12d70026b900ae76781",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24507/thumb/Adsiz-tasarim.png?1647884174",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9eeb6c5ff183e6001c65a12d70026b900ae76781"
+  }
+}

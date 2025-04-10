@@ -1,0 +1,15 @@
+{
+  "symbol": "FROG",
+  "name": "CRAZY FROG",
+  "address": "0x89eb6680c8d85d384c02059e4b07e4dd8535e549",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36926/thumb/photo_2024-04-01_16-12-15.jpg?1712800382",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x89eb6680c8d85d384c02059e4b07e4dd8535e549"
+  }
+}

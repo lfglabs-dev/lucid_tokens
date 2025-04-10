@@ -1,0 +1,15 @@
+{
+  "symbol": "PETS",
+  "name": "BNB Pets",
+  "address": "0xe21502db7b9c6a78ed9400e30c8521be84f2ca4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34392/thumb/BNB_Pets.png?1704784277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe21502db7b9c6a78ed9400e30c8521be84f2ca4f"
+  }
+}

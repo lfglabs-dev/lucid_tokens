@@ -1,0 +1,15 @@
+{
+  "symbol": "TRUNK",
+  "name": "Elephant Money Stable",
+  "address": "0xdd325c38b12903b727d16961e61333f4871a70e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39568/thumb/trunk-logo.png?1722929241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdd325c38b12903b727d16961e61333f4871a70e0"
+  }
+}

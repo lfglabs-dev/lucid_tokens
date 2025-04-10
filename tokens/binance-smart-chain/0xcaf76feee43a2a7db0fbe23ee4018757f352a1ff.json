@@ -1,0 +1,15 @@
+{
+  "symbol": "OPN",
+  "name": "Opinion Finance",
+  "address": "0xcaf76feee43a2a7db0fbe23ee4018757f352a1ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54324/thumb/opn-tokenlogo.png?1739290623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcaf76feee43a2a7db0fbe23ee4018757f352a1ff"
+  }
+}

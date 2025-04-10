@@ -1,0 +1,16 @@
+{
+  "symbol": "HTX",
+  "name": "HTX",
+  "address": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35491/thumb/Frame_1321318576.png?1708908626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
+    "binance-smart-chain": "0x61ec85ab89377db65762e234c946b5c25a56e99e"
+  }
+}

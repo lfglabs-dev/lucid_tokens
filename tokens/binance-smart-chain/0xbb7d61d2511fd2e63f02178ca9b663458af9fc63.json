@@ -1,0 +1,15 @@
+{
+  "symbol": "EXVG",
+  "name": "EXVERSE",
+  "address": "0xbb7d61d2511fd2e63f02178ca9b663458af9fc63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36815/thumb/IMG_20240405_031631_038.jpg?1712549088",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb7d61d2511fd2e63f02178ca9b663458af9fc63"
+  }
+}

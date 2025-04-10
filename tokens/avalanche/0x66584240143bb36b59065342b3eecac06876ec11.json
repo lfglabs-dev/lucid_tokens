@@ -1,0 +1,15 @@
+{
+  "symbol": "GOTS",
+  "name": "GOTS",
+  "address": "0x66584240143bb36b59065342b3eecac06876ec11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55003/thumb/logo.png?1743157298",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x66584240143bb36b59065342b3eecac06876ec11"
+  }
+}

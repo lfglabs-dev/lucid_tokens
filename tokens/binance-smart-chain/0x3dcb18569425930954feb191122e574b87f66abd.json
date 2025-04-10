@@ -1,0 +1,17 @@
+{
+  "symbol": "ORION",
+  "name": "Orion Money Token",
+  "address": "0x3dcb18569425930954feb191122e574b87f66abd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18630/thumb/YtrqPIWc.png?1632710781",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x727f064a78dc734d33eec18d5370aef32ffd46e4",
+    "binance-smart-chain": "0x3dcb18569425930954feb191122e574b87f66abd",
+    "polygon-pos": "0x5e0294af1732498c77f8db015a2d52a76298542b"
+  }
+}

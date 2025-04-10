@@ -1,0 +1,15 @@
+{
+  "symbol": "XRP",
+  "name": "XRP Token",
+  "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15458/thumb/ryyrCapt_400x400.jpg?1620895978",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+  }
+}

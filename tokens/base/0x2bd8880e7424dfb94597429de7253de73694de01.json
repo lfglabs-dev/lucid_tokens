@@ -1,0 +1,15 @@
+{
+  "symbol": "GIA",
+  "name": "Gia by DexFi",
+  "address": "0x2bd8880e7424dfb94597429de7253de73694de01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54203/thumb/Gia_Token_Icon.png?1738761416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2bd8880e7424dfb94597429de7253de73694de01"
+  }
+}

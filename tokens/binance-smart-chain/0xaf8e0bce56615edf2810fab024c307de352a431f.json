@@ -1,0 +1,15 @@
+{
+  "symbol": "CAT",
+  "name": "CAT INU",
+  "address": "0xaf8e0bce56615edf2810fab024c307de352a431f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31683/thumb/3E8C1EF1-8FE1-47D2-8FBF-2931F0E28CE3.jpeg?1694421722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaf8e0bce56615edf2810fab024c307de352a431f"
+  }
+}

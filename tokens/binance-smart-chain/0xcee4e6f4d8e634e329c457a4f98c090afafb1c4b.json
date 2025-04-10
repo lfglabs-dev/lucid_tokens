@@ -1,0 +1,15 @@
+{
+  "symbol": "2024",
+  "name": "2024 PUMP",
+  "address": "0xcee4e6f4d8e634e329c457a4f98c090afafb1c4b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33052/thumb/200x200_2024_logo.png?1700474858",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcee4e6f4d8e634e329c457a4f98c090afafb1c4b"
+  }
+}

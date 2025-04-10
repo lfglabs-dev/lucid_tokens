@@ -1,0 +1,15 @@
+{
+  "symbol": "CABO",
+  "name": "CatBonk",
+  "address": "0xdfaabaa57dec10c049335bdaa2e949b4ce2ead30",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20917/thumb/cabo.png?1637923769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdfaabaa57dec10c049335bdaa2e949b4ce2ead30"
+  }
+}

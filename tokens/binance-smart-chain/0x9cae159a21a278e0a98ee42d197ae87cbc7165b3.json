@@ -1,0 +1,15 @@
+{
+  "symbol": "GIA",
+  "name": "Gamia",
+  "address": "0x9cae159a21a278e0a98ee42d197ae87cbc7165b3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35821/thumb/Gia_Logo_200x200.jpg?1709886677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9cae159a21a278e0a98ee42d197ae87cbc7165b3"
+  }
+}

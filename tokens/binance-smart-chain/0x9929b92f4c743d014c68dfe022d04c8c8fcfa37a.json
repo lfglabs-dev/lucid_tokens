@@ -1,0 +1,17 @@
+{
+  "symbol": "1OpenX",
+  "name": "OpenSwap Token",
+  "address": "0x9929b92f4c743d014c68dfe022d04c8c8fcfa37a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19274/thumb/oswap_asset.96f04d15.png?1634869019",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "harmony-shard-0": "0x01a4b054110d57069c1658afbc46730529a3e326",
+    "ethereum": "0x57d579f483854c62fef850b8a5332b0d8424b7e2",
+    "binance-smart-chain": "0x9929b92f4c743d014c68dfe022d04c8c8fcfa37a"
+  }
+}

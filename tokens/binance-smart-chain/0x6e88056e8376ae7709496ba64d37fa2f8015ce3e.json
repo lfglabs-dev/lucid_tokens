@@ -1,0 +1,16 @@
+{
+  "symbol": "DEXE",
+  "name": "Dexe",
+  "address": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12713/thumb/logo_%2814%29.png?1601952779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
+    "binance-smart-chain": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CHONK",
+  "name": "CHONK",
+  "address": "0x6d22d3ed82c947be8860a86a69c4b0cb0f65589e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36695/thumb/CG_CHONK.png?1712116693",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6d22d3ed82c947be8860a86a69c4b0cb0f65589e"
+  }
+}

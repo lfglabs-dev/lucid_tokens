@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyTroll",
+  "name": "Baby Troll",
+  "address": "0x6ec07dbd9311975b8002079d70c6f6d9e3e1ee5c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35352/thumb/IMG_20240217_122157_879.png?1708359734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6ec07dbd9311975b8002079d70c6f6d9e3e1ee5c"
+  }
+}

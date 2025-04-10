@@ -1,0 +1,15 @@
+{
+  "symbol": "EXMPLR",
+  "name": "Exmplr.ai by Virtuals",
+  "address": "0xc95e16f99267d6112eadaa46140bea095c8c7ba5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53698/thumb/Exmplr_logo_white.png?1737065330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc95e16f99267d6112eadaa46140bea095c8c7ba5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SMURF",
+  "name": "Smurfs INU",
+  "address": "0x75afa9915b2210cd6329e820af0365e932bc1dd5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26804/thumb/200x200.png?1660207921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x75afa9915b2210cd6329e820af0365e932bc1dd5"
+  }
+}

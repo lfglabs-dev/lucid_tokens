@@ -1,0 +1,15 @@
+{
+  "symbol": "FaceDAO",
+  "name": "FaceDAO",
+  "address": "0xb700597d8425ced17677bc68042d7d92764acf59",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24309/thumb/Face.jpg?1647334941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb700597d8425ced17677bc68042d7d92764acf59"
+  }
+}

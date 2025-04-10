@@ -1,0 +1,15 @@
+{
+  "symbol": "evin",
+  "name": "evintoken",
+  "address": "0x269b7a30497f92ebf307e7467fd4f1210a6c36b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40139/thumb/logo200x200_%281%29.png?1725992180",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x269b7a30497f92ebf307e7467fd4f1210a6c36b6"
+  }
+}

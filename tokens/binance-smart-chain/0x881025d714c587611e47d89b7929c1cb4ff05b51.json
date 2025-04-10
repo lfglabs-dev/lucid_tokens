@@ -1,0 +1,15 @@
+{
+  "symbol": "Conscious",
+  "name": "Conscious Token",
+  "address": "0x881025d714c587611e47d89b7929c1cb4ff05b51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55111/thumb/conscious_token_logo.png?1743754945",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x881025d714c587611e47d89b7929c1cb4ff05b51"
+  }
+}

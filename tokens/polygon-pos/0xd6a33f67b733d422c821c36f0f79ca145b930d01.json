@@ -1,0 +1,16 @@
+{
+  "symbol": "AGLA",
+  "name": "Angola Coin (PoS)",
+  "address": "0xd6a33f67b733d422c821c36f0f79ca145b930d01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27547/thumb/8SGgovDI_400x400.png?1664441942",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd6a33f67b733d422c821c36f0f79ca145b930d01",
+    "ethereum": "0x1f7e5118521b550bb1a9b435727c003eb033fc51"
+  }
+}

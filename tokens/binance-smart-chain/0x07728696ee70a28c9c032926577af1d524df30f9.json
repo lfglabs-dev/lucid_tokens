@@ -1,0 +1,15 @@
+{
+  "symbol": "PLACE",
+  "name": "PlaceWar Governance Token",
+  "address": "0x07728696ee70a28c9c032926577af1d524df30f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19993/thumb/place.png?1636361494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07728696ee70a28c9c032926577af1d524df30f9"
+  }
+}

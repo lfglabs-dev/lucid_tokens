@@ -1,0 +1,15 @@
+{
+  "symbol": "NAWS",
+  "name": "NAWS.AI",
+  "address": "0x726a54e04f394b6e44e58a2d7cb0fec61361d10e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50559/thumb/naws_logo_01.png?1728370195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x726a54e04f394b6e44e58a2d7cb0fec61361d10e"
+  }
+}

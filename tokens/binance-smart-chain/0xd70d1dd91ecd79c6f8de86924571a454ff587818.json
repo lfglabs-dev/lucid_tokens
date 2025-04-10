@@ -1,0 +1,15 @@
+{
+  "symbol": "SLT",
+  "name": "Seedlaunch",
+  "address": "0xd70d1dd91ecd79c6f8de86924571a454ff587818",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29673/thumb/logosl.png?1680574970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd70d1dd91ecd79c6f8de86924571a454ff587818"
+  }
+}

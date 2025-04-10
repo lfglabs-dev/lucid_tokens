@@ -1,0 +1,15 @@
+{
+  "symbol": "Uni2",
+  "name": "Uni2Token",
+  "address": "0x9cd3ffb31c0bae5d0771ef48e735dc1ca2333275",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54685/thumb/Token_Uni200x200.png?1741001959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9cd3ffb31c0bae5d0771ef48e735dc1ca2333275"
+  }
+}

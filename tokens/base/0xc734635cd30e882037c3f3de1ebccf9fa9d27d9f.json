@@ -1,0 +1,15 @@
+{
+  "symbol": "LVLY",
+  "name": "LyvelyToken",
+  "address": "0xc734635cd30e882037c3f3de1ebccf9fa9d27d9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50215/thumb/symbol_color.png?1726436150",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc734635cd30e882037c3f3de1ebccf9fa9d27d9f"
+  }
+}

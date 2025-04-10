@@ -1,0 +1,15 @@
+{
+  "symbol": "BVM",
+  "name": "BasedVelocimeter",
+  "address": "0xd386a121991e51eab5e3433bf5b1cf4c8884b47a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31336/thumb/bvm_%281%29.png?1692598660",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd386a121991e51eab5e3433bf5b1cf4c8884b47a"
+  }
+}

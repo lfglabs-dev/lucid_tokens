@@ -1,0 +1,15 @@
+{
+  "symbol": "GOODLE",
+  "name": "Goodle",
+  "address": "0x9f235d23354857efe6c541db92a9ef1877689bcb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39688/thumb/Screenshot_2024-07-26_at_5.38.55_PM-removebg-preview.png?1723660779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9f235d23354857efe6c541db92a9ef1877689bcb"
+  }
+}

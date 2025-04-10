@@ -1,0 +1,16 @@
+{
+  "symbol": "GRAMP",
+  "name": "Gram Platinum",
+  "address": "0xe229b734251dd48dda27bb908d90329f229c3531",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34368/thumb/gramp.png?1704727504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe229b734251dd48dda27bb908d90329f229c3531",
+    "polygon-pos": "0xe229b734251dd48dda27bb908d90329f229c3531"
+  }
+}

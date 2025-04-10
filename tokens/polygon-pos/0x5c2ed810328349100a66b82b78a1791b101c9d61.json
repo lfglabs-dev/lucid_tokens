@@ -1,0 +1,15 @@
+{
+  "symbol": "amWBTC",
+  "name": "Aave Matic Market WBTC",
+  "address": "0x5c2ed810328349100a66b82b78a1791b101c9d61",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17265/thumb/amWBTC_2x.png?1626966974",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5c2ed810328349100a66b82b78a1791b101c9d61"
+  }
+}

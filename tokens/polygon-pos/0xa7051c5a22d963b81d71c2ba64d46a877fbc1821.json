@@ -1,0 +1,16 @@
+{
+  "symbol": "EROWAN",
+  "name": "SifChain (erowan) (PoS)",
+  "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14044/thumb/EROWAN.png?1614656300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+    "polygon-pos": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ARabbit",
+  "name": "Alpha Rabbit",
+  "address": "0x8668fc058ac48bc2a5696c2125b4ce38d4bd0223",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36893/thumb/1000010538.jpg?1712661041",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8668fc058ac48bc2a5696c2125b4ce38d4bd0223"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FORCE",
+  "name": "Force",
+  "address": "0x9ef1139e6b420cc929dd912a5a7adeced6f12e91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39483/thumb/CLONE_FORCE.jpg?1722482372",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9ef1139e6b420cc929dd912a5a7adeced6f12e91"
+  }
+}

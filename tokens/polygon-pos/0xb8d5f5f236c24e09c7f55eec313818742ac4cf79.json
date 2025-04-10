@@ -1,0 +1,15 @@
+{
+  "symbol": "VSX",
+  "name": "Versus-X",
+  "address": "0xb8d5f5f236c24e09c7f55eec313818742ac4cf79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36246/thumb/Token_Logo_Black.png?1710922117",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb8d5f5f236c24e09c7f55eec313818742ac4cf79"
+  }
+}

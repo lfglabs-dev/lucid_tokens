@@ -1,0 +1,15 @@
+{
+  "symbol": "Bunny",
+  "name": "Based Bunny",
+  "address": "0x75570e1189ffc1d63b3417cdf0889f87cd3e9bd1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37312/thumb/Untitled_%28200_x_200_px%29.png?1713953045",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x75570e1189ffc1d63b3417cdf0889f87cd3e9bd1"
+  }
+}

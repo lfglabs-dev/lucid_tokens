@@ -1,0 +1,15 @@
+{
+  "symbol": "IGUP",
+  "name": "IGUP Token",
+  "address": "0x522d0f9f3eff479a5b256bb1c1108f47b8e1a153",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28434/thumb/IGUP_500x500.png?1670566898",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x522d0f9f3eff479a5b256bb1c1108f47b8e1a153"
+  }
+}

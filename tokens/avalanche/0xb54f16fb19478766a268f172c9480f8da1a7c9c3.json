@@ -1,0 +1,15 @@
+{
+  "symbol": "TIME",
+  "name": "Time",
+  "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18126/thumb/time.PNG?1630621941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3"
+  }
+}

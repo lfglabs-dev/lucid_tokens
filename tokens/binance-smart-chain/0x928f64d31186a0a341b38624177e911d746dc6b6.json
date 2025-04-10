@@ -1,0 +1,15 @@
+{
+  "symbol": "EVLD",
+  "name": "EvoLoad",
+  "address": "0x928f64d31186a0a341b38624177e911d746dc6b6",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27770/thumb/photo_5854849223080655555_m_%281%29.jpg?1665723262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x928f64d31186a0a341b38624177e911d746dc6b6"
+  }
+}

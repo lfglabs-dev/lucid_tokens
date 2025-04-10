@@ -1,0 +1,17 @@
+{
+  "symbol": "ELAND",
+  "name": "Etherland (PoS)",
+  "address": "0xb0f61c597bbcc29f3f38396b01f9c0f0c2e8bff0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14432/thumb/eland.png?1616044253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33e07f5055173cf8febede8b21b12d1e2b523205",
+    "binance-smart-chain": "0x708cb02ad77e1b245b1640cee51b3cc844bcaef4",
+    "polygon-pos": "0xb0f61c597bbcc29f3f38396b01f9c0f0c2e8bff0"
+  }
+}

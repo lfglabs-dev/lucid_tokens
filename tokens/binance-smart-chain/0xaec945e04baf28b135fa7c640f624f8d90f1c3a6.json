@@ -1,0 +1,18 @@
+{
+  "symbol": "C98",
+  "name": "Coin98",
+  "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17117/thumb/logo.png?1626412904",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+    "tomochain": "0x0fd0288aaae91eaf935e2ec14b23486f86516c8c",
+    "ethereum": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+    "polygon-pos": "0x77f56cf9365955486b12c4816992388ee8606f0e"
+  }
+}

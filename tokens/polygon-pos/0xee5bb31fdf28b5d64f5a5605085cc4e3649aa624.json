@@ -1,0 +1,15 @@
+{
+  "symbol": "WBS",
+  "name": "WebSea",
+  "address": "0xee5bb31fdf28b5d64f5a5605085cc4e3649aa624",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33272/thumb/WBS-logo-png.png?1701327451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xee5bb31fdf28b5d64f5a5605085cc4e3649aa624"
+  }
+}

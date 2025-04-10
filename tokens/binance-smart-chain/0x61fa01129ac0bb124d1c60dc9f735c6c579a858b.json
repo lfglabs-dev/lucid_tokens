@@ -1,0 +1,16 @@
+{
+  "symbol": "KTE",
+  "name": "KyteOne",
+  "address": "0x61fa01129ac0bb124d1c60dc9f735c6c579a858b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25225/thumb/3l4OKCIt_400x400.png?1650935126",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x61fa01129ac0bb124d1c60dc9f735c6c579a858b",
+    "avalanche": "0x056d114ff1e01de3bca30f0efa3655df42880e5b"
+  }
+}

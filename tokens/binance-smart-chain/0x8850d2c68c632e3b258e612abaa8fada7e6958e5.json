@@ -1,0 +1,15 @@
+{
+  "symbol": "PIG",
+  "name": "Pig Token",
+  "address": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14338/thumb/pig.png?1638345420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5"
+  }
+}

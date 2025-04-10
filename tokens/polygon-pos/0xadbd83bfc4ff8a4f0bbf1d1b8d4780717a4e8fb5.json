@@ -1,0 +1,17 @@
+{
+  "symbol": "BLUES",
+  "name": "BLUES",
+  "address": "0xadbd83bfc4ff8a4f0bbf1d1b8d4780717a4e8fb5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25028/thumb/download.png?1649842139",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "milkomeda-cardano": "0x8c008bba2dd56b99f4a6ab276be3a478cb075f0c",
+    "ethereum": "0xce108380c39e4fe9dace9d5597e048bcc5ef743b",
+    "polygon-pos": "0xadbd83bfc4ff8a4f0bbf1d1b8d4780717a4e8fb5"
+  }
+}

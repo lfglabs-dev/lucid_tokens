@@ -1,0 +1,16 @@
+{
+  "symbol": "BCT",
+  "name": "Base Carbon Tonne",
+  "address": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19240/thumb/bct_exchange_enhanced.png?1641441498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2f800db0fdb5223b3c3f354886d907a671414a7f",
+    "base": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2"
+  }
+}

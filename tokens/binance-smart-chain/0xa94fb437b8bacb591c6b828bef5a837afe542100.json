@@ -1,0 +1,15 @@
+{
+  "symbol": "NZERO",
+  "name": "NETZERO",
+  "address": "0xa94fb437b8bacb591c6b828bef5a837afe542100",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27676/thumb/Untitled_design_%281%29.png?1665211424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa94fb437b8bacb591c6b828bef5a837afe542100"
+  }
+}

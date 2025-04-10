@@ -1,0 +1,15 @@
+{
+  "symbol": "FDX",
+  "name": "FDX",
+  "address": "0xe248c0bce837b8dfb21fdfa51fb31d22fbbb4380",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54497/thumb/Dextools_Banner.jpg?1740031533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe248c0bce837b8dfb21fdfa51fb31d22fbbb4380"
+  }
+}

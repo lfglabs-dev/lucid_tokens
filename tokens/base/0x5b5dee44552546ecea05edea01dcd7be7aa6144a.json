@@ -1,0 +1,15 @@
+{
+  "symbol": "TN100x",
+  "name": "The Next 100x Memecoin on Base",
+  "address": "0x5b5dee44552546ecea05edea01dcd7be7aa6144a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35729/thumb/tn100x-icon.png?1709664984",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5b5dee44552546ecea05edea01dcd7be7aa6144a"
+  }
+}

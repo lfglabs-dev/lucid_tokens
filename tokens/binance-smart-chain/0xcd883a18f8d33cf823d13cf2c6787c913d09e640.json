@@ -1,0 +1,15 @@
+{
+  "symbol": "TAL",
+  "name": "TalentIDO",
+  "address": "0xcd883a18f8d33cf823d13cf2c6787c913d09e640",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31596/thumb/Coin_logo_1.png?1693994633",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcd883a18f8d33cf823d13cf2c6787c913d09e640"
+  }
+}

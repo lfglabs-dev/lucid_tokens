@@ -1,0 +1,15 @@
+{
+  "symbol": "LGNS",
+  "name": "Longinus",
+  "address": "0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36514/thumb/1000000998.jpg?1711693105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01"
+  }
+}

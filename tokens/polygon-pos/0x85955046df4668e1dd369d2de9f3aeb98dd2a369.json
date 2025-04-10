@@ -1,0 +1,18 @@
+{
+  "symbol": "DPI",
+  "name": "DefiPulse Index (PoS)",
+  "address": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12465/thumb/defi_pulse_index_set.png?1600051053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+    "energi": "0x8b8e6090542b612b7e2d73a934f9f5ea7e9a40af",
+    "xdai": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
+    "polygon-pos": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369"
+  }
+}

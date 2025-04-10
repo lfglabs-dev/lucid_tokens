@@ -1,0 +1,15 @@
+{
+  "symbol": "ZP",
+  "name": "Z Protocol",
+  "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0x2147a89fb4608752807216d5070471c09a0dce32"
+  }
+}

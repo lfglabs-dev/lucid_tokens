@@ -1,0 +1,15 @@
+{
+  "symbol": "iBGT",
+  "name": "Infrared BGT",
+  "address": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54614/thumb/ibgt.jpg?1740718302",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b"
+  }
+}

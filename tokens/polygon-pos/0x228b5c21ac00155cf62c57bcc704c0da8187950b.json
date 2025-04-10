@@ -1,0 +1,15 @@
+{
+  "symbol": "NXD",
+  "name": "Nexus Dubai",
+  "address": "0x228b5c21ac00155cf62c57bcc704c0da8187950b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23414/thumb/nexus.PNG?1644187373",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x228b5c21ac00155cf62c57bcc704c0da8187950b"
+  }
+}

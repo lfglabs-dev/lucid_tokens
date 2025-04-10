@@ -1,0 +1,15 @@
+{
+  "symbol": "BINGO",
+  "name": "Bingo",
+  "address": "0xb262a485d98d8e19175818d47453e7812ca255a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34237/thumb/bingo.png?1704333837",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb262a485d98d8e19175818d47453e7812ca255a8"
+  }
+}

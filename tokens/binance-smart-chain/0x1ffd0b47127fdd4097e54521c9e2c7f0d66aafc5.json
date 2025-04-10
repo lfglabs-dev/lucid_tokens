@@ -1,0 +1,17 @@
+{
+  "symbol": "TXL",
+  "name": "Tixl Token",
+  "address": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12432/thumb/txl.png?1646463631",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
+    "binance-smart-chain": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5",
+    "polygon-pos": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41"
+  }
+}

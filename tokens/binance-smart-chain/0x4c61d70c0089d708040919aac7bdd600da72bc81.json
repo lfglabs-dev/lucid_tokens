@@ -1,0 +1,15 @@
+{
+  "symbol": "HYME",
+  "name": "HYME",
+  "address": "0x4c61d70c0089d708040919aac7bdd600da72bc81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33183/thumb/HYME.jpg?1700926551",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c61d70c0089d708040919aac7bdd600da72bc81"
+  }
+}

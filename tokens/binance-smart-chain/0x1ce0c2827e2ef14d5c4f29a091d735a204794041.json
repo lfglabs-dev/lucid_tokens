@@ -1,0 +1,15 @@
+{
+  "symbol": "AVAX",
+  "name": "Avalanche",
+  "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18674/thumb/avax_logo_1.png?1632889651",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+  }
+}

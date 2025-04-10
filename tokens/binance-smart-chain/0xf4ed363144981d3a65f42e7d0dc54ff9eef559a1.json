@@ -1,0 +1,15 @@
+{
+  "symbol": "FARA",
+  "name": "FaraCrystal",
+  "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16273/thumb/fara.PNG?1623625173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1"
+  }
+}

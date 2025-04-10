@@ -1,0 +1,15 @@
+{
+  "symbol": "uNEAR",
+  "name": "NEAR (Universal)",
+  "address": "0x5ed25e305e08f58afd7995eac72563e6be65a617",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50645/thumb/UA-NEAR_1.png?1728579564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5ed25e305e08f58afd7995eac72563e6be65a617"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "rloop",
+  "name": "rLoop",
+  "address": "0x822b906e74d493d07223cf6858620ccda66b2154",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4698/thumb/12903040.png?1651730348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x822b906e74d493d07223cf6858620ccda66b2154"
+  }
+}

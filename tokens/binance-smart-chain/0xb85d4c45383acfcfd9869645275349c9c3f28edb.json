@@ -1,0 +1,15 @@
+{
+  "symbol": "BAC",
+  "name": "Bacon Protocol",
+  "address": "0xb85d4c45383acfcfd9869645275349c9c3f28edb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53584/thumb/BAC_LOGO.jpg?1736761201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb85d4c45383acfcfd9869645275349c9c3f28edb"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BREX",
+  "name": "BREX",
+  "address": "0x63f844a81571588536614b3fa9260bec3e897126",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36498/thumb/0x63f844a81571588536614b3fa9260bec3e897126.png?1711616623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x63f844a81571588536614b3fa9260bec3e897126"
+  }
+}

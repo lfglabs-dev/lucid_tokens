@@ -1,0 +1,15 @@
+{
+  "symbol": "INS",
+  "name": "iNFTspaceToken",
+  "address": "0xb988bd378a0754957d5d9471c96e0f8051645a26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24681/thumb/4hTuPCCC_400x400.jpg?1648560503",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb988bd378a0754957d5d9471c96e0f8051645a26"
+  }
+}

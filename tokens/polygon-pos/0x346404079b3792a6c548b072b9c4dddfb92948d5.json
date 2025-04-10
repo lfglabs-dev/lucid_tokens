@@ -1,0 +1,15 @@
+{
+  "symbol": "IUX",
+  "name": "GeniuX",
+  "address": "0x346404079b3792a6c548b072b9c4dddfb92948d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26078/thumb/genius_main-logo.png?1655694512",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x346404079b3792a6c548b072b9c4dddfb92948d5"
+  }
+}

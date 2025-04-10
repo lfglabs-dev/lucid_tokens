@@ -1,0 +1,15 @@
+{
+  "symbol": "$DEZ",
+  "name": "DEZ",
+  "address": "0xdc4f4ed9872571d5ec8986a502a0d88f3a175f1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38824/thumb/DEZ_TOKEN_LOGO_-_Copy.png?1719101521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xdc4f4ed9872571d5ec8986a502a0d88f3a175f1e"
+  }
+}

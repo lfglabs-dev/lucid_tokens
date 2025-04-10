@@ -1,0 +1,15 @@
+{
+  "symbol": "LMCSWAP",
+  "name": "LIMOCOIN SWAP",
+  "address": "0x383094a91ef2767eed2b063ea40465670bf1c83f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20943/thumb/limo.png?1638027455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x383094a91ef2767eed2b063ea40465670bf1c83f"
+  }
+}

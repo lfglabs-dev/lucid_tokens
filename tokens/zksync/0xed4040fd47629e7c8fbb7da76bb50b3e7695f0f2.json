@@ -1,0 +1,16 @@
+{
+  "symbol": "HOLD",
+  "name": "Holdstation",
+  "address": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32726/thumb/HOLD.png?1699018663",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2",
+    "berachain": "0xff0a636dfc44bb0129b631cdd38d21b613290c98"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "VCTRAI",
+  "name": "Victorai by Virtuals",
+  "address": "0x436b0fe70c84402a531fd0989ceecf5caa80244c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53732/thumb/vicotrai.png?1737144934",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x436b0fe70c84402a531fd0989ceecf5caa80244c"
+  }
+}

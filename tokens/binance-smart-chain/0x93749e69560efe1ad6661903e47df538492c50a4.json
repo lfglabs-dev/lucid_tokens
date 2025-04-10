@@ -1,0 +1,15 @@
+{
+  "symbol": "EVDC",
+  "name": "EVDC",
+  "address": "0x93749e69560efe1ad6661903e47df538492c50a4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17406/thumb/EVDC-01-1-2.png?1627539880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x93749e69560efe1ad6661903e47df538492c50a4"
+  }
+}

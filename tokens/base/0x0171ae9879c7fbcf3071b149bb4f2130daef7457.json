@@ -1,0 +1,15 @@
+{
+  "symbol": "GPTW",
+  "name": "GPT Wars",
+  "address": "0x0171ae9879c7fbcf3071b149bb4f2130daef7457",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51157/thumb/GPTW_200x200.png?1730238893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0171ae9879c7fbcf3071b149bb4f2130daef7457"
+  }
+}

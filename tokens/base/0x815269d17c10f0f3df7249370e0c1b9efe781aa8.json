@@ -1,0 +1,15 @@
+{
+  "symbol": "SANTA",
+  "name": "SANTA by Virtuals",
+  "address": "0x815269d17c10f0f3df7249370e0c1b9efe781aa8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53841/thumb/Sana-twitter.jpg?1737563899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x815269d17c10f0f3df7249370e0c1b9efe781aa8"
+  }
+}

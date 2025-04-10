@@ -1,0 +1,15 @@
+{
+  "symbol": "MUT",
+  "name": "MUT",
+  "address": "0xe4feab21b42919c5c960ed2b4bdffc521e26881f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51817/thumb/logotipo_MUT_Aid01_fundo.png?1732034596",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe4feab21b42919c5c960ed2b4bdffc521e26881f"
+  }
+}

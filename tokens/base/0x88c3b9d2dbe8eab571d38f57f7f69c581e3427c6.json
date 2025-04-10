@@ -1,0 +1,15 @@
+{
+  "symbol": "SMF",
+  "name": "Super Meme Fighter",
+  "address": "0x88c3b9d2dbe8eab571d38f57f7f69c581e3427c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52855/thumb/smf_logo_%281%29.png?1734518070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x88c3b9d2dbe8eab571d38f57f7f69c581e3427c6"
+  }
+}

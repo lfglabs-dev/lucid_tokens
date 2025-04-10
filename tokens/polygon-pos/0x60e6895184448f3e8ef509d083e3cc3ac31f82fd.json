@@ -1,0 +1,15 @@
+{
+  "symbol": "KTX",
+  "name": "KwikTrust (PoS)",
+  "address": "0x60e6895184448f3e8ef509d083e3cc3ac31f82fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24352/thumb/KwikTrustLogo.png?1647433638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x60e6895184448f3e8ef509d083e3cc3ac31f82fd"
+  }
+}

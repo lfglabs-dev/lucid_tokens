@@ -1,0 +1,15 @@
+{
+  "symbol": "DMA",
+  "name": "Dragoma",
+  "address": "0x16dfb898cf7029303c2376031392cb9bac450f94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26244/thumb/DMA.png?1656920073",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x16dfb898cf7029303c2376031392cb9bac450f94"
+  }
+}

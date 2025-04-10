@@ -1,0 +1,15 @@
+{
+  "symbol": "PinkM",
+  "name": "PinkMoon",
+  "address": "0xb6090a50f66046e3c6afb9311846a6432e45060a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15018/thumb/pink-logo-200.png?1619465255",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb6090a50f66046e3c6afb9311846a6432e45060a"
+  }
+}

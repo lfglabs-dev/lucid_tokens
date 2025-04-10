@@ -1,0 +1,16 @@
+{
+  "symbol": "ROCKI",
+  "name": "ROCKI",
+  "address": "0xa01000c52b234a92563ba61e5649b7c76e1ba0f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13465/thumb/rocki_logo.png?1608786767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xff44b937788215eca197baaf9af69dbdc214aa04",
+    "binance-smart-chain": "0xa01000c52b234a92563ba61e5649b7c76e1ba0f3"
+  }
+}

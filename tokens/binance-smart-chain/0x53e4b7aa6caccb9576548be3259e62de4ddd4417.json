@@ -1,0 +1,15 @@
+{
+  "symbol": "DAL",
+  "name": "DAOLaunch",
+  "address": "0x53e4b7aa6caccb9576548be3259e62de4ddd4417",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20208/thumb/dal.png?1636642223",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x53e4b7aa6caccb9576548be3259e62de4ddd4417"
+  }
+}

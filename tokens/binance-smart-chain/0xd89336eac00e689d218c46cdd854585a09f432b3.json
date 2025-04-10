@@ -1,0 +1,16 @@
+{
+  "symbol": "lUSD",
+  "name": "lUSD",
+  "address": "0xd89336eac00e689d218c46cdd854585a09f432b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33592/thumb/LUSD.jpg?1702471959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd89336eac00e689d218c46cdd854585a09f432b3",
+    "ethereum": "0x31a2e08f4232329e4eddb025c0275f43c9cd56d7"
+  }
+}

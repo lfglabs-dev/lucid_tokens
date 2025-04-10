@@ -1,0 +1,16 @@
+{
+  "symbol": "XIO",
+  "name": "XIO Network",
+  "address": "0x2cf51e73c3516f3d86e9c0b4de0971dbf0766fd4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10029/thumb/blockzero.jpg?1611110205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704",
+    "avalanche": "0x2cf51e73c3516f3d86e9c0b4de0971dbf0766fd4"
+  }
+}

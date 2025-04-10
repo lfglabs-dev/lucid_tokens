@@ -1,0 +1,15 @@
+{
+  "symbol": "CHOW",
+  "name": "CHOW",
+  "address": "0xe50713c7a1487ff06a7d7a22a036ee7d1f02d5f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50490/thumb/h_1ZY5_a_400x400.jpg?1727935097",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe50713c7a1487ff06a7d7a22a036ee7d1f02d5f8"
+  }
+}

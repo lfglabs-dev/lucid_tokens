@@ -1,0 +1,15 @@
+{
+  "symbol": "PPT",
+  "name": "Pop Token",
+  "address": "0xdf061250302e5ccae091b18ca2b45914d785f214",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32432/thumb/PPT_TOKEN.png?1698154771",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf061250302e5ccae091b18ca2b45914d785f214"
+  }
+}

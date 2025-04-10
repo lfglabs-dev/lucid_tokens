@@ -1,0 +1,15 @@
+{
+  "symbol": "AA",
+  "name": "ALVA",
+  "address": "0x99e6ca7e6c5c5aea22b4a992eb6895bc6d433298",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31720/thumb/alva200.png?1694587576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x99e6ca7e6c5c5aea22b4a992eb6895bc6d433298"
+  }
+}

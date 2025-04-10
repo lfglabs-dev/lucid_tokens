@@ -1,0 +1,15 @@
+{
+  "symbol": "GM",
+  "name": "GoldMiner",
+  "address": "0xe2604c9561d490624aa35e156e65e590eb749519",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20416/thumb/LWzVDEkR_400x400.jpg?1637016491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe2604c9561d490624aa35e156e65e590eb749519"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ARV",
+  "name": "ARIVA",
+  "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18103/thumb/logo-200.png?1630479340",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6679eb24f59dfe111864aec72b443d1da666b360"
+  }
+}

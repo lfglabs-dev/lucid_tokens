@@ -1,0 +1,15 @@
+{
+  "symbol": "LIO",
+  "name": "leonidasbilic",
+  "address": "0xbcc608002765339db153d07250d516bc4356531b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27084/thumb/output-onlinepngtools-55.png?1661765239",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbcc608002765339db153d07250d516bc4356531b"
+  }
+}

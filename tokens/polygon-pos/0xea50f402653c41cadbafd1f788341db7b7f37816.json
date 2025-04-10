@@ -1,0 +1,19 @@
+{
+  "symbol": "sGYD",
+  "name": "Savings GYD",
+  "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51171/thumb/sGYD_Logo_Large.png?1730268578",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea50f402653c41cadbafd1f788341db7b7f37816",
+    "optimistic-ethereum": "0xea50f402653c41cadbafd1f788341db7b7f37816",
+    "avalanche": "0xea50f402653c41cadbafd1f788341db7b7f37816",
+    "arbitrum-one": "0xea50f402653c41cadbafd1f788341db7b7f37816",
+    "polygon-pos": "0xea50f402653c41cadbafd1f788341db7b7f37816"
+  }
+}

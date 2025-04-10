@@ -1,0 +1,17 @@
+{
+  "symbol": "ROY",
+  "name": "Royale",
+  "address": "0x68ee0d0aad9e1984af85ca224117e4d20eaf68be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1637547627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "harmony-shard-0": "0xfe1b516a7297eb03229a8b5afad80703911e81cb",
+    "avalanche": "0x68ee0d0aad9e1984af85ca224117e4d20eaf68be",
+    "polygon-pos": "0x68ee0d0aad9e1984af85ca224117e4d20eaf68be"
+  }
+}

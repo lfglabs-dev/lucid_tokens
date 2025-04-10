@@ -1,0 +1,15 @@
+{
+  "symbol": "snake",
+  "name": "snake",
+  "address": "0xf7d6243b937136d432adbc643f311b5a9436b0b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39779/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240818004605.jpg?1724096756",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf7d6243b937136d432adbc643f311b5a9436b0b0"
+  }
+}

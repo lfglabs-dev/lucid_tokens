@@ -1,0 +1,15 @@
+{
+  "symbol": "EDN",
+  "name": "EDEN",
+  "address": "0xe7875e08e3c85dd49d4ff52a7d4c3a9c75c8a6a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52709/thumb/logo_eden.jpg?1734058901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe7875e08e3c85dd49d4ff52a7d4c3a9c75c8a6a1"
+  }
+}

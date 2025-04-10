@@ -1,0 +1,15 @@
+{
+  "symbol": "PINEYE",
+  "name": "PINEYE",
+  "address": "0x4b3a2187648902082db0a44e8235d57f3f23dd10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39687/thumb/Logo_200*200_.png?1723660545",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4b3a2187648902082db0a44e8235d57f3f23dd10"
+  }
+}

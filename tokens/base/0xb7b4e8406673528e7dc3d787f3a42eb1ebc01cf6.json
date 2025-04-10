@@ -1,0 +1,15 @@
+{
+  "symbol": "LMNL",
+  "name": "Liminal by Virtuals",
+  "address": "0xb7b4e8406673528e7dc3d787f3a42eb1ebc01cf6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53975/thumb/Screenshot_2024-11-30_at_08.28.16.png?1737807564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb7b4e8406673528e7dc3d787f3a42eb1ebc01cf6"
+  }
+}

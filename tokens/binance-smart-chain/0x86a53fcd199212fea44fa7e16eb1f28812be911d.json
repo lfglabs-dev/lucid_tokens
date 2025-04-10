@@ -1,0 +1,15 @@
+{
+  "symbol": "IHC",
+  "name": "Inflation Hedging Coin",
+  "address": "0x86a53fcd199212fea44fa7e16eb1f28812be911d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18835/thumb/imgonline-com-ua-Resize-QspvgKzsspQpANbd.png?1642665432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x86a53fcd199212fea44fa7e16eb1f28812be911d"
+  }
+}

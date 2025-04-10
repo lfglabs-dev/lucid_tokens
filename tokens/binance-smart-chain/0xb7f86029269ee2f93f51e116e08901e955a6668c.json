@@ -1,0 +1,15 @@
+{
+  "symbol": "BabySora",
+  "name": "Baby Sora",
+  "address": "0xb7f86029269ee2f93f51e116e08901e955a6668c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35506/thumb/photo_2024-02-23_09.51.37.jpeg?1708935763",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb7f86029269ee2f93f51e116e08901e955a6668c"
+  }
+}

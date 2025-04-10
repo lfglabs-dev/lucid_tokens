@@ -1,0 +1,15 @@
+{
+  "symbol": "HYP",
+  "name": "HyperX",
+  "address": "0xcc80a7bb86ea59e53c5b6eb11689795e8ce30a9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55151/thumb/HYP.jpg?1744189565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcc80a7bb86ea59e53c5b6eb11689795e8ce30a9e"
+  }
+}

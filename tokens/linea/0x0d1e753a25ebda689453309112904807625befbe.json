@@ -1,0 +1,22 @@
+{
+  "symbol": "Cake",
+  "name": "PancakeSwap Token",
+  "address": "0x0d1e753a25ebda689453309112904807625befbe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12632/thumb/pancakeswap-cake-logo_%281%29.png?1629359065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "zksync": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
+    "polygon-zkevm": "0x0d1e753a25ebda689453309112904807625befbe",
+    "opbnb": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c",
+    "linea": "0x0d1e753a25ebda689453309112904807625befbe",
+    "ethereum": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+    "arbitrum-one": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+    "base": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
+  }
+}

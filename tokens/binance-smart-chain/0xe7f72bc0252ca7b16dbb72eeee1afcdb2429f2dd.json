@@ -1,0 +1,16 @@
+{
+  "symbol": "NFTL",
+  "name": "NFTLAUNCH.network",
+  "address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18140/thumb/nftl.PNG?1630652662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+    "binance-smart-chain": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "vBSWAP",
+  "name": "vSWAP.fi",
+  "address": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14133/thumb/vbswap_22.png?1614601485",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600"
+  }
+}

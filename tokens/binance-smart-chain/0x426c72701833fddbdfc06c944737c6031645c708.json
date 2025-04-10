@@ -1,0 +1,15 @@
+{
+  "symbol": "FINA",
+  "name": "DEFINA TOKEN",
+  "address": "0x426c72701833fddbdfc06c944737c6031645c708",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18970/thumb/favicon.png?1634075931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x426c72701833fddbdfc06c944737c6031645c708"
+  }
+}

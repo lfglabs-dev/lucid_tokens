@@ -1,0 +1,16 @@
+{
+  "symbol": "PUSH",
+  "name": "Ethereum Push Notification Service (PoS)",
+  "address": "0x58001cc1a9e17a20935079ab40b1b8f4fc19efd1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14769/thumb/epns_logo.jpg?1618330344",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+    "polygon-pos": "0x58001cc1a9e17a20935079ab40b1b8f4fc19efd1"
+  }
+}

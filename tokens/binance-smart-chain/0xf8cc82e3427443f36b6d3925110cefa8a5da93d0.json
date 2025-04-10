@@ -1,0 +1,16 @@
+{
+  "symbol": "ROSA",
+  "name": "Rosa Inu",
+  "address": "0xf8cc82e3427443f36b6d3925110cefa8a5da93d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37963/thumb/ROSA_TOKEN_3.png?1716183016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8cc82e3427443f36b6d3925110cefa8a5da93d0",
+    "arbitrum-one": "0xee0a242f28034fce0bdfac33c0ad2a58ec35fd38"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CONX",
+  "name": "Connex",
+  "address": "0x1b2128abc4119474d16bb0a04200b63b0e68a971",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31779/thumb/conx-cg.png?1694774308",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1b2128abc4119474d16bb0a04200b63b0e68a971"
+  }
+}

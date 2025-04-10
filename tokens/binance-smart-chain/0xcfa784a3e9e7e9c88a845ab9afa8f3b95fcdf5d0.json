@@ -1,0 +1,15 @@
+{
+  "symbol": "SHR",
+  "name": "Shree",
+  "address": "0xcfa784a3e9e7e9c88a845ab9afa8f3b95fcdf5d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26457/thumb/Cgupkjb__400x400.jpeg?1658129310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcfa784a3e9e7e9c88a845ab9afa8f3b95fcdf5d0"
+  }
+}

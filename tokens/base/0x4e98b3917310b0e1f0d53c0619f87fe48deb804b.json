@@ -1,0 +1,15 @@
+{
+  "symbol": "LOBO",
+  "name": "LOBO",
+  "address": "0x4e98b3917310b0e1f0d53c0619f87fe48deb804b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36187/thumb/lobo200.png?1710760420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4e98b3917310b0e1f0d53c0619f87fe48deb804b"
+  }
+}

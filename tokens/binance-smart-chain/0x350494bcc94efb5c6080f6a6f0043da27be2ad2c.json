@@ -1,0 +1,15 @@
+{
+  "symbol": "DFSM",
+  "name": "DFS MAFIA",
+  "address": "0x350494bcc94efb5c6080f6a6f0043da27be2ad2c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22696/thumb/Hc4lZhVt_400x400.jpg?1642410504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x350494bcc94efb5c6080f6a6f0043da27be2ad2c"
+  }
+}

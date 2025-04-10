@@ -1,0 +1,15 @@
+{
+  "symbol": "LIGHT",
+  "name": "Light DeFi",
+  "address": "0x842668e2b9a73240abf6532dedc89c9c3e050c98",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17880/thumb/Light.png?1629704528",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x842668e2b9a73240abf6532dedc89c9c3e050c98"
+  }
+}

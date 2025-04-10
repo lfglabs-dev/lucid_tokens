@@ -1,0 +1,15 @@
+{
+  "symbol": "ECOIN",
+  "name": "Ecoin Finance",
+  "address": "0x7d38315b92d0e7a85b35b2b7fe969b25935619d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15901/thumb/ecoin.png?1648148099",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7d38315b92d0e7a85b35b2b7fe969b25935619d7"
+  }
+}

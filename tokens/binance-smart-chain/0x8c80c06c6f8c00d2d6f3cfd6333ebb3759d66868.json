@@ -1,0 +1,15 @@
+{
+  "symbol": "SING",
+  "name": "SingSing",
+  "address": "0x8c80c06c6f8c00d2d6f3cfd6333ebb3759d66868",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51661/thumb/521400F4FB6AB86E4DC0542411B0B185.png?1731712175",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8c80c06c6f8c00d2d6f3cfd6333ebb3759d66868"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "BAC.d",
+  "name": "Bank of America Corporation - Dinari",
+  "address": "0xc6561ff3100d8b3c33898dfbfeb6e695134e6957",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x23f318840a200fa488627849a369a138f66b3577",
+    "ethereum": "0x6c1aa3dd4195522ffd963215a13416324eaf9216",
+    "blast": "0xc6561ff3100d8b3c33898dfbfeb6e695134e6957",
+    "base": "0x408e16d4e07812a963189dc15fa61806eb8a4e9d"
+  }
+}

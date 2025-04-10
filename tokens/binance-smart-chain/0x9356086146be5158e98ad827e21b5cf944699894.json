@@ -1,0 +1,17 @@
+{
+  "symbol": "USDa",
+  "name": "USDa",
+  "address": "0x9356086146be5158e98ad827e21b5cf944699894",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51599/thumb/SUSDA.png?1731604761",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a60e489004ca22d775c5f2c657598278d17d9c2",
+    "mantle": "0x075df695b8e7f4361fa7f8c1426c63f11b06e326",
+    "binance-smart-chain": "0x9356086146be5158e98ad827e21b5cf944699894"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MINKY",
+  "name": "MINKY",
+  "address": "0xf9b738c2e7adc4f299c57afd0890b925a5efea6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39903/thumb/MINKY_FINAL_PROFILE_PIC_copy.png?1724735986",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf9b738c2e7adc4f299c57afd0890b925a5efea6f"
+  }
+}

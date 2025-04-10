@@ -1,0 +1,15 @@
+{
+  "symbol": "NFP",
+  "name": "NFPrompt AI Token",
+  "address": "0x551897f8203bd131b350601d3ac0679ba0fc0136",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34041/thumb/nfp.jpeg?1703700482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x551897f8203bd131b350601d3ac0679ba0fc0136"
+  }
+}

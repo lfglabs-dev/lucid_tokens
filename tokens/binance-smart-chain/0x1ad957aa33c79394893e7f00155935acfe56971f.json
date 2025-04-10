@@ -1,0 +1,15 @@
+{
+  "symbol": "ONON",
+  "name": "ONION",
+  "address": "0x1ad957aa33c79394893e7f00155935acfe56971f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54507/thumb/20250218_112558.png?1740034658",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ad957aa33c79394893e7f00155935acfe56971f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CROC",
+  "name": "Cropto Corn Token",
+  "address": "0x0735fa49eb7d9ddf3e4d9a9f01229627f67632a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35189/thumb/CROC_IMG.jpeg?1707816120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0735fa49eb7d9ddf3e4d9a9f01229627f67632a1"
+  }
+}

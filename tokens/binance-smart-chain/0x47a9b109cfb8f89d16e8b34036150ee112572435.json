@@ -1,0 +1,15 @@
+{
+  "symbol": "BCAT",
+  "name": "BilliCat",
+  "address": "0x47a9b109cfb8f89d16e8b34036150ee112572435",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34226/thumb/photo_2023-12-09_09-51-03.jpg?1704299304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x47a9b109cfb8f89d16e8b34036150ee112572435"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "F3",
+  "name": "Friend3 Token",
+  "address": "0x9e57e83ad79ac5312ba82940ba037ed30600e167",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33198/thumb/Icon.jpg?1701027333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9e57e83ad79ac5312ba82940ba037ed30600e167"
+  }
+}

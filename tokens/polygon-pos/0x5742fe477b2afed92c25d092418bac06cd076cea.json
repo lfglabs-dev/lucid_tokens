@@ -1,0 +1,15 @@
+{
+  "symbol": "FURI",
+  "name": "FURI",
+  "address": "0x5742fe477b2afed92c25d092418bac06cd076cea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53351/thumb/photo_2025-01-04_19-28-01.jpg?1736176227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5742fe477b2afed92c25d092418bac06cd076cea"
+  }
+}

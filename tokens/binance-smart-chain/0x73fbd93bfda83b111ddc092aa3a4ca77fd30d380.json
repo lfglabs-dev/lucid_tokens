@@ -1,0 +1,16 @@
+{
+  "symbol": "SOPH",
+  "name": "SOPH AI Token",
+  "address": "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30050/thumb/Icon_200x200.png?1682996025",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380",
+    "ethereum": "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380"
+  }
+}

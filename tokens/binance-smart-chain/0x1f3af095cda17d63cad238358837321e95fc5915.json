@@ -1,0 +1,15 @@
+{
+  "symbol": "MINT",
+  "name": "Mint.club",
+  "address": "0x1f3af095cda17d63cad238358837321e95fc5915",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17174/thumb/mint.PNG?1626815527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1f3af095cda17d63cad238358837321e95fc5915"
+  }
+}

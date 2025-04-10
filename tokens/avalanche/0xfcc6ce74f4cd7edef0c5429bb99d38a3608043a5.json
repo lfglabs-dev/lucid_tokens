@@ -1,0 +1,15 @@
+{
+  "symbol": "FIRE",
+  "name": "FIRE",
+  "address": "0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22709/thumb/2QuHdcO.png?1642469283",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5"
+  }
+}

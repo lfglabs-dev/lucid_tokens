@@ -1,0 +1,15 @@
+{
+  "symbol": "BELL",
+  "name": "Bell Curve Money",
+  "address": "0x4a4200947ad71ba4eb5ffeff10cc603a17af2f95",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36821/thumb/bcm_200x200.png?1712552467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4a4200947ad71ba4eb5ffeff10cc603a17af2f95"
+  }
+}

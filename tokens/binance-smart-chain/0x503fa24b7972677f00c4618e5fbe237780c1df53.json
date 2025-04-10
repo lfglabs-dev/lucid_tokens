@@ -1,0 +1,15 @@
+{
+  "symbol": "KILO",
+  "name": "KiloEx Token",
+  "address": "0x503fa24b7972677f00c4618e5fbe237780c1df53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54995/thumb/KILOEX.jpg?1743073441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x503fa24b7972677f00c4618e5fbe237780c1df53"
+  }
+}

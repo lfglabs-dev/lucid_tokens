@@ -1,0 +1,15 @@
+{
+  "symbol": "NKYC",
+  "name": "NONKYC",
+  "address": "0x59769630b236398c2471eb26e6a529448030d94f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30337/thumb/NKYC-Logo.png?1684156847",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x59769630b236398c2471eb26e6a529448030d94f"
+  }
+}

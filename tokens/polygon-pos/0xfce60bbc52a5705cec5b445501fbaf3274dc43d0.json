@@ -1,0 +1,18 @@
+{
+  "symbol": "ACRED",
+  "name": "Apollo Diversified Credit Securitize Fund",
+  "address": "0xfce60bbc52a5705cec5b445501fbaf3274dc43d0",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x17418038ecf73ba4026c4f428547bf099706f27b",
+    "ink": "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3",
+    "avalanche": "0x7c64925002bfa705834b118a923e9911bee32875",
+    "polygon-pos": "0xfce60bbc52a5705cec5b445501fbaf3274dc43d0"
+  }
+}

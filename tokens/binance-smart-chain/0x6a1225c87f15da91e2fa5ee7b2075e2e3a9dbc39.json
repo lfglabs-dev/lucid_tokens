@@ -1,0 +1,15 @@
+{
+  "symbol": "SSE",
+  "name": "SOROOSH SMART ECOSYSTEM",
+  "address": "0x6a1225c87f15da91e2fa5ee7b2075e2e3a9dbc39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30049/thumb/SSEToken-200x200.png?1682994364",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6a1225c87f15da91e2fa5ee7b2075e2e3a9dbc39"
+  }
+}

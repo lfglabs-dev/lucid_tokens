@@ -1,0 +1,15 @@
+{
+  "symbol": "BLS",
+  "name": "blocsport.one",
+  "address": "0x708739980021a0b0b2e555383fe1283697e140e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15708/thumb/blocsport.png?1621581414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x708739980021a0b0b2e555383fe1283697e140e9"
+  }
+}

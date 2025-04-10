@@ -1,0 +1,15 @@
+{
+  "symbol": "ATHX",
+  "name": "Athena DexFi",
+  "address": "0xe52a85f67d5a55a77d35193d963b7e1d94d1f2eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36188/thumb/Athena200.png?1710760467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe52a85f67d5a55a77d35193d963b7e1d94d1f2eb"
+  }
+}

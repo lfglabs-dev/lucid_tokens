@@ -1,0 +1,15 @@
+{
+  "symbol": "slisBNB",
+  "name": "Staked Lista BNB",
+  "address": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31101/thumb/SnBNB_logo.png?1690506407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b"
+  }
+}

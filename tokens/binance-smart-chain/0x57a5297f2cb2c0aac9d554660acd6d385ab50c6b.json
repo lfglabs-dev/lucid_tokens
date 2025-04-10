@@ -1,0 +1,15 @@
+{
+  "symbol": "vLTC",
+  "name": "Venus LTC",
+  "address": "0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13908/thumb/ltc.png?1612799575",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BEBE",
+  "name": "BEBE",
+  "address": "0x16120ef3d353224222b0a257ad15b5eaec0525c5",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37555/thumb/Zn7k2_BC_400x400.jpg?1714753245",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x16120ef3d353224222b0a257ad15b5eaec0525c5"
+  }
+}

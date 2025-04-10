@@ -1,0 +1,15 @@
+{
+  "symbol": "EVO",
+  "name": "EVO",
+  "address": "0x42006ab57701251b580bdfc24778c43c9ff589a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25088/thumb/evoToken.png?1650269135",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x42006ab57701251b580bdfc24778c43c9ff589a1"
+  }
+}

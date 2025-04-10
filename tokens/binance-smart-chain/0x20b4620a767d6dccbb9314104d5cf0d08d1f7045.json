@@ -1,0 +1,16 @@
+{
+  "symbol": "LOP",
+  "name": "Kilopi",
+  "address": "0x20b4620a767d6dccbb9314104d5cf0d08d1f7045",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1679368797",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "harmony-shard-0": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
+    "binance-smart-chain": "0x20b4620a767d6dccbb9314104d5cf0d08d1f7045"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "1FLR",
+  "name": "Flare Token",
+  "address": "0x5f0197ba06860dac7e31258bdf749f92b6a636d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19114/thumb/flr.png?1638238607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5f0197ba06860dac7e31258bdf749f92b6a636d4"
+  }
+}

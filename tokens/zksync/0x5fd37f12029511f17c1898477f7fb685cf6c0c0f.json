@@ -1,0 +1,15 @@
+{
+  "symbol": "KZ",
+  "name": "KZ",
+  "address": "0x5fd37f12029511f17c1898477f7fb685cf6c0c0f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38802/thumb/KZ_Token_200x200.png?1718941524",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x5fd37f12029511f17c1898477f7fb685cf6c0c0f"
+  }
+}

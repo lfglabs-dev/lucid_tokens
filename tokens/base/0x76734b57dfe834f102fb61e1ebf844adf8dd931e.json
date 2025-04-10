@@ -1,0 +1,15 @@
+{
+  "symbol": "weirdo",
+  "name": "weirdo",
+  "address": "0x76734b57dfe834f102fb61e1ebf844adf8dd931e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37847/thumb/weirdo.jpeg?1715756981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x76734b57dfe834f102fb61e1ebf844adf8dd931e"
+  }
+}

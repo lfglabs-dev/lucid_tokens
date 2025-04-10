@@ -1,0 +1,15 @@
+{
+  "symbol": "MUC",
+  "name": "Multi Universe Central",
+  "address": "0x03b92ebf0615d44d8c782c209e4405b74cb77d1d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37359/thumb/Logo-mongzuniverse-color.png?1714109482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x03b92ebf0615d44d8c782c209e4405b74cb77d1d"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "DAI+",
+  "name": "DAI+",
+  "address": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29634/thumb/DAI_.png?1680160024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
+    "arbitrum-one": "0xeb8e93a0c7504bffd8a8ffa56cd754c63aaebfe8",
+    "base": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TONY",
+  "name": "Big Tony",
+  "address": "0xb22a793a81ff5b6ad37f40d5fe1e0ac4184d52f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54091/thumb/logo-128.png?1738220780",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb22a793a81ff5b6ad37f40d5fe1e0ac4184d52f3"
+  }
+}

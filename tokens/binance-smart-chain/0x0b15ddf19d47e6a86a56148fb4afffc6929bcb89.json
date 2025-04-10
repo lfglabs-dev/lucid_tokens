@@ -1,0 +1,18 @@
+{
+  "symbol": "IDIA",
+  "name": "Impossible Decentralized Incubator Access Token",
+  "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17803/thumb/IDIA.png?1629292292",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+    "moonriver": "0x2d28aa28fa1e5e6bf121cf688309bf3faaae3c70",
+    "avalanche": "0xfcaf13227dcbfa2dc2b1928acfca03b85e2d25dd",
+    "arbitrum-one": "0x6db8b088c4d41d622b44cd81b900ba690f2d496c"
+  }
+}

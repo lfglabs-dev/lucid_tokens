@@ -1,0 +1,15 @@
+{
+  "symbol": "HIP",
+  "name": "Gameta",
+  "address": "0x7e4c1d51ace44e26c5924d590995dea3eb8ad505",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37323/thumb/Screenshot_2024-04-25_at_9.36.40_AM-removebg-preview.png?1714009225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7e4c1d51ace44e26c5924d590995dea3eb8ad505"
+  }
+}

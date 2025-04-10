@@ -1,0 +1,15 @@
+{
+  "symbol": "KBC",
+  "name": "KIBHO COIN",
+  "address": "0xb1efa16818da8432add0cb0a82cc7fab98c78893",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37409/thumb/logo_%281%29_%281%29.png?1714373124",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb1efa16818da8432add0cb0a82cc7fab98c78893"
+  }
+}

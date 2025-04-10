@@ -1,0 +1,15 @@
+{
+  "symbol": "WSM",
+  "name": "Wall Street Memes",
+  "address": "0x62694d43ccb9b64e76e38385d15e325c7712a735",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31975/thumb/Wall_Street_Memes_Logo_resize.png?1695873299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x62694d43ccb9b64e76e38385d15e325c7712a735"
+  }
+}

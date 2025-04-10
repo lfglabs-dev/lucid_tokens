@@ -1,0 +1,15 @@
+{
+  "symbol": "SMT",
+  "name": "SMARTMALL TOKEN",
+  "address": "0x658cda444ac43b0a7da13d638700931319b64014",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37212/thumb/SMT_LOGO.png?1713773260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x658cda444ac43b0a7da13d638700931319b64014"
+  }
+}

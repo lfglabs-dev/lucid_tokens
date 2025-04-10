@@ -1,0 +1,15 @@
+{
+  "symbol": "TOTEM",
+  "name": "Cryptotem",
+  "address": "0x777994409c6b7e2393f6098a33a9cd8b7e9d0d28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21315/thumb/QEHj_fZJ_400x400.jpg?1638924445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x777994409c6b7e2393f6098a33a9cd8b7e9d0d28"
+  }
+}

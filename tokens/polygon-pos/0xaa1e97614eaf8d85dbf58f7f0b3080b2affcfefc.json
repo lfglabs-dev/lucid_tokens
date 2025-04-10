@@ -1,0 +1,15 @@
+{
+  "symbol": "FEVO",
+  "name": "Flappy bird evolution",
+  "address": "0xaa1e97614eaf8d85dbf58f7f0b3080b2affcfefc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32289/thumb/200x200t.png?1697182279",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xaa1e97614eaf8d85dbf58f7f0b3080b2affcfefc"
+  }
+}

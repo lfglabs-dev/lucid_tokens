@@ -1,0 +1,15 @@
+{
+  "symbol": "NFE",
+  "name": "NFE",
+  "address": "0xf03ca04dd56d695a410f46f14fef4028b22fb79a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35925/thumb/nfe.jpeg?1710223860",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf03ca04dd56d695a410f46f14fef4028b22fb79a"
+  }
+}

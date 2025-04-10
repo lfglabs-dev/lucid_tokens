@@ -1,0 +1,15 @@
+{
+  "symbol": "ZAI",
+  "name": "ZaichXBT",
+  "address": "0x102cd3e9e14810ce6f0765227e971432bce05d6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53908/thumb/output-onlinepngtools.png?1737708192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x102cd3e9e14810ce6f0765227e971432bce05d6c"
+  }
+}

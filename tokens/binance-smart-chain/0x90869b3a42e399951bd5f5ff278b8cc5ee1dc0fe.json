@@ -1,0 +1,15 @@
+{
+  "symbol": "REX",
+  "name": "REX",
+  "address": "0x90869b3a42e399951bd5f5ff278b8cc5ee1dc0fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52909/thumb/RREVOX_LOG.png?1734647416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x90869b3a42e399951bd5f5ff278b8cc5ee1dc0fe"
+  }
+}

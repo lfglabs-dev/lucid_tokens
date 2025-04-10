@@ -1,0 +1,15 @@
+{
+  "symbol": "BLEC",
+  "name": "Bless Global Credit",
+  "address": "0x42907d9f7e3d4291c801bbd1f601066eb1dfa956",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28977/thumb/blec_logo.png?1675751169",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x42907d9f7e3d4291c801bbd1f601066eb1dfa956"
+  }
+}

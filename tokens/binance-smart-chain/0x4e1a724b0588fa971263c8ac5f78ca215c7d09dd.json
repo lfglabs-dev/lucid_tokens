@@ -1,0 +1,15 @@
+{
+  "symbol": "MTC",
+  "name": "Moonft Coin",
+  "address": "0x4e1a724b0588fa971263c8ac5f78ca215c7d09dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32383/thumb/MTC-cg.png?1698042095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4e1a724b0588fa971263c8ac5f78ca215c7d09dd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SABAKA INU",
+  "name": "Sabaka Inu",
+  "address": "0xc30f12cd65f61ded24db6c415c84f999c9704ebc",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15748/thumb/Logo.png?1621782284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc30f12cd65f61ded24db6c415c84f999c9704ebc"
+  }
+}

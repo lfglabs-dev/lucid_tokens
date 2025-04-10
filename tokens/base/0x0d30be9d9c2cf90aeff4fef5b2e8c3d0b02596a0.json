@@ -1,0 +1,15 @@
+{
+  "symbol": "BLARB",
+  "name": "BLARB",
+  "address": "0x0d30be9d9c2cf90aeff4fef5b2e8c3d0b02596a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36275/thumb/blarb.png?1711005265",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0d30be9d9c2cf90aeff4fef5b2e8c3d0b02596a0"
+  }
+}

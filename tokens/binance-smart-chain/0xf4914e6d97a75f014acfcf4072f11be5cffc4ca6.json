@@ -1,0 +1,15 @@
+{
+  "symbol": "DEXShare",
+  "name": "DEXShare",
+  "address": "0xf4914e6d97a75f014acfcf4072f11be5cffc4ca6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25749/thumb/dexSHARE_200x200.png?1653463225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf4914e6d97a75f014acfcf4072f11be5cffc4ca6"
+  }
+}

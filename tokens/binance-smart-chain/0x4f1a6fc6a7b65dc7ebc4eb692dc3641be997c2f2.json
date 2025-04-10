@@ -1,0 +1,15 @@
+{
+  "symbol": "Santa",
+  "name": "Santa Coin",
+  "address": "0x4f1a6fc6a7b65dc7ebc4eb692dc3641be997c2f2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19654/thumb/eXsu0oNf_400x400.jpg?1637117362",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f1a6fc6a7b65dc7ebc4eb692dc3641be997c2f2"
+  }
+}

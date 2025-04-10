@@ -1,0 +1,15 @@
+{
+  "symbol": "TAG",
+  "name": "Tagger",
+  "address": "0x208bf3e7da9639f1eaefa2de78c23396b0682025",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53206/thumb/IMG_3196.png?1735664645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x208bf3e7da9639f1eaefa2de78c23396b0682025"
+  }
+}

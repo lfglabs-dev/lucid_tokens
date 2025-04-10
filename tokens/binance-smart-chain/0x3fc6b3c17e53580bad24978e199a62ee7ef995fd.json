@@ -1,0 +1,15 @@
+{
+  "symbol": "ASM",
+  "name": "Alpha Synbo Meme",
+  "address": "0x3fc6b3c17e53580bad24978e199a62ee7ef995fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55117/thumb/ASM_logo.jpeg?1743838669",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3fc6b3c17e53580bad24978e199a62ee7ef995fd"
+  }
+}

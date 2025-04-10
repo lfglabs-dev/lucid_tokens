@@ -1,0 +1,15 @@
+{
+  "symbol": "BNBD",
+  "name": "BNB Diamond",
+  "address": "0x3c730718c97a77562866b5d29b33228c019eac68",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15354/thumb/J6gLEc0.png?1620631478",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3c730718c97a77562866b5d29b33228c019eac68"
+  }
+}

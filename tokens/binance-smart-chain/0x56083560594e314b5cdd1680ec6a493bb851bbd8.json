@@ -1,0 +1,15 @@
+{
+  "symbol": "THC",
+  "name": "Transhuman Coin",
+  "address": "0x56083560594e314b5cdd1680ec6a493bb851bbd8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20328/thumb/kdEastmD_400x400.jpg?1636900381",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x56083560594e314b5cdd1680ec6a493bb851bbd8"
+  }
+}

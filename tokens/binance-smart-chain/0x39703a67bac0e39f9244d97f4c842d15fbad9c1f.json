@@ -1,0 +1,15 @@
+{
+  "symbol": "TTK",
+  "name": "The Three Kingdoms",
+  "address": "0x39703a67bac0e39f9244d97f4c842d15fbad9c1f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18948/thumb/TTK_-_Square_Icon_01.png?1634008903",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x39703a67bac0e39f9244d97f4c842d15fbad9c1f"
+  }
+}

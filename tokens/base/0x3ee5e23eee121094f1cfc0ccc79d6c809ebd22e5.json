@@ -1,0 +1,17 @@
+{
+  "symbol": "ION",
+  "name": "Ionic",
+  "address": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mode": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
+    "optimistic-ethereum": "0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc",
+    "base": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5"
+  }
+}

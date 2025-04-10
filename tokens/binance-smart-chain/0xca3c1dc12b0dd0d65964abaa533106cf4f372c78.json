@@ -1,0 +1,15 @@
+{
+  "symbol": "CAKITA",
+  "name": "ChubbyAkita",
+  "address": "0xca3c1dc12b0dd0d65964abaa533106cf4f372c78",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15563/thumb/cakita.jpg?1621217438",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xca3c1dc12b0dd0d65964abaa533106cf4f372c78"
+  }
+}

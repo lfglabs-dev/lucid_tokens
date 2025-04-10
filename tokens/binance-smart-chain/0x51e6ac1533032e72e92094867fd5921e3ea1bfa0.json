@@ -1,0 +1,15 @@
+{
+  "symbol": "LUCA",
+  "name": "LUCA",
+  "address": "0x51e6ac1533032e72e92094867fd5921e3ea1bfa0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21278/thumb/luca.PNG?1638862587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x51e6ac1533032e72e92094867fd5921e3ea1bfa0"
+  }
+}

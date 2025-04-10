@@ -1,0 +1,15 @@
+{
+  "symbol": "KEIRA",
+  "name": "Keira by Virtuals",
+  "address": "0x710eec215b3bb653d42fc6e70e0531ea13f51a7a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53903/thumb/Keira_Face_Art_%281%29.png?1737707139",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x710eec215b3bb653d42fc6e70e0531ea13f51a7a"
+  }
+}

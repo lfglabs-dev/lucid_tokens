@@ -1,0 +1,15 @@
+{
+  "symbol": "GFC",
+  "name": "GCOIN",
+  "address": "0x071ac29d569a47ebffb9e57517f855cb577dcc4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22364/thumb/M1oqSwPA_400x400.jpg?1641762383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x071ac29d569a47ebffb9e57517f855cb577dcc4c"
+  }
+}

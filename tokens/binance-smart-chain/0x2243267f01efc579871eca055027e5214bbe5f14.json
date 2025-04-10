@@ -1,0 +1,15 @@
+{
+  "symbol": "Bull",
+  "name": "Bull Token",
+  "address": "0x2243267f01efc579871eca055027e5214bbe5f14",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34569/thumb/LOGOBULL.png?1705408430",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2243267f01efc579871eca055027e5214bbe5f14"
+  }
+}

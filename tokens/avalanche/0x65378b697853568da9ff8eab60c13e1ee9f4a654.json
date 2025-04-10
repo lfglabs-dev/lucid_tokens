@@ -1,0 +1,15 @@
+{
+  "symbol": "HUSKY",
+  "name": "Husky",
+  "address": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17812/thumb/husky.png?1629721413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x65378b697853568da9ff8eab60c13e1ee9f4a654"
+  }
+}

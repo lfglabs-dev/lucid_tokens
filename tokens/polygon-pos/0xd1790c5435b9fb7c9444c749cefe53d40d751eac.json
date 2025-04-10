@@ -1,0 +1,17 @@
+{
+  "symbol": "MIMIR",
+  "name": "Mimir Token",
+  "address": "0xd1790c5435b9fb7c9444c749cefe53d40d751eac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19551/thumb/xaq5Xlzg_400x400.jpg?1635401626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x71dc40668682a124231301414167e4cf7f55383c",
+    "binance-smart-chain": "0x336f5a68fd46a25056a6c1d9c06072c691486acc",
+    "polygon-pos": "0xd1790c5435b9fb7c9444c749cefe53d40d751eac"
+  }
+}

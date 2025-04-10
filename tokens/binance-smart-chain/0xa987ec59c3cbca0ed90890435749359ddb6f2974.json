@@ -1,0 +1,15 @@
+{
+  "symbol": "PNUTS",
+  "name": "Pnuts for squirrel",
+  "address": "0xa987ec59c3cbca0ed90890435749359ddb6f2974",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51771/thumb/photo_2024-11-16_16-43-10.jpg?1731938205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa987ec59c3cbca0ed90890435749359ddb6f2974"
+  }
+}

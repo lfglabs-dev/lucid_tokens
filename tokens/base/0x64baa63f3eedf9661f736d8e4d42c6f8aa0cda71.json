@@ -1,0 +1,15 @@
+{
+  "symbol": "GEKO",
+  "name": "Geko Base",
+  "address": "0x64baa63f3eedf9661f736d8e4d42c6f8aa0cda71",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52703/thumb/1000018965.png?1734056168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x64baa63f3eedf9661f736d8e4d42c6f8aa0cda71"
+  }
+}

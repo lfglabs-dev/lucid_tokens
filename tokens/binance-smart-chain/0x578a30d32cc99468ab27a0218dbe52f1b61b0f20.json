@@ -1,0 +1,15 @@
+{
+  "symbol": "Noel",
+  "name": "AskNoel",
+  "address": "0x578a30d32cc99468ab27a0218dbe52f1b61b0f20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54894/thumb/IMG_20250318_105320_727.jpg?1742410830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x578a30d32cc99468ab27a0218dbe52f1b61b0f20"
+  }
+}

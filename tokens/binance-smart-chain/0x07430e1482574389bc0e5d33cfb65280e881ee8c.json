@@ -1,0 +1,16 @@
+{
+  "symbol": "NAO",
+  "name": "Nami Frame Futures",
+  "address": "0x07430e1482574389bc0e5d33cfb65280e881ee8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36536/thumb/NAO_200x200.png?1711706267",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07430e1482574389bc0e5d33cfb65280e881ee8c",
+    "onus": "0x07430e1482574389bc0e5d33cfb65280e881ee8c"
+  }
+}

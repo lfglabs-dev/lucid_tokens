@@ -1,0 +1,15 @@
+{
+  "symbol": "MTLA",
+  "name": "Meta Launcher",
+  "address": "0x36f84ee7f720312443c02389a08185e3ecf0ebed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29331/thumb/logo_circle.png?1678172488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x36f84ee7f720312443c02389a08185e3ecf0ebed"
+  }
+}

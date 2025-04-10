@@ -1,0 +1,15 @@
+{
+  "symbol": "ROAD",
+  "name": "Yellow Road",
+  "address": "0x1a3057027032a1af433f6f596cab15271e4d8196",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14747/thumb/yellowroad.PNG?1618093885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1a3057027032a1af433f6f596cab15271e4d8196"
+  }
+}

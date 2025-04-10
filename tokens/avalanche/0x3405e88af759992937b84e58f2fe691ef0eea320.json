@@ -1,0 +1,19 @@
+{
+  "symbol": "sFRAX",
+  "name": "Staked FRAX",
+  "address": "0x3405e88af759992937b84e58f2fe691ef0eea320",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax.png?1708445569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe3b3fe7bca19ca77ad877a5bebab186becfad906",
+    "optimistic-ethereum": "0x2dd1b4d4548accea497050619965f91f78b3b532",
+    "ethereum": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
+    "binance-smart-chain": "0xa63f56985f9c7f3bc9ffc5685535649e0c1a55f3",
+    "avalanche": "0x3405e88af759992937b84e58f2fe691ef0eea320"
+  }
+}

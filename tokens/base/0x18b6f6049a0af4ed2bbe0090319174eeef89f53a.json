@@ -1,0 +1,15 @@
+{
+  "symbol": "RUNNER",
+  "name": "RUNNER",
+  "address": "0x18b6f6049a0af4ed2bbe0090319174eeef89f53a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52160/thumb/RUNNERTP.png?1732675799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x18b6f6049a0af4ed2bbe0090319174eeef89f53a"
+  }
+}

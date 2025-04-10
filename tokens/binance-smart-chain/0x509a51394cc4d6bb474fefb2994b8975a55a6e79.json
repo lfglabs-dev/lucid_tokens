@@ -1,0 +1,15 @@
+{
+  "symbol": "FUFU",
+  "name": "FUFU",
+  "address": "0x509a51394cc4d6bb474fefb2994b8975a55a6e79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18812/thumb/fufu_icon_RGB.png?1633497540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x509a51394cc4d6bb474fefb2994b8975a55a6e79"
+  }
+}

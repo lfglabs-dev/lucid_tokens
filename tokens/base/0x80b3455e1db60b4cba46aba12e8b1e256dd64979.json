@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOBY",
+  "name": "Blue-Footed Booby",
+  "address": "0x80b3455e1db60b4cba46aba12e8b1e256dd64979",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38859/thumb/FinalPFP3.png?1719214288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x80b3455e1db60b4cba46aba12e8b1e256dd64979"
+  }
+}

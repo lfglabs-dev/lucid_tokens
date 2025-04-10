@@ -1,0 +1,15 @@
+{
+  "symbol": "Bashtank",
+  "name": "Baby Shark",
+  "address": "0x484312a0aaeae3ae36a74ff3e294246f35dddf4f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15390/thumb/IqTGmFXy_400x400.jpg?1620703139",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x484312a0aaeae3ae36a74ff3e294246f35dddf4f"
+  }
+}

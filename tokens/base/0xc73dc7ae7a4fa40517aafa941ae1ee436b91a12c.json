@@ -1,0 +1,15 @@
+{
+  "symbol": "BUZ",
+  "name": "BUZ",
+  "address": "0xc73dc7ae7a4fa40517aafa941ae1ee436b91a12c",
+  "decimals": 4,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39793/thumb/buz-economy-logo-dark.png?1724117134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc73dc7ae7a4fa40517aafa941ae1ee436b91a12c"
+  }
+}

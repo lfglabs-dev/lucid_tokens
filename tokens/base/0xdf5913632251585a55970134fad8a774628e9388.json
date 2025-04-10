@@ -1,0 +1,15 @@
+{
+  "symbol": "uFIL",
+  "name": "Filecoin (Universal)",
+  "address": "0xdf5913632251585a55970134fad8a774628e9388",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54729/thumb/UA-FIL.png?1741245876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdf5913632251585a55970134fad8a774628e9388"
+  }
+}

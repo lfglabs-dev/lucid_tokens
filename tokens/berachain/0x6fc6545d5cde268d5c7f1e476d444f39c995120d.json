@@ -1,0 +1,15 @@
+{
+  "symbol": "beraETH",
+  "name": "Berachain Staked ETH",
+  "address": "0x6fc6545d5cde268d5c7f1e476d444f39c995120d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54260/thumb/beraETH.png?1738952010",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x6fc6545d5cde268d5c7f1e476d444f39c995120d"
+  }
+}

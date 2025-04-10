@@ -1,0 +1,16 @@
+{
+  "symbol": "EFT",
+  "name": "Energyfi Token",
+  "address": "0xae98e63db1c4646bf5b40b29c664bc922f71bc65",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23498/thumb/fbb562_550f7831d1304127a41302a0c9613d34_mv2.png?1644293109",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xae98e63db1c4646bf5b40b29c664bc922f71bc65",
+    "moonbeam": "0xa423e7eeb60547d9c7b65005477b63ae7ce67e62"
+  }
+}

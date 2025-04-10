@@ -1,0 +1,16 @@
+{
+  "symbol": "KTN",
+  "name": "Kattana",
+  "address": "0xdae6c2a48bfaa66b43815c5548b10800919c993e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14739/thumb/256-256-1.png?1638363577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+    "binance-smart-chain": "0xdae6c2a48bfaa66b43815c5548b10800919c993e"
+  }
+}

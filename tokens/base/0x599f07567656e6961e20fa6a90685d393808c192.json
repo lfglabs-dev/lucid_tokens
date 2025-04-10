@@ -1,0 +1,15 @@
+{
+  "symbol": "D.O.G.E",
+  "name": "Department Of Government Efficiency",
+  "address": "0x599f07567656e6961e20fa6a90685d393808c192",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51896/thumb/coingecko_%282%29.png?1732124666",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x599f07567656e6961e20fa6a90685d393808c192"
+  }
+}

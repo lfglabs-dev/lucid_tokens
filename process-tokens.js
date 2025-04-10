@@ -7,8 +7,45 @@ const path = require('path');
 const ora = require('ora').default;
 const { program } = require('commander');
 
-// QuickNode RPC
-const QUICKNODE_RPC = "YOUR_QUICKNODE_RPC_URL";
+// Chain configurations with Alchemy RPC endpoints
+const CHAINS = {
+  'world-chain': 'https://worldchain-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'ethereum': 'https://eth-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'zksync': 'https://zksync-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'optimism': 'https://opt-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'polygon-pos': 'https://polygon-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'arbitrum': 'https://arb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'mantle': 'https://mantle-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'berachain': 'https://berachain-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'blast': 'https://blast-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'linea': 'https://linea-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'zora': 'https://zora-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'base': 'https://base-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'scroll': 'https://scroll-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'gnosis': 'https://gnosis-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'binance-smart-chain': 'https://bnb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'avalanche': 'https://avax-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE'
+};
+
+// Chain name mapping for DeFiLlama to our format
+const CHAIN_MAPPING = {
+  'ethereum': 'ethereum',
+  'polygon-pos': 'polygon-pos',
+  'binance-smart-chain': 'binance-smart-chain',
+  'arbitrum': 'arbitrum-one',
+  'optimism': 'optimistic-ethereum',
+  'avalanche': 'avalanche',
+  'zksync': 'zksync',
+  'base': 'base',
+  'linea': 'linea',
+  'scroll': 'scroll',
+  'mantle': 'mantle',
+  'blast': 'blast',
+  'zora': 'zora-network',
+  'gnosis': 'xdai',
+  'berachain': 'berachain',
+  'world-chain': 'world-chain'
+};
 
 // ERC20 ABI for decimals
 const ERC20_ABI = [
@@ -34,8 +71,11 @@ fs.ensureDirSync(outputDir);
 // Progress spinner
 const spinner = ora('Processing tokens').start();
 
-// Initialize provider
-const provider = new ethers.providers.JsonRpcProvider(QUICKNODE_RPC);
+// Initialize providers for each chain
+const providers = {};
+for (const [chain, rpcUrl] of Object.entries(CHAINS)) {
+  providers[chain] = new ethers.providers.JsonRpcProvider(rpcUrl);
+}
 
 function normalizeAddress(address) {
   try {
@@ -45,8 +85,14 @@ function normalizeAddress(address) {
   }
 }
 
-async function getTokenInfo(address) {
+async function getTokenInfo(address, chain) {
   try {
+    const provider = providers[chain];
+    if (!provider) {
+      console.warn(`No provider available for chain ${chain}`);
+      return null;
+    }
+    
     const contract = new ethers.Contract(address, ERC20_ABI, provider);
     const [decimals, symbol, name] = await Promise.all([
       contract.decimals(),
@@ -55,12 +101,21 @@ async function getTokenInfo(address) {
     ]);
     return { decimals, symbol, name };
   } catch (error) {
-    console.warn(`Failed to fetch token info for ${address}: ${error.message}`);
+    console.warn(`Failed to fetch token info for ${address} on chain ${chain}: ${error.message}`);
     return null;
   }
 }
 
 async function processToken(token, chain, address) {
+  // Map the chain name to our format
+  const mappedChain = CHAIN_MAPPING[chain] || chain;
+  
+  // Skip if we don't have a provider for this chain
+  if (!providers[mappedChain]) {
+    console.warn(`Skipping token ${token.symbol} on chain ${chain} - no provider available`);
+    return;
+  }
+  
   // Normalize the address
   const normalizedAddress = normalizeAddress(address);
   if (!normalizedAddress) {
@@ -68,7 +123,7 @@ async function processToken(token, chain, address) {
     return;
   }
 
-  const chainDir = path.join(outputDir, chain);
+  const chainDir = path.join(outputDir, mappedChain);
   const tokenFile = path.join(chainDir, `${normalizedAddress}.json`);
 
   // Skip if file exists and force is not set
@@ -77,7 +132,7 @@ async function processToken(token, chain, address) {
   }
 
   // Fetch actual token info from contract
-  const tokenInfo = await getTokenInfo(normalizedAddress);
+  const tokenInfo = await getTokenInfo(normalizedAddress, mappedChain);
   if (!tokenInfo) {
     console.warn(`Skipping token ${token.symbol} on chain ${chain} due to contract error`);
     return;
@@ -120,11 +175,13 @@ async function processBatch(tokens, startIdx, batchSize) {
   for (let i = startIdx; i < endIdx; i++) {
     const token = tokens[i];
     if (options.chain) {
+      // Process only the specified chain
       const chainAddress = token.platforms[options.chain.toLowerCase()];
       if (chainAddress) {
         promises.push(processToken(token, options.chain.toLowerCase(), chainAddress));
       }
     } else {
+      // Process all chains
       for (const [chain, address] of Object.entries(token.platforms)) {
         if (address) {
           promises.push(processToken(token, chain, address));

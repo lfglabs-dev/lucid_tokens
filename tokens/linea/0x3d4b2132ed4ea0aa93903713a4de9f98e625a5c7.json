@@ -1,0 +1,17 @@
+{
+  "symbol": "A3A",
+  "name": "3A Utility Token",
+  "address": "0x3d4b2132ed4ea0aa93903713a4de9f98e625a5c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33135/thumb/A3A.png?1700801023",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3f817b28da4940f018c6b5c0a11c555ebb1264f9",
+    "linea": "0x3d4b2132ed4ea0aa93903713a4de9f98e625a5c7",
+    "polygon-pos": "0x58c7b2828e7f2b2caa0cc7feef242fa3196d03df"
+  }
+}

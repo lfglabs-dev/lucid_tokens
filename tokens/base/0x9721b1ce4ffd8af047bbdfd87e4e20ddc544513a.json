@@ -1,0 +1,15 @@
+{
+  "symbol": "BROS",
+  "name": "BaseBros",
+  "address": "0x9721b1ce4ffd8af047bbdfd87e4e20ddc544513a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36975/thumb/BB200px.JPG?1712911132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9721b1ce4ffd8af047bbdfd87e4e20ddc544513a"
+  }
+}

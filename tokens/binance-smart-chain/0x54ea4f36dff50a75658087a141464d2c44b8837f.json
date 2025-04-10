@@ -1,0 +1,15 @@
+{
+  "symbol": "CORGI",
+  "name": "Corgi Inu",
+  "address": "0x54ea4f36dff50a75658087a141464d2c44b8837f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53129/thumb/1000034328.jpg?1735288614",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x54ea4f36dff50a75658087a141464d2c44b8837f"
+  }
+}

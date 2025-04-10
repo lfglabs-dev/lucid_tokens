@@ -1,0 +1,15 @@
+{
+  "symbol": "SPC",
+  "name": "Storepay Coin",
+  "address": "0x1eaffd6b9ef0f45d663f3fbf402226c98609600e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28601/thumb/spc.png?1672380880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1eaffd6b9ef0f45d663f3fbf402226c98609600e"
+  }
+}

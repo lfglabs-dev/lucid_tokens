@@ -1,0 +1,15 @@
+{
+  "symbol": "SNORT",
+  "name": "SNORT",
+  "address": "0xaf07d812d1dcec20bf741075bc18660738d226dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37329/thumb/QZl65V8_%282%29.png?1714028404",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xaf07d812d1dcec20bf741075bc18660738d226dd"
+  }
+}

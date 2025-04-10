@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyTrump",
+  "name": "Baby Trump",
+  "address": "0xe66fd34c0f8726a5eb97f6d45c5a5df4d57d39fc",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38010/thumb/photo_2024-02-22_13.png?1716272400",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe66fd34c0f8726a5eb97f6d45c5a5df4d57d39fc"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "KMON",
+  "name": "KmonCoin",
+  "address": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17886/thumb/kryptomon.png?1629713536",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+    "ethereum": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436"
+  }
+}

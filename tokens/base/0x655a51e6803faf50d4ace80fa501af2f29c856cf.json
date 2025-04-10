@@ -1,0 +1,15 @@
+{
+  "symbol": "PAID",
+  "name": "PAID Network",
+  "address": "0x655a51e6803faf50d4ace80fa501af2f29c856cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13761/thumb/512.png?1648630881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x655a51e6803faf50d4ace80fa501af2f29c856cf"
+  }
+}

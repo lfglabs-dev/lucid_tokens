@@ -1,0 +1,15 @@
+{
+  "symbol": "CRS",
+  "name": "Ceranos",
+  "address": "0x3e51783fef3cb3e807cff7fcb660d3e51c6127f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54808/thumb/Ceranos.jpg?1741792764",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3e51783fef3cb3e807cff7fcb660d3e51c6127f6"
+  }
+}

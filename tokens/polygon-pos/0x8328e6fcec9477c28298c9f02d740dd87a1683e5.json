@@ -1,0 +1,15 @@
+{
+  "symbol": "KPN",
+  "name": "KonnektVPN",
+  "address": "0x8328e6fcec9477c28298c9f02d740dd87a1683e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37271/thumb/kpn.jpg?1713888366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8328e6fcec9477c28298c9f02d740dd87a1683e5"
+  }
+}

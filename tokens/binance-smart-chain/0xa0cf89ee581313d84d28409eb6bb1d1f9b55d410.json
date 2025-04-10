@@ -1,0 +1,15 @@
+{
+  "symbol": "UNICE",
+  "name": "UNICE",
+  "address": "0xa0cf89ee581313d84d28409eb6bb1d1f9b55d410",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32297/thumb/unnamed-removebg-preview.png?1697185712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa0cf89ee581313d84d28409eb6bb1d1f9b55d410"
+  }
+}

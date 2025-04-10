@@ -1,0 +1,15 @@
+{
+  "symbol": "TRDC",
+  "name": "traders coin",
+  "address": "0x7e8db69dcff9209e486a100e611b0af300c3374e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18675/thumb/logo-200x200.png?1633360593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7e8db69dcff9209e486a100e611b0af300c3374e"
+  }
+}

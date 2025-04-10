@@ -1,0 +1,16 @@
+{
+  "symbol": "AVAX",
+  "name": "Avalanche Token",
+  "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53010/thumb/avax.png?1734991619",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+    "milkomeda-cardano": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a"
+  }
+}

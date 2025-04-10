@@ -1,0 +1,15 @@
+{
+  "symbol": "LUD",
+  "name": "LittleUglyDuck",
+  "address": "0xde009cb3371825bafb80a01004c58f8166ee13d5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17764/thumb/whitelogo200x200.png?1629203328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde009cb3371825bafb80a01004c58f8166ee13d5"
+  }
+}

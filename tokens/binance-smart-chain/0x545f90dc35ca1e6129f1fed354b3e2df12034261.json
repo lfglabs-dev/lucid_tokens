@@ -1,0 +1,15 @@
+{
+  "symbol": "NEWB",
+  "name": "NEWB",
+  "address": "0x545f90dc35ca1e6129f1fed354b3e2df12034261",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16029/thumb/NewB_Token_FA_CMC.png?1622624885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x545f90dc35ca1e6129f1fed354b3e2df12034261"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Void",
+  "name": "The Great Void Token",
+  "address": "0x2f03d0b2f702884fa43aee8e092e83650c5670e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34264/thumb/V_token_200.png?1704388584",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2f03d0b2f702884fa43aee8e092e83650c5670e9"
+  }
+}

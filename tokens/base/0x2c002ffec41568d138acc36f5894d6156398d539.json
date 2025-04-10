@@ -1,0 +1,15 @@
+{
+  "symbol": "LUCKY",
+  "name": "Lucky Dog",
+  "address": "0x2c002ffec41568d138acc36f5894d6156398d539",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51334/thumb/LUCKYTokenSymbol.png?1730797716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2c002ffec41568d138acc36f5894d6156398d539"
+  }
+}

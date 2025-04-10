@@ -1,0 +1,15 @@
+{
+  "symbol": "CTT",
+  "name": "Cashtree Token",
+  "address": "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31475/thumb/Coin-CTT%28Hi-Res%29.png?1693187903",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5"
+  }
+}

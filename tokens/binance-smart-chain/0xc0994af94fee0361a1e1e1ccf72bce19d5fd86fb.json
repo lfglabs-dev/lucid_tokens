@@ -1,0 +1,15 @@
+{
+  "symbol": "RICH",
+  "name": "RichCity",
+  "address": "0xc0994af94fee0361a1e1e1ccf72bce19d5fd86fb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16985/thumb/Richcity.png?1625909904",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc0994af94fee0361a1e1e1ccf72bce19d5fd86fb"
+  }
+}

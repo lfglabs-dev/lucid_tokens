@@ -1,0 +1,15 @@
+{
+  "symbol": "$DOOG",
+  "name": "DooggieCoin",
+  "address": "0x34b2adb3bd4aef3af0b4541735c47b6364d88d1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55150/thumb/DooggieCoin_copy.jpeg?1744189296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x34b2adb3bd4aef3af0b4541735c47b6364d88d1e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XDOGE",
+  "name": "XDOGE",
+  "address": "0x4c0415a6e340eccebff58131799c6c4127cc39fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19222/thumb/token3.png?1634709710",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c0415a6e340eccebff58131799c6c4127cc39fa"
+  }
+}

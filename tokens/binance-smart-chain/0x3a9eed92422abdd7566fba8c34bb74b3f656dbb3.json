@@ -1,0 +1,16 @@
+{
+  "symbol": "KAT",
+  "name": "Kambria Token",
+  "address": "0x3a9eed92422abdd7566fba8c34bb74b3f656dbb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4784/thumb/kambria.png?1547040127",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x14da230d6726c50f759bc1838717f8ce6373509c",
+    "binance-smart-chain": "0x3a9eed92422abdd7566fba8c34bb74b3f656dbb3"
+  }
+}

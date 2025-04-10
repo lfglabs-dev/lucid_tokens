@@ -1,0 +1,15 @@
+{
+  "symbol": "DSRUN",
+  "name": "DerbyStarsRUN",
+  "address": "0xff76c0b48363a7c7307868a81548d340049b0023",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31203/thumb/download.png?1691380383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xff76c0b48363a7c7307868a81548d340049b0023"
+  }
+}

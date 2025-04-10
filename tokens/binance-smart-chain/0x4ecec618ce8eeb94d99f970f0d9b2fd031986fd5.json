@@ -1,0 +1,15 @@
+{
+  "symbol": "NOMAD",
+  "name": "BitNomad",
+  "address": "0x4ecec618ce8eeb94d99f970f0d9b2fd031986fd5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51940/thumb/1000241981.jpg?1732211292",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4ecec618ce8eeb94d99f970f0d9b2fd031986fd5"
+  }
+}

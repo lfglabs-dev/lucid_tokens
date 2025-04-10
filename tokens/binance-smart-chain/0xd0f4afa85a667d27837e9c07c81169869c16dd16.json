@@ -1,0 +1,15 @@
+{
+  "symbol": "bPRIVA",
+  "name": "PRIVA",
+  "address": "0xd0f4afa85a667d27837e9c07c81169869c16dd16",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15252/thumb/priv.png?1620265611",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd0f4afa85a667d27837e9c07c81169869c16dd16"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "wUSDR",
+  "name": "Wrapped USDR",
+  "address": "0x00e8c0e92eb3ad88189e7125ec8825edc03ab265",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x00e8c0e92eb3ad88189e7125ec8825edc03ab265",
+    "optimistic-ethereum": "0xc03b43d492d904406db2d7d57e67c7e8234ba752",
+    "ethereum": "0xc03b43d492d904406db2d7d57e67c7e8234ba752",
+    "binance-smart-chain": "0x9467f15f44a8641389556387b43d9ed3f6981818",
+    "arbitrum-one": "0x9483ab65847a447e36d21af1cab8c87e9712ff93"
+  }
+}

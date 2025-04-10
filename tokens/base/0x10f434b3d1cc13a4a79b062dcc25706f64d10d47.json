@@ -1,0 +1,15 @@
+{
+  "symbol": "BEPE",
+  "name": "BEPE",
+  "address": "0x10f434b3d1cc13a4a79b062dcc25706f64d10d47",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35989/thumb/bepe.jpeg?1710314080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x10f434b3d1cc13a4a79b062dcc25706f64d10d47"
+  }
+}

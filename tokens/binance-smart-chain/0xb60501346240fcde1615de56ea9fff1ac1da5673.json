@@ -1,0 +1,15 @@
+{
+  "symbol": "BSL",
+  "name": "B-LAUNCH",
+  "address": "0xb60501346240fcde1615de56ea9fff1ac1da5673",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16044/thumb/Logo_BSCLaunch_Final_Expand-03.png?1622685068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb60501346240fcde1615de56ea9fff1ac1da5673"
+  }
+}

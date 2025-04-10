@@ -1,0 +1,16 @@
+{
+  "symbol": "VOW",
+  "name": "Vow",
+  "address": "0xf585b5b4f22816baf7629aea55b701662630397b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18202/thumb/72Nd63R0_400x400.png?1630974351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+    "binance-smart-chain": "0xf585b5b4f22816baf7629aea55b701662630397b"
+  }
+}

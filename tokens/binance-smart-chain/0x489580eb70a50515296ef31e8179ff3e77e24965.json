@@ -1,0 +1,17 @@
+{
+  "symbol": "RADAR",
+  "name": "DappRadar",
+  "address": "0x489580eb70a50515296ef31e8179ff3e77e24965",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20894/thumb/radar.png?1640306268",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+    "binance-smart-chain": "0x489580eb70a50515296ef31e8179ff3e77e24965",
+    "polygon-pos": "0xdcb72ae4d5dc6ae274461d57e65db8d50d0a33ad"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KOVIN",
+  "name": "Kovin Segnocchi",
+  "address": "0x694200a68b18232916353250955be220e88c5cbb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35978/thumb/image_%282%29.png?1710306425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x694200a68b18232916353250955be220e88c5cbb"
+  }
+}

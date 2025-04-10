@@ -1,0 +1,20 @@
+{
+  "symbol": "1INCH",
+  "name": "1INCH Token",
+  "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "harmony-shard-0": "0x58f1b044d8308812881a1433d9bbeff99975e70c",
+    "energi": "0xdda6205dc3f47e5280eb726613b27374eee9d130",
+    "binance-smart-chain": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "avalanche": "0xd501281565bf7789224523144fe5d98e8b28f267",
+    "polygon-pos": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f"
+  }
+}

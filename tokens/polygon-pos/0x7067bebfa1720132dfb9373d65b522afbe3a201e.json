@@ -1,0 +1,15 @@
+{
+  "symbol": "FLOYX",
+  "name": "FLOYX TOKEN",
+  "address": "0x7067bebfa1720132dfb9373d65b522afbe3a201e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29527/thumb/FloyxLogo_200x200.png?1679476684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x7067bebfa1720132dfb9373d65b522afbe3a201e"
+  }
+}

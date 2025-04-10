@@ -1,0 +1,15 @@
+{
+  "symbol": "PIGGY",
+  "name": "PIGGY",
+  "address": "0xe3cf8dbcbdc9b220ddead0bd6342e245daff934d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52128/thumb/superform.jpg?1732616289",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe3cf8dbcbdc9b220ddead0bd6342e245daff934d"
+  }
+}

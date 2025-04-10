@@ -1,0 +1,15 @@
+{
+  "symbol": "GET",
+  "name": "Get AI",
+  "address": "0x6eb6e8974264bee01c160f1770a38f8e6de1a3b1",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54197/thumb/Get_AI.png?1738748494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6eb6e8974264bee01c160f1770a38f8e6de1a3b1"
+  }
+}

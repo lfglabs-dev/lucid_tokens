@@ -1,0 +1,15 @@
+{
+  "symbol": "WNETZ",
+  "name": "Wrapped NETZ",
+  "address": "0x67027f972671e6157f0e63632d2862fd4e96796a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52938/thumb/Gold_Z_Transparent_200x200.png?1734712959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x67027f972671e6157f0e63632d2862fd4e96796a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "PEPE",
+  "name": "PEPE PAD",
+  "address": "0xef00278d7eadf3b2c05267a2f185e468ad7eab7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30321/thumb/logo200.png?1684115693",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xef00278d7eadf3b2c05267a2f185e468ad7eab7d",
+    "arbitrum-one": "0xef00278d7eadf3b2c05267a2f185e468ad7eab7d"
+  }
+}

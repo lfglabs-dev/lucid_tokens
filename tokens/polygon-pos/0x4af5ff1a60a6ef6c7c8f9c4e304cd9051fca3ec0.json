@@ -1,0 +1,17 @@
+{
+  "symbol": "RGP",
+  "name": "RigelToken",
+  "address": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15837/thumb/A_qRYvB2_400x400.png?1622080940",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
+    "binance-smart-chain": "0xfa262f303aa244f9cc66f312f0755d89c3793192",
+    "polygon-pos": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0"
+  }
+}

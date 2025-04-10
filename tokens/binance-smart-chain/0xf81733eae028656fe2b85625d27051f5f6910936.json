@@ -1,0 +1,15 @@
+{
+  "symbol": "Doge-1",
+  "name": "Satellite Doge-1",
+  "address": "0xf81733eae028656fe2b85625d27051f5f6910936",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33267/thumb/LOGO.png?1701325999",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf81733eae028656fe2b85625d27051f5f6910936"
+  }
+}

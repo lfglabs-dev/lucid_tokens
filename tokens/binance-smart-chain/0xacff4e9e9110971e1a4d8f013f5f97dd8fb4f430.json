@@ -1,0 +1,15 @@
+{
+  "symbol": "KFR",
+  "name": "KING FOREVER",
+  "address": "0xacff4e9e9110971e1a4d8f013f5f97dd8fb4f430",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21706/thumb/king200.png?1639747034",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xacff4e9e9110971e1a4d8f013f5f97dd8fb4f430"
+  }
+}

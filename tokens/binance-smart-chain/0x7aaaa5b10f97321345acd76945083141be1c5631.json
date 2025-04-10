@@ -1,0 +1,15 @@
+{
+  "symbol": "COW",
+  "name": "Cowcoin",
+  "address": "0x7aaaa5b10f97321345acd76945083141be1c5631",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53244/thumb/IMG_7806.jpeg?1735847082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7aaaa5b10f97321345acd76945083141be1c5631"
+  }
+}

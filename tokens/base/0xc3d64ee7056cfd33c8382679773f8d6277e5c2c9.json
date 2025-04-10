@@ -1,0 +1,15 @@
+{
+  "symbol": "IAMAI ",
+  "name": "IAMAI by Virtuals",
+  "address": "0xc3d64ee7056cfd33c8382679773f8d6277e5c2c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54161/thumb/xZkO4l5M_400x400_%281%29.jpg?1738482411",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc3d64ee7056cfd33c8382679773f8d6277e5c2c9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$MANGA",
+  "name": "Manga token",
+  "address": "0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17982/thumb/logo-200x200_%287%29.png?1630024708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ICNX",
+  "name": "IconX World",
+  "address": "0x91f3b9366801c1fca6184c3bd99d5ab0c43a9033",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35133/thumb/iconx-world-icon-wt.png?1707444921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x91f3b9366801c1fca6184c3bd99d5ab0c43a9033"
+  }
+}

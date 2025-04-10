@@ -1,0 +1,15 @@
+{
+  "symbol": "TOSHI",
+  "name": "Toshi",
+  "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31126/thumb/5dajOmhM_400x400.jpg?1690777236",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4"
+  }
+}

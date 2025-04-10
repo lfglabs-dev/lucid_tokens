@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBEMP",
+  "name": "SHIBA INU EMPIRE",
+  "address": "0x14aad57fb5f9a0c9ce136cf93521cbebe14ec2e6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20201/thumb/shibemp_200_200.png?1636768787",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x14aad57fb5f9a0c9ce136cf93521cbebe14ec2e6"
+  }
+}

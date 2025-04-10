@@ -1,0 +1,21 @@
+{
+  "symbol": "ALM",
+  "name": "AliumToken on Polygon",
+  "address": "0x1581929770be3275a82068c1135b6dd59c5334ed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15621/thumb/alium.jpg?1621338989",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7c38870e93a1f959cb6c533eb10bbc3e438aac11",
+    "moonriver": "0x1581929770be3275a82068c1135b6dd59c5334ed",
+    "metis-andromeda": "0x1581929770be3275a82068c1135b6dd59c5334ed",
+    "moonbeam": "0x1581929770be3275a82068c1135b6dd59c5334ed",
+    "aurora": "0xe8532e5514d9f80c7d0b1f29948873ee59fb5b06",
+    "fantom": "0x38540b4613d2e57ecf190d3486ae6f74591eb8a9",
+    "polygon-pos": "0x1581929770be3275a82068c1135b6dd59c5334ed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "USDR",
+  "name": "Real USD",
+  "address": "0x40379a439d4f6795b6fc9aa5687db461677a2dba",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27973/thumb/USDR-200x200.png?1666772134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x40379a439d4f6795b6fc9aa5687db461677a2dba"
+  }
+}

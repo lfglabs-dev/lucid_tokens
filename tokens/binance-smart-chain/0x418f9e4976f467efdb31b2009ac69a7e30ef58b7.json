@@ -1,0 +1,15 @@
+{
+  "symbol": "ENF",
+  "name": "enfineo",
+  "address": "0x418f9e4976f467efdb31b2009ac69a7e30ef58b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50434/thumb/ENF_Logo_250px.png?1727696219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x418f9e4976f467efdb31b2009ac69a7e30ef58b7"
+  }
+}

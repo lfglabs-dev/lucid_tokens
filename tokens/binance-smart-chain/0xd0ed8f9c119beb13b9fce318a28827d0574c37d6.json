@@ -1,0 +1,15 @@
+{
+  "symbol": "CPL",
+  "name": "CATERPILLAR",
+  "address": "0xd0ed8f9c119beb13b9fce318a28827d0574c37d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51945/thumb/logo.png?1732213880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd0ed8f9c119beb13b9fce318a28827d0574c37d6"
+  }
+}

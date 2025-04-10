@@ -1,0 +1,15 @@
+{
+  "symbol": "GAG",
+  "name": "Adgager Token",
+  "address": "0x737c77f0bcc8fc705b0803b9bb93b5aed69ff417",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50917/thumb/GAG-LOGO.jpg?1729580183",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x737c77f0bcc8fc705b0803b9bb93b5aed69ff417"
+  }
+}

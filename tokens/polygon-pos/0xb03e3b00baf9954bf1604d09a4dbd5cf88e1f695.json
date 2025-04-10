@@ -1,0 +1,17 @@
+{
+  "symbol": "EDU",
+  "name": "EDU Coin",
+  "address": "0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29948/thumb/EDU_Logo.png?1682327357",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+    "ethereum": "0x26aad156ba8efa501b32b42ffcdc8413f90e9c99",
+    "polygon-pos": "0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695"
+  }
+}

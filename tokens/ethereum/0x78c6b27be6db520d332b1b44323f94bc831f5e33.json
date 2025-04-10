@@ -1,0 +1,15 @@
+{
+  "symbol": "lvlwaUSDC",
+  "name": "Level Wrapped aUSDC",
+  "address": "0x78c6b27be6db520d332b1b44323f94bc831f5e33",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55114/thumb/usdc1.png?1743789339",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x78c6b27be6db520d332b1b44323f94bc831f5e33"
+  }
+}

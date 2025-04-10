@@ -1,0 +1,15 @@
+{
+  "symbol": "gold8",
+  "name": "GOLD8",
+  "address": "0x066aee69d93dee28b32a57febd1878a2d94f6b0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27481/thumb/gold8-200x200.png?1664246277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x066aee69d93dee28b32a57febd1878a2d94f6b0c"
+  }
+}

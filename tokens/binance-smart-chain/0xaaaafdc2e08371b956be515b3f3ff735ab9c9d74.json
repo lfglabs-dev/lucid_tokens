@@ -1,0 +1,15 @@
+{
+  "symbol": "AZ",
+  "name": "Azbit",
+  "address": "0xaaaafdc2e08371b956be515b3f3ff735ab9c9d74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4504/thumb/azbit.jpg?1566190849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaaaafdc2e08371b956be515b3f3ff735ab9c9d74"
+  }
+}

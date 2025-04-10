@@ -1,0 +1,16 @@
+{
+  "symbol": "SHELL",
+  "name": "MyShell Token",
+  "address": "0xf2c88757f8d03634671208935974b60a2a28bdb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54374/thumb/myshell.jpg?1739428226",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf2c88757f8d03634671208935974b60a2a28bdb3",
+    "binance-smart-chain": "0xf2c88757f8d03634671208935974b60a2a28bdb3"
+  }
+}

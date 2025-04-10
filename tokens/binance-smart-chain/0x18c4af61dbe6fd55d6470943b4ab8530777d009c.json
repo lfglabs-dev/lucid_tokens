@@ -1,0 +1,15 @@
+{
+  "symbol": "AGATA",
+  "name": "AgaTech",
+  "address": "0x18c4af61dbe6fd55d6470943b4ab8530777d009c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35835/thumb/IMG_20240229_111252_206.jpg?1709888815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x18c4af61dbe6fd55d6470943b4ab8530777d009c"
+  }
+}

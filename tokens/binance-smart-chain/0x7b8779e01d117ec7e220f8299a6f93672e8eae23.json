@@ -1,0 +1,15 @@
+{
+  "symbol": "IMT",
+  "name": "IMOV",
+  "address": "0x7b8779e01d117ec7e220f8299a6f93672e8eae23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26558/thumb/IMOV.png?1658796898",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7b8779e01d117ec7e220f8299a6f93672e8eae23"
+  }
+}

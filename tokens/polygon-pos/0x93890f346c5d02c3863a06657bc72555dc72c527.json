@@ -1,0 +1,16 @@
+{
+  "symbol": "ROUTE",
+  "name": "Route",
+  "address": "0x93890f346c5d02c3863a06657bc72555dc72c527",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39474/thumb/router.jpg?1722425047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60f67e1015b3f069dd4358a78c38f83fe3a667a9",
+    "polygon-pos": "0x93890f346c5d02c3863a06657bc72555dc72c527"
+  }
+}

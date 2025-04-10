@@ -1,0 +1,15 @@
+{
+  "symbol": "RING",
+  "name": "Ring Governance Token",
+  "address": "0x25f233c3e3676f9e900a89644a3fe5404d643c84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39470/thumb/200X200.png?1722401232",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x25f233c3e3676f9e900a89644a3fe5404d643c84"
+  }
+}

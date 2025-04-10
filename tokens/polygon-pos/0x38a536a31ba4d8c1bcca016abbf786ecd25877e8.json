@@ -1,0 +1,16 @@
+{
+  "symbol": "MNTL",
+  "name": "AssetMantle (PoS)",
+  "address": "0x38a536a31ba4d8c1bcca016abbf786ecd25877e8",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25181/thumb/assetmantle.png?1650548235",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c4f1df9c7de0c59778936c9b145ff56813f3295",
+    "polygon-pos": "0x38a536a31ba4d8c1bcca016abbf786ecd25877e8"
+  }
+}

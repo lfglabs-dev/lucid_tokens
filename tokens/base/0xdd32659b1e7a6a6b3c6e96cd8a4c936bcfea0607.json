@@ -1,0 +1,15 @@
+{
+  "symbol": "TRAI",
+  "name": "Trackgood AI",
+  "address": "0xdd32659b1e7a6a6b3c6e96cd8a4c936bcfea0607",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53251/thumb/IMG_4515.jpeg?1735891968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdd32659b1e7a6a6b3c6e96cd8a4c936bcfea0607"
+  }
+}

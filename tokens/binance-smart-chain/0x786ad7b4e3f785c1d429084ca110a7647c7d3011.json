@@ -1,0 +1,15 @@
+{
+  "symbol": "Neural",
+  "name": "Artificial Neural Network ",
+  "address": "0x786ad7b4e3f785c1d429084ca110a7647c7d3011",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52794/thumb/5965510000354903088__1_-removebg-preview.png?1734304472",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x786ad7b4e3f785c1d429084ca110a7647c7d3011"
+  }
+}

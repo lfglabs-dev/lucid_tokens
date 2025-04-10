@@ -1,0 +1,15 @@
+{
+  "symbol": "CCFI",
+  "name": "CloudCoin Finance",
+  "address": "0x3439baa16ad653f644fb9f1781113d80590542a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31304/thumb/ccfi_token_alpha_v2_1880x1880px_72dpi_small.png?1692344941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3439baa16ad653f644fb9f1781113d80590542a5"
+  }
+}

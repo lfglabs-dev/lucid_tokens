@@ -1,0 +1,17 @@
+{
+  "symbol": "CHEX",
+  "name": "Chintai Exchange Token",
+  "address": "0xc43f3ae305a92043bd9b62ebd2fe14f7547ee485",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10349/thumb/1_0zxuLe6QnvfsZPFzOoUteQ.png?1578434355",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
+    "binance-smart-chain": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
+    "base": "0xc43f3ae305a92043bd9b62ebd2fe14f7547ee485"
+  }
+}

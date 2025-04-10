@@ -1,0 +1,18 @@
+{
+  "symbol": "EEM.d",
+  "name": "iShares MSCI Emerging Markets ETF - Dinari",
+  "address": "0x0709f6caceefd70b867ed3ea278b911238eb7f6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54361/thumb/d-token-200.png?1739401272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5b041a4e76b08c5afc1e0b9a789cbfab5ebec993",
+    "ethereum": "0xf0e9e98ef4b78ddfbbfafba519345d877eb7a81e",
+    "blast": "0xe99292ca55f6e01765b900dadd471c63136e6760",
+    "base": "0x0709f6caceefd70b867ed3ea278b911238eb7f6f"
+  }
+}

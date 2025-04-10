@@ -1,0 +1,15 @@
+{
+  "symbol": "NLC",
+  "name": "NoLimitCoin",
+  "address": "0xc157ee77518769b8009642f68a8d6a500ff59d53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/758/thumb/nolimitcoin.png?1548329142",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc157ee77518769b8009642f68a8d6a500ff59d53"
+  }
+}

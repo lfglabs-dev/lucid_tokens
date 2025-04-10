@@ -1,0 +1,16 @@
+{
+  "symbol": "XDNA",
+  "name": "extraDNA",
+  "address": "0x80dba9c32b7ab5445e482387a5522e24c0ba4c24",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12667/thumb/Logo_coin_black.png?1601463830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb",
+    "binance-smart-chain": "0x80dba9c32b7ab5445e482387a5522e24c0ba4c24"
+  }
+}

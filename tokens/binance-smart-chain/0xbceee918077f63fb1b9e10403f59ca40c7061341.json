@@ -1,0 +1,15 @@
+{
+  "symbol": "PAPADOGE",
+  "name": "Papa Doge Coin",
+  "address": "0xbceee918077f63fb1b9e10403f59ca40c7061341",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16721/thumb/PAPADOGE.jpg?1624848914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbceee918077f63fb1b9e10403f59ca40c7061341"
+  }
+}

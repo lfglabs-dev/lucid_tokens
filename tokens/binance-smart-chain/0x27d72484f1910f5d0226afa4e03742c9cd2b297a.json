@@ -1,0 +1,16 @@
+{
+  "symbol": "MSCP",
+  "name": "Moonscape",
+  "address": "0x27d72484f1910f5d0226afa4e03742c9cd2b297a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21142/thumb/14522.png?1638396270",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x27d72484f1910f5d0226afa4e03742c9cd2b297a",
+    "moonriver": "0x5c22ba65f65adffadfc0947382f2e7c286a0fe45"
+  }
+}

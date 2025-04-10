@@ -1,0 +1,16 @@
+{
+  "symbol": "HTD",
+  "name": "HeroesTD",
+  "address": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20953/thumb/htd.png?1638775300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
+    "kardiachain": "0xe58ea819a98c87ab1a763133a234c3954bb15901"
+  }
+}

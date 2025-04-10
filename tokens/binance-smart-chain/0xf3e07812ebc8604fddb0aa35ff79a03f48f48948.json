@@ -1,0 +1,16 @@
+{
+  "symbol": "JART",
+  "name": "JournArt",
+  "address": "0xf3e07812ebc8604fddb0aa35ff79a03f48f48948",
+  "decimals": 4,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29412/thumb/JournArt%28200%29.png?1678597820",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf3e07812ebc8604fddb0aa35ff79a03f48f48948",
+    "ethereum": "0xf3e07812ebc8604fddb0aa35ff79a03f48f48948"
+  }
+}

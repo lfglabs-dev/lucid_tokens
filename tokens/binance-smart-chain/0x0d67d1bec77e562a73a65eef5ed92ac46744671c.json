@@ -1,0 +1,15 @@
+{
+  "symbol": "SCARCITY",
+  "name": "SCARCITY",
+  "address": "0x0d67d1bec77e562a73a65eef5ed92ac46744671c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39635/thumb/SCARCITY_LOGO.png?1723268177",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0d67d1bec77e562a73a65eef5ed92ac46744671c"
+  }
+}

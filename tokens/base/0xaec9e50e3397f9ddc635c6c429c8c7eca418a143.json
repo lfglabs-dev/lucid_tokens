@@ -1,0 +1,18 @@
+{
+  "symbol": "arcUSD",
+  "name": "arcUSD",
+  "address": "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38490/thumb/USDa.png?1717688209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "re-al": "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143",
+    "optimistic-ethereum": "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143",
+    "binance-smart-chain": "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143",
+    "base": "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143"
+  }
+}

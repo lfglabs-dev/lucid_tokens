@@ -1,0 +1,15 @@
+{
+  "symbol": "SHKK",
+  "name": "Shakaka",
+  "address": "0x77c6986a83d5dbb6162ddf4f1747691005b4388a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39519/thumb/8373198719202603226-2.png?1722770492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x77c6986a83d5dbb6162ddf4f1747691005b4388a"
+  }
+}

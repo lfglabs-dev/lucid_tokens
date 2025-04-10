@@ -1,0 +1,15 @@
+{
+  "symbol": "HBIT",
+  "name": "HashBit 2.0",
+  "address": "0xd5239b38b93b54a31b348afaac3edcdf9e3c546a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16375/thumb/HBIT_COIN_LOGO_200.png?1623830124",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd5239b38b93b54a31b348afaac3edcdf9e3c546a"
+  }
+}

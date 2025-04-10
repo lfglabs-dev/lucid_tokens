@@ -1,0 +1,15 @@
+{
+  "symbol": "SFX",
+  "name": "Space Frog X",
+  "address": "0xb8fd1438ca2af47b940fff34d13cf58c64ac96a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53997/thumb/photo_2025-01-21_11-52-22.png?1737888082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb8fd1438ca2af47b940fff34d13cf58c64ac96a1"
+  }
+}

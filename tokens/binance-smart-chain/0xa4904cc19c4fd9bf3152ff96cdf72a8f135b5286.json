@@ -1,0 +1,15 @@
+{
+  "symbol": "Cpet",
+  "name": "Cloud Pet",
+  "address": "0xa4904cc19c4fd9bf3152ff96cdf72a8f135b5286",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28343/thumb/Cpet_Logo.png?1669691304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa4904cc19c4fd9bf3152ff96cdf72a8f135b5286"
+  }
+}

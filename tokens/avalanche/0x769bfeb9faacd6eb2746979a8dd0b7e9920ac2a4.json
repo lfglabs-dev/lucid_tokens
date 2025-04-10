@@ -1,0 +1,15 @@
+{
+  "symbol": "zJoe",
+  "name": "zJoe",
+  "address": "0x769bfeb9faacd6eb2746979a8dd0b7e9920ac2a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25532/thumb/zJOE-200px.png?1652250895",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x769bfeb9faacd6eb2746979a8dd0b7e9920ac2a4"
+  }
+}

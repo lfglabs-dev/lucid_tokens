@@ -1,0 +1,15 @@
+{
+  "symbol": "ATK",
+  "name": "Attack",
+  "address": "0xf868939ee81f04f463010bc52eab91c0839ef08c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21333/thumb/attack.PNG?1638948221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf868939ee81f04f463010bc52eab91c0839ef08c"
+  }
+}

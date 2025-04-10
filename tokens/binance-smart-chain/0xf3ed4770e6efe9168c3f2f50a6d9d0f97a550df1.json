@@ -1,0 +1,15 @@
+{
+  "symbol": "DKEY",
+  "name": "dkey",
+  "address": "0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20212/thumb/dkey.PNG?1636669147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1"
+  }
+}

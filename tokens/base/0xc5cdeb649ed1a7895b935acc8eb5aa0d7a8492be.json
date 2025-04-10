@@ -1,0 +1,15 @@
+{
+  "symbol": "uCHZ",
+  "name": "Chiliz (Universal)",
+  "address": "0xc5cdeb649ed1a7895b935acc8eb5aa0d7a8492be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54704/thumb/UA-CHZ.png?1741108067",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc5cdeb649ed1a7895b935acc8eb5aa0d7a8492be"
+  }
+}

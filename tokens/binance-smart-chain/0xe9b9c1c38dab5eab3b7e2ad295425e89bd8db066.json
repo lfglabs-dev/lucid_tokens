@@ -1,0 +1,16 @@
+{
+  "symbol": "PCNT",
+  "name": "Playcent",
+  "address": "0xe9b9c1c38dab5eab3b7e2ad295425e89bd8db066",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14335/thumb/1_B5bFcgBld5poUj_c-_K1Jw.png?1615444831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
+    "binance-smart-chain": "0xe9b9c1c38dab5eab3b7e2ad295425e89bd8db066"
+  }
+}

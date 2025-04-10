@@ -1,0 +1,17 @@
+{
+  "symbol": "ORN",
+  "name": "Orion Protocol",
+  "address": "0xe4ca1f75eca6214393fce1c1b316c237664eaa8e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11841/thumb/orion_logo.png?1594943318",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+    "energi": "0x5e2d55bc07b63b18af6c9ed8da06cd33258ebb35",
+    "binance-smart-chain": "0xe4ca1f75eca6214393fce1c1b316c237664eaa8e"
+  }
+}

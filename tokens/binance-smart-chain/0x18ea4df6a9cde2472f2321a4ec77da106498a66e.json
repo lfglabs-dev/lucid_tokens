@@ -1,0 +1,15 @@
+{
+  "symbol": "SINGULARRY",
+  "name": "SINGULARRY",
+  "address": "0x18ea4df6a9cde2472f2321a4ec77da106498a66e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52290/thumb/Bildschirmfoto_2024-11-29_um_10.23.16.png?1732962869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x18ea4df6a9cde2472f2321a4ec77da106498a66e"
+  }
+}

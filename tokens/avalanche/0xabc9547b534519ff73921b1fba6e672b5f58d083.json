@@ -1,0 +1,24 @@
+{
+  "symbol": "WOO.e",
+  "name": "Wootrade Network",
+  "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12921/thumb/w2UiemF__400x400.jpg?1603670367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+    "zksync": "0x9e22d758629761fc5708c171d06c2fabb60b5159",
+    "linea": "0xf3df0a31ec5ea438150987805e841f960b9471b6",
+    "mantle": "0xf3df0a31ec5ea438150987805e841f960b9471b6",
+    "binance-smart-chain": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+    "fantom": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
+    "avalanche": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+    "arbitrum-one": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+    "polygon-pos": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+    "base": "0xf3df0a31ec5ea438150987805e841f960b9471b6"
+  }
+}

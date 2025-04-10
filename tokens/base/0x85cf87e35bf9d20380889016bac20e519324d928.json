@@ -1,0 +1,15 @@
+{
+  "symbol": "SKINUT",
+  "name": "Skimask Pnut",
+  "address": "0x85cf87e35bf9d20380889016bac20e519324d928",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52899/thumb/pnut200x200.png?1734635658",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x85cf87e35bf9d20380889016bac20e519324d928"
+  }
+}

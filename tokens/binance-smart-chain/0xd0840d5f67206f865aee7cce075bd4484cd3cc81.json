@@ -1,0 +1,15 @@
+{
+  "symbol": "AFEN",
+  "name": "Afen",
+  "address": "0xd0840d5f67206f865aee7cce075bd4484cd3cc81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14957/thumb/cropped-cropped-afen-e1616095076861.png?1619144008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd0840d5f67206f865aee7cce075bd4484cd3cc81"
+  }
+}

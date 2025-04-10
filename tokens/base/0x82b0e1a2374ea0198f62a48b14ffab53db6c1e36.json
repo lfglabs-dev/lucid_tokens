@@ -1,0 +1,15 @@
+{
+  "symbol": "PEGG",
+  "name": "PokPok Golden Egg",
+  "address": "0x82b0e1a2374ea0198f62a48b14ffab53db6c1e36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40102/thumb/golden_eggs_%281%29.png?1725694597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x82b0e1a2374ea0198f62a48b14ffab53db6c1e36"
+  }
+}

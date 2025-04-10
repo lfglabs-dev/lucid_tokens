@@ -1,0 +1,15 @@
+{
+  "symbol": "POLX",
+  "name": "Polylastic",
+  "address": "0x187ae45f2d361cbce37c6a8622119c91148f261b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15331/thumb/logo-mark-transparent_4x.png?1620570063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x187ae45f2d361cbce37c6a8622119c91148f261b"
+  }
+}

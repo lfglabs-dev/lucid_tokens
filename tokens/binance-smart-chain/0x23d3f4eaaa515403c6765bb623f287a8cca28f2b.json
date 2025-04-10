@@ -1,0 +1,15 @@
+{
+  "symbol": "BROCCOLI",
+  "name": "Broccoli",
+  "address": "0x23d3f4eaaa515403c6765bb623f287a8cca28f2b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54449/thumb/broccoli3-logo.jpg?1739777543",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x23d3f4eaaa515403c6765bb623f287a8cca28f2b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KAKI",
+  "name": "Doge KaKi",
+  "address": "0x42414624c55a9cba80789f47c8f9828a7974e40f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29202/thumb/DOGEKAKI.jpg?1677307558",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x42414624c55a9cba80789f47c8f9828a7974e40f"
+  }
+}

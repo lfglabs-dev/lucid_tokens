@@ -1,0 +1,15 @@
+{
+  "symbol": "CHESS",
+  "name": "Chess",
+  "address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16964/thumb/logo_transparent_bg_200x200.png?1625800982",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6"
+  }
+}

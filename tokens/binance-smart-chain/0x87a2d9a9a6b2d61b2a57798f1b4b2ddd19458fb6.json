@@ -1,0 +1,15 @@
+{
+  "symbol": "KDG",
+  "name": "KDG Token",
+  "address": "0x87a2d9a9a6b2d61b2a57798f1b4b2ddd19458fb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10914/thumb/8VIE2nF1_400x400.jpg?1585890794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x87a2d9a9a6b2d61b2a57798f1b4b2ddd19458fb6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SOL",
+  "name": "SOLANA",
+  "address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54582/thumb/wsol.png?1740542147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x570a5d26f7765ecb712c0924e4de545b89fd43df"
+  }
+}

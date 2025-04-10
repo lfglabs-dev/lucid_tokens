@@ -1,0 +1,15 @@
+{
+  "symbol": "CTG",
+  "name": "City Tycoon Games",
+  "address": "0xb3ba14f6a482dfdebc3c2fb726ac10df91ee504c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28118/thumb/ctg.png?1667566182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb3ba14f6a482dfdebc3c2fb726ac10df91ee504c"
+  }
+}

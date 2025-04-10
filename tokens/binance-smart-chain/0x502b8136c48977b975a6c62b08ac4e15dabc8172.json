@@ -1,0 +1,15 @@
+{
+  "symbol": "CS",
+  "name": "Child Support",
+  "address": "0x502b8136c48977b975a6c62b08ac4e15dabc8172",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30414/thumb/child_support.jpg?1684389637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x502b8136c48977b975a6c62b08ac4e15dabc8172"
+  }
+}

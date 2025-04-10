@@ -1,0 +1,15 @@
+{
+  "symbol": "BSX",
+  "name": "BSX",
+  "address": "0xd47f3e45b23b7594f5d5e1ccfde63237c60be49e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53598/thumb/white_bsx_round_200.png?1736808552",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd47f3e45b23b7594f5d5e1ccfde63237c60be49e"
+  }
+}

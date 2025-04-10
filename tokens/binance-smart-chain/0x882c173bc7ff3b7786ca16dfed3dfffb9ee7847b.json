@@ -1,0 +1,15 @@
+{
+  "symbol": "vBTC",
+  "name": "Venus BTC",
+  "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13904/thumb/xbtc.png?1612795131",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b"
+  }
+}

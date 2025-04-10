@@ -1,0 +1,15 @@
+{
+  "symbol": "MELB",
+  "name": "Minelab",
+  "address": "0x92d28e49a4ffd443c1e2a907dcc07d2a41e67f4d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32544/thumb/coinlogo.png?1698474124",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x92d28e49a4ffd443c1e2a907dcc07d2a41e67f4d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "VPND",
+  "name": "VaporNodes",
+  "address": "0x83a283641c6b4df383bcddf807193284c84c5342",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21977/thumb/logo-rounded.png?1644476484",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x83a283641c6b4df383bcddf807193284c84c5342"
+  }
+}

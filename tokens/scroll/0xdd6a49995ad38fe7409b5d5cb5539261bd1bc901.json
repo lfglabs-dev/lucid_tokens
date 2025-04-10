@@ -1,0 +1,15 @@
+{
+  "symbol": "CAT",
+  "name": "Danjuan Cat",
+  "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901"
+  }
+}

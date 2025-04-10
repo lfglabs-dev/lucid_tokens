@@ -1,0 +1,15 @@
+{
+  "symbol": "HAPPY",
+  "name": "Happy Cat",
+  "address": "0x2e72393a57287b1a09857db589b27bb0fd499922",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51396/thumb/photo_2024-10-09_13-41-12.jpg?1731038028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2e72393a57287b1a09857db589b27bb0fd499922"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XOO",
+  "name": "XOO TOKEN",
+  "address": "0xcf2d710d8ebeb62e67a4e50e9933551121c2316e",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51294/thumb/7.png?1730599708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xcf2d710d8ebeb62e67a4e50e9933551121c2316e"
+  }
+}

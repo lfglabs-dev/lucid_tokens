@@ -1,0 +1,15 @@
+{
+  "symbol": "TSM",
+  "name": "Tusima Token",
+  "address": "0x2bd236ad144753bd5839d82c46ee2c2225b9e0c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50670/thumb/200_x_200.png?1728670115",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2bd236ad144753bd5839d82c46ee2c2225b9e0c0"
+  }
+}

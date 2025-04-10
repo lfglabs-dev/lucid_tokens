@@ -1,0 +1,15 @@
+{
+  "symbol": "ASO",
+  "name": "Aso Finance",
+  "address": "0x54e7780089aee73ef98b8238b0866a517914254e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38883/thumb/image_-_2024-06-25T182500.895.png?1719377959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x54e7780089aee73ef98b8238b0866a517914254e"
+  }
+}

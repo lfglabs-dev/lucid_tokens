@@ -1,0 +1,17 @@
+{
+  "symbol": "ALOT",
+  "name": "Dexalot Token",
+  "address": "0x9d5a383581882750ce27f84c72f017b378edb736",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24188/thumb/logo_200x200.png?1646838979",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x093783055f9047c2bff99c4e414501f8a147bc69",
+    "arbitrum-one": "0x9d5a383581882750ce27f84c72f017b378edb736",
+    "base": "0x9d5a383581882750ce27f84c72f017b378edb736"
+  }
+}

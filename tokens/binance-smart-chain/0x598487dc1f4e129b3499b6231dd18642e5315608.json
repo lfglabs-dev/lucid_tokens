@@ -1,0 +1,15 @@
+{
+  "symbol": "LOGG",
+  "name": "Logarithm Games Token",
+  "address": "0x598487dc1f4e129b3499b6231dd18642e5315608",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34539/thumb/logo200.png?1705336869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x598487dc1f4e129b3499b6231dd18642e5315608"
+  }
+}

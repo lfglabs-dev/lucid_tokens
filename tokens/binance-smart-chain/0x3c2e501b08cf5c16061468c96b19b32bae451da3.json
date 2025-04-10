@@ -1,0 +1,15 @@
+{
+  "symbol": "EVRF",
+  "name": "EverReflect",
+  "address": "0x3c2e501b08cf5c16061468c96b19b32bae451da3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22903/thumb/evrf.png?1642935322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3c2e501b08cf5c16061468c96b19b32bae451da3"
+  }
+}

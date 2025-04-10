@@ -1,0 +1,15 @@
+{
+  "symbol": "UBPS",
+  "name": "United Base Postal",
+  "address": "0x0c90c756350fb803a7d5d9f9ee5ac29e77369973",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37638/thumb/Logo-2-Dex-Tools.png?1715105556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0c90c756350fb803a7d5d9f9ee5ac29e77369973"
+  }
+}

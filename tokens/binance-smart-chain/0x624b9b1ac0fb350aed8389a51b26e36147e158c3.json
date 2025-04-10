@@ -1,0 +1,15 @@
+{
+  "symbol": "NERO",
+  "name": "Nero Token",
+  "address": "0x624b9b1ac0fb350aed8389a51b26e36147e158c3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31492/thumb/B3CDA9E7-1969-4617-BBAE-737BA6BF2E0E.jpeg?1693355634",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x624b9b1ac0fb350aed8389a51b26e36147e158c3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ZDCV2",
+  "name": "Zodiacsv2",
+  "address": "0x213fd3c787b6c452f50fd91f14e12ddf04a7ab4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22589/thumb/LUl0lEMr_400x400.jpg?1642144242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x213fd3c787b6c452f50fd91f14e12ddf04a7ab4a"
+  }
+}

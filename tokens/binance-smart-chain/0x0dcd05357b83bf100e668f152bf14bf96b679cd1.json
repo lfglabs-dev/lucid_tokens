@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPEMUSK",
+  "name": "PepeMusk",
+  "address": "0x0dcd05357b83bf100e668f152bf14bf96b679cd1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54805/thumb/Nh72-MoL_200x200.jpg?1741757127",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0dcd05357b83bf100e668f152bf14bf96b679cd1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "insurance",
+  "name": "insurance",
+  "address": "0x64e4fea6e4f3637025c7bcd878e2b238b01f7d4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51129/thumb/insurance.png?1730182564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x64e4fea6e4f3637025c7bcd878e2b238b01f7d4e"
+  }
+}

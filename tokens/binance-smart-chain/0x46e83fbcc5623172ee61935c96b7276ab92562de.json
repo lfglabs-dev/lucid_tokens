@@ -1,0 +1,15 @@
+{
+  "symbol": "KNFT",
+  "name": "KStarNFT",
+  "address": "0x46e83fbcc5623172ee61935c96b7276ab92562de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31994/thumb/kstar.jpg?1695969475",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x46e83fbcc5623172ee61935c96b7276ab92562de"
+  }
+}

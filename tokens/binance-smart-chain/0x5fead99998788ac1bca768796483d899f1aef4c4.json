@@ -1,0 +1,15 @@
+{
+  "symbol": "JIND",
+  "name": "JINDO INU",
+  "address": "0x5fead99998788ac1bca768796483d899f1aef4c4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15521/thumb/_POP28D3_400x400.jpg?1621119276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5fead99998788ac1bca768796483d899f1aef4c4"
+  }
+}

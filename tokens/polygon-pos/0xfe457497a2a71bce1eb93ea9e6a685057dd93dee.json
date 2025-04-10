@@ -1,0 +1,17 @@
+{
+  "symbol": "BNSD",
+  "name": "bns.finance",
+  "address": "0xfe457497a2a71bce1eb93ea9e6a685057dd93dee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12368/thumb/bnsd.png?1599358388",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
+    "binance-smart-chain": "0xc1165227519ffd22fdc77ceb1037b9b284eef068",
+    "polygon-pos": "0xfe457497a2a71bce1eb93ea9e6a685057dd93dee"
+  }
+}

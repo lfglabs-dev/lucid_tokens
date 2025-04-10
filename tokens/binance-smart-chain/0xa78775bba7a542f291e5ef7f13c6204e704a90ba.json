@@ -1,0 +1,15 @@
+{
+  "symbol": "METO",
+  "name": "Metafluence",
+  "address": "0xa78775bba7a542f291e5ef7f13c6204e704a90ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22998/thumb/Asset_1.png?1643087185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa78775bba7a542f291e5ef7f13c6204e704a90ba"
+  }
+}

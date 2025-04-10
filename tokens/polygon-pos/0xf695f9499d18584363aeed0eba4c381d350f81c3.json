@@ -1,0 +1,15 @@
+{
+  "symbol": "RVR",
+  "name": "Reality-VR",
+  "address": "0xf695f9499d18584363aeed0eba4c381d350f81c3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29827/thumb/1F8AA46F-4EBD-439E-9496-512AE24DE06D.png?1681706268",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf695f9499d18584363aeed0eba4c381d350f81c3"
+  }
+}

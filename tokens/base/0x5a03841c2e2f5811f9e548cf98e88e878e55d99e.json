@@ -1,0 +1,15 @@
+{
+  "symbol": "uAXS",
+  "name": "Axie Infinity Shards (Universal)",
+  "address": "0x5a03841c2e2f5811f9e548cf98e88e878e55d99e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54703/thumb/UA-AXS.png?1741108025",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5a03841c2e2f5811f9e548cf98e88e878e55d99e"
+  }
+}

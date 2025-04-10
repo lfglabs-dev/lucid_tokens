@@ -1,0 +1,15 @@
+{
+  "symbol": "DOT",
+  "name": "Polkadot Token",
+  "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15457/thumb/-Tj2WF_6_400x400.jpg?1620895613",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
+  }
+}

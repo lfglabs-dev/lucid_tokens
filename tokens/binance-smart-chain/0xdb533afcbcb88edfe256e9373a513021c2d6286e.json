@@ -1,0 +1,15 @@
+{
+  "symbol": "GNFTY",
+  "name": "GoNFTY",
+  "address": "0xdb533afcbcb88edfe256e9373a513021c2d6286e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36408/thumb/3._GNFTY_Token.png?1711370491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdb533afcbcb88edfe256e9373a513021c2d6286e"
+  }
+}

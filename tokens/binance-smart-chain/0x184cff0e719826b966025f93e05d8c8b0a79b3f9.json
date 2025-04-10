@@ -1,0 +1,16 @@
+{
+  "symbol": "TRIAS",
+  "name": "Trias Token",
+  "address": "0x184cff0e719826b966025f93e05d8c8b0a79b3f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13963/thumb/5ELqtwp__400x400_%281%29.jpg?1613527958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x184cff0e719826b966025f93e05d8c8b0a79b3f9",
+    "ethereum": "0x3a856d4effa670c54585a5d523e96513e148e95d"
+  }
+}

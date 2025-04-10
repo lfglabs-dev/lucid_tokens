@@ -1,0 +1,15 @@
+{
+  "symbol": "STORM",
+  "name": " STORM Token",
+  "address": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18170/thumb/nFiYZ2xO_400x400.png?1630888844",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b"
+  }
+}

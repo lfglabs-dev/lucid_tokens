@@ -1,0 +1,15 @@
+{
+  "symbol": "NOVAX",
+  "name": "NovaX",
+  "address": "0xb800aff8391abacdeb0199ab9cebf63771fcf491",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31973/thumb/Logo_NovaX.png?1695872646",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb800aff8391abacdeb0199ab9cebf63771fcf491"
+  }
+}

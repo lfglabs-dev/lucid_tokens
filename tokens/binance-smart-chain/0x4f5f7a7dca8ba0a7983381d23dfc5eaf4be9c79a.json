@@ -1,0 +1,15 @@
+{
+  "symbol": "STI",
+  "name": "Seek Tiger",
+  "address": "0x4f5f7a7dca8ba0a7983381d23dfc5eaf4be9c79a",
+  "decimals": 10,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24628/thumb/50d6850967efa02b20fb24c6c7ba518.png?1648457363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f5f7a7dca8ba0a7983381d23dfc5eaf4be9c79a"
+  }
+}

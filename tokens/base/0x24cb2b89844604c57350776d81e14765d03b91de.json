@@ -1,0 +1,17 @@
+{
+  "symbol": "zunETH",
+  "name": "Zunami Omni ETH",
+  "address": "0x24cb2b89844604c57350776d81e14765d03b91de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37835/thumb/zunETH_200x200.png?1715741123",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x24cb2b89844604c57350776d81e14765d03b91de",
+    "optimistic-ethereum": "0x2d691c2492e056adcae7ca317569af25910fc4cb",
+    "arbitrum-one": "0x06d65ec13465ac5a4376dc101e1141252c4addf8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LTP",
+  "name": "Listapie",
+  "address": "0x56fa5f7bf457454be33d8b978c86a5f5b9dd84c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52802/thumb/listapie.jpg?1734337836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x56fa5f7bf457454be33d8b978c86a5f5b9dd84c2"
+  }
+}

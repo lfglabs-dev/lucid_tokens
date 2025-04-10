@@ -1,0 +1,15 @@
+{
+  "symbol": "EZI",
+  "name": "Ezillion",
+  "address": "0xca0c1c12466a57b26850b05a0ba2fb39f9763a0c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25472/thumb/ezi.jpg?1652004435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xca0c1c12466a57b26850b05a0ba2fb39f9763a0c"
+  }
+}

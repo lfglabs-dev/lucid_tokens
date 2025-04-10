@@ -1,0 +1,15 @@
+{
+  "symbol": "SBF",
+  "name": "SwapBlast Finance Token",
+  "address": "0xd07379a755a8f11b57610154861d694b2a0f615a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35673/thumb/SBF200.png?1709508184",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xd07379a755a8f11b57610154861d694b2a0f615a"
+  }
+}

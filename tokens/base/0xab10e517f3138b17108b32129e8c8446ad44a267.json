@@ -1,0 +1,15 @@
+{
+  "symbol": "BTA",
+  "name": "Battle.tech by Virtuals",
+  "address": "0xab10e517f3138b17108b32129e8c8446ad44a267",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53605/thumb/Ge0LvxrXAAA0L4W.png.jpeg?1736872853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xab10e517f3138b17108b32129e8c8446ad44a267"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "REBELZ",
+  "name": "Rebel by Virtuals",
+  "address": "0x0aa9876c9ccf97be7eed5c4cee91d556bf7dbac3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52979/thumb/rebel_uri_.png?1734897206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0aa9876c9ccf97be7eed5c4cee91d556bf7dbac3"
+  }
+}

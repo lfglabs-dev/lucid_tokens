@@ -1,0 +1,15 @@
+{
+  "symbol": "BSR",
+  "name": "Binstarter",
+  "address": "0x5ce12f6d9f2fcaf0b11494a1c39e09eeb16ca7e8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17554/thumb/BSR200X200.png?1628227724",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ce12f6d9f2fcaf0b11494a1c39e09eeb16ca7e8"
+  }
+}

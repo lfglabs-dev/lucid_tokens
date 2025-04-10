@@ -1,0 +1,15 @@
+{
+  "symbol": "AI",
+  "name": "AICoin",
+  "address": "0xc8354507f0361712143efa635cce060788888888",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30308/thumb/HZixmXSs_400x400.jpg?1683875819",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc8354507f0361712143efa635cce060788888888"
+  }
+}

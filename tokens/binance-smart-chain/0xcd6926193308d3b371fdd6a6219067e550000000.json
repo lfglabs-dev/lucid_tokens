@@ -1,0 +1,16 @@
+{
+  "symbol": "NEST",
+  "name": "NEST",
+  "address": "0xcd6926193308d3b371fdd6a6219067e550000000",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11284/thumb/52954052.png?1589868539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcd6926193308d3b371fdd6a6219067e550000000",
+    "binance-smart-chain": "0xcd6926193308d3b371fdd6a6219067e550000000"
+  }
+}

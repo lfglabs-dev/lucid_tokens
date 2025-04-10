@@ -1,0 +1,15 @@
+{
+  "symbol": "BITWALLET",
+  "name": "BITCOIN E-WALLET",
+  "address": "0xc868642d123289f0a6cb34a3c2810a0a46141947",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27378/thumb/photo.jpg?1663741312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc868642d123289f0a6cb34a3c2810a0a46141947"
+  }
+}

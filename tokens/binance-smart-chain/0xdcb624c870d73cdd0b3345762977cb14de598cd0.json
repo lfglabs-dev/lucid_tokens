@@ -1,0 +1,15 @@
+{
+  "symbol": "YFIH2",
+  "name": "YFIH2",
+  "address": "0xdcb624c870d73cdd0b3345762977cb14de598cd0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23077/thumb/wnzHxD5M_400x400.jpg?1643176541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdcb624c870d73cdd0b3345762977cb14de598cd0"
+  }
+}

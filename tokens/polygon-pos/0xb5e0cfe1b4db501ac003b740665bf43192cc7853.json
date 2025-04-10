@@ -1,0 +1,15 @@
+{
+  "symbol": "WGhost",
+  "name": "Wrapped Ghost",
+  "address": "0xb5e0cfe1b4db501ac003b740665bf43192cc7853",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11339/thumb/mxpD9xS.png?1622195968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb5e0cfe1b4db501ac003b740665bf43192cc7853"
+  }
+}

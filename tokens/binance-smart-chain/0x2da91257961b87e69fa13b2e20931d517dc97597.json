@@ -1,0 +1,15 @@
+{
+  "symbol": "LEMX",
+  "name": "Lemon",
+  "address": "0x2da91257961b87e69fa13b2e20931d517dc97597",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51243/thumb/LEMON.png?1730449225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2da91257961b87e69fa13b2e20931d517dc97597"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DEAR",
+  "name": "DEAR Token",
+  "address": "0x4d08ef733cf27b4cd37810cf9b72a82d2a135549",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50938/thumb/icon-200.png?1729584001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4d08ef733cf27b4cd37810cf9b72a82d2a135549"
+  }
+}

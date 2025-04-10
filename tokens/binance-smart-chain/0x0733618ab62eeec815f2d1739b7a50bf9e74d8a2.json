@@ -1,0 +1,15 @@
+{
+  "symbol": "PMG",
+  "name": "Pomerium Ecosystem Token",
+  "address": "0x0733618ab62eeec815f2d1739b7a50bf9e74d8a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0733618ab62eeec815f2d1739b7a50bf9e74d8a2"
+  }
+}

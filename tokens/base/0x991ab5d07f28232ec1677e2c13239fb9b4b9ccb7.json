@@ -1,0 +1,15 @@
+{
+  "symbol": "SMITH",
+  "name": "Agent Smith by Virtuals",
+  "address": "0x991ab5d07f28232ec1677e2c13239fb9b4b9ccb7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54903/thumb/smith_portrait.jpg?1742449619",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x991ab5d07f28232ec1677e2c13239fb9b4b9ccb7"
+  }
+}

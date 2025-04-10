@@ -1,0 +1,15 @@
+{
+  "symbol": "BNBAI",
+  "name": "BNB Agents",
+  "address": "0x2aabe2ef9ee8ab04c6f27c4284c3f268769b35ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53821/thumb/BNB_AGENT_TOKEN.png?1737488564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2aabe2ef9ee8ab04c6f27c4284c3f268769b35ec"
+  }
+}

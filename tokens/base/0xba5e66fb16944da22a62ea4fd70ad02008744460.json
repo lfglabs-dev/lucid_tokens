@@ -1,0 +1,15 @@
+{
+  "symbol": "TURBO",
+  "name": "Based Turbo",
+  "address": "0xba5e66fb16944da22a62ea4fd70ad02008744460",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52830/thumb/IMG_0966.png?1734454793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xba5e66fb16944da22a62ea4fd70ad02008744460"
+  }
+}

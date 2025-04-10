@@ -1,0 +1,15 @@
+{
+  "symbol": "BNZ",
+  "name": "Bonez",
+  "address": "0x4d6ec47118f807ace03d3b3a4ee6aa96cb2ab677",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38353/thumb/bnz-logo.png?1717146509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x4d6ec47118f807ace03d3b3a4ee6aa96cb2ab677"
+  }
+}

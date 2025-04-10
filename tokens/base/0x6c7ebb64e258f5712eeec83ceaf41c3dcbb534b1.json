@@ -1,0 +1,15 @@
+{
+  "symbol": "VAIN",
+  "name": "Vainguard by Virtuals",
+  "address": "0x6c7ebb64e258f5712eeec83ceaf41c3dcbb534b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52365/thumb/Vain_CG.png?1733210740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6c7ebb64e258f5712eeec83ceaf41c3dcbb534b1"
+  }
+}

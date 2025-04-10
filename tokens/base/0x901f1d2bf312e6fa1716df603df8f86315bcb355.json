@@ -1,0 +1,15 @@
+{
+  "symbol": "LINKS",
+  "name": "Links",
+  "address": "0x901f1d2bf312e6fa1716df603df8f86315bcb355",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54627/thumb/links-logo.jpg?1740753903",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x901f1d2bf312e6fa1716df603df8f86315bcb355"
+  }
+}

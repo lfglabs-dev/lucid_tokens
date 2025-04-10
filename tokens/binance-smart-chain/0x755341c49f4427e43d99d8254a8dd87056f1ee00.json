@@ -1,0 +1,18 @@
+{
+  "symbol": "ELG",
+  "name": "EscoinToken",
+  "address": "0x755341c49f4427e43d99d8254a8dd87056f1ee00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13566/thumb/escoin-200.png?1609833886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
+    "binance-smart-chain": "0x755341c49f4427e43d99d8254a8dd87056f1ee00",
+    "arbitrum-one": "0x89d59a38eb2a91df58a709bb249bf1d13ad11037",
+    "polygon-pos": "0x8226ac9edb26ff16da19151042a8ba3bb2cc237f"
+  }
+}

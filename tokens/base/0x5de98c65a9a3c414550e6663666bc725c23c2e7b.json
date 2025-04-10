@@ -1,0 +1,17 @@
+{
+  "symbol": "MSTR.d",
+  "name": "MicroStrategy Inc - Dinari",
+  "address": "0x5de98c65a9a3c414550e6663666bc725c23c2e7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53672/thumb/d-token-200.png?1737007903",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xdf7a6ce3b9087251f5859f42ca79ce34f4a88460",
+    "blast": "0xb85415a2e44d2911b265e578f9468fc300e78e49",
+    "base": "0x5de98c65a9a3c414550e6663666bc725c23c2e7b"
+  }
+}

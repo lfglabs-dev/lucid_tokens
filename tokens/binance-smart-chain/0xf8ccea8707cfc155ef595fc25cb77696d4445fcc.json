@@ -1,0 +1,15 @@
+{
+  "symbol": "FOMOS",
+  "name": "FomosFi",
+  "address": "0xf8ccea8707cfc155ef595fc25cb77696d4445fcc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35361/thumb/IMG_20240217_123329_345.png?1708367608",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8ccea8707cfc155ef595fc25cb77696d4445fcc"
+  }
+}

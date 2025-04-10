@@ -1,0 +1,16 @@
+{
+  "symbol": "MoFi",
+  "name": "MobiFi (PoS)",
+  "address": "0xf689e85988d3a7921e852867ce49f53388985e6d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14697/thumb/MOFI_Coin_Green_200x200.png?1634024056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544",
+    "polygon-pos": "0xf689e85988d3a7921e852867ce49f53388985e6d"
+  }
+}

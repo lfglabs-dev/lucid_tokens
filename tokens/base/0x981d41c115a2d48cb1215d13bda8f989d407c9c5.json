@@ -1,0 +1,15 @@
+{
+  "symbol": "XEN",
+  "name": "Xena",
+  "address": "0x981d41c115a2d48cb1215d13bda8f989d407c9c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32253/thumb/Xena_Logo.png?1697010168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x981d41c115a2d48cb1215d13bda8f989d407c9c5"
+  }
+}

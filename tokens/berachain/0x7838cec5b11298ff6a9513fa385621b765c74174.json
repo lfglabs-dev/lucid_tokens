@@ -1,0 +1,15 @@
+{
+  "symbol": "BERO",
+  "name": "Beradrome",
+  "address": "0x7838cec5b11298ff6a9513fa385621b765c74174",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54626/thumb/beradrome_logo.webp?1740746547",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x7838cec5b11298ff6a9513fa385621b765c74174"
+  }
+}

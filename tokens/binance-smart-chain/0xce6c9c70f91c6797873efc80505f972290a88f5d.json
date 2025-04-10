@@ -1,0 +1,18 @@
+{
+  "symbol": "ICE",
+  "name": "IceCream",
+  "address": "0xce6c9c70f91c6797873efc80505f972290a88f5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26237/thumb/icecream.png?1656902080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "bitgert": "0xb999ea90607a826a3e6e6646b404c3c7d11fa39d",
+    "dogechain": "0x81bcea03678d1cef4830942227720d542aa15817",
+    "fuse": "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
+    "binance-smart-chain": "0xce6c9c70f91c6797873efc80505f972290a88f5d"
+  }
+}

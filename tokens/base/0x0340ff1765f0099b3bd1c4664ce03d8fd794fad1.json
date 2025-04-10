@@ -1,0 +1,15 @@
+{
+  "symbol": "uCRV",
+  "name": "Curve (Universal)",
+  "address": "0x0340ff1765f0099b3bd1c4664ce03d8fd794fad1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54716/thumb/UA-CRV.png?1741185880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0340ff1765f0099b3bd1c4664ce03d8fd794fad1"
+  }
+}

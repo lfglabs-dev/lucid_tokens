@@ -1,0 +1,15 @@
+{
+  "symbol": "LOCKIN",
+  "name": "LOCK IN ON BASE",
+  "address": "0xf0d7cb351589c4b1520bf8d31afc87f7fb839c85",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53177/thumb/LOCKINPRECROP_%281%29.png?1735561235",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf0d7cb351589c4b1520bf8d31afc87f7fb839c85"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "USDC.e",
+  "name": "Bridged USDC (world-chain-mainnet)",
+  "address": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50792/thumb/usdc.png?1729233082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "world-chain": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GTAI",
+  "name": "GT Protocol",
+  "address": "0x003d87d02a2a01e9e8a20f507c83e15dd83a33d1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23118/thumb/A1P7aR4m_400x400.jpg?1706178875",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x003d87d02a2a01e9e8a20f507c83e15dd83a33d1"
+  }
+}

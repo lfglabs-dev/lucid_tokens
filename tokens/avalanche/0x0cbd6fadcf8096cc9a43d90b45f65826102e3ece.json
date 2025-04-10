@@ -1,0 +1,19 @@
+{
+  "symbol": "CDT",
+  "name": "CheckDot",
+  "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20370/thumb/token-200x200_%281%29.png?1636949075",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "ethereum": "0xcdb37a4fbc2da5b78aa4e41a432792f9533e85cc",
+    "avalanche": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "arbitrum-one": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "polygon-pos": "0x26c80854c36ff62bba7414a358c8c23bbb8dec39"
+  }
+}

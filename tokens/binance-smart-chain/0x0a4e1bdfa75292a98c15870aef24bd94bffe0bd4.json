@@ -1,0 +1,15 @@
+{
+  "symbol": "FOTA",
+  "name": "Fight Of The Ages",
+  "address": "0x0a4e1bdfa75292a98c15870aef24bd94bffe0bd4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26023/thumb/logo_thunder.jpg?1655283704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0a4e1bdfa75292a98c15870aef24bd94bffe0bd4"
+  }
+}

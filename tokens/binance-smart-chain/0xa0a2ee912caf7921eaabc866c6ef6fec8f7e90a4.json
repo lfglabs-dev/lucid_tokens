@@ -1,0 +1,16 @@
+{
+  "symbol": "DPR",
+  "name": "Deeper Network",
+  "address": "0xa0a2ee912caf7921eaabc866c6ef6fec8f7e90a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14748/thumb/deeper.png?1618094356",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
+    "binance-smart-chain": "0xa0a2ee912caf7921eaabc866c6ef6fec8f7e90a4"
+  }
+}

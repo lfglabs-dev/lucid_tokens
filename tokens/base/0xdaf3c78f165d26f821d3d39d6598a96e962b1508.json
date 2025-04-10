@@ -1,0 +1,15 @@
+{
+  "symbol": "WEBSIM",
+  "name": "The Css God by Virtuals",
+  "address": "0xdaf3c78f165d26f821d3d39d6598a96e962b1508",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52173/thumb/the_css_god.jpg?1732684452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdaf3c78f165d26f821d3d39d6598a96e962b1508"
+  }
+}

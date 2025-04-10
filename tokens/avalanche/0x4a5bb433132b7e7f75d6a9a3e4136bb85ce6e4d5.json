@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOTY",
+  "name": "Booty",
+  "address": "0x4a5bb433132b7e7f75d6a9a3e4136bb85ce6e4d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50639/thumb/_BOOTY_token.png?1728548269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x4a5bb433132b7e7f75d6a9a3e4136bb85ce6e4d5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "2MOON",
+  "name": "The Moon Metaverse",
+  "address": "0x817b32d386cfc1f872de306dfaedfda36429ca1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32194/thumb/2MOON.jpg?1696745527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x817b32d386cfc1f872de306dfaedfda36429ca1e"
+  }
+}

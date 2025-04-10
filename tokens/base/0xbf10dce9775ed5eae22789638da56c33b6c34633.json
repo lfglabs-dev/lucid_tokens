@@ -1,0 +1,15 @@
+{
+  "symbol": "GENZAI",
+  "name": "GENZAI by Virtuals",
+  "address": "0xbf10dce9775ed5eae22789638da56c33b6c34633",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53536/thumb/genzaipic.jpg?1736582292",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbf10dce9775ed5eae22789638da56c33b6c34633"
+  }
+}

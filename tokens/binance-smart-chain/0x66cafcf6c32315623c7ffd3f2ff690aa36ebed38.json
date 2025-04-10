@@ -1,0 +1,16 @@
+{
+  "symbol": "BRKL",
+  "name": "Brokoli Token [via ChainPort.io]",
+  "address": "0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18763/thumb/brkl.png?1633356263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
+    "binance-smart-chain": "0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38"
+  }
+}

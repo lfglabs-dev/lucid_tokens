@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIB",
+  "name": "SHIBA INU",
+  "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50193/thumb/shib.png?1726214772",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d"
+  }
+}

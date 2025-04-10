@@ -1,0 +1,15 @@
+{
+  "symbol": "GLINK",
+  "name": "Gemlink",
+  "address": "0x0ee7292bd28f4a490f849fb30c28cabab9440f9e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24212/thumb/18770.png?1647240001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0ee7292bd28f4a490f849fb30c28cabab9440f9e"
+  }
+}

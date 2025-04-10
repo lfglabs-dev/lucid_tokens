@@ -1,0 +1,16 @@
+{
+  "symbol": "TOR",
+  "name": "TOR",
+  "address": "0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23609/thumb/tor.png?1644747242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
+    "binance-smart-chain": "0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83"
+  }
+}

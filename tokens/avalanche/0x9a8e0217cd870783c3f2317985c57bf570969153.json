@@ -1,0 +1,15 @@
+{
+  "symbol": "MAGIC",
+  "name": "Magic",
+  "address": "0x9a8e0217cd870783c3f2317985c57bf570969153",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19313/thumb/13037.png?1635025843",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x9a8e0217cd870783c3f2317985c57bf570969153"
+  }
+}

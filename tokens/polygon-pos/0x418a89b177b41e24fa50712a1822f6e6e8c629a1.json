@@ -1,0 +1,15 @@
+{
+  "symbol": "iAI",
+  "name": "iAI Token",
+  "address": "0x418a89b177b41e24fa50712a1822f6e6e8c629a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54910/thumb/iai-logo.jpg?1742456296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x418a89b177b41e24fa50712a1822f6e6e8c629a1"
+  }
+}

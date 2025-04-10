@@ -1,0 +1,15 @@
+{
+  "symbol": "TUR",
+  "name": "Turex",
+  "address": "0x29a75ec2d2b8a57fdc45094dc51fefd147c908d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15539/thumb/turex-logo.png?1621155664",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29a75ec2d2b8a57fdc45094dc51fefd147c908d8"
+  }
+}

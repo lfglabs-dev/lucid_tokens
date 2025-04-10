@@ -1,0 +1,16 @@
+{
+  "symbol": "BTU",
+  "name": "BTU Protocol (PoS)",
+  "address": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3697/thumb/btuprotocol.jpeg?1549597021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+    "polygon-pos": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc"
+  }
+}

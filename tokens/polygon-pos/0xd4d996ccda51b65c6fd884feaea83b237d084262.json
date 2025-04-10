@@ -1,0 +1,15 @@
+{
+  "symbol": "ALOR",
+  "name": "The Algorix",
+  "address": "0xd4d996ccda51b65c6fd884feaea83b237d084262",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52462/thumb/logo_200.png?1733401721",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd4d996ccda51b65c6fd884feaea83b237d084262"
+  }
+}

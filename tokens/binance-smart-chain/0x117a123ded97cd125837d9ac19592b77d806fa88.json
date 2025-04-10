@@ -1,0 +1,15 @@
+{
+  "symbol": "BRBC",
+  "name": "Bull Run Bets ",
+  "address": "0x117a123ded97cd125837d9ac19592b77d806fa88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38207/thumb/bully_coin.png?1716798022",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x117a123ded97cd125837d9ac19592b77d806fa88"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FLASHDASH",
+  "name": "Flashdash",
+  "address": "0x06662147240414cc0dc25e6414100750d346bc44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33274/thumb/logo200.png?1701329106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x06662147240414cc0dc25e6414100750d346bc44"
+  }
+}

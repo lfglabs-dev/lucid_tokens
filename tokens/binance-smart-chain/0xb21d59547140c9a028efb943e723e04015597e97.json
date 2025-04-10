@@ -1,0 +1,15 @@
+{
+  "symbol": "MTP",
+  "name": "MetaPuss",
+  "address": "0xb21d59547140c9a028efb943e723e04015597e97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29141/thumb/Twitter_Profile_%281%29.png?1676963620",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb21d59547140c9a028efb943e723e04015597e97"
+  }
+}

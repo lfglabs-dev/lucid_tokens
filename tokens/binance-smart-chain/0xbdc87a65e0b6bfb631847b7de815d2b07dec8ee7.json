@@ -1,0 +1,15 @@
+{
+  "symbol": "IVIP",
+  "name": "iVipCoin",
+  "address": "0xbdc87a65e0b6bfb631847b7de815d2b07dec8ee7",
+  "decimals": 5,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39285/thumb/1000124443.jpg?1721454154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbdc87a65e0b6bfb631847b7de815d2b07dec8ee7"
+  }
+}

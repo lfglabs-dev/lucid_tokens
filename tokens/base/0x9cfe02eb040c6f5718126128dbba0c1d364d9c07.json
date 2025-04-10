@@ -1,0 +1,16 @@
+{
+  "symbol": "SDM",
+  "name": "Shieldeum",
+  "address": "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52254/thumb/Shieldeum_Coingecko.webp?1732834963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x516f8a1fb458ebdcfd0f544ff85c69c1c0ebc31d",
+    "base": "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07"
+  }
+}

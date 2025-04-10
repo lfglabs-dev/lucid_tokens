@@ -1,0 +1,16 @@
+{
+  "symbol": "USHIBA",
+  "name": "American Shiba",
+  "address": "0x01e04c6e0b2c93bb4f8ee4b71072b861f9352660",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15650/thumb/american_shiba.PNG?1621476610",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb893a8049f250b57efa8c62d51527a22404d7c9a",
+    "binance-smart-chain": "0x01e04c6e0b2c93bb4f8ee4b71072b861f9352660"
+  }
+}

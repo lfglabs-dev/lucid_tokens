@@ -1,0 +1,15 @@
+{
+  "symbol": "FUNDED",
+  "name": "Funded",
+  "address": "0xc1d5892e28ea1c5ecd9fac7771b9d06802f321e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50661/thumb/funded.jpg?1728643546",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc1d5892e28ea1c5ecd9fac7771b9d06802f321e0"
+  }
+}

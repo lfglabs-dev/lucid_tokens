@@ -1,0 +1,15 @@
+{
+  "symbol": "ACE",
+  "name": "ACEToken",
+  "address": "0xc27a719105a987b4c34116223cae8bd8f4b5def4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33528/thumb/ACE.png?1702254943",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc27a719105a987b4c34116223cae8bd8f4b5def4"
+  }
+}

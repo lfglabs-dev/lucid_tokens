@@ -1,0 +1,15 @@
+{
+  "symbol": "GGR",
+  "name": "Gagarin",
+  "address": "0xa90da9e3c71ddfcc2d793f80029acbd21a4a0db6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28898/thumb/GGR-200x200.png?1675227706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa90da9e3c71ddfcc2d793f80029acbd21a4a0db6"
+  }
+}

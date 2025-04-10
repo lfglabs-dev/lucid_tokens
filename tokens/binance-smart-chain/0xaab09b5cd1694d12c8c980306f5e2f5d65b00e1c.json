@@ -1,0 +1,15 @@
+{
+  "symbol": "REVO",
+  "name": "Revomon",
+  "address": "0xaab09b5cd1694d12c8c980306f5e2f5d65b00e1c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31269/thumb/revo.png?1692090062",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaab09b5cd1694d12c8c980306f5e2f5d65b00e1c"
+  }
+}

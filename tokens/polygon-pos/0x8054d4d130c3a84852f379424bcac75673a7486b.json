@@ -1,0 +1,16 @@
+{
+  "symbol": "paUSD",
+  "name": "paUSD Stablecoin",
+  "address": "0x8054d4d130c3a84852f379424bcac75673a7486b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37953/thumb/paUSD-Square.png?1716090814",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x571f54d23cdf2211c83e9a0cbd92aca36c48fa02",
+    "polygon-pos": "0x8054d4d130c3a84852f379424bcac75673a7486b"
+  }
+}

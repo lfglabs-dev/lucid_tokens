@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyGrok",
+  "name": "Baby Grok",
+  "address": "0x88da9901b3a02fe24e498e1ed683d2310383e295",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32972/thumb/photo_2023-11-10_15-50-54.jpg?1700064075",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x88da9901b3a02fe24e498e1ed683d2310383e295"
+  }
+}

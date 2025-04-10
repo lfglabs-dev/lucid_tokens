@@ -1,0 +1,15 @@
+{
+  "symbol": "TYBG",
+  "name": "Base God",
+  "address": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34563/thumb/tybg.png?1705400778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de"
+  }
+}

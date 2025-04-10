@@ -1,0 +1,15 @@
+{
+  "symbol": "REMUS",
+  "name": "New Ancient DNA",
+  "address": "0x391883a5d2438716796336f2e420a92e52b45efe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55157/thumb/WhatsApp_G%C3%B6rsel_2025-04-08_saat_15.13.31_01b6258d.jpg?1744264829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x391883a5d2438716796336f2e420a92e52b45efe"
+  }
+}

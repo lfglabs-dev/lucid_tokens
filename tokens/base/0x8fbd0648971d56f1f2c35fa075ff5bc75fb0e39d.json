@@ -1,0 +1,15 @@
+{
+  "symbol": "MBS",
+  "name": "MBS",
+  "address": "0x8fbd0648971d56f1f2c35fa075ff5bc75fb0e39d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20841/thumb/monkeyball.png?1639023123",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8fbd0648971d56f1f2c35fa075ff5bc75fb0e39d"
+  }
+}

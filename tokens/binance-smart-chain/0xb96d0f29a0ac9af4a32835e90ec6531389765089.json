@@ -1,0 +1,15 @@
+{
+  "symbol": "VPR",
+  "name": "Vapor Token",
+  "address": "0xb96d0f29a0ac9af4a32835e90ec6531389765089",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33815/thumb/Vpr_coin_trans.png?1703039049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb96d0f29a0ac9af4a32835e90ec6531389765089"
+  }
+}

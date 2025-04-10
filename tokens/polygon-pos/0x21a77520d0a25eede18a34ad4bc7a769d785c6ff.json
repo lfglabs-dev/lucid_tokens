@@ -1,0 +1,15 @@
+{
+  "symbol": "SRX",
+  "name": "Stars",
+  "address": "0x21a77520d0a25eede18a34ad4bc7a769d785c6ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31157/thumb/Stars.jpg?1691045994",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x21a77520d0a25eede18a34ad4bc7a769d785c6ff"
+  }
+}

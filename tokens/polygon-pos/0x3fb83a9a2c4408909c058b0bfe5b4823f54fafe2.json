@@ -1,0 +1,16 @@
+{
+  "symbol": "BCUT",
+  "name": "bitsCrunch Token(PoS)",
+  "address": "0x3fb83a9a2c4408909c058b0bfe5b4823f54fafe2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34832/thumb/logo-256.jpg?1706197207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406",
+    "polygon-pos": "0x3fb83a9a2c4408909c058b0bfe5b4823f54fafe2"
+  }
+}

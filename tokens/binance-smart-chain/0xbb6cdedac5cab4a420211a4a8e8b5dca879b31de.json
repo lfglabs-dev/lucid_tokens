@@ -1,0 +1,15 @@
+{
+  "symbol": "MF",
+  "name": "MetaFighter Token",
+  "address": "0xbb6cdedac5cab4a420211a4a8e8b5dca879b31de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23261/thumb/TXirEzAw_400x400.jpg?1643362619",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb6cdedac5cab4a420211a4a8e8b5dca879b31de"
+  }
+}

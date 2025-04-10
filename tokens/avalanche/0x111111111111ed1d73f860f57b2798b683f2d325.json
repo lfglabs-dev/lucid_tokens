@@ -1,0 +1,15 @@
+{
+  "symbol": "YUSD",
+  "name": "YUSD Stablecoin",
+  "address": "0x111111111111ed1d73f860f57b2798b683f2d325",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25024/thumb/1_oJ0F2Zf6CuAhLP0zOboo6w.png?1649837252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x111111111111ed1d73f860f57b2798b683f2d325"
+  }
+}

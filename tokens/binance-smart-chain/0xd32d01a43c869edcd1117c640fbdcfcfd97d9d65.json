@@ -1,0 +1,15 @@
+{
+  "symbol": "NMX",
+  "name": "Nominex",
+  "address": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14424/thumb/NMX_c_200px.png?1616385215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65"
+  }
+}

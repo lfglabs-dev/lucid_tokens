@@ -1,0 +1,15 @@
+{
+  "symbol": "LUCIA",
+  "name": "Lucia",
+  "address": "0x3c86129b990876ea63751fa7a27deba91fc5bfad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54620/thumb/Logo_Pindora_CG.jpg?1740735868",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3c86129b990876ea63751fa7a27deba91fc5bfad"
+  }
+}

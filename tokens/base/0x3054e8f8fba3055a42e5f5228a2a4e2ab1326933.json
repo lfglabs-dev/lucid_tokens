@@ -1,0 +1,15 @@
+{
+  "symbol": "Zuzalu",
+  "name": "Zuzalu",
+  "address": "0x3054e8f8fba3055a42e5f5228a2a4e2ab1326933",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36909/thumb/ZUZALA.jpg?1712732086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3054e8f8fba3055a42e5f5228a2a4e2ab1326933"
+  }
+}

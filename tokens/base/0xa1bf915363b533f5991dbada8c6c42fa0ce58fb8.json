@@ -1,0 +1,15 @@
+{
+  "symbol": "SYN",
+  "name": "Syn Dog",
+  "address": "0xa1bf915363b533f5991dbada8c6c42fa0ce58fb8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38557/thumb/IMG_7717.JPG?1718000371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa1bf915363b533f5991dbada8c6c42fa0ce58fb8"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "PERC",
+  "name": "Perion Credits",
+  "address": "0xf598797d9c160aef2a14712c20b7731cbe5861da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23302/thumb/1_-RAiJJhE0chp7GXabG0QMw.png?1643669553",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
+    "base": "0xf598797d9c160aef2a14712c20b7731cbe5861da"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "HZN",
+  "name": "Horizon",
+  "address": "0x0b1a02a7309dfbfad1cd4adc096582c87e8a3ac1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31156/thumb/Circle_logo_black_%281%29.png?1691040942",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x0b1a02a7309dfbfad1cd4adc096582c87e8a3ac1"
+  }
+}

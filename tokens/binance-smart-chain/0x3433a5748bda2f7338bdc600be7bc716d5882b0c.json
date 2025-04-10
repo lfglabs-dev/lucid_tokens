@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFU",
+  "name": "SAFU",
+  "address": "0x3433a5748bda2f7338bdc600be7bc716d5882b0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52398/thumb/SAFU_200.jpg?1733294105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3433a5748bda2f7338bdc600be7bc716d5882b0c"
+  }
+}

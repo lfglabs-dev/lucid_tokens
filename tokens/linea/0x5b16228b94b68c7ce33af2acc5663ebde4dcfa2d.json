@@ -1,0 +1,15 @@
+{
+  "symbol": "LINK",
+  "name": "ChainLink Token",
+  "address": "0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50166/thumb/link.png?1726136439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d"
+  }
+}

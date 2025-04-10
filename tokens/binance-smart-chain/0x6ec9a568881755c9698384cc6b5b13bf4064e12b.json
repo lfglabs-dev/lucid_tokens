@@ -1,0 +1,15 @@
+{
+  "symbol": "OPX",
+  "name": "Optimus X",
+  "address": "0x6ec9a568881755c9698384cc6b5b13bf4064e12b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33709/thumb/OPX_logo_200*200.png?1702854848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6ec9a568881755c9698384cc6b5b13bf4064e12b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "POLLEN",
+  "name": "POLLEN",
+  "address": "0xc99e948e9d183848a6c4f5e6c1d225f02f171d79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54929/thumb/Pollen_200x200.png?1742578406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xc99e948e9d183848a6c4f5e6c1d225f02f171d79"
+  }
+}

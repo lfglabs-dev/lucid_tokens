@@ -1,0 +1,15 @@
+{
+  "symbol": "ToDing",
+  "name": "ToDing",
+  "address": "0x1592c5704f9e8c20bf7707c5d42626cecda912c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39539/thumb/toding200.png?1722841787",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1592c5704f9e8c20bf7707c5d42626cecda912c0"
+  }
+}

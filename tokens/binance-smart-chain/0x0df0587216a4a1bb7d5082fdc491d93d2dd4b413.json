@@ -1,0 +1,15 @@
+{
+  "symbol": "Cheems",
+  "name": "Cheems",
+  "address": "0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30376/thumb/Hg4_Lhbg_400x400.jpg?1684297200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413"
+  }
+}

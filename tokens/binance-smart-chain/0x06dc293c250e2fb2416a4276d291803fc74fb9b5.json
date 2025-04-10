@@ -1,0 +1,15 @@
+{
+  "symbol": "TKC",
+  "name": "The Kingdom Coin",
+  "address": "0x06dc293c250e2fb2416a4276d291803fc74fb9b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30098/thumb/44-DF930-C-7-E3-D-400-A-BDEA-7-F0185-DBFE7-C.jpg?1683026009",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x06dc293c250e2fb2416a4276d291803fc74fb9b5"
+  }
+}

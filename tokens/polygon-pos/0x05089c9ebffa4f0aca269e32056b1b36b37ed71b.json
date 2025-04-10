@@ -1,0 +1,15 @@
+{
+  "symbol": "Krill",
+  "name": "Krill",
+  "address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15016/thumb/2.png?1619442213",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b"
+  }
+}

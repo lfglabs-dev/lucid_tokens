@@ -1,0 +1,16 @@
+{
+  "symbol": "CAN",
+  "name": "Channels",
+  "address": "0xde9a73272bc2f28189ce3c243e36fafda2485212",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14093/thumb/KpSUqAH.png?1614229582",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "huobi-token": "0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012",
+    "binance-smart-chain": "0xde9a73272bc2f28189ce3c243e36fafda2485212"
+  }
+}

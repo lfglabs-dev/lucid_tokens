@@ -1,0 +1,15 @@
+{
+  "symbol": "JOJO",
+  "name": "JOJO",
+  "address": "0x0645bc5cdff2376089323ac20df4119e48e4bcc4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39516/thumb/green_icon.png?1722661075",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0645bc5cdff2376089323ac20df4119e48e4bcc4"
+  }
+}

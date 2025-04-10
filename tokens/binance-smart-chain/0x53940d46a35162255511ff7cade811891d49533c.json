@@ -1,0 +1,15 @@
+{
+  "symbol": "KRPZA",
+  "name": "OXYO2",
+  "address": "0x53940d46a35162255511ff7cade811891d49533c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27591/thumb/oxyo2_logo_200x200.png?1665027489",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x53940d46a35162255511ff7cade811891d49533c"
+  }
+}

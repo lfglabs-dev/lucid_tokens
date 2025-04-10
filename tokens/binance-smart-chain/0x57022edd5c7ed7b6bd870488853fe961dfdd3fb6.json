@@ -1,0 +1,15 @@
+{
+  "symbol": "PLX",
+  "name": "Octaplex Network",
+  "address": "0x57022edd5c7ed7b6bd870488853fe961dfdd3fb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18013/thumb/octaplex-icon.png?1630232850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57022edd5c7ed7b6bd870488853fe961dfdd3fb6"
+  }
+}

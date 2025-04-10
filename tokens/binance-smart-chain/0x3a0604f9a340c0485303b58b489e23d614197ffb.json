@@ -1,0 +1,15 @@
+{
+  "symbol": "XG",
+  "name": "X-GAME",
+  "address": "0x3a0604f9a340c0485303b58b489e23d614197ffb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50373/thumb/LOGO.png?1727373192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3a0604f9a340c0485303b58b489e23d614197ffb"
+  }
+}

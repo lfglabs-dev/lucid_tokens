@@ -1,0 +1,15 @@
+{
+  "symbol": "HCT",
+  "name": "Hurricane Token",
+  "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18912/thumb/hurricane.PNG?1633911773",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x45c13620b55c35a5f539d26e88247011eb10fdbd"
+  }
+}

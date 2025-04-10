@@ -1,0 +1,15 @@
+{
+  "symbol": "POSEIDON",
+  "name": "Binance Cat",
+  "address": "0xc636782a837feee37ccc29d58bdbb4bcbdd0ae1f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38776/thumb/IMG_7820.jpeg?1718772785",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc636782a837feee37ccc29d58bdbb4bcbdd0ae1f"
+  }
+}

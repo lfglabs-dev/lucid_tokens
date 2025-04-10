@@ -1,0 +1,15 @@
+{
+  "symbol": "ETHPrinter",
+  "name": "ETH Printer",
+  "address": "0x35bfe9427d37cec78ea1eb9fa922f12ae8a32547",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53135/thumb/ETHprinter.jpg?1735367716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x35bfe9427d37cec78ea1eb9fa922f12ae8a32547"
+  }
+}

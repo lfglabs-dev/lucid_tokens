@@ -1,0 +1,15 @@
+{
+  "symbol": "RZUSD",
+  "name": "RZUSD",
+  "address": "0xc4a1cc5ca8955a4650bdc109bddf110e33a1e344",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54532/thumb/IMG_9110.jpeg?1740210003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc4a1cc5ca8955a4650bdc109bddf110e33a1e344"
+  }
+}

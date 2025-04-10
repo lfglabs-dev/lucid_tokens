@@ -1,0 +1,15 @@
+{
+  "symbol": "$STRIP",
+  "name": "STRIPTO",
+  "address": "0xa1ac3b22b102caa62c9ecaf418585528855b0ddd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23383/thumb/17856.png?1643963358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa1ac3b22b102caa62c9ecaf418585528855b0ddd"
+  }
+}

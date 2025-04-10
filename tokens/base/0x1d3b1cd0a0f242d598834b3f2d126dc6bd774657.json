@@ -1,0 +1,15 @@
+{
+  "symbol": "COUSDC",
+  "name": "Clearstar OpenEden USDC",
+  "address": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55135/thumb/USDC_LOGO.png?1744007880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "VT",
+  "name": "Virtual Tourist Token",
+  "address": "0xed66ec1acb7dbd0c01cccff33e3ff1f423057c21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25186/thumb/200x.png?1650599907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xed66ec1acb7dbd0c01cccff33e3ff1f423057c21"
+  }
+}

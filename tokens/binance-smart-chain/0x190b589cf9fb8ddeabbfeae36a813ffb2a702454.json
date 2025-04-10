@@ -1,0 +1,15 @@
+{
+  "symbol": "BDO",
+  "name": "bDollar",
+  "address": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13487/thumb/bdollar-yellow.png?1609291587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454"
+  }
+}

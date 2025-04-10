@@ -1,0 +1,15 @@
+{
+  "symbol": "UNW",
+  "name": "Uniwhale Token",
+  "address": "0x5b65cd9feb54f1df3d0c60576003344079f8dc06",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5b65cd9feb54f1df3d0c60576003344079f8dc06"
+  }
+}

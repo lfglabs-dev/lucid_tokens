@@ -1,0 +1,15 @@
+{
+  "symbol": "BLP",
+  "name": "Bull Perks",
+  "address": "0xfe1d7f7a8f0bda6e415593a2e4f82c64b446d404",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16471/thumb/horizontal-standard-black.png?1624268460",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfe1d7f7a8f0bda6e415593a2e4f82c64b446d404"
+  }
+}

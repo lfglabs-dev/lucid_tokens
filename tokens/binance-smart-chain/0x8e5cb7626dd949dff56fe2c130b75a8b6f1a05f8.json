@@ -1,0 +1,15 @@
+{
+  "symbol": "BICS",
+  "name": "Biceps",
+  "address": "0x8e5cb7626dd949dff56fe2c130b75a8b6f1a05f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36470/thumb/X200.png?1711524732",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8e5cb7626dd949dff56fe2c130b75a8b6f1a05f8"
+  }
+}

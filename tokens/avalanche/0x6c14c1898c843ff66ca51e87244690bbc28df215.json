@@ -1,0 +1,15 @@
+{
+  "symbol": "ORNG",
+  "name": "Orange",
+  "address": "0x6c14c1898c843ff66ca51e87244690bbc28df215",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38945/thumb/Orange-Icon-_200x200_.png?1719590431",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x6c14c1898c843ff66ca51e87244690bbc28df215"
+  }
+}

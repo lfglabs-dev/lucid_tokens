@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBX",
+  "name": "SHIBAVAX",
+  "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17913/thumb/shibavax.jpg?1629776688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "EGG",
+  "name": "chikn egg",
+  "address": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21811/thumb/EggToken_200_Transparent.png?1640069901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611"
+  }
+}

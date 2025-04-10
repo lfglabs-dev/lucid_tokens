@@ -1,0 +1,15 @@
+{
+  "symbol": "ROXY",
+  "name": "ROXY",
+  "address": "0x10a7a84c91988138f8dbbc82a23b02c8639e2552",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38170/thumb/ROXY.jpg?1716703909",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x10a7a84c91988138f8dbbc82a23b02c8639e2552"
+  }
+}

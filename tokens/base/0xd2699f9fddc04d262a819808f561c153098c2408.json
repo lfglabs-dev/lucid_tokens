@@ -1,0 +1,15 @@
+{
+  "symbol": "MOON",
+  "name": "moon",
+  "address": "0xd2699f9fddc04d262a819808f561c153098c2408",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52138/thumb/jjl.jpg?1732641211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd2699f9fddc04d262a819808f561c153098c2408"
+  }
+}

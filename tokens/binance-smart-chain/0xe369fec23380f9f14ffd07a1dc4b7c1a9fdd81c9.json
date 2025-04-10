@@ -1,0 +1,15 @@
+{
+  "symbol": "Froyo",
+  "name": "Froyo",
+  "address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22386/thumb/95039059.png?1641788131",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9"
+  }
+}

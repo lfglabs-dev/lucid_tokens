@@ -1,0 +1,15 @@
+{
+  "symbol": "SANJI",
+  "name": "OpenAI Dog",
+  "address": "0x8e0b3e3cb4468b6aa07a64e69deb72aea8eddc6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55089/thumb/output-onlinepngtools_6.png?1743666375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e0b3e3cb4468b6aa07a64e69deb72aea8eddc6f"
+  }
+}

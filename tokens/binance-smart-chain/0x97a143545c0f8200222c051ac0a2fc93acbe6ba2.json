@@ -1,0 +1,15 @@
+{
+  "symbol": "DFC",
+  "name": "DefiConnect",
+  "address": "0x97a143545c0f8200222c051ac0a2fc93acbe6ba2",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28521/thumb/dfc.png?1671276843",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x97a143545c0f8200222c051ac0a2fc93acbe6ba2"
+  }
+}

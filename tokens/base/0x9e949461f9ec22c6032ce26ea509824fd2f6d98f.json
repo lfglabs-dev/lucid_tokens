@@ -1,0 +1,15 @@
+{
+  "symbol": "KABOSUCHAN",
+  "name": "KABOSU",
+  "address": "0x9e949461f9ec22c6032ce26ea509824fd2f6d98f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38184/thumb/kabosu.png?1716788417",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9e949461f9ec22c6032ce26ea509824fd2f6d98f"
+  }
+}

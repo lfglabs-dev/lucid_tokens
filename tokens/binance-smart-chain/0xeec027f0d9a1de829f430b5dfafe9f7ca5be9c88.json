@@ -1,0 +1,15 @@
+{
+  "symbol": "BCRE",
+  "name": "BCREPE",
+  "address": "0xeec027f0d9a1de829f430b5dfafe9f7ca5be9c88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39877/thumb/BCRE.png?1724618492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeec027f0d9a1de829f430b5dfafe9f7ca5be9c88"
+  }
+}

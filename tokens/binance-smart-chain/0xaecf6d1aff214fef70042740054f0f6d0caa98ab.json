@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyShibaInu",
+  "name": "Baby Shiba Inu",
+  "address": "0xaecf6d1aff214fef70042740054f0f6d0caa98ab",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16805/thumb/BabyShiba.png?1625127854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaecf6d1aff214fef70042740054f0f6d0caa98ab"
+  }
+}

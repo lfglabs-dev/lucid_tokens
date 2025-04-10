@@ -1,0 +1,17 @@
+{
+  "symbol": "OBX",
+  "name": "OpenBlox Token",
+  "address": "0xccf719c44e2c36e919335692e89d22cf13d6aaeb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26150/thumb/OBX_token-black_background_preview.png?1656042112",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xccf719c44e2c36e919335692e89d22cf13d6aaeb",
+    "ethereum": "0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25",
+    "arbitrum-one": "0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25"
+  }
+}

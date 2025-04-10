@@ -1,0 +1,15 @@
+{
+  "symbol": "PANDA",
+  "name": "HashPanda",
+  "address": "0x8578eb576e126f67913a8bc0622e0a22eba0989a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15903/thumb/logo_-_2021-05-31T060013.983.png?1622412025",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8578eb576e126f67913a8bc0622e0a22eba0989a"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "CDFi",
+  "name": "CeDeFiAi",
+  "address": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36863/thumb/CeDeFiAi.png?1712643622",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a",
+    "ethereum": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a",
+    "binance-smart-chain": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a",
+    "avalanche": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a",
+    "mantle": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a"
+  }
+}

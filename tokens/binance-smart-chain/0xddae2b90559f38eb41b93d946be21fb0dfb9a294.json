@@ -1,0 +1,15 @@
+{
+  "symbol": "YEARN",
+  "name": "YearnTogether",
+  "address": "0xddae2b90559f38eb41b93d946be21fb0dfb9a294",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30560/thumb/YEARN-logo.png?1685018826",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xddae2b90559f38eb41b93d946be21fb0dfb9a294"
+  }
+}

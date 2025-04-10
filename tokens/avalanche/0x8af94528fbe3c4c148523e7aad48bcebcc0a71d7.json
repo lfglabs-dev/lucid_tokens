@@ -1,0 +1,18 @@
+{
+  "symbol": "ATF",
+  "name": "Antfarm Token",
+  "address": "0x8af94528fbe3c4c148523e7aad48bcebcc0a71d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28821/thumb/ATF.png?1674700993",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x518b63da813d46556fea041a88b52e3caa8c16a8",
+    "polygon-zkevm": "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c",
+    "avalanche": "0x8af94528fbe3c4c148523e7aad48bcebcc0a71d7",
+    "arbitrum-one": "0xfb9fbcb328317123f5275cda30b6589d5841216b"
+  }
+}

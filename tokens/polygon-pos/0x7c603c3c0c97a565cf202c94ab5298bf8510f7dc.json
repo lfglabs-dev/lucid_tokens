@@ -1,0 +1,21 @@
+{
+  "symbol": "OATH",
+  "name": "Oath Token",
+  "address": "0x7c603c3c0c97a565cf202c94ab5298bf8510f7dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24075/thumb/oath.png?1646233885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x21ada0d2ac28c3a5fa3cd2ee30882da8812279b6",
+    "optimistic-ethereum": "0x00e1724885473b63bce08a9f0a52f35b0979e35a",
+    "ethereum": "0xd20523b39faf1d6e9023a4d6085f87b7b0de7926",
+    "binance-smart-chain": "0x73f4c95af5c2892253c068850b8c9a753636f58d",
+    "avalanche": "0xad090976ce846935dcff1ded852668beed912916",
+    "arbitrum-one": "0x00e1724885473b63bce08a9f0a52f35b0979e35a",
+    "polygon-pos": "0x7c603c3c0c97a565cf202c94ab5298bf8510f7dc"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "UST",
+  "name": "UST",
+  "address": "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21150/thumb/UST_wh_small.png?1644223065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+    "binance-smart-chain": "0x3d4350cd54aef9f9b2c29435e0fa809957b3f30a",
+    "fantom": "0x846e4d51d7e2043c1a87e0ab7490b93fb940357b",
+    "avalanche": "0xb599c3590f42f8f995ecfa0f85d2980b76862fc1",
+    "polygon-pos": "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59"
+  }
+}

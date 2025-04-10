@@ -1,0 +1,15 @@
+{
+  "symbol": "BRIL",
+  "name": "Brilliantcrypto Token",
+  "address": "0x4f800ba0dff2980c5006c6816f7aa3de63ce8087",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53072/thumb/bril.png?1735198420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4f800ba0dff2980c5006c6816f7aa3de63ce8087"
+  }
+}

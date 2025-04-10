@@ -1,0 +1,15 @@
+{
+  "symbol": "ONEZ",
+  "name": "ONEZ Stablecoin",
+  "address": "0x90059c32eeeb1a2aa1351a58860d98855f3655ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32970/thumb/onez.jpg?1700056810",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x90059c32eeeb1a2aa1351a58860d98855f3655ad"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "IXT",
+  "name": "PlanetIX",
+  "address": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20927/thumb/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MAG7.ssi",
+  "name": "MAG7.ssi",
+  "address": "0x9e6a46f294bb67c20f1d1e7afb0bbef614403b55",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52962/thumb/mag7.png?1734863745",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9e6a46f294bb67c20f1d1e7afb0bbef614403b55"
+  }
+}

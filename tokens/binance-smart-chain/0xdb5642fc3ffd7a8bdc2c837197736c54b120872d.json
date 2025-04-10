@@ -1,0 +1,15 @@
+{
+  "symbol": "PAYS",
+  "name": "Payslink Token",
+  "address": "0xdb5642fc3ffd7a8bdc2c837197736c54b120872d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33580/thumb/logo-pays.png?1702463991",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdb5642fc3ffd7a8bdc2c837197736c54b120872d"
+  }
+}

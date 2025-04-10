@@ -1,0 +1,18 @@
+{
+  "symbol": "CADC",
+  "name": "CAD Coin",
+  "address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1614666625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+    "base": "0x043eb4b75d0805c43d7c834902e335621983cf03",
+    "arbitrum-one": "0x2b28e826b55e399f4d4699b85f68666ac51e6f70",
+    "polygon-pos": "0x9de41aff9f55219d5bf4359f167d1d0c772a396d"
+  }
+}

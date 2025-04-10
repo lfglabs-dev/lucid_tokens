@@ -1,0 +1,18 @@
+{
+  "symbol": "ICHI",
+  "name": "ICHI",
+  "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13119/thumb/ICHI_%28Round%29.jpg?1614308761",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+    "binance-smart-chain": "0x0ef4a107b48163ab4b57fca36e1352151a587be4",
+    "arbitrum-one": "0xadf5dd3e51bf28ab4f07e684ecf5d00691818790",
+    "polygon-pos": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KET",
+  "name": "yellow ket",
+  "address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53789/thumb/edfw.jpg?1737381234",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xffff003a6bad9b743d658048742935fffe2b6ed7"
+  }
+}

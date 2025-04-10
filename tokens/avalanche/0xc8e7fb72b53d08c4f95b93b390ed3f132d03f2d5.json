@@ -1,0 +1,15 @@
+{
+  "symbol": "SQRCAT",
+  "name": "SQRCAT",
+  "address": "0xc8e7fb72b53d08c4f95b93b390ed3f132d03f2d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35877/thumb/LOGO-Final-TRANSPARENT_200px.png?1709982463",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xc8e7fb72b53d08c4f95b93b390ed3f132d03f2d5"
+  }
+}

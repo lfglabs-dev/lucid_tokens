@@ -1,0 +1,15 @@
+{
+  "symbol": "SLOT",
+  "name": "Snowtomb Lot",
+  "address": "0x924157b5dbb387a823719916b25256410a4ad470",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23297/thumb/200slot.png?1643598272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x924157b5dbb387a823719916b25256410a4ad470"
+  }
+}

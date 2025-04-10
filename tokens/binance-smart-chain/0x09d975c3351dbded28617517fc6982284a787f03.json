@@ -1,0 +1,15 @@
+{
+  "symbol": "CISLA",
+  "name": "Crypto Island",
+  "address": "0x09d975c3351dbded28617517fc6982284a787f03",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17897/thumb/200x200_CISLA.png?1629769640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x09d975c3351dbded28617517fc6982284a787f03"
+  }
+}

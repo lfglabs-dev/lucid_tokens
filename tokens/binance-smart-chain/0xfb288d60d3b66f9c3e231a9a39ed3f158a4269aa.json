@@ -1,0 +1,17 @@
+{
+  "symbol": "PPAY",
+  "name": "Plasma",
+  "address": "0xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13340/thumb/Hi9sEGAD.png?1607586849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
+    "binance-smart-chain": "0xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa",
+    "polygon-pos": "0x08158a6b5d4018340387d1a302f882e98a8bc5b4"
+  }
+}

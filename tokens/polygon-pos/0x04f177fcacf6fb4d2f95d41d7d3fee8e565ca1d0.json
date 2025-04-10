@@ -1,0 +1,15 @@
+{
+  "symbol": "DMT",
+  "name": "Dragon Master Token (PoS)",
+  "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25171/thumb/JNBofoc.png?1650524900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0"
+  }
+}

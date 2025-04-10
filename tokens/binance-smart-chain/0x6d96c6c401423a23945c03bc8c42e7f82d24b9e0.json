@@ -1,0 +1,15 @@
+{
+  "symbol": "FRBK",
+  "name": "Freebnk",
+  "address": "0x6d96c6c401423a23945c03bc8c42e7f82d24b9e0",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30681/thumb/Diagram_-_FreeBnk___Brand___Marketing_3.jpg?1686272244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d96c6c401423a23945c03bc8c42e7f82d24b9e0"
+  }
+}

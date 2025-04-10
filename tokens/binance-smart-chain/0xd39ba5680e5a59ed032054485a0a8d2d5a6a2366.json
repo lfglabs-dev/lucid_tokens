@@ -1,0 +1,15 @@
+{
+  "symbol": "MCOIN",
+  "name": "Mcoin",
+  "address": "0xd39ba5680e5a59ed032054485a0a8d2d5a6a2366",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50256/thumb/LOGO.png?1726722703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd39ba5680e5a59ed032054485a0a8d2d5a6a2366"
+  }
+}

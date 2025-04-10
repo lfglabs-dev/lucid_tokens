@@ -1,0 +1,15 @@
+{
+  "symbol": "LYP",
+  "name": "Lympid Token",
+  "address": "0x4837b18a6d7af6159c8665505b90a2ed393255e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53786/thumb/LYP_200X200.png?1737358652",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4837b18a6d7af6159c8665505b90a2ed393255e0"
+  }
+}

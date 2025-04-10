@@ -1,0 +1,15 @@
+{
+  "symbol": "CTT",
+  "name": "CryptoTycoon Token",
+  "address": "0x464863745ed3af8b9f8871f1082211c55f8f884d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15882/thumb/ctt.PNG?1622191728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x464863745ed3af8b9f8871f1082211c55f8f884d"
+  }
+}

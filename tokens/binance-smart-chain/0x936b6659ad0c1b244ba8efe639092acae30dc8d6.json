@@ -1,0 +1,15 @@
+{
+  "symbol": "CO",
+  "name": "CO",
+  "address": "0x936b6659ad0c1b244ba8efe639092acae30dc8d6",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25969/thumb/Corite-symbol-red-neg-2000px.png?1655021506",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x936b6659ad0c1b244ba8efe639092acae30dc8d6"
+  }
+}

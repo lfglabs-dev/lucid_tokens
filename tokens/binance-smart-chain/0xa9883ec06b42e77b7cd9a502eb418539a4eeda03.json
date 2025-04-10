@@ -1,0 +1,15 @@
+{
+  "symbol": "SMBA",
+  "name": "ShimbaINU",
+  "address": "0xa9883ec06b42e77b7cd9a502eb418539a4eeda03",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39757/thumb/200x200.png?1723814211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa9883ec06b42e77b7cd9a502eb418539a4eeda03"
+  }
+}

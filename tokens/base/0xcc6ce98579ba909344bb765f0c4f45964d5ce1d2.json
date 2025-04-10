@@ -1,0 +1,15 @@
+{
+  "symbol": "DUDEGEN",
+  "name": "DUDEGEN",
+  "address": "0xcc6ce98579ba909344bb765f0c4f45964d5ce1d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39323/thumb/Untitled_Artwork_5-enhanced_copy_2.png?1721711203",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcc6ce98579ba909344bb765f0c4f45964d5ce1d2"
+  }
+}

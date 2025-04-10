@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBO",
+  "name": "ShiBonk",
+  "address": "0xf224ade71c20f9823e34e0792f72437596b4e28c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22215/thumb/shibonk-MAINLOGO-CG.png?1645602871",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf224ade71c20f9823e34e0792f72437596b4e28c"
+  }
+}

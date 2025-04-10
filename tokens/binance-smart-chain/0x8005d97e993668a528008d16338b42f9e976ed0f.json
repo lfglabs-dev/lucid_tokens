@@ -1,0 +1,15 @@
+{
+  "symbol": "EGOLD",
+  "name": "EGOLD - Algorithmic NFT Mining",
+  "address": "0x8005d97e993668a528008d16338b42f9e976ed0f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30717/thumb/egold_32.png?1686558655",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8005d97e993668a528008d16338b42f9e976ed0f"
+  }
+}

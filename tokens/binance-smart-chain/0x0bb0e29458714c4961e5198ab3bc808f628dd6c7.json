@@ -1,0 +1,15 @@
+{
+  "symbol": "SOLVEX",
+  "name": "SOLVEX",
+  "address": "0x0bb0e29458714c4961e5198ab3bc808f628dd6c7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51930/thumb/logo_2.png?1732196764",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0bb0e29458714c4961e5198ab3bc808f628dd6c7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ASVA",
+  "name": "Asva",
+  "address": "0xf7b6d7e3434cb9441982f9534e6998c43eef144a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22134/thumb/1_YAFDez1BKcVUHzwDoYcgPQ.png?1640907036",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf7b6d7e3434cb9441982f9534e6998c43eef144a"
+  }
+}

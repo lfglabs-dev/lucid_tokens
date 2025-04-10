@@ -1,0 +1,15 @@
+{
+  "symbol": "TKD",
+  "name": "TOKUDA",
+  "address": "0xd79bc26c424bcb52eec2708d224868c1499422c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37671/thumb/1000040829.jpg?1715185343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd79bc26c424bcb52eec2708d224868c1499422c8"
+  }
+}

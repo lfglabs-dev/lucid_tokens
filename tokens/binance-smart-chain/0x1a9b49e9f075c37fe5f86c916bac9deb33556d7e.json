@@ -1,0 +1,15 @@
+{
+  "symbol": "ASPO",
+  "name": "ASPOToken",
+  "address": "0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20329/thumb/12599.png?1636900554",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e"
+  }
+}

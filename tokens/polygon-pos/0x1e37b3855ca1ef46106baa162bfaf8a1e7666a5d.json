@@ -1,0 +1,15 @@
+{
+  "symbol": "TSLT",
+  "name": "Tamkin",
+  "address": "0x1e37b3855ca1ef46106baa162bfaf8a1e7666a5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35956/thumb/Tamkin_S_%282%29.png?1710253564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1e37b3855ca1ef46106baa162bfaf8a1e7666a5d"
+  }
+}

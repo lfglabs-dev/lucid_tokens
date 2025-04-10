@@ -1,0 +1,15 @@
+{
+  "symbol": "SVL",
+  "name": "Slash Vision Labs",
+  "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0xabbeed1d173541e0546b38b1c0394975be200000"
+  }
+}

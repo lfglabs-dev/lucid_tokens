@@ -1,0 +1,16 @@
+{
+  "symbol": "MMAC",
+  "name": "MMAC",
+  "address": "0xdd33ef5704ada19d254cb636b5a0a1bad3936050",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36090/thumb/IMG_20240313_180550_127.jpg?1710475766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xdd33ef5704ada19d254cb636b5a0a1bad3936050",
+    "binance-smart-chain": "0xcc116e59dd51df5460e8b11ff615e3e706a9202a"
+  }
+}

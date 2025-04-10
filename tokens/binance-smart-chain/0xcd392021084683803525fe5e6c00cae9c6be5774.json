@@ -1,0 +1,15 @@
+{
+  "symbol": "ADON",
+  "name": "Adonis",
+  "address": "0xcd392021084683803525fe5e6c00cae9c6be5774",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26793/thumb/Jugvt5z5_400x400.jpeg?1660129722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcd392021084683803525fe5e6c00cae9c6be5774"
+  }
+}

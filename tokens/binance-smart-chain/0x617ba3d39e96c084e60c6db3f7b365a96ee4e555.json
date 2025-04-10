@@ -1,0 +1,15 @@
+{
+  "symbol": "IDO",
+  "name": "INTERSTELLAR DOMAIN ORDER",
+  "address": "0x617ba3d39e96c084e60c6db3f7b365a96ee4e555",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20523/thumb/logo_-_2021-11-18T065417.612.png?1637189699",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x617ba3d39e96c084e60c6db3f7b365a96ee4e555"
+  }
+}

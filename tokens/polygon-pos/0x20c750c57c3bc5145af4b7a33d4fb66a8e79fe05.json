@@ -1,0 +1,16 @@
+{
+  "symbol": "ORB",
+  "name": "OrbCity",
+  "address": "0x20c750c57c3bc5145af4b7a33d4fb66a8e79fe05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24332/thumb/SDoj93A.png?1647359309",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x20c750c57c3bc5145af4b7a33d4fb66a8e79fe05",
+    "ethereum": "0x3c917054e03485808137eb306eafa8da0ab695cd"
+  }
+}

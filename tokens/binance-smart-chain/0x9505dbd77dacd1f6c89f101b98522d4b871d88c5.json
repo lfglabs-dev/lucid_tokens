@@ -1,0 +1,15 @@
+{
+  "symbol": "LOVE",
+  "name": "Hunny Love Token",
+  "address": "0x9505dbd77dacd1f6c89f101b98522d4b871d88c5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20748/thumb/hunnydaologo-200x200.png?1637634867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9505dbd77dacd1f6c89f101b98522d4b871d88c5"
+  }
+}

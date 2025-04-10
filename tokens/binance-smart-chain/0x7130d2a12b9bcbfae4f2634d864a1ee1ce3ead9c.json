@@ -1,0 +1,16 @@
+{
+  "symbol": "BTCB",
+  "name": "BTCB Token",
+  "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14108/thumb/Binance-bitcoin.png?1617332330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "harmony-shard-0": "0x34224dcf981da7488fdd01c7fdd64e74cd55dcf7"
+  }
+}

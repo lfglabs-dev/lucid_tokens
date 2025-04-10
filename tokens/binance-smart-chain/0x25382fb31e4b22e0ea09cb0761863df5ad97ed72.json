@@ -1,0 +1,15 @@
+{
+  "symbol": "RGEN",
+  "name": "Paragen",
+  "address": "0x25382fb31e4b22e0ea09cb0761863df5ad97ed72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24198/thumb/TH-Y4qWF_400x400.jpg?1646863203",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x25382fb31e4b22e0ea09cb0761863df5ad97ed72"
+  }
+}

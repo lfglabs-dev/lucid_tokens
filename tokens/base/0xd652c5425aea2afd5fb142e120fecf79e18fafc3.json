@@ -1,0 +1,22 @@
+{
+  "symbol": "POOL",
+  "name": "PoolTogether",
+  "address": "0xd652c5425aea2afd5fb142e120fecf79e18fafc3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1613585632",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+    "optimistic-ethereum": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "scroll": "0xf9af83fc41e0cc2af2fba93644d542df6ea0f2b7",
+    "xdai": "0x216a7d520992ed198593a16e0b17c784c9cdc660",
+    "world-chain": "0x7077c71b4af70737a08287e279b717dcf64fdc57",
+    "arbitrum-one": "0xcf934e2402a5e072928a39a956964eb8f2b5b79c",
+    "polygon-pos": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+    "base": "0xd652c5425aea2afd5fb142e120fecf79e18fafc3"
+  }
+}

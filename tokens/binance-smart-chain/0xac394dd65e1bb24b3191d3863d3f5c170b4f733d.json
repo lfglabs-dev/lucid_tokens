@@ -1,0 +1,15 @@
+{
+  "symbol": "MILLE",
+  "name": "Mille Token",
+  "address": "0xac394dd65e1bb24b3191d3863d3f5c170b4f733d",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33253/thumb/Mille_Chain_Logo.png?1701278257",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xac394dd65e1bb24b3191d3863d3f5c170b4f733d"
+  }
+}

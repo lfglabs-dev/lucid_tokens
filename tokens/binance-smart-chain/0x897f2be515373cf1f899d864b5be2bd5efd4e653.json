@@ -1,0 +1,15 @@
+{
+  "symbol": "T23",
+  "name": "2023",
+  "address": "0x897f2be515373cf1f899d864b5be2bd5efd4e653",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28604/thumb/T23-Icon-200x200.png?1672383767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x897f2be515373cf1f899d864b5be2bd5efd4e653"
+  }
+}

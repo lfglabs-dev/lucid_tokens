@@ -1,0 +1,16 @@
+{
+  "symbol": "SKILL",
+  "name": "CryptoBlades Skill Token",
+  "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15334/thumb/cryptoblade.PNG?1620596874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+    "polygon-pos": "0x863d6074afaf02d9d41a5f8ea83278df7089aa86"
+  }
+}

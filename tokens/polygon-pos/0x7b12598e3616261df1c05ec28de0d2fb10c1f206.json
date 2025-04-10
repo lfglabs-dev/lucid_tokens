@@ -1,0 +1,15 @@
+{
+  "symbol": "COCA",
+  "name": "COCA",
+  "address": "0x7b12598e3616261df1c05ec28de0d2fb10c1f206",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52379/thumb/_COCA_Token_1.png?1733257913",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x7b12598e3616261df1c05ec28de0d2fb10c1f206"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "VOPO",
+  "name": "VOPO",
+  "address": "0xee81ca267b8357ba30049d679027ebf65fcf7458",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37930/thumb/VOPOB3X.png?1715939089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xee81ca267b8357ba30049d679027ebf65fcf7458"
+  }
+}

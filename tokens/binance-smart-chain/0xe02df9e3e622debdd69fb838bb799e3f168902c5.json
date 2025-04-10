@@ -1,0 +1,16 @@
+{
+  "symbol": "BAKE",
+  "name": "BakeryToken",
+  "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12588/thumb/bakerytoken_logo.jpg?1600940032",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+    "harmony-shard-0": "0x4da9464daf2b878e32e29115e2cfd786fe84692a"
+  }
+}

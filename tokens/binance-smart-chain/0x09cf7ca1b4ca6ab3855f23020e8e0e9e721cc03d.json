@@ -1,0 +1,15 @@
+{
+  "symbol": "LYUM",
+  "name": "Layerium",
+  "address": "0x09cf7ca1b4ca6ab3855f23020e8e0e9e721cc03d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32137/thumb/Layerium.jpg?1696589104",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x09cf7ca1b4ca6ab3855f23020e8e0e9e721cc03d"
+  }
+}

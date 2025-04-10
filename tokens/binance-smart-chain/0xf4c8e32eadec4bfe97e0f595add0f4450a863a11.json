@@ -1,0 +1,16 @@
+{
+  "symbol": "THE",
+  "name": "THENA",
+  "address": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28864/thumb/IMG_20230129_155910_852.png?1674984924",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
+    "opbnb": "0x9d94a7ff461e83f161c8c040e78557e31d8cba72"
+  }
+}

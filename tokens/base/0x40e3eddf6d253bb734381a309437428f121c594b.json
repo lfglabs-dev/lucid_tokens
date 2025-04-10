@@ -1,0 +1,15 @@
+{
+  "symbol": "LAD",
+  "name": "Larva Lads",
+  "address": "0x40e3eddf6d253bb734381a309437428f121c594b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54309/thumb/l.png?1739194014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x40e3eddf6d253bb734381a309437428f121c594b"
+  }
+}

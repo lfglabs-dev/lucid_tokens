@@ -1,0 +1,15 @@
+{
+  "symbol": "MVDA25",
+  "name": "MarketVector Digital Assets 25 Index",
+  "address": "0xd600e748c17ca237fcb5967fa13d688aff17be78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54600/thumb/MV-logo.png?1740638035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd600e748c17ca237fcb5967fa13d688aff17be78"
+  }
+}

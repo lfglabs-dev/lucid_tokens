@@ -1,0 +1,15 @@
+{
+  "symbol": "Monky",
+  "name": "Monky",
+  "address": "0x9124577428c5bd73ad7636cbc5014081384f29d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38522/thumb/1000084004.jpg?1717759092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9124577428c5bd73ad7636cbc5014081384f29d6"
+  }
+}

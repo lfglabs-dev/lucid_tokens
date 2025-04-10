@@ -1,0 +1,15 @@
+{
+  "symbol": "MESH",
+  "name": "Meshswap Protocol",
+  "address": "0x82362ec182db3cf7829014bc61e9be8a2e82868a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25609/thumb/VxtSquTp_400x400.jpeg?1652844613",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x82362ec182db3cf7829014bc61e9be8a2e82868a"
+  }
+}

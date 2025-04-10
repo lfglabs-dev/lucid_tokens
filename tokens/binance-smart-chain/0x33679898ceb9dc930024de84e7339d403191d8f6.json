@@ -1,0 +1,15 @@
+{
+  "symbol": "Alita",
+  "name": "ALITA",
+  "address": "0x33679898ceb9dc930024de84e7339d403191d8f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33954/thumb/photo_2023-12-22_15.04.29.png?1703561417",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x33679898ceb9dc930024de84e7339d403191d8f6"
+  }
+}

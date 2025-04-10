@@ -1,0 +1,15 @@
+{
+  "symbol": "ZK",
+  "name": "ZKsync",
+  "address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38043/thumb/zk.jpg?1716339607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e"
+  }
+}

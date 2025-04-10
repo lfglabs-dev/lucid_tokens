@@ -1,0 +1,15 @@
+{
+  "symbol": "VMT",
+  "name": "Vemate",
+  "address": "0xe615c5e7219f9801c3b75bc76e45a4dab3c38e51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27953/thumb/Vemate.jpeg?1666668775",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe615c5e7219f9801c3b75bc76e45a4dab3c38e51"
+  }
+}

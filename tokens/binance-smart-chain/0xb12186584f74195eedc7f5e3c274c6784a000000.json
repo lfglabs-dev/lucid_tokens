@@ -1,0 +1,15 @@
+{
+  "symbol": "BHC",
+  "name": "Black Hole Coin",
+  "address": "0xb12186584f74195eedc7f5e3c274c6784a000000",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38005/thumb/1000007262.jpg?1716270299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb12186584f74195eedc7f5e3c274c6784a000000"
+  }
+}

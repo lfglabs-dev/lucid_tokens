@@ -1,0 +1,15 @@
+{
+  "symbol": "MILO",
+  "name": "Milo Inu",
+  "address": "0xd9de2b1973e57dc9dba90c35d6cd940ae4a3cbe1",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23896/thumb/milo.png?1645719021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9de2b1973e57dc9dba90c35d6cd940ae4a3cbe1"
+  }
+}

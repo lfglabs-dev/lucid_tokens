@@ -1,0 +1,15 @@
+{
+  "symbol": "ZEBRO",
+  "name": "Sport Bettor AI by Virtuals",
+  "address": "0x792d0447bf8b33158ca6e02d49755f2eab65061b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53668/thumb/wImEuzQT_400x400.jpg?1737004056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x792d0447bf8b33158ca6e02d49755f2eab65061b"
+  }
+}

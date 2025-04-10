@@ -1,0 +1,17 @@
+{
+  "symbol": "FVT",
+  "name": "finance.vote Token",
+  "address": "0x72a5a58f79ffc2102227b92faeba93b169a3a3f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13181/thumb/finance.png?1606015010",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x45080a6531d671ddff20db42f93792a489685e32",
+    "binance-smart-chain": "0x0a232cb2005bda62d3de7ab5deb3ffe4c456165a",
+    "polygon-pos": "0x72a5a58f79ffc2102227b92faeba93b169a3a3f1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "RBX",
+  "name": "RabbitX",
+  "address": "0x236bb48fcf61ce996b2c8c196a9258c176100c7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30048/thumb/rabbitx_logo_upload.png?1682993640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3ba925fdeae6b46d0bb4d424d829982cb2f7309e",
+    "blast": "0x236bb48fcf61ce996b2c8c196a9258c176100c7d"
+  }
+}

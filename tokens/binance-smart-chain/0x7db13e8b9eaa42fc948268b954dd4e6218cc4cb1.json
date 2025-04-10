@@ -1,0 +1,15 @@
+{
+  "symbol": "FWIN-Ai",
+  "name": "Fight Win Ai",
+  "address": "0x7db13e8b9eaa42fc948268b954dd4e6218cc4cb1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29006/thumb/IMG_20230208_235738_212.png?1675918095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7db13e8b9eaa42fc948268b954dd4e6218cc4cb1"
+  }
+}

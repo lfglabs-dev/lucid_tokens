@@ -1,0 +1,15 @@
+{
+  "symbol": "CGPU",
+  "name": "ChainGPU",
+  "address": "0xbac405e6b93846cdc809db7af3380746efa2c06f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39986/thumb/GPU.png?1725027707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbac405e6b93846cdc809db7af3380746efa2c06f"
+  }
+}

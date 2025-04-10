@@ -1,0 +1,17 @@
+{
+  "symbol": "LAND",
+  "name": "Landshare Token",
+  "address": "0xa73164db271931cf952cbaeff9e8f5817b42fa5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17507/thumb/Landshare.png?1628149620",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa73164db271931cf952cbaeff9e8f5817b42fa5c",
+    "arbitrum-one": "0x27bc2757fab0b8ab406016d1f71d8123452095d3",
+    "polygon-pos": "0xc03e6ad83de7c58c9166ff08d66b960d78e64105"
+  }
+}

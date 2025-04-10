@@ -1,0 +1,15 @@
+{
+  "symbol": "FTD",
+  "name": "Forty Two DAO Token",
+  "address": "0x653062e37d7a52d465a8570a5daa46ca4e0bd3d9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51544/thumb/1000059899.jpg?1731503437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x653062e37d7a52d465a8570a5daa46ca4e0bd3d9"
+  }
+}

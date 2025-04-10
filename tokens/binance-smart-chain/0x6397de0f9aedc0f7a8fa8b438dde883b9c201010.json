@@ -1,0 +1,15 @@
+{
+  "symbol": "SIN",
+  "name": "SinCity Token",
+  "address": "0x6397de0f9aedc0f7a8fa8b438dde883b9c201010",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19291/thumb/Sin_Verse_Logo_White_Text_White_Windows.png?1645276533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6397de0f9aedc0f7a8fa8b438dde883b9c201010"
+  }
+}

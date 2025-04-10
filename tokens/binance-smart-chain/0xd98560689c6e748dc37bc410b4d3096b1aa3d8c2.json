@@ -1,0 +1,15 @@
+{
+  "symbol": "DFY",
+  "name": "DeFi For You.",
+  "address": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14561/thumb/DFY-200x200.png?1617015032",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2"
+  }
+}

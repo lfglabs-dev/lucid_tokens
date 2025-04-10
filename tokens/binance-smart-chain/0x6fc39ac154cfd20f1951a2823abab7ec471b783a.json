@@ -1,0 +1,15 @@
+{
+  "symbol": "SpritzMoon",
+  "name": "SpritzMoon Crypto Token",
+  "address": "0x6fc39ac154cfd20f1951a2823abab7ec471b783a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24401/thumb/SpritzMoon_Logo_200x200-ts1627473125.png?1647529710",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6fc39ac154cfd20f1951a2823abab7ec471b783a"
+  }
+}

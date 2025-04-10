@@ -1,0 +1,15 @@
+{
+  "symbol": "$MONKE",
+  "name": "Monkecoin",
+  "address": "0xfce692762e907e80a061c01631d15ba7328eaaaa",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36384/thumb/Monkecoin.png?1711349090",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfce692762e907e80a061c01631d15ba7328eaaaa"
+  }
+}

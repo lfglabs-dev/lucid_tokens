@@ -1,0 +1,15 @@
+{
+  "symbol": "RF",
+  "name": "ReactorFusion",
+  "address": "0x5f7cbcb391d33988dad74d6fd683aadda1123e4d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29975/thumb/s0HCHgec_400x400.jpg?1682402719",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x5f7cbcb391d33988dad74d6fd683aadda1123e4d"
+  }
+}

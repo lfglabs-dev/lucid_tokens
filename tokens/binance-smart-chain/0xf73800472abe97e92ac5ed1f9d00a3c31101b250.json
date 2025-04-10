@@ -1,0 +1,15 @@
+{
+  "symbol": "MINEBTC",
+  "name": "MINE BTC",
+  "address": "0xf73800472abe97e92ac5ed1f9d00a3c31101b250",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54312/thumb/_MINEBTC.png?1739211868",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf73800472abe97e92ac5ed1f9d00a3c31101b250"
+  }
+}

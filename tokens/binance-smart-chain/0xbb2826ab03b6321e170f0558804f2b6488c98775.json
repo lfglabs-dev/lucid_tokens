@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyBonk",
+  "name": "Baby Bonk",
+  "address": "0xbb2826ab03b6321e170f0558804f2b6488c98775",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33808/thumb/babybonk-200.png?1702993306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb2826ab03b6321e170f0558804f2b6488c98775"
+  }
+}

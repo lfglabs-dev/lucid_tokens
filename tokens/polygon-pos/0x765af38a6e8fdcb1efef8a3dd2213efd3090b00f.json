@@ -1,0 +1,15 @@
+{
+  "symbol": "VDT",
+  "name": "Vendetta",
+  "address": "0x765af38a6e8fdcb1efef8a3dd2213efd3090b00f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35185/thumb/logo_200_blk.png?1707811266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x765af38a6e8fdcb1efef8a3dd2213efd3090b00f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CHAD",
+  "name": "Based Chad",
+  "address": "0xecaf81eb42cd30014eb44130b89bcd6d4ad98b92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36285/thumb/icon_chad_copy.png?1711007637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xecaf81eb42cd30014eb44130b89bcd6d4ad98b92"
+  }
+}

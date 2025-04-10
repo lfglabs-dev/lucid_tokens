@@ -1,0 +1,15 @@
+{
+  "symbol": "degenOS",
+  "name": "degenOS",
+  "address": "0x1014fc96b37225e56f171a107bebef03800ff8f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53808/thumb/degen_OS.jpg?1737408565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1014fc96b37225e56f171a107bebef03800ff8f8"
+  }
+}

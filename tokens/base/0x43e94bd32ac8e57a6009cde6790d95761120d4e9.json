@@ -1,0 +1,15 @@
+{
+  "symbol": "DEWN",
+  "name": "Dewn",
+  "address": "0x43e94bd32ac8e57a6009cde6790d95761120d4e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36379/thumb/dewn_logo.jpg?1711342993",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x43e94bd32ac8e57a6009cde6790d95761120d4e9"
+  }
+}

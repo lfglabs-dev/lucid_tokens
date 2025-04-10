@@ -1,0 +1,17 @@
+{
+  "symbol": "FUL",
+  "name": "FUL",
+  "address": "0xe593853b4d603d5b8f21036bb4ad0d1880097a6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29684/thumb/FUL_Token_%281%29.png?1680600867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0x83afb1c32e5637acd0a452d87c3249f4a9f0013a",
+    "zksync": "0xe593853b4d603d5b8f21036bb4ad0d1880097a6e",
+    "cronos-zkevm": "0xfb3338e2ca713b344d6a45b36525c3db156e492f"
+  }
+}

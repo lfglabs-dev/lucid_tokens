@@ -1,0 +1,15 @@
+{
+  "symbol": "HMD",
+  "name": "HEALTHMEDI",
+  "address": "0xdd14c9059a5eba25a41997efc106ce0a9664b53a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39168/thumb/200_x_200_HEALTHMEDI_LOGO.jpg?1720786508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xdd14c9059a5eba25a41997efc106ce0a9664b53a"
+  }
+}

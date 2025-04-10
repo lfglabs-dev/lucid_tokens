@@ -1,0 +1,15 @@
+{
+  "symbol": "DEGENT",
+  "name": "Degent Token",
+  "address": "0x355758684251605af26dbec0fa672af174c384ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54008/thumb/coins22.png?1737964174",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x355758684251605af26dbec0fa672af174c384ab"
+  }
+}

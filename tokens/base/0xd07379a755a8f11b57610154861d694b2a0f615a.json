@@ -1,0 +1,15 @@
+{
+  "symbol": "BASE",
+  "name": "BASE",
+  "address": "0xd07379a755a8f11b57610154861d694b2a0f615a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31199/thumb/59302ba8-022e-45a4-8d00-e29fe2ee768c-removebg-preview.png?1691377221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd07379a755a8f11b57610154861d694b2a0f615a"
+  }
+}

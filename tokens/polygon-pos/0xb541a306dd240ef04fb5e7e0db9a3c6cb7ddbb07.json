@@ -1,0 +1,16 @@
+{
+  "symbol": "WFDP",
+  "name": "WFDP Coin",
+  "address": "0xb541a306dd240ef04fb5e7e0db9a3c6cb7ddbb07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23758/thumb/wfdp.png?1647695338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8cd29d79f9376f353c493a7f2ff9d27df8d372de",
+    "polygon-pos": "0xb541a306dd240ef04fb5e7e0db9a3c6cb7ddbb07"
+  }
+}

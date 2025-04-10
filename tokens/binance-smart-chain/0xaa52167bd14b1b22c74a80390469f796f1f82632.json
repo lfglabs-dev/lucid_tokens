@@ -1,0 +1,15 @@
+{
+  "symbol": "GRD",
+  "name": "GRADE",
+  "address": "0xaa52167bd14b1b22c74a80390469f796f1f82632",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54796/thumb/1000001095.png?1741672895",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaa52167bd14b1b22c74a80390469f796f1f82632"
+  }
+}

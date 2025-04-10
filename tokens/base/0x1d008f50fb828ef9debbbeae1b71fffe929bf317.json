@@ -1,0 +1,15 @@
+{
+  "symbol": "CLANKFUN",
+  "name": "clank.fun",
+  "address": "0x1d008f50fb828ef9debbbeae1b71fffe929bf317",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52595/thumb/0x1d008f50fb828ef9debbbeae1b71fffe929bf317.webp?1733736713",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1d008f50fb828ef9debbbeae1b71fffe929bf317"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$blue",
+  "name": "blue on base",
+  "address": "0xfd9fa4f785331ce88b5af8994a047ba087c705d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37277/thumb/blue_on_base.png?1713895265",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfd9fa4f785331ce88b5af8994a047ba087c705d8"
+  }
+}

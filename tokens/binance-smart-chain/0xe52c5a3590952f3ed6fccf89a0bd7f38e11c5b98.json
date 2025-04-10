@@ -1,0 +1,15 @@
+{
+  "symbol": "DEK",
+  "name": "DekBox",
+  "address": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15968/thumb/DEKbox-02%281%29.png?1622522389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98"
+  }
+}

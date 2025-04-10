@@ -1,0 +1,15 @@
+{
+  "symbol": "B2SHARE",
+  "name": "B2SHARE",
+  "address": "0x0df73831c00b157bb0fed3c06eb475f201b64a78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35062/thumb/B2SHARE.png?1707239785",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0df73831c00b157bb0fed3c06eb475f201b64a78"
+  }
+}

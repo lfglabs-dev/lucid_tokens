@@ -1,0 +1,15 @@
+{
+  "symbol": "QTCC",
+  "name": "Quick Transfer coin plus ",
+  "address": "0xbd817c2e531b1b31f211f50f59fbc87ebc50ef48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30448/thumb/200x200.png?1684489211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbd817c2e531b1b31f211f50f59fbc87ebc50ef48"
+  }
+}

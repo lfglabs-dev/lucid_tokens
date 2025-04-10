@@ -1,0 +1,15 @@
+{
+  "symbol": "SDME",
+  "name": "SDME",
+  "address": "0x4b32bfda29b61dc28f958bf1109097bd4cb81a97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54853/thumb/LOGO-SDME-PNG.png?1742105415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4b32bfda29b61dc28f958bf1109097bd4cb81a97"
+  }
+}

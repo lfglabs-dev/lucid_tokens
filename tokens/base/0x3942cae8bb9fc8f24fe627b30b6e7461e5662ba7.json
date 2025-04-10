@@ -1,0 +1,15 @@
+{
+  "symbol": "BAILEY",
+  "name": "Golden Bailey ",
+  "address": "0x3942cae8bb9fc8f24fe627b30b6e7461e5662ba7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52535/thumb/Based_Bailey.jpg?1733584358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3942cae8bb9fc8f24fe627b30b6e7461e5662ba7"
+  }
+}

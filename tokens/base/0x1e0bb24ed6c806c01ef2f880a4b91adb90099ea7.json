@@ -1,0 +1,15 @@
+{
+  "symbol": "BRRR",
+  "name": "BUCCI",
+  "address": "0x1e0bb24ed6c806c01ef2f880a4b91adb90099ea7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39055/thumb/BUCCI.png?1720158867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1e0bb24ed6c806c01ef2f880a4b91adb90099ea7"
+  }
+}

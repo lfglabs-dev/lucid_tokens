@@ -1,0 +1,15 @@
+{
+  "symbol": "T99",
+  "name": "Tethereum",
+  "address": "0xf5f53af4595bab806e2522ca7a8bbcb70a9b3da8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54861/thumb/t99.jpg?1742180921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf5f53af4595bab806e2522ca7a8bbcb70a9b3da8"
+  }
+}

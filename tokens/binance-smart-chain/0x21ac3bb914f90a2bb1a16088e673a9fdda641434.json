@@ -1,0 +1,15 @@
+{
+  "symbol": "VIA",
+  "name": "Octavia",
+  "address": "0x21ac3bb914f90a2bb1a16088e673a9fdda641434",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35108/thumb/logo_%281%29.png?1707382639",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x21ac3bb914f90a2bb1a16088e673a9fdda641434"
+  }
+}

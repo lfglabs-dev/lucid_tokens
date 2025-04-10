@@ -1,0 +1,15 @@
+{
+  "symbol": "SCRIBES",
+  "name": "SCRIBES",
+  "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e"
+  }
+}

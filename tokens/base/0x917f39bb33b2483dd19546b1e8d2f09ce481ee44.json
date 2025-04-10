@@ -1,0 +1,15 @@
+{
+  "symbol": "PKT",
+  "name": "PKT",
+  "address": "0x917f39bb33b2483dd19546b1e8d2f09ce481ee44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15293/thumb/PKT_Icon_smaller_new-01.png?1620365521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x917f39bb33b2483dd19546b1e8d2f09ce481ee44"
+  }
+}

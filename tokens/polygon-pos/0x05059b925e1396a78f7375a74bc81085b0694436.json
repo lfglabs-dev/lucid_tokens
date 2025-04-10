@@ -1,0 +1,15 @@
+{
+  "symbol": "MTFI",
+  "name": "MetaTower Finance",
+  "address": "0x05059b925e1396a78f7375a74bc81085b0694436",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35308/thumb/mtfi-logo-2.png?1708156525",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x05059b925e1396a78f7375a74bc81085b0694436"
+  }
+}

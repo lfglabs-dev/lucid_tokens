@@ -1,0 +1,15 @@
+{
+  "symbol": "P3NGUIN",
+  "name": "P3NGUIN",
+  "address": "0xb8309421b0603febbc370a6b0c5c59d3af202759",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/15435/thumb/PNGN_LOGO_WHITE_BG.png?1696515080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb8309421b0603febbc370a6b0c5c59d3af202759"
+  }
+}

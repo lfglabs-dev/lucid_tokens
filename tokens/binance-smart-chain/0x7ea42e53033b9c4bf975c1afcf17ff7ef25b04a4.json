@@ -1,0 +1,15 @@
+{
+  "symbol": "DYNA",
+  "name": "DYNACHAIN",
+  "address": "0x7ea42e53033b9c4bf975c1afcf17ff7ef25b04a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50451/thumb/Dynachain.png?1727772618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7ea42e53033b9c4bf975c1afcf17ff7ef25b04a4"
+  }
+}

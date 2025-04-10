@@ -1,0 +1,15 @@
+{
+  "symbol": "MENDI",
+  "name": "Mendi Finance",
+  "address": "0x43e8809ea748eff3204ee01f08872f063e44065f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31418/thumb/mendi_finance_token_logo_v1.png?1692850182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x43e8809ea748eff3204ee01f08872f063e44065f"
+  }
+}

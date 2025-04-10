@@ -1,0 +1,15 @@
+{
+  "symbol": "MEAT",
+  "name": "Meat",
+  "address": "0x47c3118ad183712acd42648e9e522e13690f29a0",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33554/thumb/logo.png?1702429098",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x47c3118ad183712acd42648e9e522e13690f29a0"
+  }
+}

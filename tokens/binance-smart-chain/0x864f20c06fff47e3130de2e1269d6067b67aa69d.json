@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBCEO",
+  "name": "SHIB CEO",
+  "address": "0x864f20c06fff47e3130de2e1269d6067b67aa69d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29259/thumb/shibceo.png?1677656403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x864f20c06fff47e3130de2e1269d6067b67aa69d"
+  }
+}

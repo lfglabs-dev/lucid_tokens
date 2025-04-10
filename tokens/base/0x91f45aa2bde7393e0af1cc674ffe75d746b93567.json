@@ -1,0 +1,15 @@
+{
+  "symbol": "FRAME",
+  "name": "FrameToken",
+  "address": "0x91f45aa2bde7393e0af1cc674ffe75d746b93567",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35034/thumb/Artboard_1_copyd.png?1707189782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x91f45aa2bde7393e0af1cc674ffe75d746b93567"
+  }
+}

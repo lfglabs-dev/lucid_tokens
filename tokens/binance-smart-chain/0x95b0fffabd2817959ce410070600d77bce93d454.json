@@ -1,0 +1,15 @@
+{
+  "symbol": "NEUROS",
+  "name": "Neuros",
+  "address": "0x95b0fffabd2817959ce410070600d77bce93d454",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30105/thumb/NEUROS_Logo.png?1683083293",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x95b0fffabd2817959ce410070600d77bce93d454"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "NCT",
+  "name": "Toucan Protocol: Nature Carbon Tonne",
+  "address": "0xd838290e877e0188a4a44700463419ed96c16107",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24484/thumb/NCT-removebg-preview.png?1647836439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd838290e877e0188a4a44700463419ed96c16107"
+  }
+}

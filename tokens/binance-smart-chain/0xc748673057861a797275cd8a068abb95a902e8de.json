@@ -1,0 +1,16 @@
+{
+  "symbol": "BabyDoge",
+  "name": "Baby Doge Coin",
+  "address": "0xc748673057861a797275cd8a068abb95a902e8de",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16125/thumb/Baby_Doge.png?1623044048",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc748673057861a797275cd8a068abb95a902e8de",
+    "ethereum": "0xac57de9c1a09fec648e93eb98875b212db0d460b"
+  }
+}

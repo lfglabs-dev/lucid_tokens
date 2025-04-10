@@ -1,0 +1,15 @@
+{
+  "symbol": "wBLK",
+  "name": "Wrapped Blackcoin",
+  "address": "0xd2cdfd5d26dfa1d11116b9ed7dbd7c6b88c6e1d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/50/thumb/blackcoin.png?1547274445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd2cdfd5d26dfa1d11116b9ed7dbd7c6b88c6e1d3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Crash",
+  "name": "Crash",
+  "address": "0x4dd9077269dd08899f2a9e73507125962b5bc87f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38817/thumb/token_pic.png?1719081363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4dd9077269dd08899f2a9e73507125962b5bc87f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "WIZZ",
+  "name": "Wizzwoods Token",
+  "address": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55049/thumb/200x200_logo.png?1743437086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a"
+  }
+}

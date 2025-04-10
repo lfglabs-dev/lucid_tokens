@@ -1,0 +1,15 @@
+{
+  "symbol": "DDMT",
+  "name": "Dongdaemun Token",
+  "address": "0x59536e645e5f394045049c38ea98ae45b4b0ded2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39316/thumb/logo_200.png?1721707793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x59536e645e5f394045049c38ea98ae45b4b0ded2"
+  }
+}

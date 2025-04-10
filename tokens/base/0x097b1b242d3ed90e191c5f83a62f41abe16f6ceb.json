@@ -1,0 +1,15 @@
+{
+  "symbol": "Tokito",
+  "name": "Tokito",
+  "address": "0x097b1b242d3ed90e191c5f83a62f41abe16f6ceb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53610/thumb/tyrael_httpss.mj.run2vyU88q5UzQ_Could_you_help_me_reimagine_t_217896db-6dea-470a-b5d5-92af884a15f1_1.png?1736884104",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x097b1b242d3ed90e191c5f83a62f41abe16f6ceb"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "HUDI",
+  "name": "HUDI",
+  "address": "0x83d8ea5a4650b68cd2b57846783d86df940f7458",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18454/thumb/coin_200x200.png?1632105535",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x83d8ea5a4650b68cd2b57846783d86df940f7458"
+  }
+}

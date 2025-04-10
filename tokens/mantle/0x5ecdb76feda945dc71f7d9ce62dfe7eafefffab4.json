@@ -1,0 +1,18 @@
+{
+  "symbol": "MINTY",
+  "name": "Minterest",
+  "address": "0x5ecdb76feda945dc71f7d9ce62dfe7eafefffab4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x149cac67f1cd5d80651e7c9bb359ec285d821a05",
+    "mantle": "0x5ecdb76feda945dc71f7d9ce62dfe7eafefffab4",
+    "tomochain": "0xbb0209e02b3cc33ef00321e8d20b78ca1cdcc8a0",
+    "taiko": "0x2bd26ba2ef62ff90f807365c2bf363fb3bee9979"
+  }
+}

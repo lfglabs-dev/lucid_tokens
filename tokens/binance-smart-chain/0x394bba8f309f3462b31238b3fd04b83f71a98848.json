@@ -1,0 +1,15 @@
+{
+  "symbol": "POCO",
+  "name": "Poco Token",
+  "address": "0x394bba8f309f3462b31238b3fd04b83f71a98848",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18293/thumb/poco.PNG?1631312700",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x394bba8f309f3462b31238b3fd04b83f71a98848"
+  }
+}

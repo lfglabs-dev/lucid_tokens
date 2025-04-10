@@ -1,0 +1,15 @@
+{
+  "symbol": "PARTICLE",
+  "name": "Particles Money Particle Token",
+  "address": "0xafe5451185513925f5e757f001425338ff93412d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33164/thumb/PARTICLE.png?1700831300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xafe5451185513925f5e757f001425338ff93412d"
+  }
+}

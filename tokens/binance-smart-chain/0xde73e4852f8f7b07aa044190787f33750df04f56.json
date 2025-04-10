@@ -1,0 +1,15 @@
+{
+  "symbol": "LCT",
+  "name": "Lemonschain",
+  "address": "0xde73e4852f8f7b07aa044190787f33750df04f56",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51285/thumb/LCT_Logo.jpg?1730568953",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde73e4852f8f7b07aa044190787f33750df04f56"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GM",
+  "name": "Game Money",
+  "address": "0x637ca2cfa168f97caf0730d6c6012c10f49839fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52746/thumb/token_200.png?1734185533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x637ca2cfa168f97caf0730d6c6012c10f49839fa"
+  }
+}

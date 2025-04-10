@@ -1,0 +1,15 @@
+{
+  "symbol": "SELF",
+  "name": "SelfToken",
+  "address": "0xc45c56bf1aaf119a3c266f97bb28bf19646d0b1d",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29857/thumb/Self-Token-logo-yellow-200x200.png?1681867689",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc45c56bf1aaf119a3c266f97bb28bf19646d0b1d"
+  }
+}

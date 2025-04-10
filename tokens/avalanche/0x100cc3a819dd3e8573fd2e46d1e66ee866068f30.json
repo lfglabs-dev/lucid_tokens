@@ -1,0 +1,15 @@
+{
+  "symbol": "DCAU",
+  "name": "Dragon Crypto Aurum",
+  "address": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20226/thumb/vfmKUwK.png?1636689280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30"
+  }
+}

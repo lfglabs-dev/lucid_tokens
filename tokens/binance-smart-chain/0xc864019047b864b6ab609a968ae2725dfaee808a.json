@@ -1,0 +1,15 @@
+{
+  "symbol": "BIT",
+  "name": "BIT TOKEN",
+  "address": "0xc864019047b864b6ab609a968ae2725dfaee808a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18198/thumb/mGky0OOh_400x400.jpg?1630965301",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc864019047b864b6ab609a968ae2725dfaee808a"
+  }
+}

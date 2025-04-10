@@ -1,0 +1,16 @@
+{
+  "symbol": "AZUKI",
+  "name": "DokiDokiAzuki",
+  "address": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13091/thumb/bdUBSCo.png?1605169403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed",
+    "polygon-pos": "0x7cdc0421469398e0f3aa8890693d86c840ac8931"
+  }
+}

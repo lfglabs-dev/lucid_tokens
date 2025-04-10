@@ -1,0 +1,16 @@
+{
+  "symbol": "PLAY",
+  "name": "PLAY",
+  "address": "0x7404ac09adf614603d9c16a7ce85a1101f3514ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52562/thumb/play_token.png?1733669740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7404ac09adf614603d9c16a7ce85a1101f3514ba",
+    "ethereum": "0x7404ac09adf614603d9c16a7ce85a1101f3514ba"
+  }
+}

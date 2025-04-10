@@ -1,0 +1,15 @@
+{
+  "symbol": "4DMAPS",
+  "name": "4D Twin Maps",
+  "address": "0xd99903242745e8e3ecf1e2a7d4f6052282f891ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31220/thumb/27PGCqja_400x400.jpg?1691478290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd99903242745e8e3ecf1e2a7d4f6052282f891ee"
+  }
+}

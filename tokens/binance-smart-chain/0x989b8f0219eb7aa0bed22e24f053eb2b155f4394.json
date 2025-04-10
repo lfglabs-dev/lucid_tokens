@@ -1,0 +1,15 @@
+{
+  "symbol": "MommyDoge",
+  "name": "Mommy Doge Coin",
+  "address": "0x989b8f0219eb7aa0bed22e24f053eb2b155f4394",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16956/thumb/icon200x200_%281%29.png?1625795339",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x989b8f0219eb7aa0bed22e24f053eb2b155f4394"
+  }
+}

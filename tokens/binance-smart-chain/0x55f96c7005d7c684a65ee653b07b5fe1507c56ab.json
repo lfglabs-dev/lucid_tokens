@@ -1,0 +1,16 @@
+{
+  "symbol": "WOJ",
+  "name": "Wojak",
+  "address": "0x55f96c7005d7c684a65ee653b07b5fe1507c56ab",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18823/thumb/Untitled-design.png?1633520641",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x55f96c7005d7c684a65ee653b07b5fe1507c56ab",
+    "smartbch": "0x8d7ea0ec6cab515463121a3c70df541f2f534909"
+  }
+}

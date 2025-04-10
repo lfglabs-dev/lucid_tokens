@@ -1,0 +1,15 @@
+{
+  "symbol": "aiws",
+  "name": "aiws",
+  "address": "0x3e9c747db47602210ea7513c9d00abf356b53880",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53553/thumb/logo.png?1736672924",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x3e9c747db47602210ea7513c9d00abf356b53880"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "EGLD",
+  "name": "Elrond",
+  "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22255/thumb/16817.png?1641283266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "energi": "0x23f9918ee9ca163f6087aa9a8fca1c92626f062a",
+    "binance-smart-chain": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe"
+  }
+}

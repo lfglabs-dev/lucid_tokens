@@ -1,0 +1,15 @@
+{
+  "symbol": "COW",
+  "name": "CashCow",
+  "address": "0x8b6fa031c7d2e60fbfe4e663ec1b8f37df1ba483",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19388/thumb/cash_cow.png?1648265503",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8b6fa031c7d2e60fbfe4e663ec1b8f37df1ba483"
+  }
+}

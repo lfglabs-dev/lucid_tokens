@@ -1,0 +1,15 @@
+{
+  "symbol": "ZTH",
+  "name": "Zether",
+  "address": "0xf8598a646c4d6f4d5fc9be0673d2c2d4c2e18c91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52747/thumb/zth.png?1734186537",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8598a646c4d6f4d5fc9be0673d2c2d4c2e18c91"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "BRCT",
+  "name": "BRCT",
+  "address": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34244/thumb/BRC_X_Banners-19.jpg?1704338085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758",
+    "binance-smart-chain": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758"
+  }
+}

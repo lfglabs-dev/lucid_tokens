@@ -1,0 +1,19 @@
+{
+  "symbol": "eGold",
+  "name": "ARYZE eGold",
+  "address": "0x0047c3c6d6a9537b2b5d2d969d44a8bef5bc7067",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa7dfba2dfd3ad9bc0a30d69db439957e92daf1bc",
+    "scroll": "0x99f775945e46da5d443246fad7bc317993ee1b1a",
+    "linea": "0x0047c3c6d6a9537b2b5d2d969d44a8bef5bc7067",
+    "binance-smart-chain": "0x2574646118b5694faafcb9dcbfdfc1206c9b6936",
+    "arbitrum-one": "0x6099f4cfeacb9be8d5c3435da0ba2853cd5188e4"
+  }
+}

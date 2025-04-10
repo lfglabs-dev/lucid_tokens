@@ -1,0 +1,15 @@
+{
+  "symbol": "RAM",
+  "name": "Ramifi Token",
+  "address": "0x63290fc683d11ea077aba09596ff7387d49df912",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14602/thumb/76572462.png?1618003618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x63290fc683d11ea077aba09596ff7387d49df912"
+  }
+}

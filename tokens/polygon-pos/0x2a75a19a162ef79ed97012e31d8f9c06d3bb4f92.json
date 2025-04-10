@@ -1,0 +1,15 @@
+{
+  "symbol": "POLDO",
+  "name": "Poldo",
+  "address": "0x2a75a19a162ef79ed97012e31d8f9c06d3bb4f92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34537/thumb/Poldo.png?1705324970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2a75a19a162ef79ed97012e31d8f9c06d3bb4f92"
+  }
+}

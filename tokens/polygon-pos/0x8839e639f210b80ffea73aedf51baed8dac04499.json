@@ -1,0 +1,16 @@
+{
+  "symbol": "DWEB",
+  "name": "DecentraWeb (PoS)",
+  "address": "0x8839e639f210b80ffea73aedf51baed8dac04499",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18971/thumb/dweb-logo-transparent.png?1634082358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe7f58a92476056627f9fdb92286778abd83b285f",
+    "polygon-pos": "0x8839e639f210b80ffea73aedf51baed8dac04499"
+  }
+}

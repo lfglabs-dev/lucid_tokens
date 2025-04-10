@@ -1,0 +1,15 @@
+{
+  "symbol": "MTG",
+  "name": "MTG",
+  "address": "0xf1b602fc211e3e2976ef44e4017b764a778197e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28167/thumb/MTG.png?1673959597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf1b602fc211e3e2976ef44e4017b764a778197e0"
+  }
+}

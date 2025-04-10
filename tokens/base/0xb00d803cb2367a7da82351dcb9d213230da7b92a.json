@@ -1,0 +1,16 @@
+{
+  "symbol": "IYKYK",
+  "name": "IYKYK",
+  "address": "0xb00d803cb2367a7da82351dcb9d213230da7b92a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30022/thumb/iykyk200.png?1682566426",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7cb683151a83c2b10a30cbb003cda9996228a2ba",
+    "base": "0xb00d803cb2367a7da82351dcb9d213230da7b92a"
+  }
+}

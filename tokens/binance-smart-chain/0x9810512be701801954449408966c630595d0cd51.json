@@ -1,0 +1,15 @@
+{
+  "symbol": "HYDT",
+  "name": "High Yield Dollar Stable Token",
+  "address": "0x9810512be701801954449408966c630595d0cd51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33129/thumb/HYDT-200x200.png?1700796111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9810512be701801954449408966c630595d0cd51"
+  }
+}

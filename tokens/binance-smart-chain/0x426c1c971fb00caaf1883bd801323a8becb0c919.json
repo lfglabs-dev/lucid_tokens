@@ -1,0 +1,15 @@
+{
+  "symbol": "CARAT",
+  "name": "AlaskaGoldRush",
+  "address": "0x426c1c971fb00caaf1883bd801323a8becb0c919",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29911/thumb/O5Z-nlcb_400x400.jpg?1682000321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x426c1c971fb00caaf1883bd801323a8becb0c919"
+  }
+}

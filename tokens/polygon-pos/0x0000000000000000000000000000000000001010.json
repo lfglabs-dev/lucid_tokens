@@ -1,0 +1,16 @@
+{
+  "symbol": "POL",
+  "name": "Polygon Ecosystem Token",
+  "address": "0x0000000000000000000000000000000000001010",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32440/thumb/pol.png?1698232127",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
+    "polygon-pos": "0x0000000000000000000000000000000000001010"
+  }
+}

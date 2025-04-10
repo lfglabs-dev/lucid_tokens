@@ -1,0 +1,15 @@
+{
+  "symbol": "NYS",
+  "name": "node.sys",
+  "address": "0x279960f9cb21965b33ad3f3ced07349363cb2030",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55112/thumb/node_sys.jpg?1743755341",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x279960f9cb21965b33ad3f3ced07349363cb2030"
+  }
+}

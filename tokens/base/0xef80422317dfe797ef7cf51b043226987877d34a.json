@@ -1,0 +1,15 @@
+{
+  "symbol": "BIC",
+  "name": "BicOnBase",
+  "address": "0xef80422317dfe797ef7cf51b043226987877d34a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36913/thumb/ticker.jpeg?1712767591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xef80422317dfe797ef7cf51b043226987877d34a"
+  }
+}

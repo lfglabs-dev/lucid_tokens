@@ -1,0 +1,15 @@
+{
+  "symbol": "EverETH",
+  "name": "EverETH",
+  "address": "0x16dcc0ec78e91e868dca64be86aec62bf7c61037",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18221/thumb/200x200.png?1631007784",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x16dcc0ec78e91e868dca64be86aec62bf7c61037"
+  }
+}

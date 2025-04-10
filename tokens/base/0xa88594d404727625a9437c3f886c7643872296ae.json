@@ -1,0 +1,16 @@
+{
+  "symbol": "WELL",
+  "name": "WELL",
+  "address": "0xa88594d404727625a9437c3f886c7643872296ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26133/thumb/image.Xd7gqBrNNurR3PfgUhbj-modified.png?1655969801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "moonbeam": "0x511ab53f793683763e5a8829738301368a2411e3",
+    "base": "0xa88594d404727625a9437c3f886c7643872296ae"
+  }
+}

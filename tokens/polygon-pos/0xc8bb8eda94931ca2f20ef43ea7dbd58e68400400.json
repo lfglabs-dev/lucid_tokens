@@ -1,0 +1,16 @@
+{
+  "symbol": "VNXAU",
+  "name": "VNX Gold",
+  "address": "0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28019/thumb/wnxgold.png?1667026518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6d57b2e05f26c26b549231c866bdd39779e4a488",
+    "polygon-pos": "0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400"
+  }
+}

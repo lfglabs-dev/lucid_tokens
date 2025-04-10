@@ -1,0 +1,15 @@
+{
+  "symbol": "zUSD",
+  "name": "Zasset zUSD",
+  "address": "0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17664/thumb/zusd_200.png?1628812160",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9"
+  }
+}

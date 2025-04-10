@@ -1,0 +1,15 @@
+{
+  "symbol": "GMB",
+  "name": "GMBase",
+  "address": "0xc890eb927871660c7259f0dcaaf3d8a7ce5fa8c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52839/thumb/GMB_WADDLE_GMBASE_PFP.jpeg?1734468352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc890eb927871660c7259f0dcaaf3d8a7ce5fa8c1"
+  }
+}

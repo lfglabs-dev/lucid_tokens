@@ -1,0 +1,15 @@
+{
+  "symbol": "uEGLD",
+  "name": "MultiversX (Universal)",
+  "address": "0x16275fd42439a6671b188bdc3949a5ec61932c48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54706/thumb/UA-EGLD.png?1741108121",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x16275fd42439a6671b188bdc3949a5ec61932c48"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "TETU",
+  "name": "TETU Reward Token",
+  "address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17882/thumb/gradient_icon_926.png?1629707907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+    "fantom": "0x65c9d9d080714cda7b5d58989dc27f897f165179"
+  }
+}

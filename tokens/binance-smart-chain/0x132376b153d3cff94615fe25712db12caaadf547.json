@@ -1,0 +1,15 @@
+{
+  "symbol": "ynCoBTCk",
+  "name": "YieldNest Restaked Coffer BTC - Kernel",
+  "address": "0x132376b153d3cff94615fe25712db12caaadf547",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55058/thumb/ynCoBTCk.png?1743524014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x132376b153d3cff94615fe25712db12caaadf547"
+  }
+}

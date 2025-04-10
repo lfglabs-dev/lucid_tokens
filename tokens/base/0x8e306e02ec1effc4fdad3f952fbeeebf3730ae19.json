@@ -1,0 +1,15 @@
+{
+  "symbol": "AiX9",
+  "name": "AthenaX9",
+  "address": "0x8e306e02ec1effc4fdad3f952fbeeebf3730ae19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53496/thumb/Athena.jpg?1736511517",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8e306e02ec1effc4fdad3f952fbeeebf3730ae19"
+  }
+}

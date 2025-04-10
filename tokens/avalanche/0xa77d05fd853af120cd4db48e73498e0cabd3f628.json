@@ -1,0 +1,15 @@
+{
+  "symbol": "ERROR",
+  "name": "AI 404",
+  "address": "0xa77d05fd853af120cd4db48e73498e0cabd3f628",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55012/thumb/dex_pfp.jpg?1743162530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xa77d05fd853af120cd4db48e73498e0cabd3f628"
+  }
+}

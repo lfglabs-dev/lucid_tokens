@@ -1,0 +1,15 @@
+{
+  "symbol": "wPWR",
+  "name": "Wrapped Power",
+  "address": "0x3b54eb78fc8103462f86976b06916fa46078b124",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31321/thumb/PWR_Logo_200x200.jpg?1692354284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3b54eb78fc8103462f86976b06916fa46078b124"
+  }
+}

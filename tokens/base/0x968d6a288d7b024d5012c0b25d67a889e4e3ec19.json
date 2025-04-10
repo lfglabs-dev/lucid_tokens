@@ -1,0 +1,15 @@
+{
+  "symbol": "INT",
+  "name": "Internet Token",
+  "address": "0x968d6a288d7b024d5012c0b25d67a889e4e3ec19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36593/thumb/internettoken_logo.png?1711949672",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x968d6a288d7b024d5012c0b25d67a889e4e3ec19"
+  }
+}

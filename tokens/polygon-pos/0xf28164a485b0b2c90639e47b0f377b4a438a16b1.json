@@ -1,0 +1,15 @@
+{
+  "symbol": "dQUICK",
+  "name": "Dragon QUICK",
+  "address": "0xf28164a485b0b2c90639e47b0f377b4a438a16b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15185/thumb/quickswap.png?1620044811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf28164a485b0b2c90639e47b0f377b4a438a16b1"
+  }
+}

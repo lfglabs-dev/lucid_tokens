@@ -1,0 +1,15 @@
+{
+  "symbol": "BFT",
+  "name": "The Big Five Token",
+  "address": "0x4b87f578d6fabf381f43bd2197fbb2a877da6ef8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27429/thumb/photo_2022-08-01_16-49-53.jpg?1663919791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4b87f578d6fabf381f43bd2197fbb2a877da6ef8"
+  }
+}

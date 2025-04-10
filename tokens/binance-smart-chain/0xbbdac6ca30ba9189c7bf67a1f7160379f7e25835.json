@@ -1,0 +1,15 @@
+{
+  "symbol": "VX",
+  "name": "ViteX Coin",
+  "address": "0xbbdac6ca30ba9189c7bf67a1f7160379f7e25835",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10346/thumb/ViteX.png?1578364192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbbdac6ca30ba9189c7bf67a1f7160379f7e25835"
+  }
+}

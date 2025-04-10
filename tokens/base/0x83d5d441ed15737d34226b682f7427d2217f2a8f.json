@@ -1,0 +1,15 @@
+{
+  "symbol": "REM",
+  "name": "Real Estate Metaverse",
+  "address": "0x83d5d441ed15737d34226b682f7427d2217f2a8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53763/thumb/logo_icons-12.png?1737191145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x83d5d441ed15737d34226b682f7427d2217f2a8f"
+  }
+}

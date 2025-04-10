@@ -1,0 +1,16 @@
+{
+  "symbol": "TRDM",
+  "name": "TRADE MASTER (PoS)",
+  "address": "0x13f76eab3ec634c5479cbb0fb705e867b3e469de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36190/thumb/Transparent_200x200.png?1710761061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8dfb57d83bf561457b1a3f6ce22956bb554bcab",
+    "polygon-pos": "0x13f76eab3ec634c5479cbb0fb705e867b3e469de"
+  }
+}

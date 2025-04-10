@@ -1,0 +1,15 @@
+{
+  "symbol": "AOG",
+  "name": "AgeOfGods",
+  "address": "0x40c8225329bd3e28a043b029e0d07a5344d2c27c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22133/thumb/aog.PNG?1640905715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x40c8225329bd3e28a043b029e0d07a5344d2c27c"
+  }
+}

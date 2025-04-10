@@ -1,0 +1,17 @@
+{
+  "symbol": "UCASH",
+  "name": "UCASH (PoS)",
+  "address": "0xa94880d3a4b39746e90cdb57f8de3732c984de14",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2901/thumb/ucash.png?1547037074",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x92e52a1a235d9a103d970901066ce910aacefd37",
+    "polygon-pos": "0xa94880d3a4b39746e90cdb57f8de3732c984de14",
+    "base": "0x26cf750abaf38af7109effdbdf79ba50d2ee09a1"
+  }
+}

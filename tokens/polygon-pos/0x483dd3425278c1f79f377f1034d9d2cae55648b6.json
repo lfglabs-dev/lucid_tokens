@@ -1,0 +1,15 @@
+{
+  "symbol": "CROWD",
+  "name": "CrowdToken",
+  "address": "0x483dd3425278c1f79f377f1034d9d2cae55648b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23928/thumb/icon_192.png?1645690364",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x483dd3425278c1f79f377f1034d9d2cae55648b6"
+  }
+}

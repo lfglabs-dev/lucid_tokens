@@ -1,0 +1,16 @@
+{
+  "symbol": "LSS",
+  "name": "Chainport.io-Peg Lossless Token",
+  "address": "0xf7686f43591302cd9b4b9c4fe1291473fae7d9c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15917/thumb/Group_57.png?1623046307",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3b9be07d622accaed78f479bc0edabfd6397e320",
+    "binance-smart-chain": "0xf7686f43591302cd9b4b9c4fe1291473fae7d9c9"
+  }
+}

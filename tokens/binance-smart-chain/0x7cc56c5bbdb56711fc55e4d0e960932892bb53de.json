@@ -1,0 +1,15 @@
+{
+  "symbol": "LULU",
+  "name": "LULU",
+  "address": "0x7cc56c5bbdb56711fc55e4d0e960932892bb53de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51328/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241104130713.jpg?1730794366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7cc56c5bbdb56711fc55e4d0e960932892bb53de"
+  }
+}

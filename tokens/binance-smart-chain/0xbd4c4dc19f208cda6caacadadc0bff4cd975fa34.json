@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGSROCK",
+  "name": "Dogs Rock",
+  "address": "0xbd4c4dc19f208cda6caacadadc0bff4cd975fa34",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32542/thumb/DOGELOGOPNG200.png?1698473490",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbd4c4dc19f208cda6caacadadc0bff4cd975fa34"
+  }
+}

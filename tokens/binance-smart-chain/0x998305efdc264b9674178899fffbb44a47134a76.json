@@ -1,0 +1,15 @@
+{
+  "symbol": "GMRX",
+  "name": "Gaimin Token",
+  "address": "0x998305efdc264b9674178899fffbb44a47134a76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36295/thumb/WhiteG.png?1711032752",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x998305efdc264b9674178899fffbb44a47134a76"
+  }
+}

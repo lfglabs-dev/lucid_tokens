@@ -1,0 +1,15 @@
+{
+  "symbol": "KINGWIF",
+  "name": "King WIF",
+  "address": "0xb370029419a17750f110703510e95bd18817fdf4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34858/thumb/CMC.png?1706342590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb370029419a17750f110703510e95bd18817fdf4"
+  }
+}

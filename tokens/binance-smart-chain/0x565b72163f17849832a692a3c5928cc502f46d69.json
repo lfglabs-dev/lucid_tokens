@@ -1,0 +1,15 @@
+{
+  "symbol": "HUNNY",
+  "name": "Hunny Token",
+  "address": "0x565b72163f17849832a692a3c5928cc502f46d69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16043/thumb/hunny-logo.c87da9c4.png?1622684248",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x565b72163f17849832a692a3c5928cc502f46d69"
+  }
+}

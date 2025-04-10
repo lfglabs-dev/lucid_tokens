@@ -1,0 +1,15 @@
+{
+  "symbol": "LLT",
+  "name": "LILLIUS Token",
+  "address": "0x0dde4811c4dd68dc740a1d7997f33ff46cd186a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37471/thumb/lillius.jpeg?1714460677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0dde4811c4dd68dc740a1d7997f33ff46cd186a9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ZENQ",
+  "name": "ZENQIRA",
+  "address": "0x6c067f39cd81067d63718a5186ad4b3866318adc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50597/thumb/zenq-icon_%281%29.png?1728445925",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6c067f39cd81067d63718a5186ad4b3866318adc"
+  }
+}

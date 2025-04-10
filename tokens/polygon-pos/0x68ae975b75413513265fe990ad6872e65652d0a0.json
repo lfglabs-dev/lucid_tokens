@@ -1,0 +1,15 @@
+{
+  "symbol": "APR",
+  "name": "Apexrom",
+  "address": "0x68ae975b75413513265fe990ad6872e65652d0a0",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53804/thumb/apr_200.jpg?1737406824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x68ae975b75413513265fe990ad6872e65652d0a0"
+  }
+}

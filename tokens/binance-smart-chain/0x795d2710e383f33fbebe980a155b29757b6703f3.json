@@ -1,0 +1,15 @@
+{
+  "symbol": "Ghibli",
+  "name": "GhibliCZ",
+  "address": "0x795d2710e383f33fbebe980a155b29757b6703f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55099/thumb/6.jpeg?1743751732",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x795d2710e383f33fbebe980a155b29757b6703f3"
+  }
+}

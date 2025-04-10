@@ -1,0 +1,15 @@
+{
+  "symbol": "ZAP",
+  "name": "ZAP",
+  "address": "0xf56b3b3972f2f154555a0b62ff5a22b7b2a3c90b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50515/thumb/zap.jpg?1728033535",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf56b3b3972f2f154555a0b62ff5a22b7b2a3c90b"
+  }
+}

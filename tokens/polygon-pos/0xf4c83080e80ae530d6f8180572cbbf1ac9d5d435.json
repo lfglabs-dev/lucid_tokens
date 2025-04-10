@@ -1,0 +1,16 @@
+{
+  "symbol": "BLANK",
+  "name": "GoBlank Token (PoS)",
+  "address": "0xf4c83080e80ae530d6f8180572cbbf1ac9d5d435",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14209/thumb/blank.png?1614940842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x41a3dba3d677e573636ba691a70ff2d606c29666",
+    "polygon-pos": "0xf4c83080e80ae530d6f8180572cbbf1ac9d5d435"
+  }
+}

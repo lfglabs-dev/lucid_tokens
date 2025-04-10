@@ -1,0 +1,15 @@
+{
+  "symbol": "CASH",
+  "name": "Phase Dollar",
+  "address": "0xbe92452bb46485af3308e6d77786bfbe3557808d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32482/thumb/cash_cg.png?1698288106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbe92452bb46485af3308e6d77786bfbe3557808d"
+  }
+}

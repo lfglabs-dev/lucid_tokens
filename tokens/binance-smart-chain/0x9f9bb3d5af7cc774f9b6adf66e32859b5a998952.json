@@ -1,0 +1,15 @@
+{
+  "symbol": "SATX",
+  "name": "$SATX",
+  "address": "0x9f9bb3d5af7cc774f9b6adf66e32859b5a998952",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51497/thumb/SatoshiDEX.png?1731407940",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9f9bb3d5af7cc774f9b6adf66e32859b5a998952"
+  }
+}

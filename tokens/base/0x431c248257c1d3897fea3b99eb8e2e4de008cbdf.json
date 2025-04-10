@@ -1,0 +1,17 @@
+{
+  "symbol": "PRF",
+  "name": "Parifi",
+  "address": "0x431c248257c1d3897fea3b99eb8e2e4de008cbdf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34710/thumb/parifi200x200.png?1705894380",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcffcfdada28ab44d5440301470dcd410e75c4765",
+    "base": "0x431c248257c1d3897fea3b99eb8e2e4de008cbdf",
+    "arbitrum-one": "0x1310952bc5594852459ee45bfd0df70b34ac5509"
+  }
+}

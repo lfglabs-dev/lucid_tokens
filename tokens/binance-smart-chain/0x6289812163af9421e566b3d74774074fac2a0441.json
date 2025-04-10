@@ -1,0 +1,15 @@
+{
+  "symbol": "CRUSADER",
+  "name": "Crusaders of Crypto",
+  "address": "0x6289812163af9421e566b3d74774074fac2a0441",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17178/thumb/crusaders.PNG?1626817123",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6289812163af9421e566b3d74774074fac2a0441"
+  }
+}

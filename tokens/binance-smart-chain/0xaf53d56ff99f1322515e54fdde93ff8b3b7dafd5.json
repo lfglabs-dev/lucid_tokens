@@ -1,0 +1,16 @@
+{
+  "symbol": "PROM",
+  "name": "Prometeus",
+  "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8825/thumb/promlogofinal.png?1633713982",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+    "binance-smart-chain": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5"
+  }
+}

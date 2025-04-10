@@ -1,0 +1,15 @@
+{
+  "symbol": "MILO",
+  "name": "MILO",
+  "address": "0x6f10607507aff450b8cf0a6fa2641a781889ddfa",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36439/thumb/MILO.png?1711440161",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6f10607507aff450b8cf0a6fa2641a781889ddfa"
+  }
+}

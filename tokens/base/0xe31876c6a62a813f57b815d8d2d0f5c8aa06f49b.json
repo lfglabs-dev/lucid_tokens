@@ -1,0 +1,15 @@
+{
+  "symbol": "YOYO",
+  "name": "Yoyo",
+  "address": "0xe31876c6a62a813f57b815d8d2d0f5c8aa06f49b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37830/thumb/yoyologo.png?1715704964",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe31876c6a62a813f57b815d8d2d0f5c8aa06f49b"
+  }
+}

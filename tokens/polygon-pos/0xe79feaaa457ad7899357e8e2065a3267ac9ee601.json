@@ -1,0 +1,17 @@
+{
+  "symbol": "WCHI",
+  "name": "Wrapped CHI (PoS)",
+  "address": "0xe79feaaa457ad7899357e8e2065a3267ac9ee601",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2091/thumb/xaya_logo-1.png?1547036406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6dc02164d75651758ac74435806093e421b64605",
+    "binance-smart-chain": "0x22648c12acd87912ea1710357b1302c6a4154ebc",
+    "polygon-pos": "0xe79feaaa457ad7899357e8e2065a3267ac9ee601"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MDX",
+  "name": "MDX Token",
+  "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29751/thumb/tdmmZdko_400x400.png?1681115692",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BBT",
+  "name": "BabyBoomToken",
+  "address": "0xb208063997db51de3f0988f8a87b0aff83a6213f",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50996/thumb/BabyBoomToken_logo.png?1729675164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb208063997db51de3f0988f8a87b0aff83a6213f"
+  }
+}

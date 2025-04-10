@@ -1,0 +1,15 @@
+{
+  "symbol": "STICK",
+  "name": "STICK",
+  "address": "0xb44b645b5058f7e393f3ae6af58a4cef67006196",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51240/thumb/sticky.jpg?1730448893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb44b645b5058f7e393f3ae6af58a4cef67006196"
+  }
+}

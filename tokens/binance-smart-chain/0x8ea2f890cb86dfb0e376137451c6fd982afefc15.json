@@ -1,0 +1,15 @@
+{
+  "symbol": "AU",
+  "name": "AutoCrypto",
+  "address": "0x8ea2f890cb86dfb0e376137451c6fd982afefc15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19157/thumb/mrineaq.png?1643187340",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8ea2f890cb86dfb0e376137451c6fd982afefc15"
+  }
+}

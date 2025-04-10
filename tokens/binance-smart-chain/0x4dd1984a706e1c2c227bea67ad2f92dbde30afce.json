@@ -1,0 +1,15 @@
+{
+  "symbol": "BSKT",
+  "name": "BasketCoin",
+  "address": "0x4dd1984a706e1c2c227bea67ad2f92dbde30afce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14766/thumb/BasketCoin_logo_light-250x250_wbg.png?1618306694",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4dd1984a706e1c2c227bea67ad2f92dbde30afce"
+  }
+}

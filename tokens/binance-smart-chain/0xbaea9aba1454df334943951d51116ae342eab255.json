@@ -1,0 +1,15 @@
+{
+  "symbol": "POOLX",
+  "name": "Poolz Finance",
+  "address": "0xbaea9aba1454df334943951d51116ae342eab255",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29625/thumb/logomark-black_%282%29.png?1680079914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbaea9aba1454df334943951d51116ae342eab255"
+  }
+}

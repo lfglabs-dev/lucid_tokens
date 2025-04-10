@@ -1,0 +1,15 @@
+{
+  "symbol": "TRCON",
+  "name": "Teracon",
+  "address": "0x49d71842870b5a1e19ee14c8281114be74d5be20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32130/thumb/TERACON-LOGO.png?1696588418",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x49d71842870b5a1e19ee14c8281114be74d5be20"
+  }
+}

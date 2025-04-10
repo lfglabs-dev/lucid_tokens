@@ -1,0 +1,16 @@
+{
+  "symbol": "BUY",
+  "name": "BUY Token",
+  "address": "0x40225c6277b29bf9056b4acb7ee1512cbff11671",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5290/thumb/buying_200x200.png?1628587856",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x396ec402b42066864c406d1ac3bc86b575003ed8",
+    "binance-smart-chain": "0x40225c6277b29bf9056b4acb7ee1512cbff11671"
+  }
+}

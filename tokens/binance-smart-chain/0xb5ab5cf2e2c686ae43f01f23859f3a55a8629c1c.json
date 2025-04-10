@@ -1,0 +1,15 @@
+{
+  "symbol": "MA",
+  "name": "Mind-AI",
+  "address": "0xb5ab5cf2e2c686ae43f01f23859f3a55a8629c1c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54373/thumb/-omHaGH-_400x400.jpg?1739427292",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb5ab5cf2e2c686ae43f01f23859f3a55a8629c1c"
+  }
+}

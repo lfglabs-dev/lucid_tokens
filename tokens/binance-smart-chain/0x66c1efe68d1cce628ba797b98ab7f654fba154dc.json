@@ -1,0 +1,15 @@
+{
+  "symbol": "MLZ",
+  "name": "MetaLabz",
+  "address": "0x66c1efe68d1cce628ba797b98ab7f654fba154dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22156/thumb/P3gIa5oH_400x400.jpg?1640941577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x66c1efe68d1cce628ba797b98ab7f654fba154dc"
+  }
+}

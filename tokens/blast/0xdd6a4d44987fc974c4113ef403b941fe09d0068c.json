@@ -1,0 +1,18 @@
+{
+  "symbol": "AZN.d",
+  "name": "AstraZeneca PLC - Dinari",
+  "address": "0xdd6a4d44987fc974c4113ef403b941fe09d0068c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x44966bf47a494b36dfb407afb334a9226cdf90bc",
+    "ethereum": "0x103d7c5c657cb92f4acec796da416d52a6a86bf6",
+    "blast": "0xdd6a4d44987fc974c4113ef403b941fe09d0068c",
+    "base": "0xa9c380050b07f8c2bb38dc57bcdbe267cc794fe8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "JACE",
+  "name": "Jace",
+  "address": "0x0305ce989f3055a6da8955fc52b615b0086a2157",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37256/thumb/JACE-200x200.png?1713864842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0305ce989f3055a6da8955fc52b615b0086a2157"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TDE",
+  "name": "Trader",
+  "address": "0x86da4b72f0ce7a9d263263f521f37b3aa9a996d4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53909/thumb/trader-logo.png?1737708605",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x86da4b72f0ce7a9d263263f521f37b3aa9a996d4"
+  }
+}

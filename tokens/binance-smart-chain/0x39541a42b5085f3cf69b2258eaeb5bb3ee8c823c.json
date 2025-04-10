@@ -1,0 +1,15 @@
+{
+  "symbol": "BSF",
+  "name": "BULL STAR FINANCE",
+  "address": "0x39541a42b5085f3cf69b2258eaeb5bb3ee8c823c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36393/thumb/photo_2024-03-12_23-13-21.png?1711359675",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x39541a42b5085f3cf69b2258eaeb5bb3ee8c823c"
+  }
+}

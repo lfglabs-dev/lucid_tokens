@@ -1,0 +1,16 @@
+{
+  "symbol": "GMR",
+  "name": "GAMER",
+  "address": "0x168e3b1746aa249a9b3603b70605924fe255ee1a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21288/thumb/ezgif-1-7f6a016717.jpg?1645270886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x168e3b1746aa249a9b3603b70605924fe255ee1a",
+    "base": "0xa617c0c739845b2941bd8edd05c9f993ecc97c18"
+  }
+}

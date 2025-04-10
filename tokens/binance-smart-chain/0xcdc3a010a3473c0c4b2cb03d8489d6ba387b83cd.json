@@ -1,0 +1,15 @@
+{
+  "symbol": "liveThe",
+  "name": "liveThe",
+  "address": "0xcdc3a010a3473c0c4b2cb03d8489d6ba387b83cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33137/thumb/liveTHE_new.png?1700808192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcdc3a010a3473c0c4b2cb03d8489d6ba387b83cd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KARAT",
+  "name": "KARAT",
+  "address": "0x57f2be3e97e7653a2e6d6bddda40160d202d5305",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51127/thumb/karat_token_icon_360png.png?1730181622",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57f2be3e97e7653a2e6d6bddda40160d202d5305"
+  }
+}

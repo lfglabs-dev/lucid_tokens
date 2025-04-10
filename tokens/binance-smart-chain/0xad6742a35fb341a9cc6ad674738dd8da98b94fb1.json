@@ -1,0 +1,17 @@
+{
+  "symbol": "WOM",
+  "name": "Wombat Token",
+  "address": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26946/thumb/Wombat_Token.png?1660982422",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
+    "ethereum": "0xc0b314a8c08637685fc3dafc477b92028c540cfb",
+    "arbitrum-one": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96"
+  }
+}

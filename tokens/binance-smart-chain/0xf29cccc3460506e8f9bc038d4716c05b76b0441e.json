@@ -1,0 +1,15 @@
+{
+  "symbol": "RDF",
+  "name": "ReadFi",
+  "address": "0xf29cccc3460506e8f9bc038d4716c05b76b0441e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26780/thumb/readfi.png?1660903974",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf29cccc3460506e8f9bc038d4716c05b76b0441e"
+  }
+}

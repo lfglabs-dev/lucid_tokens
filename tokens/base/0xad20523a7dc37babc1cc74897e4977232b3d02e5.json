@@ -1,0 +1,15 @@
+{
+  "symbol": "gUSDC",
+  "name": "Gains Network USDC",
+  "address": "0xad20523a7dc37babc1cc74897e4977232b3d02e5",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50751/thumb/logo_gUSDC.png?1728959276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xad20523a7dc37babc1cc74897e4977232b3d02e5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "MUBI",
+  "name": "MUBI",
+  "address": "0xb1a91036e4a3c144efed953e0b6cc5f6b98ad256",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33051/thumb/multi.jpg?1700473994",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
+    "binance-smart-chain": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
+    "polygon-pos": "0xb1a91036e4a3c144efed953e0b6cc5f6b98ad256"
+  }
+}

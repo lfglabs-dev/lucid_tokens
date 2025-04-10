@@ -1,0 +1,15 @@
+{
+  "symbol": "AK1111",
+  "name": "Akashalife",
+  "address": "0x54b659832f59c24cec0e4a2cd193377f1bcefc3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50533/thumb/Akasha-CoinIcon_%283%29.png?1728206155",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x54b659832f59c24cec0e4a2cd193377f1bcefc3c"
+  }
+}

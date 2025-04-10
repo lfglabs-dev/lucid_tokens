@@ -1,0 +1,15 @@
+{
+  "symbol": "RBL",
+  "name": "Rublex",
+  "address": "0x89414f992d4f24fc1bde61eb5c7a74ca83fbe13b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37775/thumb/rbl-200x200.png?1715580861",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x89414f992d4f24fc1bde61eb5c7a74ca83fbe13b"
+  }
+}

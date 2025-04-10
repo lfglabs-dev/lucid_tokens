@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyPnut",
+  "name": "Baby Pnut",
+  "address": "0xa00432be5d9883a5c85f6f716410c23410453836",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51924/thumb/OMNHRQCB_400x400.jpg?1732192728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa00432be5d9883a5c85f6f716410c23410453836"
+  }
+}

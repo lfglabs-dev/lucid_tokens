@@ -1,0 +1,17 @@
+{
+  "symbol": "VEST",
+  "name": "DAO Invest (PoS)",
+  "address": "0x381caf412b45dac0f62fbeec89de306d3eabe384",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17901/thumb/logo-round-200.png?1629773511",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f19f83fc9a25f3c861260143e36c17706257986",
+    "binance-smart-chain": "0x873801ae2ff12d816db9a7b082f5796bec64c82c",
+    "polygon-pos": "0x381caf412b45dac0f62fbeec89de306d3eabe384"
+  }
+}

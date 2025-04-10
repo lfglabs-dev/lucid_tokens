@@ -1,0 +1,15 @@
+{
+  "symbol": "ghffb47yii2rteeyy10op",
+  "name": "ghffb47yii2rteeyy10op",
+  "address": "0x354d6890caa31a5e28b6059d46781f40880786a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52104/thumb/0x354d6890caa31a5e28b6059d46781f40880786a6.png?1732591949",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x354d6890caa31a5e28b6059d46781f40880786a6"
+  }
+}

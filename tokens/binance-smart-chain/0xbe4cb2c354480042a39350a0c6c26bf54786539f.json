@@ -1,0 +1,16 @@
+{
+  "symbol": "DEFX",
+  "name": "DeFinity",
+  "address": "0xbe4cb2c354480042a39350a0c6c26bf54786539f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15875/thumb/definity-listing-logo.png?1622414896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5f474906637bdcda05f29c74653f6962bb0f8eda",
+    "binance-smart-chain": "0xbe4cb2c354480042a39350a0c6c26bf54786539f"
+  }
+}

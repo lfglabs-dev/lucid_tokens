@@ -1,0 +1,15 @@
+{
+  "symbol": "EGG",
+  "name": "Goose Golden Egg",
+  "address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13951/thumb/JNnBWAE4XEJD9Ty7x8A1RlJ8dvA7hcOe7C1LkQSWwuSlD6HcCz3V8fN44B6du2k4owhlLJZU3r6M6HcK0dkpMe53kkqYsESpfx9w8vU8t_PnykuyaGnLKXLJeZqEAP1C9Wi3G3sqfbTeHi32_msxtMMyUmIRgzBbDdp-adg6mIbst_8a7JknMgmdkORNydmX4Ptk8YUtZhoWewY.png?1613250907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf952fc3ca7325cc27d15885d37117676d25bfda6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BCat",
+  "name": "BlastCat",
+  "address": "0x9bd75c164daf830733ac2ea71a0258f95aac7c57",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35594/thumb/200x200bcat-logo.png?1709241941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x9bd75c164daf830733ac2ea71a0258f95aac7c57"
+  }
+}

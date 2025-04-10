@@ -1,0 +1,16 @@
+{
+  "symbol": "IRIS",
+  "name": "Iris",
+  "address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18361/thumb/hermes.PNG?1631609306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+    "harmony-shard-0": "0x85fd5f8dbd0c9ef1806e6c7d4b787d438621c1dc"
+  }
+}

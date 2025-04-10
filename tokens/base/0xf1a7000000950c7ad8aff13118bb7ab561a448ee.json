@@ -1,0 +1,16 @@
+{
+  "symbol": "FLAY",
+  "name": "Flayer",
+  "address": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50377/thumb/flay.jpg?1727401416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+    "base": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee"
+  }
+}

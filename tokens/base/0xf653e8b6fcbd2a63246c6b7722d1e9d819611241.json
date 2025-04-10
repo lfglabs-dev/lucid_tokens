@@ -1,0 +1,15 @@
+{
+  "symbol": "uCRO",
+  "name": "Cronos (Universal)",
+  "address": "0xf653e8b6fcbd2a63246c6b7722d1e9d819611241",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54705/thumb/UA-CRO_%285%29.png?1741108092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf653e8b6fcbd2a63246c6b7722d1e9d819611241"
+  }
+}

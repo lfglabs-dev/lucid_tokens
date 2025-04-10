@@ -1,0 +1,15 @@
+{
+  "symbol": "JaiHo",
+  "name": "Jai Ho",
+  "address": "0x2fd2799e83a723b19026a979899dfb70bbf6bf6b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20311/thumb/jaiho.PNG?1636842000",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2fd2799e83a723b19026a979899dfb70bbf6bf6b"
+  }
+}

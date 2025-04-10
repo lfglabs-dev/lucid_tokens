@@ -1,0 +1,15 @@
+{
+  "symbol": "PMT",
+  "name": "Public Meme Token",
+  "address": "0x68ae2f202799be2008c89e2100257e66f77da1f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35059/thumb/PMT-200x200.png?1707237964",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x68ae2f202799be2008c89e2100257e66f77da1f3"
+  }
+}

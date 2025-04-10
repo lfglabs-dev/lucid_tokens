@@ -1,0 +1,15 @@
+{
+  "symbol": "FIST",
+  "name": "FistToken",
+  "address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25051/thumb/download.png?1649918598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a"
+  }
+}

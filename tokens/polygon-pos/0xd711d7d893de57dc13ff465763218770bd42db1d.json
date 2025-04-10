@@ -1,0 +1,17 @@
+{
+  "symbol": "eGBP",
+  "name": "ARYZE eGBP",
+  "address": "0xd711d7d893de57dc13ff465763218770bd42db1d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32989/thumb/ARYZE_eGBP.png?1700099647",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd711d7d893de57dc13ff465763218770bd42db1d",
+    "ethereum": "0xd711d7d893de57dc13ff465763218770bd42db1d",
+    "binance-smart-chain": "0xd711d7d893de57dc13ff465763218770bd42db1d"
+  }
+}

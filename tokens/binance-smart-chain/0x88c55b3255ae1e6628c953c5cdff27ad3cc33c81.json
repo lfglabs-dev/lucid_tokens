@@ -1,0 +1,15 @@
+{
+  "symbol": "DLegends",
+  "name": "My Defi Legends",
+  "address": "0x88c55b3255ae1e6628c953c5cdff27ad3cc33c81",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18006/thumb/my_defi_legends.png?1630157431",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x88c55b3255ae1e6628c953c5cdff27ad3cc33c81"
+  }
+}

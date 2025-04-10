@@ -1,0 +1,17 @@
+{
+  "symbol": "DNXC",
+  "name": "DinoX Coin",
+  "address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17321/thumb/asset_icon_dnxc_200.png?1627292452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+    "binance-smart-chain": "0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0",
+    "polygon-pos": "0xcaf5191fc480f43e4df80106c7695eca56e48b18"
+  }
+}

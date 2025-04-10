@@ -1,0 +1,15 @@
+{
+  "symbol": "KLINK",
+  "name": "Klink Finance",
+  "address": "0xdc5eb0fc6d3f64689290595ebe8943155ed4a73a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54192/thumb/CMC_Logo.png?1738722266",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdc5eb0fc6d3f64689290595ebe8943155ed4a73a"
+  }
+}

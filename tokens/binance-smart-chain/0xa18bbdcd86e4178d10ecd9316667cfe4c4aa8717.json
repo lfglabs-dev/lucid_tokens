@@ -1,0 +1,15 @@
+{
+  "symbol": "BNBXBT",
+  "name": "BNBXBT",
+  "address": "0xa18bbdcd86e4178d10ecd9316667cfe4c4aa8717",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54480/thumb/bnbxbt.jpg?1739960850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa18bbdcd86e4178d10ecd9316667cfe4c4aa8717"
+  }
+}

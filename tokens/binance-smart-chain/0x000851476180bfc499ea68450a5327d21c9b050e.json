@@ -1,0 +1,15 @@
+{
+  "symbol": "SLAM",
+  "name": "SLAM TOKEN",
+  "address": "0x000851476180bfc499ea68450a5327d21c9b050e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15023/thumb/_SLAM_275x275png-62.png?1625650130",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x000851476180bfc499ea68450a5327d21c9b050e"
+  }
+}

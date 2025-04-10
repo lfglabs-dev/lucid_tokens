@@ -1,0 +1,15 @@
+{
+  "symbol": "MIDLE",
+  "name": "MIDLE",
+  "address": "0x7e0d753d44d5a7492d31ffc020c9b0d07c6d05d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53824/thumb/M_200.png?1737535171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7e0d753d44d5a7492d31ffc020c9b0d07c6d05d7"
+  }
+}

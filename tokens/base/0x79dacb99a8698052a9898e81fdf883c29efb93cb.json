@@ -1,0 +1,15 @@
+{
+  "symbol": "ACOLYT",
+  "name": "Acolyte by Virtuals",
+  "address": "0x79dacb99a8698052a9898e81fdf883c29efb93cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52977/thumb/AcolytAI_Profile_Picture.jpg?1734895975",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x79dacb99a8698052a9898e81fdf883c29efb93cb"
+  }
+}

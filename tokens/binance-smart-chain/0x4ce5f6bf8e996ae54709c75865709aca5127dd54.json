@@ -1,0 +1,15 @@
+{
+  "symbol": "AMT",
+  "name": "AMT Token",
+  "address": "0x4ce5f6bf8e996ae54709c75865709aca5127dd54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21759/thumb/logo.png?1639988777",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4ce5f6bf8e996ae54709c75865709aca5127dd54"
+  }
+}

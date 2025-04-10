@@ -1,0 +1,15 @@
+{
+  "symbol": "COPX",
+  "name": "CopXToken",
+  "address": "0x0d4629ff6d6ca422178dc66a21eea0dfb182e72c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50407/thumb/COPX_logo_200.png?1727662662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0d4629ff6d6ca422178dc66a21eea0dfb182e72c"
+  }
+}

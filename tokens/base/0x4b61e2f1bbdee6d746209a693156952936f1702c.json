@@ -1,0 +1,15 @@
+{
+  "symbol": "LAMBOW",
+  "name": "Lambow",
+  "address": "0x4b61e2f1bbdee6d746209a693156952936f1702c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38690/thumb/lambow.png?1718345303",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4b61e2f1bbdee6d746209a693156952936f1702c"
+  }
+}

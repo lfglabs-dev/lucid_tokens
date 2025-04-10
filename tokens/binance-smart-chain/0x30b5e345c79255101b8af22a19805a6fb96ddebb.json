@@ -1,0 +1,15 @@
+{
+  "symbol": "REV3L",
+  "name": "REV3AL",
+  "address": "0x30b5e345c79255101b8af22a19805a6fb96ddebb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26121/thumb/REVEAL_WHITE_WATERMARK_BLACK.png?1655950824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x30b5e345c79255101b8af22a19805a6fb96ddebb"
+  }
+}

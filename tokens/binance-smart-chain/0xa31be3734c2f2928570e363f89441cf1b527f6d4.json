@@ -1,0 +1,15 @@
+{
+  "symbol": "PIE",
+  "name": "SportsPie",
+  "address": "0xa31be3734c2f2928570e363f89441cf1b527f6d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38781/thumb/_w1SbgRI_400x400.jpg?1718837645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa31be3734c2f2928570e363f89441cf1b527f6d4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RET",
+  "name": "Renewable Energy Token",
+  "address": "0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25457/thumb/LOGO.png?1651815990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965"
+  }
+}

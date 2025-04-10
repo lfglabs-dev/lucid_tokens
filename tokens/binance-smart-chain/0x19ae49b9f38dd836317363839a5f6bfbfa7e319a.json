@@ -1,0 +1,15 @@
+{
+  "symbol": "STC",
+  "name": "SaitaChain",
+  "address": "0x19ae49b9f38dd836317363839a5f6bfbfa7e319a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33665/thumb/STC.jpg?1702671117",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x19ae49b9f38dd836317363839a5f6bfbfa7e319a"
+  }
+}

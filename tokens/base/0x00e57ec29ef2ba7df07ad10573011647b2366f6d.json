@@ -1,0 +1,15 @@
+{
+  "symbol": "TOSHE",
+  "name": "TOSHE",
+  "address": "0x00e57ec29ef2ba7df07ad10573011647b2366f6d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23311/thumb/flov.png?1644053849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x00e57ec29ef2ba7df07ad10573011647b2366f6d"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "MONA",
+  "name": "Monavale",
+  "address": "0x6968105460f67c3bf751be7c15f92f5286fd0ce5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13298/thumb/monavale_logo.jpg?1607232721",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
+    "polygon-pos": "0x6968105460f67c3bf751be7c15f92f5286fd0ce5"
+  }
+}

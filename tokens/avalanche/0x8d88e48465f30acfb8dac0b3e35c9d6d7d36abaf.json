@@ -1,0 +1,15 @@
+{
+  "symbol": "CNR",
+  "name": "Canary",
+  "address": "0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16764/thumb/logo_-_2021-06-29T113338.436.png?1624937628",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf"
+  }
+}

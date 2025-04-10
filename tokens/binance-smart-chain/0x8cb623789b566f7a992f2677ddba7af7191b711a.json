@@ -1,0 +1,15 @@
+{
+  "symbol": "JUMP4EVER",
+  "name": "Jump forever",
+  "address": "0x8cb623789b566f7a992f2677ddba7af7191b711a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50839/thumb/jump4ever_200x200.png?1729294718",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8cb623789b566f7a992f2677ddba7af7191b711a"
+  }
+}

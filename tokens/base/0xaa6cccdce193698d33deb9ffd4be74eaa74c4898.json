@@ -1,0 +1,15 @@
+{
+  "symbol": "ElonRWA",
+  "name": "ElonRWA",
+  "address": "0xaa6cccdce193698d33deb9ffd4be74eaa74c4898",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36970/thumb/elonrwa.png?1712910039",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xaa6cccdce193698d33deb9ffd4be74eaa74c4898"
+  }
+}

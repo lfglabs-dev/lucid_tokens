@@ -1,0 +1,15 @@
+{
+  "symbol": "PION",
+  "name": "PION Network",
+  "address": "0xb8067235c9b71feec069af151fdf0975dfbdfba5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32441/thumb/PION.jpg?1698237608",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb8067235c9b71feec069af151fdf0975dfbdfba5"
+  }
+}

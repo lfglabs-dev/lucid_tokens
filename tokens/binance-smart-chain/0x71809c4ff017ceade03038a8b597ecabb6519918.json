@@ -1,0 +1,15 @@
+{
+  "symbol": "CPOO",
+  "name": "Cockapoo",
+  "address": "0x71809c4ff017ceade03038a8b597ecabb6519918",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16852/thumb/cpoo.png?1644648415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x71809c4ff017ceade03038a8b597ecabb6519918"
+  }
+}

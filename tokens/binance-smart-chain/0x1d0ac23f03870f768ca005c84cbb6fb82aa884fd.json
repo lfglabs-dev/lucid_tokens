@@ -1,0 +1,15 @@
+{
+  "symbol": "GALEON",
+  "name": "Galeon",
+  "address": "0x1d0ac23f03870f768ca005c84cbb6fb82aa884fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24261/thumb/Logo-Galeon-Coinmarketcap.png?1647171045",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1d0ac23f03870f768ca005c84cbb6fb82aa884fd"
+  }
+}

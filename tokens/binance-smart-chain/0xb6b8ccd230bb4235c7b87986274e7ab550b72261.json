@@ -1,0 +1,15 @@
+{
+  "symbol": "HALO",
+  "name": "HALO Token",
+  "address": "0xb6b8ccd230bb4235c7b87986274e7ab550b72261",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29325/thumb/halo.png?1678155531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb6b8ccd230bb4235c7b87986274e7ab550b72261"
+  }
+}

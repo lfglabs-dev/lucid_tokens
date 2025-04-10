@@ -1,0 +1,15 @@
+{
+  "symbol": "SNK",
+  "name": "Snook",
+  "address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18197/thumb/snk.png?1630979321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309"
+  }
+}

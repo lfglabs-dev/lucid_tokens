@@ -1,0 +1,15 @@
+{
+  "symbol": "GRASS",
+  "name": "GRASS",
+  "address": "0xfcb49c1545d1d13272467f0d94e57a9aca39725c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52557/thumb/GRASS_Logo_%281%29.png?1733663439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfcb49c1545d1d13272467f0d94e57a9aca39725c"
+  }
+}

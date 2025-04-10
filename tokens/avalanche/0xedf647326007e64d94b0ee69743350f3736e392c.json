@@ -1,0 +1,15 @@
+{
+  "symbol": "TICO",
+  "name": "Tico",
+  "address": "0xedf647326007e64d94b0ee69743350f3736e392c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36946/thumb/tico.png?1712893728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xedf647326007e64d94b0ee69743350f3736e392c"
+  }
+}

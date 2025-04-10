@@ -1,0 +1,15 @@
+{
+  "symbol": "vXRP",
+  "name": "Venus XRP",
+  "address": "0xb248a295732e0225acd3337607cc01068e3b9c10",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13921/thumb/vxrp.png?1612845452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb248a295732e0225acd3337607cc01068e3b9c10"
+  }
+}

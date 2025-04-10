@@ -1,0 +1,15 @@
+{
+  "symbol": "AMI",
+  "name": "AMMYI COIN",
+  "address": "0x1ef72a1df5e4d165f84fc43b20d56caa7dad46e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14469/thumb/AMMYI.png?1630917084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ef72a1df5e4d165f84fc43b20d56caa7dad46e1"
+  }
+}

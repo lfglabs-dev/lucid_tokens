@@ -1,0 +1,15 @@
+{
+  "symbol": "$GIGA",
+  "name": "GigaChadGPT",
+  "address": "0x682f8fddfec6ebdf6c7bf1c0eec276b37a647d59",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x682f8fddfec6ebdf6c7bf1c0eec276b37a647d59"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PESA",
+  "name": "Pesabase",
+  "address": "0x4adc604a0261e3d340745533964fff6bb130f3c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25437/thumb/Pesabase-logo-200x200.png?1651741561",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4adc604a0261e3d340745533964fff6bb130f3c3"
+  }
+}

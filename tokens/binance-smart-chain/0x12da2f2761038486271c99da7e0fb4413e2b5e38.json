@@ -1,0 +1,15 @@
+{
+  "symbol": "NBM",
+  "name": "NFTBlackMarket",
+  "address": "0x12da2f2761038486271c99da7e0fb4413e2b5e38",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17606/thumb/200_%289%29.png?1628647597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x12da2f2761038486271c99da7e0fb4413e2b5e38"
+  }
+}

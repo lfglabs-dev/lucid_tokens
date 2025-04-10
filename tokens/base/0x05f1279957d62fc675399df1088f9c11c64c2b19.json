@@ -1,0 +1,15 @@
+{
+  "symbol": "RIDDLE",
+  "name": "Riddle by Virtuals",
+  "address": "0x05f1279957d62fc675399df1088f9c11c64c2b19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54699/thumb/riddle_logo_inverted.png?1741097399",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x05f1279957d62fc675399df1088f9c11c64c2b19"
+  }
+}

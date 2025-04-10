@@ -1,0 +1,15 @@
+{
+  "symbol": "p-GYD",
+  "name": "Proto Gyro Dollar",
+  "address": "0x37b8e1152fb90a867f3dcca6e8d537681b04705e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29416/thumb/gyd.png?1678616698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x37b8e1152fb90a867f3dcca6e8d537681b04705e"
+  }
+}

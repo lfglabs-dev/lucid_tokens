@@ -1,0 +1,15 @@
+{
+  "symbol": "FLNCHY",
+  "name": "Flaunchy",
+  "address": "0x1c93d155bd388241f9ab5df500d69eb529ce9583",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54175/thumb/flaunchy.jpeg?1738580008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1c93d155bd388241f9ab5df500d69eb529ce9583"
+  }
+}

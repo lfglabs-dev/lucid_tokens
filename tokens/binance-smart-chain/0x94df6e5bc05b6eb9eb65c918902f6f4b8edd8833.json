@@ -1,0 +1,15 @@
+{
+  "symbol": "DC",
+  "name": "Davidcoin",
+  "address": "0x94df6e5bc05b6eb9eb65c918902f6f4b8edd8833",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24964/thumb/dc.png?1649583985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x94df6e5bc05b6eb9eb65c918902f6f4b8edd8833"
+  }
+}

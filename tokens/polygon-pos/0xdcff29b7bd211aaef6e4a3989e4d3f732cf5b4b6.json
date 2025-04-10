@@ -1,0 +1,15 @@
+{
+  "symbol": "MART",
+  "name": "ArtMeta",
+  "address": "0xdcff29b7bd211aaef6e4a3989e4d3f732cf5b4b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24458/thumb/tt3WA_Ni_400x400.jpg?1647679513",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xdcff29b7bd211aaef6e4a3989e4d3f732cf5b4b6"
+  }
+}

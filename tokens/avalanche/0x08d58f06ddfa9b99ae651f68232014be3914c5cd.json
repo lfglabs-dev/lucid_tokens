@@ -1,0 +1,23 @@
+{
+  "symbol": "ERN",
+  "name": "Ethos Reserve Note",
+  "address": "0x08d58f06ddfa9b99ae651f68232014be3914c5cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29744/thumb/ERN200x200.png?1681106290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xc5b001dc33727f8f26880b184090d3e252470d45",
+    "linea": "0xa334884bf6b0a066d553d19e507315e839409e62",
+    "ethereum": "0x91a69021b0baef3445e51726458a0ce601471846",
+    "binance-smart-chain": "0xce1e3cc1950d2aaeb47de04de2dec2dc86380e0a",
+    "fantom": "0xce1e3cc1950d2aaeb47de04de2dec2dc86380e0a",
+    "avalanche": "0x08d58f06ddfa9b99ae651f68232014be3914c5cd",
+    "arbitrum-one": "0xa334884bf6b0a066d553d19e507315e839409e62",
+    "polygon-pos": "0xc3a9a54c043f348027fffaac0f2f996123a19bf4",
+    "base": "0xa334884bf6b0a066d553d19e507315e839409e62"
+  }
+}

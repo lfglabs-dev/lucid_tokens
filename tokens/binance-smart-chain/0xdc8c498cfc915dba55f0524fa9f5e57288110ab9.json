@@ -1,0 +1,15 @@
+{
+  "symbol": "THING",
+  "name": "Thing",
+  "address": "0xdc8c498cfc915dba55f0524fa9f5e57288110ab9",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31410/thumb/84df82ca-6235-4b5b-8dc9-966ea6649be1.jpg.0a0f00ac7b9be9f7e502b8d96e9e7c8b.jpg?1692844591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdc8c498cfc915dba55f0524fa9f5e57288110ab9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AIE",
+  "name": "A.I.Earn",
+  "address": "0x1e30bbee322b3b11c60cb434a47f1605c2a99483",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31985/thumb/AIE.jpg?1695876367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1e30bbee322b3b11c60cb434a47f1605c2a99483"
+  }
+}

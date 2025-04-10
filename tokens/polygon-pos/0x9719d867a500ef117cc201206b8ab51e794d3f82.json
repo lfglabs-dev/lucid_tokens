@@ -1,0 +1,15 @@
+{
+  "symbol": "maUSDC",
+  "name": "Matic Aave interest bearing USDC",
+  "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14074/thumb/maUSDC.png?1614156225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x9719d867a500ef117cc201206b8ab51e794d3f82"
+  }
+}

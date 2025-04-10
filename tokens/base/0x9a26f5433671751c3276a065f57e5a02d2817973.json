@@ -1,0 +1,15 @@
+{
+  "symbol": "KEYCAT",
+  "name": "Keyboard Cat",
+  "address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36608/thumb/keyboard_cat.jpeg?1711965348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9a26f5433671751c3276a065f57e5a02d2817973"
+  }
+}

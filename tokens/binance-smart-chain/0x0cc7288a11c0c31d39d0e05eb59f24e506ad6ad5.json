@@ -1,0 +1,16 @@
+{
+  "symbol": "Bridged EGP",
+  "name": "Bridged EGP",
+  "address": "0x0cc7288a11c0c31d39d0e05eb59f24e506ad6ad5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37810/thumb/eigenpie.jpeg?1715597613",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7e7a7c916c19a45769f6bdaf91087f93c6c12f78",
+    "binance-smart-chain": "0x0cc7288a11c0c31d39d0e05eb59f24e506ad6ad5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "NEXG",
+  "name": "NexGami",
+  "address": "0xaf0dc42725db75ae54f5e8945e71017bc7acd27d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38387/thumb/Round_Logo_200x200.png?1717414956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xaf0dc42725db75ae54f5e8945e71017bc7acd27d"
+  }
+}

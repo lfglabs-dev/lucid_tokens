@@ -1,0 +1,15 @@
+{
+  "symbol": "FATCAT",
+  "name": "FAT CAT",
+  "address": "0x55493e35e33fcf811571707ac5bf1dbcb658bafc",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x55493e35e33fcf811571707ac5bf1dbcb658bafc"
+  }
+}

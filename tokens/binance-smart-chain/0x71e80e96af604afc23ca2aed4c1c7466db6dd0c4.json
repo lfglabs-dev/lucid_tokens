@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyFloki",
+  "name": "Baby Floki",
+  "address": "0x71e80e96af604afc23ca2aed4c1c7466db6dd0c4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18436/thumb/9FkEA4bN.png?1631959196",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x71e80e96af604afc23ca2aed4c1c7466db6dd0c4"
+  }
+}

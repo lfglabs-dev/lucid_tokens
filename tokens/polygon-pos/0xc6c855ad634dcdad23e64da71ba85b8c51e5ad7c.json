@@ -1,0 +1,15 @@
+{
+  "symbol": "ICE",
+  "name": "Decentral Games ICE",
+  "address": "0xc6c855ad634dcdad23e64da71ba85b8c51e5ad7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18110/thumb/ice-poker.png?1630500966",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc6c855ad634dcdad23e64da71ba85b8c51e5ad7c"
+  }
+}

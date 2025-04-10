@@ -1,0 +1,18 @@
+{
+  "symbol": "STAR",
+  "name": "STAR",
+  "address": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31277/thumb/STAR.png?1692152883",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+    "blast": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+    "polygon-pos": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+    "base": "0xc19669a405067927865b40ea045a2baabbbe57f5"
+  }
+}

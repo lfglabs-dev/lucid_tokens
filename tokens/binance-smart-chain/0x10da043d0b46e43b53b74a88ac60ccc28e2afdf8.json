@@ -1,0 +1,16 @@
+{
+  "symbol": "BAI",
+  "name": "BAI",
+  "address": "0x10da043d0b46e43b53b74a88ac60ccc28e2afdf8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39638/thumb/logo-200x200-transparent-bg.png?1723278224",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x10da043d0b46e43b53b74a88ac60ccc28e2afdf8",
+    "base": "0x6a27cd26a373530835b9fe7ac472b3e080070f64"
+  }
+}

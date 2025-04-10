@@ -1,0 +1,15 @@
+{
+  "symbol": "hsUSDC",
+  "name": "hsUSDC",
+  "address": "0xaf08a9d918f16332f22cf8dc9abe9d9e14ddcbc2",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32646/thumb/hsUSDC.png?1698893340",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xaf08a9d918f16332f22cf8dc9abe9d9e14ddcbc2"
+  }
+}

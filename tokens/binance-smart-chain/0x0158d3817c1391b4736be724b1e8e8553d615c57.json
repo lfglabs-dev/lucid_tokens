@@ -1,0 +1,15 @@
+{
+  "symbol": "GAYPEPE",
+  "name": "Gay Pepe",
+  "address": "0x0158d3817c1391b4736be724b1e8e8553d615c57",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31965/thumb/gaypepe.jpeg?1695737769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0158d3817c1391b4736be724b1e8e8553d615c57"
+  }
+}

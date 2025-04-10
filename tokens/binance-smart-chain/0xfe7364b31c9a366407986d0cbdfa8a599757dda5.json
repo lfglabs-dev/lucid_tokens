@@ -1,0 +1,15 @@
+{
+  "symbol": "NIMO",
+  "name": "NimoAI",
+  "address": "0xfe7364b31c9a366407986d0cbdfa8a599757dda5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54847/thumb/NimoAI.png?1742020509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfe7364b31c9a366407986d0cbdfa8a599757dda5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "NFI",
+  "name": "NetherFi",
+  "address": "0x60359a0dd148b18d5cf1ddf8aa1916221ed0cbcd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31557/thumb/Logo_2.png?1693800830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x60359a0dd148b18d5cf1ddf8aa1916221ed0cbcd"
+  }
+}

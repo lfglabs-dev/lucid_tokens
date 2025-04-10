@@ -1,0 +1,15 @@
+{
+  "symbol": "uBONK",
+  "name": "Bonk (Universal)",
+  "address": "0xf56ce53561a9cc084e094952232bbfe1e5fb599e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54715/thumb/UA-BONK.png?1741185707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf56ce53561a9cc084e094952232bbfe1e5fb599e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LONGFU",
+  "name": "LONGFU",
+  "address": "0x39926824c06491284d13f7babaf06c8fed3add6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35075/thumb/logo.png?1707295903",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x39926824c06491284d13f7babaf06c8fed3add6c"
+  }
+}

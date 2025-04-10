@@ -1,0 +1,15 @@
+{
+  "symbol": "HESTIA",
+  "name": "Hestia",
+  "address": "0xbc7755a153e852cf76cccddb4c2e7c368f6259d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54202/thumb/logo.png?1738750723",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbc7755a153e852cf76cccddb4c2e7c368f6259d8"
+  }
+}

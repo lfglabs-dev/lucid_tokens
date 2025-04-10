@@ -1,0 +1,15 @@
+{
+  "symbol": "PEN",
+  "name": "Penjamin Blinkerton",
+  "address": "0xd7d919ea0c33a97ad6e7bd4f510498e2ec98cb78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37269/thumb/PEN_COIN_LOGO.png?1713887481",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd7d919ea0c33a97ad6e7bd4f510498e2ec98cb78"
+  }
+}

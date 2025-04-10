@@ -1,0 +1,15 @@
+{
+  "symbol": "GULL",
+  "name": "PolyGod",
+  "address": "0xca830317146bfdde71e7c0b880e2ec1f66e273ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20590/thumb/polygod.PNG?1637275789",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xca830317146bfdde71e7c0b880e2ec1f66e273ee"
+  }
+}

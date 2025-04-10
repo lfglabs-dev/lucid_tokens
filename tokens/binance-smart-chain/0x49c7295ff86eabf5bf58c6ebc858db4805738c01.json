@@ -1,0 +1,15 @@
+{
+  "symbol": "HERA",
+  "name": "HERA TOKEN",
+  "address": "0x49c7295ff86eabf5bf58c6ebc858db4805738c01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19160/thumb/hera.png?1634549874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x49c7295ff86eabf5bf58c6ebc858db4805738c01"
+  }
+}

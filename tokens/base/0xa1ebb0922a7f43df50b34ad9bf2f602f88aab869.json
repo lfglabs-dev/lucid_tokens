@@ -1,0 +1,15 @@
+{
+  "symbol": "TICKLE",
+  "name": "TICKLE",
+  "address": "0xa1ebb0922a7f43df50b34ad9bf2f602f88aab869",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37871/thumb/Tickle-logo-blue-happy-small.jpg?1715828846",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa1ebb0922a7f43df50b34ad9bf2f602f88aab869"
+  }
+}

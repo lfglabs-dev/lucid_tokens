@@ -1,0 +1,15 @@
+{
+  "symbol": "GENS",
+  "name": "Genshiro Token",
+  "address": "0x2cd14cba3f26254beed1d78158cd2b6f91809600",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16444/thumb/genshiro.PNG?1624234640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2cd14cba3f26254beed1d78158cd2b6f91809600"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CIRCLE",
+  "name": "Circle",
+  "address": "0x5babfc2f240bc5de90eb7e19d789412db1dec402",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35274/thumb/circle.png?1708048159",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5babfc2f240bc5de90eb7e19d789412db1dec402"
+  }
+}

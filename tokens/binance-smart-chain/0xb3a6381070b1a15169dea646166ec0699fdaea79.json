@@ -1,0 +1,15 @@
+{
+  "symbol": "Gold",
+  "name": "CyberDragon Gold",
+  "address": "0xb3a6381070b1a15169dea646166ec0699fdaea79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18010/thumb/htvlAXaQ3yqLeOn.png?1642395633",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb3a6381070b1a15169dea646166ec0699fdaea79"
+  }
+}

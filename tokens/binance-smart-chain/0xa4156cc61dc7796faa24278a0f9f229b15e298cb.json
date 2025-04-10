@@ -1,0 +1,16 @@
+{
+  "symbol": "BTC.z",
+  "name": "Bitcoin Bridged ZED20",
+  "address": "0xa4156cc61dc7796faa24278a0f9f229b15e298cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38101/thumb/btc-z.png?1716527089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zedxion": "0x240962a6ddd67dd382db4d417cbdf0d8822aca2f",
+    "binance-smart-chain": "0xa4156cc61dc7796faa24278a0f9f229b15e298cb"
+  }
+}

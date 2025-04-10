@@ -1,0 +1,16 @@
+{
+  "symbol": "FMT",
+  "name": "Finminity",
+  "address": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14696/thumb/finminity.png?1617834914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c",
+    "binance-smart-chain": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c"
+  }
+}

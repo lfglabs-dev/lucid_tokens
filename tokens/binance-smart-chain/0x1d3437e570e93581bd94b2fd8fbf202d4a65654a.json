@@ -1,0 +1,16 @@
+{
+  "symbol": "NBT",
+  "name": "NanoByte Token",
+  "address": "0x1d3437e570e93581bd94b2fd8fbf202d4a65654a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23698/thumb/WpcmdLW.png?1645080885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1d3437e570e93581bd94b2fd8fbf202d4a65654a",
+    "ethereum": "0x446f2a8a39cc730ef378be759a3c57f1a3fe824c"
+  }
+}

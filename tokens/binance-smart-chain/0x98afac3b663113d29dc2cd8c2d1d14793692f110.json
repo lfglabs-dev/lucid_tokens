@@ -1,0 +1,15 @@
+{
+  "symbol": "MVS",
+  "name": "Multiverse",
+  "address": "0x98afac3b663113d29dc2cd8c2d1d14793692f110",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22135/thumb/logo-200-white.png?1640913611",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x98afac3b663113d29dc2cd8c2d1d14793692f110"
+  }
+}

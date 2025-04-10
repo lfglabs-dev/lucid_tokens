@@ -1,0 +1,16 @@
+{
+  "symbol": "PRE",
+  "name": "Presearch",
+  "address": "0x3816dd4bd44c8830c2fa020a5605bac72fa3de7a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1299/thumb/presearch.png?1548331942",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
+    "base": "0x3816dd4bd44c8830c2fa020a5605bac72fa3de7a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "MIRA",
+  "name": "MIRA",
+  "address": "0x7ce4bfc3a66d0fcf5d91dd846911c15c3ff82ecc",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29094/thumb/Mira-Token-v2-500px.png?1676531172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf5207ac91c9e7ec7ebb03e93cbcbcad10878ac79",
+    "binance-smart-chain": "0x7ce4bfc3a66d0fcf5d91dd846911c15c3ff82ecc"
+  }
+}

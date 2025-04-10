@@ -1,0 +1,15 @@
+{
+  "symbol": "uATOM",
+  "name": "Cosmos (Universal)",
+  "address": "0x6e934283dae5d5d1831cbe8d557c44c9b83f30ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54702/thumb/UA-ATOM.png?1741107902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6e934283dae5d5d1831cbe8d557c44c9b83f30ee"
+  }
+}

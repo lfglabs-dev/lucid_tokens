@@ -1,0 +1,15 @@
+{
+  "symbol": "Duke",
+  "name": "Duke inu Token",
+  "address": "0xaee234825dc4687fae606485c1ebd06336052bcc",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16121/thumb/3axfBIw.jpeg?1623036247",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaee234825dc4687fae606485c1ebd06336052bcc"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "JEWEL",
+  "name": "JEWEL",
+  "address": "0x997ddaa07d716995de90577c123db411584e5e46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18570/thumb/fAisLIV.png?1632449282",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x997ddaa07d716995de90577c123db411584e5e46",
+    "metis-andromeda": "0x17c09cfc96c865cf546d73365cedb6dc66986963",
+    "harmony-shard-0": "0x72cb10c6bfa5624dd07ef608027e366bd690048f"
+  }
+}

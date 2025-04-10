@@ -1,0 +1,15 @@
+{
+  "symbol": "ZMN",
+  "name": "ZMINE Token",
+  "address": "0xfcb8a4b1a0b645e08064e05b98e9cc6f48d2aa57",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2103/thumb/zmn.png?1547036420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfcb8a4b1a0b645e08064e05b98e9cc6f48d2aa57"
+  }
+}

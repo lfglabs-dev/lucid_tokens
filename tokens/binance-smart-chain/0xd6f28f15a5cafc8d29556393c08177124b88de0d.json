@@ -1,0 +1,16 @@
+{
+  "symbol": "SPELLFIRE",
+  "name": "SPELLFIRE Token [via ChainPort.io]",
+  "address": "0xd6f28f15a5cafc8d29556393c08177124b88de0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23107/thumb/17316.png?1643261163",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3a0b022f32b3191d44e5847da12dc0b63fb07c91",
+    "binance-smart-chain": "0xd6f28f15a5cafc8d29556393c08177124b88de0d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BAKENEKO",
+  "name": "BAKENEKO",
+  "address": "0x0abeaf56546a563824c96bb93d1c46f1d4cd11eb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53225/thumb/BAKENEKO.png?1735755329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0abeaf56546a563824c96bb93d1c46f1d4cd11eb"
+  }
+}

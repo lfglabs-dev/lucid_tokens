@@ -1,0 +1,18 @@
+{
+  "symbol": "TALK",
+  "name": "Talken",
+  "address": "0x7d61d3752f759c71f5291358408947aff7b0ff2c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18146/thumb/4NNLx3BF_400x400.jpg?1630675291",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7",
+    "klay-token": "0x55863cb9a7f92c134e9f8edb6c655b92d60493b5",
+    "binance-smart-chain": "0x7d61d3752f759c71f5291358408947aff7b0ff2c",
+    "polygon-pos": "0xe7e72be51c3b4e1f3ceb34e177e1ba1c1744fd7d"
+  }
+}

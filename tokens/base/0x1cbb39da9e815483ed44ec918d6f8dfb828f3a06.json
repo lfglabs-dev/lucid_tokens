@@ -1,0 +1,15 @@
+{
+  "symbol": "TINYP",
+  "name": "TinyPanda",
+  "address": "0x1cbb39da9e815483ed44ec918d6f8dfb828f3a06",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53335/thumb/Tinyp_X_PFP_000000.jpeg?1736153409",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1cbb39da9e815483ed44ec918d6f8dfb828f3a06"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "PKN",
+  "name": "Poken",
+  "address": "0x4b5decb9327b4d511a58137a1ade61434aacdd43",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21574/thumb/G10VNBAR_400x400.jpg?1639490463",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4b5decb9327b4d511a58137a1ade61434aacdd43",
+    "ethereum": "0xdf09a216fac5adc3e640db418c0b956076509503"
+  }
+}

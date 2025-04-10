@@ -1,0 +1,15 @@
+{
+  "symbol": "BPS",
+  "name": "Base Pro Shops",
+  "address": "0xda761a290e01c69325d12d82ac402e5a73d62e81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36855/thumb/BPS_2.png?1712634757",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xda761a290e01c69325d12d82ac402e5a73d62e81"
+  }
+}

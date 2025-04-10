@@ -1,0 +1,15 @@
+{
+  "symbol": "PUMP",
+  "name": "Pump",
+  "address": "0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35676/thumb/pump_%281%29.jpg?1709520871",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a"
+  }
+}

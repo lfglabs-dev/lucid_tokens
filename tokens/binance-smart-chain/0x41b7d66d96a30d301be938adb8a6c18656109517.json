@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOST",
+  "name": "BitBoost",
+  "address": "0x41b7d66d96a30d301be938adb8a6c18656109517",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29408/thumb/podfast_copy.png?1678517377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x41b7d66d96a30d301be938adb8a6c18656109517"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AIP",
+  "name": "Pett AI",
+  "address": "0x02d4f76656c2b4f58430e91f8ac74896c9281cb9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53790/thumb/Token_AIP-01.png?1737382415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x02d4f76656c2b4f58430e91f8ac74896c9281cb9"
+  }
+}

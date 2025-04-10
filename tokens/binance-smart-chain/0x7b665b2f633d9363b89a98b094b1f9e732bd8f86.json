@@ -1,0 +1,15 @@
+{
+  "symbol": "AZY",
+  "name": "Amazy Token",
+  "address": "0x7b665b2f633d9363b89a98b094b1f9e732bd8f86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26315/thumb/photo_2022-07-07_12-38-02.jpg?1657240464",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7b665b2f633d9363b89a98b094b1f9e732bd8f86"
+  }
+}

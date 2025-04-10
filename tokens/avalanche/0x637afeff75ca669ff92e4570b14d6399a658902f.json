@@ -1,0 +1,18 @@
+{
+  "symbol": "COOK",
+  "name": "Poly-Peg COOK",
+  "address": "0x637afeff75ca669ff92e4570b14d6399a658902f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14603/thumb/logo-200x200.jpg?1622448330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xff75ced57419bcaebe5f05254983b013b0646ef5",
+    "huobi-token": "0x74189862b069e2be5f7c8e6ff08ea8e1b1948519",
+    "binance-smart-chain": "0x965b0df5bda0e7a0649324d78f03d5f7f2de086a",
+    "avalanche": "0x637afeff75ca669ff92e4570b14d6399a658902f"
+  }
+}

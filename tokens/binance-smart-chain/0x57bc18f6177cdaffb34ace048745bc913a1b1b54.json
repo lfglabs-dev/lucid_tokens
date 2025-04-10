@@ -1,0 +1,15 @@
+{
+  "symbol": "BTH",
+  "name": "Bit Hotel Token",
+  "address": "0x57bc18f6177cdaffb34ace048745bc913a1b1b54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20363/thumb/BIT_HOTEL_LOGO.png?1636946715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57bc18f6177cdaffb34ace048745bc913a1b1b54"
+  }
+}

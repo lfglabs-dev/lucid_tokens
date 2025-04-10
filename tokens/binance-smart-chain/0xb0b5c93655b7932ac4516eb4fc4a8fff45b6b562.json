@@ -1,0 +1,15 @@
+{
+  "symbol": "GG",
+  "name": "Good Game",
+  "address": "0xb0b5c93655b7932ac4516eb4fc4a8fff45b6b562",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38858/thumb/GG_icon.png?1719214145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb0b5c93655b7932ac4516eb4fc4a8fff45b6b562"
+  }
+}

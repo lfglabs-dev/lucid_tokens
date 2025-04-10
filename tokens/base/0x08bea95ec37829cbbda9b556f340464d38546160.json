@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYDEGEN",
+  "name": "BABY DEGEN",
+  "address": "0x08bea95ec37829cbbda9b556f340464d38546160",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52682/thumb/462574720_1957025031375537_1819902199019866760_n.png?1734027625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x08bea95ec37829cbbda9b556f340464d38546160"
+  }
+}

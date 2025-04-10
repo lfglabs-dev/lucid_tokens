@@ -1,0 +1,15 @@
+{
+  "symbol": "TRESR",
+  "name": "TRESR",
+  "address": "0x9913ba363073ca3e9ea0cd296e36b75af9e40bef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35922/thumb/nftreasure_logo_2.png?1710221335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x9913ba363073ca3e9ea0cd296e36b75af9e40bef"
+  }
+}

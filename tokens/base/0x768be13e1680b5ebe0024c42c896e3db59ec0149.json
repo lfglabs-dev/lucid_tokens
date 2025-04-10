@@ -1,0 +1,15 @@
+{
+  "symbol": "SKI",
+  "name": "SKI MASK DOG",
+  "address": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37195/thumb/32992128-F52F-4346-84CA-8E0C48F43606.jpeg?1713676521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x768be13e1680b5ebe0024c42c896e3db59ec0149"
+  }
+}

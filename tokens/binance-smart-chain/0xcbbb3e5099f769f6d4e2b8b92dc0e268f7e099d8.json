@@ -1,0 +1,15 @@
+{
+  "symbol": "wBTCZ",
+  "name": "Wrapped BitcoinZ",
+  "address": "0xcbbb3e5099f769f6d4e2b8b92dc0e268f7e099d8",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1004/thumb/BTCZ_LOGO-1.png?1601429570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcbbb3e5099f769f6d4e2b8b92dc0e268f7e099d8"
+  }
+}

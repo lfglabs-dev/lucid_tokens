@@ -1,0 +1,15 @@
+{
+  "symbol": "BIN",
+  "name": "Binemon",
+  "address": "0xe56842ed550ff2794f010738554db45e60730371",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17932/thumb/logo-v3.png?1629858800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe56842ed550ff2794f010738554db45e60730371"
+  }
+}

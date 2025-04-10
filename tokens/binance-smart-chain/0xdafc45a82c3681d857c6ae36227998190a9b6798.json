@@ -1,0 +1,15 @@
+{
+  "symbol": "SOUL ",
+  "name": "KINDNESS FOR THE SOUL ",
+  "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33630/thumb/Safeimagekit-resized-img_%285%29.png?1702534287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdafc45a82c3681d857c6ae36227998190a9b6798"
+  }
+}

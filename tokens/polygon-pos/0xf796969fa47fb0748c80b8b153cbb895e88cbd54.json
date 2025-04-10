@@ -1,0 +1,15 @@
+{
+  "symbol": "OCAVU",
+  "name": "Ocavu Network Token",
+  "address": "0xf796969fa47fb0748c80b8b153cbb895e88cbd54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25781/thumb/ocavu.png?1653736917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf796969fa47fb0748c80b8b153cbb895e88cbd54"
+  }
+}

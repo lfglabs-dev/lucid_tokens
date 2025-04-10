@@ -1,0 +1,15 @@
+{
+  "symbol": "Troll",
+  "name": "Troll Face",
+  "address": "0x52721d159cd90dd76014f73c1440e4ff983420ac",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30246/thumb/photo_2023-05-04_16-06-17.jpg?1683694224",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x52721d159cd90dd76014f73c1440e4ff983420ac"
+  }
+}

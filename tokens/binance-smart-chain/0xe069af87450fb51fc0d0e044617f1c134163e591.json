@@ -1,0 +1,17 @@
+{
+  "symbol": "VPP",
+  "name": "Virtue Player Points",
+  "address": "0xe069af87450fb51fc0d0e044617f1c134163e591",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3386/thumb/vp-logo-200x200.png?1622068750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+    "binance-smart-chain": "0xe069af87450fb51fc0d0e044617f1c134163e591",
+    "base": "0xf578ad8809f13dabf921bdd3fcfbe194d0ab5628"
+  }
+}

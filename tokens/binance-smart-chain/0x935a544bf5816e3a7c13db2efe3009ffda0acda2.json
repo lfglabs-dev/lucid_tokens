@@ -1,0 +1,17 @@
+{
+  "symbol": "BLZ",
+  "name": "Bluzelle Token ",
+  "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2848/thumb/ColorIcon_3x.png?1622516510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5732046a883704404f284ce41ffadd5b007fd668",
+    "energi": "0x3fa2c976654a6ba6dcb1e532a4b1e31fd4dcd3b9",
+    "binance-smart-chain": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2"
+  }
+}

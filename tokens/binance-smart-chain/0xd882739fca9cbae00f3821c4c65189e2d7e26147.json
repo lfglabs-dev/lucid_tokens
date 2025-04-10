@@ -1,0 +1,17 @@
+{
+  "symbol": "FOUR",
+  "name": "The 4th Pillar Token on xDai from xDai",
+  "address": "0xd882739fca9cbae00f3821c4c65189e2d7e26147",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3434/thumb/four-ticker-2021-256x256.png?1617702287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+    "binance-smart-chain": "0xd882739fca9cbae00f3821c4c65189e2d7e26147",
+    "polygon-pos": "0x48cbc913de09317df2365e6827df50da083701d5"
+  }
+}

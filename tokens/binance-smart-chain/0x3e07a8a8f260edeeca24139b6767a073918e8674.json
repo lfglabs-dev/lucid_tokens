@@ -1,0 +1,15 @@
+{
+  "symbol": "CATGE",
+  "name": "Catge v2",
+  "address": "0x3e07a8a8f260edeeca24139b6767a073918e8674",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16045/thumb/Pics-Art-05-16-06-08-53.png?1622687404",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3e07a8a8f260edeeca24139b6767a073918e8674"
+  }
+}

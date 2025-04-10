@@ -1,0 +1,15 @@
+{
+  "symbol": "AI",
+  "name": "Sleepless AI Token",
+  "address": "0xbda011d7f8ec00f66c1923b049b94c67d148d8b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbda011d7f8ec00f66c1923b049b94c67d148d8b2"
+  }
+}

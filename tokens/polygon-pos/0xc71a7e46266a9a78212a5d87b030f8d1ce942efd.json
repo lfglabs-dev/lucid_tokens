@@ -1,0 +1,15 @@
+{
+  "symbol": "CFI",
+  "name": "Coinbet Finance",
+  "address": "0xc71a7e46266a9a78212a5d87b030f8d1ce942efd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28809/thumb/coinbet-transparent.png?1674304459",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc71a7e46266a9a78212a5d87b030f8d1ce942efd"
+  }
+}

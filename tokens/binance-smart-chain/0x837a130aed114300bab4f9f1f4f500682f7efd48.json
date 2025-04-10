@@ -1,0 +1,15 @@
+{
+  "symbol": "WSI",
+  "name": "WeSendit",
+  "address": "0x837a130aed114300bab4f9f1f4f500682f7efd48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28386/thumb/wesendit_token_logo_%281%29.png?1670061013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x837a130aed114300bab4f9f1f4f500682f7efd48"
+  }
+}

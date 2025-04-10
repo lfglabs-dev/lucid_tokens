@@ -1,0 +1,15 @@
+{
+  "symbol": "scrvUSD",
+  "name": "Savings crvUSD",
+  "address": "0x646a737b9b6024e49f5908762b3ff73e65b5160c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53088/thumb/scrvUSD200x200.webp?1735205920",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x646a737b9b6024e49f5908762b3ff73e65b5160c"
+  }
+}

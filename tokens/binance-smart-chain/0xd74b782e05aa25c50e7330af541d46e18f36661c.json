@@ -1,0 +1,15 @@
+{
+  "symbol": "QUACK",
+  "name": "RichQUACK.com",
+  "address": "0xd74b782e05aa25c50e7330af541d46e18f36661c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16356/thumb/57198446-0-Get-Rich-Quick-Gober.png?1623812294",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd74b782e05aa25c50e7330af541d46e18f36661c"
+  }
+}

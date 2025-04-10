@@ -1,0 +1,17 @@
+{
+  "symbol": "FITFI",
+  "name": "STEP.APP",
+  "address": "0x7588df009c3d82378be6ab81f2108fa963c10fc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25015/thumb/801485424e1f49bc8d0facff9287eb9b_photo.png?1649827972",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x714f020c54cc9d104b6f4f6998c63ce2a31d1888",
+    "step-network": "0xb58a9d5920af6ac1a9522b0b10f55df16686d1b6",
+    "binance-smart-chain": "0x7588df009c3d82378be6ab81f2108fa963c10fc8"
+  }
+}

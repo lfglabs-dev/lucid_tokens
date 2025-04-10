@@ -1,0 +1,16 @@
+{
+  "symbol": "CNTR",
+  "name": "Centaur Token (PoS)",
+  "address": "0xdae89da41a96956e9e70320ac9c0dd077070d3a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12743/thumb/logo_%2898%29.png?1602630445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x03042482d64577a7bdb282260e2ea4c8a89c064b",
+    "polygon-pos": "0xdae89da41a96956e9e70320ac9c0dd077070d3a5"
+  }
+}

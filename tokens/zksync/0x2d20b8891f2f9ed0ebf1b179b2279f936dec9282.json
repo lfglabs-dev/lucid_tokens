@@ -1,0 +1,16 @@
+{
+  "symbol": "SYNC",
+  "name": "Syncus",
+  "address": "0x2d20b8891f2f9ed0ebf1b179b2279f936dec9282",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33573/thumb/Syncus.png?1702450708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa41d2f8ee4f47d3b860a149765a7df8c3287b7f0",
+    "zksync": "0x2d20b8891f2f9ed0ebf1b179b2279f936dec9282"
+  }
+}

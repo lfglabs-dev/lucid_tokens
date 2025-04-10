@@ -1,0 +1,15 @@
+{
+  "symbol": "ZENC",
+  "name": "Zenccoin",
+  "address": "0x55533be59de022d585a57e29539452d708d4a410",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25055/thumb/1TMxKir4_400x400.png?1649939681",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x55533be59de022d585a57e29539452d708d4a410"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LTC",
+  "name": "Litecoin Token",
+  "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15456/thumb/LrysCc5Q_400x400.jpg?1620895206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AINU",
+  "name": "AINU TOKEN",
+  "address": "0x2db0d5cb907014c67dc201886624716fb5c71123",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17022/thumb/AINU.jpg?1629342905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2db0d5cb907014c67dc201886624716fb5c71123"
+  }
+}

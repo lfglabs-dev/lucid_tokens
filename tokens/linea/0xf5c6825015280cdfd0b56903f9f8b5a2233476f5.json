@@ -1,0 +1,15 @@
+{
+  "symbol": "BNB",
+  "name": "Binance Coin",
+  "address": "0xf5c6825015280cdfd0b56903f9f8b5a2233476f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53084/thumb/wrapped_bnb.png?1735203013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xf5c6825015280cdfd0b56903f9f8b5a2233476f5"
+  }
+}

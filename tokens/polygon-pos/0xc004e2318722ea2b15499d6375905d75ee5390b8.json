@@ -1,0 +1,16 @@
+{
+  "symbol": "KOM",
+  "name": "Kommunitas",
+  "address": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17483/thumb/1_f1S3h57YLT1e1cl8g7RJpw_2x.jpeg?1627956421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+    "arbitrum-one": "0xa58663faef461761e44066ea26c1fcddf2927b80"
+  }
+}

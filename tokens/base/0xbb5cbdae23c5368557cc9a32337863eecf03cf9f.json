@@ -1,0 +1,15 @@
+{
+  "symbol": "wBEPE",
+  "name": "Chia Warped BEPE",
+  "address": "0xbb5cbdae23c5368557cc9a32337863eecf03cf9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53980/thumb/Cabeza_Bram_Pepe__6__-_Copysmall-removebg-preview.png?1737873331",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbb5cbdae23c5368557cc9a32337863eecf03cf9f"
+  }
+}

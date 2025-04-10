@@ -1,0 +1,16 @@
+{
+  "symbol": "AITT",
+  "name": "AITTCOIN",
+  "address": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36100/thumb/aittcoin.png?1710482811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd",
+    "polygon-pos": "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd"
+  }
+}

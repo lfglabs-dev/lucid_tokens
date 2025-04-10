@@ -1,0 +1,15 @@
+{
+  "symbol": "WSPP",
+  "name": "WolfSafePoorPeople",
+  "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19514/thumb/wspplogo.png?1635319669",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "SHARDS",
+  "name": "SHARDS@Avalanche",
+  "address": "0xb1f19e492401545c1b060c4b18688f9178325b4d",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33635/thumb/shards.png?1702536029",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb1f19e492401545c1b060c4b18688f9178325b4d",
+    "polygon-pos": "0xe156987a81a9b841c1def6f111ea69bf817fb272"
+  }
+}

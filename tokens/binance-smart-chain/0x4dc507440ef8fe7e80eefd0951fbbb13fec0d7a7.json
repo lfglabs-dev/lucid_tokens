@@ -1,0 +1,15 @@
+{
+  "symbol": "FROP",
+  "name": "Popo The Frog",
+  "address": "0x4dc507440ef8fe7e80eefd0951fbbb13fec0d7a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50458/thumb/popo_logo.jpg?1727798560",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4dc507440ef8fe7e80eefd0951fbbb13fec0d7a7"
+  }
+}

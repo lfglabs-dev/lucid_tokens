@@ -1,0 +1,15 @@
+{
+  "symbol": "RUBBER",
+  "name": "Rubber Ducky",
+  "address": "0xfddba7ca7af59ac1b3cc144c08db9bdde7378dd5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36540/thumb/RubberDuckyLogo.png?1711708773",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xfddba7ca7af59ac1b3cc144c08db9bdde7378dd5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "USDbC",
+  "name": "USD Base Coin",
+  "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31164/thumb/usdbc.png?1691051375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
+  }
+}

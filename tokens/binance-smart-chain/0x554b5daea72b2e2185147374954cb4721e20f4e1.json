@@ -1,0 +1,15 @@
+{
+  "symbol": "$BROC",
+  "name": "Broccoli",
+  "address": "0x554b5daea72b2e2185147374954cb4721e20f4e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54838/thumb/pers2_1.png?1742016023",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x554b5daea72b2e2185147374954cb4721e20f4e1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KNIGHT",
+  "name": "Forest Knight",
+  "address": "0x4455ef8b4b4a007a93daa12de63a47eeac700d9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18441/thumb/Coin_Forest_Knight_200x200.png?1632480031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4455ef8b4b4a007a93daa12de63a47eeac700d9d"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "WOMBAT",
+  "name": "Wombat",
+  "address": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26430/thumb/Project_Page_Icon.png?1657930951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd",
+    "polygon-pos": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd"
+  }
+}

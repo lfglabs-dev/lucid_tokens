@@ -1,0 +1,15 @@
+{
+  "symbol": "GFI",
+  "name": "Gravity Finance",
+  "address": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15871/thumb/GFI-Icon.png?1622178588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x874e178a2f3f3f9d34db862453cd756e7eab0381"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mwEURC",
+  "name": "Moonwell Flagship EURC",
+  "address": "0xf24608e0ccb972b0b0f4a6446a0bbf58c701a026",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52386/thumb/Untitled_design_%281%29.png?1733265573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf24608e0ccb972b0b0f4a6446a0bbf58c701a026"
+  }
+}

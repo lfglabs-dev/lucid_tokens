@@ -1,0 +1,15 @@
+{
+  "symbol": "MOONCATS",
+  "name": "MoonCats",
+  "address": "0xc5396321805c7f1bce608cda194aa9155fb20f7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36766/thumb/mooncats.png?1712283962",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc5396321805c7f1bce608cda194aa9155fb20f7d"
+  }
+}

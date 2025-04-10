@@ -1,0 +1,15 @@
+{
+  "symbol": "CTD",
+  "name": "Chain Talk Daily",
+  "address": "0x7f890a4a575558307826c82e4cb6e671f3178bfc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54991/thumb/photo_2025-03-24_18-06-57.jpg?1743060187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7f890a4a575558307826c82e4cb6e671f3178bfc"
+  }
+}

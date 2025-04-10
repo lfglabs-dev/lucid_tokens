@@ -1,0 +1,16 @@
+{
+  "symbol": "ALU",
+  "name": "Altura",
+  "address": "0x91ad1b44913cd1b8241a4ff1e2eaa198da6bf4c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15127/thumb/ALU_logo_200x200.png?1626868890",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+    "base": "0x91ad1b44913cd1b8241a4ff1e2eaa198da6bf4c9"
+  }
+}

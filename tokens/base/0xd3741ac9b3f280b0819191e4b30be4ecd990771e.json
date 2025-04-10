@@ -1,0 +1,15 @@
+{
+  "symbol": "DOOMER",
+  "name": "Doomer",
+  "address": "0xd3741ac9b3f280b0819191e4b30be4ecd990771e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37448/thumb/1000009134.jpg?1714447823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd3741ac9b3f280b0819191e4b30be4ecd990771e"
+  }
+}

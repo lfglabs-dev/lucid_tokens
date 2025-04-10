@@ -1,0 +1,15 @@
+{
+  "symbol": "BUBB",
+  "name": "Bubb",
+  "address": "0xd5369a3cac0f4448a9a96bb98af9c887c92fc37b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54911/thumb/bubb.jpg?1742459835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd5369a3cac0f4448a9a96bb98af9c887c92fc37b"
+  }
+}

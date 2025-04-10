@@ -1,0 +1,15 @@
+{
+  "symbol": "MPG",
+  "name": "MedPing",
+  "address": "0x53f0e242ea207b6e9b63e0a53e788267aa99ff9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20971/thumb/MEDPING_LOGO.png?1638154197",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x53f0e242ea207b6e9b63e0a53e788267aa99ff9b"
+  }
+}

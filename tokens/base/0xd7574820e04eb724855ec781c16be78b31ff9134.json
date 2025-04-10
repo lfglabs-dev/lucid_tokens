@@ -1,0 +1,15 @@
+{
+  "symbol": "SOX",
+  "name": "SOX",
+  "address": "0xd7574820e04eb724855ec781c16be78b31ff9134",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52773/thumb/0xd7574820e04eb724855ec781c16be78b31ff9134__MConverter.eu__%281%29.jpg?1734279428",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd7574820e04eb724855ec781c16be78b31ff9134"
+  }
+}

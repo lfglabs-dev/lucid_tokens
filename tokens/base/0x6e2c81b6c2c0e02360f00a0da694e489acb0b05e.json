@@ -1,0 +1,15 @@
+{
+  "symbol": "RFL",
+  "name": "Reflect",
+  "address": "0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39189/thumb/Reflect.png?1720855854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e"
+  }
+}

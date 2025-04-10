@@ -1,0 +1,15 @@
+{
+  "symbol": "MMETA",
+  "name": "Duckie Land Multi Metaverse",
+  "address": "0x7a9c8d33963aecca9a821802adfaf5bd9392351f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24186/thumb/MMETA_200X200.png?1646808063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7a9c8d33963aecca9a821802adfaf5bd9392351f"
+  }
+}

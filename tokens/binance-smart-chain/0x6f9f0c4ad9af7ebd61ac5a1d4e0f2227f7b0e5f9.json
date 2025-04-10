@@ -1,0 +1,15 @@
+{
+  "symbol": "ERA",
+  "name": "Era Token",
+  "address": "0x6f9f0c4ad9af7ebd61ac5a1d4e0f2227f7b0e5f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24061/thumb/18483.png?1646204630",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6f9f0c4ad9af7ebd61ac5a1d4e0f2227f7b0e5f9"
+  }
+}

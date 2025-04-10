@@ -1,0 +1,16 @@
+{
+  "symbol": "ATH",
+  "name": "AthenaDAO Token",
+  "address": "0x58d75a1c4477914f9a98a8708feaed1dbe40b8a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33349/thumb/ATH_Token_Black_Alpha.png?1701561343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa4ffdf3208f46898ce063e25c1c43056fa754739",
+    "base": "0x58d75a1c4477914f9a98a8708feaed1dbe40b8a3"
+  }
+}

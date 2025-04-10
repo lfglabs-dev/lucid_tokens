@@ -1,0 +1,15 @@
+{
+  "symbol": "ANT",
+  "name": "ANT",
+  "address": "0xba1c917598ac2d3690a7884dd126c63dfcaeb2b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54659/thumb/ANT_Token_logo.jpg?1740895768",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xba1c917598ac2d3690a7884dd126c63dfcaeb2b3"
+  }
+}

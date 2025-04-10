@@ -1,0 +1,15 @@
+{
+  "symbol": "YKS",
+  "name": "YourKiss ",
+  "address": "0x00855c21754fe85fd4e38ac23d2b3e091b04a042",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25333/thumb/YourKiss_200.png?1651298071",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x00855c21754fe85fd4e38ac23d2b3e091b04a042"
+  }
+}

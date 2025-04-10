@@ -1,0 +1,15 @@
+{
+  "symbol": "HLSCOPE",
+  "name": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
+  "address": "0x4c5ca366e26409845624e29b62c388a06961a792",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54810/thumb/Scope.png?1741801488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4c5ca366e26409845624e29b62c388a06961a792"
+  }
+}

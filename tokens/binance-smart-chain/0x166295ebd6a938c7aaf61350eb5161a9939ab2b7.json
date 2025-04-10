@@ -1,0 +1,15 @@
+{
+  "symbol": "Mura",
+  "name": "Murasaki",
+  "address": "0x166295ebd6a938c7aaf61350eb5161a9939ab2b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28570/thumb/mura.png?1671795851",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x166295ebd6a938c7aaf61350eb5161a9939ab2b7"
+  }
+}

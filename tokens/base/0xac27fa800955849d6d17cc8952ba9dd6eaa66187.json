@@ -1,0 +1,15 @@
+{
+  "symbol": "UP",
+  "name": "UnlockProtocolToken",
+  "address": "0xac27fa800955849d6d17cc8952ba9dd6eaa66187",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51457/thumb/up2.png?1731318758",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xac27fa800955849d6d17cc8952ba9dd6eaa66187"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AUX",
+  "name": "AUSTIN Token",
+  "address": "0xeee352f77f28d31601eb20d3de09d7729ca2dc79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54937/thumb/AUSTIN-Logoo_%281%29.png?1742633631",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeee352f77f28d31601eb20d3de09d7729ca2dc79"
+  }
+}

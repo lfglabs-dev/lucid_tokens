@@ -1,0 +1,15 @@
+{
+  "symbol": "LAB v2",
+  "name": "Little Angry Bunny v2",
+  "address": "0x07f5ceded6b3dba557b3663edc8941fb37b63945",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20327/thumb/lab_v2.png?1636888545",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07f5ceded6b3dba557b3663edc8941fb37b63945"
+  }
+}

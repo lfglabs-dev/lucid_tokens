@@ -1,0 +1,16 @@
+{
+  "symbol": "UNIO",
+  "name": "Unio Coin",
+  "address": "0x01aac2b594f7bdbec740f0f1aa22910ebb4b74ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50191/thumb/uniocoin-200x200.png?1726206790",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x01aac2b594f7bdbec740f0f1aa22910ebb4b74ab",
+    "base": "0x01aac2b594f7bdbec740f0f1aa22910ebb4b74ab"
+  }
+}

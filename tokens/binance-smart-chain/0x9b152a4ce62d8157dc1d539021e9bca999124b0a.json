@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyMyro",
+  "name": "Baby Myro",
+  "address": "0x9b152a4ce62d8157dc1d539021e9bca999124b0a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34502/thumb/img4-HD%281%29.png?1705268491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9b152a4ce62d8157dc1d539021e9bca999124b0a"
+  }
+}

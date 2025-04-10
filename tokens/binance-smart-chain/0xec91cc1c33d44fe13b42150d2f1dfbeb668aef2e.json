@@ -1,0 +1,15 @@
+{
+  "symbol": "AGO",
+  "name": "Ago-Defi",
+  "address": "0xec91cc1c33d44fe13b42150d2f1dfbeb668aef2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37208/thumb/Token_AGO_200x200_1_.png?1713768501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xec91cc1c33d44fe13b42150d2f1dfbeb668aef2e"
+  }
+}

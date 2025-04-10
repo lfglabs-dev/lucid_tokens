@@ -1,0 +1,15 @@
+{
+  "symbol": "NYANTE",
+  "name": "Nyantereum International",
+  "address": "0x0c27b49db71a9fb6e9cf97f7cbb0cf3f0e97f920",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13090/thumb/Nyantereum.png?1696512877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0c27b49db71a9fb6e9cf97f7cbb0cf3f0e97f920"
+  }
+}

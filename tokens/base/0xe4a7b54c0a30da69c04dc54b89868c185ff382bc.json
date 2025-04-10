@@ -1,0 +1,15 @@
+{
+  "symbol": "EMILIA",
+  "name": "Emilia by Virtuals",
+  "address": "0xe4a7b54c0a30da69c04dc54b89868c185ff382bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53664/thumb/emilia_1.png?1737003092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe4a7b54c0a30da69c04dc54b89868c185ff382bc"
+  }
+}

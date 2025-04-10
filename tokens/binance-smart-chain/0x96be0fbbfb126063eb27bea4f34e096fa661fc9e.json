@@ -1,0 +1,15 @@
+{
+  "symbol": "HINAGI",
+  "name": "Hinagi",
+  "address": "0x96be0fbbfb126063eb27bea4f34e096fa661fc9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54489/thumb/LOGO_HINAGI_200X200.jpg?1739993558",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x96be0fbbfb126063eb27bea4f34e096fa661fc9e"
+  }
+}

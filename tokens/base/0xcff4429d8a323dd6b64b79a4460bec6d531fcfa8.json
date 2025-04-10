@@ -1,0 +1,15 @@
+{
+  "symbol": "SAI",
+  "name": "Saitoshi by Virtuals",
+  "address": "0xcff4429d8a323dd6b64b79a4460bec6d531fcfa8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53810/thumb/IMG_1482.jpeg?1737411154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcff4429d8a323dd6b64b79a4460bec6d531fcfa8"
+  }
+}

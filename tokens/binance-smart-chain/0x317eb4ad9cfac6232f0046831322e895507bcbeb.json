@@ -1,0 +1,15 @@
+{
+  "symbol": "TDX",
+  "name": "Tidex Token",
+  "address": "0x317eb4ad9cfac6232f0046831322e895507bcbeb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3137/thumb/tidex.png?1547037548",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x317eb4ad9cfac6232f0046831322e895507bcbeb"
+  }
+}

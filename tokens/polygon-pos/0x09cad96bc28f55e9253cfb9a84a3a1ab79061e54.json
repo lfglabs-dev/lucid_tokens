@@ -1,0 +1,15 @@
+{
+  "symbol": "OSHI",
+  "name": "Oshi Token",
+  "address": "0x09cad96bc28f55e9253cfb9a84a3a1ab79061e54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32481/thumb/LOGO_Oshi_Token_200-200.png?1698287950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x09cad96bc28f55e9253cfb9a84a3a1ab79061e54"
+  }
+}

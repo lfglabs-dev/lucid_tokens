@@ -1,0 +1,18 @@
+{
+  "symbol": "JNJ.d",
+  "name": "Johnson & Johnson - Dinari",
+  "address": "0x9e23da6c963d9cfc929f3bda89e9e20984c008ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x50e2b96f958133cbda56d1a62d156e812fe97828",
+    "ethereum": "0x97e4db79d2924f1c5ce2a821e7d5b111f9925e70",
+    "blast": "0x9e23da6c963d9cfc929f3bda89e9e20984c008ef",
+    "base": "0xab754c3998ba88e789329f250d90ea35fc87aea6"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "YOURAI",
+  "name": "YOUR AI",
+  "address": "0x27f16d9a5095b763baeadd7dd78e83288af29cf4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36260/thumb/yourai-ticker_%281%29.png?1710929542",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc5ba042bf8832999b17c9036e8212f49dce0501a",
+    "binance-smart-chain": "0x27f16d9a5095b763baeadd7dd78e83288af29cf4"
+  }
+}

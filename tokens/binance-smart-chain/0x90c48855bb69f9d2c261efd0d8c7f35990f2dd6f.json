@@ -1,0 +1,15 @@
+{
+  "symbol": "WFI",
+  "name": "WFI",
+  "address": "0x90c48855bb69f9d2c261efd0d8c7f35990f2dd6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51842/thumb/200x200Logo.png?1732049089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x90c48855bb69f9d2c261efd0d8c7f35990f2dd6f"
+  }
+}

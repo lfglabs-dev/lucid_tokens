@@ -1,0 +1,15 @@
+{
+  "symbol": "GRK",
+  "name": "Grokster",
+  "address": "0x2e2cc4dfce60257f091980631e75f5c436b71c87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54783/thumb/grokster.jpg?1741571880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2e2cc4dfce60257f091980631e75f5c436b71c87"
+  }
+}

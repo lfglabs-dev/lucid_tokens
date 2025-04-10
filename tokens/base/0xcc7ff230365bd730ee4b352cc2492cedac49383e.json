@@ -1,0 +1,15 @@
+{
+  "symbol": "hyUSD",
+  "name": "High Yield USD",
+  "address": "0xcc7ff230365bd730ee4b352cc2492cedac49383e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33636/thumb/hyusdlogo.png?1702536133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcc7ff230365bd730ee4b352cc2492cedac49383e"
+  }
+}

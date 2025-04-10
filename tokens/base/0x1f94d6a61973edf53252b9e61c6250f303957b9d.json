@@ -1,0 +1,15 @@
+{
+  "symbol": "paraUSD",
+  "name": "Parabol USD",
+  "address": "0x1f94d6a61973edf53252b9e61c6250f303957b9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54918/thumb/logo.png?1742536896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1f94d6a61973edf53252b9e61c6250f303957b9d"
+  }
+}

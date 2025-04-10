@@ -1,0 +1,17 @@
+{
+  "symbol": "DAFI",
+  "name": "DAFI Token (PoS)",
+  "address": "0x638df98ad8069a15569da5a6b01181804c47e34c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14428/thumb/Dafi_Black_Icon.png?1616040406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+    "binance-smart-chain": "0x4e0fe270b856eebb91fb4b4364312be59f499a3f",
+    "polygon-pos": "0x638df98ad8069a15569da5a6b01181804c47e34c"
+  }
+}

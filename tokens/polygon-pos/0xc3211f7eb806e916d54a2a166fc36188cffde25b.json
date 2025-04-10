@@ -1,0 +1,15 @@
+{
+  "symbol": "CROB",
+  "name": "Cropto Barley Token",
+  "address": "0xc3211f7eb806e916d54a2a166fc36188cffde25b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35188/thumb/CROB_IMG.jpeg?1707816006",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc3211f7eb806e916d54a2a166fc36188cffde25b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DFISH",
+  "name": "Dailyfish",
+  "address": "0x17893dd8bf3f868f691b314abeb3ba8fd615e680",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36050/thumb/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94.png?1710402554",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x17893dd8bf3f868f691b314abeb3ba8fd615e680"
+  }
+}

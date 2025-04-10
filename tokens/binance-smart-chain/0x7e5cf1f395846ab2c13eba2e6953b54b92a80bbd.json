@@ -1,0 +1,16 @@
+{
+  "symbol": "GBURN",
+  "name": "GBURN",
+  "address": "0x7e5cf1f395846ab2c13eba2e6953b54b92a80bbd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33048/thumb/Untitled_design_-_2023-11-10T174143.724.png?1700472805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7e5cf1f395846ab2c13eba2e6953b54b92a80bbd",
+    "ethereum": "0x4eea762311be76f9071aa01058c047ad12a017a1"
+  }
+}

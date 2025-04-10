@@ -1,0 +1,15 @@
+{
+  "symbol": "Blue",
+  "name": "Blue Guy",
+  "address": "0x891502ba08132653151f822a3a430198f1844115",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39645/thumb/IMG_20240810_073513_639.png?1723412054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x891502ba08132653151f822a3a430198f1844115"
+  }
+}

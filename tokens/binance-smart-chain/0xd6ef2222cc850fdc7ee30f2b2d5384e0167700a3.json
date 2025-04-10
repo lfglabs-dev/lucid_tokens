@@ -1,0 +1,15 @@
+{
+  "symbol": "Retro",
+  "name": "RetroCraft",
+  "address": "0xd6ef2222cc850fdc7ee30f2b2d5384e0167700a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33249/thumb/retrocraft_200x200.png?1701172877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd6ef2222cc850fdc7ee30f2b2d5384e0167700a3"
+  }
+}

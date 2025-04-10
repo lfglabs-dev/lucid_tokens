@@ -1,0 +1,15 @@
+{
+  "symbol": "VBEA",
+  "name": "VirtuBeauty by Virtuals",
+  "address": "0x414562c94223a5c4df9f278422f03228f35b8f7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53429/thumb/logo.png?1736365069",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x414562c94223a5c4df9f278422f03228f35b8f7d"
+  }
+}

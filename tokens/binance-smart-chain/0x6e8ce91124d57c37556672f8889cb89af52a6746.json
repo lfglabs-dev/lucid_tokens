@@ -1,0 +1,15 @@
+{
+  "symbol": "CBANK",
+  "name": "Cairo Bank",
+  "address": "0x6e8ce91124d57c37556672f8889cb89af52a6746",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33244/thumb/200cairo.png?1701171751",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6e8ce91124d57c37556672f8889cb89af52a6746"
+  }
+}

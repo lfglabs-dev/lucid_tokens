@@ -1,0 +1,15 @@
+{
+  "symbol": "OIL",
+  "name": "CRUDE OIL BRENT",
+  "address": "0xcce7162344dc758e4715079c8abc981dc72273b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38103/thumb/oil.png?1716527227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcce7162344dc758e4715079c8abc981dc72273b9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TMAI",
+  "name": "Token Metrics AI",
+  "address": "0xca4569949699d56e1834efe9f58747ca0f151b01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37707/thumb/X7NIVGgd_400x400.jpg?1715273052",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xca4569949699d56e1834efe9f58747ca0f151b01"
+  }
+}

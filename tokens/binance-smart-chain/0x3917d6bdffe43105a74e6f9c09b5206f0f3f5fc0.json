@@ -1,0 +1,15 @@
+{
+  "symbol": "LCAT",
+  "name": "Lion Cat",
+  "address": "0x3917d6bdffe43105a74e6f9c09b5206f0f3f5fc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51354/thumb/200200.png?1730877066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3917d6bdffe43105a74e6f9c09b5206f0f3f5fc0"
+  }
+}

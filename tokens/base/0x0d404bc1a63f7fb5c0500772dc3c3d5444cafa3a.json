@@ -1,0 +1,18 @@
+{
+  "symbol": "QQQ.d",
+  "name": "Invesco QQQ Trust, Series 1 - Dinari",
+  "address": "0x0d404bc1a63f7fb5c0500772dc3c3d5444cafa3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xad84746c961bc3142b0aefeb0a51a2880bbe4795",
+    "ethereum": "0xbb19ea4de2fcd217ca5e4bd413adc49b52855b2b",
+    "blast": "0x87ec43715cd54b97e3da2bbebbeb919177aa2f6d",
+    "base": "0x0d404bc1a63f7fb5c0500772dc3c3d5444cafa3a"
+  }
+}

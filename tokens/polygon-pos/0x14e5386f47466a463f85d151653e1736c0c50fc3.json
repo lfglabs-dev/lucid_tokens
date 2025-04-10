@@ -1,0 +1,15 @@
+{
+  "symbol": "RUM",
+  "name": "RUM Pirates of The Arrland Token",
+  "address": "0x14e5386f47466a463f85d151653e1736c0c50fc3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29991/thumb/Rum_token_icon.png?1682470063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x14e5386f47466a463f85d151653e1736c0c50fc3"
+  }
+}

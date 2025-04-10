@@ -1,0 +1,15 @@
+{
+  "symbol": "AHD",
+  "name": "Agen Humpty Dumpty",
+  "address": "0x313f2cddcdc74747c18d2f529ec9c087860198ed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54888/thumb/IMG_3611.png?1742385756",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x313f2cddcdc74747c18d2f529ec9c087860198ed"
+  }
+}

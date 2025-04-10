@@ -1,0 +1,15 @@
+{
+  "symbol": "WIG",
+  "name": "ToupeeTech",
+  "address": "0x58dd173f30ecffdfebcd242c71241fb2f179e9b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33279/thumb/token_logo-01.png?1701334931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x58dd173f30ecffdfebcd242c71241fb2f179e9b9"
+  }
+}

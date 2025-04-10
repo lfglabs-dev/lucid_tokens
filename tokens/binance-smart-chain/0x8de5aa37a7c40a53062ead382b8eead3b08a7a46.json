@@ -1,0 +1,15 @@
+{
+  "symbol": "VTG",
+  "name": "Victory Gem",
+  "address": "0x8de5aa37a7c40a53062ead382b8eead3b08a7a46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25270/thumb/vtg.png?1651117782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8de5aa37a7c40a53062ead382b8eead3b08a7a46"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ZADA",
+  "name": "Zada",
+  "address": "0xfcadd830ff2d6cf3ad1681e1e8fc5ddce9d59e74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20602/thumb/Screenshot-2021-11-18-at-22-55-25.png?1637287967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfcadd830ff2d6cf3ad1681e1e8fc5ddce9d59e74"
+  }
+}

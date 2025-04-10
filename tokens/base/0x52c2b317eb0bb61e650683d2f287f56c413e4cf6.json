@@ -1,0 +1,16 @@
+{
+  "symbol": "TREE",
+  "name": "Tree",
+  "address": "0x52c2b317eb0bb61e650683d2f287f56c413e4cf6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33727/thumb/logo-cmc.png?1702888415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba25b2281214300e4e649fead9a6d6acd25f1c0a",
+    "base": "0x52c2b317eb0bb61e650683d2f287f56c413e4cf6"
+  }
+}

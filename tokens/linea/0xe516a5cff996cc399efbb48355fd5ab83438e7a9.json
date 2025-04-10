@@ -1,0 +1,15 @@
+{
+  "symbol": "GNO",
+  "name": "Gnosis Token",
+  "address": "0xe516a5cff996cc399efbb48355fd5ab83438e7a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50268/thumb/GNO.png?1726744054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xe516a5cff996cc399efbb48355fd5ab83438e7a9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LITHO",
+  "name": "Lithosphere",
+  "address": "0x61909950e1bfb5d567c5463cbd33dc1cdc85ee93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21128/thumb/6gizpBLn.png?1638347028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x61909950e1bfb5d567c5463cbd33dc1cdc85ee93"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "YAK",
+  "name": "Yak Token",
+  "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17654/thumb/logo_-_2021-08-12T154306.737.png?1628754195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+    "mantle": "0x7f4db37d7beb31f445307782bc3da0f18df13696",
+    "arbitrum-one": "0x7f4db37d7beb31f445307782bc3da0f18df13696"
+  }
+}

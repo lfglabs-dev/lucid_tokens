@@ -1,0 +1,19 @@
+{
+  "symbol": "RISE",
+  "name": "EverRise",
+  "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16367/thumb/Logo_EverRise_Icon_logo.png?1642576670",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "ethereum": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "fantom": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "avalanche": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "polygon-pos": "0xc17c30e98541188614df99239cabd40280810ca3"
+  }
+}

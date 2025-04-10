@@ -1,0 +1,15 @@
+{
+  "symbol": "NODE",
+  "name": "noderzz by Virtuals",
+  "address": "0x2acd6a246157bf51636d06a83200f8923e7eb864",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53528/thumb/1000161639.png?1736579086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2acd6a246157bf51636d06a83200f8923e7eb864"
+  }
+}

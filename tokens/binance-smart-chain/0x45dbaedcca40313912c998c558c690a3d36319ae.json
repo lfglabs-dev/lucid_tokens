@@ -1,0 +1,15 @@
+{
+  "symbol": "longevity",
+  "name": "longevity",
+  "address": "0x45dbaedcca40313912c998c558c690a3d36319ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52108/thumb/logo.jpeg?1732594393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x45dbaedcca40313912c998c558c690a3d36319ae"
+  }
+}

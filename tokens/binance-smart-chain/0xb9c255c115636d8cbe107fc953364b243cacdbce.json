@@ -1,0 +1,15 @@
+{
+  "symbol": "NEURALAI",
+  "name": "Neural AI",
+  "address": "0xb9c255c115636d8cbe107fc953364b243cacdbce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29049/thumb/Neural-AI-logo_%281%29.png?1676294231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb9c255c115636d8cbe107fc953364b243cacdbce"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "whypad",
+  "name": "unamano",
+  "address": "0x8ff417e9b7832b09e5717532dc7f251b346442ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50335/thumb/WHYPAD.jpg?1727165256",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8ff417e9b7832b09e5717532dc7f251b346442ab"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LILB",
+  "name": "Lil Brett",
+  "address": "0xa0a2e84f6f19c09a095d4a83ac8de5a32d303a13",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51813/thumb/%28100_x_100_px%29.png?1732029374",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa0a2e84f6f19c09a095d4a83ac8de5a32d303a13"
+  }
+}

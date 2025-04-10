@@ -1,0 +1,15 @@
+{
+  "symbol": "POON",
+  "name": "Poon",
+  "address": "0x6e93dede32b00fc0b993cee3be8727089fdd013b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37518/thumb/Head_image_raster_color_transparency.png?1714632034",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6e93dede32b00fc0b993cee3be8727089fdd013b"
+  }
+}

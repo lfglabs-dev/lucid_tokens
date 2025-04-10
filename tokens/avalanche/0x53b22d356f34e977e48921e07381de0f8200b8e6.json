@@ -1,0 +1,16 @@
+{
+  "symbol": "MAG",
+  "name": "MAG Token",
+  "address": "0x53b22d356f34e977e48921e07381de0f8200b8e6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27152/thumb/MAG.png?1662203851",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd4c73fd18f732bc6ee9fb193d109b2eed815df80",
+    "avalanche": "0x53b22d356f34e977e48921e07381de0f8200b8e6"
+  }
+}

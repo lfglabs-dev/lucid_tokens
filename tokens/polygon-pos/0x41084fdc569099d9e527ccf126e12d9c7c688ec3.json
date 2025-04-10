@@ -1,0 +1,16 @@
+{
+  "symbol": "IQT",
+  "name": "IQ Protocol Token",
+  "address": "0x41084fdc569099d9e527ccf126e12d9c7c688ec3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23274/thumb/logo_for_SM_main.png?1643517120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6dda263994aab33f5ed612294e26f2a13df0da05",
+    "polygon-pos": "0x41084fdc569099d9e527ccf126e12d9c7c688ec3"
+  }
+}

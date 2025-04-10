@@ -1,0 +1,16 @@
+{
+  "symbol": "ASX",
+  "name": "ASX",
+  "address": "0xebd3619642d78f0c98c84f6fa9a678653fb5a99b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34993/thumb/AXVII_007_500px_Black_Background.png?1706950900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xebd3619642d78f0c98c84f6fa9a678653fb5a99b",
+    "core": "0xb28b43209d9de61306172af0320f4f55e50e2f29"
+  }
+}

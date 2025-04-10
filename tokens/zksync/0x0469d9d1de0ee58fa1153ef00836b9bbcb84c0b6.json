@@ -1,0 +1,16 @@
+{
+  "symbol": "USN",
+  "name": "USN Token",
+  "address": "0x0469d9d1de0ee58fa1153ef00836b9bbcb84c0b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53948/thumb/image_%289%29.png?1737788246",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda67b4284609d2d48e5d10cfac411572727dc1ed",
+    "zksync": "0x0469d9d1de0ee58fa1153ef00836b9bbcb84c0b6"
+  }
+}

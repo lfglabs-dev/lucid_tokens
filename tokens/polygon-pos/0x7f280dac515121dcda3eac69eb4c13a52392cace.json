@@ -1,0 +1,16 @@
+{
+  "symbol": "FNC",
+  "name": "Fancy Games",
+  "address": "0x7f280dac515121dcda3eac69eb4c13a52392cace",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21367/thumb/fnc.png?1639025576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7f280dac515121dcda3eac69eb4c13a52392cace",
+    "polygon-pos": "0x7f280dac515121dcda3eac69eb4c13a52392cace"
+  }
+}

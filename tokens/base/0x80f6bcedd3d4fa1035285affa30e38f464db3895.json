@@ -1,0 +1,15 @@
+{
+  "symbol": "BET",
+  "name": "BetBase",
+  "address": "0x80f6bcedd3d4fa1035285affa30e38f464db3895",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37440/thumb/BaseXprofile.png?1714380705",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x80f6bcedd3d4fa1035285affa30e38f464db3895"
+  }
+}

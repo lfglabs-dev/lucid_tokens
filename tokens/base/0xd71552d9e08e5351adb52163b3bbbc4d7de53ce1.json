@@ -1,0 +1,16 @@
+{
+  "symbol": "AITECH",
+  "name": "AITECH",
+  "address": "0xd71552d9e08e5351adb52163b3bbbc4d7de53ce1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22114/thumb/Asset_image_256x256_-_24.11.22.png?1674806715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
+    "base": "0xd71552d9e08e5351adb52163b3bbbc4d7de53ce1"
+  }
+}

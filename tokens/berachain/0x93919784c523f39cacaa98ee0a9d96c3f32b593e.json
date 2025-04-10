@@ -1,0 +1,17 @@
+{
+  "symbol": "brBTC",
+  "name": "brBTC",
+  "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2ec37d45fcae65d9787ecf71dc85a444968f6646",
+    "berachain": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "binance-smart-chain": "0x733a6c29eda4a58931ae81b8d91e29f2eaf01df3"
+  }
+}

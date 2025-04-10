@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPPER",
+  "name": "Pepper",
+  "address": "0xbf388570ebd5b88bfc7cd21ec469813c15f453a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54732/thumb/Favicon_without_bg.png?1741246540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbf388570ebd5b88bfc7cd21ec469813c15f453a3"
+  }
+}

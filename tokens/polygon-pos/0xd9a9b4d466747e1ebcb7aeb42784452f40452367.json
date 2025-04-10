@@ -1,0 +1,15 @@
+{
+  "symbol": "$ACTIVE",
+  "name": "Active Token",
+  "address": "0xd9a9b4d466747e1ebcb7aeb42784452f40452367",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52342/thumb/activate-token-2_%282%29.png?1733128774",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd9a9b4d466747e1ebcb7aeb42784452f40452367"
+  }
+}

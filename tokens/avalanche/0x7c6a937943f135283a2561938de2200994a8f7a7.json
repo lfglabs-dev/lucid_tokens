@@ -1,0 +1,15 @@
+{
+  "symbol": "NOTE",
+  "name": "Republic Note",
+  "address": "0x7c6a937943f135283a2561938de2200994a8f7a7",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33726/thumb/Note-Logo-2023.png?1702888132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x7c6a937943f135283a2561938de2200994a8f7a7"
+  }
+}

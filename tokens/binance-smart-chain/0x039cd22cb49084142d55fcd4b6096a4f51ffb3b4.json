@@ -1,0 +1,15 @@
+{
+  "symbol": "MOVEZ",
+  "name": "MOVEZ.me",
+  "address": "0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25661/thumb/JYwFw77.png?1654768153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4"
+  }
+}

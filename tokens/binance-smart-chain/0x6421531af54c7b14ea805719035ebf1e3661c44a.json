@@ -1,0 +1,15 @@
+{
+  "symbol": "bLEO",
+  "name": "BEP20 LEO",
+  "address": "0x6421531af54c7b14ea805719035ebf1e3661c44a",
+  "decimals": 3,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18764/thumb/2bP4pJr4wVimqCWjYimXJe2cnCgnAD5Au3rAU7JkDc2.png?1633356467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6421531af54c7b14ea805719035ebf1e3661c44a"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "SMT",
+  "name": "Swarm Markets",
+  "address": "0xe631dabef60c37a37d70d3b4f812871df663226f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17488/thumb/Swarm-Coin-SMT.png?1628071539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb17548c7b510427baac4e267bea62e800b247173",
+    "arbitrum-one": "0x2680e82fb8beb5a153a67fe687ffa67abb6b9013",
+    "polygon-pos": "0xe631dabef60c37a37d70d3b4f812871df663226f",
+    "base": "0x2974dc646e375e83bd1c0342625b49f288987fa4"
+  }
+}

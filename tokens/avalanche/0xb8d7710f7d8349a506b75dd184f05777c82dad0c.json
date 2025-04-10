@@ -1,0 +1,15 @@
+{
+  "symbol": "ARENA",
+  "name": "ArenaToken",
+  "address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51173/thumb/_ARENA_TokenLogo_200x200.png?1730282003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c"
+  }
+}

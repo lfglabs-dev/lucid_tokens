@@ -1,0 +1,16 @@
+{
+  "symbol": "Lordz",
+  "name": "MemeLordz Token",
+  "address": "0x7bb5c17a9889fde42c4c95a937f7d387b8bcd409",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39771/thumb/meme_lords.jpg?1724049475",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x32b133add6d99d085ff23f522662b546b70d54a1",
+    "binance-smart-chain": "0x7bb5c17a9889fde42c4c95a937f7d387b8bcd409"
+  }
+}

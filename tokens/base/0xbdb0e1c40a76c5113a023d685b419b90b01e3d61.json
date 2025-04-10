@@ -1,0 +1,15 @@
+{
+  "symbol": "AIVA",
+  "name": "AI Voice Agents",
+  "address": "0xbdb0e1c40a76c5113a023d685b419b90b01e3d61",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52908/thumb/TnED_4Vn_400x400.jpg?1734640800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbdb0e1c40a76c5113a023d685b419b90b01e3d61"
+  }
+}

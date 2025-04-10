@@ -1,0 +1,16 @@
+{
+  "symbol": "SCOMP",
+  "name": "Stablecomp",
+  "address": "0xd94a8f9caed25e63ecc90edfefaf3635ea1e182a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33932/thumb/token-icon-big.png?1703422228",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd94a8f9caed25e63ecc90edfefaf3635ea1e182a",
+    "polygon-pos": "0xd94a8f9caed25e63ecc90edfefaf3635ea1e182a"
+  }
+}

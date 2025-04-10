@@ -1,0 +1,15 @@
+{
+  "symbol": "meUSD",
+  "name": "Morpho eUSD",
+  "address": "0xbb819d845b573b5d7c538f5b85057160cfb5f313",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51547/thumb/22933.png?1731516835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbb819d845b573b5d7c538f5b85057160cfb5f313"
+  }
+}

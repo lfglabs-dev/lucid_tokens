@@ -1,0 +1,15 @@
+{
+  "symbol": "FELLA",
+  "name": "FELLA",
+  "address": "0x122a3f185655847980639e8edf0f0f66cd91c5fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37135/thumb/coin_logo_copy.png?1713417485",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x122a3f185655847980639e8edf0f0f66cd91c5fe"
+  }
+}

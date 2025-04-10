@@ -1,0 +1,18 @@
+{
+  "symbol": "mOCEAN",
+  "name": "Ocean Token (PoS)",
+  "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3687/thumb/ocean-protocol-logo.jpg?1547038686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "energi": "0x99a17fb61fbdc4e42f6b0f496fe92ba820ce5d2b",
+    "optimistic-ethereum": "0x2561aa2bb1d2eb6629edd7b0938d7679b8b49f9e",
+    "polygon-pos": "0x282d8efce846a88b159800bd4130ad77443fa1a1"
+  }
+}

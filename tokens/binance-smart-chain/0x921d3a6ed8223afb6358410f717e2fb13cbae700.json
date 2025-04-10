@@ -1,0 +1,15 @@
+{
+  "symbol": "QRT",
+  "name": "QRKITA TOKEN",
+  "address": "0x921d3a6ed8223afb6358410f717e2fb13cbae700",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19320/thumb/logo_-_2021-10-25T080744.116.png?1635120472",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x921d3a6ed8223afb6358410f717e2fb13cbae700"
+  }
+}

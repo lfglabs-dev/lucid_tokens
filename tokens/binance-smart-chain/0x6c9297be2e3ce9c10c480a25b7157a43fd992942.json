@@ -1,0 +1,17 @@
+{
+  "symbol": "MEAN",
+  "name": "MEAN",
+  "address": "0x6c9297be2e3ce9c10c480a25b7157a43fd992942",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21557/thumb/89934951.png?1639466364",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9b25889c493ae6df34ceef1ecb10d77c1ba73318",
+    "binance-smart-chain": "0x6c9297be2e3ce9c10c480a25b7157a43fd992942",
+    "polygon-pos": "0x4867b60ad7c6adc98653f661f1aea31740986ba5"
+  }
+}

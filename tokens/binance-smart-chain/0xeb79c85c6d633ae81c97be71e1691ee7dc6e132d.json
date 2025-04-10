@@ -1,0 +1,15 @@
+{
+  "symbol": "PXT",
+  "name": "PIXER",
+  "address": "0xeb79c85c6d633ae81c97be71e1691ee7dc6e132d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31989/thumb/PXT.png?1695877493",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeb79c85c6d633ae81c97be71e1691ee7dc6e132d"
+  }
+}

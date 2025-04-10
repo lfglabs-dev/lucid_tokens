@@ -1,0 +1,16 @@
+{
+  "symbol": "PMA",
+  "name": "PumaPay",
+  "address": "0x43a167b15a6f24913a8b4d35488b36ac15d39200",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2307/thumb/pumapay_dark_rounded_256x256.png?1622176373",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+    "binance-smart-chain": "0x43a167b15a6f24913a8b4d35488b36ac15d39200"
+  }
+}

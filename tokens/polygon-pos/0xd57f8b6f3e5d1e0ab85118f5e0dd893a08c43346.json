@@ -1,0 +1,19 @@
+{
+  "symbol": "OSEA",
+  "name": "Omnisea",
+  "address": "0xd57f8b6f3e5d1e0ab85118f5e0dd893a08c43346",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26475/thumb/293837892_407994084681555_3167689470652146992_n.png?1658195766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd57f8b6f3e5d1e0ab85118f5e0dd893a08c43346",
+    "zksync": "0xd6c008fb375648972206518fb0b1a1b65f371d05",
+    "ethereum": "0xc72633f995e98ac3bb8a89e6a9c4af335c3d6e44",
+    "binance-smart-chain": "0x7b610012bdc4d6deba2c2d91684e408f40863429",
+    "arbitrum-one": "0xc72633f995e98ac3bb8a89e6a9c4af335c3d6e44"
+  }
+}

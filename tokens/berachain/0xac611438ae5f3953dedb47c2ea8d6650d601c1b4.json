@@ -1,0 +1,18 @@
+{
+  "symbol": "AMP",
+  "name": "Amped Finance",
+  "address": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "lightlink": "0xca7f14f14d975beffee190cd3cd232a3a988ab9c",
+    "sonic": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
+    "berachain": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
+    "base": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4"
+  }
+}

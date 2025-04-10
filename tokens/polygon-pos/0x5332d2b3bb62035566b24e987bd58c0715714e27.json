@@ -1,0 +1,15 @@
+{
+  "symbol": "SGM",
+  "name": "SGM Token",
+  "address": "0x5332d2b3bb62035566b24e987bd58c0715714e27",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38854/thumb/1000000176.jpg?1719213254",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5332d2b3bb62035566b24e987bd58c0715714e27"
+  }
+}

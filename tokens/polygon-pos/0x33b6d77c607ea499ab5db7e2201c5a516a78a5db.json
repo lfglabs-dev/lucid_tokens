@@ -1,0 +1,15 @@
+{
+  "symbol": "AIMX",
+  "name": "Aimedis",
+  "address": "0x33b6d77c607ea499ab5db7e2201c5a516a78a5db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29252/thumb/Aimedis_Logo_tg.png?1677646172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x33b6d77c607ea499ab5db7e2201c5a516a78a5db"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "uFET",
+  "name": "Artificial Superintelligence Alliance (Universal)",
+  "address": "0xacbf16f82753f3d52a2c87e4eeda220c9a7a3762",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54728/thumb/UA-FET.png?1741245784",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xacbf16f82753f3d52a2c87e4eeda220c9a7a3762"
+  }
+}

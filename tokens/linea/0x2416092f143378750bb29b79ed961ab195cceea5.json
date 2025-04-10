@@ -1,0 +1,15 @@
+{
+  "symbol": "ezETH",
+  "name": "Renzo Restaked ETH",
+  "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50285/thumb/ezeth.png?1726826929",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x2416092f143378750bb29b79ed961ab195cceea5"
+  }
+}

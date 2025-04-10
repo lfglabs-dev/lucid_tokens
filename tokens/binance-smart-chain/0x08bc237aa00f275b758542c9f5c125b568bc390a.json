@@ -1,0 +1,16 @@
+{
+  "symbol": "QDX",
+  "name": "Quidax Token",
+  "address": "0x08bc237aa00f275b758542c9f5c125b568bc390a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16032/thumb/3k5qGOw1_400x400.jpg?1622673737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1780933e83b09371cf716f3630fe5a422a66a39e",
+    "binance-smart-chain": "0x08bc237aa00f275b758542c9f5c125b568bc390a"
+  }
+}

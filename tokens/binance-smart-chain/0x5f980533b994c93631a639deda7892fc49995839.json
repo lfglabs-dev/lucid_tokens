@@ -1,0 +1,15 @@
+{
+  "symbol": "COSA",
+  "name": "Cosanta",
+  "address": "0x5f980533b994c93631a639deda7892fc49995839",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29313/thumb/cosanta_logo.png?1678001242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f980533b994c93631a639deda7892fc49995839"
+  }
+}

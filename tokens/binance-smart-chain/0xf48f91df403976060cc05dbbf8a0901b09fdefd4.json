@@ -1,0 +1,15 @@
+{
+  "symbol": "MINU",
+  "name": "Minu",
+  "address": "0xf48f91df403976060cc05dbbf8a0901b09fdefd4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29151/thumb/Minu_Logo.jpg?1676972329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf48f91df403976060cc05dbbf8a0901b09fdefd4"
+  }
+}

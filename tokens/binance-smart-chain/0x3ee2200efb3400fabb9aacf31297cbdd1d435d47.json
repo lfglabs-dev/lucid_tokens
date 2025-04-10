@@ -1,0 +1,16 @@
+{
+  "symbol": "ADA",
+  "name": "Cardano Token",
+  "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15455/thumb/ZE8LxNBf_400x400.jpg?1620894681",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+    "harmony-shard-0": "0x582617bd8ca80d22d4432e63fda52d74dcdcee4c"
+  }
+}

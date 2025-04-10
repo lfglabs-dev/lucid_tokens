@@ -1,0 +1,15 @@
+{
+  "symbol": "GOV",
+  "name": "GovWorld Official",
+  "address": "0xcc7a91413769891de2e9ebbfc96d2eb1874b5760",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22261/thumb/govworld.PNG?1641335263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcc7a91413769891de2e9ebbfc96d2eb1874b5760"
+  }
+}

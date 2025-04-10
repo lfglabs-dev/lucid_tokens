@@ -1,0 +1,15 @@
+{
+  "symbol": "PIPE",
+  "name": "Quantum Pipeline",
+  "address": "0x7de324ad84858484f1fa7cb3d6777b74942d7a55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37714/thumb/1000112238.png?1715286280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7de324ad84858484f1fa7cb3d6777b74942d7a55"
+  }
+}

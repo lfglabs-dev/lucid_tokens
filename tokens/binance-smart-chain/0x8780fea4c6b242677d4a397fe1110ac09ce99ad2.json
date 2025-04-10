@@ -1,0 +1,16 @@
+{
+  "symbol": "BIRD",
+  "name": "Bird",
+  "address": "0x8780fea4c6b242677d4a397fe1110ac09ce99ad2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13260/thumb/favicon-180x180.png?1611546646",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0",
+    "binance-smart-chain": "0x8780fea4c6b242677d4a397fe1110ac09ce99ad2"
+  }
+}

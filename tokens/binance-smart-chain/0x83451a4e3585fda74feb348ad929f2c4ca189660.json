@@ -1,0 +1,15 @@
+{
+  "symbol": "HNTR",
+  "name": "Hunter Token",
+  "address": "0x83451a4e3585fda74feb348ad929f2c4ca189660",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27793/thumb/Hunter-Logo-large.png?1665819905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x83451a4e3585fda74feb348ad929f2c4ca189660"
+  }
+}

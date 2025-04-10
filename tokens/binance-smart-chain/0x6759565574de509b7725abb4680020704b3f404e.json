@@ -1,0 +1,15 @@
+{
+  "symbol": "VIP",
+  "name": "VIP TOKEN",
+  "address": "0x6759565574de509b7725abb4680020704b3f404e",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20994/thumb/hVOVuxlC_400x400.jpg?1638172062",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6759565574de509b7725abb4680020704b3f404e"
+  }
+}

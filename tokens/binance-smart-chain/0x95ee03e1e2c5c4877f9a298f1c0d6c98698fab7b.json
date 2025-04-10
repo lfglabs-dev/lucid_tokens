@@ -1,0 +1,15 @@
+{
+  "symbol": "DUET",
+  "name": "Duet Governance Token",
+  "address": "0x95ee03e1e2c5c4877f9a298f1c0d6c98698fab7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16164/thumb/Duet.jpg?1623143640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x95ee03e1e2c5c4877f9a298f1c0d6c98698fab7b"
+  }
+}

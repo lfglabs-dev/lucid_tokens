@@ -1,0 +1,15 @@
+{
+  "symbol": "iBG",
+  "name": "IBG Token",
+  "address": "0x5c46c55a699a6359e451b2c99344138420c87261",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18026/thumb/IBG.png?1630291248",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5c46c55a699a6359e451b2c99344138420c87261"
+  }
+}

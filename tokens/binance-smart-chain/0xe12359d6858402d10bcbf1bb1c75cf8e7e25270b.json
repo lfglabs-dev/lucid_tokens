@@ -1,0 +1,15 @@
+{
+  "symbol": "BCX",
+  "name": "Big Coin",
+  "address": "0xe12359d6858402d10bcbf1bb1c75cf8e7e25270b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39577/thumb/1000190233.jpg?1723004202",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe12359d6858402d10bcbf1bb1c75cf8e7e25270b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "WABBIT",
+  "name": "WABBIT",
+  "address": "0x77776ab9495729e0939e9badaf7e7c3312777777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52688/thumb/4D205EBC-C245-44B7-9F24-9E439B4D5B42.png?1734032292",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x77776ab9495729e0939e9badaf7e7c3312777777"
+  }
+}

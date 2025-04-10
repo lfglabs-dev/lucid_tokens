@@ -1,0 +1,15 @@
+{
+  "symbol": "LSD",
+  "name": "LSD",
+  "address": "0xcd1b51b87a8a7137d6421ba5a976225187a26777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31801/thumb/mmexport1694431271547_copy_200x200.jpg?1695100377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcd1b51b87a8a7137d6421ba5a976225187a26777"
+  }
+}

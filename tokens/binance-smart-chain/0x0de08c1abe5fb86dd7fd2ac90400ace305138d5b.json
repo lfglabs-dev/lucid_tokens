@@ -1,0 +1,15 @@
+{
+  "symbol": "iDNA",
+  "name": "Wrapped Idena",
+  "address": "0x0de08c1abe5fb86dd7fd2ac90400ace305138d5b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10548/thumb/idena200x200.png?1580852687",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0de08c1abe5fb86dd7fd2ac90400ace305138d5b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RIKY",
+  "name": "Riky The Raccoon",
+  "address": "0x729031b3995538ddf6b6bce6e68d5d6fdeb3ccb5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37438/thumb/logo_200x.png?1714380580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x729031b3995538ddf6b6bce6e68d5d6fdeb3ccb5"
+  }
+}

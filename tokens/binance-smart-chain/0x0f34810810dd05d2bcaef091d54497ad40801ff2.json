@@ -1,0 +1,15 @@
+{
+  "symbol": "GIGS",
+  "name": "Climate101",
+  "address": "0x0f34810810dd05d2bcaef091d54497ad40801ff2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50200/thumb/GIGS.jpg?1726242673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0f34810810dd05d2bcaef091d54497ad40801ff2"
+  }
+}

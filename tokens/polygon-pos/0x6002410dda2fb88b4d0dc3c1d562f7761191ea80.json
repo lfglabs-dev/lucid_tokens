@@ -1,0 +1,15 @@
+{
+  "symbol": "WORK",
+  "name": "The Employment Commons Work Token (PoS)",
+  "address": "0x6002410dda2fb88b4d0dc3c1d562f7761191ea80",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18546/thumb/mXSw8Qw.png?1632362691",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x6002410dda2fb88b4d0dc3c1d562f7761191ea80"
+  }
+}

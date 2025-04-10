@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGE-1SAT",
+  "name": "DOGE-1SATELLITE",
+  "address": "0x6f9320833d85a63c6a187cf9ada0f87930e61690",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32415/thumb/Safeimagekit-resized-img_%285%29.png?1698114051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6f9320833d85a63c6a187cf9ada0f87930e61690"
+  }
+}

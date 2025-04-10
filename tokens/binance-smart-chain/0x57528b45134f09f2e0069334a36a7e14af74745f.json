@@ -1,0 +1,15 @@
+{
+  "symbol": "SUGAR",
+  "name": "SugarYield",
+  "address": "0x57528b45134f09f2e0069334a36a7e14af74745f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29026/thumb/Safeimagekit-resized-img.png?1676018993",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57528b45134f09f2e0069334a36a7e14af74745f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LFIT",
+  "name": "LFIT",
+  "address": "0x5b901182b9b2820a713ff5d88519999c550d40e8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50322/thumb/lfit.png?1727160234",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5b901182b9b2820a713ff5d88519999c550d40e8"
+  }
+}

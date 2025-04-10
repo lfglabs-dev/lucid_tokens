@@ -1,0 +1,15 @@
+{
+  "symbol": "SKITTEN",
+  "name": "Ski Mask Kitten",
+  "address": "0x4b6104755afb5da4581b81c552da3a25608c73b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54128/thumb/rug_skitten.jpg?1738393460",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4b6104755afb5da4581b81c552da3a25608c73b8"
+  }
+}

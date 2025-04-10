@@ -1,0 +1,15 @@
+{
+  "symbol": "Web3D",
+  "name": "Web3D Token",
+  "address": "0x7ed9054c48088bb8cfc5c5fbc32775b9455a13f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53185/thumb/Web3d20_200px.png?1735563665",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7ed9054c48088bb8cfc5c5fbc32775b9455a13f7"
+  }
+}

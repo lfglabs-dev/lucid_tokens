@@ -1,0 +1,15 @@
+{
+  "symbol": "PIT",
+  "name": "Pitbull",
+  "address": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15927/thumb/pitbull2.png?1649142523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50"
+  }
+}

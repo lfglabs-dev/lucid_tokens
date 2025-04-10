@@ -1,0 +1,15 @@
+{
+  "symbol": "ZMBE",
+  "name": "Zombie Token",
+  "address": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18670/thumb/MKHznEfH_400x400.jpg?1632875374",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5"
+  }
+}

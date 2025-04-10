@@ -1,0 +1,15 @@
+{
+  "symbol": "BSC-HO",
+  "name": "Binance-Peg BSC-HO",
+  "address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17407/thumb/HALO_logo.png?1627541114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x41515885251e724233c6ca94530d6dcf3a20dec7"
+  }
+}

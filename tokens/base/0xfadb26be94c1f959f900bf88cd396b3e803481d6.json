@@ -1,0 +1,15 @@
+{
+  "symbol": "ESMX",
+  "name": "ESM X Token",
+  "address": "0xfadb26be94c1f959f900bf88cd396b3e803481d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37752/thumb/output-onlinepngtools.png?1715445992",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfadb26be94c1f959f900bf88cd396b3e803481d6"
+  }
+}

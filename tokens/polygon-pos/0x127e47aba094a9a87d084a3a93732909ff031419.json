@@ -1,0 +1,18 @@
+{
+  "symbol": "GNUS",
+  "name": "Genius Token & NFT Collections",
+  "address": "0x127e47aba094a9a87d084a3a93732909ff031419",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36914/thumb/IMG_5346.png?1712769235",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x127e47aba094a9a87d084a3a93732909ff031419",
+    "ethereum": "0x614577036f0a024dbc1c88ba616b394dd65d105a",
+    "binance-smart-chain": "0x614577036f0a024dbc1c88ba616b394dd65d105a",
+    "base": "0x614577036f0a024dbc1c88ba616b394dd65d105a"
+  }
+}

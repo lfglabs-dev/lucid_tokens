@@ -1,0 +1,15 @@
+{
+  "symbol": "BARON",
+  "name": "Baron Von Whiskers by Virtuals",
+  "address": "0x89cd293538c2390992cdfb3520cfb136748cd9b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53452/thumb/BARON.png?1736401912",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x89cd293538c2390992cdfb3520cfb136748cd9b9"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "XFT",
+  "name": "Offshift ",
+  "address": "0xe138c66982fd5c890c60b94fdba1747faf092c20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1614570441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae",
+    "binance-smart-chain": "0xe138c66982fd5c890c60b94fdba1747faf092c20"
+  }
+}

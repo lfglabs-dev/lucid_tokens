@@ -1,0 +1,15 @@
+{
+  "symbol": "VERUM",
+  "name": "Verum Coin",
+  "address": "0xe6e4d9e1ddd783b6beeccc059abc17be88ee1a03",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37385/thumb/verum.png?1714233971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe6e4d9e1ddd783b6beeccc059abc17be88ee1a03"
+  }
+}

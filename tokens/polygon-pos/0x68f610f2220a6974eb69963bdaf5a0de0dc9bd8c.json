@@ -1,0 +1,15 @@
+{
+  "symbol": "SMB",
+  "name": "SMB Token",
+  "address": "0x68f610f2220a6974eb69963bdaf5a0de0dc9bd8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54870/thumb/smb-token.png?1742201938",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x68f610f2220a6974eb69963bdaf5a0de0dc9bd8c"
+  }
+}

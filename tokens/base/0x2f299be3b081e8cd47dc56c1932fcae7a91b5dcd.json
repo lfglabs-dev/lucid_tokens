@@ -1,0 +1,15 @@
+{
+  "symbol": "XTTA",
+  "name": "XTTA",
+  "address": "0x2f299be3b081e8cd47dc56c1932fcae7a91b5dcd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54021/thumb/hdtWTejS_400x400.jpg?1738008678",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2f299be3b081e8cd47dc56c1932fcae7a91b5dcd"
+  }
+}

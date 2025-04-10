@@ -1,0 +1,15 @@
+{
+  "symbol": "EYE",
+  "name": "Eye Future by Virtuals",
+  "address": "0x5537a24ad7e8d68aec165dcff6d2f8c23605417f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53621/thumb/ezgif-6-4c84951698.png?1736895817",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5537a24ad7e8d68aec165dcff6d2f8c23605417f"
+  }
+}

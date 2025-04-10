@@ -1,0 +1,15 @@
+{
+  "symbol": "WIRE",
+  "name": "717ai by Virtuals",
+  "address": "0x0b3ae50babe7ffa4e1a50569cee6bdefd4ccaee0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53470/thumb/717ai_Image.jpeg?1736464363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0b3ae50babe7ffa4e1a50569cee6bdefd4ccaee0"
+  }
+}

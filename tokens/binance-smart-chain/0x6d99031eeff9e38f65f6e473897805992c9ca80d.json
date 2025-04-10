@@ -1,0 +1,15 @@
+{
+  "symbol": "BNC",
+  "name": "BNC",
+  "address": "0x6d99031eeff9e38f65f6e473897805992c9ca80d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54926/thumb/BNC200.jpg?1742558889",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d99031eeff9e38f65f6e473897805992c9ca80d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$poop",
+  "name": "poopcoin",
+  "address": "0x686b1209b2de12818aa69dd139530448d0c792b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36549/thumb/poopcoin.png?1711876394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x686b1209b2de12818aa69dd139530448d0c792b3"
+  }
+}

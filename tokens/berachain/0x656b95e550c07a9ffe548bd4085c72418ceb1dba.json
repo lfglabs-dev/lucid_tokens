@@ -1,0 +1,15 @@
+{
+  "symbol": "BGT",
+  "name": "Bera Governance Token",
+  "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54193/thumb/BGT.jpg?1738723845",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "VEXT",
+  "name": "Veloce",
+  "address": "0x27842334c55c01ddfe81bf687425f906816c5141",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31214/thumb/VEXT_Logo.jpg?1691461995",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x27842334c55c01ddfe81bf687425f906816c5141",
+    "ethereum": "0xb2492e97a68a6e4b9e9a11b99f6c42e5accd38c7"
+  }
+}

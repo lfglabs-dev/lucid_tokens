@@ -1,0 +1,15 @@
+{
+  "symbol": "CHAPZ",
+  "name": "Chappyz",
+  "address": "0x7b56748a3ef9970a5bae99c58ad8bc67b26c525f",
+  "decimals": 10,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32728/thumb/Chappyz200x200.png?1699217057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7b56748a3ef9970a5bae99c58ad8bc67b26c525f"
+  }
+}

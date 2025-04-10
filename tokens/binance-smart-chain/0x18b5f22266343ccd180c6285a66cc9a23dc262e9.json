@@ -1,0 +1,15 @@
+{
+  "symbol": "EVU",
+  "name": "Evulus Token",
+  "address": "0x18b5f22266343ccd180c6285a66cc9a23dc262e9",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22081/thumb/isotipo-evulus.png?1640759271",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x18b5f22266343ccd180c6285a66cc9a23dc262e9"
+  }
+}

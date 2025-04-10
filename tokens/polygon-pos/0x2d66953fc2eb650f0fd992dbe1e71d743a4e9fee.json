@@ -1,0 +1,15 @@
+{
+  "symbol": "NOTES",
+  "name": "Backstage Pass Notes",
+  "address": "0x2d66953fc2eb650f0fd992dbe1e71d743a4e9fee",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36846/thumb/E44F80B4-2565-4AC3-93FD-139AC3438A2C.png?1712583429",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2d66953fc2eb650f0fd992dbe1e71d743a4e9fee"
+  }
+}

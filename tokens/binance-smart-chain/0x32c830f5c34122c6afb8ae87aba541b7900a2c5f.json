@@ -1,0 +1,15 @@
+{
+  "symbol": "ynBNBx",
+  "name": "ynBNB MAX",
+  "address": "0x32c830f5c34122c6afb8ae87aba541b7900a2c5f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53305/thumb/ynBNBx.png?1736066110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x32c830f5c34122c6afb8ae87aba541b7900a2c5f"
+  }
+}

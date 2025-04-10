@@ -1,0 +1,15 @@
+{
+  "symbol": "GUAN",
+  "name": "Guanciale by Virtuals",
+  "address": "0xcc0adb6c436eb1f65b2f27733bf926691b94c5f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51865/thumb/Untitled_%283%29.png?1732085679",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcc0adb6c436eb1f65b2f27733bf926691b94c5f1"
+  }
+}

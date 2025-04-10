@@ -1,0 +1,15 @@
+{
+  "symbol": "USDW",
+  "name": "USDW",
+  "address": "0xab670fdfb0060bdc6508b84a309ff41b56ccaf3f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53736/thumb/USDW200.png?1737147609",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xab670fdfb0060bdc6508b84a309ff41b56ccaf3f"
+  }
+}

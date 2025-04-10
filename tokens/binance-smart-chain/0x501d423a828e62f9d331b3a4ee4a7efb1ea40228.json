@@ -1,0 +1,15 @@
+{
+  "symbol": "CHONK",
+  "name": "Chonk The Cat",
+  "address": "0x501d423a828e62f9d331b3a4ee4a7efb1ea40228",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35943/thumb/2024-03-10_11.46.03.jpg?1710233570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x501d423a828e62f9d331b3a4ee4a7efb1ea40228"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "CPY",
+  "name": "CoinPays",
+  "address": "0xdc3254103c348c1026f3ef7e9951e5e812b8eadc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39867/thumb/200x200cp.png?1724484934",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "areon-network": "0xdc3254103c348c1026f3ef7e9951e5e812b8eadc",
+    "binance-smart-chain": "0xdc3254103c348c1026f3ef7e9951e5e812b8eadc"
+  }
+}

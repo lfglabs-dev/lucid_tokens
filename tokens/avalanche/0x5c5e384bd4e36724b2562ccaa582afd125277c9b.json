@@ -1,0 +1,15 @@
+{
+  "symbol": "ARROW",
+  "name": "ArrowToken",
+  "address": "0x5c5e384bd4e36724b2562ccaa582afd125277c9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37676/thumb/Token.png?1715193165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x5c5e384bd4e36724b2562ccaa582afd125277c9b"
+  }
+}

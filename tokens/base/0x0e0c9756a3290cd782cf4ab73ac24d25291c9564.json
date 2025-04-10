@@ -1,0 +1,15 @@
+{
+  "symbol": "ANIME",
+  "name": "Anime",
+  "address": "0x0e0c9756a3290cd782cf4ab73ac24d25291c9564",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36565/thumb/anime.png?1711935252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0e0c9756a3290cd782cf4ab73ac24d25291c9564"
+  }
+}

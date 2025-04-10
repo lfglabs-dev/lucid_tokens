@@ -1,0 +1,15 @@
+{
+  "symbol": "steakETH",
+  "name": "Steakhouse ETH",
+  "address": "0xbeef050a7485865a7a8d8ca0cc5f7536b7a3443e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52606/thumb/steakETH.png?1733757574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbeef050a7485865a7a8d8ca0cc5f7536b7a3443e"
+  }
+}

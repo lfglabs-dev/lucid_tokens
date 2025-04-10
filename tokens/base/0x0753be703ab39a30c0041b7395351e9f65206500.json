@@ -1,0 +1,15 @@
+{
+  "symbol": "DAU",
+  "name": "Daily Active Users",
+  "address": "0x0753be703ab39a30c0041b7395351e9f65206500",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38305/thumb/dau.png?1717047632",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0753be703ab39a30c0041b7395351e9f65206500"
+  }
+}

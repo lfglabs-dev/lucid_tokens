@@ -1,0 +1,15 @@
+{
+  "symbol": "Baldo",
+  "name": "Balddog",
+  "address": "0xd2faa0caee8421959aa13fbd20a7ed7e93702ffe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36287/thumb/0xD2FAA0cAeE8421959aa13Fbd20A7ed7e93702FFE.png?1711008902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd2faa0caee8421959aa13fbd20a7ed7e93702ffe"
+  }
+}

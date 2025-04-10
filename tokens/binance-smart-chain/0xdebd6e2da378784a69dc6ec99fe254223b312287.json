@@ -1,0 +1,15 @@
+{
+  "symbol": "EXIT",
+  "name": "DESIGNER TOKEN",
+  "address": "0xdebd6e2da378784a69dc6ec99fe254223b312287",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38970/thumb/EXIT_LOGO_200x200.png?1719712689",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdebd6e2da378784a69dc6ec99fe254223b312287"
+  }
+}

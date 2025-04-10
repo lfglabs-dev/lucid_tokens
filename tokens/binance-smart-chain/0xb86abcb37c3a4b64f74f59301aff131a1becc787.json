@@ -1,0 +1,15 @@
+{
+  "symbol": "ZIL",
+  "name": "Zilliqa",
+  "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2687/thumb/Zilliqa-logo.png?1547036894",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+  }
+}

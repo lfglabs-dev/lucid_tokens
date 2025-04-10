@@ -1,0 +1,16 @@
+{
+  "symbol": "QUICK",
+  "name": "Quickswap",
+  "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13970/thumb/1_pOU6pBMEmiL-ZJVb0CYRjQ.png?1613386659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+    "polygon-pos": "0x831753dd7087cac61ab5644b308642cc1c33dc13"
+  }
+}

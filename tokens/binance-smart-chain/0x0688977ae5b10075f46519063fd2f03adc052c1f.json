@@ -1,0 +1,15 @@
+{
+  "symbol": "$5SCAPE",
+  "name": "5thScape",
+  "address": "0x0688977ae5b10075f46519063fd2f03adc052c1f",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54304/thumb/Untitled_design_%2816%29.png?1739180825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0688977ae5b10075f46519063fd2f03adc052c1f"
+  }
+}

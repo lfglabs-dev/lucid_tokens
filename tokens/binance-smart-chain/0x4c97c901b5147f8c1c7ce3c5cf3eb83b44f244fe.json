@@ -1,0 +1,15 @@
+{
+  "symbol": "MND",
+  "name": "Mound Token",
+  "address": "0x4c97c901b5147f8c1c7ce3c5cf3eb83b44f244fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17922/thumb/token-mnd.83a59964.png?1629790253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c97c901b5147f8c1c7ce3c5cf3eb83b44f244fe"
+  }
+}

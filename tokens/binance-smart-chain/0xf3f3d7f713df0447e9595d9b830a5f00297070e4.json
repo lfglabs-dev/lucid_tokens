@@ -1,0 +1,15 @@
+{
+  "symbol": "MOT",
+  "name": "MOTHEREARTH",
+  "address": "0xf3f3d7f713df0447e9595d9b830a5f00297070e4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22205/thumb/5NKM1gkZ_400x400.jpg?1641194152",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf3f3d7f713df0447e9595d9b830a5f00297070e4"
+  }
+}

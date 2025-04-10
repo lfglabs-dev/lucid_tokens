@@ -1,0 +1,15 @@
+{
+  "symbol": "AAAI",
+  "name": "AAAI_agent by Virtuals",
+  "address": "0x8c23e759ca0822beeff603bacaceb16d84e9a1cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53402/thumb/AAAI-200by200.png?1736284466",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8c23e759ca0822beeff603bacaceb16d84e9a1cf"
+  }
+}

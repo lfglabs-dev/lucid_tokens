@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGEMOB",
+  "name": "DOGEMOB",
+  "address": "0xc44f8508e1de753e7c523f98639132eef2ad8ea5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36571/thumb/photo_2024-03-14_12-31-16-removebg-preview_-_Fixed_Marco_%281%29.png?1711937001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc44f8508e1de753e7c523f98639132eef2ad8ea5"
+  }
+}

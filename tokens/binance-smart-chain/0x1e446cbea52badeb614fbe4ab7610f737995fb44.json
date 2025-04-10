@@ -1,0 +1,15 @@
+{
+  "symbol": "SAT",
+  "name": "Saturna",
+  "address": "0x1e446cbea52badeb614fbe4ab7610f737995fb44",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15545/thumb/dkejn0.png?1621296947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1e446cbea52badeb614fbe4ab7610f737995fb44"
+  }
+}

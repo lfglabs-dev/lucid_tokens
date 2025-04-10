@@ -1,0 +1,17 @@
+{
+  "symbol": "FPIS",
+  "name": "Frax Price Index Share",
+  "address": "0xd1738eb733a636d1b8665f48bc8a24da889c2562",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24944/thumb/fpis.png?1649485832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
+    "binance-smart-chain": "0xd1738eb733a636d1b8665f48bc8a24da889c2562",
+    "arbitrum-one": "0x3405e88af759992937b84e58f2fe691ef0eea320"
+  }
+}

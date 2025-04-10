@@ -1,0 +1,15 @@
+{
+  "symbol": "GLOOM",
+  "name": "Gloom",
+  "address": "0xbb5d04c40fa063faf213c4e0b8086655164269ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37179/thumb/Gloom_Token.png?1713513885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbb5d04c40fa063faf213c4e0b8086655164269ef"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AIFUN",
+  "name": "AI Agent Layer",
+  "address": "0xbdf317f9c153246c429f23f4093087164b145390",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51634/thumb/logo_400x400.png?1731686436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbdf317f9c153246c429f23f4093087164b145390"
+  }
+}

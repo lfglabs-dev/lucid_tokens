@@ -1,0 +1,15 @@
+{
+  "symbol": "ARGON",
+  "name": "ArgonToken",
+  "address": "0x851f7a700c5d67db59612b871338a85526752c25",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14280/thumb/200x200-no-bg.png?1623038929",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x851f7a700c5d67db59612b871338a85526752c25"
+  }
+}

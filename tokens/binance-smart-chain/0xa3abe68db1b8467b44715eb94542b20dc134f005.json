@@ -1,0 +1,15 @@
+{
+  "symbol": "FLUF",
+  "name": "Fluffy Coin",
+  "address": "0xa3abe68db1b8467b44715eb94542b20dc134f005",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20656/thumb/fluf.png?1638775190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa3abe68db1b8467b44715eb94542b20dc134f005"
+  }
+}

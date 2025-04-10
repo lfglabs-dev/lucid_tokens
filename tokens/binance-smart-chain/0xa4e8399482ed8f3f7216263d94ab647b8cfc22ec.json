@@ -1,0 +1,15 @@
+{
+  "symbol": "PLAYFI",
+  "name": "PlayFiStudio",
+  "address": "0xa4e8399482ed8f3f7216263d94ab647b8cfc22ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36773/thumb/pfiCircleLogo_Alt_Alpha_200.png?1712287250",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa4e8399482ed8f3f7216263d94ab647b8cfc22ec"
+  }
+}

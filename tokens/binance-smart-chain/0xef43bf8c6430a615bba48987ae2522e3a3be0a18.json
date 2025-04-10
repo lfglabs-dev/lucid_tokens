@@ -1,0 +1,15 @@
+{
+  "symbol": "SAY",
+  "name": "SAYCOIN",
+  "address": "0xef43bf8c6430a615bba48987ae2522e3a3be0a18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39863/thumb/SAY.png?1724377703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xef43bf8c6430a615bba48987ae2522e3a3be0a18"
+  }
+}

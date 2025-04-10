@@ -1,0 +1,15 @@
+{
+  "symbol": "AKUMA",
+  "name": "Akuma Inu",
+  "address": "0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52182/thumb/IMG_7527.PNG?1732690402",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6"
+  }
+}

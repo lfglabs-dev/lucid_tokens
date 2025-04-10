@@ -1,0 +1,15 @@
+{
+  "symbol": "ZAX",
+  "name": "ZILLION AAKAR XO",
+  "address": "0x9a2478c4036548864d96a97fbf93f6a3341fedac",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26515/thumb/tg_image_4289710331.jpeg?1658450397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9a2478c4036548864d96a97fbf93f6a3341fedac"
+  }
+}

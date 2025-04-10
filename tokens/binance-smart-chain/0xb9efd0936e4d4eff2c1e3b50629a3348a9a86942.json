@@ -1,0 +1,15 @@
+{
+  "symbol": "SantaGrok",
+  "name": "Santa Grok",
+  "address": "0xb9efd0936e4d4eff2c1e3b50629a3348a9a86942",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33508/thumb/IMG_20231207_213428_706-removebg_%281%29.png?1702039945",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb9efd0936e4d4eff2c1e3b50629a3348a9a86942"
+  }
+}

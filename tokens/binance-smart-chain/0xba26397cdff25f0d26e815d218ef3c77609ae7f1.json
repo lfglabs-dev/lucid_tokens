@@ -1,0 +1,15 @@
+{
+  "symbol": "LYPTUS",
+  "name": "Lyptus Token",
+  "address": "0xba26397cdff25f0d26e815d218ef3c77609ae7f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15992/thumb/logo_-_2021-06-01T193417.635.png?1622547404",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xba26397cdff25f0d26e815d218ef3c77609ae7f1"
+  }
+}

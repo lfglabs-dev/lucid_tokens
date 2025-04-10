@@ -1,0 +1,17 @@
+{
+  "symbol": "LMWR",
+  "name": "LimeWire Token",
+  "address": "0x307bc76e3d59ed73886a9cf9360a9286f6281ba7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30356/thumb/LimeWire_Logo_Icon_200x200_%281%29.png?1684230574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88",
+    "binance-smart-chain": "0x307bc76e3d59ed73886a9cf9360a9286f6281ba7",
+    "base": "0xe997017e0cb0ceb503565f181e9ea922cd979c35"
+  }
+}

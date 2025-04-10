@@ -1,0 +1,16 @@
+{
+  "symbol": "FROGE",
+  "name": "froge.finance",
+  "address": "0x93ab30c08421750d5c7993fb621c6ff32fe3f89e",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14775/thumb/-p8cz7Bk_400x400.png?1618371907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5fa54fddf1870c344dbfabb37dfab8700ec0def1",
+    "binance-smart-chain": "0x93ab30c08421750d5c7993fb621c6ff32fe3f89e"
+  }
+}

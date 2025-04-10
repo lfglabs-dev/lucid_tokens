@@ -1,0 +1,15 @@
+{
+  "symbol": "LYK",
+  "name": "LAYERK",
+  "address": "0xf50441d584d435e5f917c8201f72ca2b1b7f1d04",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50444/thumb/LayerK.png?1727770132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf50441d584d435e5f917c8201f72ca2b1b7f1d04"
+  }
+}

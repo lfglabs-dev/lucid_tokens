@@ -1,0 +1,15 @@
+{
+  "symbol": "ALITA",
+  "name": "ALITA GOLD",
+  "address": "0x5525821d99d3c3892f7c9aa3fa752d48c8764668",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50321/thumb/200-200.png?1727160020",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5525821d99d3c3892f7c9aa3fa752d48c8764668"
+  }
+}

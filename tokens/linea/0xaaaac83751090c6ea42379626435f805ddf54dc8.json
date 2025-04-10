@@ -1,0 +1,15 @@
+{
+  "symbol": "NILE",
+  "name": "NILE Token",
+  "address": "0xaaaac83751090c6ea42379626435f805ddf54dc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xaaaac83751090c6ea42379626435f805ddf54dc8"
+  }
+}

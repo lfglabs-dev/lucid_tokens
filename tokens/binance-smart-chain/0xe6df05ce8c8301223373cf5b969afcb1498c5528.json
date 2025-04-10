@@ -1,0 +1,15 @@
+{
+  "symbol": "KOGE",
+  "name": "BNB48 Club Token",
+  "address": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13827/thumb/bnb48.png?1612154326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe6df05ce8c8301223373cf5b969afcb1498c5528"
+  }
+}

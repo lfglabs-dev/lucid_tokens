@@ -1,0 +1,15 @@
+{
+  "symbol": "gatto",
+  "name": "Madonna del gatto",
+  "address": "0x8b4c03308579a0c4166b44f84565d97378303247",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52825/thumb/gatto.jpg?1734430636",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8b4c03308579a0c4166b44f84565d97378303247"
+  }
+}

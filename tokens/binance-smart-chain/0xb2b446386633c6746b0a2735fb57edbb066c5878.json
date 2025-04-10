@@ -1,0 +1,16 @@
+{
+  "symbol": "inslisBNB",
+  "name": "Inception Restaked slisBNB",
+  "address": "0xb2b446386633c6746b0a2735fb57edbb066c5878",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51973/thumb/inslisBNB.png?1732282282",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x74d1984a64f447371be4019920180b52a33adadd",
+    "binance-smart-chain": "0xb2b446386633c6746b0a2735fb57edbb066c5878"
+  }
+}

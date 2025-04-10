@@ -1,0 +1,17 @@
+{
+  "symbol": "RAMP",
+  "name": "RAMP (PoS)",
+  "address": "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12837/thumb/RAMP-Logo-v2-1000pxsq.png?1617952606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
+    "binance-smart-chain": "0x8519ea49c997f50ceffa444d240fb655e89248aa",
+    "polygon-pos": "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2"
+  }
+}

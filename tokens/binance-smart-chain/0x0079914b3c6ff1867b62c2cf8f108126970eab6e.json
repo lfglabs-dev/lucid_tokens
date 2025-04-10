@@ -1,0 +1,15 @@
+{
+  "symbol": "W3W",
+  "name": "Web3 Whales",
+  "address": "0x0079914b3c6ff1867b62c2cf8f108126970eab6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30763/thumb/Pinksle.png?1686891636",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0079914b3c6ff1867b62c2cf8f108126970eab6e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MONEYBEE",
+  "name": "MONEYBEE",
+  "address": "0x420697291f6ce9fbb34e9feddd61868ca2f81f5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37766/thumb/Mb200.png?1715480309",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x420697291f6ce9fbb34e9feddd61868ca2f81f5c"
+  }
+}

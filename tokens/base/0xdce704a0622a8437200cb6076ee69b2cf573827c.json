@@ -1,0 +1,15 @@
+{
+  "symbol": "SPEC",
+  "name": "Speculate",
+  "address": "0xdce704a0622a8437200cb6076ee69b2cf573827c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37214/thumb/Speculate_Coingecko_Logo.png?1713773507",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdce704a0622a8437200cb6076ee69b2cf573827c"
+  }
+}

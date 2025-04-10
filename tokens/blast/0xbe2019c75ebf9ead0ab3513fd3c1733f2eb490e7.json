@@ -1,0 +1,18 @@
+{
+  "symbol": "BTCW.d",
+  "name": "WisdomTree Bitcoin Fund - Dinari",
+  "address": "0xbe2019c75ebf9ead0ab3513fd3c1733f2eb490e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xc52915fe75dc8db9fb6306f43aaef1344e0837ab",
+    "ethereum": "0x18c278edc2ed4ed9d23a8a73a3a6ed014094b784",
+    "blast": "0xbe2019c75ebf9ead0ab3513fd3c1733f2eb490e7",
+    "base": "0xe1338b131647a4d6123b6af912f295954067a766"
+  }
+}

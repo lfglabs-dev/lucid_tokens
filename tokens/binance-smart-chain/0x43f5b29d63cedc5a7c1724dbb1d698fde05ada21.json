@@ -1,0 +1,17 @@
+{
+  "symbol": "FODL",
+  "name": "Fodl",
+  "address": "0x43f5b29d63cedc5a7c1724dbb1d698fde05ada21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19040/thumb/new.jpg?1634559024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3",
+    "binance-smart-chain": "0x43f5b29d63cedc5a7c1724dbb1d698fde05ada21",
+    "polygon-pos": "0x5314ba045a459f63906aa7c76d9f337dcb7d6995"
+  }
+}

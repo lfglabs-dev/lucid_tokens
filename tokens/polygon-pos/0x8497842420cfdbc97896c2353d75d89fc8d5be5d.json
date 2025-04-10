@@ -1,0 +1,16 @@
+{
+  "symbol": "VERSA",
+  "name": "VersaGames",
+  "address": "0x8497842420cfdbc97896c2353d75d89fc8d5be5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25491/thumb/versa_token_96_96.png?1652074785",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0x00d7699b71290094ccb1a5884cd835bd65a78c17",
+    "polygon-pos": "0x8497842420cfdbc97896c2353d75d89fc8d5be5d"
+  }
+}

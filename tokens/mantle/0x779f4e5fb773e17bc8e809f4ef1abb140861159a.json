@@ -1,0 +1,16 @@
+{
+  "symbol": "KTC",
+  "name": "KTX Community Token",
+  "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1684912193",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+    "binance-smart-chain": "0x545356d4d69d8cd1213ee7e339867574738751ca"
+  }
+}

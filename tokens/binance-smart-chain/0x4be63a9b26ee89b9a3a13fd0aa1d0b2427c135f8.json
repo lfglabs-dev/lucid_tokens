@@ -1,0 +1,15 @@
+{
+  "symbol": "XCV",
+  "name": "XCarnival",
+  "address": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19232/thumb/82644942.png?1634768005",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8"
+  }
+}

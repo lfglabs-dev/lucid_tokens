@@ -1,0 +1,24 @@
+{
+  "symbol": "KNC",
+  "name": "Kyber Network Crystal v2",
+  "address": "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14899/thumb/RwdVsGcw_400x400.jpg?1618923851",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+    "polygon-zkevm": "0x6a80a465409ce8d36c513129c0feea61bed579ba",
+    "zksync": "0x6ee46cb7cd2f15ee1ec9534cf29a5b51c83283e6",
+    "optimistic-ethereum": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+    "linea": "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6",
+    "binance-smart-chain": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+    "fantom": "0x1e1085efaa63edfe74aad7c05a28eae4ef917c3f",
+    "avalanche": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+    "arbitrum-one": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
+    "polygon-pos": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c"
+  }
+}

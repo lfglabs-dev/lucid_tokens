@@ -1,0 +1,16 @@
+{
+  "symbol": "BLXM",
+  "name": "bloXmove Token",
+  "address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19310/thumb/blxm_200x200.png?1635238192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
+    "binance-smart-chain": "0x40e51e0ec04283e300f12f6bb98da157bb22036e"
+  }
+}

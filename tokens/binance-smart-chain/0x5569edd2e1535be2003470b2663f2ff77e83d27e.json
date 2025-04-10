@@ -1,0 +1,15 @@
+{
+  "symbol": "KOL",
+  "name": "KeyOfLife.ai - the AI ETF on Multichain",
+  "address": "0x5569edd2e1535be2003470b2663f2ff77e83d27e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35646/thumb/KOL-200x200_%281%29.png?1709369036",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5569edd2e1535be2003470b2663f2ff77e83d27e"
+  }
+}

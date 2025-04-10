@@ -1,0 +1,15 @@
+{
+  "symbol": "BAPE",
+  "name": "BaseApe",
+  "address": "0x09f29e2acdb76a831668b03ce2e3ad7bb41aaa5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31211/thumb/bapeicon.png?1691402979",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x09f29e2acdb76a831668b03ce2e3ad7bb41aaa5c"
+  }
+}

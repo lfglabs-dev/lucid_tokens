@@ -1,0 +1,15 @@
+{
+  "symbol": "MMIT",
+  "name": "Mango Man Intelligent",
+  "address": "0x9767c8e438aa18f550208e6d1fdf5f43541cc2c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26687/thumb/Mr._B.png?1659601403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9767c8e438aa18f550208e6d1fdf5f43541cc2c8"
+  }
+}

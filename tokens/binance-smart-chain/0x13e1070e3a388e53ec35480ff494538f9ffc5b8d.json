@@ -1,0 +1,15 @@
+{
+  "symbol": "BRICKS",
+  "name": "BRICKS",
+  "address": "0x13e1070e3a388e53ec35480ff494538f9ffc5b8d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17311/thumb/DEV6onU.png?1627278432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x13e1070e3a388e53ec35480ff494538f9ffc5b8d"
+  }
+}

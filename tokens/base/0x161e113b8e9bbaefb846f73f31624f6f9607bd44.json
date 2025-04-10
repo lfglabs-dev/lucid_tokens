@@ -1,0 +1,15 @@
+{
+  "symbol": "SIMMI",
+  "name": "Simmi Token",
+  "address": "0x161e113b8e9bbaefb846f73f31624f6f9607bd44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52349/thumb/simmi.png?1733160996",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x161e113b8e9bbaefb846f73f31624f6f9607bd44"
+  }
+}

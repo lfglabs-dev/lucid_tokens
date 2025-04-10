@@ -1,0 +1,15 @@
+{
+  "symbol": "FRK",
+  "name": "FR KUMA Interest Bearing Token",
+  "address": "0x2cb7285733a30bb08303b917a7a519c88146c6eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33447/thumb/FRK-logo-Black.png?1701856504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2cb7285733a30bb08303b917a7a519c88146c6eb"
+  }
+}

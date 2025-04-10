@@ -1,0 +1,15 @@
+{
+  "symbol": "BLUNNY",
+  "name": "Blunny",
+  "address": "0x7546e0d4d947a15f914e33de6616ffed826f45ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38993/thumb/Design_sem_nome_-_2024-06-29T042322.940.png?1719808715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7546e0d4d947a15f914e33de6616ffed826f45ef"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ECO",
+  "name": "EcoToken",
+  "address": "0xede2f059545e8cde832d8da3985caacf795b8765",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8923/thumb/logo_eco_low.png?1562902804",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+    "binance-smart-chain": "0xede2f059545e8cde832d8da3985caacf795b8765"
+  }
+}

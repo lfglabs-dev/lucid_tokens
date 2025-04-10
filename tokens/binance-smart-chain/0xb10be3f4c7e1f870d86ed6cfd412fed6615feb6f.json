@@ -1,0 +1,15 @@
+{
+  "symbol": "PRI",
+  "name": "Privateum",
+  "address": "0xb10be3f4c7e1f870d86ed6cfd412fed6615feb6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14995/thumb/privateum_logo_200x200.png?1619391247",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb10be3f4c7e1f870d86ed6cfd412fed6615feb6f"
+  }
+}

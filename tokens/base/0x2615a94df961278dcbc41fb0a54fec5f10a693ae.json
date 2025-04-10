@@ -1,0 +1,16 @@
+{
+  "symbol": "uXRP",
+  "name": "XRP (Universal)",
+  "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51658/thumb/UA-XRP_1.png?1731703523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+    "world-chain": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae"
+  }
+}

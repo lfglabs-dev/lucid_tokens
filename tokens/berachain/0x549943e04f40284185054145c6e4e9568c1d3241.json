@@ -1,0 +1,15 @@
+{
+  "symbol": "USDC.e",
+  "name": "Bridged USDC (Stargate)",
+  "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54336/thumb/usdc.jpg?1739335056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x549943e04f40284185054145c6e4e9568c1d3241"
+  }
+}

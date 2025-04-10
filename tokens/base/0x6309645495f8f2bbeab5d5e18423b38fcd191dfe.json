@@ -1,0 +1,17 @@
+{
+  "symbol": "ARKK.d",
+  "name": "ARK Innovation ETF - Dinari",
+  "address": "0x6309645495f8f2bbeab5d5e18423b38fcd191dfe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1a4fd0e749c86eeb6f80d1047d6c25432c703d48",
+    "blast": "0x87084c981709878e3c806ad45fb01e3522e08123",
+    "base": "0x6309645495f8f2bbeab5d5e18423b38fcd191dfe"
+  }
+}

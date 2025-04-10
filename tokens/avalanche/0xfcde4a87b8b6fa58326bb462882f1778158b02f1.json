@@ -1,0 +1,16 @@
+{
+  "symbol": "WXT",
+  "name": "Wirex Token",
+  "address": "0xfcde4a87b8b6fa58326bb462882f1778158b02f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8835/thumb/Wirex.jpg?1561970529",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+    "avalanche": "0xfcde4a87b8b6fa58326bb462882f1778158b02f1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FTPXBT",
+  "name": "FOR THE PEOPLE XBT",
+  "address": "0xe1b8f4053de96ab94513864f409ac72d752a3703",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54603/thumb/1000323047.jpg?1740639389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe1b8f4053de96ab94513864f409ac72d752a3703"
+  }
+}

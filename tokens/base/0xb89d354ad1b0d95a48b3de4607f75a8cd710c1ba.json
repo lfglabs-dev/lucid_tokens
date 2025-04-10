@@ -1,0 +1,15 @@
+{
+  "symbol": "LAY",
+  "name": "Loomlay",
+  "address": "0xb89d354ad1b0d95a48b3de4607f75a8cd710c1ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53358/thumb/lay1.jpg?1736191645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb89d354ad1b0d95a48b3de4607f75a8cd710c1ba"
+  }
+}

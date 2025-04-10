@@ -1,0 +1,15 @@
+{
+  "symbol": "BR",
+  "name": "Bedrock",
+  "address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41"
+  }
+}

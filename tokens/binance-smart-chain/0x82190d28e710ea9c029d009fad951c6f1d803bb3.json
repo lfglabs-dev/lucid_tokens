@@ -1,0 +1,16 @@
+{
+  "symbol": "LIFE",
+  "name": "Life Crypto",
+  "address": "0x82190d28e710ea9c029d009fad951c6f1d803bb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18245/thumb/Logo.10eb9d1a.png?1631081085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c936d4ae98e6d2172db18c16c4b601c99918ee6",
+    "binance-smart-chain": "0x82190d28e710ea9c029d009fad951c6f1d803bb3"
+  }
+}

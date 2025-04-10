@@ -1,0 +1,16 @@
+{
+  "symbol": "AIMR",
+  "name": "MeromAI",
+  "address": "0x741777f6b6d8145041f73a0bddd35ae81f55a40f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38491/thumb/YPg513HP_400x400.jpg?1717688335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcfd16933cb1579eee9fe6031686534e87353b148",
+    "base": "0x741777f6b6d8145041f73a0bddd35ae81f55a40f"
+  }
+}

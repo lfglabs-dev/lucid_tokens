@@ -1,0 +1,15 @@
+{
+  "symbol": "BNB Card",
+  "name": "BNB Card",
+  "address": "0xdc06717f367e57a16e06cce0c4761604460da8fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54916/thumb/2025-03-18_20.01.36.jpg?1742494879",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdc06717f367e57a16e06cce0c4761604460da8fc"
+  }
+}

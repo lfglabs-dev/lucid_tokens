@@ -1,0 +1,15 @@
+{
+  "symbol": "aPolAGEUR",
+  "name": "Aave Polygon AGEUR",
+  "address": "0x8437d7c167dfb82ed4cb79cd44b7a32a1dd95c77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32925/thumb/eur.png?1699826217",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8437d7c167dfb82ed4cb79cd44b7a32a1dd95c77"
+  }
+}

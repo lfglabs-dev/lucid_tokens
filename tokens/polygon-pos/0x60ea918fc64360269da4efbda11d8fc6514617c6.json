@@ -1,0 +1,16 @@
+{
+  "symbol": "SUKU",
+  "name": "SUKU (PoS)",
+  "address": "0x60ea918fc64360269da4efbda11d8fc6514617c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7",
+    "polygon-pos": "0x60ea918fc64360269da4efbda11d8fc6514617c6"
+  }
+}

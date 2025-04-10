@@ -1,0 +1,15 @@
+{
+  "symbol": "NFTBS",
+  "name": "NFTBOOKS",
+  "address": "0x6396252377f54ad33cff9131708da075b21d9b88",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17291/thumb/200x200_newBook.png?1633259260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x6396252377f54ad33cff9131708da075b21d9b88"
+  }
+}

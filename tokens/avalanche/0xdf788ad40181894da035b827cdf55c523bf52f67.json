@@ -1,0 +1,15 @@
+{
+  "symbol": "rsAVAX",
+  "name": "Yak Milk Suzaku Restaked sAVAX",
+  "address": "0xdf788ad40181894da035b827cdf55c523bf52f67",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53554/thumb/rsAVAX_token_200px.png?1736673271",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xdf788ad40181894da035b827cdf55c523bf52f67"
+  }
+}

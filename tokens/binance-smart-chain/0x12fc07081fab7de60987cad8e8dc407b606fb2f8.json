@@ -1,0 +1,15 @@
+{
+  "symbol": "DARK",
+  "name": "Dark Token",
+  "address": "0x12fc07081fab7de60987cad8e8dc407b606fb2f8",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18856/thumb/dark.png?1633597226",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x12fc07081fab7de60987cad8e8dc407b606fb2f8"
+  }
+}

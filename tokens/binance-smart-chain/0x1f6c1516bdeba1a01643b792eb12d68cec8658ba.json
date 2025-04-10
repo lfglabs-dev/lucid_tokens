@@ -1,0 +1,15 @@
+{
+  "symbol": "SHACK",
+  "name": "Shackleford",
+  "address": "0x1f6c1516bdeba1a01643b792eb12d68cec8658ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34213/thumb/ShacklefordTokenLogo--200x200.png?1704277276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1f6c1516bdeba1a01643b792eb12d68cec8658ba"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "gib",
+  "name": "gibape",
+  "address": "0x589864a9892b1a736ae70a91824ab4dc591fd8cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37691/thumb/COIN_LOGO.jpeg?1715231120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x589864a9892b1a736ae70a91824ab4dc591fd8cd"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "SPACES",
+  "name": "AstroSpaces.io",
+  "address": "0x156df0dd6300c73ac692d805720967cf4464776e",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22394/thumb/17014.png?1641792560",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x156df0dd6300c73ac692d805720967cf4464776e",
+    "proof-of-memes": "0x90242d0a1bc0aace16585848e3a032949539bbcc"
+  }
+}

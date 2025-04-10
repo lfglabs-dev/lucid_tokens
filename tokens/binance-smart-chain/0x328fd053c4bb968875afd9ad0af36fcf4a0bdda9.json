@@ -1,0 +1,16 @@
+{
+  "symbol": "AGII",
+  "name": "AGII",
+  "address": "0x328fd053c4bb968875afd9ad0af36fcf4a0bdda9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x328fd053c4bb968875afd9ad0af36fcf4a0bdda9",
+    "ethereum": "0x75d86078625d1e2f612de2627d34c7bc411c18b8"
+  }
+}

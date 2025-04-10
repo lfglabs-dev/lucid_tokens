@@ -1,0 +1,15 @@
+{
+  "symbol": "BSCX",
+  "name": "BSCX",
+  "address": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13582/thumb/icon-bscex-200x200.png?1609917200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587"
+  }
+}

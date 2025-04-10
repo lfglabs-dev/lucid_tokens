@@ -1,0 +1,15 @@
+{
+  "symbol": "TX20",
+  "name": "trex20",
+  "address": "0x29838b8c8b7cd6f0698c2fd6feaf0363d2cb6da1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29838b8c8b7cd6f0698c2fd6feaf0363d2cb6da1"
+  }
+}

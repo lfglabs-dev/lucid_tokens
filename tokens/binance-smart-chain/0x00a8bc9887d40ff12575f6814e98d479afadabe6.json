@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyGoat",
+  "name": "Baby Goat",
+  "address": "0x00a8bc9887d40ff12575f6814e98d479afadabe6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51142/thumb/photo_2024-10-29_17.42.04.png?1730221905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x00a8bc9887d40ff12575f6814e98d479afadabe6"
+  }
+}

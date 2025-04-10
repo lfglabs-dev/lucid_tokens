@@ -1,0 +1,15 @@
+{
+  "symbol": "MIM",
+  "name": "Magic Internet Money",
+  "address": "0xdd3b8084af79b9bae3d1b668c0de08ccc2c9429a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37660/thumb/mim.png?1715165629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xdd3b8084af79b9bae3d1b668c0de08ccc2c9429a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "BMR",
+  "name": "Bet More",
+  "address": "0xd2563fc9fc787853229aab2bda7211484051c256",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54711/thumb/0xdc300854b0ef52650057158e8a33afe703525539.png?1741179043",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdc300854b0ef52650057158e8a33afe703525539",
+    "base": "0xd2563fc9fc787853229aab2bda7211484051c256"
+  }
+}

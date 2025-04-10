@@ -1,0 +1,15 @@
+{
+  "symbol": "KITE AI",
+  "name": "KITE AI",
+  "address": "0xce403dbdff00853860c68739611c64f0bd1c9aff",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39477/thumb/1.png?1722459345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xce403dbdff00853860c68739611c64f0bd1c9aff"
+  }
+}

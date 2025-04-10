@@ -1,0 +1,15 @@
+{
+  "symbol": "KOL",
+  "name": "KingOfLegends",
+  "address": "0xd9eade302456aff8bf8d87ff0ef77dab1fb9230f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27855/thumb/iyI0I4rb_400x400.jpeg?1666095483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9eade302456aff8bf8d87ff0ef77dab1fb9230f"
+  }
+}

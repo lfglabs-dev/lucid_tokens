@@ -1,0 +1,15 @@
+{
+  "symbol": "LUEYGI",
+  "name": "LUEYGI",
+  "address": "0xccf580e697b8bba73748ba881c1872dd4fb01cda",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38178/thumb/luigi.png?1716788029",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xccf580e697b8bba73748ba881c1872dd4fb01cda"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "NIOB",
+  "name": "Niob Token",
+  "address": "0x5ac5e6af46ef285b3536833e65d245c49b608d9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24141/thumb/niob.png?1646548221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ac5e6af46ef285b3536833e65d245c49b608d9b"
+  }
+}

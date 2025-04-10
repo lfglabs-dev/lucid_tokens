@@ -1,0 +1,15 @@
+{
+  "symbol": "SAM",
+  "name": "SAMURAI",
+  "address": "0xed1779845520339693cdbffec49a74246e7d671b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37552/thumb/samurai-coingecko-logo_2.png?1714751141",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xed1779845520339693cdbffec49a74246e7d671b"
+  }
+}

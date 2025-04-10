@@ -1,0 +1,15 @@
+{
+  "symbol": "FOMO",
+  "name": "FomoBullClub",
+  "address": "0x9a86980d3625b4a6e69d8a4606d51cbc019e2002",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37070/thumb/fomo_bull.jpeg?1713231534",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9a86980d3625b4a6e69d8a4606d51cbc019e2002"
+  }
+}

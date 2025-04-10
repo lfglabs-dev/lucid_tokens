@@ -1,0 +1,15 @@
+{
+  "symbol": "BOMEDOGE",
+  "name": "BOOK OF DOGE MEMES",
+  "address": "0xa0243cf95800a2f1358cac08e6367c5aef6bab40",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36496/thumb/rsz_1711014790052-1bb87d41d15fe27b500a4bfcde01bb0e.png?1711616412",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa0243cf95800a2f1358cac08e6367c5aef6bab40"
+  }
+}

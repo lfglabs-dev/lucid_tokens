@@ -1,0 +1,15 @@
+{
+  "symbol": "HOW",
+  "name": "HowInu",
+  "address": "0xdaa64420e769fae36ccaa78e26024fe9f583e9d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32593/thumb/IMG_20231017_021307_013.png?1698668562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdaa64420e769fae36ccaa78e26024fe9f583e9d8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BTC.b",
+  "name": "Bitcoin",
+  "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26115/thumb/btcb.png?1655921693",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x152b9d0fdc40c096757f570a51e494bd4b943e50"
+  }
+}

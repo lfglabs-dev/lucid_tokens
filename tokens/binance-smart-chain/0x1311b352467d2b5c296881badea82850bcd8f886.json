@@ -1,0 +1,15 @@
+{
+  "symbol": "TOOLS",
+  "name": "TOOLS",
+  "address": "0x1311b352467d2b5c296881badea82850bcd8f886",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14330/thumb/bsctools.png?1615434943",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1311b352467d2b5c296881badea82850bcd8f886"
+  }
+}

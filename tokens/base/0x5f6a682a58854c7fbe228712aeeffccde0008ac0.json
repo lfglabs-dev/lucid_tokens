@@ -1,0 +1,15 @@
+{
+  "symbol": "SHEKEL",
+  "name": "Rabbi Schlomo by Virtuals",
+  "address": "0x5f6a682a58854c7fbe228712aeeffccde0008ac0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53692/thumb/KC_star_logo.png?1737056623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5f6a682a58854c7fbe228712aeeffccde0008ac0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BEMD",
+  "name": "Betterment digital",
+  "address": "0x50a53ad44590df1d6c9fcf257d6416e937e5ed4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26620/thumb/20220728_124113.png?1659073962",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x50a53ad44590df1d6c9fcf257d6416e937e5ed4f"
+  }
+}

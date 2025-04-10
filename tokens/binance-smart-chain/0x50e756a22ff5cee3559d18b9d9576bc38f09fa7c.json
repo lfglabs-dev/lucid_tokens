@@ -1,0 +1,15 @@
+{
+  "symbol": "WARS",
+  "name": "MetaWars",
+  "address": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19534/thumb/13105.png?1635374115",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c"
+  }
+}

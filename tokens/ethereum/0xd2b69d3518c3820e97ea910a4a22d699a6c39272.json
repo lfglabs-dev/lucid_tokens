@@ -1,0 +1,15 @@
+{
+  "symbol": "CHICKENUS",
+  "name": "Chickenus Maximus",
+  "address": "0xd2b69d3518c3820e97ea910a4a22d699a6c39272",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55162/thumb/4000400.png?1744278510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd2b69d3518c3820e97ea910a4a22d699a6c39272"
+  }
+}

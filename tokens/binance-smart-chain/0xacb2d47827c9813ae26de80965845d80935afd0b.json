@@ -1,0 +1,17 @@
+{
+  "symbol": "MCRN",
+  "name": "MacaronSwap Token",
+  "address": "0xacb2d47827c9813ae26de80965845d80935afd0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14633/thumb/macaron.png?1623038435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xacb2d47827c9813ae26de80965845d80935afd0b",
+    "zksync": "0xafe4ca0bbe6215cbda12857e723134bc3809f766",
+    "polygon-pos": "0xba25b552c8a098afdf276324c32c71fe28e0ad40"
+  }
+}

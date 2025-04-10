@@ -1,0 +1,15 @@
+{
+  "symbol": "NOVA",
+  "name": "RWA NOVA",
+  "address": "0x49a756e34a5a0a7fdbfcce73d10228ee2c85ca8b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52892/thumb/RWA_Nova_%281%29.png?1734606051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x49a756e34a5a0a7fdbfcce73d10228ee2c85ca8b"
+  }
+}

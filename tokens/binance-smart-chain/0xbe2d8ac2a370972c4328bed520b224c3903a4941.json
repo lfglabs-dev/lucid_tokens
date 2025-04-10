@@ -1,0 +1,15 @@
+{
+  "symbol": "NVM",
+  "name": "Novem Pro Token",
+  "address": "0xbe2d8ac2a370972c4328bed520b224c3903a4941",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24804/thumb/nvm.png?1648987438",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbe2d8ac2a370972c4328bed520b224c3903a4941"
+  }
+}

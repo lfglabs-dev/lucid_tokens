@@ -1,0 +1,15 @@
+{
+  "symbol": "RBF",
+  "name": "Robots.Farm",
+  "address": "0x15de59489de5e7f240d72f787dc4a292b8199339",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38274/thumb/Robots.Farm_DEX_logo.png?1716963579",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x15de59489de5e7f240d72f787dc4a292b8199339"
+  }
+}

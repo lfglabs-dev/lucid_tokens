@@ -1,0 +1,15 @@
+{
+  "symbol": "PRINTR",
+  "name": "Binance Printer",
+  "address": "0x87f89b95b507e628905535ba6b13f852e4e0e887",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54371/thumb/1000481550.jpg?1739426230",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x87f89b95b507e628905535ba6b13f852e4e0e887"
+  }
+}

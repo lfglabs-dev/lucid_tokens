@@ -1,0 +1,15 @@
+{
+  "symbol": "DREAMS",
+  "name": "Dreams Quest",
+  "address": "0x54523d5fb56803bac758e8b10b321748a77ae9e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19012/thumb/DQ-token.png?1635856569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x54523d5fb56803bac758e8b10b321748a77ae9e9"
+  }
+}

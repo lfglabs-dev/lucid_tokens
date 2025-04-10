@@ -1,0 +1,15 @@
+{
+  "symbol": "SPACE",
+  "name": "Nounspace",
+  "address": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40142/thumb/Space_Icon_2x.png?1726016754",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab"
+  }
+}

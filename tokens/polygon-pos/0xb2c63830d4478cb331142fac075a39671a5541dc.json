@@ -1,0 +1,15 @@
+{
+  "symbol": "BOMB",
+  "name": "Bombcrypto Coin",
+  "address": "0xb2c63830d4478cb331142fac075a39671a5541dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26399/thumb/Bombcrypto_Coin.png?1657797692",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb2c63830d4478cb331142fac075a39671a5541dc"
+  }
+}

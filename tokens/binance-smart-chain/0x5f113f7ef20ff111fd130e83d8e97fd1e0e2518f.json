@@ -1,0 +1,15 @@
+{
+  "symbol": "AIT",
+  "name": "AiMalls",
+  "address": "0x5f113f7ef20ff111fd130e83d8e97fd1e0e2518f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32710/thumb/AIT.png?1698988556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f113f7ef20ff111fd130e83d8e97fd1e0e2518f"
+  }
+}

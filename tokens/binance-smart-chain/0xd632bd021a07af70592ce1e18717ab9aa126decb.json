@@ -1,0 +1,17 @@
+{
+  "symbol": "bKANGAL",
+  "name": "Kangal",
+  "address": "0xd632bd021a07af70592ce1e18717ab9aa126decb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14241/thumb/logo-200.png?1622341641",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
+    "binance-smart-chain": "0xd632bd021a07af70592ce1e18717ab9aa126decb",
+    "polygon-pos": "0x34f380a4e3389e99c0369264453523bbe5af7fab"
+  }
+}

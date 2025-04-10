@@ -1,0 +1,15 @@
+{
+  "symbol": "ABOAT",
+  "name": "Aboat Token",
+  "address": "0x4e53522932608e61b6bd8d50cf15a5501054db4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30132/thumb/aboat.jpg?1683270108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4e53522932608e61b6bd8d50cf15a5501054db4e"
+  }
+}

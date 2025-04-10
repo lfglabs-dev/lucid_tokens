@@ -1,0 +1,15 @@
+{
+  "symbol": "BBC",
+  "name": "Bull BTC Club",
+  "address": "0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28030/thumb/bbc.png?1667048849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1"
+  }
+}

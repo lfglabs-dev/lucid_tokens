@@ -1,0 +1,16 @@
+{
+  "symbol": "BAVA",
+  "name": "BavaToken",
+  "address": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23780/thumb/200x200_BAVA_LOGO_%282%29.png?1645435712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe19a1684873fab5fb694cfd06607100a632ff21c",
+    "base": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39"
+  }
+}

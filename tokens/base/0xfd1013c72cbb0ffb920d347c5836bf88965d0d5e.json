@@ -1,0 +1,15 @@
+{
+  "symbol": "STIX",
+  "name": "STIX Token",
+  "address": "0xfd1013c72cbb0ffb920d347c5836bf88965d0d5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52015/thumb/STIX_Logo_Transparent_200x200.png?1732346967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfd1013c72cbb0ffb920d347c5836bf88965d0d5e"
+  }
+}

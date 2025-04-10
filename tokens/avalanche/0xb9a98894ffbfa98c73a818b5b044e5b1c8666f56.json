@@ -1,0 +1,15 @@
+{
+  "symbol": "AVIA",
+  "name": "Kepler",
+  "address": "0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52429/thumb/0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56_%281%29.png?1733332999",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CHIP",
+  "name": "Blue Chip",
+  "address": "0x4c40454659c8ec1283355d8e3911ba1745ff6fd1",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36433/thumb/BlueChip-200x200.png?1711435311",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4c40454659c8ec1283355d8e3911ba1745ff6fd1"
+  }
+}

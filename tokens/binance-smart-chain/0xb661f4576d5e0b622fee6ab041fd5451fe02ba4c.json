@@ -1,0 +1,15 @@
+{
+  "symbol": "DFG",
+  "name": "DeFiGram",
+  "address": "0xb661f4576d5e0b622fee6ab041fd5451fe02ba4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25162/thumb/19590.png?1650519619",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb661f4576d5e0b622fee6ab041fd5451fe02ba4c"
+  }
+}

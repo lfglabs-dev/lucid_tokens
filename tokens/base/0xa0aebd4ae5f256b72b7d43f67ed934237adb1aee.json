@@ -1,0 +1,17 @@
+{
+  "symbol": "BONSAICOIN",
+  "name": "BONSAI COIN",
+  "address": "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39273/thumb/1000007690.png?1721386111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "astar-zkevm": "0x90e3f8e749dbd40286ab29aecd1e8487db4a8785",
+    "soneium": "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee",
+    "base": "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee"
+  }
+}

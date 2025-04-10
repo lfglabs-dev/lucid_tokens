@@ -1,0 +1,15 @@
+{
+  "symbol": "IGT",
+  "name": "Infinitar Governance Token",
+  "address": "0xd5eeec1a534c35c418b44bb28e4d5a602f1a22de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50985/thumb/infinitar.jpg?1729654559",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd5eeec1a534c35c418b44bb28e4d5a602f1a22de"
+  }
+}

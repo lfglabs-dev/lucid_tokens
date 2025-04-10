@@ -1,0 +1,15 @@
+{
+  "symbol": "CENX",
+  "name": "Centcex",
+  "address": "0x739e81bcd49854d7bdf526302989f14a2e7994b2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20624/thumb/centx.PNG?1637318819",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x739e81bcd49854d7bdf526302989f14a2e7994b2"
+  }
+}

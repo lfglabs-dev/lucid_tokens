@@ -1,0 +1,15 @@
+{
+  "symbol": "$BOON",
+  "name": "Base Baboon",
+  "address": "0x4acc81dc9c03e5329a2c19763a1d10ba9308339f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36350/thumb/BaboonToken.png?1711191515",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4acc81dc9c03e5329a2c19763a1d10ba9308339f"
+  }
+}

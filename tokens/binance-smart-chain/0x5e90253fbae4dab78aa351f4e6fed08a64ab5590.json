@@ -1,0 +1,15 @@
+{
+  "symbol": "BONFIRE",
+  "name": "Bonfire",
+  "address": "0x5e90253fbae4dab78aa351f4e6fed08a64ab5590",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15020/thumb/Logo_-_2021-04-27T062421.226.png?1619475866",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5e90253fbae4dab78aa351f4e6fed08a64ab5590"
+  }
+}

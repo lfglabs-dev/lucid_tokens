@@ -1,0 +1,16 @@
+{
+  "symbol": "LIFT",
+  "name": "Uplift",
+  "address": "0x513c3200f227ebb62e3b3d00b7a83779643a71cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20666/thumb/socials_logo.png?1637546321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x513c3200f227ebb62e3b3d00b7a83779643a71cf",
+    "binance-smart-chain": "0x513c3200f227ebb62e3b3d00b7a83779643a71cf"
+  }
+}

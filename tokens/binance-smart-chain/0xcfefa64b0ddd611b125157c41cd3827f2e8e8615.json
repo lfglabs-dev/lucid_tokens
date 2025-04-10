@@ -1,0 +1,15 @@
+{
+  "symbol": "KPAD",
+  "name": "KickPad",
+  "address": "0xcfefa64b0ddd611b125157c41cd3827f2e8e8615",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14531/thumb/kickpad_logo.jpg?1616750879",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcfefa64b0ddd611b125157c41cd3827f2e8e8615"
+  }
+}

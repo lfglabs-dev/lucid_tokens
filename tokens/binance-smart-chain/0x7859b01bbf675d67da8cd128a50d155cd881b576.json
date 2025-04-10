@@ -1,0 +1,15 @@
+{
+  "symbol": "XMS",
+  "name": "Mars Ecosystem Token",
+  "address": "0x7859b01bbf675d67da8cd128a50d155cd881b576",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16349/thumb/MARS.png?1623795527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7859b01bbf675d67da8cd128a50d155cd881b576"
+  }
+}

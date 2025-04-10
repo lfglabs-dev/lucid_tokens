@@ -1,0 +1,15 @@
+{
+  "symbol": "MXD",
+  "name": "Denarius",
+  "address": "0xdf1f7adf59a178ba83f6140a4930cf3beb7b73bf",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38582/thumb/1212.png?1718087865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf1f7adf59a178ba83f6140a4930cf3beb7b73bf"
+  }
+}

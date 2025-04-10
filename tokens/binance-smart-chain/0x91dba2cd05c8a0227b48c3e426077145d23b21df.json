@@ -1,0 +1,15 @@
+{
+  "symbol": "PAPU",
+  "name": "Papu Token",
+  "address": "0x91dba2cd05c8a0227b48c3e426077145d23b21df",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38804/thumb/200x200.jpg?1718942306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x91dba2cd05c8a0227b48c3e426077145d23b21df"
+  }
+}

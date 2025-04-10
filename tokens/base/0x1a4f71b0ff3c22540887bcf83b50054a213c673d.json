@@ -1,0 +1,19 @@
+{
+  "symbol": "wbMSTR",
+  "name": "Wrapped Backed MicroStrategy Inc",
+  "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+    "avalanche": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+    "ethereum": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+    "polygon-pos": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+    "xdai": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "STEP",
+  "name": "Step",
+  "address": "0x465707181acba42ed01268a33f0507e320a154bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22352/thumb/fOag4nRa_400x400.jpg?1647429563",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x465707181acba42ed01268a33f0507e320a154bd"
+  }
+}

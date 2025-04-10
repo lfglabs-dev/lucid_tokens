@@ -1,0 +1,15 @@
+{
+  "symbol": "GREENGOLD",
+  "name": "GREENGOLD",
+  "address": "0x21a00838e6b2d4aa3ac4bbc11111be011e1ca111",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33578/thumb/GG_Logo_%283%29.png?1702453059",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x21a00838e6b2d4aa3ac4bbc11111be011e1ca111"
+  }
+}

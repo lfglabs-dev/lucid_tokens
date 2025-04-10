@@ -1,0 +1,18 @@
+{
+  "symbol": "eUSD",
+  "name": "ARYZE eUSD",
+  "address": "0xba2f9e7ae9f5f03fce7d560f986743659e768bbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32422/thumb/ARYZE_eUSD.png?1698118313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08",
+    "linea": "0xba2f9e7ae9f5f03fce7d560f986743659e768bbf",
+    "ethereum": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08",
+    "binance-smart-chain": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08"
+  }
+}

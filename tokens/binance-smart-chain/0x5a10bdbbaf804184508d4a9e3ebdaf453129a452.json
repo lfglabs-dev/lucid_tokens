@@ -1,0 +1,15 @@
+{
+  "symbol": "NPT",
+  "name": "Nexus Pro Token",
+  "address": "0x5a10bdbbaf804184508d4a9e3ebdaf453129a452",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38447/thumb/200x200.png?1717556521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5a10bdbbaf804184508d4a9e3ebdaf453129a452"
+  }
+}

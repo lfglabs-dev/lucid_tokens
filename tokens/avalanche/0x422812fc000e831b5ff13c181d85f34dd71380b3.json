@@ -1,0 +1,20 @@
+{
+  "symbol": "MPT",
+  "name": "Miracleplay Token",
+  "address": "0x422812fc000e831b5ff13c181d85f34dd71380b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32653/thumb/MPT.png?1698895300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x87d6f8edeccbcca766d2880d19b2c3777d322c22",
+    "opbnb": "0xf0e2f2a84c898989c66fca1d5bce869e9bc85ddf",
+    "xpla": "0x1a6f160befade6ba3abe333a595bdb105e37c558",
+    "avalanche": "0x422812fc000e831b5ff13c181d85f34dd71380b3",
+    "arbitrum-one": "0xa4f63404b58c3efd9db6d53352bd386ffa174e5a",
+    "base": "0xf2d3d488626a117984fda70f8106abc0049018d3"
+  }
+}

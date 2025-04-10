@@ -1,0 +1,15 @@
+{
+  "symbol": "PME",
+  "name": "PCO Meta Earth",
+  "address": "0xfd1eeb2f3399872735f3df735816c4fc607e12c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/37734/thumb/pme.png?1715337514",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xfd1eeb2f3399872735f3df735816c4fc607e12c4"
+  }
+}

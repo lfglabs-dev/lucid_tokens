@@ -1,0 +1,15 @@
+{
+  "symbol": "PAC",
+  "name": "PacMoon",
+  "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06"
+  }
+}

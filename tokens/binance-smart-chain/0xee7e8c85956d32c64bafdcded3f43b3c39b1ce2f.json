@@ -1,0 +1,15 @@
+{
+  "symbol": "WEB4",
+  "name": "WEB4 AI",
+  "address": "0xee7e8c85956d32c64bafdcded3f43b3c39b1ce2f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29165/thumb/photo_2023-02-21_16.29.27.png?1677047100",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xee7e8c85956d32c64bafdcded3f43b3c39b1ce2f"
+  }
+}

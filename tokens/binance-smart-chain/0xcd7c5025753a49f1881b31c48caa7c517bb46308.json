@@ -1,0 +1,15 @@
+{
+  "symbol": "RAVEN",
+  "name": "Raven Protocol",
+  "address": "0xcd7c5025753a49f1881b31c48caa7c517bb46308",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8673/thumb/Raven_Protocol.jpg?1560248948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcd7c5025753a49f1881b31c48caa7c517bb46308"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BETH",
+  "name": "Binance Beacon ETH",
+  "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13804/thumb/Binnace.png?1611997829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b"
+  }
+}

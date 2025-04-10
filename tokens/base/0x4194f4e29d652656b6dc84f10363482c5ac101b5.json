@@ -1,0 +1,15 @@
+{
+  "symbol": "MPAA",
+  "name": "MPAA",
+  "address": "0x4194f4e29d652656b6dc84f10363482c5ac101b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39521/thumb/photo_2024-08-03_12-01-50.jpg?1722790299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4194f4e29d652656b6dc84f10363482c5ac101b5"
+  }
+}

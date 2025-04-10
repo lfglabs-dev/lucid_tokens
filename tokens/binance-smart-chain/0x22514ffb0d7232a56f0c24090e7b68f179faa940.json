@@ -1,0 +1,16 @@
+{
+  "symbol": "QORPO",
+  "name": "QORPO Token",
+  "address": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35585/thumb/qorpo.jpeg?1709203322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
+    "binance-smart-chain": "0x22514ffb0d7232a56f0c24090e7b68f179faa940"
+  }
+}

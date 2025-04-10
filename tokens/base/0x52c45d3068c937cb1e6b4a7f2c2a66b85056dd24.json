@@ -1,0 +1,15 @@
+{
+  "symbol": "SHARD",
+  "name": "SHARD",
+  "address": "0x52c45d3068c937cb1e6b4a7f2c2a66b85056dd24",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31268/thumb/shard.jpg?1692069343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x52c45d3068c937cb1e6b4a7f2c2a66b85056dd24"
+  }
+}

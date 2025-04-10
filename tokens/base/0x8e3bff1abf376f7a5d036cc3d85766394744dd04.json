@@ -1,0 +1,15 @@
+{
+  "symbol": "POD",
+  "name": "Podflow AI by Virtuals",
+  "address": "0x8e3bff1abf376f7a5d036cc3d85766394744dd04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52569/thumb/pod-logo.png?1733688808",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8e3bff1abf376f7a5d036cc3d85766394744dd04"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CLE",
+  "name": "CLECOIN",
+  "address": "0x9987b9992ecf263318c7701392c3fd6450bc8847",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32879/thumb/CLE_COIN_LOGO.jpg?1699711481",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x9987b9992ecf263318c7701392c3fd6450bc8847"
+  }
+}

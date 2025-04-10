@@ -1,0 +1,16 @@
+{
+  "symbol": "ZED",
+  "name": "ZedDex",
+  "address": "0x5c999e15b71de2bb8e651f0f999fb0bc321a0dfe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38098/thumb/zed.png?1716526944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zedxion": "0x5b0f21f60116b9463210c00c7a1a6a46e26bfa33",
+    "binance-smart-chain": "0x5c999e15b71de2bb8e651f0f999fb0bc321a0dfe"
+  }
+}

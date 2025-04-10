@@ -1,0 +1,15 @@
+{
+  "symbol": "GIDDY",
+  "name": "Giddy Token",
+  "address": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24960/thumb/gddy.png?1649573862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6"
+  }
+}

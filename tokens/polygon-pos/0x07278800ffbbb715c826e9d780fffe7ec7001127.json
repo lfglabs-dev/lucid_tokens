@@ -1,0 +1,15 @@
+{
+  "symbol": "QORBI",
+  "name": "QORBI",
+  "address": "0x07278800ffbbb715c826e9d780fffe7ec7001127",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53193/thumb/logoqorbi.png?1735593993",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x07278800ffbbb715c826e9d780fffe7ec7001127"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PANA",
+  "name": "Panacoin",
+  "address": "0x9f3a937a3cdd0673088304311a9c98a18ad0a3d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50473/thumb/PANA_transparent_logo.png?1727849826",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9f3a937a3cdd0673088304311a9c98a18ad0a3d8"
+  }
+}

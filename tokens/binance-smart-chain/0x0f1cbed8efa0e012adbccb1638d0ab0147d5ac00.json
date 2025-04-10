@@ -1,0 +1,16 @@
+{
+  "symbol": "HELLO",
+  "name": "HELLO",
+  "address": "0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27891/thumb/uFXN2S1N_400x400.jpeg?1666248413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x411099c0b413f4feddb10edf6a8be63bd321311c",
+    "binance-smart-chain": "0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00"
+  }
+}

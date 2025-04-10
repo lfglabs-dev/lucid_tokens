@@ -1,0 +1,15 @@
+{
+  "symbol": "TMT",
+  "name": "TopManager Token",
+  "address": "0x4803ac6b79f9582f69c4fa23c72cb76dd1e46d8d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22490/thumb/TMT-200.png?1643188285",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4803ac6b79f9582f69c4fa23c72cb76dd1e46d8d"
+  }
+}

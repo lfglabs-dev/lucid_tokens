@@ -1,0 +1,17 @@
+{
+  "symbol": "MIMO",
+  "name": "MIMO Parallel Governance Token (PoS)",
+  "address": "0xadac33f543267c4d59a8c299cf804c303bc3e4ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16449/thumb/mimodefi.PNG?1624240539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+    "fantom": "0x1d1764f04de29da6b90ffbef372d1a45596c4855",
+    "polygon-pos": "0xadac33f543267c4d59a8c299cf804c303bc3e4ac"
+  }
+}

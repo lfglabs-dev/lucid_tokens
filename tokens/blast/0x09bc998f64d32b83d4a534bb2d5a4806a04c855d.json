@@ -1,0 +1,18 @@
+{
+  "symbol": "SPWO.d",
+  "name": "SP Funds S&P World (ex-US) ETF - Dinari",
+  "address": "0x09bc998f64d32b83d4a534bb2d5a4806a04c855d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xccf43c38fe53c633425e14f6aba50a98e5ab1408",
+    "ethereum": "0xfae8f97cafea5133159992e83a4b30e1aae88328",
+    "blast": "0x09bc998f64d32b83d4a534bb2d5a4806a04c855d",
+    "base": "0x1bc7cd640fba3d157f152665b7bf5cbe4a50d26a"
+  }
+}

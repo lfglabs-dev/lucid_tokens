@@ -1,0 +1,15 @@
+{
+  "symbol": "WFT",
+  "name": "Windfall Token",
+  "address": "0x876866ef03d1bd9cc7afdc2df9bf21b21a57af04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20230/thumb/vf.PNG?1636689709",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x876866ef03d1bd9cc7afdc2df9bf21b21a57af04"
+  }
+}

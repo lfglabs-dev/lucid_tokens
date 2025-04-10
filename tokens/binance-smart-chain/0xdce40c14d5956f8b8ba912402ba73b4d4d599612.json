@@ -1,0 +1,16 @@
+{
+  "symbol": "PZP",
+  "name": "PLAYZAP",
+  "address": "0xdce40c14d5956f8b8ba912402ba73b4d4d599612",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24727/thumb/Zjyt6Mqd_400x400.jpg?1648703086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdce40c14d5956f8b8ba912402ba73b4d4d599612",
+    "core": "0xf6f46bd1f85ebf00c6d7490678ad020bc73969a7"
+  }
+}

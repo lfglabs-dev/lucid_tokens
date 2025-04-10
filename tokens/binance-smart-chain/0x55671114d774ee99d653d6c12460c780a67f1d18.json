@@ -1,0 +1,15 @@
+{
+  "symbol": "PACOCA",
+  "name": "Pacoca",
+  "address": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16567/thumb/pacoca.PNG?1624494018",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x55671114d774ee99d653d6c12460c780a67f1d18"
+  }
+}

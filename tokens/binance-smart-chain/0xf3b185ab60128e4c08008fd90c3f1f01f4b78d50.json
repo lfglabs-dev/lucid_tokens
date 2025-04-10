@@ -1,0 +1,15 @@
+{
+  "symbol": "MetaDoge",
+  "name": "MetaDoge",
+  "address": "0xf3b185ab60128e4c08008fd90c3f1f01f4b78d50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28815/thumb/Dogemeta.jpeg?1674457567",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf3b185ab60128e4c08008fd90c3f1f01f4b78d50"
+  }
+}

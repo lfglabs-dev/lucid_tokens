@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFO",
+  "name": "SafeOne Chain",
+  "address": "0x9320bdb3c8f3d0b1313726efbb0f0061ebf149ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28042/thumb/neorbit_logo_cg.png?1667202543",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9320bdb3c8f3d0b1313726efbb0f0061ebf149ad"
+  }
+}

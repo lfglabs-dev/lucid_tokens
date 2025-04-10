@@ -1,0 +1,15 @@
+{
+  "symbol": "CWS",
+  "name": "Crowns",
+  "address": "0x99aa29ac023057951781dc5d1784e9a4c362ce23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13835/thumb/crowns_logo.png?1612176905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x99aa29ac023057951781dc5d1784e9a4c362ce23"
+  }
+}

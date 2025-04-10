@@ -1,0 +1,15 @@
+{
+  "symbol": "NTR",
+  "name": "Nether",
+  "address": "0x8182ac1c5512eb67756a89c40fadb2311757bd32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18009/thumb/Icon_-_Logo_600x600px.png?1630228246",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8182ac1c5512eb67756a89c40fadb2311757bd32"
+  }
+}

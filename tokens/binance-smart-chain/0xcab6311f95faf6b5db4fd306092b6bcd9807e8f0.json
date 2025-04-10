@@ -1,0 +1,15 @@
+{
+  "symbol": "FXBT",
+  "name": "FourXBT",
+  "address": "0xcab6311f95faf6b5db4fd306092b6bcd9807e8f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54458/thumb/Ava.png?1739824482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcab6311f95faf6b5db4fd306092b6bcd9807e8f0"
+  }
+}

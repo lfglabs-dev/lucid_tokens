@@ -1,0 +1,15 @@
+{
+  "symbol": "KOIN",
+  "name": "Fishkoin",
+  "address": "0x7f72ebb448387537c174a5d17e762c877db28fb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36360/thumb/fiskoin_200x200.png?1711303393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7f72ebb448387537c174a5d17e762c877db28fb6"
+  }
+}

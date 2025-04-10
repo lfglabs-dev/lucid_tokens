@@ -1,0 +1,18 @@
+{
+  "symbol": "RIOT.d",
+  "name": "Riot Platforms, Inc. Common Stock - Dinari",
+  "address": "0xbd042b930d40326f18fc19693adabc9457d4af7f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39812/thumb/RIOT.d-200.png?1724166370",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0b5ac0d7dcf6964609a12af4f6c6f3c257070193",
+    "blast": "0xa5de16db7c14cd87fb35042ed8e7a6f4f00b7f26",
+    "ethereum": "0xcd7c6ed75151745c893dfc1dca1daa1d55034e67",
+    "base": "0xbd042b930d40326f18fc19693adabc9457d4af7f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MCOIN",
+  "name": "Mcoinv2",
+  "address": "0x8fa62d23fb6359c1e1685dbfa9b63ef27ecdb612",
+  "decimals": 3,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29600/thumb/01_logoMARICOIN_TM_%281%29_%281%29_%281%29.png?1679983834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8fa62d23fb6359c1e1685dbfa9b63ef27ecdb612"
+  }
+}

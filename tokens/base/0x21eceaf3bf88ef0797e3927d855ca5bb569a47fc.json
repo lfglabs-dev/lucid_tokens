@@ -1,0 +1,15 @@
+{
+  "symbol": "VOID",
+  "name": "The Void",
+  "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36669/thumb/void4_%281%29.png?1712051209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc"
+  }
+}

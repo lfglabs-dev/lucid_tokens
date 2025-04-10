@@ -1,0 +1,15 @@
+{
+  "symbol": "RCAT",
+  "name": "Replicat-One by Virtuals",
+  "address": "0x6af73d4579c70a24d52e4f4b43eecb2a75019f94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53886/thumb/Screenshot_2025-01-21_at_12.40.32.png?1737656350",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6af73d4579c70a24d52e4f4b43eecb2a75019f94"
+  }
+}

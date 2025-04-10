@@ -1,0 +1,16 @@
+{
+  "symbol": "WAG",
+  "name": "WAGYUSWAP.app",
+  "address": "0x7fa7df4996ac59f398476892cfb195ed38543520",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18225/thumb/maoZ8h22_400x400.jpg?1631017339",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7fa7df4996ac59f398476892cfb195ed38543520",
+    "velas": "0xabf26902fd7b624e0db40d31171ea9dddf078351"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ALLCAT",
+  "name": "ALL CAT NO BRAKES",
+  "address": "0x5d6812722c3693078e4a0dbe3e9affc27a0b2768",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38024/thumb/Cloudy-Sunrise-by-TGTS-black.png?1716317171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5d6812722c3693078e4a0dbe3e9affc27a0b2768"
+  }
+}

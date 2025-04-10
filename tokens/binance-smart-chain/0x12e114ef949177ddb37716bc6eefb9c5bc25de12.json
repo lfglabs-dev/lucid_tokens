@@ -1,0 +1,15 @@
+{
+  "symbol": "MANE",
+  "name": "MANE",
+  "address": "0x12e114ef949177ddb37716bc6eefb9c5bc25de12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31938/thumb/logo200.png?1695724596",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x12e114ef949177ddb37716bc6eefb9c5bc25de12"
+  }
+}

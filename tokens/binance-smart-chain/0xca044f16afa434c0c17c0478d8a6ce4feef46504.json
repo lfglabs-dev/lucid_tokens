@@ -1,0 +1,15 @@
+{
+  "symbol": "MAPE",
+  "name": "MechaExToken",
+  "address": "0xca044f16afa434c0c17c0478d8a6ce4feef46504",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24456/thumb/ivtx5hHy_400x400.jpg?1647679145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xca044f16afa434c0c17c0478d8a6ce4feef46504"
+  }
+}

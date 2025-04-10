@@ -1,0 +1,16 @@
+{
+  "symbol": "SOKU",
+  "name": "Soku",
+  "address": "0x0e4b5ea0259eb3d66e6fcb7cc8785817f8490a53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18378/thumb/60f0ecd2453db40cfdce313e_Soku_Logo_200x200.png?1631692891",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0e4b5ea0259eb3d66e6fcb7cc8785817f8490a53",
+    "ethereum": "0x4c3a8eceb656ec63eae80a4ebd565e4887db6160"
+  }
+}

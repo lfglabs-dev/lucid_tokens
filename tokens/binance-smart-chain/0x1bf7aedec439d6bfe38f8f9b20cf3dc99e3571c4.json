@@ -1,0 +1,15 @@
+{
+  "symbol": "TRONPAD",
+  "name": "TRONPAD.network",
+  "address": "0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16066/thumb/weUUiy33_400x400.jpg?1622737145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4"
+  }
+}

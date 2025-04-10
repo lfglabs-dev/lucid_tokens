@@ -1,0 +1,15 @@
+{
+  "symbol": "ORBI",
+  "name": "Orbs",
+  "address": "0xefa4cda666c6a1c03a38e4885266b019dec57662",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38809/thumb/NQTV0US0_400x400.png?1719012508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xefa4cda666c6a1c03a38e4885266b019dec57662"
+  }
+}

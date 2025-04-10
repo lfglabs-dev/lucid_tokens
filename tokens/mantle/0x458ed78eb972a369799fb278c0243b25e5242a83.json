@@ -1,0 +1,15 @@
+{
+  "symbol": "wstETH",
+  "name": "Wrapped liquid staked Ether 2.0",
+  "address": "0x458ed78eb972a369799fb278c0243b25e5242a83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53101/thumb/mantle-bridged-wsteth-mantle.webp?1735227057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x458ed78eb972a369799fb278c0243b25e5242a83"
+  }
+}

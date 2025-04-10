@@ -1,0 +1,15 @@
+{
+  "symbol": "JP",
+  "name": "JP",
+  "address": "0x86cd1faf05abbb705842ec3c98ef5006173fb4d6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28967/thumb/Jp.png?1675746186",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x86cd1faf05abbb705842ec3c98ef5006173fb4d6"
+  }
+}

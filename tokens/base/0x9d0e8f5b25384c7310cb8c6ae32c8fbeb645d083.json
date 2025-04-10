@@ -1,0 +1,18 @@
+{
+  "symbol": "DRV",
+  "name": "Derive",
+  "address": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52889/thumb/Token_Logo.png?1734601695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be",
+    "optimistic-ethereum": "0x33800de7e817a70a694f31476313a7c572bba100",
+    "arbitrum-one": "0x77b7787a09818502305c95d68a2571f090abb135",
+    "base": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083"
+  }
+}

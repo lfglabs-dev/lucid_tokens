@@ -1,0 +1,15 @@
+{
+  "symbol": "SNE",
+  "name": "StrongNodeEdge Token",
+  "address": "0x32934cb16da43fd661116468c1b225fc26cf9a8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19303/thumb/sne.png?1640227905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x32934cb16da43fd661116468c1b225fc26cf9a8c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LBGT",
+  "name": "Liquid BGT",
+  "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe"
+  }
+}

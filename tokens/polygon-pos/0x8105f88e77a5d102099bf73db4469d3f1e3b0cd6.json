@@ -1,0 +1,15 @@
+{
+  "symbol": "JCO",
+  "name": "JennyCoToken",
+  "address": "0x8105f88e77a5d102099bf73db4469d3f1e3b0cd6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32006/thumb/jenny.jpg?1696040734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8105f88e77a5d102099bf73db4469d3f1e3b0cd6"
+  }
+}

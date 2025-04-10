@@ -1,0 +1,15 @@
+{
+  "symbol": "3TH",
+  "name": "3TH",
+  "address": "0x6ccc8db8e3fd5ffdd2e7b92bd92e8e27baf704a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31823/thumb/cUOoVR18_400x400.jpg?1695205604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6ccc8db8e3fd5ffdd2e7b92bd92e8e27baf704a8"
+  }
+}

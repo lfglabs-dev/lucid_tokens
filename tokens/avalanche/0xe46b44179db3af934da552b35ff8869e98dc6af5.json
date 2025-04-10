@@ -1,0 +1,15 @@
+{
+  "symbol": "predict",
+  "name": "predict",
+  "address": "0xe46b44179db3af934da552b35ff8869e98dc6af5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52347/thumb/Icon_1.png?1733159610",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe46b44179db3af934da552b35ff8869e98dc6af5"
+  }
+}

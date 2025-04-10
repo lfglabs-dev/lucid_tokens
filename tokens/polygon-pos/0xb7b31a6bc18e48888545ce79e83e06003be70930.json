@@ -1,0 +1,16 @@
+{
+  "symbol": "APE",
+  "name": "ApeCoin (PoS)",
+  "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24383/thumb/apecoin.jpg?1647476455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "polygon-pos": "0xb7b31a6bc18e48888545ce79e83e06003be70930"
+  }
+}

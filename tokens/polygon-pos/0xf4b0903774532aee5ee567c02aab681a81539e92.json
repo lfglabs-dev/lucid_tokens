@@ -1,0 +1,17 @@
+{
+  "symbol": "GAJ",
+  "name": "PolyGaj Token",
+  "address": "0xf4b0903774532aee5ee567c02aab681a81539e92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15257/thumb/logo200x200.png?1629887093",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x595c8481c48894771ce8fade54ac6bf59093f9e8",
+    "ethereum": "0x9fda7ceec4c18008096c2fe2b85f05dc300f94d0",
+    "polygon-pos": "0xf4b0903774532aee5ee567c02aab681a81539e92"
+  }
+}

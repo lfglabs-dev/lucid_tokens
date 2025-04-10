@@ -1,0 +1,15 @@
+{
+  "symbol": "DEXNET",
+  "name": "DEXNET",
+  "address": "0x39df92f325938c610f4e4a04f7b756145ebe8804",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x39df92f325938c610f4e4a04f7b756145ebe8804"
+  }
+}

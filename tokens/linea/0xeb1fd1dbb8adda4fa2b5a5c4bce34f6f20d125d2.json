@@ -1,0 +1,15 @@
+{
+  "symbol": "DTC",
+  "name": "Donald Toad Coin",
+  "address": "0xeb1fd1dbb8adda4fa2b5a5c4bce34f6f20d125d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51996/thumb/photo_2024-11-21_14-31-46.jpg?1732299404",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xeb1fd1dbb8adda4fa2b5a5c4bce34f6f20d125d2"
+  }
+}

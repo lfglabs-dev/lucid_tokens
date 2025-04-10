@@ -1,0 +1,16 @@
+{
+  "symbol": "lowb",
+  "name": "loser coin",
+  "address": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15378/thumb/loser.PNG?1620693920",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+    "polygon-pos": "0x1c0a798b5a5273a9e54028eb1524fd337b24145f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GTF",
+  "name": "Goatly Farm",
+  "address": "0xa164bb2d282ee762d5bc2161cf9914c712732ed7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31865/thumb/goatly_logo_cmc.png?1695290063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa164bb2d282ee762d5bc2161cf9914c712732ed7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "YETI",
+  "name": "Yeti Finance",
+  "address": "0x77777777777d4554c39223c354a05825b2e8faa3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25022/thumb/1_oJ0F2Zf6CuAhLP0zOboo6w.png?1649837363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x77777777777d4554c39223c354a05825b2e8faa3"
+  }
+}

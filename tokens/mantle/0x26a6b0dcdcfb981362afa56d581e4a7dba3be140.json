@@ -1,0 +1,16 @@
+{
+  "symbol": "PUFF",
+  "name": "Puff",
+  "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+    "ethereum": "0x31b6100f5f4466e6daeb1edb2f2ce6e548cf8938"
+  }
+}

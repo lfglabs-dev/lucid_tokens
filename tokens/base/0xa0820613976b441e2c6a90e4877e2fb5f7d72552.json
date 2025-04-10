@@ -1,0 +1,17 @@
+{
+  "symbol": "POLTER",
+  "name": "Polter.Finance Protocol Token",
+  "address": "0xa0820613976b441e2c6a90e4877e2fb5f7d72552",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35730/thumb/POLTER.jpg?1709666320",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x5c725631fd299703d0a74c23f89a55c6b9a0c52f",
+    "sonic": "0x44bd4f79a95cf04505f2dc5c8e2e4043f67c7b07",
+    "base": "0xa0820613976b441e2c6a90e4877e2fb5f7d72552"
+  }
+}

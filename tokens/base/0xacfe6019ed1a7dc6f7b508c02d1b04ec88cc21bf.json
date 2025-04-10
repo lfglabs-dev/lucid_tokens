@@ -1,0 +1,15 @@
+{
+  "symbol": "VVV",
+  "name": "Venice Token",
+  "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54023/thumb/Venice_Token_%281%29.png?1738017546",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf"
+  }
+}

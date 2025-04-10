@@ -1,0 +1,15 @@
+{
+  "symbol": "YIELD",
+  "name": "Yield Token",
+  "address": "0x67fa2887914fa3729e9eed7630294fe124f417a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36231/thumb/crypto-valleys.jpeg?1710906095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x67fa2887914fa3729e9eed7630294fe124f417a0"
+  }
+}

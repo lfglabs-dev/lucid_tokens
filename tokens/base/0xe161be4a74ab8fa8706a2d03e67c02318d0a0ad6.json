@@ -1,0 +1,15 @@
+{
+  "symbol": "Apetardio",
+  "name": "Apetardio",
+  "address": "0xe161be4a74ab8fa8706a2d03e67c02318d0a0ad6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38155/thumb/apetardio200x200.png?1716669062",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe161be4a74ab8fa8706a2d03e67c02318d0a0ad6"
+  }
+}

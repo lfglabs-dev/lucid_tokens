@@ -1,0 +1,16 @@
+{
+  "symbol": "ZOO",
+  "name": "ZooToken",
+  "address": "0x1b88d7ad51626044ec62ef9803ea264da4442f32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18028/thumb/1mPofbU.png?1630292667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "wanchain": "0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f",
+    "avalanche": "0x1b88d7ad51626044ec62ef9803ea264da4442f32"
+  }
+}

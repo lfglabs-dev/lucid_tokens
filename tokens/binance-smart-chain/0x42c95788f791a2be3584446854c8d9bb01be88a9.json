@@ -1,0 +1,15 @@
+{
+  "symbol": "HBR",
+  "name": "Harbor Token",
+  "address": "0x42c95788f791a2be3584446854c8d9bb01be88a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35101/thumb/fBe0EcXQ_400x400.jpg?1707379369",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x42c95788f791a2be3584446854c8d9bb01be88a9"
+  }
+}

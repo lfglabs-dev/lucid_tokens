@@ -1,0 +1,15 @@
+{
+  "symbol": "UNT",
+  "name": "Unity Token",
+  "address": "0x0f6d3353914caafe18ab0c835a789afc886e7039",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31987/thumb/UNT.jpg?1695876695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0f6d3353914caafe18ab0c835a789afc886e7039"
+  }
+}

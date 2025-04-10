@@ -1,0 +1,15 @@
+{
+  "symbol": "asBNB",
+  "name": "Astherus BNB",
+  "address": "0x77734e70b6e88b4d82fe632a168edf6e700912b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54129/thumb/asBNB_logo_%28200x200%29.png?1738393597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x77734e70b6e88b4d82fe632a168edf6e700912b6"
+  }
+}

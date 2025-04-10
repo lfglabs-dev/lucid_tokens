@@ -1,0 +1,15 @@
+{
+  "symbol": "ACCG",
+  "name": "ACCG",
+  "address": "0xd436f4f4f309f3eec38b33071ccc7115630a1f1c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23744/thumb/accg.png?1645272812",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd436f4f4f309f3eec38b33071ccc7115630a1f1c"
+  }
+}

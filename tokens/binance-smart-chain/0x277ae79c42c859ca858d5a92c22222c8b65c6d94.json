@@ -1,0 +1,15 @@
+{
+  "symbol": "ABB",
+  "name": "Astro Token",
+  "address": "0x277ae79c42c859ca858d5a92c22222c8b65c6d94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28158/thumb/Untitled_design.png?1668162808",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x277ae79c42c859ca858d5a92c22222c8b65c6d94"
+  }
+}

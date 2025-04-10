@@ -1,0 +1,16 @@
+{
+  "symbol": "SQD",
+  "name": "Subsquid",
+  "address": "0xd4554bea546efa83c1e6b389ecac40ea999b3e78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37869/thumb/subsquid.jpeg?1715827668",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1",
+    "base": "0xd4554bea546efa83c1e6b389ecac40ea999b3e78"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "NULL",
+  "name": "Null",
+  "address": "0xab236ed82a0184ab754534f3952b48408468c09b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51086/thumb/nullicon-gecko.png?1730019047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0a14ef61afb32e5ca672e021784f71705ac14908",
+    "binance-smart-chain": "0x3ebde1ed6b67236b1e714b3a6bb19644df03fd18",
+    "avalanche": "0xab236ed82a0184ab754534f3952b48408468c09b",
+    "arbitrum-one": "0x9cf7eebb75b751dc8fdd2268ae8c9b570b4c97b9"
+  }
+}

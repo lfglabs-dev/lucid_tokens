@@ -1,0 +1,15 @@
+{
+  "symbol": "P",
+  "name": "Pike Token",
+  "address": "0x25e1c298f100d7c600e9e44d46788c1ebbd4f69b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50771/thumb/image.png?1729132574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x25e1c298f100d7c600e9e44d46788c1ebbd4f69b"
+  }
+}

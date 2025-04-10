@@ -1,0 +1,15 @@
+{
+  "symbol": "HER",
+  "name": "HerityNetwork",
+  "address": "0x8c18ffd66d943c9b0ad3dc40e2d64638f1e6e1ab",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22724/thumb/Herity-logo.png?1642487662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8c18ffd66d943c9b0ad3dc40e2d64638f1e6e1ab"
+  }
+}

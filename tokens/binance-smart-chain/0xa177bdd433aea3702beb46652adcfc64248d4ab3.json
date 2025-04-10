@@ -1,0 +1,15 @@
+{
+  "symbol": "PBX",
+  "name": "Probinex Token",
+  "address": "0xa177bdd433aea3702beb46652adcfc64248d4ab3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23677/thumb/probinex.png?1651206210",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa177bdd433aea3702beb46652adcfc64248d4ab3"
+  }
+}

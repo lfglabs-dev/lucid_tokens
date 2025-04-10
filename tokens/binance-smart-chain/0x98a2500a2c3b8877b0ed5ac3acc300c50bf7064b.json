@@ -1,0 +1,15 @@
+{
+  "symbol": "NOOT",
+  "name": "NOOT",
+  "address": "0x98a2500a2c3b8877b0ed5ac3acc300c50bf7064b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30045/thumb/20230426_124808.png?1682672467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x98a2500a2c3b8877b0ed5ac3acc300c50bf7064b"
+  }
+}

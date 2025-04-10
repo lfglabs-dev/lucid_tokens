@@ -1,0 +1,15 @@
+{
+  "symbol": "BEAR",
+  "name": "Bear",
+  "address": "0x19c79f282d151995d91f6dbdda2739701f9c47aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33683/thumb/bear.jpg?1702731063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x19c79f282d151995d91f6dbdda2739701f9c47aa"
+  }
+}

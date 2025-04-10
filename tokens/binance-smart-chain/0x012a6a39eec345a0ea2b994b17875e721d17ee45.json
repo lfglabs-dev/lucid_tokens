@@ -1,0 +1,15 @@
+{
+  "symbol": "1RT",
+  "name": "1move",
+  "address": "0x012a6a39eec345a0ea2b994b17875e721d17ee45",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27348/thumb/1RT.png?1663654775",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x012a6a39eec345a0ea2b994b17875e721d17ee45"
+  }
+}

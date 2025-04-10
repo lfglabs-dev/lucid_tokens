@@ -1,0 +1,15 @@
+{
+  "symbol": "SFL",
+  "name": "Sunflower Land",
+  "address": "0xd1f9c58e33933a993a3891f8acfe05a68e1afc05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25514/thumb/download.png?1652164203",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd1f9c58e33933a993a3891f8acfe05a68e1afc05"
+  }
+}

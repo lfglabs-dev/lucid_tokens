@@ -1,0 +1,15 @@
+{
+  "symbol": "GINUX",
+  "name": "Green Shiba Inu",
+  "address": "0xc9ad37e9baf41377540df5a77831db98c1915128",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15649/thumb/inu-logo-new-200x200.png?1625578449",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc9ad37e9baf41377540df5a77831db98c1915128"
+  }
+}

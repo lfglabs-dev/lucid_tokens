@@ -1,0 +1,15 @@
+{
+  "symbol": "FX",
+  "name": "Ali for fx protocol by Virtuals",
+  "address": "0xebf7d4d84372f5df1b5d0e3ddd889e5bc286b1c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52319/thumb/imresizer-1732989192834.jpg?1733077790",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xebf7d4d84372f5df1b5d0e3ddd889e5bc286b1c3"
+  }
+}

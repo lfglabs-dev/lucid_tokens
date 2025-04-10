@@ -1,0 +1,15 @@
+{
+  "symbol": "SOLAR",
+  "name": "Solar",
+  "address": "0xae6241f806f0e1af82bf9b16b83447ab1f62283e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34598/thumb/solar-dex.jpeg?1705486051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xae6241f806f0e1af82bf9b16b83447ab1f62283e"
+  }
+}

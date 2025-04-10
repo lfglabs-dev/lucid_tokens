@@ -1,0 +1,15 @@
+{
+  "symbol": "GPT",
+  "name": "QnA3.AI Token",
+  "address": "0x30842a9c941d9de3af582c41ad12b11d776ba69e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36021/thumb/K2_1024.png?1710345392",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x30842a9c941d9de3af582c41ad12b11d776ba69e"
+  }
+}

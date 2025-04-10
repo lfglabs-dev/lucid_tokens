@@ -1,0 +1,15 @@
+{
+  "symbol": "CBR",
+  "name": "Cyberblast Token",
+  "address": "0xe070b87c4d88826d4cd1b85babe186fdb14cd321",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35649/thumb/Logo.png?1709374259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xe070b87c4d88826d4cd1b85babe186fdb14cd321"
+  }
+}

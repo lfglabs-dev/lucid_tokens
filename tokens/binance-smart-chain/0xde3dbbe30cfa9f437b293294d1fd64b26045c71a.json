@@ -1,0 +1,15 @@
+{
+  "symbol": "NFTB",
+  "name": "NFTB",
+  "address": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15484/thumb/nftb_logo.png?1624437899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a"
+  }
+}

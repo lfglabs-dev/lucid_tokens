@@ -1,0 +1,15 @@
+{
+  "symbol": "SNOR",
+  "name": "SNOR",
+  "address": "0xd013ca6b1f361a951f0c7125e65f5621c3dd8802",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55077/thumb/image_1_%282%29_%281%29.png?1743610689",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd013ca6b1f361a951f0c7125e65f5621c3dd8802"
+  }
+}

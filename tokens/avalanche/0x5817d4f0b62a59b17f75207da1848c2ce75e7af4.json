@@ -1,0 +1,15 @@
+{
+  "symbol": "VTX",
+  "name": "Vector",
+  "address": "0x5817d4f0b62a59b17f75207da1848c2ce75e7af4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24001/thumb/token-icon-brand2000px.png?1646028055",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x5817d4f0b62a59b17f75207da1848c2ce75e7af4"
+  }
+}

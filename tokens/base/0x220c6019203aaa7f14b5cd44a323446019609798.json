@@ -1,0 +1,15 @@
+{
+  "symbol": "SPORT",
+  "name": "Sports Analyst AI",
+  "address": "0x220c6019203aaa7f14b5cd44a323446019609798",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53896/thumb/IMG_4061ggg.jpg?1737665468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x220c6019203aaa7f14b5cd44a323446019609798"
+  }
+}

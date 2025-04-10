@@ -1,0 +1,17 @@
+{
+  "symbol": "WMATIC",
+  "name": "Wrapped Matic",
+  "address": "0xc836d8dc361e44dbe64c4862d55ba041f88ddd39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22947/thumb/MATICpo_wh_small.png?1644226625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7c9f4c87d911613fe9ca58b579f737911aad2d43",
+    "binance-smart-chain": "0xc836d8dc361e44dbe64c4862d55ba041f88ddd39",
+    "avalanche": "0xf2f13f0b7008ab2fa4a2418f4ccc3684e49d20eb"
+  }
+}

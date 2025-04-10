@@ -1,0 +1,16 @@
+{
+  "symbol": "OMNIA",
+  "name": "OMNIA Protocol",
+  "address": "0xb53cc8303943582949b9a23f0556b0f0c41fec98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24380/thumb/_7MestCj_400x400.jpg?1647447363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2e7e487d84b5baba5878a9833fb394bc89633fd7",
+    "binance-smart-chain": "0xb53cc8303943582949b9a23f0556b0f0c41fec98"
+  }
+}

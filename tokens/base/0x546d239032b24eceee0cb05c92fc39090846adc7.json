@@ -1,0 +1,15 @@
+{
+  "symbol": "SEED",
+  "name": "Seed",
+  "address": "0x546d239032b24eceee0cb05c92fc39090846adc7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35204/thumb/PixotchiLogo.png?1707845029",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x546d239032b24eceee0cb05c92fc39090846adc7"
+  }
+}

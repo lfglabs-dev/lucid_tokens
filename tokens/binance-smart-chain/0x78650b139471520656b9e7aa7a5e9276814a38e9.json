@@ -1,0 +1,15 @@
+{
+  "symbol": "BTCST",
+  "name": "StandardBTCHashrateToken",
+  "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+  "decimals": 17,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14449/thumb/4a3IskOf_400x400.png?1616137396",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x78650b139471520656b9e7aa7a5e9276814a38e9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CBD",
+  "name": "Greenheart",
+  "address": "0x0e2b41ea957624a314108cc4e33703e9d78f4b3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15284/thumb/GreenHeart-CBD-Logo-200x200px.png?1622197407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0e2b41ea957624a314108cc4e33703e9d78f4b3c"
+  }
+}

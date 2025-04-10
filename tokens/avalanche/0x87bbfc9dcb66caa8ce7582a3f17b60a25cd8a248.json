@@ -1,0 +1,15 @@
+{
+  "symbol": "$Td",
+  "name": "Big Red",
+  "address": "0x87bbfc9dcb66caa8ce7582a3f17b60a25cd8a248",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36411/thumb/logo_200.jpg?1711371145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x87bbfc9dcb66caa8ce7582a3f17b60a25cd8a248"
+  }
+}

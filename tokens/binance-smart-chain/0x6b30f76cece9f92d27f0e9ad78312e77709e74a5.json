@@ -1,0 +1,15 @@
+{
+  "symbol": "EMMET",
+  "name": "EMMET",
+  "address": "0x6b30f76cece9f92d27f0e9ad78312e77709e74a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52738/thumb/emmet-logo.jpg?1734106709",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6b30f76cece9f92d27f0e9ad78312e77709e74a5"
+  }
+}

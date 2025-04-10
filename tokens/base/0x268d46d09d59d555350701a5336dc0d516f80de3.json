@@ -1,0 +1,15 @@
+{
+  "symbol": "ONLYUP",
+  "name": "ONLYUP",
+  "address": "0x268d46d09d59d555350701a5336dc0d516f80de3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54801/thumb/AVA_%281%29.jpg?1741702453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x268d46d09d59d555350701a5336dc0d516f80de3"
+  }
+}

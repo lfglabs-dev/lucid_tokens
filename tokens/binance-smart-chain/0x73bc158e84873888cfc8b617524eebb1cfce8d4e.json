@@ -1,0 +1,15 @@
+{
+  "symbol": "CTL",
+  "name": "Twelve Legions",
+  "address": "0x73bc158e84873888cfc8b617524eebb1cfce8d4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21282/thumb/eEuyEtJ.png?1638863963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x73bc158e84873888cfc8b617524eebb1cfce8d4e"
+  }
+}

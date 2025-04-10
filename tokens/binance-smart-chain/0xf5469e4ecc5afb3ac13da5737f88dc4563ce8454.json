@@ -1,0 +1,15 @@
+{
+  "symbol": "LAN",
+  "name": "LAN Network",
+  "address": "0xf5469e4ecc5afb3ac13da5737f88dc4563ce8454",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32091/thumb/cba9b063-19c2-4f64-a11e-5456bae433e5.jpeg?1696413079",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf5469e4ecc5afb3ac13da5737f88dc4563ce8454"
+  }
+}

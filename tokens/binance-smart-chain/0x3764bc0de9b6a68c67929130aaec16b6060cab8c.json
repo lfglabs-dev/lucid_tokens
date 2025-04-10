@@ -1,0 +1,16 @@
+{
+  "symbol": "XIDO",
+  "name": "XIDO FINANCE",
+  "address": "0x3764bc0de9b6a68c67929130aaec16b6060cab8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16161/thumb/KJw4clj.png?1623141959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf6650117017ffd48b725b4ec5a00b414097108a7",
+    "binance-smart-chain": "0x3764bc0de9b6a68c67929130aaec16b6060cab8c"
+  }
+}

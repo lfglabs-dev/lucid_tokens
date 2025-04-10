@@ -1,0 +1,15 @@
+{
+  "symbol": "ZIX",
+  "name": "Coinzix Token",
+  "address": "0x48077400faf11183c043feb5184a13ea628bb0db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27886/thumb/logo_coinzix_200x200_transparent_png.png?1666239312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x48077400faf11183c043feb5184a13ea628bb0db"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ALVA",
+  "name": "Alvara",
+  "address": "0xd18555a6c2fda350069735419900478eec4abd96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35707/thumb/ALVA.png?1709624242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e729198d1c59b82bd6bba579310c40d740a11c2",
+    "avalanche": "0xd18555a6c2fda350069735419900478eec4abd96"
+  }
+}

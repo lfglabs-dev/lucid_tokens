@@ -1,0 +1,15 @@
+{
+  "symbol": "SWAY",
+  "name": "Sway Social Protocol",
+  "address": "0x262b8aa7542004f023b0eb02bc6b96350a02b728",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18915/thumb/sway.png?1638944259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x262b8aa7542004f023b0eb02bc6b96350a02b728"
+  }
+}

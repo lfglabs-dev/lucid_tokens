@@ -1,0 +1,17 @@
+{
+  "symbol": "BBUSD",
+  "name": "BounceBit USD",
+  "address": "0x77776b40c3d75cb07ce54dea4b2fd1d07f865222",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37931/thumb/bbusd_icon.png?1715939661",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "bouncebit": "0x77776b40c3d75cb07ce54dea4b2fd1d07f865222",
+    "ethereum": "0x77776b40c3d75cb07ce54dea4b2fd1d07f865222",
+    "binance-smart-chain": "0x77776b40c3d75cb07ce54dea4b2fd1d07f865222"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "BORING",
+  "name": "BoringDAO",
+  "address": "0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16429/thumb/Tjq3pXEH_400x400.jpg?1623997009",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
+    "binance-smart-chain": "0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f"
+  }
+}

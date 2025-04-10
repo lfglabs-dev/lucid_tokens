@@ -1,0 +1,15 @@
+{
+  "symbol": "PEIPEI",
+  "name": "Chinese PEPE",
+  "address": "0x22178c1b9e0455d5d20661e5aa8f34354f888888",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38910/thumb/zCzWutAi_400x400_%281%29.jpg?1719474229",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x22178c1b9e0455d5d20661e5aa8f34354f888888"
+  }
+}

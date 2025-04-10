@@ -1,0 +1,15 @@
+{
+  "symbol": "CERTAI",
+  "name": "CertaiK by Virtuals",
+  "address": "0xf5f2a79eeccf6e7f4c570c803f529930e29cc96b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52488/thumb/download.jpeg?1733432223",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf5f2a79eeccf6e7f4c570c803f529930e29cc96b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DXT",
+  "name": "DEXIT",
+  "address": "0x2b2ff80c489dad868318a19fd6f258889a026da5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17611/thumb/Dexit_Logo.png?1645084928",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2b2ff80c489dad868318a19fd6f258889a026da5"
+  }
+}

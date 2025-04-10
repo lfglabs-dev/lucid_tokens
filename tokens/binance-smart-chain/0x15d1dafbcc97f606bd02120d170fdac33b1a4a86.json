@@ -1,0 +1,15 @@
+{
+  "symbol": "CBP",
+  "name": "CashBackPro",
+  "address": "0x15d1dafbcc97f606bd02120d170fdac33b1a4a86",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12893/thumb/logo_%2818%29.png?1603766120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x15d1dafbcc97f606bd02120d170fdac33b1a4a86"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "WHY",
+  "name": "why",
+  "address": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36812/thumb/output-onlinepngtools.png?1712548697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27"
+  }
+}

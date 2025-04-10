@@ -1,0 +1,15 @@
+{
+  "symbol": "NIKITA",
+  "name": "NIKITA by Virtuals",
+  "address": "0x698b49063c14d2753d23064ff891a876cffa6fb5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52146/thumb/Nikita_Pic.png?1732652736",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x698b49063c14d2753d23064ff891a876cffa6fb5"
+  }
+}

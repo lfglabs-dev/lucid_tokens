@@ -1,0 +1,15 @@
+{
+  "symbol": "BTAF",
+  "name": "BTAF",
+  "address": "0xcae3d82d63e2b0094bc959752993d3d3743b5d08",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28871/thumb/BTAF_BSC200x200-CoinGecko.png?1675130943",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcae3d82d63e2b0094bc959752993d3d3743b5d08"
+  }
+}

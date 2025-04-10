@@ -1,0 +1,15 @@
+{
+  "symbol": "asCAKE",
+  "name": "Astherus CAKE",
+  "address": "0x9817f4c9f968a553ff6caef1a2ef6cf1386f16f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54131/thumb/asCAKE_logo_%28200x200%29.png?1738393766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9817f4c9f968a553ff6caef1a2ef6cf1386f16f7"
+  }
+}

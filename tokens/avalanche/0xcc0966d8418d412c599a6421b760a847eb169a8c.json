@@ -1,0 +1,28 @@
+{
+  "symbol": "xSolvBTC",
+  "name": "xSolvBTC",
+  "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1346b618dc92810ec74163e4c27004c921d446a5",
+    "mantle": "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20",
+    "merlin-chain": "0x1760900aca15b90fa2eca70ce4b4ec441c2cf6c5",
+    "taiko": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "sonic": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "soneium": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "berachain": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "sei-v2": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "corn": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "bob-network": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "ethereum": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
+    "avalanche": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "arbitrum-one": "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab",
+    "base": "0xc26c9099bd3789107888c35bb41178079b282561"
+  }
+}

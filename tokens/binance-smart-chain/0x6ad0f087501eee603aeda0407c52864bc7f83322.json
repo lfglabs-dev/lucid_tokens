@@ -1,0 +1,15 @@
+{
+  "symbol": "MEFA",
+  "name": "META FACE",
+  "address": "0x6ad0f087501eee603aeda0407c52864bc7f83322",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21375/thumb/ZBC4FWKR_400x400.jpg?1639032278",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6ad0f087501eee603aeda0407c52864bc7f83322"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "MUTE",
+  "name": "Mute.io",
+  "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14331/thumb/MUTE.png?1617618967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+    "zksync": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SIXP",
+  "name": "Sixpack Token",
+  "address": "0xf117dfcb241c0003d5e2fc72f288755c17a46980",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54510/thumb/SIXP_Icon.png?1740068029",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf117dfcb241c0003d5e2fc72f288755c17a46980"
+  }
+}

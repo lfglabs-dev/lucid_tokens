@@ -1,0 +1,15 @@
+{
+  "symbol": "UNI",
+  "name": "UNILAPSE",
+  "address": "0xf0b2b2d73a7c070e5f44a4e12b3f6a51949a3459",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32458/thumb/a.png?1698241491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf0b2b2d73a7c070e5f44a4e12b3f6a51949a3459"
+  }
+}

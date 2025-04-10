@@ -1,0 +1,15 @@
+{
+  "symbol": "SLT",
+  "name": "SLT",
+  "address": "0x39e8aaaaf4b642f9c4fd57a9bee3f337665678d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38198/thumb/SLC_3x.png?1716791358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x39e8aaaaf4b642f9c4fd57a9bee3f337665678d0"
+  }
+}

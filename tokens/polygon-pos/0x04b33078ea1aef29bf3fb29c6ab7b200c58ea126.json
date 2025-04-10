@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFLE",
+  "name": "Safle",
+  "address": "0x04b33078ea1aef29bf3fb29c6ab7b200c58ea126",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21674/thumb/56835021.png?1639710939",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x04b33078ea1aef29bf3fb29c6ab7b200c58ea126"
+  }
+}

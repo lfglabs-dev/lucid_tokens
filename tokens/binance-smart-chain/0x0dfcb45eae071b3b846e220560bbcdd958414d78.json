@@ -1,0 +1,15 @@
+{
+  "symbol": "LIBERO",
+  "name": "Libero Financial Freedom",
+  "address": "0x0dfcb45eae071b3b846e220560bbcdd958414d78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23971/thumb/libero.png?1645869416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0dfcb45eae071b3b846e220560bbcdd958414d78"
+  }
+}

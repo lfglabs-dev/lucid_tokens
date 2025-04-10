@@ -1,0 +1,18 @@
+{
+  "symbol": "TOWER",
+  "name": "TOWER",
+  "address": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14134/thumb/tower-circular-1000.png?1632195469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+    "binance-smart-chain": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924",
+    "polygon-pos": "0x2bc07124d8dac638e290f401046ad584546bc47b",
+    "base": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TTT",
+  "name": "TopTrade",
+  "address": "0x2cb63fcd1380a8ad0ff5ba16ddcbdf4935154da8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30159/thumb/IMG_20230505_073247_596.jpg?1683526616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2cb63fcd1380a8ad0ff5ba16ddcbdf4935154da8"
+  }
+}

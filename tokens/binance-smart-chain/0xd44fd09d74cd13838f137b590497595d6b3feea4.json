@@ -1,0 +1,15 @@
+{
+  "symbol": "ETERNAL",
+  "name": "CryptoMines Eternal",
+  "address": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18344/thumb/rn78txF.png?1631602371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd44fd09d74cd13838f137b590497595d6b3feea4"
+  }
+}

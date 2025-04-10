@@ -1,0 +1,15 @@
+{
+  "symbol": "SX",
+  "name": "SolarSX",
+  "address": "0x2ed9f293e9fa17123435f817754d322cfaccf909",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54138/thumb/logo_solarsx.jpg?1738395611",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2ed9f293e9fa17123435f817754d322cfaccf909"
+  }
+}

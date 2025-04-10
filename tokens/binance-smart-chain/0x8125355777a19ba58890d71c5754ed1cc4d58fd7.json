@@ -1,0 +1,15 @@
+{
+  "symbol": "MAKE",
+  "name": "MAKE",
+  "address": "0x8125355777a19ba58890d71c5754ed1cc4d58fd7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51360/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241031020021.png?1730878105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8125355777a19ba58890d71c5754ed1cc4d58fd7"
+  }
+}

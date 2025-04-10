@@ -1,0 +1,15 @@
+{
+  "symbol": "LB",
+  "name": "Love Bit",
+  "address": "0x8613d52d74a48883a51badf8b25ab066714087da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38481/thumb/lovebit_coingecko.png?1717656947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8613d52d74a48883a51badf8b25ab066714087da"
+  }
+}

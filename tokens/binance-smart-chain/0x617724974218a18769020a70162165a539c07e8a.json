@@ -1,0 +1,17 @@
+{
+  "symbol": "OLIVE",
+  "name": "OliveCash Token",
+  "address": "0x617724974218a18769020a70162165a539c07e8a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14880/thumb/2_%285%29.png?1618887745",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x617724974218a18769020a70162165a539c07e8a",
+    "fantom": "0xa9937092c4e2b0277c16802cc8778d252854688a",
+    "avalanche": "0x617724974218a18769020a70162165a539c07e8a"
+  }
+}

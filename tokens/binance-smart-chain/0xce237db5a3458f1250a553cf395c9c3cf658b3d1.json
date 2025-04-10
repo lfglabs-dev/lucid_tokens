@@ -1,0 +1,15 @@
+{
+  "symbol": "VIZ",
+  "name": "VIZ Token",
+  "address": "0xce237db5a3458f1250a553cf395c9c3cf658b3d1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31711/thumb/viz-200x200.png?1694578342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xce237db5a3458f1250a553cf395c9c3cf658b3d1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MIMBO",
+  "name": "MIMBO",
+  "address": "0xbf76dbf84b16da71366fc73cf8c19600449ce71a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31297/thumb/%ED%8B%B0%EC%BB%A4%EC%9E%91%EC%97%85_%EC%99%84%EB%A3%8C.png?1692338755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbf76dbf84b16da71366fc73cf8c19600449ce71a"
+  }
+}

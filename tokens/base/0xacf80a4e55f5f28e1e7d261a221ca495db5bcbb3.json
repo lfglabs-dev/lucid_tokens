@@ -1,0 +1,15 @@
+{
+  "symbol": "XAVI",
+  "name": "XAVI by Virtuals",
+  "address": "0xacf80a4e55f5f28e1e7d261a221ca495db5bcbb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53760/thumb/_XAVI.jpg?1737188465",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xacf80a4e55f5f28e1e7d261a221ca495db5bcbb3"
+  }
+}

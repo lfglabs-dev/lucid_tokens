@@ -1,0 +1,15 @@
+{
+  "symbol": "MDTI",
+  "name": "Meditoc",
+  "address": "0x1d2ec31b2fcd89997a544d6e7444586dce529b4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39897/thumb/200x200.png?1724732471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1d2ec31b2fcd89997a544d6e7444586dce529b4e"
+  }
+}

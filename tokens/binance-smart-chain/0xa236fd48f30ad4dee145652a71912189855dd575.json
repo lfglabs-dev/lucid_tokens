@@ -1,0 +1,15 @@
+{
+  "symbol": "CRH",
+  "name": "Crypto Hunters Coin",
+  "address": "0xa236fd48f30ad4dee145652a71912189855dd575",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35642/thumb/CRH.png?1709368367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa236fd48f30ad4dee145652a71912189855dd575"
+  }
+}

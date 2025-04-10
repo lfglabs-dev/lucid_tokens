@@ -1,0 +1,17 @@
+{
+  "symbol": "iDYP",
+  "name": "iDeFiYieldProtocol",
+  "address": "0xbd100d061e120b2c67a24453cf6368e63f1be056",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21976/thumb/i-DYP-Logo-1.png?1640570294",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbd100d061e120b2c67a24453cf6368e63f1be056",
+    "ethereum": "0xbd100d061e120b2c67a24453cf6368e63f1be056",
+    "avalanche": "0xbd100d061e120b2c67a24453cf6368e63f1be056"
+  }
+}

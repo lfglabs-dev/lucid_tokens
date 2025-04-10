@@ -1,0 +1,15 @@
+{
+  "symbol": "W3F",
+  "name": "Web3Frontier",
+  "address": "0xc01444175ff3c39047f1548507cdf2183dc55e06",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33192/thumb/w3f-cg.png?1700969746",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc01444175ff3c39047f1548507cdf2183dc55e06"
+  }
+}

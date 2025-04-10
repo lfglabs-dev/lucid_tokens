@@ -1,0 +1,16 @@
+{
+  "symbol": "TWT",
+  "name": "Trust Wallet",
+  "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11085/thumb/Trust.png?1588062702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+    "energi": "0xfaa02b262130431b44c929fdd960e202ffeabfe3"
+  }
+}

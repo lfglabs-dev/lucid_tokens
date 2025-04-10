@@ -1,0 +1,15 @@
+{
+  "symbol": "PIG",
+  "name": "Pigcoin",
+  "address": "0xe9bc9ad74cca887aff32ba09a121b1256fc9f052",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35425/thumb/pigcoin_200.png?1708544734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe9bc9ad74cca887aff32ba09a121b1256fc9f052"
+  }
+}

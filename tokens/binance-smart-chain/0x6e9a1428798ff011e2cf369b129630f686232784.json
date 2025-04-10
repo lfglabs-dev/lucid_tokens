@@ -1,0 +1,15 @@
+{
+  "symbol": "KBK",
+  "name": "Koubek",
+  "address": "0x6e9a1428798ff011e2cf369b129630f686232784",
+  "decimals": 15,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32039/thumb/koubek_logo_coingecko_2023.png?1696234003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6e9a1428798ff011e2cf369b129630f686232784"
+  }
+}

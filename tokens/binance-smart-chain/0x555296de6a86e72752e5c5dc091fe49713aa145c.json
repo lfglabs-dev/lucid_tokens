@@ -1,0 +1,15 @@
+{
+  "symbol": "GRAPE",
+  "name": "Grape coin",
+  "address": "0x555296de6a86e72752e5c5dc091fe49713aa145c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33856/thumb/grapes.png?1703127758",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x555296de6a86e72752e5c5dc091fe49713aa145c"
+  }
+}

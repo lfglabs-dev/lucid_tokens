@@ -1,0 +1,15 @@
+{
+  "symbol": "MRUN",
+  "name": "METARUN",
+  "address": "0xac6ec101ddcb953774d103ba4a82fa257138459f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24219/thumb/GDgQSjgZ_400x400.jpg?1646918963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xac6ec101ddcb953774d103ba4a82fa257138459f"
+  }
+}

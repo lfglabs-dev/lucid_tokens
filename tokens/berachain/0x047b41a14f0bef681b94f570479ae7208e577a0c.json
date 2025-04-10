@@ -1,0 +1,15 @@
+{
+  "symbol": "HIM",
+  "name": "Honey Is Money",
+  "address": "0x047b41a14f0bef681b94f570479ae7208e577a0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54552/thumb/HIM_LOGO.jpg?1740307478",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x047b41a14f0bef681b94f570479ae7208e577a0c"
+  }
+}

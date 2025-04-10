@@ -1,0 +1,15 @@
+{
+  "symbol": "SQRB",
+  "name": "SQRBIT",
+  "address": "0xa9cb8ecb67fe770fe1f2feb3c2d85117cac0d4fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39113/thumb/SQRBT_Image.png?1720588604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa9cb8ecb67fe770fe1f2feb3c2d85117cac0d4fb"
+  }
+}

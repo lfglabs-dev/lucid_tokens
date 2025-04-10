@@ -1,0 +1,15 @@
+{
+  "symbol": "OGGY",
+  "name": "Oggy Inu",
+  "address": "0x92ed61fb8955cc4e392781cb8b7cd04aadc43d0c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29691/thumb/Oggy_Logo_200*200.png?1680670620",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x92ed61fb8955cc4e392781cb8b7cd04aadc43d0c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "EDE",
+  "name": "EDE",
+  "address": "0x0a074378461fb7ed3300ea638c6cc38246db4434",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31296/thumb/ede.jpeg?1692338200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0a074378461fb7ed3300ea638c6cc38246db4434"
+  }
+}

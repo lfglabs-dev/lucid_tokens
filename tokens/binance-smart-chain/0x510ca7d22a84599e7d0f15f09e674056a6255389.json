@@ -1,0 +1,15 @@
+{
+  "symbol": "LABS",
+  "name": "LABS Group V2",
+  "address": "0x510ca7d22a84599e7d0f15f09e674056a6255389",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14401/thumb/LABS_logo_icon_COLOR-8.png?1615890483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x510ca7d22a84599e7d0f15f09e674056a6255389"
+  }
+}

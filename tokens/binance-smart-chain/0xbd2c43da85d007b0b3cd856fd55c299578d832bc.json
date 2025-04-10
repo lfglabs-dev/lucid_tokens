@@ -1,0 +1,15 @@
+{
+  "symbol": "LQT",
+  "name": "LQT Token",
+  "address": "0xbd2c43da85d007b0b3cd856fd55c299578d832bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16384/thumb/ktQzdAe.png?1628601338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbd2c43da85d007b0b3cd856fd55c299578d832bc"
+  }
+}

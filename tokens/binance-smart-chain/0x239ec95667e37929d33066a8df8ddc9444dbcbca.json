@@ -1,0 +1,15 @@
+{
+  "symbol": "DFI",
+  "name": "DFI",
+  "address": "0x239ec95667e37929d33066a8df8ddc9444dbcbca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19037/thumb/Dfistarter-LOGO-4-02.png?1634202836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x239ec95667e37929d33066a8df8ddc9444dbcbca"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "rgUSD",
+  "name": "Revenue Generating USD",
+  "address": "0x8e5e9df4f0ea39ae5270e79bbabfcc34203a3470",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38146/thumb/rgusd%28200_x_200_px%29.png?1716654569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x78da5799cf427fee11e9996982f4150ece7a99a7",
+    "arbitrum-one": "0x96a993f06951b01430523d0d5590192d650ebf3e",
+    "base": "0x8e5e9df4f0ea39ae5270e79bbabfcc34203a3470"
+  }
+}

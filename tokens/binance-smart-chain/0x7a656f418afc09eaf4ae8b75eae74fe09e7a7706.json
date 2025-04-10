@@ -1,0 +1,15 @@
+{
+  "symbol": "OPY",
+  "name": "OPYx",
+  "address": "0x7a656f418afc09eaf4ae8b75eae74fe09e7a7706",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34768/thumb/opyx_logo_200x200.png?1705992330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7a656f418afc09eaf4ae8b75eae74fe09e7a7706"
+  }
+}

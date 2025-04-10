@@ -1,0 +1,15 @@
+{
+  "symbol": "AIRTOK",
+  "name": "Airtok AI",
+  "address": "0x8217aef424b8ed7279d90ec29315a6295dc73d16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54451/thumb/airtok.jpg?1739778722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8217aef424b8ed7279d90ec29315a6295dc73d16"
+  }
+}

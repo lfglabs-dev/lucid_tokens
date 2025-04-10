@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYDOGE",
+  "name": "Save Baby Doge",
+  "address": "0x43f102bbd52259f2cfd0ef82e8807e3610ae3e40",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16923/thumb/BABYDOGE.png?1625635407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x43f102bbd52259f2cfd0ef82e8807e3610ae3e40"
+  }
+}

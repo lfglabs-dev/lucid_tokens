@@ -1,0 +1,15 @@
+{
+  "symbol": "BaseAI",
+  "name": "BaseAI",
+  "address": "0xc2464fb6edc12e4c0d3aa9b201497a27e6b7ef04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36614/thumb/photo_2024-03-29_12.08.45.jpeg?1711975700",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc2464fb6edc12e4c0d3aa9b201497a27e6b7ef04"
+  }
+}

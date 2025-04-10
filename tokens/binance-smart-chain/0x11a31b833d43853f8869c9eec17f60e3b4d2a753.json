@@ -1,0 +1,15 @@
+{
+  "symbol": "BioFi",
+  "name": "BioFi",
+  "address": "0x11a31b833d43853f8869c9eec17f60e3b4d2a753",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25207/thumb/CoinGekoBioFiImage.png?1650771084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x11a31b833d43853f8869c9eec17f60e3b4d2a753"
+  }
+}

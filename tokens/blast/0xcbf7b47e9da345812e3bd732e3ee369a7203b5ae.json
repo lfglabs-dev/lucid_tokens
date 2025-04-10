@@ -1,0 +1,19 @@
+{
+  "symbol": "PSTAKE",
+  "name": "pSTAKE Finance",
+  "address": "0xcbf7b47e9da345812e3bd732e3ee369a7203b5ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23931/thumb/PSTAKE_Dark.png?1645709930",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfb5c6815ca3ac72ce9f5006869ae67f18bf77006",
+    "optimistic-ethereum": "0x023550adde4fa2f90d63a41d9282bee0294c04cd",
+    "blast": "0xcbf7b47e9da345812e3bd732e3ee369a7203b5ae",
+    "binance-smart-chain": "0x4c882ec256823ee773b25b414d36f92ef58a7c0c",
+    "base": "0x38815a4455921667d673b4cb3d48f0383ee93400"
+  }
+}

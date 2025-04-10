@@ -1,0 +1,15 @@
+{
+  "symbol": "KONG",
+  "name": "KONG",
+  "address": "0xebb5d4959b2fba6318fbda7d03cd44ae771fc999",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36347/thumb/kong-logo-200.png?1711187578",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xebb5d4959b2fba6318fbda7d03cd44ae771fc999"
+  }
+}

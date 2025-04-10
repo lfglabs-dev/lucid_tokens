@@ -1,0 +1,15 @@
+{
+  "symbol": "WOLF",
+  "name": "LandWolf",
+  "address": "0x88faea256f789f8dd50de54f9c807eef24f71b16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36803/thumb/IMG_8678.jpeg?1712469842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x88faea256f789f8dd50de54f9c807eef24f71b16"
+  }
+}

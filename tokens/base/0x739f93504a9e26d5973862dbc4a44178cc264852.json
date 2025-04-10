@@ -1,0 +1,15 @@
+{
+  "symbol": "LMY",
+  "name": "Locked Money",
+  "address": "0x739f93504a9e26d5973862dbc4a44178cc264852",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54435/thumb/Locked_Money.png?1739707091",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x739f93504a9e26d5973862dbc4a44178cc264852"
+  }
+}

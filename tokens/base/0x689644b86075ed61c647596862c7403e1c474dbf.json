@@ -1,0 +1,15 @@
+{
+  "symbol": "BAMBOO",
+  "name": "Bamboo on Base",
+  "address": "0x689644b86075ed61c647596862c7403e1c474dbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39126/thumb/Bamboo_Logo_800x800.png?1720656497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x689644b86075ed61c647596862c7403e1c474dbf"
+  }
+}

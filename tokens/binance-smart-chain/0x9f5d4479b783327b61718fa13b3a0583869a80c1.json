@@ -1,0 +1,15 @@
+{
+  "symbol": "BOXY",
+  "name": "BOXY",
+  "address": "0x9f5d4479b783327b61718fa13b3a0583869a80c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39037/thumb/hotboxy-min.png?1720062735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9f5d4479b783327b61718fa13b3a0583869a80c1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "LSHARE",
+  "name": "LSHARE",
+  "address": "0xf70b6d6acd652612f24f7dd2ca2f1727eb20793a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26038/thumb/LSHARE.png?1655363885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0xcbe0ca46399af916784cadf5bcc3aed2052d6c45",
+    "tombchain": "0x4200000000000000000000000000000000000109",
+    "binance-smart-chain": "0xf70b6d6acd652612f24f7dd2ca2f1727eb20793a",
+    "polygon-pos": "0xfb40b1efe90d4b786d2d9d9dc799b18bde92923b"
+  }
+}

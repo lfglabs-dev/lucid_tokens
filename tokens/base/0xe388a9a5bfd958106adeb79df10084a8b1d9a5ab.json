@@ -1,0 +1,15 @@
+{
+  "symbol": "LORDY",
+  "name": "Lordy",
+  "address": "0xe388a9a5bfd958106adeb79df10084a8b1d9a5ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37273/thumb/BORD_Token_CG.png?1713889647",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe388a9a5bfd958106adeb79df10084a8b1d9a5ab"
+  }
+}

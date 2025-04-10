@@ -1,0 +1,15 @@
+{
+  "symbol": "PWR",
+  "name": "Gamebitcoin Power",
+  "address": "0xc2a7195cef4605bd80b949cd7eb1f7ad1566c850",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53262/thumb/pwr_200x200.png?1735911290",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc2a7195cef4605bd80b949cd7eb1f7ad1566c850"
+  }
+}

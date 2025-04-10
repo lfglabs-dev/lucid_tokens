@@ -1,0 +1,15 @@
+{
+  "symbol": "ROOMCON",
+  "name": "ROOMCON",
+  "address": "0x999e62f80d2c8ec8adfbf041b06239c6ae6d8492",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55005/thumb/roomcon_logo_200x200.png?1743157706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x999e62f80d2c8ec8adfbf041b06239c6ae6d8492"
+  }
+}

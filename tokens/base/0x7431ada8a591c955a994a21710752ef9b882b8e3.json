@@ -1,0 +1,17 @@
+{
+  "symbol": "MOR",
+  "name": "MOR",
+  "address": "0x7431ada8a591c955a994a21710752ef9b882b8e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37969/thumb/Morpheus.png?1716192274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86",
+    "ethereum": "0xcbb8f1bda10b9696c57e13bc128fe674769dcec0",
+    "base": "0x7431ada8a591c955a994a21710752ef9b882b8e3"
+  }
+}

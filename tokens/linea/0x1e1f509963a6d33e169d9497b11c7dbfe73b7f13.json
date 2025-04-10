@@ -1,0 +1,17 @@
+{
+  "symbol": "USDT+",
+  "name": "USDT+",
+  "address": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30168/thumb/USDT_.png?1683533091",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
+    "binance-smart-chain": "0x5335e87930b410b8c5bb4d43c3360aca15ec0c8c",
+    "arbitrum-one": "0xb1084db8d3c05cebd5fa9335df95ee4b8a0edc30"
+  }
+}

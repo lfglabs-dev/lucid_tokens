@@ -1,0 +1,15 @@
+{
+  "symbol": "GROW",
+  "name": "Grow Token",
+  "address": "0x0c9ad20802e89bea858ae2e8594843fafa887cb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/35999/thumb/29608.png?1710318833",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0c9ad20802e89bea858ae2e8594843fafa887cb3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SB",
+  "name": "Snowbank",
+  "address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19947/thumb/sb.png?1636337110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f"
+  }
+}

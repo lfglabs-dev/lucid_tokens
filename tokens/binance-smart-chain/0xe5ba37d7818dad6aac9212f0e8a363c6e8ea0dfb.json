@@ -1,0 +1,15 @@
+{
+  "symbol": "KingNeiro",
+  "name": "King Neiro",
+  "address": "0xe5ba37d7818dad6aac9212f0e8a363c6e8ea0dfb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51059/thumb/200x200kingneiro.jpg?1729877401",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe5ba37d7818dad6aac9212f0e8a363c6e8ea0dfb"
+  }
+}

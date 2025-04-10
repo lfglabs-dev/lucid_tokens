@@ -1,0 +1,16 @@
+{
+  "symbol": "URUS",
+  "name": "Aurox Token",
+  "address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14122/thumb/Aurox.png?1648524329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
+    "binance-smart-chain": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b"
+  }
+}

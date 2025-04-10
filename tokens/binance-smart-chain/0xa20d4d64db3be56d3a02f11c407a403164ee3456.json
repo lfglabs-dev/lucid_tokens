@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYMAGA",
+  "name": "Baby Maga",
+  "address": "0xa20d4d64db3be56d3a02f11c407a403164ee3456",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51250/thumb/photo_2024-10-30_06.06.17.png?1730452089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa20d4d64db3be56d3a02f11c407a403164ee3456"
+  }
+}

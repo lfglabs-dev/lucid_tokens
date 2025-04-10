@@ -1,0 +1,16 @@
+{
+  "symbol": "PDT",
+  "name": "Paragons DAO Token",
+  "address": "0xeff2a458e464b07088bdb441c21a42ab4b61e07e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22642/thumb/6_Ms7ltG_400x400.jpg?1642395792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x375abb85c329753b1ba849a601438ae77eec9893",
+    "base": "0xeff2a458e464b07088bdb441c21a42ab4b61e07e"
+  }
+}

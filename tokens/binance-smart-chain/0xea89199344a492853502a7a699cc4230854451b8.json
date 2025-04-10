@@ -1,0 +1,16 @@
+{
+  "symbol": "ONI",
+  "name": "Onino",
+  "address": "0xea89199344a492853502a7a699cc4230854451b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9405/thumb/Oni_Round.png?1643035358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xea89199344a492853502a7a699cc4230854451b8",
+    "fantom": "0x667c856f1a624baefe89fc4909c8701296c86c98"
+  }
+}

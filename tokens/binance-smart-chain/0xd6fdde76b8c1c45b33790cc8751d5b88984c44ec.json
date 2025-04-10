@@ -1,0 +1,15 @@
+{
+  "symbol": "STRX",
+  "name": "StrikeX",
+  "address": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15839/thumb/StrikeX-Icon-200px.png?1635161631",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec"
+  }
+}

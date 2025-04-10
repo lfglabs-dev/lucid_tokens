@@ -1,0 +1,15 @@
+{
+  "symbol": "ANS",
+  "name": "Apollo Name Service",
+  "address": "0xa8c2e771288585229eea8dbe072edfa7bcb388bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40040/thumb/star_logo8305.png?1725392202",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa8c2e771288585229eea8dbe072edfa7bcb388bb"
+  }
+}

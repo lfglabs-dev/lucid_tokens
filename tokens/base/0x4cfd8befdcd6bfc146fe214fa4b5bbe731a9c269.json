@@ -1,0 +1,15 @@
+{
+  "symbol": "BITZ",
+  "name": "MARBITZ",
+  "address": "0x4cfd8befdcd6bfc146fe214fa4b5bbe731a9c269",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52685/thumb/marbitz.jpg?1734028916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4cfd8befdcd6bfc146fe214fa4b5bbe731a9c269"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BSCPAD",
+  "name": "BSCPAD.com",
+  "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14135/thumb/bscpad_logo.jpg?1614611664",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
+  }
+}

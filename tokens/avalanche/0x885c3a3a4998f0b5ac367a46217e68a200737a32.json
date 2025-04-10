@@ -1,0 +1,15 @@
+{
+  "symbol": "ALBERT",
+  "name": "ALBERT",
+  "address": "0x885c3a3a4998f0b5ac367a46217e68a200737a32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54748/thumb/ALBERT_Token_Logo_1.png?1741331150",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x885c3a3a4998f0b5ac367a46217e68a200737a32"
+  }
+}

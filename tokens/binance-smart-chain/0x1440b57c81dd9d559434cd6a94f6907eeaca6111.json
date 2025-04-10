@@ -1,0 +1,15 @@
+{
+  "symbol": "MARSK",
+  "name": "MARSK",
+  "address": "0x1440b57c81dd9d559434cd6a94f6907eeaca6111",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50651/thumb/MARSK-LOGO.png?1728616981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1440b57c81dd9d559434cd6a94f6907eeaca6111"
+  }
+}

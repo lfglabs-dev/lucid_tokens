@@ -1,0 +1,15 @@
+{
+  "symbol": "GMTO",
+  "name": "GameMeteorCoin",
+  "address": "0x25578065bdd4ebd68e7ffeedfc4e6614f3f0057f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39981/thumb/GMTO_logo.png?1725024799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x25578065bdd4ebd68e7ffeedfc4e6614f3f0057f"
+  }
+}

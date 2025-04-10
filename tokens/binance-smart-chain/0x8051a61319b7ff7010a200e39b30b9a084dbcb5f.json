@@ -1,0 +1,15 @@
+{
+  "symbol": "camel",
+  "name": "camel",
+  "address": "0x8051a61319b7ff7010a200e39b30b9a084dbcb5f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54987/thumb/camel.jpg?1743059215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8051a61319b7ff7010a200e39b30b9a084dbcb5f"
+  }
+}

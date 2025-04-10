@@ -1,0 +1,15 @@
+{
+  "symbol": "ASS",
+  "name": "Australian Shepherd Token",
+  "address": "0x7c63f96feafacd84e75a594c00fac3693386fbf0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14912/thumb/XCsenIJ.png?1618988361",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7c63f96feafacd84e75a594c00fac3693386fbf0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BBQ",
+  "name": "BBQ",
+  "address": "0x41a22eb30df65d6ab0ce0b4cfe8f4e0eb306d471",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40006/thumb/logo.jpg?1725221317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x41a22eb30df65d6ab0ce0b4cfe8f4e0eb306d471"
+  }
+}

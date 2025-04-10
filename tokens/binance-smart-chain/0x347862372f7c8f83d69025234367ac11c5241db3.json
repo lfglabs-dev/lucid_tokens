@@ -1,0 +1,15 @@
+{
+  "symbol": "KIIRO",
+  "name": "Kiirocoin",
+  "address": "0x347862372f7c8f83d69025234367ac11c5241db3",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32598/thumb/256-bis.png?1698716213",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x347862372f7c8f83d69025234367ac11c5241db3"
+  }
+}

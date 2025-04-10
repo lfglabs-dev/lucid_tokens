@@ -1,0 +1,16 @@
+{
+  "symbol": "BITORB",
+  "name": "BITORBIT.com",
+  "address": "0xed0c1c9c64ff7c7cc37c3af0dfcf5b02efe0bb5f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19850/thumb/bitorbit.PNG?1636060265",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xed0c1c9c64ff7c7cc37c3af0dfcf5b02efe0bb5f",
+    "velas": "0x09bce7716d46459df7473982fd27a96eabd6ee4d"
+  }
+}

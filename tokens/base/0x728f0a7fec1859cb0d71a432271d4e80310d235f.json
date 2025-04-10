@@ -1,0 +1,17 @@
+{
+  "symbol": "POGS",
+  "name": "PogCoin",
+  "address": "0x728f0a7fec1859cb0d71a432271d4e80310d235f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37524/thumb/pog.jpeg?1714637890",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "theta": "0x71dc74256d1acb42a216cc5c3c097b8da71026b0",
+    "ethereum": "0x906c012fa4c30d580537c2b72d1789f56f488a80",
+    "base": "0x728f0a7fec1859cb0d71a432271d4e80310d235f"
+  }
+}

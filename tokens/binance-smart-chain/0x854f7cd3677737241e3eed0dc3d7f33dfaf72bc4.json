@@ -1,0 +1,15 @@
+{
+  "symbol": "ETHAX",
+  "name": "ETHAX",
+  "address": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25571/thumb/ethax.png?1652611600",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4"
+  }
+}

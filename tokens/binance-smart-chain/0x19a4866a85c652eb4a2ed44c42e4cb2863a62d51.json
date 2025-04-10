@@ -1,0 +1,15 @@
+{
+  "symbol": "HOD",
+  "name": "Hodooi.com Token",
+  "address": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16301/thumb/Monogram_2x-100.jpg?1645205976",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51"
+  }
+}

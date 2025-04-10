@@ -1,0 +1,16 @@
+{
+  "symbol": "STORE",
+  "name": "Bit Store Coin",
+  "address": "0x65d9033cff96782394dab5dbef17fa771bbe1732",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20463/thumb/bit_store.PNG?1637064215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x31ea0de8119307aa264bb4b38727aab4e36b074f",
+    "binance-smart-chain": "0x65d9033cff96782394dab5dbef17fa771bbe1732"
+  }
+}

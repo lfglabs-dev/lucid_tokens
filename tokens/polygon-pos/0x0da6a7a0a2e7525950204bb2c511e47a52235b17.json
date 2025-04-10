@@ -1,0 +1,15 @@
+{
+  "symbol": "MT",
+  "name": "MT TOWER",
+  "address": "0x0da6a7a0a2e7525950204bb2c511e47a52235b17",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27457/thumb/mt_logo_200x200.png?1664105234",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0da6a7a0a2e7525950204bb2c511e47a52235b17"
+  }
+}

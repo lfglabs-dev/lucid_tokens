@@ -1,0 +1,15 @@
+{
+  "symbol": "COW",
+  "name": "Chronicles Of Warcraft",
+  "address": "0xf30aabd8cbb8e1d827a79b4354868914040ec155",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38138/thumb/gnECnkER_400x400.jpg?1716574234",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf30aabd8cbb8e1d827a79b4354868914040ec155"
+  }
+}

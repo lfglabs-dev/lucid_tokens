@@ -1,0 +1,15 @@
+{
+  "symbol": "FLD",
+  "name": "Fold",
+  "address": "0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33541/thumb/FLD_200x.png?1702379502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BBT",
+  "name": "BitBook",
+  "address": "0xd48474e7444727bf500a32d5abe01943f3a59a64",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15965/thumb/bitbook.PNG?1622520145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd48474e7444727bf500a32d5abe01943f3a59a64"
+  }
+}

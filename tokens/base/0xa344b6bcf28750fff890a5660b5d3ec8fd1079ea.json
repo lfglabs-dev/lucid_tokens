@@ -1,0 +1,15 @@
+{
+  "symbol": "EPAY",
+  "name": "EPAY",
+  "address": "0xa344b6bcf28750fff890a5660b5d3ec8fd1079ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54599/thumb/11111.png?1740637069",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa344b6bcf28750fff890a5660b5d3ec8fd1079ea"
+  }
+}

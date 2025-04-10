@@ -1,0 +1,15 @@
+{
+  "symbol": "META",
+  "name": "META",
+  "address": "0x26165a5a3dd21fa528becf3ff7f114d00a517344",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22243/thumb/RXfj1lF_d.png?1641434287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x26165a5a3dd21fa528becf3ff7f114d00a517344"
+  }
+}

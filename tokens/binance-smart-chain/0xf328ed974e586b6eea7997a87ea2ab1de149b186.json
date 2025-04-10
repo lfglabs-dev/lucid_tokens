@@ -1,0 +1,15 @@
+{
+  "symbol": "AUSD",
+  "name": "Ambit USD",
+  "address": "0xf328ed974e586b6eea7997a87ea2ab1de149b186",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35035/thumb/Ambit_-_Logomark_-_Orange.png?1707191329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf328ed974e586b6eea7997a87ea2ab1de149b186"
+  }
+}

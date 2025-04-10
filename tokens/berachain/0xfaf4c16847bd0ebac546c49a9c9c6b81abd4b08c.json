@@ -1,0 +1,15 @@
+{
+  "symbol": "NOME",
+  "name": "NOME",
+  "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55095/thumb/Nome_400x400.jpg?1743699482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c"
+  }
+}

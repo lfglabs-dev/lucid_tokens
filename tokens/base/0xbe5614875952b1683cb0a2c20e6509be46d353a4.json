@@ -1,0 +1,15 @@
+{
+  "symbol": "BBRETT",
+  "name": "Baby Brett",
+  "address": "0xbe5614875952b1683cb0a2c20e6509be46d353a4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38887/thumb/200x200.png?1719380024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbe5614875952b1683cb0a2c20e6509be46d353a4"
+  }
+}

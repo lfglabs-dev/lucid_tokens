@@ -1,0 +1,15 @@
+{
+  "symbol": "BLUBI",
+  "name": "BLUBI",
+  "address": "0x7b8d415f5239ae5e0f485971529b4f798e63b0b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36431/thumb/blubi.png?1711434742",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7b8d415f5239ae5e0f485971529b4f798e63b0b4"
+  }
+}

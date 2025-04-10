@@ -1,0 +1,18 @@
+{
+  "symbol": "BUSD",
+  "name": "BUSD Token",
+  "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31273/thumb/new_binance-peg-busd.png?1692097938",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "optimistic-ethereum": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+    "avalanche": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+    "polygon-pos": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39"
+  }
+}

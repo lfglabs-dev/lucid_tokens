@@ -1,0 +1,15 @@
+{
+  "symbol": "SPIX",
+  "name": "spixfi",
+  "address": "0x6ce4dba6b54d4995654c94bd48ea3b94836ea144",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53582/thumb/token_200.png?1736750306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6ce4dba6b54d4995654c94bd48ea3b94836ea144"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ARES",
+  "name": "Ares3 Network",
+  "address": "0x181feaecca4a69a793272ea06df40edf2dd0804c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29713/thumb/logo-2.png?1680768147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x181feaecca4a69a793272ea06df40edf2dd0804c"
+  }
+}

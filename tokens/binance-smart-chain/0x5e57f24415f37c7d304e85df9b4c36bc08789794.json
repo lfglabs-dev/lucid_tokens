@@ -1,0 +1,18 @@
+{
+  "symbol": "BRTR",
+  "name": "Barter BEP20",
+  "address": "0x5e57f24415f37c7d304e85df9b4c36bc08789794",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13401/thumb/BRTR.png?1612843022",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
+    "velas": "0x7b24c63aa79ad66f34c1a8f50a1369ecd9ee43d8",
+    "binance-smart-chain": "0x5e57f24415f37c7d304e85df9b4c36bc08789794",
+    "polygon-pos": "0x6e7f6a2404ff6b4363b0a5085dbf7b78d46e04d7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FCKN",
+  "name": "FRIED CHICKEN",
+  "address": "0x7d12aeb5d96d221071d176980d23c213d88d9998",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37719/thumb/cmc_icon.png?1715332364",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7d12aeb5d96d221071d176980d23c213d88d9998"
+  }
+}

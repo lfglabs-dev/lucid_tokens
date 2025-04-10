@@ -1,0 +1,15 @@
+{
+  "symbol": "FEED",
+  "name": "chikn feed",
+  "address": "0xab592d197acc575d16c3346f4eb70c703f308d1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22417/thumb/bJIvBemg_400x400.jpg?1641805638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xab592d197acc575d16c3346f4eb70c703f308d1e"
+  }
+}

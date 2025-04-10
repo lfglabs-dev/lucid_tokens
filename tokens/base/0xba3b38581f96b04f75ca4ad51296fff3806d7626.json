@@ -1,0 +1,15 @@
+{
+  "symbol": "potato",
+  "name": "based potato",
+  "address": "0xba3b38581f96b04f75ca4ad51296fff3806d7626",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36237/thumb/32orUt2z_400x400.jpeg?1710918375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xba3b38581f96b04f75ca4ad51296fff3806d7626"
+  }
+}

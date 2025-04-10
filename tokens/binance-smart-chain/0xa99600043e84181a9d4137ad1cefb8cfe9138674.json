@@ -1,0 +1,15 @@
+{
+  "symbol": "FXST",
+  "name": "FX Stock Token",
+  "address": "0xa99600043e84181a9d4137ad1cefb8cfe9138674",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36920/thumb/fxst.png?1712797403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa99600043e84181a9d4137ad1cefb8cfe9138674"
+  }
+}

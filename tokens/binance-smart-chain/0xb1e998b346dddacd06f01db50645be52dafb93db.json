@@ -1,0 +1,15 @@
+{
+  "symbol": "AAST",
+  "name": "AASToken",
+  "address": "0xb1e998b346dddacd06f01db50645be52dafb93db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35717/thumb/IMG_8288.JPG.jpg?1709630759",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb1e998b346dddacd06f01db50645be52dafb93db"
+  }
+}

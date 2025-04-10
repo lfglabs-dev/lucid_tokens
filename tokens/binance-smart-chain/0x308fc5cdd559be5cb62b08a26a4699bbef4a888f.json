@@ -1,0 +1,15 @@
+{
+  "symbol": "DCIP",
+  "name": "Decentralized Community Investment Protocol",
+  "address": "0x308fc5cdd559be5cb62b08a26a4699bbef4a888f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17274/thumb/DCIP200.png?1627009259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x308fc5cdd559be5cb62b08a26a4699bbef4a888f"
+  }
+}

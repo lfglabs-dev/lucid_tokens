@@ -1,0 +1,15 @@
+{
+  "symbol": "ART",
+  "name": "SalvorArtToken",
+  "address": "0xf99516bc189af00ff8effd5a1f2295b67d70a90e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32277/thumb/sart.png?1697180675",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf99516bc189af00ff8effd5a1f2295b67d70a90e"
+  }
+}

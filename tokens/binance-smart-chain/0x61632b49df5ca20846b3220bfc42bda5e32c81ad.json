@@ -1,0 +1,17 @@
+{
+  "symbol": "CGT2.0",
+  "name": "Curio Gas Token",
+  "address": "0x61632b49df5ca20846b3220bfc42bda5e32c81ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37476/thumb/cgt.jpeg?1714466387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e186357c323c806c1efdad36d217f7a54b63d18",
+    "neon-evm": "0xc1ed606683a3f89317d64bda602628d68a0b4b24",
+    "binance-smart-chain": "0x61632b49df5ca20846b3220bfc42bda5e32c81ad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "SWAT",
+  "name": "SWAT Coin",
+  "address": "0x82e7eb8f4c307f2dcf522fdca7b7038296584f29",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5985/thumb/swtcoin.jpg?1547041927",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
+    "binance-smart-chain": "0x82e7eb8f4c307f2dcf522fdca7b7038296584f29"
+  }
+}

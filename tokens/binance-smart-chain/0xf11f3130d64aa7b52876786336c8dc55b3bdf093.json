@@ -1,0 +1,15 @@
+{
+  "symbol": "SITY",
+  "name": "Sity Token",
+  "address": "0xf11f3130d64aa7b52876786336c8dc55b3bdf093",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50480/thumb/sity.jpg?1727861833",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf11f3130d64aa7b52876786336c8dc55b3bdf093"
+  }
+}

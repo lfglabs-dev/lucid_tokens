@@ -1,0 +1,15 @@
+{
+  "symbol": "BHO",
+  "name": "Bholdus Token",
+  "address": "0x8717e80eff08f53a45b4a925009957e14860a8a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18625/thumb/12280.png?1650867353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8717e80eff08f53a45b4a925009957e14860a8a8"
+  }
+}

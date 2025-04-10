@@ -1,0 +1,17 @@
+{
+  "symbol": "NPC",
+  "name": "Non-Playable Coin",
+  "address": "0xfebfa339e44c28e2aa9e62ea1027c9cb4e378605",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31193/thumb/NPC_200x200.png?1691146346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8ed97a637a790be1feff5e888d43629dc05408f6",
+    "binance-smart-chain": "0xfebfa339e44c28e2aa9e62ea1027c9cb4e378605",
+    "base": "0xb166e8b140d35d9d8226e40c09f757bac5a4d87d"
+  }
+}

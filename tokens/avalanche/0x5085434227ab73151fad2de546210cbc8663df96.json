@@ -1,0 +1,15 @@
+{
+  "symbol": "DBY",
+  "name": "Metaderby token",
+  "address": "0x5085434227ab73151fad2de546210cbc8663df96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25242/thumb/metaderby.png?1650974944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x5085434227ab73151fad2de546210cbc8663df96"
+  }
+}

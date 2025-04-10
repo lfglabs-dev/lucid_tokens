@@ -1,0 +1,15 @@
+{
+  "symbol": "DACKIE",
+  "name": "DACKIE Superchain",
+  "address": "0x73326b4d0225c429bed050c11c4422d91470aaf4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53171/thumb/dacki.png?1735525199",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x73326b4d0225c429bed050c11c4422d91470aaf4"
+  }
+}

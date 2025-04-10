@@ -1,0 +1,15 @@
+{
+  "symbol": "uAPE",
+  "name": "ApeCoin (Universal)",
+  "address": "0x9af46f95a0a8be5c2e0a0274a8b153c72d617e85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54500/thumb/UA-APE_200x200.png?1740031977",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9af46f95a0a8be5c2e0a0274a8b153c72d617e85"
+  }
+}

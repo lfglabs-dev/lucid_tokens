@@ -1,0 +1,17 @@
+{
+  "symbol": "sUSDz",
+  "name": "Staked USDz",
+  "address": "0x73d23f3778a90be8846e172354a115543df2a7e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "manta-pacific": "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758",
+    "blast": "0x73d23f3778a90be8846e172354a115543df2a7e4",
+    "base": "0xe31ee12bdfdd0573d634124611e85338e2cbf0cf"
+  }
+}

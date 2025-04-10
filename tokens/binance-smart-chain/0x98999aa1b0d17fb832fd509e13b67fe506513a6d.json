@@ -1,0 +1,15 @@
+{
+  "symbol": "BANUS",
+  "name": "BANUS",
+  "address": "0x98999aa1b0d17fb832fd509e13b67fe506513a6d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31564/thumb/200x200.png?1693807731",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x98999aa1b0d17fb832fd509e13b67fe506513a6d"
+  }
+}

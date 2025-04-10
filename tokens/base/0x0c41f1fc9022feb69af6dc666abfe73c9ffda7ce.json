@@ -1,0 +1,15 @@
+{
+  "symbol": "BTCB",
+  "name": "Bitcoin on Base",
+  "address": "0x0c41f1fc9022feb69af6dc666abfe73c9ffda7ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38868/thumb/CGLogo200.png?1719283727",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0c41f1fc9022feb69af6dc666abfe73c9ffda7ce"
+  }
+}

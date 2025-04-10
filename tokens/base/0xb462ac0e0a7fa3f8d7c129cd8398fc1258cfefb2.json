@@ -1,0 +1,15 @@
+{
+  "symbol": "DREAM",
+  "name": "DREAM by Virtuals",
+  "address": "0xb462ac0e0a7fa3f8d7c129cd8398fc1258cfefb2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53531/thumb/mIqZqIMV_400x400_%281%29.jpg?1736580051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb462ac0e0a7fa3f8d7c129cd8398fc1258cfefb2"
+  }
+}

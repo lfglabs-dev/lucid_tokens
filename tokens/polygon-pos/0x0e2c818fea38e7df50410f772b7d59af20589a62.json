@@ -1,0 +1,15 @@
+{
+  "symbol": "DOM",
+  "name": "Dominium",
+  "address": "0x0e2c818fea38e7df50410f772b7d59af20589a62",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24506/thumb/DOM-Token-Icon-200-200-px.png?1647883646",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0e2c818fea38e7df50410f772b7d59af20589a62"
+  }
+}

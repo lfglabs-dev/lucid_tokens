@@ -1,0 +1,15 @@
+{
+  "symbol": "SHELL",
+  "name": "Shell Token (Stargate)",
+  "address": "0xad4cb79293322c07973ee83aed5df66a53214dc6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54682/thumb/shell.jpg?1740987456",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xad4cb79293322c07973ee83aed5df66a53214dc6"
+  }
+}

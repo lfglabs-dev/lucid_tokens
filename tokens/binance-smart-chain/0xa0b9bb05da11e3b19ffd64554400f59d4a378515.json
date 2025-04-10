@@ -1,0 +1,15 @@
+{
+  "symbol": "MOOO",
+  "name": "Hashtagger.com",
+  "address": "0xa0b9bb05da11e3b19ffd64554400f59d4a378515",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21139/thumb/Hashtagger_Logo_No_text_200_200.png?1638384345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa0b9bb05da11e3b19ffd64554400f59d4a378515"
+  }
+}

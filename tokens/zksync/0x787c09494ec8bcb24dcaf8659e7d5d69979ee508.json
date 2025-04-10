@@ -1,0 +1,18 @@
+{
+  "symbol": "MAV",
+  "name": "Maverick Token",
+  "address": "0x787c09494ec8bcb24dcaf8659e7d5d69979ee508",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30850/thumb/MAV_Logo.png?1687945366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd",
+    "zksync": "0x787c09494ec8bcb24dcaf8659e7d5d69979ee508",
+    "binance-smart-chain": "0xd691d9a68c887bdf34da8c36f63487333acfd103",
+    "base": "0x64b88c73a5dfa78d1713fe1b4c69a22d7e0faaa7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AVAC",
+  "name": "AvaCoach",
+  "address": "0xf1e083a825db31c844b8b6be0b16a43fd523ca9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39482/thumb/ac-logo-200x200.png?1722482049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf1e083a825db31c844b8b6be0b16a43fd523ca9c"
+  }
+}

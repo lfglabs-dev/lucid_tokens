@@ -1,0 +1,15 @@
+{
+  "symbol": "CARMIN",
+  "name": "CARMIN",
+  "address": "0x6a5e73099d8d68ec5aa1ca34fce22d16d8d115e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29073/thumb/carmin.png?1676432469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x6a5e73099d8d68ec5aa1ca34fce22d16d8d115e9"
+  }
+}

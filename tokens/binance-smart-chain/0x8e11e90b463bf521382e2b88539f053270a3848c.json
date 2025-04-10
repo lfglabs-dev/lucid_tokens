@@ -1,0 +1,15 @@
+{
+  "symbol": "TTAI",
+  "name": "TTAI",
+  "address": "0x8e11e90b463bf521382e2b88539f053270a3848c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54820/thumb/ttai-logo.jpg?1741857375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8e11e90b463bf521382e2b88539f053270a3848c"
+  }
+}

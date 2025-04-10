@@ -1,0 +1,15 @@
+{
+  "symbol": "BONE",
+  "name": "Bone Token",
+  "address": "0x80244c2441779361f35803b8c711c6c8fc6054a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17126/thumb/logo_-_2021-07-16T103422.157.png?1626402887",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x80244c2441779361f35803b8c711c6c8fc6054a3"
+  }
+}

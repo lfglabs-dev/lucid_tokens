@@ -1,0 +1,15 @@
+{
+  "symbol": "NRV",
+  "name": "Nerve",
+  "address": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14233/thumb/nerve_finance_logo.png?1615176392",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096"
+  }
+}

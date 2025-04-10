@@ -1,0 +1,15 @@
+{
+  "symbol": "CAI",
+  "name": "Colony Avalanche Index",
+  "address": "0x48f88a3fe843ccb0b5003e70b4192c1d7448bef0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27196/thumb/CAI_logo.png?1662549770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x48f88a3fe843ccb0b5003e70b4192c1d7448bef0"
+  }
+}

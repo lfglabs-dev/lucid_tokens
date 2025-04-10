@@ -1,0 +1,15 @@
+{
+  "symbol": "STRAT",
+  "name": "Stratum",
+  "address": "0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33646/thumb/coin_strat.png?1702541330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9"
+  }
+}

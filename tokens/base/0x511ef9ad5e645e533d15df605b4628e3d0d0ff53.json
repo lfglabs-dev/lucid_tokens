@@ -1,0 +1,15 @@
+{
+  "symbol": "VU",
+  "name": "Velvet Unicorn by Virtuals",
+  "address": "0x511ef9ad5e645e533d15df605b4628e3d0d0ff53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52175/thumb/velvet_unicorn.jpg?1732684869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x511ef9ad5e645e533d15df605b4628e3d0d0ff53"
+  }
+}

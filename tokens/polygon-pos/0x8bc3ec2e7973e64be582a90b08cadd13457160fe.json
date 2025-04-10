@@ -1,0 +1,15 @@
+{
+  "symbol": "SDG",
+  "name": "ShadowGold",
+  "address": "0x8bc3ec2e7973e64be582a90b08cadd13457160fe",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30208/thumb/shaowfi.jpeg?1683619224",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8bc3ec2e7973e64be582a90b08cadd13457160fe"
+  }
+}

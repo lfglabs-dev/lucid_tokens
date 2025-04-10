@@ -1,0 +1,16 @@
+{
+  "symbol": "NUM",
+  "name": "NUM Token [via ChainPort.io]",
+  "address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20495/thumb/5J3RAUO2_400x400.jpg?1637131666",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
+    "binance-smart-chain": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9"
+  }
+}

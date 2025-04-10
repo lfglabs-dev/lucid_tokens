@@ -1,0 +1,15 @@
+{
+  "symbol": "GPTV",
+  "name": "Gptverse",
+  "address": "0x1f56efffee38eeeae36cd38225b66c56e4d095a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34908/thumb/nfSQeKTF_400x400.jpg?1706597508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1f56efffee38eeeae36cd38225b66c56e4d095a7"
+  }
+}

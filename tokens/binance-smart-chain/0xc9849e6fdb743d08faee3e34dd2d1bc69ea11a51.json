@@ -1,0 +1,15 @@
+{
+  "symbol": "BUNNY",
+  "name": "Bunny Token",
+  "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13148/thumb/wallet-logo-bunny.png?1621840208",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51"
+  }
+}

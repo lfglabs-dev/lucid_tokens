@@ -1,0 +1,15 @@
+{
+  "symbol": "DNT",
+  "name": "Diamond Token",
+  "address": "0x44836708ff32246635d8d08c785f4e779e294598",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33284/thumb/IMG_20231127_100114_330_%281%29.png?1701390717",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x44836708ff32246635d8d08c785f4e779e294598"
+  }
+}

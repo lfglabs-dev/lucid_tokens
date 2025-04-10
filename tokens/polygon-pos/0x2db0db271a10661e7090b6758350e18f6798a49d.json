@@ -1,0 +1,15 @@
+{
+  "symbol": "MOT",
+  "name": "Mobius Token",
+  "address": "0x2db0db271a10661e7090b6758350e18f6798a49d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18144/thumb/11322.png?1630668459",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2db0db271a10661e7090b6758350e18f6798a49d"
+  }
+}

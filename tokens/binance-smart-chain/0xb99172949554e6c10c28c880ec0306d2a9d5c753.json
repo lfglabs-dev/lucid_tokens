@@ -1,0 +1,15 @@
+{
+  "symbol": "LOGE",
+  "name": "LunaDoge",
+  "address": "0xb99172949554e6c10c28c880ec0306d2a9d5c753",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15647/thumb/LunaDoge.png?1621426586",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb99172949554e6c10c28c880ec0306d2a9d5c753"
+  }
+}

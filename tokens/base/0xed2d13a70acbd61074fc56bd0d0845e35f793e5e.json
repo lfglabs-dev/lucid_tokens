@@ -1,0 +1,16 @@
+{
+  "symbol": "MOJO",
+  "name": "Planet Mojo",
+  "address": "0xed2d13a70acbd61074fc56bd0d0845e35f793e5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36670/thumb/MOJOIcon.jpg?1712061269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xed2d13a70acbd61074fc56bd0d0845e35f793e5e",
+    "ethereum": "0xed2d13a70acbd61074fc56bd0d0845e35f793e5e"
+  }
+}

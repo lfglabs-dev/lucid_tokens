@@ -1,0 +1,18 @@
+{
+  "symbol": "IAU.d",
+  "name": "iShares Gold Trust - Dinari",
+  "address": "0xa5d7512c6a3b87ad7bf2f597b93845950f738fdd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x39bce681d72720f80424914800a78c63fdfaf645",
+    "ethereum": "0x4be7aeda82870609cd934babc3a11b886b8cdb02",
+    "blast": "0xa5d7512c6a3b87ad7bf2f597b93845950f738fdd",
+    "base": "0xe6cf0d54079bfb0e441c1ef37e69a234e9e4e4c0"
+  }
+}

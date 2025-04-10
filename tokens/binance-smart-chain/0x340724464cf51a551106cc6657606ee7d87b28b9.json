@@ -1,0 +1,15 @@
+{
+  "symbol": "STC",
+  "name": "Satoshi Island Coin",
+  "address": "0x340724464cf51a551106cc6657606ee7d87b28b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26975/thumb/2KstL9si_400x400.jpeg?1661163830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x340724464cf51a551106cc6657606ee7d87b28b9"
+  }
+}

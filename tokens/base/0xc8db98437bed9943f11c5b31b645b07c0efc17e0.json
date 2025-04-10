@@ -1,0 +1,15 @@
+{
+  "symbol": "LEO",
+  "name": "LEOONO by Virtuals",
+  "address": "0xc8db98437bed9943f11c5b31b645b07c0efc17e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53267/thumb/token_icon.jpeg?1735913213",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc8db98437bed9943f11c5b31b645b07c0efc17e0"
+  }
+}

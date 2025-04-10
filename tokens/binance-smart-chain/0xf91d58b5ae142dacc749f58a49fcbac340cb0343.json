@@ -1,0 +1,15 @@
+{
+  "symbol": "vFIL",
+  "name": "Venus FIL",
+  "address": "0xf91d58b5ae142dacc749f58a49fcbac340cb0343",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13925/thumb/vfil_final.png?1612966425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf91d58b5ae142dacc749f58a49fcbac340cb0343"
+  }
+}

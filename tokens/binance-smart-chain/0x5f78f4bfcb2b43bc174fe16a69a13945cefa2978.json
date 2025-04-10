@@ -1,0 +1,15 @@
+{
+  "symbol": "XR",
+  "name": "Xraders",
+  "address": "0x5f78f4bfcb2b43bc174fe16a69a13945cefa2978",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39190/thumb/photo_6095658573259458677_m.jpeg?1720976527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f78f4bfcb2b43bc174fe16a69a13945cefa2978"
+  }
+}

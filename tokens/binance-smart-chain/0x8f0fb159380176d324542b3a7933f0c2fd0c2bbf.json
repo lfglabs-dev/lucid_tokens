@@ -1,0 +1,16 @@
+{
+  "symbol": "TFT",
+  "name": "TFT on BSC",
+  "address": "0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf",
+  "decimals": 7,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6704/thumb/black_logo_on_white_background_%282%29.jpg?1649742107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf",
+    "ethereum": "0x395e925834996e558bdec77cd648435d620afb5b"
+  }
+}

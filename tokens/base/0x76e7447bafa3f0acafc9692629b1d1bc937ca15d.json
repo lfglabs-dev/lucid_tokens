@@ -1,0 +1,15 @@
+{
+  "symbol": "POLA",
+  "name": "POLA",
+  "address": "0x76e7447bafa3f0acafc9692629b1d1bc937ca15d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37314/thumb/pola.jpg?1713971028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x76e7447bafa3f0acafc9692629b1d1bc937ca15d"
+  }
+}

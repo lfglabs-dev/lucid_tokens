@@ -1,0 +1,15 @@
+{
+  "symbol": "LOUDER",
+  "name": "LOUDER",
+  "address": "0x120edc8e391ba4c94cb98bb65d8856ae6ec1525f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39495/thumb/louder_icon_200x200.png?1722539190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x120edc8e391ba4c94cb98bb65d8856ae6ec1525f"
+  }
+}

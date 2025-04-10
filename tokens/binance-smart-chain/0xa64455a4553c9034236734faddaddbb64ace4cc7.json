@@ -1,0 +1,15 @@
+{
+  "symbol": "SANTOS",
+  "name": "FC Santos Fan Token",
+  "address": "0xa64455a4553c9034236734faddaddbb64ace4cc7",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21132/thumb/santos.png?1638357080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa64455a4553c9034236734faddaddbb64ace4cc7"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "NOW",
+  "name": "ChangeNOW",
+  "address": "0x02533c1e9abbafe5816ed8b27c0d22a8731075e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8224/thumb/nowtoken.png?1557131607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+    "binance-smart-chain": "0x02533c1e9abbafe5816ed8b27c0d22a8731075e0"
+  }
+}

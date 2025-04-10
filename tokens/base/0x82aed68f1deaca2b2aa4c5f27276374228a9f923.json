@@ -1,0 +1,15 @@
+{
+  "symbol": "BEAST",
+  "name": "MrBeast",
+  "address": "0x82aed68f1deaca2b2aa4c5f27276374228a9f923",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51121/thumb/IMG_7914.png?1730164559",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x82aed68f1deaca2b2aa4c5f27276374228a9f923"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Mubarakah",
+  "name": "Mubarakah",
+  "address": "0x3199a64bc8aabdfd9a3937a346cc59c3d81d8a9a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54893/thumb/photo_2025-03-19_11.33.53.jpeg?1742394263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3199a64bc8aabdfd9a3937a346cc59c3d81d8a9a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ASTRO",
+  "name": "ASTROSWAP.app",
+  "address": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18816/thumb/astro.png?1633506850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+    "velas": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27"
+  }
+}

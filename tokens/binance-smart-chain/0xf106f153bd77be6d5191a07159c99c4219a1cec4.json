@@ -1,0 +1,15 @@
+{
+  "symbol": "DCNX",
+  "name": "DCNTRL Network",
+  "address": "0xf106f153bd77be6d5191a07159c99c4219a1cec4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31558/thumb/dcntrl-logo.png?1693801008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf106f153bd77be6d5191a07159c99c4219a1cec4"
+  }
+}

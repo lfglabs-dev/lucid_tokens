@@ -1,0 +1,15 @@
+{
+  "symbol": "TABOO",
+  "name": "TABOO TOKEN",
+  "address": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6111/thumb/taboo.PNG?1624500776",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9abdba20edfba06b782126b4d8d72a5853918fd0"
+  }
+}

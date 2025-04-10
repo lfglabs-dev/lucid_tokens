@@ -1,0 +1,16 @@
+{
+  "symbol": "HyPC",
+  "name": "HyperCycle Token",
+  "address": "0x7881cd2b5724431372f57c50e91611352557a606",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29917/thumb/HyperCycle-Logo-2022_icon_copy_%281%29.png?1682050109",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea7b7dc089c9a4a916b5a7a37617f59fd54e37e4",
+    "binance-smart-chain": "0x7881cd2b5724431372f57c50e91611352557a606"
+  }
+}

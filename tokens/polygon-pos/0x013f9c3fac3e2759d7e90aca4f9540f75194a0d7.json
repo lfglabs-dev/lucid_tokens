@@ -1,0 +1,16 @@
+{
+  "symbol": "USDN",
+  "name": "Neutrino USD",
+  "address": "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10117/thumb/78GWcZu.png?1600845716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
+    "polygon-pos": "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7"
+  }
+}

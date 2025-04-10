@@ -1,0 +1,15 @@
+{
+  "symbol": "WLTH",
+  "name": "Common Wealth Token",
+  "address": "0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37858/thumb/wlth-avatar_200x200.png?1715789094",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MRSMIGGLES",
+  "name": "Mrs Miggles",
+  "address": "0x31b28012f61fc3600e1c076bafc9fd997fb2da90",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39282/thumb/mrsmiggles_200px.png?1721452939",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x31b28012f61fc3600e1c076bafc9fd997fb2da90"
+  }
+}

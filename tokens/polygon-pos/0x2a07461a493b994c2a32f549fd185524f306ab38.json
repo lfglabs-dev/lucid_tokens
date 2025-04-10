@@ -1,0 +1,15 @@
+{
+  "symbol": "AES",
+  "name": "Aree Shards",
+  "address": "0x2a07461a493b994c2a32f549fd185524f306ab38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27231/thumb/AES_TICKER_200.png?1662706815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2a07461a493b994c2a32f549fd185524f306ab38"
+  }
+}

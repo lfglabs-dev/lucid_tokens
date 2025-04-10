@@ -1,0 +1,15 @@
+{
+  "symbol": "BNX",
+  "name": "BinaryX",
+  "address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29176/thumb/RqJfmXQV_400x400.jpg?1677135119",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd"
+  }
+}

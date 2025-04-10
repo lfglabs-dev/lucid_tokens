@@ -1,0 +1,15 @@
+{
+  "symbol": "MRST",
+  "name": "Mars Token",
+  "address": "0x411bc96881a62572ff33c9d8ce60df99e3d96cd8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27230/thumb/token_image.png?1662705885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x411bc96881a62572ff33c9d8ce60df99e3d96cd8"
+  }
+}

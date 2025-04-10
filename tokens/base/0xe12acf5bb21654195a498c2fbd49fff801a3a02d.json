@@ -1,0 +1,15 @@
+{
+  "symbol": "POP",
+  "name": "Proof of Prescence",
+  "address": "0xe12acf5bb21654195a498c2fbd49fff801a3a02d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53347/thumb/POP.jpg?1736173283",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe12acf5bb21654195a498c2fbd49fff801a3a02d"
+  }
+}

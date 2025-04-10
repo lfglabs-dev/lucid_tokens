@@ -1,0 +1,15 @@
+{
+  "symbol": "CB8",
+  "name": "CHAB8",
+  "address": "0xb3a7713521007d79e757f83ce763ded56bb0f6b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32488/thumb/CB8.jpg?1698292741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb3a7713521007d79e757f83ce763ded56bb0f6b3"
+  }
+}

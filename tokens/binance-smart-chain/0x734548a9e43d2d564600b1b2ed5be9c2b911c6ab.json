@@ -1,0 +1,15 @@
+{
+  "symbol": "PEEL",
+  "name": "Meta Apes Peel",
+  "address": "0x734548a9e43d2d564600b1b2ed5be9c2b911c6ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26450/thumb/PEEL200x200.png?1658112274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x734548a9e43d2d564600b1b2ed5be9c2b911c6ab"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "oAUTO",
+  "name": "Orbit Bridge Polygon AUTOv2",
+  "address": "0x7f426f6dc648e50464a0392e60e1bb465a67e9cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13751/thumb/autofarm_icon_200x200.png?1611494288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+    "polygon-pos": "0x7f426f6dc648e50464a0392e60e1bb465a67e9cf"
+  }
+}

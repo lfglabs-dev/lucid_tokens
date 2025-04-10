@@ -1,0 +1,15 @@
+{
+  "symbol": "QVRS",
+  "name": "Qvrse Token",
+  "address": "0x45f368693eee8e3610270f82085784c1c8ac124b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52922/thumb/qvrse-logo-200x200.png?1734697444",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x45f368693eee8e3610270f82085784c1c8ac124b"
+  }
+}

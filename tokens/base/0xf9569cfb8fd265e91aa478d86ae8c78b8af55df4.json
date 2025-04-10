@@ -1,0 +1,15 @@
+{
+  "symbol": "AUKI",
+  "name": "Auki Token",
+  "address": "0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39811/thumb/COINGECKO-200-x-200_%281%29.png?1724166209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4"
+  }
+}

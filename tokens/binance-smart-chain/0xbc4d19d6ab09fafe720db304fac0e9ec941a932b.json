@@ -1,0 +1,15 @@
+{
+  "symbol": "HIDE",
+  "name": "Hide Coin",
+  "address": "0xbc4d19d6ab09fafe720db304fac0e9ec941a932b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37651/thumb/1000007001.png?1715159276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbc4d19d6ab09fafe720db304fac0e9ec941a932b"
+  }
+}

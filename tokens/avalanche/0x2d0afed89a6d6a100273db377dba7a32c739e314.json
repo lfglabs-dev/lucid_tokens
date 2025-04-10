@@ -1,0 +1,15 @@
+{
+  "symbol": "BIG",
+  "name": "BIG",
+  "address": "0x2d0afed89a6d6a100273db377dba7a32c739e314",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52449/thumb/BIG_Token_Logo.png?1733387640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x2d0afed89a6d6a100273db377dba7a32c739e314"
+  }
+}

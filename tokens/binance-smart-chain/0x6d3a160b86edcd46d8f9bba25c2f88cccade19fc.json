@@ -1,0 +1,15 @@
+{
+  "symbol": "Fwc",
+  "name": "QATAR 2022 TOKEN",
+  "address": "0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24258/thumb/IMG_20221202_222442_239.jpg?1670297518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc"
+  }
+}

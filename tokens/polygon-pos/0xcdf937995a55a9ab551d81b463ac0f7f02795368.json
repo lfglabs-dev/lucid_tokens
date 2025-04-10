@@ -1,0 +1,16 @@
+{
+  "symbol": "VSC",
+  "name": "VSC",
+  "address": "0xcdf937995a55a9ab551d81b463ac0f7f02795368",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32105/thumb/Vyvo.png?1696416031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcdf937995a55a9ab551d81b463ac0f7f02795368",
+    "polygon-pos": "0xcdf937995a55a9ab551d81b463ac0f7f02795368"
+  }
+}

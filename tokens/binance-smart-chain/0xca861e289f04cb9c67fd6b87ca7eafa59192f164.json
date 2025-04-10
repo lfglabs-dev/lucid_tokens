@@ -1,0 +1,15 @@
+{
+  "symbol": "UMT",
+  "name": "UnityMeta Token",
+  "address": "0xca861e289f04cb9c67fd6b87ca7eafa59192f164",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30859/thumb/Unitymeta_Token_Logo_200.png?1688366893",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xca861e289f04cb9c67fd6b87ca7eafa59192f164"
+  }
+}

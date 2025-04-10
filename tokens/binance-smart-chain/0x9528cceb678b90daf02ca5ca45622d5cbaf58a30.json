@@ -1,0 +1,15 @@
+{
+  "symbol": "GCME",
+  "name": "Go Crypto Me",
+  "address": "0x9528cceb678b90daf02ca5ca45622d5cbaf58a30",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23946/thumb/WDBxWle.png?1645771102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9528cceb678b90daf02ca5ca45622d5cbaf58a30"
+  }
+}

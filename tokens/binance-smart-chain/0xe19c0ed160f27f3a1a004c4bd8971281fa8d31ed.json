@@ -1,0 +1,15 @@
+{
+  "symbol": "EGGY",
+  "name": "EGGY",
+  "address": "0xe19c0ed160f27f3a1a004c4bd8971281fa8d31ed",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36273/thumb/cg.png?1711004469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe19c0ed160f27f3a1a004c4bd8971281fa8d31ed"
+  }
+}

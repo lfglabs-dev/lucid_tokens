@@ -1,0 +1,15 @@
+{
+  "symbol": "w3ULL",
+  "name": "w3ULL",
+  "address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30695/thumb/3ull.png?1686291648",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xa77e70d0af1ac7ff86726740db1bd065c3566937"
+  }
+}

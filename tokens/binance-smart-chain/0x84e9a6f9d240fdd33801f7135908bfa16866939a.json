@@ -1,0 +1,16 @@
+{
+  "symbol": "GMEE",
+  "name": "GAMEE",
+  "address": "0x84e9a6f9d240fdd33801f7135908bfa16866939a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14716/thumb/gmee-200x200.png?1621827468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+    "binance-smart-chain": "0x84e9a6f9d240fdd33801f7135908bfa16866939a"
+  }
+}

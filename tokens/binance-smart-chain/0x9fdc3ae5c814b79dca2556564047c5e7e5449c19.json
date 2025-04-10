@@ -1,0 +1,17 @@
+{
+  "symbol": "$DG",
+  "name": "decentral.games on xDai from xDai",
+  "address": "0x9fdc3ae5c814b79dca2556564047c5e7e5449c19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13267/thumb/%28Old%29_DG.png?1639209538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+    "binance-smart-chain": "0x9fdc3ae5c814b79dca2556564047c5e7e5449c19",
+    "polygon-pos": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4"
+  }
+}

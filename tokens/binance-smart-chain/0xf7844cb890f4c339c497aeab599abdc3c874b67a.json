@@ -1,0 +1,15 @@
+{
+  "symbol": "NFTART",
+  "name": "NFTArt.Finance",
+  "address": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15027/thumb/nft-art-coingecko-logo.png?1622443455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf7844cb890f4c339c497aeab599abdc3c874b67a"
+  }
+}

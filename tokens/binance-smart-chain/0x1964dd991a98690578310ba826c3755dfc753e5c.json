@@ -1,0 +1,15 @@
+{
+  "symbol": "SCART",
+  "name": "SCART360",
+  "address": "0x1964dd991a98690578310ba826c3755dfc753e5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37254/thumb/scart360_logo.png?1713864683",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1964dd991a98690578310ba826c3755dfc753e5c"
+  }
+}

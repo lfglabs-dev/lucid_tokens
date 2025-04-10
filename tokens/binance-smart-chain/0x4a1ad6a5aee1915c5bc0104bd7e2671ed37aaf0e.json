@@ -1,0 +1,15 @@
+{
+  "symbol": "GED",
+  "name": "Greendex",
+  "address": "0x4a1ad6a5aee1915c5bc0104bd7e2671ed37aaf0e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30093/thumb/photo_2023-04-14_23-00-33.jpg?1683023195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4a1ad6a5aee1915c5bc0104bd7e2671ed37aaf0e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FINC",
+  "name": "FinceptorToken",
+  "address": "0xa856098dcbc1b2b3a9c96c35c32bc4f71e49aed2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32874/thumb/logo_2.jpg?1699703922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa856098dcbc1b2b3a9c96c35c32bc4f71e49aed2"
+  }
+}

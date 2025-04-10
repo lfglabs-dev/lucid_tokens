@@ -1,0 +1,15 @@
+{
+  "symbol": "JELLI",
+  "name": "jelli",
+  "address": "0xa1b9d812926a529d8b002e69fcd070c8275ec73c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37236/thumb/coin.png?1713795757",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa1b9d812926a529d8b002e69fcd070c8275ec73c"
+  }
+}

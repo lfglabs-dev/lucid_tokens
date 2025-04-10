@@ -1,0 +1,16 @@
+{
+  "symbol": "MUST",
+  "name": "Must",
+  "address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13688/thumb/must_logo.png?1610949645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
+    "polygon-pos": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
+  }
+}

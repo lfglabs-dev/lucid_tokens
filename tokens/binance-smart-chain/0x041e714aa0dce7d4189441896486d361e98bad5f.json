@@ -1,0 +1,15 @@
+{
+  "symbol": "RCH",
+  "name": "RichToken",
+  "address": "0x041e714aa0dce7d4189441896486d361e98bad5f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22896/thumb/rch.png?1642851498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x041e714aa0dce7d4189441896486d361e98bad5f"
+  }
+}

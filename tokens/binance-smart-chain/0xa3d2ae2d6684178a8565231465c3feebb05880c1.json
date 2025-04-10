@@ -1,0 +1,15 @@
+{
+  "symbol": "CFT",
+  "name": "CANNFINITY",
+  "address": "0xa3d2ae2d6684178a8565231465c3feebb05880c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37276/thumb/cftlogo200.png?1713895006",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa3d2ae2d6684178a8565231465c3feebb05880c1"
+  }
+}

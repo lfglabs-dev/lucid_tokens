@@ -1,0 +1,15 @@
+{
+  "symbol": "GHNY",
+  "name": "Grizzly Honey",
+  "address": "0xa045e37a0d1dd3a45fefb8803d22457abc0a728a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26816/thumb/GHNY-token-logo.png?1660277670",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa045e37a0d1dd3a45fefb8803d22457abc0a728a"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "PRIMAL",
+  "name": "PRIMAL Token",
+  "address": "0xcb5327ed4649548e0d73e70b633cdfd99af6da87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28435/thumb/PRIMAL_ICON_200px.jpg?1670567426",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcb5327ed4649548e0d73e70b633cdfd99af6da87",
+    "step-network": "0x0bbe45a033aab7a90006c05aa648efd3d2993f9e",
+    "ethereum": "0xdd13dedecebda566322195bc4451d672a148752c"
+  }
+}

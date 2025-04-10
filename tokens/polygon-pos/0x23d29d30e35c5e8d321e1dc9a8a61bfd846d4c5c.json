@@ -1,0 +1,17 @@
+{
+  "symbol": "HEX",
+  "name": "HEX (PoS)",
+  "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10103/thumb/HEX-logo.png?1575942673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "harmony-shard-0": "0xf26d8c787e66254ee8b7a500073da8fb1ab1992d",
+    "polygon-pos": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c"
+  }
+}

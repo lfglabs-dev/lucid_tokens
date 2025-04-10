@@ -1,0 +1,15 @@
+{
+  "symbol": "PAN",
+  "name": "Pankito",
+  "address": "0xa7e477721019b0d0b870efe4899766d09aa41c05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39503/thumb/photo_2023-03-09_06-55-00.jpg?1722581443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa7e477721019b0d0b870efe4899766d09aa41c05"
+  }
+}

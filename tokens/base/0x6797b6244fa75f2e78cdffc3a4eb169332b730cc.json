@@ -1,0 +1,15 @@
+{
+  "symbol": "EAI",
+  "name": "Eagle AI",
+  "address": "0x6797b6244fa75f2e78cdffc3a4eb169332b730cc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38650/thumb/Eagle_AI.png?1718215736",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6797b6244fa75f2e78cdffc3a4eb169332b730cc"
+  }
+}

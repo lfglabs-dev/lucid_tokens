@@ -1,0 +1,15 @@
+{
+  "symbol": "vDAI",
+  "name": "Venus DAI",
+  "address": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13920/thumb/venus_dai.png?1612844411",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1"
+  }
+}

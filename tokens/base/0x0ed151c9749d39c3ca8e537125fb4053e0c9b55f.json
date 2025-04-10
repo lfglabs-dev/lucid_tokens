@@ -1,0 +1,18 @@
+{
+  "symbol": "DAWAE",
+  "name": "DAWAE",
+  "address": "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f",
+    "ethereum": "0x2a897de60073e13c1f34f672033c1c1d08657fbb",
+    "binance-smart-chain": "0xb42fc163f95332552a824020f15ed81ee7f0ce78",
+    "sonic": "0x7a5c61047ad8fa4a743c75eb46a01300c7c9dada"
+  }
+}

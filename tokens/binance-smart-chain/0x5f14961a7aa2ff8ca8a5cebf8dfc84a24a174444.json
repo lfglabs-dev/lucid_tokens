@@ -1,0 +1,15 @@
+{
+  "symbol": "BLDR",
+  "name": "BUILDR",
+  "address": "0x5f14961a7aa2ff8ca8a5cebf8dfc84a24a174444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55103/thumb/0x5f14961a7aa2ff8ca8a5cebf8dfc84a24a174444.jpg?1743752852",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f14961a7aa2ff8ca8a5cebf8dfc84a24a174444"
+  }
+}

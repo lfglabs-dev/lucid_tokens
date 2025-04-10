@@ -1,0 +1,15 @@
+{
+  "symbol": "SHOGUN",
+  "name": "Shogun",
+  "address": "0xd63aaeec20f9b74d49f8dd8e319b6edd564a7dd0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54744/thumb/Shogun.png?1741326520",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd63aaeec20f9b74d49f8dd8e319b6edd564a7dd0"
+  }
+}

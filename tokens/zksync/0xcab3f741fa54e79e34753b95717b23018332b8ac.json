@@ -1,0 +1,15 @@
+{
+  "symbol": "TES",
+  "name": "Tiny Era Shard Token",
+  "address": "0xcab3f741fa54e79e34753b95717b23018332b8ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31204/thumb/TES250.png?1691380966",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xcab3f741fa54e79e34753b95717b23018332b8ac"
+  }
+}

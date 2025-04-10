@@ -1,0 +1,15 @@
+{
+  "symbol": "MUSIC",
+  "name": "MUSIC by Virtuals",
+  "address": "0xc655c331d1aa7f96c252f1f40ce13d80eac53504",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53050/thumb/DJ_AGENT_BG_1.png?1735149492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc655c331d1aa7f96c252f1f40ce13d80eac53504"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": " MEAI",
+  "name": "MeAI",
+  "address": "0x079ff857bd4ff7c4acf49a1a02e67ef96d43e3e6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52373/thumb/MeAI_Logo_200_200_trans.png?1733251377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x079ff857bd4ff7c4acf49a1a02e67ef96d43e3e6"
+  }
+}

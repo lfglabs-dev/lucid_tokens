@@ -1,0 +1,15 @@
+{
+  "symbol": "CHADCAT",
+  "name": "CHAD CAT",
+  "address": "0x1ca5f369eac57cb54aa54136b9552f59a0a4050f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38664/thumb/logo_coin_new.png?1718257128",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ca5f369eac57cb54aa54136b9552f59a0a4050f"
+  }
+}

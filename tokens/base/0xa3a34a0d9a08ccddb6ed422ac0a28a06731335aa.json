@@ -1,0 +1,15 @@
+{
+  "symbol": "uADA",
+  "name": "Cardano (Universal)",
+  "address": "0xa3a34a0d9a08ccddb6ed422ac0a28a06731335aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51868/thumb/UA-ADA.png?1732095196",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa3a34a0d9a08ccddb6ed422ac0a28a06731335aa"
+  }
+}

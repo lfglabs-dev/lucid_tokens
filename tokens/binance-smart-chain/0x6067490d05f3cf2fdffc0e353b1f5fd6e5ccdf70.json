@@ -1,0 +1,15 @@
+{
+  "symbol": "MMPRO",
+  "name": "MMPRO Token",
+  "address": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20386/thumb/MMPRO_LOGO_W.png?1636960601",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70"
+  }
+}

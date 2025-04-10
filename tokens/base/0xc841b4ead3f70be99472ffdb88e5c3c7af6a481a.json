@@ -1,0 +1,15 @@
+{
+  "symbol": "TRUST",
+  "name": "$TRUST ME BROs by Virtuals",
+  "address": "0xc841b4ead3f70be99472ffdb88e5c3c7af6a481a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53245/thumb/1.jpg?1735847307",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc841b4ead3f70be99472ffdb88e5c3c7af6a481a"
+  }
+}

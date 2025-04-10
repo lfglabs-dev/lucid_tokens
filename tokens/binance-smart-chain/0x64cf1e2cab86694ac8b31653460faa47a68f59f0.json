@@ -1,0 +1,15 @@
+{
+  "symbol": "GC",
+  "name": "GamesCoin",
+  "address": "0x64cf1e2cab86694ac8b31653460faa47a68f59f0",
+  "decimals": 5,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40124/thumb/ejQMF7CZ_400x400.jpg?1725915241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x64cf1e2cab86694ac8b31653460faa47a68f59f0"
+  }
+}

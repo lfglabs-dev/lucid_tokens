@@ -1,0 +1,15 @@
+{
+  "symbol": "SNIFT",
+  "name": "StarryNift",
+  "address": "0x5c4625ac040486ce7a9054924b8cd3e4ba8480a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50365/thumb/logo_transparent.png?1727341382",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5c4625ac040486ce7a9054924b8cd3e4ba8480a6"
+  }
+}

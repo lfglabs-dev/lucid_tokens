@@ -1,0 +1,15 @@
+{
+  "symbol": "ZWIF",
+  "name": "zeekwifhat",
+  "address": "0x60e7fe7ae4461b535bb9eb40c20424c7c61063d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36371/thumb/zeekCG.png?1711338998",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x60e7fe7ae4461b535bb9eb40c20424c7c61063d0"
+  }
+}

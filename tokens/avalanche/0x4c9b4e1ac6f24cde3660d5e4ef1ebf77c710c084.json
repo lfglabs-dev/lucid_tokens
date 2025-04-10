@@ -1,0 +1,15 @@
+{
+  "symbol": "LYD",
+  "name": "LydiaFinance Token",
+  "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15195/thumb/512_pure_logo.png?1620083279",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084"
+  }
+}

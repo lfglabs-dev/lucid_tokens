@@ -1,0 +1,24 @@
+{
+  "symbol": "M-BTC",
+  "name": "Merlin BTC",
+  "address": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36566/thumb/photo_2024-03-25_22-04-42.jpg?1711936162",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "merlin-chain": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
+    "zksync": "0xe757355edba7ced7b8c0271bba4efda184ad75ab",
+    "klay-token": "0x0f921c39efd98809fe6d20a88a4357454578987a",
+    "duckchain": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
+    "lisk": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
+    "taiko": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
+    "linea": "0xe4d584ae9b753e549cae66200a6475d2f00705f7",
+    "mode": "0x59889b7021243db5b1e065385f918316cd90d46c",
+    "ethereum": "0x2f913c820ed3beb3a67391a6eff64e70c4b20b19",
+    "binance-smart-chain": "0x9bfa177621119e64cecbeabe184ab9993e2ef727"
+  }
+}

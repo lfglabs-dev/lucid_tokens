@@ -1,0 +1,15 @@
+{
+  "symbol": "VATRENI",
+  "name": "Vatreni Token",
+  "address": "0xd60deba014459f07bbcc077a5b817f31dafd5229",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd60deba014459f07bbcc077a5b817f31dafd5229"
+  }
+}

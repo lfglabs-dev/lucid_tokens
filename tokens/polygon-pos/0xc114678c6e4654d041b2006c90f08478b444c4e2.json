@@ -1,0 +1,15 @@
+{
+  "symbol": "EDX",
+  "name": "edeXa",
+  "address": "0xc114678c6e4654d041b2006c90f08478b444c4e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52589/thumb/edeXa-EDX.png?1733715873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc114678c6e4654d041b2006c90f08478b444c4e2"
+  }
+}

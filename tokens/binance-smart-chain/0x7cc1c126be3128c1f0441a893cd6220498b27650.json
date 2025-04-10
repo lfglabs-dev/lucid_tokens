@@ -1,0 +1,15 @@
+{
+  "symbol": "XROW",
+  "name": "XROW",
+  "address": "0x7cc1c126be3128c1f0441a893cd6220498b27650",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29725/thumb/XROW_logo_%281%29.png?1680850520",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7cc1c126be3128c1f0441a893cd6220498b27650"
+  }
+}

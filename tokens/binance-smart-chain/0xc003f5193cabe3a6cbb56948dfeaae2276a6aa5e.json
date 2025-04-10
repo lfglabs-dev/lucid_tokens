@@ -1,0 +1,15 @@
+{
+  "symbol": "TRUBGR",
+  "name": "TruBadger",
+  "address": "0xc003f5193cabe3a6cbb56948dfeaae2276a6aa5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16398/thumb/trubadger_logo.PNG?1632984133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc003f5193cabe3a6cbb56948dfeaae2276a6aa5e"
+  }
+}

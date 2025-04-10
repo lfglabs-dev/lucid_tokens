@@ -1,0 +1,15 @@
+{
+  "symbol": "XEP",
+  "name": "Electra Protocol",
+  "address": "0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13589/thumb/Apple-iPhone-Icon-Retina.png?1609939024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TRUFFI",
+  "name": "Truffi",
+  "address": "0x2496a9af81a87ed0b17f6edeaf4ac57671d24f38",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37790/thumb/logo.png?1715587315",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2496a9af81a87ed0b17f6edeaf4ac57671d24f38"
+  }
+}

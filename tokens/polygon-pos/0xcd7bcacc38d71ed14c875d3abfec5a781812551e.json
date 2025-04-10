@@ -1,0 +1,15 @@
+{
+  "symbol": "MVT",
+  "name": "MetaVirus Token",
+  "address": "0xcd7bcacc38d71ed14c875d3abfec5a781812551e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50504/thumb/MetaVirusToken-512x512.png?1728007171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xcd7bcacc38d71ed14c875d3abfec5a781812551e"
+  }
+}

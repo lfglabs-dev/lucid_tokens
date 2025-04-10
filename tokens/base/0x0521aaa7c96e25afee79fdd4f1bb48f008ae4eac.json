@@ -1,0 +1,15 @@
+{
+  "symbol": "FDREAM",
+  "name": "DR3AM Fund",
+  "address": "0x0521aaa7c96e25afee79fdd4f1bb48f008ae4eac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53157/thumb/dream-fund-logo.png?1735462448",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0521aaa7c96e25afee79fdd4f1bb48f008ae4eac"
+  }
+}

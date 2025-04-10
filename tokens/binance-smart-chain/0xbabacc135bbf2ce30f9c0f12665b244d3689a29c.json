@@ -1,0 +1,15 @@
+{
+  "symbol": "COSMIC",
+  "name": "COSMIC FOMO",
+  "address": "0xbabacc135bbf2ce30f9c0f12665b244d3689a29c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30315/thumb/cosmic_logo.png?1683882994",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbabacc135bbf2ce30f9c0f12665b244d3689a29c"
+  }
+}

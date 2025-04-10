@@ -1,0 +1,15 @@
+{
+  "symbol": "GBT",
+  "name": "GIVE BACK TOKEN",
+  "address": "0x90a7253b4dc957257a363b9960ca383d241bd01f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35816/thumb/Give_Back_Token.png?1709885351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x90a7253b4dc957257a363b9960ca383d241bd01f"
+  }
+}

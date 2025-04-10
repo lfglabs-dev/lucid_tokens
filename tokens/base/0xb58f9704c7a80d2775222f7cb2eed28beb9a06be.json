@@ -1,0 +1,15 @@
+{
+  "symbol": "OMNI",
+  "name": "Omnis Genesis by Virtuals",
+  "address": "0xb58f9704c7a80d2775222f7cb2eed28beb9a06be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53239/thumb/mcpfp.png?1735841387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb58f9704c7a80d2775222f7cb2eed28beb9a06be"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GAU",
+  "name": "GAU Token",
+  "address": "0xca8ebfb8e1460aaac7c272cb9053b3d42412aac2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28151/thumb/200x200.png?1668150505",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xca8ebfb8e1460aaac7c272cb9053b3d42412aac2"
+  }
+}

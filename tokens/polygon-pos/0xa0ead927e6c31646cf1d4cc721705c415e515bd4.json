@@ -1,0 +1,15 @@
+{
+  "symbol": "TRIM",
+  "name": "TRIMBEX",
+  "address": "0xa0ead927e6c31646cf1d4cc721705c415e515bd4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32338/thumb/mm-removebg-preview_7.png?1697453288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa0ead927e6c31646cf1d4cc721705c415e515bd4"
+  }
+}

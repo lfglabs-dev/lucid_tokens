@@ -1,0 +1,15 @@
+{
+  "symbol": "DESU",
+  "name": "Dexsport Protocol Native Token",
+  "address": "0x32f1518baace69e85b9e5ff844ebd617c52573ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20583/thumb/desu.png?1638775497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x32f1518baace69e85b9e5ff844ebd617c52573ac"
+  }
+}

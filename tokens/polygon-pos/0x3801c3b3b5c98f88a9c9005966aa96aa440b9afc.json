@@ -1,0 +1,15 @@
+{
+  "symbol": "GLTR",
+  "name": "GAX Liquidity Token Reward",
+  "address": "0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc"
+  }
+}

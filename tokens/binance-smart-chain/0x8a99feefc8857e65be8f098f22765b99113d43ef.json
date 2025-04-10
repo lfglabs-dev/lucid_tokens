@@ -1,0 +1,15 @@
+{
+  "symbol": "GOOGLY",
+  "name": "Googly Cat",
+  "address": "0x8a99feefc8857e65be8f098f22765b99113d43ef",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37104/thumb/resizedimage.png?1713320886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8a99feefc8857e65be8f098f22765b99113d43ef"
+  }
+}

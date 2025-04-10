@@ -1,0 +1,15 @@
+{
+  "symbol": "BWLD",
+  "name": "Bowled",
+  "address": "0x067bd9825c92a4384f55b4cb8fcaeaefffcd490e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36145/thumb/BOWLEDBLUELOGO200X200.png?1710725567",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x067bd9825c92a4384f55b4cb8fcaeaefffcd490e"
+  }
+}

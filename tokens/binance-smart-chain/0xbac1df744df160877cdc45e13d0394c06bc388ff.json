@@ -1,0 +1,19 @@
+{
+  "symbol": "GEM",
+  "name": "NFTmall GEM Token",
+  "address": "0xbac1df744df160877cdc45e13d0394c06bc388ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16217/thumb/Icon-1000x1000.png?1623316471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbac1df744df160877cdc45e13d0394c06bc388ff",
+    "thundercore": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+    "ethereum": "0x9b17baadf0f21f03e35249e0e59723f34994f806",
+    "avalanche": "0xdebb1d6a2196f2335ad51fbde7ca587205889360",
+    "polygon-pos": "0x4a7b9a4589a88a06ca29f99556db08234078d727"
+  }
+}

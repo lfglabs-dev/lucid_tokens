@@ -1,0 +1,15 @@
+{
+  "symbol": "AVXT",
+  "name": "Avaxtars Token",
+  "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18336/thumb/avxt.PNG?1631588090",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1"
+  }
+}

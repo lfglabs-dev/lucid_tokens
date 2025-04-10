@@ -1,0 +1,15 @@
+{
+  "symbol": "BIRB",
+  "name": "Birb",
+  "address": "0xca5c7a459becaac1f2b5ee28bb8a29875b1a37a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26373/thumb/JL0BKM1t_400x400.jpeg?1657610400",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xca5c7a459becaac1f2b5ee28bb8a29875b1a37a6"
+  }
+}

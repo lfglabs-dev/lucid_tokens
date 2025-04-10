@@ -1,0 +1,15 @@
+{
+  "symbol": "WNDR",
+  "name": "Wonderman Token",
+  "address": "0xdfd7b0dd7bf1012dfdf3307a964c36b972300ac8",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25461/thumb/Wonderman_Logo_Menu.png?1651827108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdfd7b0dd7bf1012dfdf3307a964c36b972300ac8"
+  }
+}

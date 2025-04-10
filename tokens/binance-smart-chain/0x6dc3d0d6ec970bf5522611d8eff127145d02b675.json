@@ -1,0 +1,15 @@
+{
+  "symbol": "RVL",
+  "name": "Revolotto",
+  "address": "0x6dc3d0d6ec970bf5522611d8eff127145d02b675",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19044/thumb/rvl.PNG?1634253070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6dc3d0d6ec970bf5522611d8eff127145d02b675"
+  }
+}

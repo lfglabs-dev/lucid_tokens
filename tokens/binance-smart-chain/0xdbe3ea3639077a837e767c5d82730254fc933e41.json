@@ -1,0 +1,15 @@
+{
+  "symbol": "MLP",
+  "name": "Matrix Layer Protocol",
+  "address": "0xdbe3ea3639077a837e767c5d82730254fc933e41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51372/thumb/173068817383b5009e040969ee7b60362ad7426573.jpeg?1730936984",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdbe3ea3639077a837e767c5d82730254fc933e41"
+  }
+}

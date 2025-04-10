@@ -1,0 +1,16 @@
+{
+  "symbol": "LAUNCH",
+  "name": "PulseLaunch",
+  "address": "0xf0d336e3a429596c924dd2723c0c4a0100a421db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36829/thumb/gradient_black_rocket_200x200.png?1712557340",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "pulsechain": "0xe101c848620e762ecb942356962dd415342b4feb",
+    "base": "0xf0d336e3a429596c924dd2723c0c4a0100a421db"
+  }
+}

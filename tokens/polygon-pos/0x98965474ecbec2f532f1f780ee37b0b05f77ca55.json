@@ -1,0 +1,15 @@
+{
+  "symbol": "SUT",
+  "name": "SUPER TRUST",
+  "address": "0x98965474ecbec2f532f1f780ee37b0b05f77ca55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55122/thumb/sut-logo.png?1743842563",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x98965474ecbec2f532f1f780ee37b0b05f77ca55"
+  }
+}

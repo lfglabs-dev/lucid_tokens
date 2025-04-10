@@ -1,0 +1,16 @@
+{
+  "symbol": "COLLAR",
+  "name": "DOG COLLAR (PoS)",
+  "address": "0xd5fa77a860fea9cff31da91bbf9e0faea9538290",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18324/thumb/dcLogo.png?1631532599",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9783b81438c24848f85848f8df31845097341771",
+    "polygon-pos": "0xd5fa77a860fea9cff31da91bbf9e0faea9538290"
+  }
+}

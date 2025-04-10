@@ -1,0 +1,15 @@
+{
+  "symbol": "DUCK",
+  "name": "DUCK",
+  "address": "0x1a72064361894f185782bdbb046bc2af94ab6abe",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55153/thumb/photo_2025-04-06_21.21.40.png?1744190218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1a72064361894f185782bdbb046bc2af94ab6abe"
+  }
+}

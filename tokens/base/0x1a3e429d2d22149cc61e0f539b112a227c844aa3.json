@@ -1,0 +1,15 @@
+{
+  "symbol": "LOKY",
+  "name": "Loky by Virtuals",
+  "address": "0x1a3e429d2d22149cc61e0f539b112a227c844aa3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52866/thumb/Screenshot_2024-12-17_at_9.38.34%E2%80%AFPM.png?1734549562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1a3e429d2d22149cc61e0f539b112a227c844aa3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DogeKing",
+  "name": "DogeKing ",
+  "address": "0x641ec142e67ab213539815f67e4276975c2f8d50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23349/thumb/kq245eMw_400x400.jpg?1643924448",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x641ec142e67ab213539815f67e4276975c2f8d50"
+  }
+}

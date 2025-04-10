@@ -1,0 +1,15 @@
+{
+  "symbol": "NAVIX",
+  "name": "NAVIX",
+  "address": "0x5eac29ad69093281c6440e6ac196be4aab07c4de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54913/thumb/navix-token-2.png?1742485557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5eac29ad69093281c6440e6ac196be4aab07c4de"
+  }
+}

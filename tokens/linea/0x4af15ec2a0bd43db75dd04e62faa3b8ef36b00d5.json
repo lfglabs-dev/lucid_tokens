@@ -1,0 +1,15 @@
+{
+  "symbol": "DAI",
+  "name": "Dai Stablecoin",
+  "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31272/thumb/dai-stablecoin.png?1692092750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5"
+  }
+}

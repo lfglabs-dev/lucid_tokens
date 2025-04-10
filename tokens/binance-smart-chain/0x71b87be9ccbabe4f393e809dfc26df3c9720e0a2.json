@@ -1,0 +1,15 @@
+{
+  "symbol": "TMG",
+  "name": "T-mac DAO",
+  "address": "0x71b87be9ccbabe4f393e809dfc26df3c9720e0a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28117/thumb/tmg.png?1667565644",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x71b87be9ccbabe4f393e809dfc26df3c9720e0a2"
+  }
+}

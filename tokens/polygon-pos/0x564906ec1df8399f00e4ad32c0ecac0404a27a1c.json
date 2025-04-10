@@ -1,0 +1,17 @@
+{
+  "symbol": "WALLET",
+  "name": "Ambire Wallet",
+  "address": "0x564906ec1df8399f00e4ad32c0ecac0404a27a1c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23154/thumb/wallet.PNG?1643352408",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x88800092ff476844f74dc2fc427974bbee2794ae",
+    "polygon-pos": "0x564906ec1df8399f00e4ad32c0ecac0404a27a1c",
+    "base": "0x0bbbead62f7647ae8323d2cb243a0db74b7c2b80"
+  }
+}

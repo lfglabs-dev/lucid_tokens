@@ -1,0 +1,16 @@
+{
+  "symbol": "SATOSHI",
+  "name": "Satoshi Nakamoto",
+  "address": "0x45e7eaedb8e3360f850c963c5419a5236e451217",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37611/thumb/SATOSHI_LOGO.PNG?1715054986",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcbf4d5efa82e32a9187385480a7c74cb062b956c",
+    "base": "0x45e7eaedb8e3360f850c963c5419a5236e451217"
+  }
+}

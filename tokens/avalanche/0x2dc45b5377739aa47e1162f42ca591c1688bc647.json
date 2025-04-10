@@ -1,0 +1,15 @@
+{
+  "symbol": "YEET",
+  "name": "Yeet the Yeti",
+  "address": "0x2dc45b5377739aa47e1162f42ca591c1688bc647",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52519/thumb/LOGO_%281%29.png?1733501730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x2dc45b5377739aa47e1162f42ca591c1688bc647"
+  }
+}

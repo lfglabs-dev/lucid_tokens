@@ -1,0 +1,17 @@
+{
+  "symbol": "SDT",
+  "name": "Stake DAO Token (PoS)",
+  "address": "0x361a5a4993493ce00f61c32d4ecca5512b82ce90",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13724/thumb/stakedao_logo.jpg?1611195011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+    "arbitrum-one": "0x7ba4a00d54a07461d9db2aef539e91409943adc9",
+    "polygon-pos": "0x361a5a4993493ce00f61c32d4ecca5512b82ce90"
+  }
+}

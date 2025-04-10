@@ -1,0 +1,16 @@
+{
+  "symbol": "ZETA",
+  "name": "Zeta",
+  "address": "0x0000028a2eb8346cd5c0267856ab7594b7a55308",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26718/thumb/zeta-circle-green.png?1659864084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf091867ec603a6628ed83d274e835539d82e9cc8",
+    "binance-smart-chain": "0x0000028a2eb8346cd5c0267856ab7594b7a55308"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AION",
+  "name": "AION 5100",
+  "address": "0xfc48314ad4ad5bd36a84e8307b86a68a01d95d9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52808/thumb/l8DUQ6ns_400x400.jpg?1734361482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfc48314ad4ad5bd36a84e8307b86a68a01d95d9c"
+  }
+}

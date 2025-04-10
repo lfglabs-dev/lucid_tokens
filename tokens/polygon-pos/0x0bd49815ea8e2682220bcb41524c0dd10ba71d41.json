@@ -1,0 +1,15 @@
+{
+  "symbol": "PYM",
+  "name": "Playermon",
+  "address": "0x0bd49815ea8e2682220bcb41524c0dd10ba71d41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20682/thumb/eALRa3rZ_400x400.png?1637552321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0bd49815ea8e2682220bcb41524c0dd10ba71d41"
+  }
+}

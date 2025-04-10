@@ -1,0 +1,15 @@
+{
+  "symbol": "CVN",
+  "name": "CVN",
+  "address": "0x57f5c1a40f1e847e50ebdd29cb3dbfef777d2d3e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30557/thumb/IMG_20230524_125149_275.jpg?1685014185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57f5c1a40f1e847e50ebdd29cb3dbfef777d2d3e"
+  }
+}

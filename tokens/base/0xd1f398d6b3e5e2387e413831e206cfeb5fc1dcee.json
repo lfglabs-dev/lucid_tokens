@@ -1,0 +1,16 @@
+{
+  "symbol": "PUBLX",
+  "name": "PUBLX",
+  "address": "0xd1f398d6b3e5e2387e413831e206cfeb5fc1dcee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29074/thumb/PUBLX_Logo_%28200x200%29.png?1676432730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8",
+    "base": "0xd1f398d6b3e5e2387e413831e206cfeb5fc1dcee"
+  }
+}

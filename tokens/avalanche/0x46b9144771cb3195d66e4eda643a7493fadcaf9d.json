@@ -1,0 +1,15 @@
+{
+  "symbol": "BLS",
+  "name": "BloodLoop Shard",
+  "address": "0x46b9144771cb3195d66e4eda643a7493fadcaf9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38372/thumb/200x200.png?1717306815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x46b9144771cb3195d66e4eda643a7493fadcaf9d"
+  }
+}

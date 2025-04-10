@@ -1,0 +1,16 @@
+{
+  "symbol": "TRY",
+  "name": "TryHards",
+  "address": "0x75d107de2217ffe2cd574a1b3297c70c8fafd159",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18624/thumb/TryHards_Tokenticker.png?1650437198",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xefee2de82343be622dcb4e545f75a3b9f50c272d",
+    "binance-smart-chain": "0x75d107de2217ffe2cd574a1b3297c70c8fafd159"
+  }
+}

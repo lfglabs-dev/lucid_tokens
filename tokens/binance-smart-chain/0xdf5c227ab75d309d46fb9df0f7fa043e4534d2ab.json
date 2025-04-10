@@ -1,0 +1,15 @@
+{
+  "symbol": "GBCK",
+  "name": "GoldBrick",
+  "address": "0xdf5c227ab75d309d46fb9df0f7fa043e4534d2ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54707/thumb/gbck-token-logo-200x200px.png?1741124267",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf5c227ab75d309d46fb9df0f7fa043e4534d2ab"
+  }
+}

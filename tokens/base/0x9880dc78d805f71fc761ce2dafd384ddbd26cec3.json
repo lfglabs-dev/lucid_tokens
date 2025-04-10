@@ -1,0 +1,15 @@
+{
+  "symbol": "COAI",
+  "name": "COTI AI Agents",
+  "address": "0x9880dc78d805f71fc761ce2dafd384ddbd26cec3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53318/thumb/Symbol_Logo-blue.png?1736085770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9880dc78d805f71fc761ce2dafd384ddbd26cec3"
+  }
+}

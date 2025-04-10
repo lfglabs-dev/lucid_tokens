@@ -1,0 +1,15 @@
+{
+  "symbol": "DYOR",
+  "name": "DYOR",
+  "address": "0xbf3a2340221b9ead8fe0b6a1b2990e6e00dea092",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52534/thumb/DYOR_LABS.png?1733584024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbf3a2340221b9ead8fe0b6a1b2990e6e00dea092"
+  }
+}

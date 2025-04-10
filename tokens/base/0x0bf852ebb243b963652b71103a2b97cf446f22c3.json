@@ -1,0 +1,15 @@
+{
+  "symbol": "ROCKET",
+  "name": "AI ROCKET by Virtuals",
+  "address": "0x0bf852ebb243b963652b71103a2b97cf446f22c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53030/thumb/200x200.png?1735056900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0bf852ebb243b963652b71103a2b97cf446f22c3"
+  }
+}

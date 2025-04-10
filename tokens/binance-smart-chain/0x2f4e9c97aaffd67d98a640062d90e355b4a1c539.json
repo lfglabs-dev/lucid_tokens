@@ -1,0 +1,15 @@
+{
+  "symbol": "AFRO",
+  "name": "Afrostar",
+  "address": "0x2f4e9c97aaffd67d98a640062d90e355b4a1c539",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19784/thumb/afrostar.PNG?1635848538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2f4e9c97aaffd67d98a640062d90e355b4a1c539"
+  }
+}

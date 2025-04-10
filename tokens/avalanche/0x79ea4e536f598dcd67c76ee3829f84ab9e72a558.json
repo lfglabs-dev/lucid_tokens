@@ -1,0 +1,15 @@
+{
+  "symbol": "AI9000",
+  "name": "ai9000 Token",
+  "address": "0x79ea4e536f598dcd67c76ee3829f84ab9e72a558",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52826/thumb/190844147.png?1734431124",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x79ea4e536f598dcd67c76ee3829f84ab9e72a558"
+  }
+}

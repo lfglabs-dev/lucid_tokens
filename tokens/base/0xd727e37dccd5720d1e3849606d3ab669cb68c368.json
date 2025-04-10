@@ -1,0 +1,15 @@
+{
+  "symbol": "9-5",
+  "name": "9-5",
+  "address": "0xd727e37dccd5720d1e3849606d3ab669cb68c368",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38143/thumb/image_50347777_%282%29.JPG?1716631597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd727e37dccd5720d1e3849606d3ab669cb68c368"
+  }
+}

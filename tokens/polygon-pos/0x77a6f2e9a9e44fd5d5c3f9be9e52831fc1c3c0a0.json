@@ -1,0 +1,15 @@
+{
+  "symbol": "W$C",
+  "name": "World$tateCoin",
+  "address": "0x77a6f2e9a9e44fd5d5c3f9be9e52831fc1c3c0a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29636/thumb/wsc_polygon_logo_200.png?1680160427",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x77a6f2e9a9e44fd5d5c3f9be9e52831fc1c3c0a0"
+  }
+}

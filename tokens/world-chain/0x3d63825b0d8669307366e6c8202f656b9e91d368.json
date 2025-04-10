@@ -1,0 +1,38 @@
+{
+  "symbol": "WGC",
+  "name": "Wild Goat Coin",
+  "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37966/thumb/wgc.jpeg?1716185156",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "bob-network": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "ethereum": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "arbitrum-one": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "optimistic-ethereum": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "berachain": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "beam": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "celo": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "linea": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "mantle": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "opbnb": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "polygon-pos": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "scroll": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "sonic": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "x-layer": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+    "cyber": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "ink": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "lisk": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "mode": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "soneium": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "swellchain": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "unichain": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "world-chain": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "zora-network": "0x3d63825b0d8669307366e6c8202f656b9e91d368"
+  }
+}

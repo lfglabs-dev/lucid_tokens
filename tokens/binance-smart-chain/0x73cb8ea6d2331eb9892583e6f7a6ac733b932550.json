@@ -1,0 +1,15 @@
+{
+  "symbol": "VEVE",
+  "name": "VEVE",
+  "address": "0x73cb8ea6d2331eb9892583e6f7a6ac733b932550",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33705/thumb/Safeimagekit-resized-img_%2813%29.png?1702851955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x73cb8ea6d2331eb9892583e6f7a6ac733b932550"
+  }
+}

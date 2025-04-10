@@ -1,0 +1,15 @@
+{
+  "symbol": "MECH",
+  "name": "MechMaster",
+  "address": "0xc7b7844494c516b840a7a4575ff3e60ff0f056a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19403/thumb/mech_master.PNG?1635198336",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc7b7844494c516b840a7a4575ff3e60ff0f056a9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "eIQT",
+  "name": "eIQT Token",
+  "address": "0x72a76965eb8f606675f119dae89deda557fdbf01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50267/thumb/eIQT_200x200_Vector.png?1726743809",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x72a76965eb8f606675f119dae89deda557fdbf01"
+  }
+}

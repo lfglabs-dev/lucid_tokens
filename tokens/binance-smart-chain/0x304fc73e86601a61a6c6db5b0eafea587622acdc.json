@@ -1,0 +1,16 @@
+{
+  "symbol": "bCOT",
+  "name": "CoTrader",
+  "address": "0x304fc73e86601a61a6c6db5b0eafea587622acdc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4205/thumb/logo_black.png?1547039508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c872500c00565505f3624ab435c222e558e9ff8",
+    "binance-smart-chain": "0x304fc73e86601a61a6c6db5b0eafea587622acdc"
+  }
+}

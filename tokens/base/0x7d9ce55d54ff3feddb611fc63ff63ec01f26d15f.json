@@ -1,0 +1,15 @@
+{
+  "symbol": "FUNGI",
+  "name": "Fungi",
+  "address": "0x7d9ce55d54ff3feddb611fc63ff63ec01f26d15f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36690/thumb/image_2024-03-29_20-10-19_%282%29_%283%29.png?1712091884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7d9ce55d54ff3feddb611fc63ff63ec01f26d15f"
+  }
+}

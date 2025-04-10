@@ -1,0 +1,15 @@
+{
+  "symbol": "nDEFI",
+  "name": "Polly nDefi Nest",
+  "address": "0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18317/thumb/nDEFI.png?1631516554",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b"
+  }
+}

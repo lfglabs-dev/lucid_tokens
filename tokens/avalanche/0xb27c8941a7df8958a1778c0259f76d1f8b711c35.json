@@ -1,0 +1,15 @@
+{
+  "symbol": "KLO",
+  "name": "Kalao Token",
+  "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18641/thumb/KALAO.jpg?1632752637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35"
+  }
+}

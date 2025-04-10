@@ -1,0 +1,15 @@
+{
+  "symbol": "AVN",
+  "name": "AVNRich Token",
+  "address": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14819/thumb/avn.png?1618556244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MSWAP",
+  "name": "MoneySwap",
+  "address": "0xdd5a149740c055bdcdc5c066888f739dbe0bf2d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13576/thumb/logo_%281%29.png?1609888424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdd5a149740c055bdcdc5c066888f739dbe0bf2d0"
+  }
+}

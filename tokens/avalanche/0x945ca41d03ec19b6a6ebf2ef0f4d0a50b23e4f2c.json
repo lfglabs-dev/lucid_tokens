@@ -1,0 +1,15 @@
+{
+  "symbol": "GRELF[ava]",
+  "name": "GRELF",
+  "address": "0x945ca41d03ec19b6a6ebf2ef0f4d0a50b23e4f2c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29656/thumb/GRELF_Token_Icon.png?1680497527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x945ca41d03ec19b6a6ebf2ef0f4d0a50b23e4f2c"
+  }
+}

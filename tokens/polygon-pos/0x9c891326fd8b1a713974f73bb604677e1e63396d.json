@@ -1,0 +1,15 @@
+{
+  "symbol": "ISLAMI",
+  "name": "ISLAMICOIN",
+  "address": "0x9c891326fd8b1a713974f73bb604677e1e63396d",
+  "decimals": 7,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24749/thumb/3100-x-3100-px-e1632233028219.png?1648786180",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x9c891326fd8b1a713974f73bb604677e1e63396d"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "OVN",
+  "name": "OVN",
+  "address": "0x259b30c916e440fb79747cd559207ffdabbae057",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
+    "binance-smart-chain": "0x259b30c916e440fb79747cd559207ffdabbae057",
+    "arbitrum-one": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+    "base": "0xa3d1a8deb97b111454b294e2324efad13a9d8396"
+  }
+}

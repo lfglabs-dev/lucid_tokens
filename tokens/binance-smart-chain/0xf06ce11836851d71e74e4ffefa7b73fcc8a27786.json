@@ -1,0 +1,15 @@
+{
+  "symbol": "LAY3R",
+  "name": "AutoLayer",
+  "address": "0xf06ce11836851d71e74e4ffefa7b73fcc8a27786",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50512/thumb/autolayer.jpg?1728022154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf06ce11836851d71e74e4ffefa7b73fcc8a27786"
+  }
+}

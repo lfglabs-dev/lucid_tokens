@@ -1,0 +1,16 @@
+{
+  "symbol": "GAIA",
+  "name": "GAIA Everworld",
+  "address": "0x347e430b7cd1235e216be58ffa13394e5009e6e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19629/thumb/gaia.png?1646481791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x723b17718289a91af252d616de2c77944962d122",
+    "binance-smart-chain": "0x347e430b7cd1235e216be58ffa13394e5009e6e2"
+  }
+}

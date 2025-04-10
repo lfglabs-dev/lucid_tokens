@@ -1,0 +1,15 @@
+{
+  "symbol": "RWA",
+  "name": "Rug World Assets",
+  "address": "0x928a6a9fc62b2c94baf2992a6fba4715f5bb0066",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37119/thumb/0x928a6a9fc62b2c94baf2992a6fba4715f5bb0066.jpg?1713356569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x928a6a9fc62b2c94baf2992a6fba4715f5bb0066"
+  }
+}

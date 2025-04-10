@@ -1,0 +1,16 @@
+{
+  "symbol": "TXAU",
+  "name": "tGOLD",
+  "address": "0xa6da8c8999c094432c77e7d318951d34019af24b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27828/thumb/tGOLD_token_2D.jpg?1666165789",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa6da8c8999c094432c77e7d318951d34019af24b",
+    "ethereum": "0xe4a6f23fb9e00fca037aa0ea0a6954de0a6c53bf"
+  }
+}

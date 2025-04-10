@@ -1,0 +1,15 @@
+{
+  "symbol": "GPX",
+  "name": "Grabpenny Token",
+  "address": "0x19b50c63d3d7f7a22308cb0fc8d41b66ff9c318a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36674/thumb/Group_10469.png?1712062452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x19b50c63d3d7f7a22308cb0fc8d41b66ff9c318a"
+  }
+}

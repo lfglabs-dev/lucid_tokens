@@ -1,0 +1,16 @@
+{
+  "symbol": "SUBF",
+  "name": "Super Best Friends",
+  "address": "0xfaa4f3bcfc87d791e9305951275e0f62a98bcb10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36368/thumb/1000017215.jpg?1711338058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x564a80d0123bdd750fb6a9993834968fc595c09a",
+    "base": "0xfaa4f3bcfc87d791e9305951275e0f62a98bcb10"
+  }
+}

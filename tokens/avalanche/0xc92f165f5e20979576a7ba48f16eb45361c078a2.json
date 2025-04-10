@@ -1,0 +1,15 @@
+{
+  "symbol": "EGS",
+  "name": "EminGunSirer",
+  "address": "0xc92f165f5e20979576a7ba48f16eb45361c078a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34557/thumb/coingecko.png?1705371524",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xc92f165f5e20979576a7ba48f16eb45361c078a2"
+  }
+}

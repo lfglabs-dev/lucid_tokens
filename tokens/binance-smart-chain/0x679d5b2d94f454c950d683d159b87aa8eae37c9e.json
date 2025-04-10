@@ -1,0 +1,15 @@
+{
+  "symbol": "HAM",
+  "name": "Hamster",
+  "address": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
+  "decimals": 7,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16115/thumb/hamster.png?1623033031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e"
+  }
+}

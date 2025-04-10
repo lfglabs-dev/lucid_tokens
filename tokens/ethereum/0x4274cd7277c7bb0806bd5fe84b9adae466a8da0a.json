@@ -1,0 +1,16 @@
+{
+  "symbol": "YUSD",
+  "name": "YUSD",
+  "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55085/thumb/Figma_Group_2087326928.png?1743664857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a",
+    "binance-smart-chain": "0xab3dbcd9b096c3ff76275038bf58eac10d22c61f"
+  }
+}

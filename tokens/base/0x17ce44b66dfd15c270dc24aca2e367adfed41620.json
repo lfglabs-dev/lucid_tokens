@@ -1,0 +1,15 @@
+{
+  "symbol": "BEMU",
+  "name": "BEMU",
+  "address": "0x17ce44b66dfd15c270dc24aca2e367adfed41620",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54936/thumb/jyTx7YWK_400x400.jpg?1742629118",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x17ce44b66dfd15c270dc24aca2e367adfed41620"
+  }
+}

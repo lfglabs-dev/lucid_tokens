@@ -1,0 +1,15 @@
+{
+  "symbol": "SNAP",
+  "name": "Snap Token",
+  "address": "0xba1e2321e340740f9c3685dc09de5e0326bc1799",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51499/thumb/side-token-gold.png?1731420627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xba1e2321e340740f9c3685dc09de5e0326bc1799"
+  }
+}

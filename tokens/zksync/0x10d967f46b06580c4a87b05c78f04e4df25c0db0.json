@@ -1,0 +1,15 @@
+{
+  "symbol": "uGOLD",
+  "name": "uGOLD",
+  "address": "0x10d967f46b06580c4a87b05c78f04e4df25c0db0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32647/thumb/uGOLD.png?1698893439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x10d967f46b06580c4a87b05c78f04e4df25c0db0"
+  }
+}

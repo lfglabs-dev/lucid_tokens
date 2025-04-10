@@ -1,0 +1,15 @@
+{
+  "symbol": "KING",
+  "name": "CryptoBlades KING Token",
+  "address": "0x0ccd575bf9378c06f6dca82f8122f570769f00c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18728/thumb/cryptoblades-kingdoms.jpeg?1633228872",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0ccd575bf9378c06f6dca82f8122f570769f00c2"
+  }
+}

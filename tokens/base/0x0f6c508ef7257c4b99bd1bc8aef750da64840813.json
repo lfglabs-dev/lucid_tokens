@@ -1,0 +1,18 @@
+{
+  "symbol": "AVGO.d",
+  "name": "Broadcom Inc. Common Stock - Dinari",
+  "address": "0x0f6c508ef7257c4b99bd1bc8aef750da64840813",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53862/thumb/d-token-200.png?1737614626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7c5fed5e0f8d05748cc12ffe1ca400b07de0f983",
+    "blast": "0x97dd837806eab484b440f15e60f84c4f312f7cdd",
+    "ethereum": "0x53aff1d59ea64f7f836670e33e99a0443f0ef25c",
+    "base": "0x0f6c508ef7257c4b99bd1bc8aef750da64840813"
+  }
+}

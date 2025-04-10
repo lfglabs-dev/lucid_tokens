@@ -1,0 +1,15 @@
+{
+  "symbol": "EMYC",
+  "name": "EMoneyToken",
+  "address": "0xe3f53c0d48360de764ddc2a1a82c3e6db5d4624d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53931/thumb/E_Money.png?1737746795",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe3f53c0d48360de764ddc2a1a82c3e6db5d4624d"
+  }
+}

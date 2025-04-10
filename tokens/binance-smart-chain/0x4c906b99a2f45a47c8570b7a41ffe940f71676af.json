@@ -1,0 +1,15 @@
+{
+  "symbol": "OPIP",
+  "name": "OpiPets Token",
+  "address": "0x4c906b99a2f45a47c8570b7a41ffe940f71676af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28806/thumb/OP_LOGO.png?1674303006",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c906b99a2f45a47c8570b7a41ffe940f71676af"
+  }
+}

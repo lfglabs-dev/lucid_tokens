@@ -1,0 +1,18 @@
+{
+  "symbol": "HODL.d",
+  "name": "VanEck Bitcoin Trust - Dinari",
+  "address": "0x842d4a6d10e41eaae03b4df87e575be53b296fc6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0c59f6b96d3cac58240429c7659ec107f8b1efa7",
+    "ethereum": "0xaedc5e1e05c2fb8840f6d6df4e8f63e983c32bd5",
+    "blast": "0x01e8bd212f5f319e7126b62aa020831b92e19cd9",
+    "base": "0x842d4a6d10e41eaae03b4df87e575be53b296fc6"
+  }
+}

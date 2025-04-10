@@ -1,0 +1,16 @@
+{
+  "symbol": "DDIM",
+  "name": "DuckDaoDime",
+  "address": "0xc9132c76060f6b319764ea075973a650a1a53bc9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12146/thumb/token_DDIM-01.png?1606982032",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+    "binance-smart-chain": "0xc9132c76060f6b319764ea075973a650a1a53bc9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SENDC",
+  "name": "SENDCRYPTO",
+  "address": "0x688b4231472fde70c1d30f48638aa1661725d3ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28334/thumb/SC_Logo_200x200.png?1669546353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x688b4231472fde70c1d30f48638aa1661725d3ce"
+  }
+}

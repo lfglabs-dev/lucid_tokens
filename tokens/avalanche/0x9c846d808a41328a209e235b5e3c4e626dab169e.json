@@ -1,0 +1,15 @@
+{
+  "symbol": "FERT",
+  "name": "chikn fert",
+  "address": "0x9c846d808a41328a209e235b5e3c4e626dab169e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25425/thumb/200x200_FERT.png?1651737353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x9c846d808a41328a209e235b5e3c4e626dab169e"
+  }
+}

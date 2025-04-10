@@ -1,0 +1,15 @@
+{
+  "symbol": "DON",
+  "name": "TheDonato Token",
+  "address": "0xce2194ef6cd74ac3fc21e5e02524f990ec31e3fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37460/thumb/200x200_DON_Logo.png?1714450348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xce2194ef6cd74ac3fc21e5e02524f990ec31e3fd"
+  }
+}

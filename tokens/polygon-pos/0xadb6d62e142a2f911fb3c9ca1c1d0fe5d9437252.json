@@ -1,0 +1,15 @@
+{
+  "symbol": "LAI",
+  "name": "LOCKON Active Index",
+  "address": "0xadb6d62e142a2f911fb3c9ca1c1d0fe5d9437252",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37360/thumb/index_active_icon.png?1714109712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xadb6d62e142a2f911fb3c9ca1c1d0fe5d9437252"
+  }
+}

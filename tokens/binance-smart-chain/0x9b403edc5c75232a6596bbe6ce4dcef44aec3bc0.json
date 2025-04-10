@@ -1,0 +1,15 @@
+{
+  "symbol": "JETT",
+  "name": "Jett",
+  "address": "0x9b403edc5c75232a6596bbe6ce4dcef44aec3bc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52309/thumb/jetttoken_1.png?1733061770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9b403edc5c75232a6596bbe6ce4dcef44aec3bc0"
+  }
+}

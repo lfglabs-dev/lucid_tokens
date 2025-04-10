@@ -1,0 +1,15 @@
+{
+  "symbol": "BCOIN",
+  "name": "Bomber Coin",
+  "address": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18567/thumb/bcoin.png?1638171024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d"
+  }
+}

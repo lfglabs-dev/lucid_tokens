@@ -1,0 +1,15 @@
+{
+  "symbol": "CCC",
+  "name": "Cute Cat Candle",
+  "address": "0x1ccb4b14a11e0f2994a7ecbbd4cc69632f4c7c76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36930/thumb/1000017879.jpg?1712803401",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1ccb4b14a11e0f2994a7ecbbd4cc69632f4c7c76"
+  }
+}

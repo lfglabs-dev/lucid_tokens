@@ -1,0 +1,15 @@
+{
+  "symbol": "LOK",
+  "name": "Loksmith",
+  "address": "0x41cbfd7c8709d1e459ce816703a1fc882daa77d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54931/thumb/LOK200.png?1742627108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x41cbfd7c8709d1e459ce816703a1fc882daa77d3"
+  }
+}

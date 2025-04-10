@@ -1,0 +1,15 @@
+{
+  "symbol": "SIAM",
+  "name": "Siamese",
+  "address": "0xba71cb8ef2d59de7399745793657838829e0b147",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36489/thumb/Untitled_design_-_2024-03-25T232153.157.png?1711567424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xba71cb8ef2d59de7399745793657838829e0b147"
+  }
+}

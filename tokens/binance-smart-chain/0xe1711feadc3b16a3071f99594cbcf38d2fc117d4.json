@@ -1,0 +1,15 @@
+{
+  "symbol": "NANA",
+  "name": "NANA Coin",
+  "address": "0xe1711feadc3b16a3071f99594cbcf38d2fc117d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53708/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250110175500.png?1737090666",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe1711feadc3b16a3071f99594cbcf38d2fc117d4"
+  }
+}

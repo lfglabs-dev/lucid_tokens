@@ -1,0 +1,15 @@
+{
+  "symbol": "DRAC",
+  "name": "DRAC Token",
+  "address": "0x123458c167a371250d325bd8b1fff12c8af692a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27438/thumb/200X200.png?1663934782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x123458c167a371250d325bd8b1fff12c8af692a7"
+  }
+}

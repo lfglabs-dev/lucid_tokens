@@ -1,0 +1,15 @@
+{
+  "symbol": "WEAR",
+  "name": "Metawear",
+  "address": "0x9d39ef3bbca5927909dde44476656b81bbe4ee75",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24339/thumb/MW_icon.png?1647363556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9d39ef3bbca5927909dde44476656b81bbe4ee75"
+  }
+}

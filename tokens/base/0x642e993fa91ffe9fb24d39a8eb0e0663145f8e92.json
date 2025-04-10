@@ -1,0 +1,15 @@
+{
+  "symbol": "RABBIT",
+  "name": "BASED RABBIT",
+  "address": "0x642e993fa91ffe9fb24d39a8eb0e0663145f8e92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38843/thumb/BASED_RABBIT_200x200.png?1719202239",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x642e993fa91ffe9fb24d39a8eb0e0663145f8e92"
+  }
+}

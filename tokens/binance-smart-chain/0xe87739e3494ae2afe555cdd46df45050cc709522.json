@@ -1,0 +1,15 @@
+{
+  "symbol": "MIAO",
+  "name": "MIAOCoin",
+  "address": "0xe87739e3494ae2afe555cdd46df45050cc709522",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53923/thumb/1156863f98f4789dbb9bb68a6503d6a.jpg?1737741922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe87739e3494ae2afe555cdd46df45050cc709522"
+  }
+}

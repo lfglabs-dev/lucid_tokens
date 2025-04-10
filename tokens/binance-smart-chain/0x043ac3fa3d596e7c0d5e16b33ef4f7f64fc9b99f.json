@@ -1,0 +1,15 @@
+{
+  "symbol": "MBTCs",
+  "name": "MBTCs",
+  "address": "0x043ac3fa3d596e7c0d5e16b33ef4f7f64fc9b99f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50962/thumb/MBTCs-Logo2_200x200.png?1729592580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x043ac3fa3d596e7c0d5e16b33ef4f7f64fc9b99f"
+  }
+}

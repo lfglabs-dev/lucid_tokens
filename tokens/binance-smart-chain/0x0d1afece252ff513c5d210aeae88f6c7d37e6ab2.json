@@ -1,0 +1,15 @@
+{
+  "symbol": "eByt",
+  "name": "EarthByt",
+  "address": "0x0d1afece252ff513c5d210aeae88f6c7d37e6ab2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23491/thumb/Untitled-design-17.png?1644221335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0d1afece252ff513c5d210aeae88f6c7d37e6ab2"
+  }
+}

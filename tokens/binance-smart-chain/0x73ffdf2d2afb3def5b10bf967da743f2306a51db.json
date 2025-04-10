@@ -1,0 +1,16 @@
+{
+  "symbol": "AGS",
+  "name": "Collector Coin",
+  "address": "0x73ffdf2d2afb3def5b10bf967da743f2306a51db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16918/thumb/AGS.png?1625626120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x73ffdf2d2afb3def5b10bf967da743f2306a51db",
+    "ethereum": "0x667fd83e24ca1d935d36717d305d54fa0cac991c"
+  }
+}

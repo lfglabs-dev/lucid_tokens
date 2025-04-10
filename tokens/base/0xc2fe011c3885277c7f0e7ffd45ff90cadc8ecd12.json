@@ -1,0 +1,15 @@
+{
+  "symbol": "PONCHO",
+  "name": "Poncho",
+  "address": "0xc2fe011c3885277c7f0e7ffd45ff90cadc8ecd12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36160/thumb/ponchologo.PNG?1710744293",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc2fe011c3885277c7f0e7ffd45ff90cadc8ecd12"
+  }
+}

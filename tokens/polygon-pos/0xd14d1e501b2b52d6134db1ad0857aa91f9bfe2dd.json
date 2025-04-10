@@ -1,0 +1,15 @@
+{
+  "symbol": "SWAVE",
+  "name": "Shuts Wave",
+  "address": "0xd14d1e501b2b52d6134db1ad0857aa91f9bfe2dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28830/thumb/crypto_icon.png?1674785040",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd14d1e501b2b52d6134db1ad0857aa91f9bfe2dd"
+  }
+}

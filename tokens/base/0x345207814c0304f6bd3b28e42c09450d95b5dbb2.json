@@ -1,0 +1,15 @@
+{
+  "symbol": "stickbug",
+  "name": "stickbug",
+  "address": "0x345207814c0304f6bd3b28e42c09450d95b5dbb2",
+  "decimals": 4,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35443/thumb/icon200x200.png?1708619642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x345207814c0304f6bd3b28e42c09450d95b5dbb2"
+  }
+}

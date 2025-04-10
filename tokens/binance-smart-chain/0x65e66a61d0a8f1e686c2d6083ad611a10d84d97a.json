@@ -1,0 +1,16 @@
+{
+  "symbol": "RAZE",
+  "name": "Raze Network",
+  "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14767/thumb/logo-2.png?1623867120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
+    "binance-smart-chain": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a"
+  }
+}

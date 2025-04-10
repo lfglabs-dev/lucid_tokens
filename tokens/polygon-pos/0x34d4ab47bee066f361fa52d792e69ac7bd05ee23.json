@@ -1,0 +1,15 @@
+{
+  "symbol": "AURUM",
+  "name": "RaiderAurum",
+  "address": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18131/thumb/xcqAUkU.png?1630627565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23"
+  }
+}

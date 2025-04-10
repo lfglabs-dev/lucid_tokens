@@ -1,0 +1,15 @@
+{
+  "symbol": "EXT",
+  "name": "ExaTech",
+  "address": "0x623be4fde518a00ac49a870bd439cfd5c35e08ed",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33813/thumb/200x200.png?1703017877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x623be4fde518a00ac49a870bd439cfd5c35e08ed"
+  }
+}

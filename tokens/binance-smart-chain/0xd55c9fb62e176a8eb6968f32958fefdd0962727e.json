@@ -1,0 +1,16 @@
+{
+  "symbol": "FHE",
+  "name": "MindNetwork FHE Token",
+  "address": "0xd55c9fb62e176a8eb6968f32958fefdd0962727e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55161/thumb/mind.jpg?1744276359",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd55c9fb62e176a8eb6968f32958fefdd0962727e",
+    "binance-smart-chain": "0xd55c9fb62e176a8eb6968f32958fefdd0962727e"
+  }
+}

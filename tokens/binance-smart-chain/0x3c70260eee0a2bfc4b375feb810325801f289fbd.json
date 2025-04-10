@@ -1,0 +1,15 @@
+{
+  "symbol": "OCP",
+  "name": "Omni Consumer Protocols",
+  "address": "0x3c70260eee0a2bfc4b375feb810325801f289fbd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15243/thumb/ocp-200px.png?1622175368",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3c70260eee0a2bfc4b375feb810325801f289fbd"
+  }
+}

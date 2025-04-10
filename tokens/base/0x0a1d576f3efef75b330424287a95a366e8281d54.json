@@ -1,0 +1,15 @@
+{
+  "symbol": "aBasUSDbC",
+  "name": "Aave Base USDbC",
+  "address": "0x0a1d576f3efef75b330424287a95a366e8281d54",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32910/thumb/base.png?1699824128",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0a1d576f3efef75b330424287a95a366e8281d54"
+  }
+}

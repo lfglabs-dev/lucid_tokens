@@ -1,0 +1,15 @@
+{
+  "symbol": "LMAO",
+  "name": "LONGMAO",
+  "address": "0xb0c2bdc425fd01c33d8514f8be016070212bdc6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35213/thumb/rsz_longmaopfpp.png?1707898201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xb0c2bdc425fd01c33d8514f8be016070212bdc6a"
+  }
+}

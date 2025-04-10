@@ -1,0 +1,15 @@
+{
+  "symbol": "BLERF",
+  "name": "BLERF",
+  "address": "0x347f500323d51e9350285daf299ddb529009e6ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36473/thumb/BLERF.png?1711527025",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x347f500323d51e9350285daf299ddb529009e6ae"
+  }
+}

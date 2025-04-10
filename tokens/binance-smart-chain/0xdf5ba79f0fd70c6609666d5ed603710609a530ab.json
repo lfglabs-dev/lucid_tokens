@@ -1,0 +1,15 @@
+{
+  "symbol": "CFX",
+  "name": "Cosmic Force Token v2",
+  "address": "0xdf5ba79f0fd70c6609666d5ed603710609a530ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35473/thumb/CFX_CON_v2_200_200_transparent.png?1708770216",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf5ba79f0fd70c6609666d5ed603710609a530ab"
+  }
+}

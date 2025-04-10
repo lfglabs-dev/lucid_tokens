@@ -1,0 +1,15 @@
+{
+  "symbol": "POPK",
+  "name": "POPKON",
+  "address": "0x428fb1055f5a0e7a59ec4b50216db1cdf8e16cc5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24190/thumb/9Arv4u3c_400x400.jpeg?1646820144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x428fb1055f5a0e7a59ec4b50216db1cdf8e16cc5"
+  }
+}

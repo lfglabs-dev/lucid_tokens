@@ -1,0 +1,15 @@
+{
+  "symbol": "VIS",
+  "name": "Envision",
+  "address": "0xfc60aa1ffca50ce08b3cdec9626c0bb9e9b09bec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37142/thumb/Envision_Logo.png?1713421742",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfc60aa1ffca50ce08b3cdec9626c0bb9e9b09bec"
+  }
+}

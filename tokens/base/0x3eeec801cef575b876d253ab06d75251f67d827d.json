@@ -1,0 +1,15 @@
+{
+  "symbol": "DCM",
+  "name": "Ducky City",
+  "address": "0x3eeec801cef575b876d253ab06d75251f67d827d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36664/thumb/logo_duck_200x200_none_bor.png?1712046450",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3eeec801cef575b876d253ab06d75251f67d827d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AVAI",
+  "name": "AVAI",
+  "address": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18859/thumb/ic_orca.png?1633603714",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6"
+  }
+}

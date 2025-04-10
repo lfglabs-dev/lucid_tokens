@@ -1,0 +1,15 @@
+{
+  "symbol": "BABY CZHAO",
+  "name": "Baby Czhao",
+  "address": "0x74d7d34dfe7b5e6a437823e7f38a6fb87c55a879",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50960/thumb/photo_2024-10-21_09.52.47.png?1729592253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x74d7d34dfe7b5e6a437823e7f38a6fb87c55a879"
+  }
+}

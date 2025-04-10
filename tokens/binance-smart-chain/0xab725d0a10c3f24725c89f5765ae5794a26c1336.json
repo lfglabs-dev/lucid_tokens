@@ -1,0 +1,15 @@
+{
+  "symbol": "INR",
+  "name": "INERY",
+  "address": "0xab725d0a10c3f24725c89f5765ae5794a26c1336",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26215/thumb/R9hQxqQK_400x400.jpg?1656577686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xab725d0a10c3f24725c89f5765ae5794a26c1336"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "NWG",
+  "name": "NotWifGary",
+  "address": "0xe2a6e74118e708f7652fc4c74d2f9ee5fa210563",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38213/thumb/notwifgary.jpeg?1716823153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xe2a6e74118e708f7652fc4c74d2f9ee5fa210563"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BOLT",
+  "name": "Bolt Token",
+  "address": "0x61b41e0244133b9c9c47a57e51a5ef70be2c5dd4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30082/thumb/cropped-Group-75-300x258.png?1683016447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x61b41e0244133b9c9c47a57e51a5ef70be2c5dd4"
+  }
+}

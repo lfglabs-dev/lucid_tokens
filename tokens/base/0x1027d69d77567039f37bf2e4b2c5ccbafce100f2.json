@@ -1,0 +1,15 @@
+{
+  "symbol": "VAX",
+  "name": "VaultX",
+  "address": "0x1027d69d77567039f37bf2e4b2c5ccbafce100f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55036/thumb/vax-logo.png?1743327108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1027d69d77567039f37bf2e4b2c5ccbafce100f2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "STOMB",
+  "name": "Snowtomb Token",
+  "address": "0x9e6832d13b29d0b1c1c3465242681039b31c7a05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23304/thumb/200stomb.png?1643685264",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x9e6832d13b29d0b1c1c3465242681039b31c7a05"
+  }
+}

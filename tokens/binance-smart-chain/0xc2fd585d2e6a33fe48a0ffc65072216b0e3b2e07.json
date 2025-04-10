@@ -1,0 +1,15 @@
+{
+  "symbol": "Base",
+  "name": "ReBaseChain",
+  "address": "0xc2fd585d2e6a33fe48a0ffc65072216b0e3b2e07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31390/thumb/IMG_20230810_041420_033.png?1692762000",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc2fd585d2e6a33fe48a0ffc65072216b0e3b2e07"
+  }
+}

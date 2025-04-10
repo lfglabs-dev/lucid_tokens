@@ -1,0 +1,15 @@
+{
+  "symbol": "FROC",
+  "name": "Based Froc",
+  "address": "0x3c8cd0db9a01efa063a7760267b822a129bc7dca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54585/thumb/IMG_9229.jpeg?1740552706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3c8cd0db9a01efa063a7760267b822a129bc7dca"
+  }
+}

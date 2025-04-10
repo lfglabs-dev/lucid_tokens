@@ -1,0 +1,15 @@
+{
+  "symbol": "XWGT",
+  "name": "Wodo Gaming Token",
+  "address": "0x62d7c4e3566f7f4033fc8e01b4d8e9bbc01c0760",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34909/thumb/WodoToken_V04_200x200.png?1706603898",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x62d7c4e3566f7f4033fc8e01b4d8e9bbc01c0760"
+  }
+}

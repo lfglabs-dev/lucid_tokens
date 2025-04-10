@@ -1,0 +1,15 @@
+{
+  "symbol": "MFT",
+  "name": "METAFIGHT TOKEN",
+  "address": "0xb372dc09d8d84e1246760ee9d279e504a89f5684",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52313/thumb/neutral_Token_1_%281%29.png?1733075447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb372dc09d8d84e1246760ee9d279e504a89f5684"
+  }
+}

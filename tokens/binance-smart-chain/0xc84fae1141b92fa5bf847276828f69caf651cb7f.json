@@ -1,0 +1,15 @@
+{
+  "symbol": "bXNF",
+  "name": "bXNF",
+  "address": "0xc84fae1141b92fa5bf847276828f69caf651cb7f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34511/thumb/XNF_200px.png?1705288553",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc84fae1141b92fa5bf847276828f69caf651cb7f"
+  }
+}

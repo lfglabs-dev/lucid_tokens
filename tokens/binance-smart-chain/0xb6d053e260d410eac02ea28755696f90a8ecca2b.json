@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIKO",
+  "name": "SHIKOKU INU",
+  "address": "0xb6d053e260d410eac02ea28755696f90a8ecca2b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16442/thumb/shiko.PNG?1624234177",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb6d053e260d410eac02ea28755696f90a8ecca2b"
+  }
+}

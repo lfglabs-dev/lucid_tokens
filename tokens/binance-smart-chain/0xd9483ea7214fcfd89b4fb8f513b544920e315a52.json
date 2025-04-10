@@ -1,0 +1,15 @@
+{
+  "symbol": "AVA",
+  "name": "AVA",
+  "address": "0xd9483ea7214fcfd89b4fb8f513b544920e315a52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35580/thumb/ava.jpeg?1709200977",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9483ea7214fcfd89b4fb8f513b544920e315a52"
+  }
+}

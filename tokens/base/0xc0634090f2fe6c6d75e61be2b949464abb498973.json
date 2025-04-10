@@ -1,0 +1,15 @@
+{
+  "symbol": "KTA",
+  "name": "Keeta",
+  "address": "0xc0634090f2fe6c6d75e61be2b949464abb498973",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54723/thumb/2025-03-05_22.53.06.jpg?1741234207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc0634090f2fe6c6d75e61be2b949464abb498973"
+  }
+}

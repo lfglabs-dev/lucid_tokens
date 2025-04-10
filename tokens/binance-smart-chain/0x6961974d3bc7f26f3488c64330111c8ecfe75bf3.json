@@ -1,0 +1,15 @@
+{
+  "symbol": "GMX",
+  "name": "GameXT",
+  "address": "0x6961974d3bc7f26f3488c64330111c8ecfe75bf3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51113/thumb/CoinGecko_200x200_%281%29_%281%29.png?1730117522",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6961974d3bc7f26f3488c64330111c8ecfe75bf3"
+  }
+}

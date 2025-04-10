@@ -1,0 +1,15 @@
+{
+  "symbol": "MOB",
+  "name": "Mobster",
+  "address": "0xc18358243294ecf28955f7029559a253f04b4ad9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31793/thumb/200X200.png?1695026166",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc18358243294ecf28955f7029559a253f04b4ad9"
+  }
+}

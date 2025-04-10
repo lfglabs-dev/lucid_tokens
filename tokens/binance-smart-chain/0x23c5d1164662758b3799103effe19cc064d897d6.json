@@ -1,0 +1,15 @@
+{
+  "symbol": "AURA",
+  "name": "Aura",
+  "address": "0x23c5d1164662758b3799103effe19cc064d897d6",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30364/thumb/aura.jpeg?1684247915",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x23c5d1164662758b3799103effe19cc064d897d6"
+  }
+}

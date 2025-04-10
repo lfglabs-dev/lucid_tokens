@@ -1,0 +1,15 @@
+{
+  "symbol": "STORY",
+  "name": "Story",
+  "address": "0x85ee8e3e0068edeeee960979958d7f61416a9d84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18128/thumb/logo_-_2021-09-03T064032.320.png?1630622531",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x85ee8e3e0068edeeee960979958d7f61416a9d84"
+  }
+}

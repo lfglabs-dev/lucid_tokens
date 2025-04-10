@@ -1,0 +1,15 @@
+{
+  "symbol": "AiSTR",
+  "name": "AicroStrategy",
+  "address": "0x20ef84969f6d81ff74ae4591c331858b20ad82cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53020/thumb/AicroStrategy_logo-aisrt.jpg?1734998391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x20ef84969f6d81ff74ae4591c331858b20ad82cd"
+  }
+}

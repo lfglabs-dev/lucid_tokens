@@ -1,0 +1,16 @@
+{
+  "symbol": "EURS",
+  "name": "STASIS EURS Token (PoS)",
+  "address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5164/thumb/EURS_300x300.png?1550571779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+    "polygon-pos": "0xe111178a87a3bff0c8d18decba5798827539ae99"
+  }
+}

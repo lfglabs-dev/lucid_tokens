@@ -1,0 +1,15 @@
+{
+  "symbol": "GENO",
+  "name": "GenomeFi",
+  "address": "0xca730042595a1809793fbe2e9883c184c7eb27db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38624/thumb/GENO.png?1718162174",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xca730042595a1809793fbe2e9883c184c7eb27db"
+  }
+}

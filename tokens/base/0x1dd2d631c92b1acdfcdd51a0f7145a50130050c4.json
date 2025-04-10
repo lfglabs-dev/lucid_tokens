@@ -1,0 +1,15 @@
+{
+  "symbol": "ALB",
+  "name": "AlienBase Token",
+  "address": "0x1dd2d631c92b1acdfcdd51a0f7145a50130050c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31301/thumb/alb_token.jpg?1692343510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1dd2d631c92b1acdfcdd51a0f7145a50130050c4"
+  }
+}

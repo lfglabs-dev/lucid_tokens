@@ -1,0 +1,15 @@
+{
+  "symbol": "FAME",
+  "name": "FAME MMA",
+  "address": "0x28ce223853d123b52c74439b10b43366d73fd3b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25267/thumb/FJTwuXxE_400x400.jpg?1651066664",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x28ce223853d123b52c74439b10b43366d73fd3b5"
+  }
+}

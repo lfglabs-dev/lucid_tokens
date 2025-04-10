@@ -1,0 +1,16 @@
+{
+  "symbol": "MLT",
+  "name": "Media Licensing Token",
+  "address": "0xb72a20c7b8bd666f80ac053b0f4de20a787080f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15659/thumb/milc_200x200.png?1621511031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9506d37f70eb4c3d79c398d326c871abbf10521d",
+    "binance-smart-chain": "0xb72a20c7b8bd666f80ac053b0f4de20a787080f5"
+  }
+}

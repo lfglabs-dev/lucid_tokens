@@ -1,0 +1,15 @@
+{
+  "symbol": "CNG",
+  "name": "CoinNavigator",
+  "address": "0xfd60b3c3c1916bdbb4319a3d264894f1dfd5eca2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34842/thumb/cng-cg.jpg?1706245068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfd60b3c3c1916bdbb4319a3d264894f1dfd5eca2"
+  }
+}

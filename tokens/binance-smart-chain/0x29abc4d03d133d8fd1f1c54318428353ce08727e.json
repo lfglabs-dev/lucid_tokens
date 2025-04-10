@@ -1,0 +1,15 @@
+{
+  "symbol": "KSWAP",
+  "name": "KyotoSwap Token",
+  "address": "0x29abc4d03d133d8fd1f1c54318428353ce08727e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29662/thumb/Frame_79.png?1680508424",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29abc4d03d133d8fd1f1c54318428353ce08727e"
+  }
+}

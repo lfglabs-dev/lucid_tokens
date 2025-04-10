@@ -1,0 +1,15 @@
+{
+  "symbol": "GOR",
+  "name": "Gold Reserve",
+  "address": "0x014d05725f9d95bc371a184373fab4ed0bd577ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52678/thumb/20241210_045736_0000.png?1734021437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x014d05725f9d95bc371a184373fab4ed0bd577ee"
+  }
+}

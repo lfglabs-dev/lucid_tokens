@@ -1,0 +1,15 @@
+{
+  "symbol": "BiCity",
+  "name": "BiCity AI Projects",
+  "address": "0x6fa9c0ee8a1f237466bb9cac8466bfa2aa63a978",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38271/thumb/BICITY-icon-500px.png?1716958863",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6fa9c0ee8a1f237466bb9cac8466bfa2aa63a978"
+  }
+}

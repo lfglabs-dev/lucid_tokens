@@ -1,0 +1,17 @@
+{
+  "symbol": "MLN",
+  "name": "Melon Token (PoS)",
+  "address": "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/605/thumb/Enzyme_Icon_Secondary.png?1611576629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "arbitrum-one": "0x8f5c1a99b1df736ad685006cb6adca7b7ae4b514",
+    "polygon-pos": "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207"
+  }
+}

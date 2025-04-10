@@ -1,0 +1,15 @@
+{
+  "symbol": "Polly",
+  "name": "Polly Finance",
+  "address": "0x4c392822d4be8494b798cea17b43d48b2308109c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18354/thumb/POLLY.png?1631604593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4c392822d4be8494b798cea17b43d48b2308109c"
+  }
+}

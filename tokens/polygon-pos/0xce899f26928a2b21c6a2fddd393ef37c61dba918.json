@@ -1,0 +1,16 @@
+{
+  "symbol": "MOCA",
+  "name": "Museum of Crypto Art",
+  "address": "0xce899f26928a2b21c6a2fddd393ef37c61dba918",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15829/thumb/photo_2021-06-04_09.36.16.jpeg?1622770606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xce899f26928a2b21c6a2fddd393ef37c61dba918",
+    "ethereum": "0x9ac07635ddbde5db18648c360defb00f5f22537e"
+  }
+}

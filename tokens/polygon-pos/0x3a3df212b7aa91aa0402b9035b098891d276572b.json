@@ -1,0 +1,15 @@
+{
+  "symbol": "FISH",
+  "name": "Fish",
+  "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15226/thumb/smallLogo.png?1620269393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3a3df212b7aa91aa0402b9035b098891d276572b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bm",
+  "name": "bm",
+  "address": "0xb749584f9fc418cf905d54f462fdbfdc7462011b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54413/thumb/photo_2025-02-13_05.15.34.jpeg?1739554671",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xb749584f9fc418cf905d54f462fdbfdc7462011b"
+  }
+}

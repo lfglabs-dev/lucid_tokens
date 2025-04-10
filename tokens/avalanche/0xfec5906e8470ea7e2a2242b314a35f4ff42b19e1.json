@@ -1,0 +1,15 @@
+{
+  "symbol": "L1",
+  "name": "Lamina1",
+  "address": "0xfec5906e8470ea7e2a2242b314a35f4ff42b19e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52023/thumb/L1-symbol-200x200.png?1732353782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xfec5906e8470ea7e2a2242b314a35f4ff42b19e1"
+  }
+}

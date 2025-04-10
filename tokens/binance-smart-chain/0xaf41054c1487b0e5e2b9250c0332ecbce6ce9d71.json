@@ -1,0 +1,15 @@
+{
+  "symbol": "EPX",
+  "name": "Ellipsis X",
+  "address": "0xaf41054c1487b0e5e2b9250c0332ecbce6ce9d71",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25444/thumb/ellipsis-light_%281%29.png?1651786591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaf41054c1487b0e5e2b9250c0332ecbce6ce9d71"
+  }
+}

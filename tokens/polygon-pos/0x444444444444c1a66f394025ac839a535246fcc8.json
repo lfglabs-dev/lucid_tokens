@@ -1,0 +1,18 @@
+{
+  "symbol": "GENI",
+  "name": "Genius",
+  "address": "0x444444444444c1a66f394025ac839a535246fcc8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28621/thumb/GENI200x200.png?1672707726",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x444444444444c1a66f394025ac839a535246fcc8",
+    "binance-smart-chain": "0x444444444444c1a66f394025ac839a535246fcc8",
+    "avalanche": "0x444444444444c1a66f394025ac839a535246fcc8",
+    "polygon-pos": "0x444444444444c1a66f394025ac839a535246fcc8"
+  }
+}

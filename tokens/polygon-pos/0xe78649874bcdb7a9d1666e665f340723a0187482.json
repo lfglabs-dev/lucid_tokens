@@ -1,0 +1,15 @@
+{
+  "symbol": "BIM",
+  "name": "BIM",
+  "address": "0xe78649874bcdb7a9d1666e665f340723a0187482",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30137/thumb/logo200x200.png?1683276854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe78649874bcdb7a9d1666e665f340723a0187482"
+  }
+}

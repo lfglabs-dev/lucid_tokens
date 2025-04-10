@@ -1,0 +1,15 @@
+{
+  "symbol": "AWARE",
+  "name": "ChainAware.ai",
+  "address": "0xcf221109f45854ac52159420c543757fe84c113a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53489/thumb/ChainAware_Logo.png?1736486414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcf221109f45854ac52159420c543757fe84c113a"
+  }
+}

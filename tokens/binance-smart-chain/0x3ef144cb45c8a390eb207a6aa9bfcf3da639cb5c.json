@@ -1,0 +1,15 @@
+{
+  "symbol": "MAGA",
+  "name": "MAGA Coin",
+  "address": "0x3ef144cb45c8a390eb207a6aa9bfcf3da639cb5c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19835/thumb/maga.png?1635991979",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3ef144cb45c8a390eb207a6aa9bfcf3da639cb5c"
+  }
+}

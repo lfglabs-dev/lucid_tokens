@@ -1,0 +1,17 @@
+{
+  "symbol": "USDV",
+  "name": "USDV",
+  "address": "0x953e94caf91a1e32337d0548b9274f337920edfa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31806/thumb/200x200.png?1695173608",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x953e94caf91a1e32337d0548b9274f337920edfa",
+    "ethereum": "0x20b3b07e9c0e37815e2892ab09496559f57c3603",
+    "binance-smart-chain": "0x953e94caf91a1e32337d0548b9274f337920edfa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "lisUSD",
+  "name": "Lista USD",
+  "address": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26947/thumb/HAY.png?1660984091",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5"
+  }
+}

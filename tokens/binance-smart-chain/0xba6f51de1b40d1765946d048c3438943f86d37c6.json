@@ -1,0 +1,15 @@
+{
+  "symbol": "JOKER",
+  "name": "JOKER",
+  "address": "0xba6f51de1b40d1765946d048c3438943f86d37c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55013/thumb/photo_2024-06-02_11-05-51.jpg?1743163621",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xba6f51de1b40d1765946d048c3438943f86d37c6"
+  }
+}

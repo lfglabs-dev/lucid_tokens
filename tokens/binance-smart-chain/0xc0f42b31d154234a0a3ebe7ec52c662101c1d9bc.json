@@ -1,0 +1,16 @@
+{
+  "symbol": "SHOE",
+  "name": "ShoeFy",
+  "address": "0xc0f42b31d154234a0a3ebe7ec52c662101c1d9bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19082/thumb/SHOEFY.jpg?1634371392",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
+    "binance-smart-chain": "0xc0f42b31d154234a0a3ebe7ec52c662101c1d9bc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TYLER",
+  "name": "Tyler",
+  "address": "0x65e570b560027f493f2b1907e8e8e3b9546053bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50734/thumb/photo_2024-09-23_09-14-08.jpg?1728916087",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x65e570b560027f493f2b1907e8e8e3b9546053bd"
+  }
+}

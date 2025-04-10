@@ -1,0 +1,15 @@
+{
+  "symbol": "ROCKY",
+  "name": "ROCKY",
+  "address": "0x3636a7734b669ce352e97780df361ce1f809c58c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37465/thumb/rocky3.png?1714454996",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3636a7734b669ce352e97780df361ce1f809c58c"
+  }
+}

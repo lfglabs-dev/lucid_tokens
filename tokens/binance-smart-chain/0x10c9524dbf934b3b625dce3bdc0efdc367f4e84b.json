@@ -1,0 +1,15 @@
+{
+  "symbol": "MVX",
+  "name": "Mavaverse",
+  "address": "0x10c9524dbf934b3b625dce3bdc0efdc367f4e84b",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23830/thumb/MVV_style_1_Blue_1x.png?1645613061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x10c9524dbf934b3b625dce3bdc0efdc367f4e84b"
+  }
+}

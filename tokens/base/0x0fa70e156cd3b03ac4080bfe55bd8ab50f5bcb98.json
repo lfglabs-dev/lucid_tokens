@@ -1,0 +1,15 @@
+{
+  "symbol": "YOU",
+  "name": "Youcoin",
+  "address": "0x0fa70e156cd3b03ac4080bfe55bd8ab50f5bcb98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31218/thumb/Group_4.png?1691477921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0fa70e156cd3b03ac4080bfe55bd8ab50f5bcb98"
+  }
+}

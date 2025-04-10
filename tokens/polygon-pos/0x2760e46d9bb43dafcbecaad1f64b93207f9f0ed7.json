@@ -1,0 +1,19 @@
+{
+  "symbol": "MVX",
+  "name": "Metavault Trade",
+  "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25402/thumb/4rMREe8e_400x400.jpg?1651729385",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
+    "scroll": "0x0018d96c579121a94307249d47f053e2d687b5e7",
+    "zksync": "0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305",
+    "kava": "0x0018d96c579121a94307249d47f053e2d687b5e7",
+    "linea": "0x0018d96c579121a94307249d47f053e2d687b5e7"
+  }
+}

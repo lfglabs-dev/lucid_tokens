@@ -1,0 +1,17 @@
+{
+  "symbol": "MATRIX",
+  "name": "MatrixSwapToken (PoS)",
+  "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18297/thumb/matrixlabs.png?1643277367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
+    "binance-smart-chain": "0xc32bb619966b9a56cf2472528a36fd099ce979e0",
+    "polygon-pos": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc"
+  }
+}

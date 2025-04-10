@@ -1,0 +1,15 @@
+{
+  "symbol": "ADAO",
+  "name": "ADADAO",
+  "address": "0x3b76374cc2dfe28cc373dca6d5024791b2586335",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24372/thumb/dkw8F6mr_400x400.jpg?1647443499",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3b76374cc2dfe28cc373dca6d5024791b2586335"
+  }
+}

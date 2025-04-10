@@ -1,0 +1,15 @@
+{
+  "symbol": "MMUI",
+  "name": "MetaMUI Token",
+  "address": "0xfc8a21dbcab432fb5e469d80f976e022c2f56ea0",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16588/thumb/MMUI.jpg?1624520842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xfc8a21dbcab432fb5e469d80f976e022c2f56ea0"
+  }
+}

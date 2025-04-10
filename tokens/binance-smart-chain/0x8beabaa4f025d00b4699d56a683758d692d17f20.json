@@ -1,0 +1,15 @@
+{
+  "symbol": "BBYXRP",
+  "name": "BABYXRP",
+  "address": "0x8beabaa4f025d00b4699d56a683758d692d17f20",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16862/thumb/Final.png?1625469041",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8beabaa4f025d00b4699d56a683758d692d17f20"
+  }
+}

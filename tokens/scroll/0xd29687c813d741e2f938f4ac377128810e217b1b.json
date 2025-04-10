@@ -1,0 +1,15 @@
+{
+  "symbol": "SCR",
+  "name": "Scroll",
+  "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0xd29687c813d741e2f938f4ac377128810e217b1b"
+  }
+}

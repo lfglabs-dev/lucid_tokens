@@ -1,0 +1,15 @@
+{
+  "symbol": "LUMOX",
+  "name": "Lumox Studio",
+  "address": "0x218617d3250be4a1f182c28a1a94b1ab37d94235",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38994/thumb/logo-2.png?1719808775",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x218617d3250be4a1f182c28a1a94b1ab37d94235"
+  }
+}

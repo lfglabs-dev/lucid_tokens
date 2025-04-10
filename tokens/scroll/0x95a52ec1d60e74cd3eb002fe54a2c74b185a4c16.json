@@ -1,0 +1,15 @@
+{
+  "symbol": "SKY",
+  "name": "Skydrome",
+  "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16"
+  }
+}

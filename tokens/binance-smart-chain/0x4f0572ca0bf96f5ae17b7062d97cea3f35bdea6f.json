@@ -1,0 +1,15 @@
+{
+  "symbol": "UNX",
+  "name": "Unchain X",
+  "address": "0x4f0572ca0bf96f5ae17b7062d97cea3f35bdea6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52801/thumb/unx200.png?1734335899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f0572ca0bf96f5ae17b7062d97cea3f35bdea6f"
+  }
+}

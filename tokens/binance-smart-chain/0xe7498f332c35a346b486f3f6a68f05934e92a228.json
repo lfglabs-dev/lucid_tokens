@@ -1,0 +1,15 @@
+{
+  "symbol": "NEVA",
+  "name": "NevaCoin",
+  "address": "0xe7498f332c35a346b486f3f6a68f05934e92a228",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1421/thumb/nevacoin.png?1548086035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe7498f332c35a346b486f3f6a68f05934e92a228"
+  }
+}

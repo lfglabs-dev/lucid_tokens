@@ -1,0 +1,16 @@
+{
+  "symbol": "BESA",
+  "name": "Besa Gaming",
+  "address": "0x8c1851488f2daceae46d815dd204d5f6d946666a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33283/thumb/Besa_Gaming_Company_BESA_200.png?1701363231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3e45b22622b19c1eced632d8fe1ed708f9d471c3",
+    "base": "0x8c1851488f2daceae46d815dd204d5f6d946666a"
+  }
+}

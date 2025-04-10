@@ -1,0 +1,15 @@
+{
+  "symbol": "ALAI",
+  "name": "AlaunchAI",
+  "address": "0x0a2f2efdb1233c0da050fb47f19f98851753718f",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54511/thumb/Alaunch_avt.png?1740069312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x0a2f2efdb1233c0da050fb47f19f98851753718f"
+  }
+}

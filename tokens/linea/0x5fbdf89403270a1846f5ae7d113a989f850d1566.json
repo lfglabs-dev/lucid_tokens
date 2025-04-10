@@ -1,0 +1,15 @@
+{
+  "symbol": "FOXY",
+  "name": "Foxy",
+  "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36870/thumb/Foxy_Logo_Square_200x200.png?1712645286",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x5fbdf89403270a1846f5ae7d113a989f850d1566"
+  }
+}

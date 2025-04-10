@@ -1,0 +1,15 @@
+{
+  "symbol": "AIH",
+  "name": "AIhub",
+  "address": "0xbf70a52aef7822047076749b9ba63c4597d4626f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33833/thumb/AIH-cg.jpg?1703107152",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbf70a52aef7822047076749b9ba63c4597d4626f"
+  }
+}

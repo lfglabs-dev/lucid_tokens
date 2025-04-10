@@ -1,0 +1,15 @@
+{
+  "symbol": "PLN",
+  "name": "Plearn Token",
+  "address": "0xbe0d3526fc797583dada3f30bc390013062a048b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24723/thumb/plearn200x200.png?1648697974",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbe0d3526fc797583dada3f30bc390013062a048b"
+  }
+}

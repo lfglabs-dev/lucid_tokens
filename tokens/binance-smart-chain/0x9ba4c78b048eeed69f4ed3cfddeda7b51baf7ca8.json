@@ -1,0 +1,16 @@
+{
+  "symbol": "GS",
+  "name": "Gen Shards",
+  "address": "0x9ba4c78b048eeed69f4ed3cfddeda7b51baf7ca8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14784/thumb/gs.png?1618408218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112",
+    "binance-smart-chain": "0x9ba4c78b048eeed69f4ed3cfddeda7b51baf7ca8"
+  }
+}

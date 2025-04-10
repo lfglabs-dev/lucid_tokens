@@ -1,0 +1,15 @@
+{
+  "symbol": "u1INCH",
+  "name": "1inch (Universal)",
+  "address": "0x3c07ef1bd575b5f5b1ffcb868353f5bc501ed482",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54498/thumb/UA-1INCH_200x200.png?1740031787",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3c07ef1bd575b5f5b1ffcb868353f5bc501ed482"
+  }
+}

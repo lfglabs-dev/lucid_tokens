@@ -1,0 +1,15 @@
+{
+  "symbol": "SEBA",
+  "name": "SEBA",
+  "address": "0xd15d3baf3f40988810c5f9da54394ffb5246ded6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24475/thumb/seba.png?1647775173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd15d3baf3f40988810c5f9da54394ffb5246ded6"
+  }
+}

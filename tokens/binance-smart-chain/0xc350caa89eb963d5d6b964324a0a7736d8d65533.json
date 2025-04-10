@@ -1,0 +1,15 @@
+{
+  "symbol": "INFTEE",
+  "name": "InfiniteeToken",
+  "address": "0xc350caa89eb963d5d6b964324a0a7736d8d65533",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17010/thumb/infinitee_logo.png?1626067348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc350caa89eb963d5d6b964324a0a7736d8d65533"
+  }
+}

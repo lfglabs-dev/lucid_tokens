@@ -1,0 +1,15 @@
+{
+  "symbol": "CTOSHI",
+  "name": "Chinese Toshi",
+  "address": "0x28a730de97dc62a8c88363e0b1049056f1274a70",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38635/thumb/231_%28Custom%29_%283%29.png?1718173956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x28a730de97dc62a8c88363e0b1049056f1274a70"
+  }
+}

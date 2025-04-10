@@ -1,0 +1,15 @@
+{
+  "symbol": "CANDY",
+  "name": "Candy",
+  "address": "0x33b7f6225b4cbe5d368b7bb4807d6375b18b8c2b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37280/thumb/logogpng.png?1713942953",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x33b7f6225b4cbe5d368b7bb4807d6375b18b8c2b"
+  }
+}

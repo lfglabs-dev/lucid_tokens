@@ -1,0 +1,19 @@
+{
+  "symbol": "PMX",
+  "name": "Primex Finance",
+  "address": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28344/thumb/Primex_Finance.jpg?1669691383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+    "ethereum": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+    "arbitrum-one": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+    "binance-smart-chain": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+    "polygon-pos": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf"
+  }
+}

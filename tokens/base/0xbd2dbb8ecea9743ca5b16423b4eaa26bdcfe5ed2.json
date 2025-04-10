@@ -1,0 +1,15 @@
+{
+  "symbol": "SYNTH",
+  "name": "Synth Token",
+  "address": "0xbd2dbb8ecea9743ca5b16423b4eaa26bdcfe5ed2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31190/thumb/synth.png?1691145281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbd2dbb8ecea9743ca5b16423b4eaa26bdcfe5ed2"
+  }
+}

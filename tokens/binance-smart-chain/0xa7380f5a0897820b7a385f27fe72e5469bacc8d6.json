@@ -1,0 +1,15 @@
+{
+  "symbol": "SoraDoge",
+  "name": "Sora Doge",
+  "address": "0xa7380f5a0897820b7a385f27fe72e5469bacc8d6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36065/thumb/CMCSoraDoge.png?1710405488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa7380f5a0897820b7a385f27fe72e5469bacc8d6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CDX",
+  "name": "CodeX",
+  "address": "0x1c3ba6cf2676cc795db02a3b2093e5076f5f330e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34729/thumb/CodeX-1.png?1705919390",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1c3ba6cf2676cc795db02a3b2093e5076f5f330e"
+  }
+}

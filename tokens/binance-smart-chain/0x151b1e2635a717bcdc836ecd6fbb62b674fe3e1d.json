@@ -1,0 +1,15 @@
+{
+  "symbol": "vXVS",
+  "name": "Venus XVS",
+  "address": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13903/thumb/xvs_logo.png?1613018688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d"
+  }
+}

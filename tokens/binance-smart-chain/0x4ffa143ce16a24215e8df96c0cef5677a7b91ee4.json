@@ -1,0 +1,15 @@
+{
+  "symbol": "REGENT",
+  "name": "REGENT COIN",
+  "address": "0x4ffa143ce16a24215e8df96c0cef5677a7b91ee4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31303/thumb/Regent_logo.png?1692344019",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4ffa143ce16a24215e8df96c0cef5677a7b91ee4"
+  }
+}

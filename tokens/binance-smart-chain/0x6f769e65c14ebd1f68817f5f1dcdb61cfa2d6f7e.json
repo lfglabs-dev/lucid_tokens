@@ -1,0 +1,17 @@
+{
+  "symbol": "ARPA",
+  "name": "ARPA Token",
+  "address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8506/thumb/9u0a23XY_400x400.jpg?1559027357",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+    "binance-smart-chain": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+    "polygon-pos": "0xee800b277a96b0f490a1a732e1d6395fad960a26"
+  }
+}

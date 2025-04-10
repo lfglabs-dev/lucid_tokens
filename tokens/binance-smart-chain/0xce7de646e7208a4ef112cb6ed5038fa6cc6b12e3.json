@@ -1,0 +1,15 @@
+{
+  "symbol": "TRX",
+  "name": "TRON",
+  "address": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15468/thumb/NxLfA-LK_400x400.png?1620915726",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3"
+  }
+}

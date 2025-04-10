@@ -1,0 +1,15 @@
+{
+  "symbol": "MTOE",
+  "name": "Move TO Earn",
+  "address": "0x9600d01f58ecf00bf5743f630a6d5466e8122e00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52508/thumb/Logo_MTOE_200x200-01.png?1733489425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9600d01f58ecf00bf5743f630a6d5466e8122e00"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "WLSC",
+  "name": "WESTLAND SMART CITY",
+  "address": "0x6aa6eec5ba2e7ab3ae7d9807c7a13c1fecf55da7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53912/thumb/WLSC_200_x_200px.png?1737712310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6aa6eec5ba2e7ab3ae7d9807c7a13c1fecf55da7"
+  }
+}

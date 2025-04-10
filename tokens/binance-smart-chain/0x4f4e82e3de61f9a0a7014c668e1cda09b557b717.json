@@ -1,0 +1,15 @@
+{
+  "symbol": "RSN",
+  "name": "RSN Token",
+  "address": "0x4f4e82e3de61f9a0a7014c668e1cda09b557b717",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54566/thumb/tTHbjilL_400x400.jpg?1740439923",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f4e82e3de61f9a0a7014c668e1cda09b557b717"
+  }
+}

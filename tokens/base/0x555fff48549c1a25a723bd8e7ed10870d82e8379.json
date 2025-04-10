@@ -1,0 +1,15 @@
+{
+  "symbol": "BIM",
+  "name": "BIM",
+  "address": "0x555fff48549c1a25a723bd8e7ed10870d82e8379",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54860/thumb/bim-fi.jpg?1742179842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x555fff48549c1a25a723bd8e7ed10870d82e8379"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Dsun",
+  "name": "Dsun Token",
+  "address": "0x1384555d00144c7725ac71da2bb1fd67b9ad889a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29973/thumb/500-200.png?1682395330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1384555d00144c7725ac71da2bb1fd67b9ad889a"
+  }
+}

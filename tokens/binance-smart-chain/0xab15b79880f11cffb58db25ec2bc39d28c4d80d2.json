@@ -1,0 +1,15 @@
+{
+  "symbol": "SMON",
+  "name": "StarMon",
+  "address": "0xab15b79880f11cffb58db25ec2bc39d28c4d80d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18130/thumb/StarMon.png?1630626408",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xab15b79880f11cffb58db25ec2bc39d28c4d80d2"
+  }
+}

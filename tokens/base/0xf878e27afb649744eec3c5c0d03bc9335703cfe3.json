@@ -1,0 +1,15 @@
+{
+  "symbol": "EOLAS",
+  "name": "Eolas ☴",
+  "address": "0xf878e27afb649744eec3c5c0d03bc9335703cfe3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53942/thumb/Image_%2851%29.png?1737786791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf878e27afb649744eec3c5c0d03bc9335703cfe3"
+  }
+}

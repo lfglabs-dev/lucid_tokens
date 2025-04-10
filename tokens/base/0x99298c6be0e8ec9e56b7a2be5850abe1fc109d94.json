@@ -1,0 +1,15 @@
+{
+  "symbol": "DEGENC",
+  "name": "Degen Capital by Virtuals",
+  "address": "0x99298c6be0e8ec9e56b7a2be5850abe1fc109d94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52246/thumb/Degen_Capital_DEGENC.png?1732824263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x99298c6be0e8ec9e56b7a2be5850abe1fc109d94"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MIPRAMI",
+  "name": "mi prami le kibro",
+  "address": "0x6f49ee65d1f7953b8724c0c15e22ad189fecd579",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55158/thumb/Q.jpeg?1744265800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f49ee65d1f7953b8724c0c15e22ad189fecd579"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RBT",
+  "name": "Robust Token",
+  "address": "0x891e4554227385c5c740f9b483e935e3cbc29f01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17137/thumb/CG-200x.png?1626438233",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x891e4554227385c5c740f9b483e935e3cbc29f01"
+  }
+}

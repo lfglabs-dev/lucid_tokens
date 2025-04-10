@@ -1,0 +1,16 @@
+{
+  "symbol": "RTF",
+  "name": "Ready to Fight",
+  "address": "0xa89e2871a850e0e6fd8f0018ec1fc62fa75440d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37322/thumb/Frame_21313315692.png?1714002508",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa89e2871a850e0e6fd8f0018ec1fc62fa75440d4",
+    "binance-smart-chain": "0xa89e2871a850e0e6fd8f0018ec1fc62fa75440d4"
+  }
+}

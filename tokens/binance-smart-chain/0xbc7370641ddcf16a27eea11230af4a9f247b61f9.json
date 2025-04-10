@@ -1,0 +1,18 @@
+{
+  "symbol": "XETA",
+  "name": "XANA",
+  "address": "0xbc7370641ddcf16a27eea11230af4a9f247b61f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24379/thumb/XANA_Logo_neon_pink.png?1658197388",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x31c994ac062c1970c086260bc61babb708643fac",
+    "step-network": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+    "ethereum": "0x967fb0d760ed3ce53afe2f0a071674cccae73550",
+    "binance-smart-chain": "0xbc7370641ddcf16a27eea11230af4a9f247b61f9"
+  }
+}

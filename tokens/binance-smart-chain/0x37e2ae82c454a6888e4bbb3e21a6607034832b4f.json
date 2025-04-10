@@ -1,0 +1,15 @@
+{
+  "symbol": "Limo",
+  "name": "Limoverse",
+  "address": "0x37e2ae82c454a6888e4bbb3e21a6607034832b4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29732/thumb/limoverse-blue-logo_200x200.jpg?1681094366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x37e2ae82c454a6888e4bbb3e21a6607034832b4f"
+  }
+}

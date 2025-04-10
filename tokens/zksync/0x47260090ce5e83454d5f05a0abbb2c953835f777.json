@@ -1,0 +1,15 @@
+{
+  "symbol": "SPACE",
+  "name": "SPACE",
+  "address": "0x47260090ce5e83454d5f05a0abbb2c953835f777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30822/thumb/aOwhiUUo_400x400.png?1687751064",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x47260090ce5e83454d5f05a0abbb2c953835f777"
+  }
+}

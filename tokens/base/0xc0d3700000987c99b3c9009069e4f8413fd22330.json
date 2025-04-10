@@ -1,0 +1,15 @@
+{
+  "symbol": "cdxUSD",
+  "name": "Cod3x USD",
+  "address": "0xc0d3700000987c99b3c9009069e4f8413fd22330",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51438/thumb/logo-128x128.png?1731224236",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc0d3700000987c99b3c9009069e4f8413fd22330"
+  }
+}

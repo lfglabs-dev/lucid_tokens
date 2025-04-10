@@ -1,0 +1,15 @@
+{
+  "symbol": "PUMP",
+  "name": "Big Pump",
+  "address": "0x22b4fa9a13a0d303ad258ee6d62a6ac60364b0c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37588/thumb/YF5EakvX_400x400.jpg?1714981532",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x22b4fa9a13a0d303ad258ee6d62a6ac60364b0c9"
+  }
+}

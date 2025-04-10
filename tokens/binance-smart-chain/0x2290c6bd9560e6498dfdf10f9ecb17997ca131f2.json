@@ -1,0 +1,16 @@
+{
+  "symbol": "MSTR",
+  "name": "MSTR Token",
+  "address": "0x2290c6bd9560e6498dfdf10f9ecb17997ca131f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24377/thumb/MSTR.png?1660801591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2290c6bd9560e6498dfdf10f9ecb17997ca131f2",
+    "avalanche": "0xe397784960f814ba35c9ee0bc4c9dffdf86925f9"
+  }
+}

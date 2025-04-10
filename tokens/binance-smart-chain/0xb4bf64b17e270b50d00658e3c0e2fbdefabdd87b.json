@@ -1,0 +1,15 @@
+{
+  "symbol": "CHEESE",
+  "name": "CheeseSwap",
+  "address": "0xb4bf64b17e270b50d00658e3c0e2fbdefabdd87b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17730/thumb/CHEESE_Transparent_%28200px%29.png?1629103740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb4bf64b17e270b50d00658e3c0e2fbdefabdd87b"
+  }
+}

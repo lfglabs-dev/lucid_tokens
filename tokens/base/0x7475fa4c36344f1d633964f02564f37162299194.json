@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBUSSY",
+  "name": "Shibussy",
+  "address": "0x7475fa4c36344f1d633964f02564f37162299194",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53426/thumb/Shibussy_200x200_png.png?1736356282",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7475fa4c36344f1d633964f02564f37162299194"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AETX",
+  "name": "AetherX",
+  "address": "0xfe0c0b15798b8c9107cd4aa556a87eb031263e8b",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54839/thumb/logomark_x200.png?1742016823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfe0c0b15798b8c9107cd4aa556a87eb031263e8b"
+  }
+}

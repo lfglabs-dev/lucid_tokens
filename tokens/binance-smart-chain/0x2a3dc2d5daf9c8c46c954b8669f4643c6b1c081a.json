@@ -1,0 +1,20 @@
+{
+  "symbol": "uBTC",
+  "name": "uBTC",
+  "address": "0x2a3dc2d5daf9c8c46c954b8669f4643c6b1c081a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "bsquared-network": "0x796e4d53067ff374b89b2ac101ce0c1f72ccaac2",
+    "binance-smart-chain": "0x2a3dc2d5daf9c8c46c954b8669f4643c6b1c081a",
+    "core": "0xbb4a26a053b217bb28766a4ed4b062c3b4de58ce",
+    "opbnb": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
+    "sei-v2": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
+    "soneium": "0x61f2993a644762a345b483adf0d6351c5edfb3b5"
+  }
+}

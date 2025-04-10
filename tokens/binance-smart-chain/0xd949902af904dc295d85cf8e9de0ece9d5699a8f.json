@@ -1,0 +1,15 @@
+{
+  "symbol": "MANA3",
+  "name": "MANA3",
+  "address": "0xd949902af904dc295d85cf8e9de0ece9d5699a8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52784/thumb/xecochain.jpg?1734287866",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd949902af904dc295d85cf8e9de0ece9d5699a8f"
+  }
+}

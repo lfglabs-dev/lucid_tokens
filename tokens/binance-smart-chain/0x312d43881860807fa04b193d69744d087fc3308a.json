@@ -1,0 +1,16 @@
+{
+  "symbol": "BD20",
+  "name": "BRC-20 DEX",
+  "address": "0x312d43881860807fa04b193d69744d087fc3308a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35209/thumb/photo_2024-02-13_22.19.54.png?1707896449",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x312d43881860807fa04b193d69744d087fc3308a",
+    "binance-smart-chain": "0x312d43881860807fa04b193d69744d087fc3308a"
+  }
+}

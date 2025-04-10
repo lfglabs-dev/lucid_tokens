@@ -1,0 +1,15 @@
+{
+  "symbol": "DRONE",
+  "name": "Drone",
+  "address": "0xfa1f6e048e66ac240a4bb7eab7ee888e76081a6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38161/thumb/drone_no_background.png?1716674159",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfa1f6e048e66ac240a4bb7eab7ee888e76081a6c"
+  }
+}

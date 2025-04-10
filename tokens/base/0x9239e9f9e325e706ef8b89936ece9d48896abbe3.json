@@ -1,0 +1,15 @@
+{
+  "symbol": "ARTTO",
+  "name": "Artto AI",
+  "address": "0x9239e9f9e325e706ef8b89936ece9d48896abbe3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53169/thumb/New_Project_%281%29.png?1735506050",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9239e9f9e325e706ef8b89936ece9d48896abbe3"
+  }
+}

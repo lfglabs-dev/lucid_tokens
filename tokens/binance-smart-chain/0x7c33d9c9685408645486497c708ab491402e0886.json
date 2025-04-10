@@ -1,0 +1,15 @@
+{
+  "symbol": "BTE",
+  "name": "Betero",
+  "address": "0x7c33d9c9685408645486497c708ab491402e0886",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25153/thumb/B_green200.png?1650461529",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7c33d9c9685408645486497c708ab491402e0886"
+  }
+}

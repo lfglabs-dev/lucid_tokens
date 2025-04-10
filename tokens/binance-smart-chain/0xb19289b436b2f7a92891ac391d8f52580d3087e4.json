@@ -1,0 +1,15 @@
+{
+  "symbol": "OASIS",
+  "name": "OASIS",
+  "address": "0xb19289b436b2f7a92891ac391d8f52580d3087e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18755/thumb/pNOzYdY0_400x400.jpg?1633335306",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb19289b436b2f7a92891ac391d8f52580d3087e4"
+  }
+}

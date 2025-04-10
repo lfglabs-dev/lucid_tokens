@@ -1,0 +1,15 @@
+{
+  "symbol": "amUSDT",
+  "name": "Aave Matic Market USDT",
+  "address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17264/thumb/amUSDT_2x.png?1626966594",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x60d55f02a771d515e077c9c2403a1ef324885cec"
+  }
+}

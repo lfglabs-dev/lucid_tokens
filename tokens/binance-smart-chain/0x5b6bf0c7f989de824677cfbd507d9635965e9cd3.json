@@ -1,0 +1,16 @@
+{
+  "symbol": "GMM",
+  "name": "Gamium",
+  "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22749/thumb/14304.png?1642557454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3",
+    "ethereum": "0x4b19c70da4c6fa4baa0660825e889d2f7eabc279"
+  }
+}

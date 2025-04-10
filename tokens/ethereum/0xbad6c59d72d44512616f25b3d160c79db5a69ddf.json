@@ -4,6 +4,11 @@
   "address": "0xbad6c59d72d44512616f25b3d160c79db5a69ddf",
   "decimals": 18,
   "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55045/thumb/Vatan.png?1743433948",
+    "width": "32",
+    "height": "32"
+  },
   "platforms": {
     "ethereum": "0xbad6c59d72d44512616f25b3d160c79db5a69ddf"
   }

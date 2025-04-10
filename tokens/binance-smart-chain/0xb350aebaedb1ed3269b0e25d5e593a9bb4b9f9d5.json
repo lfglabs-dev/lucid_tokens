@@ -1,0 +1,15 @@
+{
+  "symbol": "RYOSHI",
+  "name": "RYOSHI TOKEN (V2)",
+  "address": "0xb350aebaedb1ed3269b0e25d5e593a9bb4b9f9d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16394/thumb/RyoshiLogo.png.jpg?1626869344",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb350aebaedb1ed3269b0e25d5e593a9bb4b9f9d5"
+  }
+}

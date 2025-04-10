@@ -1,0 +1,15 @@
+{
+  "symbol": "PARMA",
+  "name": "Parma FanToken",
+  "address": "0xf7f0dc9fd88e436847580d883319137ec2aa6b94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29258/thumb/parma-token%28200x200%29.png?1677654299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf7f0dc9fd88e436847580d883319137ec2aa6b94"
+  }
+}

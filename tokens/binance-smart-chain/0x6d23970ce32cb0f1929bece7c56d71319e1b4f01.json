@@ -1,0 +1,15 @@
+{
+  "symbol": "MFET",
+  "name": "Multi Functional Environmental Token",
+  "address": "0x6d23970ce32cb0f1929bece7c56d71319e1b4f01",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25555/thumb/200x200.png?1652421384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d23970ce32cb0f1929bece7c56d71319e1b4f01"
+  }
+}

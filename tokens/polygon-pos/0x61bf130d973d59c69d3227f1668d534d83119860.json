@@ -1,0 +1,15 @@
+{
+  "symbol": "TRKX",
+  "name": "Trakx Token",
+  "address": "0x61bf130d973d59c69d3227f1668d534d83119860",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50693/thumb/Trakx_200.png?1728781199",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x61bf130d973d59c69d3227f1668d534d83119860"
+  }
+}

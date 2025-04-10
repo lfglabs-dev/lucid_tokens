@@ -1,0 +1,16 @@
+{
+  "symbol": "APW",
+  "name": "APWine Token (PoS)",
+  "address": "0x6c0ab120dbd11ba701aff6748568311668f63fe0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15597/thumb/ApWine.png?1621340387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "polygon-pos": "0x6c0ab120dbd11ba701aff6748568311668f63fe0"
+  }
+}

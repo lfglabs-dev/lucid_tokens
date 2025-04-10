@@ -1,0 +1,15 @@
+{
+  "symbol": "O-megax",
+  "name": "O-megax",
+  "address": "0x6fd2854cd1b05b8eb5f6d25c714184a92fedaf4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55020/thumb/x020000.jpg?1743185437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6fd2854cd1b05b8eb5f6d25c714184a92fedaf4f"
+  }
+}

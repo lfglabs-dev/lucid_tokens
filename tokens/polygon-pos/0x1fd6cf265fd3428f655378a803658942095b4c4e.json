@@ -1,0 +1,15 @@
+{
+  "symbol": "YELD V2",
+  "name": "PolyYeld V2",
+  "address": "0x1fd6cf265fd3428f655378a803658942095b4c4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16401/thumb/pxSN2UtB_400x400.jpg?1623913991",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1fd6cf265fd3428f655378a803658942095b4c4e"
+  }
+}

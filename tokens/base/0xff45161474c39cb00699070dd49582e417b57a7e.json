@@ -1,0 +1,15 @@
+{
+  "symbol": "MT",
+  "name": "Mint Token",
+  "address": "0xff45161474c39cb00699070dd49582e417b57a7e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54790/thumb/mint-token.jpg?1741578876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xff45161474c39cb00699070dd49582e417b57a7e"
+  }
+}

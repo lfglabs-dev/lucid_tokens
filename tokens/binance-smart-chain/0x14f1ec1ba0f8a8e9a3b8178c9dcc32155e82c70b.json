@@ -1,0 +1,15 @@
+{
+  "symbol": "KAF",
+  "name": "KAIF",
+  "address": "0x14f1ec1ba0f8a8e9a3b8178c9dcc32155e82c70b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29842/thumb/kaif-cmcLogo200x200.png?1681721981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x14f1ec1ba0f8a8e9a3b8178c9dcc32155e82c70b"
+  }
+}

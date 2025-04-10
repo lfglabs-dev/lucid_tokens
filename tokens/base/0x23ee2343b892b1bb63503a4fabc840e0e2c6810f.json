@@ -1,0 +1,23 @@
+{
+  "symbol": "AXL",
+  "name": "Axelar",
+  "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1663121730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+    "optimistic-ethereum": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "moonbeam": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+    "binance-smart-chain": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+    "fantom": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+    "avalanche": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+    "arbitrum-one": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "polygon-pos": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+    "base": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+  }
+}

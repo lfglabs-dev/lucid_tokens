@@ -1,0 +1,15 @@
+{
+  "symbol": "BBB",
+  "name": "Based Baby",
+  "address": "0xd5b70ed3f2ba01bfaaa3beb09e31fe11f833b85f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35515/thumb/bbb.jpg?1708964629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd5b70ed3f2ba01bfaaa3beb09e31fe11f833b85f"
+  }
+}

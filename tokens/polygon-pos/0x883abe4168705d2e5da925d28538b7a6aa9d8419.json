@@ -1,0 +1,15 @@
+{
+  "symbol": "BALL",
+  "name": "Ball Token",
+  "address": "0x883abe4168705d2e5da925d28538b7a6aa9d8419",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17557/thumb/2_%289%29.png?1628228675",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x883abe4168705d2e5da925d28538b7a6aa9d8419"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BLITZ",
+  "name": "Blitz Token",
+  "address": "0xf376807dcdbaa0d7fa86e7c9eacc58d11ad710e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25554/thumb/cmc2.png?1652421101",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf376807dcdbaa0d7fa86e7c9eacc58d11ad710e4"
+  }
+}

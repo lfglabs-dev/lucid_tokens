@@ -1,0 +1,16 @@
+{
+  "symbol": "PCH",
+  "name": "Pichi",
+  "address": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39683/thumb/Group_1000003884.png?1723654999",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1",
+    "mantle": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1"
+  }
+}

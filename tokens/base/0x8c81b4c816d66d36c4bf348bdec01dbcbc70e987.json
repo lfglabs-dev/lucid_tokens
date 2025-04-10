@@ -1,0 +1,15 @@
+{
+  "symbol": "BRIUN",
+  "name": "Briun Armstrung",
+  "address": "0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36183/thumb/200x200.png?1710758416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987"
+  }
+}

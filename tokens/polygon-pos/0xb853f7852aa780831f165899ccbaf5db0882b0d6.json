@@ -1,0 +1,15 @@
+{
+  "symbol": "CRS",
+  "name": "CYRUS",
+  "address": "0xb853f7852aa780831f165899ccbaf5db0882b0d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50979/thumb/CRS.png?1729645105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb853f7852aa780831f165899ccbaf5db0882b0d6"
+  }
+}

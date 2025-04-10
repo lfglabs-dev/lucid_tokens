@@ -1,0 +1,15 @@
+{
+  "symbol": "GULF",
+  "name": "Gulf Coin",
+  "address": "0x7597bdccf10e41bccc374a6a0104cf430c420884",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26053/thumb/gulf-coin-logo-A2F3BBC063-seeklogo.com.png?1655453831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7597bdccf10e41bccc374a6a0104cf430c420884"
+  }
+}

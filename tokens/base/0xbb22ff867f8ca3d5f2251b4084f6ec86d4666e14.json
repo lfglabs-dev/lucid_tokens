@@ -1,0 +1,16 @@
+{
+  "symbol": "CTX",
+  "name": "Cryptex",
+  "address": "0xbb22ff867f8ca3d5f2251b4084f6ec86d4666e14",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14932/thumb/glossy_icon_-_C200px.png?1619073171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+    "base": "0xbb22ff867f8ca3d5f2251b4084f6ec86d4666e14"
+  }
+}

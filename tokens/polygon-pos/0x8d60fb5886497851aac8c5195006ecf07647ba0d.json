@@ -1,0 +1,15 @@
+{
+  "symbol": "W3GG",
+  "name": "W3GG Token",
+  "address": "0x8d60fb5886497851aac8c5195006ecf07647ba0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50272/thumb/128x128.png?1726765359",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8d60fb5886497851aac8c5195006ecf07647ba0d"
+  }
+}

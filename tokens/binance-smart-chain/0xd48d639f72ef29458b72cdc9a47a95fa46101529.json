@@ -1,0 +1,15 @@
+{
+  "symbol": "HKC",
+  "name": "HelpKidz Coin",
+  "address": "0xd48d639f72ef29458b72cdc9a47a95fa46101529",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25348/thumb/HelpKidz_Coin_200.png?1651304012",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd48d639f72ef29458b72cdc9a47a95fa46101529"
+  }
+}

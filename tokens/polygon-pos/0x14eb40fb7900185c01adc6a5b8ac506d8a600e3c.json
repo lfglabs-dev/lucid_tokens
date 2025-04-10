@@ -1,0 +1,16 @@
+{
+  "symbol": "EUROT",
+  "name": "EURO Token",
+  "address": "0x14eb40fb7900185c01adc6a5b8ac506d8a600e3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32816/thumb/eurot.png?1699579428",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x14eb40fb7900185c01adc6a5b8ac506d8a600e3c",
+    "polygon-pos": "0x14eb40fb7900185c01adc6a5b8ac506d8a600e3c"
+  }
+}

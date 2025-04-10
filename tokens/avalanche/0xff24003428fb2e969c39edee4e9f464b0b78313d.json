@@ -1,0 +1,15 @@
+{
+  "symbol": "WAIFU",
+  "name": "Waifu",
+  "address": "0xff24003428fb2e969c39edee4e9f464b0b78313d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54442/thumb/1500x500.jpeg?1739772044",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xff24003428fb2e969c39edee4e9f464b0b78313d"
+  }
+}

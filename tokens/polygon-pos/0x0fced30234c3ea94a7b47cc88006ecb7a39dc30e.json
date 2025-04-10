@@ -1,0 +1,15 @@
+{
+  "symbol": "BTMT",
+  "name": "BITMarketsToken",
+  "address": "0x0fced30234c3ea94a7b47cc88006ecb7a39dc30e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31547/thumb/btmt-token_%282%29.png?1693795244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0fced30234c3ea94a7b47cc88006ecb7a39dc30e"
+  }
+}

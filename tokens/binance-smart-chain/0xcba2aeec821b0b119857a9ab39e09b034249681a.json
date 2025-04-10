@@ -1,0 +1,16 @@
+{
+  "symbol": "stVLX",
+  "name": "stVLX",
+  "address": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
+    "velas": "0x3557371afed82dd683de278924bd0e1a790a3c49"
+  }
+}

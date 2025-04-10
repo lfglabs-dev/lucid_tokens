@@ -1,0 +1,15 @@
+{
+  "symbol": "vUSDT",
+  "name": "Venus USDT",
+  "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13901/thumb/venus_usdt.png?1612775382",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfd5840cd36d94d7229439859c0112a4185bc0255"
+  }
+}

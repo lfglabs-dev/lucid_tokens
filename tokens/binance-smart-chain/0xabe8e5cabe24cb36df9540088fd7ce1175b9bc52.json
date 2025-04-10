@@ -1,0 +1,15 @@
+{
+  "symbol": "SOLV",
+  "name": "Solv",
+  "address": "0xabe8e5cabe24cb36df9540088fd7ce1175b9bc52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27987/thumb/Solv-Logo5.png?1666863912",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xabe8e5cabe24cb36df9540088fd7ce1175b9bc52"
+  }
+}

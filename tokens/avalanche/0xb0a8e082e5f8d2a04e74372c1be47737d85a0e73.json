@@ -1,0 +1,18 @@
+{
+  "symbol": "USV",
+  "name": "Universal Store of Value",
+  "address": "0xb0a8e082e5f8d2a04e74372c1be47737d85a0e73",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22066/thumb/7iUyjg5t.png?1640744823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xac63686230f64bdeaf086fe6764085453ab3023f",
+    "ethereum": "0x88536c9b2c4701b8db824e6a16829d5b5eb84440",
+    "binance-smart-chain": "0xaf6162dc717cfc8818efc8d6f46a41cf7042fcba",
+    "avalanche": "0xb0a8e082e5f8d2a04e74372c1be47737d85a0e73"
+  }
+}

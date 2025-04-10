@@ -1,0 +1,16 @@
+{
+  "symbol": "GURU",
+  "name": "GURU Token",
+  "address": "0x0f1cfd0bb452db90a3bfc0848349463010419ab2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38583/thumb/tGURU_token_circle.png?1718087986",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x525574c899a7c877a11865339e57376092168258",
+    "base": "0x0f1cfd0bb452db90a3bfc0848349463010419ab2"
+  }
+}

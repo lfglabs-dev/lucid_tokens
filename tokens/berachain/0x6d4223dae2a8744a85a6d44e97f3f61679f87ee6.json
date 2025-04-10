@@ -1,0 +1,15 @@
+{
+  "symbol": "USDbr",
+  "name": "USDbr",
+  "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "J3FF",
+  "name": "J3FF by Virtuals",
+  "address": "0x7c3af051bfa356b8eaee35c273a21ad9223ee994",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53843/thumb/J3FF.jpg?1737568934",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7c3af051bfa356b8eaee35c273a21ad9223ee994"
+  }
+}

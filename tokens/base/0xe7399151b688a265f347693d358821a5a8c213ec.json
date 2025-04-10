@@ -1,0 +1,16 @@
+{
+  "symbol": "SKAI",
+  "name": "SKAI",
+  "address": "0xe7399151b688a265f347693d358821a5a8c213ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38056/thumb/Vector.png?1716407390",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcf078da6e85389de507ceede0e3d217e457b9d49",
+    "base": "0xe7399151b688a265f347693d358821a5a8c213ec"
+  }
+}

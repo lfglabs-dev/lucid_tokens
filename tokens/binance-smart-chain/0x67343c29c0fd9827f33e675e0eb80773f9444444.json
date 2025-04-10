@@ -1,0 +1,15 @@
+{
+  "symbol": "",
+  "name": "",
+  "address": "0x67343c29c0fd9827f33e675e0eb80773f9444444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25888/thumb/ISTEP.png?1654420630",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x67343c29c0fd9827f33e675e0eb80773f9444444"
+  }
+}

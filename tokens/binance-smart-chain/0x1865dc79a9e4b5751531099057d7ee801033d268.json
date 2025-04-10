@@ -1,0 +1,15 @@
+{
+  "symbol": "LKI",
+  "name": "Laika AI",
+  "address": "0x1865dc79a9e4b5751531099057d7ee801033d268",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38381/thumb/Laika_AI.jpeg?1717312074",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1865dc79a9e4b5751531099057d7ee801033d268"
+  }
+}

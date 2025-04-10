@@ -1,0 +1,15 @@
+{
+  "symbol": "LBCC",
+  "name": "LIGHTBEAM COURIER COIN",
+  "address": "0x12d76741f56ffde15d0da9865c05089425337aab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22252/thumb/rpaVMpr6_400x400.png?1641280084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x12d76741f56ffde15d0da9865c05089425337aab"
+  }
+}

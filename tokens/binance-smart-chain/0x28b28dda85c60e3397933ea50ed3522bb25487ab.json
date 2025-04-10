@@ -1,0 +1,15 @@
+{
+  "symbol": "X-FILE",
+  "name": "X-FILE",
+  "address": "0x28b28dda85c60e3397933ea50ed3522bb25487ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35374/thumb/X_FILE_LOGO.jpg?1708413813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x28b28dda85c60e3397933ea50ed3522bb25487ab"
+  }
+}

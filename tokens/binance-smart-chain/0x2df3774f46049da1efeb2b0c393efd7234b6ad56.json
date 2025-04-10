@@ -1,0 +1,15 @@
+{
+  "symbol": "KingGrok",
+  "name": "King Grok",
+  "address": "0x2df3774f46049da1efeb2b0c393efd7234b6ad56",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33919/thumb/255_resized%282%29.png?1703363164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2df3774f46049da1efeb2b0c393efd7234b6ad56"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ZILPEPE",
+  "name": "ZilPepe",
+  "address": "0x29df52dbd2a73ae6f4ee3a397fd7706216af12da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30166/thumb/logo.png?1683532207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29df52dbd2a73ae6f4ee3a397fd7706216af12da"
+  }
+}

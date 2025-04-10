@@ -1,0 +1,15 @@
+{
+  "symbol": "MU",
+  "name": "Mu Coin",
+  "address": "0xd036414fa2bcbb802691491e323bff1348c5f4ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24884/thumb/coingeckomucoin.png?1649236392",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xd036414fa2bcbb802691491e323bff1348c5f4ba"
+  }
+}

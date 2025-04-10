@@ -1,0 +1,15 @@
+{
+  "symbol": "CAL",
+  "name": "Fitburn",
+  "address": "0x859c940f080b197659b3effc804fd622df66f0a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29876/thumb/Coin_3_orange.png?1681973216",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x859c940f080b197659b3effc804fd622df66f0a1"
+  }
+}

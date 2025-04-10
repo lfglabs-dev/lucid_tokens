@@ -1,0 +1,16 @@
+{
+  "symbol": "EURI",
+  "name": "EURITE",
+  "address": "0x9d1a7a3191102e9f900faa10540837ba84dcbae7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39952/thumb/EURI.jpg?1724902829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9d1a7a3191102e9f900faa10540837ba84dcbae7",
+    "ethereum": "0x9d1a7a3191102e9f900faa10540837ba84dcbae7"
+  }
+}

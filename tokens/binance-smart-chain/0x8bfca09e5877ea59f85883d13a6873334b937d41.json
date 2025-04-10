@@ -1,0 +1,15 @@
+{
+  "symbol": "MADPEPE",
+  "name": "Mad Pepe",
+  "address": "0x8bfca09e5877ea59f85883d13a6873334b937d41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37590/thumb/1000034334.jpg?1714982007",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8bfca09e5877ea59f85883d13a6873334b937d41"
+  }
+}

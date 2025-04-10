@@ -1,0 +1,16 @@
+{
+  "symbol": "cUSDO",
+  "name": "Compounding Open Dollar",
+  "address": "0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
+    "base": "0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65"
+  }
+}

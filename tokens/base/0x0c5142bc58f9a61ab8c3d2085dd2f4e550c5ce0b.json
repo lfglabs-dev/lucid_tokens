@@ -1,0 +1,15 @@
+{
+  "symbol": "RUSSELL",
+  "name": "RUSSELL",
+  "address": "0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50690/thumb/2024-10-11_16.23.47_%281%29.jpg?1728780764",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b"
+  }
+}

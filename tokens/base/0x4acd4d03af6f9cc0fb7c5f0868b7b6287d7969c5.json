@@ -1,0 +1,17 @@
+{
+  "symbol": "USUAL",
+  "name": "USUAL",
+  "address": "0x4acd4d03af6f9cc0fb7c5f0868b7b6287d7969c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51091/thumb/USUAL.jpg?1730035787",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e",
+    "binance-smart-chain": "0x4acd4d03af6f9cc0fb7c5f0868b7b6287d7969c5",
+    "base": "0x4acd4d03af6f9cc0fb7c5f0868b7b6287d7969c5"
+  }
+}

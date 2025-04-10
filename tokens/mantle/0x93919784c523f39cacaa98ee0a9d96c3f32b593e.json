@@ -1,0 +1,30 @@
+{
+  "symbol": "uniBTC",
+  "name": "uniBTC",
+  "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
+    "zetachain": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+    "taiko": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "iotex": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "mantle": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "mode": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+    "bob-network": "0x236f8c0a61da474db21b693fb2ea7aab0c803894",
+    "merlin-chain": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "berachain": "0xc3827a4bc8224ee2d116637023b124ced6db6e90",
+    "sonic": "0xc3827a4bc8224ee2d116637023b124ced6db6e90",
+    "corn": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "bitlayer": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "optimistic-ethereum": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "bsquared-network": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "binance-smart-chain": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+    "arbitrum-one": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a"
+  }
+}

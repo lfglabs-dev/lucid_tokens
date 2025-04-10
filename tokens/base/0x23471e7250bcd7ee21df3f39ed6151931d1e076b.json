@@ -1,0 +1,16 @@
+{
+  "symbol": "WAI",
+  "name": "WAI",
+  "address": "0x23471e7250bcd7ee21df3f39ed6151931d1e076b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50441/thumb/Logo.png?1727768050",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x23471e7250bcd7ee21df3f39ed6151931d1e076b",
+    "blast": "0x129ed667bf8c065fe5f66c9b44b7cb0126d85cc3"
+  }
+}

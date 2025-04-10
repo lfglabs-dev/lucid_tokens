@@ -1,0 +1,17 @@
+{
+  "symbol": "SPECTRA",
+  "name": "Spectra Token",
+  "address": "0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52854/thumb/spectra.jpg?1734517434",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51",
+    "optimistic-ethereum": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
+    "arbitrum-one": "0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51"
+  }
+}

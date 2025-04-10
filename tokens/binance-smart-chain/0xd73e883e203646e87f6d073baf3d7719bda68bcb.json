@@ -1,0 +1,15 @@
+{
+  "symbol": "RHYTHM",
+  "name": "Rhythm",
+  "address": "0xd73e883e203646e87f6d073baf3d7719bda68bcb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17698/thumb/rhythm.png?1629037432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd73e883e203646e87f6d073baf3d7719bda68bcb"
+  }
+}

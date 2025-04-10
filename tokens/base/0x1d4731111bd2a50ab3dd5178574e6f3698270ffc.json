@@ -1,0 +1,15 @@
+{
+  "symbol": "DWA",
+  "name": "Degens With Attitude",
+  "address": "0x1d4731111bd2a50ab3dd5178574e6f3698270ffc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50904/thumb/photo_2024-10-19_09-25-28_%282%29.jpg?1729520613",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1d4731111bd2a50ab3dd5178574e6f3698270ffc"
+  }
+}

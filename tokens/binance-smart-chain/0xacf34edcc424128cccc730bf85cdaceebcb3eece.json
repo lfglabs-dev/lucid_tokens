@@ -1,0 +1,16 @@
+{
+  "symbol": "VST",
+  "name": "Voice Street Token",
+  "address": "0xacf34edcc424128cccc730bf85cdaceebcb3eece",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23147/thumb/LbMUkaD9_400x400.jpg?1643348841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xacf34edcc424128cccc730bf85cdaceebcb3eece",
+    "ethereum": "0x77a1f4e744d810239f465043e35d067ca33de259"
+  }
+}

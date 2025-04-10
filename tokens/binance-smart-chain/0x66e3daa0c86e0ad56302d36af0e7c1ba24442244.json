@@ -1,0 +1,15 @@
+{
+  "symbol": "AIL",
+  "name": "AILayer Token",
+  "address": "0x66e3daa0c86e0ad56302d36af0e7c1ba24442244",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54989/thumb/ailayer_logo-200x200.png?1743059829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x66e3daa0c86e0ad56302d36af0e7c1ba24442244"
+  }
+}

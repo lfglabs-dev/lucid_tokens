@@ -1,0 +1,18 @@
+{
+  "symbol": "SPSK.d",
+  "name": "SP Funds Dow Jones Global Sukuk ETF - Dinari",
+  "address": "0x0e576b0c554fbaef9893a2cd7b866af516bab581",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa213072a726062aca3c07839b7e531f101740c5c",
+    "ethereum": "0x9c879a1c2021bd0594750c148f37176395be0b8f",
+    "blast": "0x0e576b0c554fbaef9893a2cd7b866af516bab581",
+    "base": "0x9fd7bc3de3c1dd6041efbcbac43250da7b718a43"
+  }
+}

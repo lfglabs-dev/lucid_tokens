@@ -1,0 +1,15 @@
+{
+  "symbol": "RedPepe",
+  "name": "Red Pepe",
+  "address": "0xa93e4bbe09b834b5a13dcd832daeaefe79fb4ae9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30449/thumb/redpepelogo.png?1684489227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa93e4bbe09b834b5a13dcd832daeaefe79fb4ae9"
+  }
+}

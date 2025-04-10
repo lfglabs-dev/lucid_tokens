@@ -1,0 +1,15 @@
+{
+  "symbol": "MOCHI",
+  "name": "Mochi",
+  "address": "0xf6e932ca12afa26665dc4dde7e27be02a7c02e50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33083/thumb/UoypIsNd_400x400.jpg?1700585964",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf6e932ca12afa26665dc4dde7e27be02a7c02e50"
+  }
+}

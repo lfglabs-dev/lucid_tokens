@@ -1,0 +1,15 @@
+{
+  "symbol": "MGT",
+  "name": "Moongate",
+  "address": "0x3c6256f234ba638e5883c46b3fedb00ea2e66b8a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52080/thumb/Untitled_design_%285%29.png?1732527990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3c6256f234ba638e5883c46b3fedb00ea2e66b8a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SPEPE",
+  "name": "Saiyan PEPE",
+  "address": "0xfca466f2fa8e667a517c9c6cfa99cf985be5d9b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29994/thumb/spepe.png?1682470461",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xfca466f2fa8e667a517c9c6cfa99cf985be5d9b1"
+  }
+}

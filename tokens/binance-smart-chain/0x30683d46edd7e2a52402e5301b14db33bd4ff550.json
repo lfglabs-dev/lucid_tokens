@@ -1,0 +1,15 @@
+{
+  "symbol": "NOMOX",
+  "name": "Nomoex Token",
+  "address": "0x30683d46edd7e2a52402e5301b14db33bd4ff550",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50581/thumb/nomologo200.png?1728415541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x30683d46edd7e2a52402e5301b14db33bd4ff550"
+  }
+}

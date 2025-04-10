@@ -1,0 +1,16 @@
+{
+  "symbol": "LIEN",
+  "name": "lien on xDai from xDai",
+  "address": "0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12224/thumb/Lien.png?1598262819",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+    "binance-smart-chain": "0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3"
+  }
+}

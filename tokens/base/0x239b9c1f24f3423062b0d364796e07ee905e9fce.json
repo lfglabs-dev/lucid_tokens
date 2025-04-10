@@ -1,0 +1,15 @@
+{
+  "symbol": "uSHIB",
+  "name": "Shiba Inu (Universal)",
+  "address": "0x239b9c1f24f3423062b0d364796e07ee905e9fce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52902/thumb/UA-SHIB_1.png?1734636956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x239b9c1f24f3423062b0d364796e07ee905e9fce"
+  }
+}

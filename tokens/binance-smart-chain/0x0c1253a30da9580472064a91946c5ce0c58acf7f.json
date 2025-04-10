@@ -1,0 +1,15 @@
+{
+  "symbol": "TITA",
+  "name": "Titan Hunters",
+  "address": "0x0c1253a30da9580472064a91946c5ce0c58acf7f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20588/thumb/tita.png?1638343393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0c1253a30da9580472064a91946c5ce0c58acf7f"
+  }
+}

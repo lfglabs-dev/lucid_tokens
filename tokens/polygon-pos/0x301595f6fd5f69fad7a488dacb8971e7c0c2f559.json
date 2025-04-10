@@ -1,0 +1,15 @@
+{
+  "symbol": "wtPOKT",
+  "name": "Wrapped ThunderPOKT",
+  "address": "0x301595f6fd5f69fad7a488dacb8971e7c0c2f559",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24835/thumb/vjCQH6sw.jpg?1649060228",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x301595f6fd5f69fad7a488dacb8971e7c0c2f559"
+  }
+}

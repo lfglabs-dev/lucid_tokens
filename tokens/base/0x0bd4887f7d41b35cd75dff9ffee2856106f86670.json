@@ -1,0 +1,15 @@
+{
+  "symbol": "FRIEND",
+  "name": "FRIEND",
+  "address": "0x0bd4887f7d41b35cd75dff9ffee2856106f86670",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37475/thumb/friend.jpeg?1714464901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0bd4887f7d41b35cd75dff9ffee2856106f86670"
+  }
+}

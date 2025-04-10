@@ -1,0 +1,15 @@
+{
+  "symbol": "flETH",
+  "name": "flETH",
+  "address": "0x000000000d564d5be76f7f0d28fe52605afc7cf8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x000000000d564d5be76f7f0d28fe52605afc7cf8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MOM",
+  "name": "Mother of Memes",
+  "address": "0x211fa9e7e390c29b0ab1a9248949a0ab716c4154",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22388/thumb/bQ1PGpaR_400x400.jpg?1641790045",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x211fa9e7e390c29b0ab1a9248949a0ab716c4154"
+  }
+}

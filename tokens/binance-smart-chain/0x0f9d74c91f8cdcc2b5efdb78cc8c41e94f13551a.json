@@ -1,0 +1,15 @@
+{
+  "symbol": "GojoCoin",
+  "name": "Gojo Coin",
+  "address": "0x0f9d74c91f8cdcc2b5efdb78cc8c41e94f13551a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33173/thumb/GojoCoin_200.png?1700920402",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0f9d74c91f8cdcc2b5efdb78cc8c41e94f13551a"
+  }
+}

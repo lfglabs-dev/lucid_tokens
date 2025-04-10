@@ -1,0 +1,15 @@
+{
+  "symbol": "NERVE",
+  "name": "NERVEFLUX",
+  "address": "0x8c21cef3c0f25e7fa267e33602702e3f91775360",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22652/thumb/SCwtHQq2_400x400.png?1642399745",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8c21cef3c0f25e7fa267e33602702e3f91775360"
+  }
+}

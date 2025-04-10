@@ -1,0 +1,15 @@
+{
+  "symbol": "TAD",
+  "name": "Tadpoles",
+  "address": "0x0afcae1208ac99addc6983a06735a199f190de09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35138/thumb/tadpole.jpeg?1707447320",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0afcae1208ac99addc6983a06735a199f190de09"
+  }
+}

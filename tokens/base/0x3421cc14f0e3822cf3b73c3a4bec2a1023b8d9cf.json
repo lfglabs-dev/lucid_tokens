@@ -1,0 +1,15 @@
+{
+  "symbol": "Rebase",
+  "name": "Rebase",
+  "address": "0x3421cc14f0e3822cf3b73c3a4bec2a1023b8d9cf",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31444/thumb/R_Transparent.png?1692864071",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3421cc14f0e3822cf3b73c3a4bec2a1023b8d9cf"
+  }
+}

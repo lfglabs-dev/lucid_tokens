@@ -1,0 +1,15 @@
+{
+  "symbol": "HDV",
+  "name": "Hydracoin",
+  "address": "0x8cd0d76c0ad377378ab6ce878a7be686223497ee",
+  "decimals": 5,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24114/thumb/HDV_token.png?1646379605",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8cd0d76c0ad377378ab6ce878a7be686223497ee"
+  }
+}

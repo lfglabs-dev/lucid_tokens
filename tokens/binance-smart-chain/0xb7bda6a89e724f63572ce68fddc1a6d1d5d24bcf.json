@@ -1,0 +1,16 @@
+{
+  "symbol": "OGz",
+  "name": "OGzClub",
+  "address": "0xb7bda6a89e724f63572ce68fddc1a6d1d5d24bcf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31121/thumb/25832.png?1690772601",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb7bda6a89e724f63572ce68fddc1a6d1d5d24bcf",
+    "binance-smart-chain": "0xb7bda6a89e724f63572ce68fddc1a6d1d5d24bcf"
+  }
+}

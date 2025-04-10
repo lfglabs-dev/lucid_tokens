@@ -1,0 +1,16 @@
+{
+  "symbol": "TRYT",
+  "name": "LiraT",
+  "address": "0x95e376390f472fcaa21995169e11d523954b3bbb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32815/thumb/lirat.png?1699579061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x95e376390f472fcaa21995169e11d523954b3bbb",
+    "polygon-pos": "0x95e376390f472fcaa21995169e11d523954b3bbb"
+  }
+}

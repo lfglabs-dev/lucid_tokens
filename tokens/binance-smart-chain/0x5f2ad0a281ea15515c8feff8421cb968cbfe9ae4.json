@@ -1,0 +1,15 @@
+{
+  "symbol": "SETAI",
+  "name": "Sentient AI",
+  "address": "0x5f2ad0a281ea15515c8feff8421cb968cbfe9ae4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53213/thumb/icon_color.png?1735672329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f2ad0a281ea15515c8feff8421cb968cbfe9ae4"
+  }
+}

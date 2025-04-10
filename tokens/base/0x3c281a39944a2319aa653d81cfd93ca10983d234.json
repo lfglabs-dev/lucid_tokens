@@ -1,0 +1,15 @@
+{
+  "symbol": "BUILD",
+  "name": "BUILD",
+  "address": "0x3c281a39944a2319aa653d81cfd93ca10983d234",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37836/thumb/buildlogo.png?1715741487",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3c281a39944a2319aa653d81cfd93ca10983d234"
+  }
+}

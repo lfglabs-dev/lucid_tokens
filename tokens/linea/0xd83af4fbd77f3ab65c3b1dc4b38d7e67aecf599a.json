@@ -1,0 +1,15 @@
+{
+  "symbol": "LXP",
+  "name": "Linea Voyage XP",
+  "address": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34795/thumb/lxp-1.png?1706032525",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a"
+  }
+}

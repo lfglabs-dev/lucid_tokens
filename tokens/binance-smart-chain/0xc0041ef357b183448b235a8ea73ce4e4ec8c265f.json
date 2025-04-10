@@ -1,0 +1,17 @@
+{
+  "symbol": "COOKIE",
+  "name": "Cookie",
+  "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38450/thumb/TOKEN_200x200.png?1717557308",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "ethereum": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "base": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f"
+  }
+}

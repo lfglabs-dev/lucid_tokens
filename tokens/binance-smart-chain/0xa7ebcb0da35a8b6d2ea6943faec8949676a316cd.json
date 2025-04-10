@@ -1,0 +1,15 @@
+{
+  "symbol": "PERRY",
+  "name": "Perry The BNB V2",
+  "address": "0xa7ebcb0da35a8b6d2ea6943faec8949676a316cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30207/thumb/009836CD-8341-4057-BAB9-C01AD6BC6166.png?1683618125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa7ebcb0da35a8b6d2ea6943faec8949676a316cd"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "COOK",
+  "name": "COOK",
+  "address": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50969/thumb/Logomark-Gradient_Official.png?1729620221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
+    "mantle": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "vBUSD",
+  "name": "Venus BUSD",
+  "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13902/thumb/vbusd.png?1612775895",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+  }
+}

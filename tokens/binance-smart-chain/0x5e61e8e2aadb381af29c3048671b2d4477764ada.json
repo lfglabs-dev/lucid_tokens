@@ -1,0 +1,15 @@
+{
+  "symbol": "CLP",
+  "name": "ClapArt",
+  "address": "0x5e61e8e2aadb381af29c3048671b2d4477764ada",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38214/thumb/CLAPART_logo.png?1716823277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5e61e8e2aadb381af29c3048671b2d4477764ada"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "ISHND",
+  "name": "Stronghands Finance",
+  "address": "0x9e6b19874e97fe8e8cad77f2c0ab5e7a693e5dbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20158/thumb/ISHND_512x512px.png?1647512898",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1cc1aca0dae2d6c4a0e8ae7b4f2d01eabbc435ee",
+    "ethereum": "0x9e6b19874e97fe8e8cad77f2c0ab5e7a693e5dbf",
+    "polygon-pos": "0x9e6b19874e97fe8e8cad77f2c0ab5e7a693e5dbf"
+  }
+}

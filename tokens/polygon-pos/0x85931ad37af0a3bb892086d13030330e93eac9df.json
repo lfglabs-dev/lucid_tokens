@@ -1,0 +1,15 @@
+{
+  "symbol": "TXT",
+  "name": "Tx24",
+  "address": "0x85931ad37af0a3bb892086d13030330e93eac9df",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50294/thumb/Tx24.png?1726931984",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x85931ad37af0a3bb892086d13030330e93eac9df"
+  }
+}

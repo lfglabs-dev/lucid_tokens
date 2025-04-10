@@ -1,0 +1,15 @@
+{
+  "symbol": "BUSD",
+  "name": "Binance USD",
+  "address": "0x2039bb4116b4efc145ec4f0e2ea75012d6c0f181",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x2039bb4116b4efc145ec4f0e2ea75012d6c0f181"
+  }
+}

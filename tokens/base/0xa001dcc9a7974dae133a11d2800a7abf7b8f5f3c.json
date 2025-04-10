@@ -1,0 +1,15 @@
+{
+  "symbol": "DYOR",
+  "name": "Do Your Own Research",
+  "address": "0xa001dcc9a7974dae133a11d2800a7abf7b8f5f3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54086/thumb/token_icon_200x200.png?1738187326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa001dcc9a7974dae133a11d2800a7abf7b8f5f3c"
+  }
+}

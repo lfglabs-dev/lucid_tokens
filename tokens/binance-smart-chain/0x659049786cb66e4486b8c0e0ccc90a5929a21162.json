@@ -1,0 +1,15 @@
+{
+  "symbol": "TC",
+  "name": "TTcoin",
+  "address": "0x659049786cb66e4486b8c0e0ccc90a5929a21162",
+  "decimals": 4,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18887/thumb/200px.png?1642084842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x659049786cb66e4486b8c0e0ccc90a5929a21162"
+  }
+}

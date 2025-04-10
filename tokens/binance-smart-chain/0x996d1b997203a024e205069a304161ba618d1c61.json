@@ -1,0 +1,15 @@
+{
+  "symbol": "TAT",
+  "name": "Tell A Tale",
+  "address": "0x996d1b997203a024e205069a304161ba618d1c61",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54925/thumb/TAT.jpg?1742541725",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x996d1b997203a024e205069a304161ba618d1c61"
+  }
+}

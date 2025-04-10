@@ -1,0 +1,15 @@
+{
+  "symbol": "GAN",
+  "name": "Galactic Arena: The NFTverse",
+  "address": "0x8f1408171eae06aec4549fd0a5808a42cee6dd84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19925/thumb/gan.png?1636446810",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8f1408171eae06aec4549fd0a5808a42cee6dd84"
+  }
+}

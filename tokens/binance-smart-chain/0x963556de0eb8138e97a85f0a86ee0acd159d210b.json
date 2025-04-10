@@ -1,0 +1,15 @@
+{
+  "symbol": "MARCO",
+  "name": "MELEGA",
+  "address": "0x963556de0eb8138e97a85f0a86ee0acd159d210b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27568/thumb/MELEGA_logo_halo_200x200px.png?1664524259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x963556de0eb8138e97a85f0a86ee0acd159d210b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "OLAND",
+  "name": "Oceanland",
+  "address": "0xb0461d7e8212d311b842a58e9989ede849ac6816",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24841/thumb/jP1nV5sb_400x400.jpg?1649077799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb0461d7e8212d311b842a58e9989ede849ac6816"
+  }
+}

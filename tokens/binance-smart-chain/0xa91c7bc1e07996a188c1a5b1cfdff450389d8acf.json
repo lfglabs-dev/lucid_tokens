@@ -1,0 +1,15 @@
+{
+  "symbol": "CHICKS",
+  "name": "SolChicks cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2",
+  "address": "0xa91c7bc1e07996a188c1a5b1cfdff450389d8acf",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20978/thumb/chicks.png?1638162821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa91c7bc1e07996a188c1a5b1cfdff450389d8acf"
+  }
+}

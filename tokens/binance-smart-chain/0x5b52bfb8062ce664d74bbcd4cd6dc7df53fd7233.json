@@ -1,0 +1,16 @@
+{
+  "symbol": "ZENIQ",
+  "name": "ZENIQ",
+  "address": "0x5b52bfb8062ce664d74bbcd4cd6dc7df53fd7233",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29284/thumb/zeniq.png?1677754455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5b52bfb8062ce664d74bbcd4cd6dc7df53fd7233",
+    "ethereum": "0x5b52bfb8062ce664d74bbcd4cd6dc7df53fd7233"
+  }
+}

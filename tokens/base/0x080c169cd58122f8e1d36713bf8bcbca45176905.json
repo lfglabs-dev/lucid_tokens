@@ -1,0 +1,15 @@
+{
+  "symbol": "MAXI",
+  "name": "MAXI",
+  "address": "0x080c169cd58122f8e1d36713bf8bcbca45176905",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50638/thumb/photo_2024-10-04_15-39-15.jpg?1728548076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x080c169cd58122f8e1d36713bf8bcbca45176905"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "SYN",
+  "name": "Synapse",
+  "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18024/thumb/syn.png?1635002049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+    "optimistic-ethereum": "0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
+    "base": "0x432036208d2717394d2614d6697c46df3ed69540",
+    "binance-smart-chain": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+    "fantom": "0xe55e19fb4f2d85af758950957714292dac1e25b2",
+    "avalanche": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+    "arbitrum-one": "0x080f6aed32fc474dd5717105dba5ea57268f46eb",
+    "polygon-pos": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695"
+  }
+}

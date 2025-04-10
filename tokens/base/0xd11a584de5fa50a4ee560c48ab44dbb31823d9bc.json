@@ -1,0 +1,15 @@
+{
+  "symbol": "BUTT",
+  "name": "Buttman",
+  "address": "0xd11a584de5fa50a4ee560c48ab44dbb31823d9bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36326/thumb/kqDFdKtJ_400x400.jpeg?1711097504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd11a584de5fa50a4ee560c48ab44dbb31823d9bc"
+  }
+}

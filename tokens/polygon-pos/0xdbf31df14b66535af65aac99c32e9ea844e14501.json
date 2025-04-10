@@ -1,0 +1,18 @@
+{
+  "symbol": "renBTC",
+  "name": "renBTC",
+  "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11370/thumb/Bitcoin.jpg?1628072791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+    "harmony-shard-0": "0x41ca97b94d5dee79195856034d196ddfa0d43edd",
+    "binance-smart-chain": "0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c",
+    "polygon-pos": "0xdbf31df14b66535af65aac99c32e9ea844e14501"
+  }
+}

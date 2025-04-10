@@ -1,0 +1,16 @@
+{
+  "symbol": "ZAP",
+  "name": "ZAP TOKEN",
+  "address": "0xc5326b32e8baef125acd68f8bc646fd646104f1c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2180/thumb/zap.png?1547036476",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+    "binance-smart-chain": "0xc5326b32e8baef125acd68f8bc646fd646104f1c"
+  }
+}

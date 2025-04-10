@@ -1,0 +1,15 @@
+{
+  "symbol": "PUMP",
+  "name": "pumpBTC Governance token",
+  "address": "0xb7c0007ab75350c582d5eab1862b872b5cf53f0c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55057/thumb/pumpbtc.jpg?1743518852",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb7c0007ab75350c582d5eab1862b872b5cf53f0c"
+  }
+}

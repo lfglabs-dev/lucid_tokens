@@ -1,0 +1,16 @@
+{
+  "symbol": "UMB",
+  "name": "Umbrella",
+  "address": "0x846f52020749715f02aef25b5d1d65e48945649d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13913/thumb/Umbrella_Network_Logo-Vertical_Version.png?1612836176",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+    "binance-smart-chain": "0x846f52020749715f02aef25b5d1d65e48945649d"
+  }
+}

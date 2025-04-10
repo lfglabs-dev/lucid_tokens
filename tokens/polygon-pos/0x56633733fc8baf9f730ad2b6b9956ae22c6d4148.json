@@ -1,0 +1,15 @@
+{
+  "symbol": "COLLECT",
+  "name": "CoinCollect Token",
+  "address": "0x56633733fc8baf9f730ad2b6b9956ae22c6d4148",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35378/thumb/200logo-1.png?1708420838",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x56633733fc8baf9f730ad2b6b9956ae22c6d4148"
+  }
+}

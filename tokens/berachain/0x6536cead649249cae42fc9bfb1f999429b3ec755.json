@@ -1,0 +1,15 @@
+{
+  "symbol": "NAV",
+  "name": "NavFinance",
+  "address": "0x6536cead649249cae42fc9bfb1f999429b3ec755",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54663/thumb/NAV_Token.png?1740898251",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x6536cead649249cae42fc9bfb1f999429b3ec755"
+  }
+}

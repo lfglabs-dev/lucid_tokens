@@ -1,0 +1,15 @@
+{
+  "symbol": "KABOSU",
+  "name": "KABOSU",
+  "address": "0x4811d9a0b2655a5f317e466f2be0139ff949297b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38341/thumb/photo_2024-05-29_10.17.44.png?1717130120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4811d9a0b2655a5f317e466f2be0139ff949297b"
+  }
+}

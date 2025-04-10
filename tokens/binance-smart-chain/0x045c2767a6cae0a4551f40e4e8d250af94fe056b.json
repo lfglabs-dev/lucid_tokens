@@ -1,0 +1,15 @@
+{
+  "symbol": "TCapy",
+  "name": "TonCapy",
+  "address": "0x045c2767a6cae0a4551f40e4e8d250af94fe056b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53682/thumb/toncapy-logo.jpg?1737015619",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x045c2767a6cae0a4551f40e4e8d250af94fe056b"
+  }
+}

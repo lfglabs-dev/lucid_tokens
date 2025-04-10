@@ -1,0 +1,15 @@
+{
+  "symbol": "GGG",
+  "name": "Good Games Guild",
+  "address": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19269/thumb/Logo_%282%29_%281%29.jpg?1634866116",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd8047afecb86e44eff3add991b9f063ed4ca716b"
+  }
+}

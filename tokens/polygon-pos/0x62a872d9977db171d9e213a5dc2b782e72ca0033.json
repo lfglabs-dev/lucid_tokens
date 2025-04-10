@@ -1,0 +1,17 @@
+{
+  "symbol": "NEUY",
+  "name": "NEUY (PoS)",
+  "address": "0x62a872d9977db171d9e213a5dc2b782e72ca0033",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25870/thumb/logo200x200.png?1654240813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x62a872d9977db171d9e213a5dc2b782e72ca0033",
+    "base": "0x3cf255a7a03d74b6f9d58456cbedbc0705626354",
+    "ethereum": "0xa80505c408c4defd9522981cd77e026f5a49fe63"
+  }
+}

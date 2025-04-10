@@ -1,0 +1,15 @@
+{
+  "symbol": "ARK",
+  "name": "ARK",
+  "address": "0x6b954b64ef0e5dbe738a4ebe466bd5a8529e7844",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51628/thumb/ark.png?1731663182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6b954b64ef0e5dbe738a4ebe466bd5a8529e7844"
+  }
+}

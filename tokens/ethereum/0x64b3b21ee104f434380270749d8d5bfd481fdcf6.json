@@ -1,0 +1,15 @@
+{
+  "symbol": "ABTC",
+  "name": "American Bitcoin",
+  "address": "0x64b3b21ee104f434380270749d8d5bfd481fdcf6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55121/thumb/1000003919.jpg?1743840691",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x64b3b21ee104f434380270749d8d5bfd481fdcf6"
+  }
+}

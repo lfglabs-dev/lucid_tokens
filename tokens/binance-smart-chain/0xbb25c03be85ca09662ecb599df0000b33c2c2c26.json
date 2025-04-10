@@ -1,0 +1,15 @@
+{
+  "symbol": "TLF",
+  "name": "Tradeleaf Token",
+  "address": "0xbb25c03be85ca09662ecb599df0000b33c2c2c26",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29718/thumb/Trade-Leaf-200x200.png?1680831091",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb25c03be85ca09662ecb599df0000b33c2c2c26"
+  }
+}

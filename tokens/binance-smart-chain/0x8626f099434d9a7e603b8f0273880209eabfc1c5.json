@@ -1,0 +1,15 @@
+{
+  "symbol": "Berry",
+  "name": "BerrySwap Token",
+  "address": "0x8626f099434d9a7e603b8f0273880209eabfc1c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14609/thumb/Berry.jpg?1617245229",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8626f099434d9a7e603b8f0273880209eabfc1c5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MINX",
+  "name": "Modern Innovation Network Token",
+  "address": "0x552f4d98f338fbbd3175ddf38ce1260f403bbba2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39639/thumb/minx_logo_cc200px.png?1723278416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x552f4d98f338fbbd3175ddf38ce1260f403bbba2"
+  }
+}

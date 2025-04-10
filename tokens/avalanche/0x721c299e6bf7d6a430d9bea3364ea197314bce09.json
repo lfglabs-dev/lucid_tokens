@@ -1,0 +1,17 @@
+{
+  "symbol": "MILK2",
+  "name": "MilkyWay Token by SpaceSwap v2",
+  "address": "0x721c299e6bf7d6a430d9bea3364ea197314bce09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12771/thumb/milk.png?1633423719",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+    "binance-smart-chain": "0x4a5a34212404f30c5ab7eb61b078fa4a55adc5a5",
+    "avalanche": "0x721c299e6bf7d6a430d9bea3364ea197314bce09"
+  }
+}

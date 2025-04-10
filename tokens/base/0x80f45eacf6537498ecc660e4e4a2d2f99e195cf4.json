@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPE",
+  "name": "Pepe",
+  "address": "0x80f45eacf6537498ecc660e4e4a2d2f99e195cf4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36639/thumb/Pepe_on_Base.png?1712030799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x80f45eacf6537498ecc660e4e4a2d2f99e195cf4"
+  }
+}

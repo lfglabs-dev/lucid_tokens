@@ -1,0 +1,16 @@
+{
+  "symbol": "FOR",
+  "name": "The Force Token",
+  "address": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8242/thumb/for.png?1606195375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+    "binance-smart-chain": "0x658a109c5900bc6d2357c87549b651670e5b0539"
+  }
+}

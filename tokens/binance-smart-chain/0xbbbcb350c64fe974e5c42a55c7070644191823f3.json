@@ -1,0 +1,15 @@
+{
+  "symbol": "CHEERS",
+  "name": "CHEERS",
+  "address": "0xbbbcb350c64fe974e5c42a55c7070644191823f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23906/thumb/15236.png?1645681595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbbbcb350c64fe974e5c42a55c7070644191823f3"
+  }
+}

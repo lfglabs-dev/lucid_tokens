@@ -1,0 +1,15 @@
+{
+  "symbol": "AETHER",
+  "name": "aethernet",
+  "address": "0xf3708859c178709d5319ad5405bc81511b72b9e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51065/thumb/Aether_Farcaster_frame.png?1729943869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf3708859c178709d5319ad5405bc81511b72b9e9"
+  }
+}

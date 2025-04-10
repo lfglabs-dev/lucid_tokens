@@ -1,0 +1,15 @@
+{
+  "symbol": "Doge2",
+  "name": "Dogecoin 2.0",
+  "address": "0x3780e00d4c60887af38345ccd44f7617dbfb10a0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17539/thumb/k4NUHHaO_400x400.jpg?1628141758",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3780e00d4c60887af38345ccd44f7617dbfb10a0"
+  }
+}

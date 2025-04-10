@@ -1,0 +1,16 @@
+{
+  "symbol": "ATD",
+  "name": "A2DAO Token",
+  "address": "0x1ce440d1a64eea6aa1db2a5aa51c9b326930957c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14509/thumb/8926.png?1645686353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8052327f1baf94a9dc8b26b9100f211ee3774f54",
+    "binance-smart-chain": "0x1ce440d1a64eea6aa1db2a5aa51c9b326930957c"
+  }
+}

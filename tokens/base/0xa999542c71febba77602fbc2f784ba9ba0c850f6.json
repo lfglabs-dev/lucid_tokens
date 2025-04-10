@@ -1,0 +1,15 @@
+{
+  "symbol": "Meh",
+  "name": "Meh",
+  "address": "0xa999542c71febba77602fbc2f784ba9ba0c850f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38708/thumb/meh_token.png?1718380026",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa999542c71febba77602fbc2f784ba9ba0c850f6"
+  }
+}

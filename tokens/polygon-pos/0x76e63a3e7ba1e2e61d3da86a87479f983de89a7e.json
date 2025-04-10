@@ -1,0 +1,15 @@
+{
+  "symbol": "OMEN",
+  "name": "Augury Finance",
+  "address": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16573/thumb/omen.PNG?1624498786",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e"
+  }
+}

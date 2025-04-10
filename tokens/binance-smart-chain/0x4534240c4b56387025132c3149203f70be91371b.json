@@ -1,0 +1,15 @@
+{
+  "symbol": "JTF",
+  "name": "Jet Fuel",
+  "address": "0x4534240c4b56387025132c3149203f70be91371b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55130/thumb/200_200_logo.png?1743922389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4534240c4b56387025132c3149203f70be91371b"
+  }
+}

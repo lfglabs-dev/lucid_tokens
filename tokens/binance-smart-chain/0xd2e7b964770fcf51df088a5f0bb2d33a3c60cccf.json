@@ -1,0 +1,17 @@
+{
+  "symbol": "ISP",
+  "name": "Ispolink Token",
+  "address": "0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15283/thumb/isolink.PNG?1620352267",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+    "manta-pacific": "0xbab1c57ec0bb0ae81d948503e51d90166459d154",
+    "binance-smart-chain": "0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf"
+  }
+}

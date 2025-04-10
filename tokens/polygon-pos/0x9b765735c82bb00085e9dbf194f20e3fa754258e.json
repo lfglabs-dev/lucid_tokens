@@ -1,0 +1,15 @@
+{
+  "symbol": "CARR",
+  "name": "Carnomaly",
+  "address": "0x9b765735c82bb00085e9dbf194f20e3fa754258e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14403/thumb/tcjOTKE3_400x400.png?1615895296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x9b765735c82bb00085e9dbf194f20e3fa754258e"
+  }
+}

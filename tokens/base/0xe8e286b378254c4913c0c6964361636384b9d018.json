@@ -1,0 +1,15 @@
+{
+  "symbol": "Core",
+  "name": "WarpCore",
+  "address": "0xe8e286b378254c4913c0c6964361636384b9d018",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51399/thumb/warpcore-logo-transparent200.png?1731084397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe8e286b378254c4913c0c6964361636384b9d018"
+  }
+}

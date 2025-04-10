@@ -1,0 +1,15 @@
+{
+  "symbol": "SC",
+  "name": "Shark Cat",
+  "address": "0x49d803d2df2295185610f44961f2dcd40326f25c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36562/thumb/photo_2024-03-26_17-36-22.jpg?1711903287",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x49d803d2df2295185610f44961f2dcd40326f25c"
+  }
+}

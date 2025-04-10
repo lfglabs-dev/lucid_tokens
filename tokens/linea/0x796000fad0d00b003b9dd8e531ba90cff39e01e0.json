@@ -1,0 +1,17 @@
+{
+  "symbol": "DUCKIES",
+  "name": "Yellow Duckies",
+  "address": "0x796000fad0d00b003b9dd8e531ba90cff39e01e0",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27630/thumb/logo.png?1664956807",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x18e73a5333984549484348a94f4d219f4fab7b81",
+    "linea": "0x796000fad0d00b003b9dd8e531ba90cff39e01e0",
+    "ethereum": "0x90b7e285ab6cf4e3a2487669dba3e339db8a3320"
+  }
+}

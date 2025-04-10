@@ -1,0 +1,15 @@
+{
+  "symbol": "XPRESS",
+  "name": "XPRESS TOKEN",
+  "address": "0xaa9826732f3a4973ff8b384b3f4e3c70c2984651",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20467/thumb/xvlKHAMJ_400x400.jpg?1637064606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaa9826732f3a4973ff8b384b3f4e3c70c2984651"
+  }
+}

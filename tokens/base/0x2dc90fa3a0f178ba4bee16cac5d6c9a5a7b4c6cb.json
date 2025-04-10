@@ -1,0 +1,15 @@
+{
+  "symbol": "DRINK",
+  "name": "DRINK",
+  "address": "0x2dc90fa3a0f178ba4bee16cac5d6c9a5a7b4c6cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50167/thumb/2N1fxgBw_400x400.jpg?1726136925",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2dc90fa3a0f178ba4bee16cac5d6c9a5a7b4c6cb"
+  }
+}

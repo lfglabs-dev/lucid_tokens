@@ -1,0 +1,15 @@
+{
+  "symbol": "MAG",
+  "name": "Magnate Finance",
+  "address": "0x2dc1cda9186a4993bd36de60d08787c0c382bead",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31278/thumb/192.png?1692153076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2dc1cda9186a4993bd36de60d08787c0c382bead"
+  }
+}

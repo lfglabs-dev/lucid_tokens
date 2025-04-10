@@ -1,0 +1,15 @@
+{
+  "symbol": "GENE",
+  "name": "Genopets",
+  "address": "0x9df465460938f9ebdf51c38cc87d72184471f8f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20360/thumb/gene-token.png?1636945172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9df465460938f9ebdf51c38cc87d72184471f8f0"
+  }
+}

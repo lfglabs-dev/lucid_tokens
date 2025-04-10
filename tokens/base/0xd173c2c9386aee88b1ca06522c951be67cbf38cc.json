@@ -1,0 +1,15 @@
+{
+  "symbol": "KOS",
+  "name": "KONTOS",
+  "address": "0xd173c2c9386aee88b1ca06522c951be67cbf38cc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52856/thumb/KOS_128PX%281%29.png?1734518204",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd173c2c9386aee88b1ca06522c951be67cbf38cc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BPAD",
+  "name": "BPAD",
+  "address": "0x29132062319aa375e764ef8ef756f2b28c77a9c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23309/thumb/bpad.PNG?1643752909",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29132062319aa375e764ef8ef756f2b28c77a9c9"
+  }
+}

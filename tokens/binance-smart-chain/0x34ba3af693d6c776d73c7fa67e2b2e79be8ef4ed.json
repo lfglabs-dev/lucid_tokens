@@ -1,0 +1,15 @@
+{
+  "symbol": "BALA",
+  "name": "SHAMBALA",
+  "address": "0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19635/thumb/shambala.PNG?1635715476",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed"
+  }
+}

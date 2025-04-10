@@ -1,0 +1,15 @@
+{
+  "symbol": "ROND",
+  "name": "ROND Coin",
+  "address": "0x204820b6e6feae805e376d2c6837446186e57981",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27601/thumb/rond.png?1664716228",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x204820b6e6feae805e376d2c6837446186e57981"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AIRBTC",
+  "name": "AIRBTC",
+  "address": "0x4e93bfcd6378e564c454bf99e130ae10a1c7b2dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37369/thumb/photo_2024-04-21_01-29-59.jpg?1714117341",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4e93bfcd6378e564c454bf99e130ae10a1c7b2dd"
+  }
+}

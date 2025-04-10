@@ -1,0 +1,15 @@
+{
+  "symbol": "PUP",
+  "name": "Pup Token",
+  "address": "0xcfe2cf35d2bdde84967e67d00ad74237e234ce59",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16420/thumb/2_%288%29.png?1623983944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xcfe2cf35d2bdde84967e67d00ad74237e234ce59"
+  }
+}

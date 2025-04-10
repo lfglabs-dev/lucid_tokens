@@ -1,0 +1,17 @@
+{
+  "symbol": "SHIBAKEN",
+  "name": "ShibaKen.Finance",
+  "address": "0xa0cb0ce7c6d93a7ebd72952feb4407dddee8a194",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15413/thumb/shibaken-logo-new.png?1620772865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b",
+    "binance-smart-chain": "0xa0cb0ce7c6d93a7ebd72952feb4407dddee8a194",
+    "polygon-pos": "0xa0cb0ce7c6d93a7ebd72952feb4407dddee8a194"
+  }
+}

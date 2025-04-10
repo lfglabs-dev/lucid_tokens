@@ -1,0 +1,16 @@
+{
+  "symbol": "HDAO",
+  "name": "humanDAO (PoS)",
+  "address": "0x72928d5436ff65e57f72d5566dcd3baedc649a88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21138/thumb/Untitled-2.jpg?1645163749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d",
+    "polygon-pos": "0x72928d5436ff65e57f72d5566dcd3baedc649a88"
+  }
+}

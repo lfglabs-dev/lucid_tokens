@@ -1,0 +1,15 @@
+{
+  "symbol": "MVU",
+  "name": "MemesVsUndead",
+  "address": "0xf8bacadc39f2bfe86df4c48a1e87c9aa89d7d018",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33523/thumb/memesvsundead-200x200.png?1702134122",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8bacadc39f2bfe86df4c48a1e87c9aa89d7d018"
+  }
+}

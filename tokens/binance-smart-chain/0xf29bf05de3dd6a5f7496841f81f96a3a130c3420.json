@@ -1,0 +1,15 @@
+{
+  "symbol": "GOMD",
+  "name": "GOMDori",
+  "address": "0xf29bf05de3dd6a5f7496841f81f96a3a130c3420",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36220/thumb/dd765hr7.png?1710860087",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf29bf05de3dd6a5f7496841f81f96a3a130c3420"
+  }
+}

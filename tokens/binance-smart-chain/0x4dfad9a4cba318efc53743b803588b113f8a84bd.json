@@ -1,0 +1,15 @@
+{
+  "symbol": "HUA",
+  "name": "Chihuahua",
+  "address": "0x4dfad9a4cba318efc53743b803588b113f8a84bd",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15651/thumb/chihua.PNG?1621476950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4dfad9a4cba318efc53743b803588b113f8a84bd"
+  }
+}

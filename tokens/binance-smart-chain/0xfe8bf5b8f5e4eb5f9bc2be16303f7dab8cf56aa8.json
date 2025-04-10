@@ -1,0 +1,15 @@
+{
+  "symbol": "BIBI",
+  "name": "BIBI",
+  "address": "0xfe8bf5b8f5e4eb5f9bc2be16303f7dab8cf56aa8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30242/thumb/bibilogo.jpg?1683690982",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfe8bf5b8f5e4eb5f9bc2be16303f7dab8cf56aa8"
+  }
+}

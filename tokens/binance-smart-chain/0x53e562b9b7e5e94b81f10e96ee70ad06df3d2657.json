@@ -1,0 +1,15 @@
+{
+  "symbol": "BABY",
+  "name": "BabySwap Token",
+  "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16169/thumb/baby.PNG?1623190282",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "RITE",
+  "name": "RITE Coin",
+  "address": "0x0808bf94d57c905f1236212654268ef82e1e594e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24130/thumb/rite.png?1646482219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0808bf94d57c905f1236212654268ef82e1e594e",
+    "base": "0x0808bf94d57c905f1236212654268ef82e1e594e"
+  }
+}

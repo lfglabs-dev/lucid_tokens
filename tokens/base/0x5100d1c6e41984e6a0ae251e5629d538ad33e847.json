@@ -1,0 +1,15 @@
+{
+  "symbol": "MEWNB",
+  "name": "Mewnbase",
+  "address": "0x5100d1c6e41984e6a0ae251e5629d538ad33e847",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37568/thumb/output-onlinepngtools_%281%29.png?1714883778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5100d1c6e41984e6a0ae251e5629d538ad33e847"
+  }
+}

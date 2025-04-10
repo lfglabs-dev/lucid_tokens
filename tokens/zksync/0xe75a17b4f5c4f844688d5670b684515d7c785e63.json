@@ -1,0 +1,16 @@
+{
+  "symbol": "VNO",
+  "name": "VenoToken",
+  "address": "0xe75a17b4f5c4f844688d5670b684515d7c785e63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28799/thumb/Veno_Token_dark.png?1674281588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0xdb7d0a1ec37de1de924f8e8adac6ed338d4404e9",
+    "zksync": "0xe75a17b4f5c4f844688d5670b684515d7c785e63"
+  }
+}

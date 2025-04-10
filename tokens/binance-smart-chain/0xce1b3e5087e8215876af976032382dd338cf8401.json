@@ -1,0 +1,15 @@
+{
+  "symbol": "THOREUM",
+  "name": "Thoreumv4 - Thoreum.AI",
+  "address": "0xce1b3e5087e8215876af976032382dd338cf8401",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22759/thumb/200x200.png?1643097301",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xce1b3e5087e8215876af976032382dd338cf8401"
+  }
+}

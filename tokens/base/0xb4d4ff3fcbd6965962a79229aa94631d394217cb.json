@@ -1,0 +1,15 @@
+{
+  "symbol": "BRAT",
+  "name": "Brat",
+  "address": "0xb4d4ff3fcbd6965962a79229aa94631d394217cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54444/thumb/Brat.png?1739772733",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb4d4ff3fcbd6965962a79229aa94631d394217cb"
+  }
+}

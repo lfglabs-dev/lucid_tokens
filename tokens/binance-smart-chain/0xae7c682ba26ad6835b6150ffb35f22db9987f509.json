@@ -1,0 +1,15 @@
+{
+  "symbol": "ING",
+  "name": "Infinity Universe Gem",
+  "address": "0xae7c682ba26ad6835b6150ffb35f22db9987f509",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27651/thumb/ycHkKpKm_400x400.jpeg?1665045539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xae7c682ba26ad6835b6150ffb35f22db9987f509"
+  }
+}

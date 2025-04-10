@@ -1,0 +1,16 @@
+{
+  "symbol": "WASSIE",
+  "name": "WASSIE",
+  "address": "0xa067436db77ab18b1a315095e4b816791609897c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30144/thumb/wassie-coin.png?1683355291",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2c95d751da37a5c1d9c5a7fd465c1d50f3d96160",
+    "base": "0xa067436db77ab18b1a315095e4b816791609897c"
+  }
+}

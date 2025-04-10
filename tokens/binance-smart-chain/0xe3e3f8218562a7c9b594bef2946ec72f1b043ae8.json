@@ -1,0 +1,15 @@
+{
+  "symbol": "KBD",
+  "name": "Kyberdyne",
+  "address": "0xe3e3f8218562a7c9b594bef2946ec72f1b043ae8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24003/thumb/mrSWHBjQ_400x400.jpg?1646026119",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe3e3f8218562a7c9b594bef2946ec72f1b043ae8"
+  }
+}

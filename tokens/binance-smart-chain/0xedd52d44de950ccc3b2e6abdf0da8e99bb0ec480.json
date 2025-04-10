@@ -1,0 +1,15 @@
+{
+  "symbol": "CRAZYTIGER",
+  "name": "CRAZY TIGER",
+  "address": "0xedd52d44de950ccc3b2e6abdf0da8e99bb0ec480",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29820/thumb/output-onlinepngtools_%281%29.png?1681447848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xedd52d44de950ccc3b2e6abdf0da8e99bb0ec480"
+  }
+}

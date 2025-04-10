@@ -1,0 +1,15 @@
+{
+  "symbol": "TYT",
+  "name": "Bounty Temple Token",
+  "address": "0xe5cf781d9e6e92b051ffb8037a5d81981863ea82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35565/thumb/TYT-Diamon-only.png?1709181193",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe5cf781d9e6e92b051ffb8037a5d81981863ea82"
+  }
+}

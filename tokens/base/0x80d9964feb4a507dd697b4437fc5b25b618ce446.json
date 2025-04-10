@@ -1,0 +1,15 @@
+{
+  "symbol": "pythETH",
+  "name": "Pyth ETH",
+  "address": "0x80d9964feb4a507dd697b4437fc5b25b618ce446",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51548/thumb/ethereum-eth-logo.png?1731517011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x80d9964feb4a507dd697b4437fc5b25b618ce446"
+  }
+}

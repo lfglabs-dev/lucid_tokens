@@ -1,0 +1,15 @@
+{
+  "symbol": "LEKS",
+  "name": "Lecksis Token",
+  "address": "0x7ca601b0a7de5c086f265d76237b1d8a8b3194dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40071/thumb/lecksis.png?1725489207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x7ca601b0a7de5c086f265d76237b1d8a8b3194dc"
+  }
+}

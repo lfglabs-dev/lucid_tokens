@@ -1,0 +1,15 @@
+{
+  "symbol": "REGU",
+  "name": "RegularPresale",
+  "address": "0xf1ca73caa1c7ad66af11147ba7d5636243af0493",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20797/thumb/W1byu.png?1637677488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf1ca73caa1c7ad66af11147ba7d5636243af0493"
+  }
+}

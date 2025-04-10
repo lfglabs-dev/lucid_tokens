@@ -1,0 +1,15 @@
+{
+  "symbol": "$CATA",
+  "name": "CATA BSC",
+  "address": "0x105dd4727c09feace2158ed125fa45382058df6c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50655/thumb/ASIWkKUf_400x400.jpg?1728629076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x105dd4727c09feace2158ed125fa45382058df6c"
+  }
+}

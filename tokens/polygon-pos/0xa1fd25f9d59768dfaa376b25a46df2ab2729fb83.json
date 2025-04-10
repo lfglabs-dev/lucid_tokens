@@ -1,0 +1,15 @@
+{
+  "symbol": "5MC",
+  "name": "5MC",
+  "address": "0xa1fd25f9d59768dfaa376b25a46df2ab2729fb83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32862/thumb/5mc_200X200.png?1699670007",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa1fd25f9d59768dfaa376b25a46df2ab2729fb83"
+  }
+}

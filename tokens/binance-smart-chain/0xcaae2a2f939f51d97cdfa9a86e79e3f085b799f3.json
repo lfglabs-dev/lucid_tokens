@@ -1,0 +1,15 @@
+{
+  "symbol": "TUT",
+  "name": "Tutorial",
+  "address": "0xcaae2a2f939f51d97cdfa9a86e79e3f085b799f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54299/thumb/image_2025-02-08_18-56-13.png?1739165439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcaae2a2f939f51d97cdfa9a86e79e3f085b799f3"
+  }
+}

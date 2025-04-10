@@ -1,0 +1,15 @@
+{
+  "symbol": "MOONION",
+  "name": "MOONIONS",
+  "address": "0x9073b858a7cdf121e6bf8d1367e200e5d0cc0188",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27454/thumb/200.png?1664090487",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9073b858a7cdf121e6bf8d1367e200e5d0cc0188"
+  }
+}

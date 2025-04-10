@@ -1,0 +1,15 @@
+{
+  "symbol": "MIU",
+  "name": "Miu",
+  "address": "0x77f8fbccd9995d1a00ae94badaa293e7eafc4a4d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38160/thumb/200x200.jpg?1716673677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x77f8fbccd9995d1a00ae94badaa293e7eafc4a4d"
+  }
+}

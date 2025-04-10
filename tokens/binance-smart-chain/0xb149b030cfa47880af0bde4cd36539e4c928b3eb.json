@@ -1,0 +1,15 @@
+{
+  "symbol": "NUTGV2",
+  "name": "NUTGAIN",
+  "address": "0xb149b030cfa47880af0bde4cd36539e4c928b3eb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25567/thumb/nutgv2.png?1652527105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb149b030cfa47880af0bde4cd36539e4c928b3eb"
+  }
+}

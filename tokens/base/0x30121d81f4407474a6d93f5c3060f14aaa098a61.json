@@ -1,0 +1,15 @@
+{
+  "symbol": "Labz",
+  "name": "Insane Labz (Base)",
+  "address": "0x30121d81f4407474a6d93f5c3060f14aaa098a61",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51886/thumb/Photo_May_18_2024__6_11_22_PM.jpg?1732120518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x30121d81f4407474a6d93f5c3060f14aaa098a61"
+  }
+}

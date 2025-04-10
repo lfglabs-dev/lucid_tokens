@@ -1,0 +1,17 @@
+{
+  "symbol": "BCMC",
+  "name": "Blockchain Monster Coin",
+  "address": "0xc10358f062663448a3489fc258139944534592ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19045/thumb/bcmc-coin-200x200.png?1641398990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+    "binance-smart-chain": "0xc10358f062663448a3489fc258139944534592ac",
+    "polygon-pos": "0xc10358f062663448a3489fc258139944534592ac"
+  }
+}

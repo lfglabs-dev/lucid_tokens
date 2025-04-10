@@ -1,0 +1,16 @@
+{
+  "symbol": "pumpBTC",
+  "name": "pumpBTC",
+  "address": "0xf9c4ff105803a77ecb5dae300871ad76c2794fa4",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf9c4ff105803a77ecb5dae300871ad76c2794fa4",
+    "ethereum": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BB",
+  "name": "Baby Bali",
+  "address": "0x16f9cc3c6f8d8006cfc0ee693cef9d76b0d44c36",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20789/thumb/New-Era-of-Baby-Bali-200x200pxl.png?1637671831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x16f9cc3c6f8d8006cfc0ee693cef9d76b0d44c36"
+  }
+}

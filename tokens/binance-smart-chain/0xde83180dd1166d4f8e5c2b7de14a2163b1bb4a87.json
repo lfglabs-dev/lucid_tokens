@@ -1,0 +1,15 @@
+{
+  "symbol": "DLC",
+  "name": "DiamondLaunch Coin",
+  "address": "0xde83180dd1166d4f8e5c2b7de14a2163b1bb4a87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27323/thumb/dlc.png?1663320489",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde83180dd1166d4f8e5c2b7de14a2163b1bb4a87"
+  }
+}

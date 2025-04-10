@@ -1,0 +1,15 @@
+{
+  "symbol": "ONT",
+  "name": "Ontology Token",
+  "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18559/thumb/ont.png?1632395038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335"
+  }
+}

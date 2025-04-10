@@ -1,0 +1,15 @@
+{
+  "symbol": "LinkFi",
+  "name": "LinkFi",
+  "address": "0x679d2c23497d4431311ac001618cd0b8789ac29c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34740/thumb/200.png?1705947782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x679d2c23497d4431311ac001618cd0b8789ac29c"
+  }
+}

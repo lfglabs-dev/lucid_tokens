@@ -1,0 +1,15 @@
+{
+  "symbol": "GLANKER",
+  "name": "glonkybot",
+  "address": "0x33ac788bc9ccb27e9ec558fb2bde79950a6b9d5b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55021/thumb/gb2.jpg?1743185643",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x33ac788bc9ccb27e9ec558fb2bde79950a6b9d5b"
+  }
+}

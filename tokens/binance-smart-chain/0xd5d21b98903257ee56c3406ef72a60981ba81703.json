@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyBome",
+  "name": "Book of Baby Memes",
+  "address": "0xd5d21b98903257ee56c3406ef72a60981ba81703",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36334/thumb/gecko.png?1711099935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd5d21b98903257ee56c3406ef72a60981ba81703"
+  }
+}

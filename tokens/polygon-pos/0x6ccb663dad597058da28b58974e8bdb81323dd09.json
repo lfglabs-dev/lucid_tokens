@@ -1,0 +1,15 @@
+{
+  "symbol": "BLOC",
+  "name": "BlockCentral Token",
+  "address": "0x6ccb663dad597058da28b58974e8bdb81323dd09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30922/thumb/STS.png?1688959105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x6ccb663dad597058da28b58974e8bdb81323dd09"
+  }
+}

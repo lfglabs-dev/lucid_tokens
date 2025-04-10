@@ -1,0 +1,15 @@
+{
+  "symbol": "REWARD",
+  "name": "Rewardable",
+  "address": "0x1986cc18d8ec757447254310d2604f85741aa732",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52274/thumb/reward-token-icon-200x200.png?1732888312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1986cc18d8ec757447254310d2604f85741aa732"
+  }
+}

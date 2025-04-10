@@ -1,0 +1,16 @@
+{
+  "symbol": "L1X",
+  "name": "L1X",
+  "address": "0x64d1335b7b942385a60c50e57f647d1982f0c4c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53826/thumb/l1x-logo-coingecko.png?1737542721",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x399ef659fdead53b3e7f97e9491e727925667945",
+    "binance-smart-chain": "0x64d1335b7b942385a60c50e57f647d1982f0c4c8"
+  }
+}

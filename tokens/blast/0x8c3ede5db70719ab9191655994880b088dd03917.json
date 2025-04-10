@@ -1,0 +1,15 @@
+{
+  "symbol": "yYOLO",
+  "name": "YOLO Games YOLO",
+  "address": "0x8c3ede5db70719ab9191655994880b088dd03917",
+  "decimals": 24,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38866/thumb/yYOLO.png?1719277542",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x8c3ede5db70719ab9191655994880b088dd03917"
+  }
+}

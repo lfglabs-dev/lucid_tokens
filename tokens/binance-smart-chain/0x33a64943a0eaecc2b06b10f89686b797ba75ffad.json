@@ -1,0 +1,15 @@
+{
+  "symbol": "PGPT",
+  "name": "PrivateAI.com",
+  "address": "0x33a64943a0eaecc2b06b10f89686b797ba75ffad",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x33a64943a0eaecc2b06b10f89686b797ba75ffad"
+  }
+}

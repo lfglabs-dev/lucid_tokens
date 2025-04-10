@@ -1,0 +1,15 @@
+{
+  "symbol": "MAR3",
+  "name": "MAR3 TOKEN",
+  "address": "0x9d44c04ef10cbd4ba321e51a54f1354d0799feef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34493/thumb/favicon_%281%29.png?1705131274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9d44c04ef10cbd4ba321e51a54f1354d0799feef"
+  }
+}

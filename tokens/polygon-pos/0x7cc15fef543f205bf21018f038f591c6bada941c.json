@@ -1,0 +1,15 @@
+{
+  "symbol": "POLYCUB",
+  "name": "PolyCub",
+  "address": "0x7cc15fef543f205bf21018f038f591c6bada941c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24124/thumb/polycub.png?1646462759",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x7cc15fef543f205bf21018f038f591c6bada941c"
+  }
+}

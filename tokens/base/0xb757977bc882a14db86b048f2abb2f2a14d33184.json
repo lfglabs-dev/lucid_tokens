@@ -1,0 +1,16 @@
+{
+  "symbol": "DOGL",
+  "name": "DogLibre",
+  "address": "0xb757977bc882a14db86b048f2abb2f2a14d33184",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37011/thumb/doglibre.jpeg?1713141966",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd5eb7e91ae88ea2550f9bfd04208399c95df4dc7",
+    "base": "0xb757977bc882a14db86b048f2abb2f2a14d33184"
+  }
+}

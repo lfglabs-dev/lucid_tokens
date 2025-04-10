@@ -1,0 +1,15 @@
+{
+  "symbol": "rsETH",
+  "name": "KelpDao Restaked ETH",
+  "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37843/thumb/29242.png?1715747269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x4186bfc76e2e237523cbc30fd220fe055156b41f"
+  }
+}

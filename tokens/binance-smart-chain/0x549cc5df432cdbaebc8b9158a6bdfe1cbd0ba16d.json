@@ -1,0 +1,15 @@
+{
+  "symbol": "HWL",
+  "name": "HOWL",
+  "address": "0x549cc5df432cdbaebc8b9158a6bdfe1cbd0ba16d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20344/thumb/hwl.png?1636942327",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x549cc5df432cdbaebc8b9158a6bdfe1cbd0ba16d"
+  }
+}

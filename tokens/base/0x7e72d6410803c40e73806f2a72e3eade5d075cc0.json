@@ -1,0 +1,15 @@
+{
+  "symbol": "MOB",
+  "name": "Marvin",
+  "address": "0x7e72d6410803c40e73806f2a72e3eade5d075cc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38960/thumb/Marvin_200.png?1719692064",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7e72d6410803c40e73806f2a72e3eade5d075cc0"
+  }
+}

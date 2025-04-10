@@ -1,0 +1,15 @@
+{
+  "symbol": "FDC",
+  "name": "Fidance",
+  "address": "0x6d1a4650e83708b583c35d5e0952a0b46354ca9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27244/thumb/FDC_LOGO.jpg?1662883259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d1a4650e83708b583c35d5e0952a0b46354ca9b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "OCB",
+  "name": "OneCoinBuy",
+  "address": "0x3ec451733496b0ee147926cadf2fc58a2947300a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39317/thumb/ocb_token_logo.png?1721709060",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3ec451733496b0ee147926cadf2fc58a2947300a"
+  }
+}

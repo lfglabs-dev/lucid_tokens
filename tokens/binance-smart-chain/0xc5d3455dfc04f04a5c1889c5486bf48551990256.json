@@ -1,0 +1,15 @@
+{
+  "symbol": "SWIFT",
+  "name": "Swift Pad",
+  "address": "0xc5d3455dfc04f04a5c1889c5486bf48551990256",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33781/thumb/swiftpad_logo.jpg?1702980565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc5d3455dfc04f04a5c1889c5486bf48551990256"
+  }
+}

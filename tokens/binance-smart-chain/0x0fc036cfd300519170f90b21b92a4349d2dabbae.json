@@ -1,0 +1,15 @@
+{
+  "symbol": "TNT",
+  "name": "Trinity Token",
+  "address": "0x0fc036cfd300519170f90b21b92a4349d2dabbae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54243/thumb/TrinityPad_Icon_Transparent200.png?1738903805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0fc036cfd300519170f90b21b92a4349d2dabbae"
+  }
+}

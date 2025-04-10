@@ -1,0 +1,15 @@
+{
+  "symbol": "WEEBS",
+  "name": "WEEBS",
+  "address": "0x317ae555dd3d474c4427699a7841891d398fa5a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39873/thumb/Weebs_Token_Logo.png?1724617017",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x317ae555dd3d474c4427699a7841891d398fa5a0"
+  }
+}

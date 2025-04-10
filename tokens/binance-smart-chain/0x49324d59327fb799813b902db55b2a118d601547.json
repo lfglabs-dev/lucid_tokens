@@ -1,0 +1,15 @@
+{
+  "symbol": "BOSS",
+  "name": "Boss Token",
+  "address": "0x49324d59327fb799813b902db55b2a118d601547",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17927/thumb/XL7jo4j.png?1629809801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x49324d59327fb799813b902db55b2a118d601547"
+  }
+}

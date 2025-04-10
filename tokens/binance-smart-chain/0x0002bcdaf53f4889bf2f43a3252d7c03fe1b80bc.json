@@ -1,0 +1,18 @@
+{
+  "symbol": "GORPLE",
+  "name": "Gorples Coin",
+  "address": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38681/thumb/borpa.jpeg?1718333210",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xff33a6b3dc0127862eedd3978609404b22298a54",
+    "binance-smart-chain": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc",
+    "arbitrum-one": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc",
+    "base": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc"
+  }
+}

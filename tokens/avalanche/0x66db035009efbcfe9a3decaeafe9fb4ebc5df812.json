@@ -1,0 +1,15 @@
+{
+  "symbol": "BTF",
+  "name": "Bee Trade Finance",
+  "address": "0x66db035009efbcfe9a3decaeafe9fb4ebc5df812",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53962/thumb/photo_2025-01-24_11-07-27.jpg?1737791708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x66db035009efbcfe9a3decaeafe9fb4ebc5df812"
+  }
+}

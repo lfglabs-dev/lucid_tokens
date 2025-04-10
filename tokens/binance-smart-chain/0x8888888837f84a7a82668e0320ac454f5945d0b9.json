@@ -1,0 +1,15 @@
+{
+  "symbol": "WORK",
+  "name": "Work X Token",
+  "address": "0x8888888837f84a7a82668e0320ac454f5945d0b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33449/thumb/Work_X.png?1701857236",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8888888837f84a7a82668e0320ac454f5945d0b9"
+  }
+}

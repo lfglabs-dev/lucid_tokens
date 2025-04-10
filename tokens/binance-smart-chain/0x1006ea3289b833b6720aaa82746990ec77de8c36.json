@@ -1,0 +1,15 @@
+{
+  "symbol": "DBA",
+  "name": "Digital Bank of Africa",
+  "address": "0x1006ea3289b833b6720aaa82746990ec77de8c36",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19177/thumb/DBA-icon-black-08-01.jpg?1635159644",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1006ea3289b833b6720aaa82746990ec77de8c36"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "COST.d",
+  "name": "Costco Wholesale Corp - Dinari",
+  "address": "0xfdc1901e40c708e72661af607a8a027740a08676",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd17aff8fcf7698aabfb5f8be90aa2692774fa810",
+    "ethereum": "0xe5ad37798daa0231279859d4699cf8f466e8b020",
+    "blast": "0xfdc1901e40c708e72661af607a8a027740a08676",
+    "base": "0x70e97cac0d4eb845872cd41ae848e47d070ef45c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "4GS",
+  "name": "4GENTIC by Virtuals",
+  "address": "0x135fa55546758cf398da675a064f39d215ab1ff6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52809/thumb/profile_lowres_nobg.png?1734362695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x135fa55546758cf398da675a064f39d215ab1ff6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FLOKICASH",
+  "name": "FLOKI CASH",
+  "address": "0xa11ff9976018fda2a8c4ccfa6ffbe8423c5ab668",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29865/thumb/E68106E0-F8A1-406A-9C25-3B22644936A9.jpeg?1681890065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa11ff9976018fda2a8c4ccfa6ffbe8423c5ab668"
+  }
+}

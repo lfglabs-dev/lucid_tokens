@@ -1,0 +1,15 @@
+{
+  "symbol": "PAI",
+  "name": "Panther AI",
+  "address": "0x13a5c811093dd001c328b59a0cc9dec88951f042",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51321/thumb/PAIlogo.png?1730709497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x13a5c811093dd001c328b59a0cc9dec88951f042"
+  }
+}

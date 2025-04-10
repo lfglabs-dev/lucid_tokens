@@ -1,0 +1,15 @@
+{
+  "symbol": "ARCADIUM",
+  "name": "ARCADIUM",
+  "address": "0x3f374ed3c8e61a0d250f275609be2219005c021e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17717/thumb/4dyLxHe.png?1629085958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3f374ed3c8e61a0d250f275609be2219005c021e"
+  }
+}

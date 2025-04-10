@@ -1,0 +1,15 @@
+{
+  "symbol": "BIB",
+  "name": "BIB",
+  "address": "0x3cb20d96e866d128bc469a6e66505d46d7f9baba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39063/thumb/1000050721.jpg?1720171386",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3cb20d96e866d128bc469a6e66505d46d7f9baba"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "INTX",
+  "name": "IntentX Token",
+  "address": "0x7d27187eb33a7b1d99258ff222633670f84fa342",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38241/thumb/PFP_IX_2.png?1716881240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x4b7f28397b4294277e7825f224172944f4f5a877",
+    "base": "0x7d27187eb33a7b1d99258ff222633670f84fa342"
+  }
+}

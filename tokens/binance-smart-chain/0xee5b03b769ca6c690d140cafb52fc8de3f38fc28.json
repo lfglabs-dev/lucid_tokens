@@ -1,0 +1,15 @@
+{
+  "symbol": "HYPER",
+  "name": "HYPERCHAIN",
+  "address": "0xee5b03b769ca6c690d140cafb52fc8de3f38fc28",
+  "decimals": 7,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27847/thumb/IMG_20221015_231037_796.png?1666076945",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xee5b03b769ca6c690d140cafb52fc8de3f38fc28"
+  }
+}

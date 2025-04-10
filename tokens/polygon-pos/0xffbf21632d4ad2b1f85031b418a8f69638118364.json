@@ -1,0 +1,15 @@
+{
+  "symbol": "FAST",
+  "name": "Edge Video AI",
+  "address": "0xffbf21632d4ad2b1f85031b418a8f69638118364",
+  "decimals": 24,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37610/thumb/FAST.png?1715054804",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xffbf21632d4ad2b1f85031b418a8f69638118364"
+  }
+}

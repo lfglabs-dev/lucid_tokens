@@ -1,0 +1,15 @@
+{
+  "symbol": "HAT",
+  "name": "Joe Hat Token",
+  "address": "0x82fe038ea4b50f9c957da326c412ebd73462077c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24789/thumb/logo_%281%29.png?1649386782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x82fe038ea4b50f9c957da326c412ebd73462077c"
+  }
+}

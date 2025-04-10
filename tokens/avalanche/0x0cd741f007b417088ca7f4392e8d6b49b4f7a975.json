@@ -1,0 +1,15 @@
+{
+  "symbol": "KINGSHIT",
+  "name": "KINGSHIT",
+  "address": "0x0cd741f007b417088ca7f4392e8d6b49b4f7a975",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x0cd741f007b417088ca7f4392e8d6b49b4f7a975"
+  }
+}

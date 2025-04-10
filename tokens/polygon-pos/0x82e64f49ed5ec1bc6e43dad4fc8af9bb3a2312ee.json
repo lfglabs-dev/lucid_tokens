@@ -1,0 +1,21 @@
+{
+  "symbol": "aPolDAI",
+  "name": "Aave Polygon DAI",
+  "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32886/thumb/dai.png?1699769446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x018008bfb33d285247a21d44e50697654f754e63",
+    "metis-andromeda": "0x85abaddcae06efee2cb5f75f33b6471759efde24",
+    "xdai": "0xd0dd6cef72143e22cced4867eb0d5f2328715533",
+    "optimistic-ethereum": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "avalanche": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "arbitrum-one": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "polygon-pos": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee"
+  }
+}

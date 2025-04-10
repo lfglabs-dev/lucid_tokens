@@ -1,0 +1,15 @@
+{
+  "symbol": "POLLO",
+  "name": "PolloPal by Virtuals",
+  "address": "0x10ac13e54218470eed360d13a38c2bbafacb6167",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53287/thumb/Pollo_Small_Logo.png?1735995167",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x10ac13e54218470eed360d13a38c2bbafacb6167"
+  }
+}

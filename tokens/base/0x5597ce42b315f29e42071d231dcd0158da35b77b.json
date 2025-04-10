@@ -1,0 +1,15 @@
+{
+  "symbol": "KENDU",
+  "name": "Kendu Inu",
+  "address": "0x5597ce42b315f29e42071d231dcd0158da35b77b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51087/thumb/Based_Kendu_Logo_%281%29.png?1730019305",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5597ce42b315f29e42071d231dcd0158da35b77b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$tipsy",
+  "name": "TipsyCoin",
+  "address": "0xe097bceb09bfb18047cf259f321cc129b7beba5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24821/thumb/TipsyCoin-Icon.png?1649040735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe097bceb09bfb18047cf259f321cc129b7beba5e"
+  }
+}

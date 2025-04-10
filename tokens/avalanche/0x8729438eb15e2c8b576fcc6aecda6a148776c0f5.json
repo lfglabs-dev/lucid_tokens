@@ -1,0 +1,15 @@
+{
+  "symbol": "QI",
+  "name": "BENQI",
+  "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16362/thumb/GergDDN3_400x400.jpg?1644984441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5"
+  }
+}

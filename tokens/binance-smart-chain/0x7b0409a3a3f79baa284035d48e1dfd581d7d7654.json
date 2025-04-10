@@ -1,0 +1,15 @@
+{
+  "symbol": "RUPEE",
+  "name": "Rupee Token",
+  "address": "0x7b0409a3a3f79baa284035d48e1dfd581d7d7654",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14760/thumb/2_%284%29.png?1618274227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7b0409a3a3f79baa284035d48e1dfd581d7d7654"
+  }
+}

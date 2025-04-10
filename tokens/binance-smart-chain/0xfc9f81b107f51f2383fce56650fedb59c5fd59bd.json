@@ -1,0 +1,15 @@
+{
+  "symbol": "BRT",
+  "name": "BRT",
+  "address": "0xfc9f81b107f51f2383fce56650fedb59c5fd59bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25677/thumb/X0ZVax0H_400x400.jpg?1653366491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfc9f81b107f51f2383fce56650fedb59c5fd59bd"
+  }
+}

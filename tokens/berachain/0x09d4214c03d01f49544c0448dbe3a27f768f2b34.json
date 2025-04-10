@@ -1,0 +1,16 @@
+{
+  "symbol": "rUSD",
+  "name": "Reservoir Stablecoin",
+  "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+    "berachain": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34"
+  }
+}

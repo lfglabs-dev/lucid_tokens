@@ -1,0 +1,15 @@
+{
+  "symbol": "NVG8",
+  "name": "Navigate",
+  "address": "0x5d6cae0422a950dbd7918d1e74434a35156b3ba4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54565/thumb/nav_logo_transparent.png?1740379516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5d6cae0422a950dbd7918d1e74434a35156b3ba4"
+  }
+}

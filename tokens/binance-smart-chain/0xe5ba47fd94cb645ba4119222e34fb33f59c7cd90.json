@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFUU",
+  "name": "Safuu",
+  "address": "0xe5ba47fd94cb645ba4119222e34fb33f59c7cd90",
+  "decimals": 5,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24290/thumb/86tZ8IKj_400x400.jpg?1647257304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe5ba47fd94cb645ba4119222e34fb33f59c7cd90"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ASIX",
+  "name": "ASIX Token",
+  "address": "0xc98a8ec7a07f1b743e86896a52434c4c6a0dbc42",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23282/thumb/asix.png?1643535598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc98a8ec7a07f1b743e86896a52434c4c6a0dbc42"
+  }
+}

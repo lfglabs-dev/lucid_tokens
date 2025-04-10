@@ -1,0 +1,16 @@
+{
+  "symbol": "Mog",
+  "name": "Mog Coin",
+  "address": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31059/thumb/mog_logo.png?1689931973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+    "base": "0x2da56acb9ea78330f947bd57c54119debda7af71"
+  }
+}

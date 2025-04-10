@@ -1,0 +1,15 @@
+{
+  "symbol": "ORO",
+  "name": "Operon Origins",
+  "address": "0xfc4f5a4d1452b8dc6c3cb745db15b29c00812b19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20965/thumb/oro.png?1638152385",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfc4f5a4d1452b8dc6c3cb745db15b29c00812b19"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MBC",
+  "name": "Mining Base Coin",
+  "address": "0x7d28276933d6aa0ef1513f8b5e18dc492befefea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54424/thumb/MBC_token_icon.png?1739604747",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7d28276933d6aa0ef1513f8b5e18dc492befefea"
+  }
+}

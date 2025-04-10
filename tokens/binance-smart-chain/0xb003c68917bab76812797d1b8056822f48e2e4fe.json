@@ -1,0 +1,15 @@
+{
+  "symbol": "YUMMY",
+  "name": "YUMMY",
+  "address": "0xb003c68917bab76812797d1b8056822f48e2e4fe",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15589/thumb/eFjXvUxN_400x400.jpg?1624904467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb003c68917bab76812797d1b8056822f48e2e4fe"
+  }
+}

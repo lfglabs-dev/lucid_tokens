@@ -1,0 +1,15 @@
+{
+  "symbol": "RISITA",
+  "name": "Risitas Coin",
+  "address": "0xe6f47303032a09c8c0f8ebb713c00e6ed345e8c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36943/thumb/risitas.jpeg?1712890887",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe6f47303032a09c8c0f8ebb713c00e6ed345e8c3"
+  }
+}

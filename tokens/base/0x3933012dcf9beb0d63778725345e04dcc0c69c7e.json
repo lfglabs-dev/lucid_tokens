@@ -1,0 +1,15 @@
+{
+  "symbol": "UNLUCKY",
+  "name": "UNLUCKY",
+  "address": "0x3933012dcf9beb0d63778725345e04dcc0c69c7e",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38691/thumb/unlucky.jpeg?1718346998",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3933012dcf9beb0d63778725345e04dcc0c69c7e"
+  }
+}

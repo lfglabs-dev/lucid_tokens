@@ -1,0 +1,15 @@
+{
+  "symbol": "AINU",
+  "name": "ANON INU",
+  "address": "0x64f36701138f0e85cc10c34ea535fdbadcb54147",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17151/thumb/LOGO-AINU-COIN-GECKO.png?1649142760",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x64f36701138f0e85cc10c34ea535fdbadcb54147"
+  }
+}

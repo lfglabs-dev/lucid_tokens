@@ -1,0 +1,16 @@
+{
+  "symbol": "INJ",
+  "name": "Injective Protocol",
+  "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12882/thumb/Secondary_Symbol.png?1628233237",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "binance-smart-chain": "0xa2b726b1145a4773f68593cf171187d8ebe4d495"
+  }
+}

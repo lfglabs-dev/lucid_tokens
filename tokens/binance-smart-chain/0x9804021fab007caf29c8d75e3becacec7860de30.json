@@ -1,0 +1,15 @@
+{
+  "symbol": "EYE",
+  "name": "THE EYE",
+  "address": "0x9804021fab007caf29c8d75e3becacec7860de30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54800/thumb/transparent_logo_%281%29.png?1741696657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9804021fab007caf29c8d75e3becacec7860de30"
+  }
+}

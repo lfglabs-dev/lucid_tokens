@@ -1,0 +1,15 @@
+{
+  "symbol": "BREW",
+  "name": "Brewlabs",
+  "address": "0x73b7f22618e06f7d15ff5bf11b506016cd3758da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54305/thumb/brew.jpg?1739181018",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x73b7f22618e06f7d15ff5bf11b506016cd3758da"
+  }
+}

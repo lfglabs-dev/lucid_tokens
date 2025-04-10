@@ -1,0 +1,15 @@
+{
+  "symbol": "$WeeDE",
+  "name": "WeeDE",
+  "address": "0x35c9e8d97f7e24349e56cd048b30d3eae6fd7ff8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52457/thumb/WD1_highres.png?1733391495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x35c9e8d97f7e24349e56cd048b30d3eae6fd7ff8"
+  }
+}

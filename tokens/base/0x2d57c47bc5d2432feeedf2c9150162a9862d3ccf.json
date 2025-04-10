@@ -1,0 +1,15 @@
+{
+  "symbol": "DICKBUTT",
+  "name": "Dickbutt",
+  "address": "0x2d57c47bc5d2432feeedf2c9150162a9862d3ccf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53248/thumb/200.png?1735869828",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2d57c47bc5d2432feeedf2c9150162a9862d3ccf"
+  }
+}

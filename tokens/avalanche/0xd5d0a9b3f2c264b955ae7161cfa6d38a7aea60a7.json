@@ -1,0 +1,15 @@
+{
+  "symbol": "abcPHAR",
+  "name": "abcPHAR",
+  "address": "0xd5d0a9b3f2c264b955ae7161cfa6d38a7aea60a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39493/thumb/abcPHAR-black.png?1722492271",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xd5d0a9b3f2c264b955ae7161cfa6d38a7aea60a7"
+  }
+}

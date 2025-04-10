@@ -1,0 +1,15 @@
+{
+  "symbol": "QUILL",
+  "name": "InkFinance",
+  "address": "0xf3e5914ca1f678e0a3a38031b5514682e3450919",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28513/thumb/photo_2022-10-14_21-16-54.jpg?1671185075",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf3e5914ca1f678e0a3a38031b5514682e3450919"
+  }
+}

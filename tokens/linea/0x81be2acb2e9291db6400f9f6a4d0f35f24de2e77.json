@@ -1,0 +1,15 @@
+{
+  "symbol": "LPUSS",
+  "name": "Linpuss",
+  "address": "0x81be2acb2e9291db6400f9f6a4d0f35f24de2e77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51867/thumb/linpuss_logo.png?1732093865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x81be2acb2e9291db6400f9f6a4d0f35f24de2e77"
+  }
+}

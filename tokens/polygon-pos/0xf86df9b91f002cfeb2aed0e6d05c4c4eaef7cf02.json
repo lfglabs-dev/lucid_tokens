@@ -1,0 +1,15 @@
+{
+  "symbol": "Pory",
+  "name": "Porygon",
+  "address": "0xf86df9b91f002cfeb2aed0e6d05c4c4eaef7cf02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34066/thumb/PORY_COIN.jpg?1703811448",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf86df9b91f002cfeb2aed0e6d05c4c4eaef7cf02"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FIWA",
+  "name": "Defi Warrior Token",
+  "address": "0x633237c6fa30fae46cc5bb22014da30e50a718cc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18208/thumb/defi_warrior.PNG?1630986310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x633237c6fa30fae46cc5bb22014da30e50a718cc"
+  }
+}

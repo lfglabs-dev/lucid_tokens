@@ -1,0 +1,15 @@
+{
+  "symbol": "$MRKT",
+  "name": "BLCKMRKT",
+  "address": "0x2133031f5acbc493572c02f271186f241cd8d6a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54740/thumb/base_szn.png?1741282709",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2133031f5acbc493572c02f271186f241cd8d6a5"
+  }
+}

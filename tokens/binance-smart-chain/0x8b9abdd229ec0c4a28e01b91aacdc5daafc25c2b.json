@@ -1,0 +1,15 @@
+{
+  "symbol": "STAR10",
+  "name": "Ronaldinho Coin",
+  "address": "0x8b9abdd229ec0c4a28e01b91aacdc5daafc25c2b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54672/thumb/ronaldinho.png?1740968870",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8b9abdd229ec0c4a28e01b91aacdc5daafc25c2b"
+  }
+}

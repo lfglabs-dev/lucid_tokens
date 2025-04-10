@@ -1,0 +1,15 @@
+{
+  "symbol": "ZEFI",
+  "name": "ZCore Finance",
+  "address": "0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15346/thumb/icone_marca.png?1620623867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07"
+  }
+}

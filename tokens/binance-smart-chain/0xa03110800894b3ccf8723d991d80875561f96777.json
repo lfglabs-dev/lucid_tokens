@@ -1,0 +1,15 @@
+{
+  "symbol": "BGVT",
+  "name": "BIT GAME VERSE TOKEN",
+  "address": "0xa03110800894b3ccf8723d991d80875561f96777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa03110800894b3ccf8723d991d80875561f96777"
+  }
+}

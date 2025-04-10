@@ -1,0 +1,15 @@
+{
+  "symbol": "TSD",
+  "name": "TSD Stablecoin",
+  "address": "0x4fbf0429599460d327bd5f55625e30e4fc066095",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18678/thumb/TSDfinalresize.png?1632963741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x4fbf0429599460d327bd5f55625e30e4fc066095"
+  }
+}

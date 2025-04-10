@@ -1,0 +1,15 @@
+{
+  "symbol": "TIMI",
+  "name": "This Is My Iguana",
+  "address": "0x9beec80e62aa257ced8b0edd8692f79ee8783777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39361/thumb/200x200.png?1721892939",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9beec80e62aa257ced8b0edd8692f79ee8783777"
+  }
+}

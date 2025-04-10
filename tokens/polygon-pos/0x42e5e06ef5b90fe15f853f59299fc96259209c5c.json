@@ -1,0 +1,15 @@
+{
+  "symbol": "KEK",
+  "name": "Aavegotchi KEK",
+  "address": "0x42e5e06ef5b90fe15f853f59299fc96259209c5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24739/thumb/kek.png?1648769879",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x42e5e06ef5b90fe15f853f59299fc96259209c5c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BODAV2",
+  "name": "BODA",
+  "address": "0xdc847755343c3a2b94d6afc0aae57651e1b14064",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19168/thumb/BODAV2-New-logo-round-200.png?1644477982",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdc847755343c3a2b94d6afc0aae57651e1b14064"
+  }
+}

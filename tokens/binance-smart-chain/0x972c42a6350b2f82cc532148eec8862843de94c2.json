@@ -1,0 +1,16 @@
+{
+  "symbol": "OLM",
+  "name": "OLM Coin",
+  "address": "0x972c42a6350b2f82cc532148eec8862843de94c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37186/thumb/Ora.jpeg?1713623805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5018913f2fdf33971864804ddb5fca25c539032",
+    "binance-smart-chain": "0x972c42a6350b2f82cc532148eec8862843de94c2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DIGI",
+  "name": "DIGIVERSE",
+  "address": "0x7ec0da57eba5398470c6bcb5518406d885240c85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34606/thumb/Logo_%281%29.png?1705492916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7ec0da57eba5398470c6bcb5518406d885240c85"
+  }
+}

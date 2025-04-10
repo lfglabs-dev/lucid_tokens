@@ -1,0 +1,15 @@
+{
+  "symbol": "BRAZA",
+  "name": "BRAZA by Virtuals",
+  "address": "0xbbf81ddc9fb90cf9146b495ce0546a3460fd1769",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53741/thumb/braza_logo.png?1737151718",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbbf81ddc9fb90cf9146b495ce0546a3460fd1769"
+  }
+}

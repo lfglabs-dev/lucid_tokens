@@ -1,0 +1,18 @@
+{
+  "symbol": "SURE",
+  "name": "inSure (PoS)",
+  "address": "0xf88332547c680f755481bf489d890426248bb275",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10354/thumb/logo-grey-circle.png?1614910406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+    "binance-smart-chain": "0x9b17baadf0f21f03e35249e0e59723f34994f806",
+    "avalanche": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+    "polygon-pos": "0xf88332547c680f755481bf489d890426248bb275"
+  }
+}

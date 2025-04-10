@@ -1,0 +1,15 @@
+{
+  "symbol": "LYNX",
+  "name": "Lynex",
+  "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34874/thumb/LogoCircular_200x200.png?1706462851",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af"
+  }
+}

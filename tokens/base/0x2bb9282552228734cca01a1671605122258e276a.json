@@ -1,0 +1,18 @@
+{
+  "symbol": "GME.d",
+  "name": "GameStop Corp. Class A - Dinari",
+  "address": "0x2bb9282552228734cca01a1671605122258e276a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39619/thumb/Dinari-token-icon.png?1723148884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb415998a7bb6f11dc589e0eb20adf586ba32f12a",
+    "blast": "0xe2a8b9d1a129df339118c5b10eeefe4dab9334e1",
+    "ethereum": "0x7fb5da212239593f4bf544fbe2ec70ce91f0afdb",
+    "base": "0x2bb9282552228734cca01a1671605122258e276a"
+  }
+}

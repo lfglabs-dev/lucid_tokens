@@ -1,0 +1,15 @@
+{
+  "symbol": "BKIT",
+  "name": "Bangkit",
+  "address": "0x262a9f4e84efa2816d87a68606bb4c1ea3874bf1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52416/thumb/logo.png?1733309160",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x262a9f4e84efa2816d87a68606bb4c1ea3874bf1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SERAPH",
+  "name": "Seraph by Virtuals",
+  "address": "0x4f81837c2f4a189a0b69370027cc2627d93785b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52442/thumb/fire_guy.png?1733351187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4f81837c2f4a189a0b69370027cc2627d93785b4"
+  }
+}

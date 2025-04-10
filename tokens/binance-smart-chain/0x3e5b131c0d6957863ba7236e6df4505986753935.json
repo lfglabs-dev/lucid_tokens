@@ -1,0 +1,15 @@
+{
+  "symbol": "Pepe2025",
+  "name": "Pepe2025",
+  "address": "0x3e5b131c0d6957863ba7236e6df4505986753935",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55037/thumb/pepe2025-logo.jpg?1743327485",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3e5b131c0d6957863ba7236e6df4505986753935"
+  }
+}

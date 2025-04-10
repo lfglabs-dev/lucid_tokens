@@ -1,0 +1,15 @@
+{
+  "symbol": "$BEANY",
+  "name": "Beany Coin",
+  "address": "0xc65364c35d8e2aaba17d00e468c29576f3ec105c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35823/thumb/Design_sans_titre_%2843%29.png?1709886949",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xc65364c35d8e2aaba17d00e468c29576f3ec105c"
+  }
+}

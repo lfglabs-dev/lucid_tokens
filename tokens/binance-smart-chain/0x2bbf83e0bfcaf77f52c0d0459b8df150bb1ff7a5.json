@@ -1,0 +1,15 @@
+{
+  "symbol": "BAT",
+  "name": "BAT COIN",
+  "address": "0x2bbf83e0bfcaf77f52c0d0459b8df150bb1ff7a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51614/thumb/2hV31SbphQ5hPpNewUsKLf3kfB4GbpFrABWRCIHNdHtwee6dC.jpg?1731628735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2bbf83e0bfcaf77f52c0d0459b8df150bb1ff7a5"
+  }
+}

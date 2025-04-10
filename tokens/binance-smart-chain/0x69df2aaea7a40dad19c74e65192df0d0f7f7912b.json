@@ -1,0 +1,15 @@
+{
+  "symbol": "ALME",
+  "name": "ALITA",
+  "address": "0x69df2aaea7a40dad19c74e65192df0d0f7f7912b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36641/thumb/photo_2024-03-26_10-18-51.png?1712033931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x69df2aaea7a40dad19c74e65192df0d0f7f7912b"
+  }
+}

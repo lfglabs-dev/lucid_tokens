@@ -1,0 +1,15 @@
+{
+  "symbol": "PACA",
+  "name": "PACA AI",
+  "address": "0x3639e6f4c224ebd1bf6373c3d97917d33e0492bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52625/thumb/AN__icon_white.png?1733814808",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3639e6f4c224ebd1bf6373c3d97917d33e0492bb"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBAAI",
+  "name": "SHIBAAI",
+  "address": "0xc35ed584b24fd2d0885708e370343c43e20f3424",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35485/thumb/hero-shiba_%281%29.png?1708851072",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc35ed584b24fd2d0885708e370343c43e20f3424"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SIM",
+  "name": "Assimilate",
+  "address": "0x749e5334752466cda899b302ed4176b8573dc877",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52377/thumb/SIM_LOGO.jpeg?1733253732",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x749e5334752466cda899b302ed4176b8573dc877"
+  }
+}

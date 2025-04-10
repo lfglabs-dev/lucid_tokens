@@ -1,0 +1,15 @@
+{
+  "symbol": "SNAIL",
+  "name": "SnailBrook",
+  "address": "0x6bc40d4099f9057b23af309c08d935b890d7adc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29922/thumb/snailbrook.jpeg?1682054776",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6bc40d4099f9057b23af309c08d935b890d7adc0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "ZAI",
+  "name": "ZAIBOT.io",
+  "address": "0x68449870eea84453044bd430822827e21fd8f101",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35781/thumb/zai.jpeg?1709795384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x68449870eea84453044bd430822827e21fd8f101",
+    "blast": "0x68449870eea84453044bd430822827e21fd8f101",
+    "ethereum": "0x68449870eea84453044bd430822827e21fd8f101"
+  }
+}

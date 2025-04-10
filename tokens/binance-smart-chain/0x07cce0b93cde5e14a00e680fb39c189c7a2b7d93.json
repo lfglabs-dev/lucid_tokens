@@ -1,0 +1,15 @@
+{
+  "symbol": "BPT",
+  "name": "Best Patent Token",
+  "address": "0x07cce0b93cde5e14a00e680fb39c189c7a2b7d93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53756/thumb/BPTimage.jpg?1737185342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07cce0b93cde5e14a00e680fb39c189c7a2b7d93"
+  }
+}

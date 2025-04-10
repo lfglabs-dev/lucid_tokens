@@ -1,0 +1,18 @@
+{
+  "symbol": "USD0",
+  "name": "Usual USD",
+  "address": "0x758a3e0b1f842c9306b783f8a4078c6c8c03a270",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38272/thumb/USD0LOGO.png?1716962811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
+    "binance-smart-chain": "0x758a3e0b1f842c9306b783f8a4078c6c8c03a270",
+    "base": "0x758a3e0b1f842c9306b783f8a4078c6c8c03a270",
+    "arbitrum-one": "0x35f1c5cb7fb977e669fd244c567da99d8a3a6850"
+  }
+}

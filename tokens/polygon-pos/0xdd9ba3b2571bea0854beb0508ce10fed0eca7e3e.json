@@ -1,0 +1,15 @@
+{
+  "symbol": "EDAT",
+  "name": "EnviDa",
+  "address": "0xdd9ba3b2571bea0854beb0508ce10fed0eca7e3e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20342/thumb/logo1.png?1636941786",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xdd9ba3b2571bea0854beb0508ce10fed0eca7e3e"
+  }
+}

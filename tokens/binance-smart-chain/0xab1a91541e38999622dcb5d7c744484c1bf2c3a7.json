@@ -1,0 +1,15 @@
+{
+  "symbol": "Hachi Inu",
+  "name": "Hachi Inu",
+  "address": "0xab1a91541e38999622dcb5d7c744484c1bf2c3a7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53294/thumb/photo_2025-01-03_10.10.53.png?1735998918",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xab1a91541e38999622dcb5d7c744484c1bf2c3a7"
+  }
+}

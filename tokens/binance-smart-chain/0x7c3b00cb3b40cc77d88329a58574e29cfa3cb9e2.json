@@ -1,0 +1,16 @@
+{
+  "symbol": "MSS",
+  "name": "MintStakeShare",
+  "address": "0x7c3b00cb3b40cc77d88329a58574e29cfa3cb9e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39424/thumb/logo200x200.png?1722230695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7c3b00cb3b40cc77d88329a58574e29cfa3cb9e2",
+    "base": "0x4b556f3a476b58be7f35df77edd68fbe5076f706"
+  }
+}

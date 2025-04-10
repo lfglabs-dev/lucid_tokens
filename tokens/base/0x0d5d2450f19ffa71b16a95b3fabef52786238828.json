@@ -1,0 +1,15 @@
+{
+  "symbol": "XTGPT",
+  "name": "XtremeGPT",
+  "address": "0x0d5d2450f19ffa71b16a95b3fabef52786238828",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52299/thumb/xtremegpt.png?1733045634",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0d5d2450f19ffa71b16a95b3fabef52786238828"
+  }
+}

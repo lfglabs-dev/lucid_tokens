@@ -1,0 +1,15 @@
+{
+  "symbol": "EXC",
+  "name": "ElonXCat",
+  "address": "0xa4b3445a58111abd407c34402ab59b0fe05bff5a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55076/thumb/WhatsApp_Image_2025-04-01_at_1.45.11_PM-removebg-preview_%281%29.png?1743600495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa4b3445a58111abd407c34402ab59b0fe05bff5a"
+  }
+}

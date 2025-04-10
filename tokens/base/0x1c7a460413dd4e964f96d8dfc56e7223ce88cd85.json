@@ -1,0 +1,16 @@
+{
+  "symbol": "SEAM",
+  "name": "Seamless",
+  "address": "0x1c7a460413dd4e964f96d8dfc56e7223ce88cd85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33480/thumb/Seamless_Logo_Black_Transparent.png?1702019657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1c7a460413dd4e964f96d8dfc56e7223ce88cd85",
+    "ethereum": "0x6b66ccd1340c479b07b390d326eadcbb84e726ba"
+  }
+}

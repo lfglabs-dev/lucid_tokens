@@ -1,0 +1,15 @@
+{
+  "symbol": "ITC",
+  "name": "ITC",
+  "address": "0x146171eb1c1e32faefcfdabc3c470b83197adb60",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15943/thumb/73Gfsv9M_400x400.jpg?1622460540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x146171eb1c1e32faefcfdabc3c470b83197adb60"
+  }
+}

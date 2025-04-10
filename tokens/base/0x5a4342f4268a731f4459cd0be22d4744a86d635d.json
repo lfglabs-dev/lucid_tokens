@@ -1,0 +1,15 @@
+{
+  "symbol": "ARC",
+  "name": "ARC by Virtuals",
+  "address": "0x5a4342f4268a731f4459cd0be22d4744a86d635d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55001/thumb/reactor_icon.png?1743156040",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5a4342f4268a731f4459cd0be22d4744a86d635d"
+  }
+}

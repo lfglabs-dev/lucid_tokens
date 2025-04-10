@@ -1,0 +1,15 @@
+{
+  "symbol": "DRF",
+  "name": "DRIFE",
+  "address": "0x9400aa8eb5126d20cde45c7822836bfb70f19878",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17566/thumb/7BAWjuKB_400x400.jpg?1628394436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9400aa8eb5126d20cde45c7822836bfb70f19878"
+  }
+}

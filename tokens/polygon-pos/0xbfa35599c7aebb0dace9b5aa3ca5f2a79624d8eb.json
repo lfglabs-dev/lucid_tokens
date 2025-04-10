@@ -1,0 +1,15 @@
+{
+  "symbol": "RETRO",
+  "name": "RETRO",
+  "address": "0xbfa35599c7aebb0dace9b5aa3ca5f2a79624d8eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31136/thumb/retro.png?1690885867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xbfa35599c7aebb0dace9b5aa3ca5f2a79624d8eb"
+  }
+}

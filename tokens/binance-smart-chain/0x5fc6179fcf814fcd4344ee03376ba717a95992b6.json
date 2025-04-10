@@ -1,0 +1,15 @@
+{
+  "symbol": "VCC",
+  "name": "Victorum",
+  "address": "0x5fc6179fcf814fcd4344ee03376ba717a95992b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17391/thumb/Victorum-logo200X200.png?1627525058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5fc6179fcf814fcd4344ee03376ba717a95992b6"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "WZEDX",
+  "name": "Wrapped ZEDXION from ZEDX",
+  "address": "0x567556a7493fb7a22d2fd158dd4c766a98705f96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38099/thumb/wzedx.png?1716526998",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zedxion": "0x3f7be9db9d37bd89c3fa722bb29ba17300c18fc8",
+    "binance-smart-chain": "0x567556a7493fb7a22d2fd158dd4c766a98705f96"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TRUSTNFT",
+  "name": "TrustNFT",
+  "address": "0x08f725d2809fda409bc23493f3615a4c85a22d7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20478/thumb/logo-3_%281%29.png?1637114682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x08f725d2809fda409bc23493f3615a4c85a22d7d"
+  }
+}

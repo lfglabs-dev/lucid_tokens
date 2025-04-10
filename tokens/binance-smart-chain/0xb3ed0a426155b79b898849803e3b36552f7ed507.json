@@ -1,0 +1,20 @@
+{
+  "symbol": "PENDLE",
+  "name": "Pendle",
+  "address": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1634196276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x808507121b80c02388fad14726482e061b8da827",
+    "optimistic-ethereum": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
+    "sonic": "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b",
+    "binance-smart-chain": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+    "arbitrum-one": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "base": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e"
+  }
+}

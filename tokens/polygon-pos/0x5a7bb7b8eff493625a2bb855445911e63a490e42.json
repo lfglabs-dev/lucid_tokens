@@ -1,0 +1,15 @@
+{
+  "symbol": "TSUBASAUT",
+  "name": "TSUBASA Utility Token",
+  "address": "0x5a7bb7b8eff493625a2bb855445911e63a490e42",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31796/thumb/TSUBASAUT.png?1695026842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5a7bb7b8eff493625a2bb855445911e63a490e42"
+  }
+}

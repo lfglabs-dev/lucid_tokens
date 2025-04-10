@@ -1,0 +1,15 @@
+{
+  "symbol": "DOG",
+  "name": "Base Dog",
+  "address": "0x3b916b8f6a710e9240ff08c1dd646dd8e8ed9e1e",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36703/thumb/200x200.png?1712119865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3b916b8f6a710e9240ff08c1dd646dd8e8ed9e1e"
+  }
+}

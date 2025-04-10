@@ -1,0 +1,15 @@
+{
+  "symbol": "PLSR",
+  "name": "Pulsar",
+  "address": "0x7a842193d291840fc38b45f991c5b8cc908f8a7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54221/thumb/_PLSR_256x256.png?1738859327",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x7a842193d291840fc38b45f991c5b8cc908f8a7c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "vUSDC",
+  "name": "Venus USDC",
+  "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13906/thumb/usdc.png?1612799563",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8"
+  }
+}

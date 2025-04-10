@@ -1,0 +1,15 @@
+{
+  "symbol": "JTT",
+  "name": "Justus Token",
+  "address": "0xcdb3d3642fb4d48d2b5e4fb4a014448a2761c063",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31812/thumb/jtt.jpeg?1695203240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcdb3d3642fb4d48d2b5e4fb4a014448a2761c063"
+  }
+}

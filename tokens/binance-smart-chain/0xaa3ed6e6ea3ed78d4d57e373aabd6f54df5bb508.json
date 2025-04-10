@@ -1,0 +1,15 @@
+{
+  "symbol": "NGA",
+  "name": "NGA TIGER",
+  "address": "0xaa3ed6e6ea3ed78d4d57e373aabd6f54df5bb508",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29633/thumb/nga200.png?1680158811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaa3ed6e6ea3ed78d4d57e373aabd6f54df5bb508"
+  }
+}

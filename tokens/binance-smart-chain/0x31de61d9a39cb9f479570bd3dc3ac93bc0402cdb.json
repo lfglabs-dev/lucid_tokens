@@ -1,0 +1,15 @@
+{
+  "symbol": "NFTPUNK",
+  "name": "NFTPunk.Finance",
+  "address": "0x31de61d9a39cb9f479570bd3dc3ac93bc0402cdb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15544/thumb/200x200%281%29.png?1628508990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x31de61d9a39cb9f479570bd3dc3ac93bc0402cdb"
+  }
+}

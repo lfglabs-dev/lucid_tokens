@@ -1,0 +1,15 @@
+{
+  "symbol": "GROKINU",
+  "name": "Grok Inu",
+  "address": "0xd08b9e557d1f64c8dd50a168453ea302a83e47fc",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33728/thumb/Grok_Inu_logo_200x200.png?1702888468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd08b9e557d1f64c8dd50a168453ea302a83e47fc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RDAT",
+  "name": "RData",
+  "address": "0x4498cd8ba045e00673402353f5a4347562707e7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39174/thumb/Q7oVa2cC_400x400.png?1720799391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4498cd8ba045e00673402353f5a4347562707e7d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LESBIAN",
+  "name": "Lesbian Inu",
+  "address": "0x15a133ba390ffd210c13a03950f0d2dfe6e14b84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37873/thumb/Lesbian_inu_200x200_.png?1715830516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x15a133ba390ffd210c13a03950f0d2dfe6e14b84"
+  }
+}

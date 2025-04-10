@@ -1,0 +1,16 @@
+{
+  "symbol": "KLIMA",
+  "name": "Klima DAO",
+  "address": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19169/thumb/klima-logo.png?1634606729",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+    "base": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "YFO",
+  "name": "YFIONE",
+  "address": "0xb653e9da791dd33e24cd687260c7c281928411ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35841/thumb/YFIONE.png?1709889813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb653e9da791dd33e24cd687260c7c281928411ba"
+  }
+}

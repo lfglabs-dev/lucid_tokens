@@ -1,0 +1,16 @@
+{
+  "symbol": "POLYPAD",
+  "name": "POLYPAD.com",
+  "address": "0x8ae619d633cce175a2fbcfa1cea119ddc80f1342",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24905/thumb/BXApUK87_400x400.png?1649335541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x30ea765d4dda26e0f89e1b23a7c7b2526b7d29ec",
+    "binance-smart-chain": "0x8ae619d633cce175a2fbcfa1cea119ddc80f1342"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "NEXT",
+  "name": "ShopNEXT Loyalty Token",
+  "address": "0xa6c59de838f1eeb82d86f5af0750f5f656439999",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28681/thumb/shopnex.jpg?1673245875",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa6c59de838f1eeb82d86f5af0750f5f656439999"
+  }
+}

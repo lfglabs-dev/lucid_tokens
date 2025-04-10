@@ -1,0 +1,16 @@
+{
+  "symbol": "bCOLX",
+  "name": "ColossusXT",
+  "address": "0xf8acf86194443dcde55fc5b9e448e183c290d8cb",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/966/thumb/colossusxt.png?1547034843",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8acf86194443dcde55fc5b9e448e183c290d8cb",
+    "arbitrum-one": "0xe5cca68b9e1d5575b7e3062fa34b0c725b003a69"
+  }
+}

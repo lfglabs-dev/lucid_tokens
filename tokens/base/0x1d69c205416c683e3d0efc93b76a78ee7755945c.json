@@ -1,0 +1,15 @@
+{
+  "symbol": "boots",
+  "name": "boots",
+  "address": "0x1d69c205416c683e3d0efc93b76a78ee7755945c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52566/thumb/boots_token_logo.jpg?1733672863",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1d69c205416c683e3d0efc93b76a78ee7755945c"
+  }
+}

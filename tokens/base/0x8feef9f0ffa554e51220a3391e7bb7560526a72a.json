@@ -1,0 +1,15 @@
+{
+  "symbol": "SAGE ",
+  "name": "0xsim by Virtuals",
+  "address": "0x8feef9f0ffa554e51220a3391e7bb7560526a72a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53223/thumb/coingecko.png?1735754215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8feef9f0ffa554e51220a3391e7bb7560526a72a"
+  }
+}

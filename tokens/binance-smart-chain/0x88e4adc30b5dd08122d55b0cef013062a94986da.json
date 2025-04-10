@@ -1,0 +1,15 @@
+{
+  "symbol": "CRTAI",
+  "name": "CRT AI NETWORK",
+  "address": "0x88e4adc30b5dd08122d55b0cef013062a94986da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39162/thumb/CRT_200x200.png?1720778160",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x88e4adc30b5dd08122d55b0cef013062a94986da"
+  }
+}

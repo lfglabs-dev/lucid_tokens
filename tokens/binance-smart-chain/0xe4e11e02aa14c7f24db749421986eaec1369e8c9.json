@@ -1,0 +1,15 @@
+{
+  "symbol": "MNTC",
+  "name": "Minati",
+  "address": "0xe4e11e02aa14c7f24db749421986eaec1369e8c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32012/thumb/MNTC.jpg?1696042729",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe4e11e02aa14c7f24db749421986eaec1369e8c9"
+  }
+}

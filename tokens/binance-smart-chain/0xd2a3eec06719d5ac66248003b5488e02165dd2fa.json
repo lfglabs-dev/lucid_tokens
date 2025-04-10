@@ -1,0 +1,15 @@
+{
+  "symbol": "PAXE",
+  "name": "Paxe Token",
+  "address": "0xd2a3eec06719d5ac66248003b5488e02165dd2fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39019/thumb/logo512.png?1719937740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd2a3eec06719d5ac66248003b5488e02165dd2fa"
+  }
+}

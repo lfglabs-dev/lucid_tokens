@@ -1,0 +1,16 @@
+{
+  "symbol": "WNT",
+  "name": "Wicrypt Network Token",
+  "address": "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21223/thumb/wicrypt.PNG?1638740788",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689",
+    "arbitrum-one": "0xad4b9c1fbf4923061814dd9d5732eb703faa53d4"
+  }
+}

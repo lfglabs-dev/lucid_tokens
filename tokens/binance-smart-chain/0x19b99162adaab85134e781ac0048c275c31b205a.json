@@ -1,0 +1,15 @@
+{
+  "symbol": "TAUR",
+  "name": "Marnotaur",
+  "address": "0x19b99162adaab85134e781ac0048c275c31b205a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18655/thumb/taur.PNG?1632795749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x19b99162adaab85134e781ac0048c275c31b205a"
+  }
+}

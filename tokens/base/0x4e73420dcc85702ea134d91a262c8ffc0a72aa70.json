@@ -1,0 +1,15 @@
+{
+  "symbol": "SKIPUP",
+  "name": "SKI MASK PUP",
+  "address": "0x4e73420dcc85702ea134d91a262c8ffc0a72aa70",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38093/thumb/SkiPup_Logo.png?1716486539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4e73420dcc85702ea134d91a262c8ffc0a72aa70"
+  }
+}

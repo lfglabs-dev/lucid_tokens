@@ -1,0 +1,15 @@
+{
+  "symbol": "NBP",
+  "name": "NFTBomb Protocol",
+  "address": "0x74c22834744e8d5e36c79420ff7b057964aba8a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20517/thumb/nft_bomb.PNG?1637188326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x74c22834744e8d5e36c79420ff7b057964aba8a7"
+  }
+}

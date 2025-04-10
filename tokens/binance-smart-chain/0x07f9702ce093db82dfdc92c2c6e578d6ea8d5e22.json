@@ -1,0 +1,16 @@
+{
+  "symbol": "OBT",
+  "name": "Oobit",
+  "address": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19855/thumb/obt.png?1636062272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22",
+    "binance-smart-chain": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22"
+  }
+}

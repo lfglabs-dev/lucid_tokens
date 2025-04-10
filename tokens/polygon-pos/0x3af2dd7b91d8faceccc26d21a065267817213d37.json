@@ -1,0 +1,15 @@
+{
+  "symbol": "RIB",
+  "name": "RibusToken",
+  "address": "0x3af2dd7b91d8faceccc26d21a065267817213d37",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35111/thumb/icon-ribus-200.png?1707391243",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3af2dd7b91d8faceccc26d21a065267817213d37"
+  }
+}

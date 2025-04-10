@@ -1,0 +1,15 @@
+{
+  "symbol": "WSDM",
+  "name": "Wisdomise",
+  "address": "0x5f2f8818002dc64753daedf4a6cb2ccb757cd220",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36114/thumb/Logo-Token-Colored.png?1710488035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5f2f8818002dc64753daedf4a6cb2ccb757cd220"
+  }
+}

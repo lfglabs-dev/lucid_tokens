@@ -1,0 +1,15 @@
+{
+  "symbol": "am3CRV",
+  "name": "Curve.fi amDAI/amUSDC/amUSDT",
+  "address": "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26740/thumb/W1sQNVWo_400x400.jpeg?1659953467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171"
+  }
+}

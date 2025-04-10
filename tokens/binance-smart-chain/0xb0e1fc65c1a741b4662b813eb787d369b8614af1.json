@@ -1,0 +1,15 @@
+{
+  "symbol": "IF",
+  "name": "Impossible Finance",
+  "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15009/thumb/if.PNG?1619415244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1"
+  }
+}

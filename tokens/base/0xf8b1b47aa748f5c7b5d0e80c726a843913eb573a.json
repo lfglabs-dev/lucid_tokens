@@ -1,0 +1,15 @@
+{
+  "symbol": "LTAI",
+  "name": "Libertai",
+  "address": "0xf8b1b47aa748f5c7b5d0e80c726a843913eb573a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39288/thumb/LibertAI_FavIcon_Secondary.png?1721589002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf8b1b47aa748f5c7b5d0e80c726a843913eb573a"
+  }
+}

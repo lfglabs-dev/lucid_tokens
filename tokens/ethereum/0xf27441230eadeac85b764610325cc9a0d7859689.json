@@ -1,0 +1,15 @@
+{
+  "symbol": "ASTR",
+  "name": "Astar Token",
+  "address": "0xf27441230eadeac85b764610325cc9a0d7859689",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22617/thumb/astr.png?1642314057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf27441230eadeac85b764610325cc9a0d7859689"
+  }
+}

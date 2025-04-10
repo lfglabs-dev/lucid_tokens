@@ -1,0 +1,15 @@
+{
+  "symbol": "SHAK",
+  "name": "Shakita Inu",
+  "address": "0x53c2a6cc05f9647d59201b19cb5f5e42cc6dc524",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19026/thumb/shak.png?1634192974",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x53c2a6cc05f9647d59201b19cb5f5e42cc6dc524"
+  }
+}

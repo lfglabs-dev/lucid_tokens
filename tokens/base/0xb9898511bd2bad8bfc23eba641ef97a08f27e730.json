@@ -1,0 +1,15 @@
+{
+  "symbol": "BONKE",
+  "name": "BONKE",
+  "address": "0xb9898511bd2bad8bfc23eba641ef97a08f27e730",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37463/thumb/2.png?1714454148",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb9898511bd2bad8bfc23eba641ef97a08f27e730"
+  }
+}

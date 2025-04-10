@@ -1,0 +1,15 @@
+{
+  "symbol": "TBC",
+  "name": "TOUR BILLION COIN",
+  "address": "0xda0f9f1204395c2481070c1d4dc1f996915527f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37534/thumb/TBC_Token_200x200.png?1714667662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xda0f9f1204395c2481070c1d4dc1f996915527f2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CATME",
+  "name": "ELON'S CAT",
+  "address": "0xb71b42f7f0513b3f49a0a42ffdcf90509a888888",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36852/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240407184105.jpg?1712630928",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb71b42f7f0513b3f49a0a42ffdcf90509a888888"
+  }
+}

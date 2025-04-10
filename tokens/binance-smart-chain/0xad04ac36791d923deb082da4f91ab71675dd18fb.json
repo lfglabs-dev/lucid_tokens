@@ -1,0 +1,15 @@
+{
+  "symbol": "MELI",
+  "name": "MELI",
+  "address": "0xad04ac36791d923deb082da4f91ab71675dd18fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20211/thumb/meli_games.PNG?1636668571",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xad04ac36791d923deb082da4f91ab71675dd18fb"
+  }
+}

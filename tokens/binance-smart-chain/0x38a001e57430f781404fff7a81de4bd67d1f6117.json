@@ -1,0 +1,16 @@
+{
+  "symbol": "SolvBTC.JUP",
+  "name": "SolvBTC Jupiter",
+  "address": "0x38a001e57430f781404fff7a81de4bd67d1f6117",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54834/thumb/solvBTC_Jupiter.png?1741969449",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x38a001e57430f781404fff7a81de4bd67d1f6117",
+    "soneium": "0xaffeb8576b927050f5a3b6fba43f360d2883a118"
+  }
+}

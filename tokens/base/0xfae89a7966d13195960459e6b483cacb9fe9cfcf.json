@@ -1,0 +1,15 @@
+{
+  "symbol": "BMONEY",
+  "name": "B Money AKA Brett",
+  "address": "0xfae89a7966d13195960459e6b483cacb9fe9cfcf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52529/thumb/IMG_4246.JPG?1733567836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfae89a7966d13195960459e6b483cacb9fe9cfcf"
+  }
+}

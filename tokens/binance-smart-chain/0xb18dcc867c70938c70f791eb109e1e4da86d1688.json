@@ -1,0 +1,15 @@
+{
+  "symbol": "PVP",
+  "name": "PvP",
+  "address": "0xb18dcc867c70938c70f791eb109e1e4da86d1688",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53417/thumb/pvp.png?1736352864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb18dcc867c70938c70f791eb109e1e4da86d1688"
+  }
+}

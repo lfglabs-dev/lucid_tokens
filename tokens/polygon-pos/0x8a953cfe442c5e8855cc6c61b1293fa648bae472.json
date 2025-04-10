@@ -1,0 +1,15 @@
+{
+  "symbol": "PolyDoge",
+  "name": "PolyDoge",
+  "address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15146/thumb/p1kSco1h_400x400.jpg?1619842715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472"
+  }
+}

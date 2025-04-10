@@ -1,0 +1,15 @@
+{
+  "symbol": "ynBNB",
+  "name": "YieldNest: BNB Liquid Restaking",
+  "address": "0x304b5845b9114182ecb4495be4c91a273b74b509",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50352/thumb/ynBNB.png?1727280594",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x304b5845b9114182ecb4495be4c91a273b74b509"
+  }
+}

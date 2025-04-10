@@ -1,0 +1,15 @@
+{
+  "symbol": "MIN",
+  "name": "MetaInside by Virtuals",
+  "address": "0xbb59167235bf3588b357de6cd98ca6f94d753c76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54236/thumb/metainside-logo.png?1738871801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbb59167235bf3588b357de6cd98ca6f94d753c76"
+  }
+}

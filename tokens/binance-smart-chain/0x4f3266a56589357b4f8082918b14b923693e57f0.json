@@ -1,0 +1,15 @@
+{
+  "symbol": "LICO",
+  "name": "LicoToken",
+  "address": "0x4f3266a56589357b4f8082918b14b923693e57f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19772/thumb/AjjErjeF_400x400.png?1635838249",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f3266a56589357b4f8082918b14b923693e57f0"
+  }
+}

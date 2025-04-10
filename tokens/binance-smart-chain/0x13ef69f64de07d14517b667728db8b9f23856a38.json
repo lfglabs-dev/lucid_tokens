@@ -1,0 +1,15 @@
+{
+  "symbol": "WPLQ",
+  "name": "Wrapped Planq",
+  "address": "0x13ef69f64de07d14517b667728db8b9f23856a38",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29100/thumb/Planq_256x256-circle.png?1676604362",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x13ef69f64de07d14517b667728db8b9f23856a38"
+  }
+}

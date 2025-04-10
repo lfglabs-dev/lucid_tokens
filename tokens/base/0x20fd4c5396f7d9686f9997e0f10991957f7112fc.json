@@ -1,0 +1,15 @@
+{
+  "symbol": "GDUPI",
+  "name": "redacted gdupi",
+  "address": "0x20fd4c5396f7d9686f9997e0f10991957f7112fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52704/thumb/200x200.png?1734056667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x20fd4c5396f7d9686f9997e0f10991957f7112fc"
+  }
+}

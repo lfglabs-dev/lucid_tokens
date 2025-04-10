@@ -1,0 +1,17 @@
+{
+  "symbol": "DOJO",
+  "name": "DOJO",
+  "address": "0x180dae91d6d56235453a892d2e56a3e40ba81df8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16396/thumb/074606deafab3872.png?1623910120",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "huobi-token": "0x180dae91d6d56235453a892d2e56a3e40ba81df8",
+    "ethereum": "0x180dae91d6d56235453a892d2e56a3e40ba81df8",
+    "binance-smart-chain": "0x180dae91d6d56235453a892d2e56a3e40ba81df8"
+  }
+}

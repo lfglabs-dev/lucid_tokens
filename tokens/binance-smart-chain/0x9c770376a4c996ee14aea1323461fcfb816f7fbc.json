@@ -1,0 +1,15 @@
+{
+  "symbol": "DCF",
+  "name": "Decentralized Finance",
+  "address": "0x9c770376a4c996ee14aea1323461fcfb816f7fbc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51083/thumb/logo200x200.png?1730018392",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9c770376a4c996ee14aea1323461fcfb816f7fbc"
+  }
+}

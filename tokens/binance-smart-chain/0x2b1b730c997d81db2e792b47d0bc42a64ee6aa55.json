@@ -1,0 +1,15 @@
+{
+  "symbol": "EDUX",
+  "name": "EDUFEX",
+  "address": "0x2b1b730c997d81db2e792b47d0bc42a64ee6aa55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18365/thumb/edufex.PNG?1631665623",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2b1b730c997d81db2e792b47d0bc42a64ee6aa55"
+  }
+}

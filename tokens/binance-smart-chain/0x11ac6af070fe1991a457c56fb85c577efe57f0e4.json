@@ -1,0 +1,15 @@
+{
+  "symbol": "DragonKing",
+  "name": "DragonKing",
+  "address": "0x11ac6af070fe1991a457c56fb85c577efe57f0e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29794/thumb/IMG_20230411_222000_357.png?1681347000",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x11ac6af070fe1991a457c56fb85c577efe57f0e4"
+  }
+}

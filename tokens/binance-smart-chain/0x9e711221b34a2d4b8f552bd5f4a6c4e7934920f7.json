@@ -1,0 +1,15 @@
+{
+  "symbol": "ORT",
+  "name": "Okratech",
+  "address": "0x9e711221b34a2d4b8f552bd5f4a6c4e7934920f7",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18352/thumb/fav.png?1631604240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9e711221b34a2d4b8f552bd5f4a6c4e7934920f7"
+  }
+}

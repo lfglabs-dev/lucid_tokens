@@ -1,0 +1,15 @@
+{
+  "symbol": "CVAI",
+  "name": "CV AGENTLAUNCHER Token",
+  "address": "0x6b34d1c35689dba179c2eddf6a01530bbb1d28a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54408/thumb/Logo_CVAI_TICKER.png?1739539559",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6b34d1c35689dba179c2eddf6a01530bbb1d28a8"
+  }
+}

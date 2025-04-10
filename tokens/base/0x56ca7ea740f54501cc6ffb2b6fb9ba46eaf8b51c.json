@@ -1,0 +1,15 @@
+{
+  "symbol": "AIGMX",
+  "name": "aigmx by Virtuals",
+  "address": "0x56ca7ea740f54501cc6ffb2b6fb9ba46eaf8b51c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53675/thumb/commodore-crop.png?1737009077",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x56ca7ea740f54501cc6ffb2b6fb9ba46eaf8b51c"
+  }
+}

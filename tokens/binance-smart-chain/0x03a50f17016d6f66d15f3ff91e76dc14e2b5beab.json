@@ -1,0 +1,15 @@
+{
+  "symbol": "TOX",
+  "name": "TOX TOKEN",
+  "address": "0x03a50f17016d6f66d15f3ff91e76dc14e2b5beab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51786/thumb/into.png?1731983727",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x03a50f17016d6f66d15f3ff91e76dc14e2b5beab"
+  }
+}

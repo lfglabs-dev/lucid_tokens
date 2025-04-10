@@ -1,0 +1,15 @@
+{
+  "symbol": "MTS",
+  "name": "META PLUS TOKEN",
+  "address": "0x58d70ef99a1d22e1a8f8f0e8f27c1babcf8464f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34779/thumb/IMG_20240121_211037.jpg?1706007272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x58d70ef99a1d22e1a8f8f0e8f27c1babcf8464f3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AWS",
+  "name": "Agentwood",
+  "address": "0xcb6ab91007fe165c81b1e672007361cce9995fd1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54736/thumb/aws-logo.jpg?1741254599",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcb6ab91007fe165c81b1e672007361cce9995fd1"
+  }
+}

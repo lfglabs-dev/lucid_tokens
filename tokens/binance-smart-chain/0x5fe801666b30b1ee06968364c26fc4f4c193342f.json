@@ -1,0 +1,15 @@
+{
+  "symbol": "TALE",
+  "name": "TALE",
+  "address": "0x5fe801666b30b1ee06968364c26fc4f4c193342f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53463/thumb/TALE.jpg?1736451547",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5fe801666b30b1ee06968364c26fc4f4c193342f"
+  }
+}

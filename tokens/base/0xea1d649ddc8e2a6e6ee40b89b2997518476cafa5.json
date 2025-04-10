@@ -1,0 +1,15 @@
+{
+  "symbol": "MOBY",
+  "name": "Moby",
+  "address": "0xea1d649ddc8e2a6e6ee40b89b2997518476cafa5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38988/thumb/moby-icon_%281%29.png?1719807217",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xea1d649ddc8e2a6e6ee40b89b2997518476cafa5"
+  }
+}

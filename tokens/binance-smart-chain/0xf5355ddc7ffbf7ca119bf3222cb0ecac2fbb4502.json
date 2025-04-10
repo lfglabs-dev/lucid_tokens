@@ -1,0 +1,15 @@
+{
+  "symbol": "UCJL",
+  "name": "UCJL",
+  "address": "0xf5355ddc7ffbf7ca119bf3222cb0ecac2fbb4502",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31523/thumb/UCJL_-cg_%E6%8B%B7%E8%B4%9D.png?1693781972",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf5355ddc7ffbf7ca119bf3222cb0ecac2fbb4502"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ABC",
+  "name": "ABC",
+  "address": "0xe819c2ae87f6bb322f1571f41c2fbd2c15fec40b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55107/thumb/ABC.jpg?1743753731",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe819c2ae87f6bb322f1571f41c2fbd2c15fec40b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGECEO",
+  "name": "Doge CEO",
+  "address": "0x9cbb03effd6fb7d79c9bab1b0ceaf4232e957521",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29298/thumb/IMG_20230302_230329_558.png?1677915108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9cbb03effd6fb7d79c9bab1b0ceaf4232e957521"
+  }
+}

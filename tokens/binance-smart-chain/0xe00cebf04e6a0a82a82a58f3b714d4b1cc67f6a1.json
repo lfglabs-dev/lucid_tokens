@@ -1,0 +1,15 @@
+{
+  "symbol": "BTR",
+  "name": "BTRIPS",
+  "address": "0xe00cebf04e6a0a82a82a58f3b714d4b1cc67f6a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19273/thumb/btr.png?1638182009",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe00cebf04e6a0a82a82a58f3b714d4b1cc67f6a1"
+  }
+}

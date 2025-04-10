@@ -1,0 +1,15 @@
+{
+  "symbol": "BADAI",
+  "name": "BAD AI",
+  "address": "0x36f5675029e129b5fcabb29ec750ed268520acf7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54044/thumb/Group_1171276615.png?1738084704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x36f5675029e129b5fcabb29ec750ed268520acf7"
+  }
+}

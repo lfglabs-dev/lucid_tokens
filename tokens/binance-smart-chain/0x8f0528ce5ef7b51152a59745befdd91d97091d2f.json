@@ -1,0 +1,16 @@
+{
+  "symbol": "ALPACA",
+  "name": "AlpacaToken",
+  "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14165/thumb/Logo200.png?1614748442",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+    "fantom": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302"
+  }
+}

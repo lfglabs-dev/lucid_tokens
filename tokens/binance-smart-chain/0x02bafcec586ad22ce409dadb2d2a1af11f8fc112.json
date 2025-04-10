@@ -1,0 +1,15 @@
+{
+  "symbol": "ELON2024",
+  "name": "ELON 2024",
+  "address": "0x02bafcec586ad22ce409dadb2d2a1af11f8fc112",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34485/thumb/IMG_20240111_150701_614.jpg?1705044832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x02bafcec586ad22ce409dadb2d2a1af11f8fc112"
+  }
+}

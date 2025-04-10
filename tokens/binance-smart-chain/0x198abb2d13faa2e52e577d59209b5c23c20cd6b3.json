@@ -1,0 +1,16 @@
+{
+  "symbol": "BAMBOO",
+  "name": "BambooDeFi",
+  "address": "0x198abb2d13faa2e52e577d59209b5c23c20cd6b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13856/thumb/Bamboo-token-logo-200.png?1612404311",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf56842af3b56fd72d17cb103f92d027bba912e89",
+    "binance-smart-chain": "0x198abb2d13faa2e52e577d59209b5c23c20cd6b3"
+  }
+}

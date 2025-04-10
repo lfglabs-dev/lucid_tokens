@@ -1,0 +1,15 @@
+{
+  "symbol": "DBZ",
+  "name": "Diamond Boyz Coin",
+  "address": "0x7a983559e130723b70e45bd637773dbdfd3f71db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17308/thumb/IMG_0026.png?1627271288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7a983559e130723b70e45bd637773dbdfd3f71db"
+  }
+}

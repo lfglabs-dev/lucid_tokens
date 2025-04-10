@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFE",
+  "name": "BaseSafe",
+  "address": "0xbd15d0c77133d3200756dc4d7a4f577dbb2cf6a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36796/thumb/base200x.png?1712434456",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbd15d0c77133d3200756dc4d7a4f577dbb2cf6a3"
+  }
+}

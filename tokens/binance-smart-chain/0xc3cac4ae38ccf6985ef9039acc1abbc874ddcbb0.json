@@ -1,0 +1,16 @@
+{
+  "symbol": "axlSTARS",
+  "name": "Axelar Wrapped STARS",
+  "address": "0xc3cac4ae38ccf6985ef9039acc1abbc874ddcbb0",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22363/thumb/stars.png?1645256657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "evmos": "0x5ad523d94efb56c400941eb6f34393b84c75ba39",
+    "binance-smart-chain": "0xc3cac4ae38ccf6985ef9039acc1abbc874ddcbb0"
+  }
+}

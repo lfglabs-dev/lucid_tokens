@@ -1,0 +1,15 @@
+{
+  "symbol": "WNAV",
+  "name": "Wrapped Navcoin",
+  "address": "0xbfef6ccfc830d3baca4f6766a0d4aaa242ca9f3d",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/233/thumb/Navcoin_Logo.png?1618823660",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbfef6ccfc830d3baca4f6766a0d4aaa242ca9f3d"
+  }
+}

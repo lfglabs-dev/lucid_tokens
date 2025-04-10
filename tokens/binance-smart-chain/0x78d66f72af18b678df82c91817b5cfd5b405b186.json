@@ -1,0 +1,15 @@
+{
+  "symbol": "CENS",
+  "name": "Censored AI",
+  "address": "0x78d66f72af18b678df82c91817b5cfd5b405b186",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39094/thumb/Censored_Ai_200x200.png?1720505155",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x78d66f72af18b678df82c91817b5cfd5b405b186"
+  }
+}

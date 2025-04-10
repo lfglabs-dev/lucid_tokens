@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPEC",
+  "name": "PEPE Clanker",
+  "address": "0x1196c6704789620514fd25632abe15f69a50bc4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52568/thumb/pepepepepe.jpeg?1733674517",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1196c6704789620514fd25632abe15f69a50bc4f"
+  }
+}

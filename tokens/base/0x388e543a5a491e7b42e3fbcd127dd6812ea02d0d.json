@@ -1,0 +1,15 @@
+{
+  "symbol": "$PILL",
+  "name": "PILL",
+  "address": "0x388e543a5a491e7b42e3fbcd127dd6812ea02d0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37431/thumb/200%D1%85200.png?1714379457",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x388e543a5a491e7b42e3fbcd127dd6812ea02d0d"
+  }
+}

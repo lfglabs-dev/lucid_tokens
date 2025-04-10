@@ -1,0 +1,15 @@
+{
+  "symbol": "ONI",
+  "name": "ONI Protocol",
+  "address": "0x3dba4ae830896467a0a1c731686a2ad40cf76777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52832/thumb/photo_2024-11-09_14.33.11.jpeg?1734456230",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3dba4ae830896467a0a1c731686a2ad40cf76777"
+  }
+}

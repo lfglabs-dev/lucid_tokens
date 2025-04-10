@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOK",
+  "name": "Book of Binance",
+  "address": "0xc9ad421f96579ace066ec188a7bba472fb83017f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54010/thumb/book200.png?1737967387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc9ad421f96579ace066ec188a7bba472fb83017f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ZK",
+  "name": "Polyhedra Network",
+  "address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36198/thumb/ZK.jpg?1710812518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
+    "binance-smart-chain": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81"
+  }
+}

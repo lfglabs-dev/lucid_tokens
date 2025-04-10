@@ -1,0 +1,15 @@
+{
+  "symbol": "VELAI",
+  "name": "VELVET AI",
+  "address": "0x1c7c53aa86b49a28c627b6450091998e447a42f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53978/thumb/logo.png?1737871230",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x1c7c53aa86b49a28c627b6450091998e447a42f9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SLC",
+  "name": "SparkLucky",
+  "address": "0xb65d506b0343db06200c0803585554da3712830f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39937/thumb/sparklucky_-logo_200.png?1724867323",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb65d506b0343db06200c0803585554da3712830f"
+  }
+}

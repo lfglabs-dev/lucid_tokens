@@ -1,0 +1,15 @@
+{
+  "symbol": "AI",
+  "name": "Artificial Intelligence",
+  "address": "0x4c403b1879aa6a79ba9c599a393ccc5d9fd2e788",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20632/thumb/200x200.png?1637333095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c403b1879aa6a79ba9c599a393ccc5d9fd2e788"
+  }
+}

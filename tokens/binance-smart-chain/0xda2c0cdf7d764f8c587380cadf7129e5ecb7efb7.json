@@ -1,0 +1,15 @@
+{
+  "symbol": "PUPPETS",
+  "name": "Puppets Coin",
+  "address": "0xda2c0cdf7d764f8c587380cadf7129e5ecb7efb7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30178/thumb/puppets.jpg?1683550788",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xda2c0cdf7d764f8c587380cadf7129e5ecb7efb7"
+  }
+}

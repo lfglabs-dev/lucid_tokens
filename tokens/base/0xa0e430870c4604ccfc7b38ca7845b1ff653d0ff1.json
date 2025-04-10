@@ -1,0 +1,15 @@
+{
+  "symbol": "mwETH",
+  "name": "Moonwell Flagship ETH",
+  "address": "0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52387/thumb/ethereum-eth-logo.png?1733265577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1"
+  }
+}

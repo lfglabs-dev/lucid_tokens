@@ -1,0 +1,15 @@
+{
+  "symbol": "BENYKE",
+  "name": "BenykeToken",
+  "address": "0x2c29d6da871a6b90d7b4ae470079cdf5252df5f8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31789/thumb/token-removebg-preview_%282%29.png?1695019190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2c29d6da871a6b90d7b4ae470079cdf5252df5f8"
+  }
+}

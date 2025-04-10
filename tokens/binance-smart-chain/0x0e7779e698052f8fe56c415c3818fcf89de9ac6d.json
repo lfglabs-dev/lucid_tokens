@@ -1,0 +1,15 @@
+{
+  "symbol": "ULTI",
+  "name": "Ultiverse Token",
+  "address": "0x0e7779e698052f8fe56c415c3818fcf89de9ac6d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37141/thumb/ultiverse.jpeg?1713421569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0e7779e698052f8fe56c415c3818fcf89de9ac6d"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "KO.d",
+  "name": "Coca-Cola Company - Dinari",
+  "address": "0x44ba66f8ad159f8f400c7d9e06f670c018bdd57c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x42ba3ac0c2d9b611623e1e48f51757606a105d9e",
+    "ethereum": "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158",
+    "blast": "0x44ba66f8ad159f8f400c7d9e06f670c018bdd57c",
+    "base": "0x000804047791c8e0fbd04f1a9f4567114130b9a7"
+  }
+}

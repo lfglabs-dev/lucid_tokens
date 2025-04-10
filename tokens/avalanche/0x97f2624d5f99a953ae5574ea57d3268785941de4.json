@@ -1,0 +1,15 @@
+{
+  "symbol": "COLS",
+  "name": "Cointel",
+  "address": "0x97f2624d5f99a953ae5574ea57d3268785941de4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55044/thumb/MJQlzeE-_400x400.png?1743433037",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x97f2624d5f99a953ae5574ea57d3268785941de4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KEKE",
+  "name": "KEKE",
+  "address": "0xce76fa691ffce00e6ce9bb788e9cbdfb52933f7a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33629/thumb/IMG_20231212_200645_001.jpg?1702534112",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xce76fa691ffce00e6ce9bb788e9cbdfb52933f7a"
+  }
+}

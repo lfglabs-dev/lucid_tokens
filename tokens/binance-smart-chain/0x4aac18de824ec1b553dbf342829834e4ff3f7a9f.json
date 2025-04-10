@@ -1,0 +1,15 @@
+{
+  "symbol": "ANCHOR",
+  "name": "AnchorSwap Token",
+  "address": "0x4aac18de824ec1b553dbf342829834e4ff3f7a9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18909/thumb/anchorswap.PNG?1633910516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4aac18de824ec1b553dbf342829834e4ff3f7a9f"
+  }
+}

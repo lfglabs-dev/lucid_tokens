@@ -1,0 +1,15 @@
+{
+  "symbol": "NAIFU",
+  "name": "Naifu",
+  "address": "0x62fe1724116e37e22949ae1f8e6f560c9a188dc6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52875/thumb/naifu-200x200.png?1734553143",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x62fe1724116e37e22949ae1f8e6f560c9a188dc6"
+  }
+}

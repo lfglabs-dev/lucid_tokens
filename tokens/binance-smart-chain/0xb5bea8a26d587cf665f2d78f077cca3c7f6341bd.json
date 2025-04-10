@@ -1,0 +1,15 @@
+{
+  "symbol": "POLIS",
+  "name": "Polis",
+  "address": "0xb5bea8a26d587cf665f2d78f077cca3c7f6341bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2452/thumb/circlePolisLogo.png?1573787189",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb5bea8a26d587cf665f2d78f077cca3c7f6341bd"
+  }
+}

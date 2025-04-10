@@ -1,0 +1,15 @@
+{
+  "symbol": "VOLTX",
+  "name": "VolatilityX by Virtuals",
+  "address": "0x3f12d4607f9df527c3bccbd16a70636a69c8fcf5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53320/thumb/logo.png?1736086638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3f12d4607f9df527c3bccbd16a70636a69c8fcf5"
+  }
+}

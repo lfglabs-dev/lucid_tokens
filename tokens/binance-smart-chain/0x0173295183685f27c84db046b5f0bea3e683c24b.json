@@ -1,0 +1,15 @@
+{
+  "symbol": "CAT",
+  "name": "Cat",
+  "address": "0x0173295183685f27c84db046b5f0bea3e683c24b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28447/thumb/IMG_20221207_032252_321.jpg?1670662058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0173295183685f27c84db046b5f0bea3e683c24b"
+  }
+}

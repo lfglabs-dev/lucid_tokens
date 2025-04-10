@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGA",
+  "name": "DOGAMI",
+  "address": "0x2f3e306d9f02ee8e8850f9040404918d0b345207",
+  "decimals": 5,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24510/thumb/doga_logo.png?1648541150",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2f3e306d9f02ee8e8850f9040404918d0b345207"
+  }
+}

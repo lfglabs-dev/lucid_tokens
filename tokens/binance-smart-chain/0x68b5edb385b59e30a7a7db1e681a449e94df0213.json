@@ -1,0 +1,15 @@
+{
+  "symbol": "SILVA",
+  "name": "Silva Token",
+  "address": "0x68b5edb385b59e30a7a7db1e681a449e94df0213",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19689/thumb/13592.png?1635748090",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x68b5edb385b59e30a7a7db1e681a449e94df0213"
+  }
+}

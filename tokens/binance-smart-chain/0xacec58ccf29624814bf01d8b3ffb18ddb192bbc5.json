@@ -1,0 +1,15 @@
+{
+  "symbol": "CCL",
+  "name": "CYCLEAN",
+  "address": "0xacec58ccf29624814bf01d8b3ffb18ddb192bbc5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53662/thumb/CYCLEAN.png?1737002209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xacec58ccf29624814bf01d8b3ffb18ddb192bbc5"
+  }
+}

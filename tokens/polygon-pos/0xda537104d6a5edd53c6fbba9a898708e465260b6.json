@@ -1,0 +1,25 @@
+{
+  "symbol": "YFI",
+  "name": "(PoS) yearn.finance",
+  "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "xdai": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
+    "optimistic-ethereum": "0x9046d36440290ffde54fe0dd84db8b1cfee9107b",
+    "energi": "0x2726dd5efb3a209a54c512e9562a2045b8f45dbc",
+    "huobi-token": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+    "harmony-shard-0": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
+    "fantom": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+    "avalanche": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+    "arbitrum-one": "0x82e3a8f066a6989666b031d916c43672085b1582",
+    "polygon-pos": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+    "base": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239"
+  }
+}

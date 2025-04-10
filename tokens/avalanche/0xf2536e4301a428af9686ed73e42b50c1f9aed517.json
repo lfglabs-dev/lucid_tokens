@@ -1,0 +1,15 @@
+{
+  "symbol": "AKITAX",
+  "name": "AKITAVAX",
+  "address": "0xf2536e4301a428af9686ed73e42b50c1f9aed517",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23043/thumb/coingeckologoakitax.png?1643100394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf2536e4301a428af9686ed73e42b50c1f9aed517"
+  }
+}

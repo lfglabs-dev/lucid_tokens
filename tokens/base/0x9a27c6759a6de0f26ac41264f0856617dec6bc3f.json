@@ -1,0 +1,15 @@
+{
+  "symbol": "BANANAS",
+  "name": "Monkey Peepo",
+  "address": "0x9a27c6759a6de0f26ac41264f0856617dec6bc3f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37036/thumb/logo-mp.png?1713160745",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9a27c6759a6de0f26ac41264f0856617dec6bc3f"
+  }
+}

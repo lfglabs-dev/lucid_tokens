@@ -1,0 +1,15 @@
+{
+  "symbol": "GMEX",
+  "name": "Game Coin",
+  "address": "0xe9d78bf51ae04c7e1263a76ed89a65537b9ca903",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19893/thumb/gmex.png?1636093554",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe9d78bf51ae04c7e1263a76ed89a65537b9ca903"
+  }
+}

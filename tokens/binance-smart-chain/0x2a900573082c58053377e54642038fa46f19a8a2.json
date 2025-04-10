@@ -1,0 +1,15 @@
+{
+  "symbol": "RIKO",
+  "name": "RIKO",
+  "address": "0x2a900573082c58053377e54642038fa46f19a8a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50686/thumb/Frame_1540466_%283%29.png?1728777302",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2a900573082c58053377e54642038fa46f19a8a2"
+  }
+}

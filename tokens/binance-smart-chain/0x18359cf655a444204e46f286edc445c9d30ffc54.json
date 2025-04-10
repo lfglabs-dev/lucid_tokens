@@ -1,0 +1,15 @@
+{
+  "symbol": "DGMOON",
+  "name": "DOGEMOON",
+  "address": "0x18359cf655a444204e46f286edc445c9d30ffc54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15308/thumb/DOGEMOON.png?1629434312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x18359cf655a444204e46f286edc445c9d30ffc54"
+  }
+}

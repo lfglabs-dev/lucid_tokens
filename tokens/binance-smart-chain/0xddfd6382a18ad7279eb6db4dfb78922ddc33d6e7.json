@@ -1,0 +1,15 @@
+{
+  "symbol": "SHRED",
+  "name": "ShredN",
+  "address": "0xddfd6382a18ad7279eb6db4dfb78922ddc33d6e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30996/thumb/shredn.png?1689569884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xddfd6382a18ad7279eb6db4dfb78922ddc33d6e7"
+  }
+}

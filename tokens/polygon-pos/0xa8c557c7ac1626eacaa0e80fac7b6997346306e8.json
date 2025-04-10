@@ -1,0 +1,15 @@
+{
+  "symbol": "EGX",
+  "name": "ENEGRA",
+  "address": "0xa8c557c7ac1626eacaa0e80fac7b6997346306e8",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23082/thumb/imgonline-com-ua-Resize-LHUSvWAko1XuD.png?1643179587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa8c557c7ac1626eacaa0e80fac7b6997346306e8"
+  }
+}

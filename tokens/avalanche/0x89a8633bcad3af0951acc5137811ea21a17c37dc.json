@@ -1,0 +1,15 @@
+{
+  "symbol": "LAMA",
+  "name": "LAMA",
+  "address": "0x89a8633bcad3af0951acc5137811ea21a17c37dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36284/thumb/lamalogo200x200.png?1711006737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x89a8633bcad3af0951acc5137811ea21a17c37dc"
+  }
+}

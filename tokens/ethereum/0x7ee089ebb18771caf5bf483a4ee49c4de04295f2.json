@@ -1,0 +1,15 @@
+{
+  "symbol": "Kekiusa",
+  "name": "Kekius Maximusa",
+  "address": "0x7ee089ebb18771caf5bf483a4ee49c4de04295f2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55097/thumb/2002000000.png?1743746516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ee089ebb18771caf5bf483a4ee49c4de04295f2"
+  }
+}

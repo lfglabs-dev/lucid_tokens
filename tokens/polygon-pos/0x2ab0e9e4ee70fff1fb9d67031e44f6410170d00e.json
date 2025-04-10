@@ -1,0 +1,15 @@
+{
+  "symbol": "mXEN",
+  "name": "XEN Crypto",
+  "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30005/thumb/1_uMvUPqIbGBqjBL6GfZpp3g.jpg?1682482276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e"
+  }
+}

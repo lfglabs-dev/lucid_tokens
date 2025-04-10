@@ -1,0 +1,15 @@
+{
+  "symbol": "CEL",
+  "name": "Celeron Token",
+  "address": "0xd3415dcfbda117814e24a4cbaf61128a4d79b860",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55094/thumb/Celeron_Logo.png?1743699296",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xd3415dcfbda117814e24a4cbaf61128a4d79b860"
+  }
+}

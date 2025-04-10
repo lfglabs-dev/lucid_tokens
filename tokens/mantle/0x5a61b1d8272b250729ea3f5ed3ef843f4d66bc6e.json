@@ -1,0 +1,18 @@
+{
+  "symbol": "sUSDa",
+  "name": "USDa saving token",
+  "address": "0x5a61b1d8272b250729ea3f5ed3ef843f4d66bc6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2b66aade1e9c062ff411bd47c44e0ad696d43bd9",
+    "mantle": "0x5a61b1d8272b250729ea3f5ed3ef843f4d66bc6e",
+    "binance-smart-chain": "0x73a325103935b0b5e7aa3aca6dba74ad22f82b03",
+    "base": "0xd329f9a8589723357c36727a2d5e15974c835ccf"
+  }
+}

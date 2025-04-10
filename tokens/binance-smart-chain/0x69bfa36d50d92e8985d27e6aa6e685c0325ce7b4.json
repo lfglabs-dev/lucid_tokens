@@ -1,0 +1,15 @@
+{
+  "symbol": "CTG",
+  "name": "Cryptorg",
+  "address": "0x69bfa36d50d92e8985d27e6aa6e685c0325ce7b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11474/thumb/crystal_200.png?1590450209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x69bfa36d50d92e8985d27e6aa6e685c0325ce7b4"
+  }
+}

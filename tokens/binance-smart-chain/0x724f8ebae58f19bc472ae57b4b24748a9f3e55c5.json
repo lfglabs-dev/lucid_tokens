@@ -1,0 +1,15 @@
+{
+  "symbol": "HUS",
+  "name": "Husky.AI",
+  "address": "0x724f8ebae58f19bc472ae57b4b24748a9f3e55c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31386/thumb/IMG_19721BF64363-1.jpeg?1692759700",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x724f8ebae58f19bc472ae57b4b24748a9f3e55c5"
+  }
+}

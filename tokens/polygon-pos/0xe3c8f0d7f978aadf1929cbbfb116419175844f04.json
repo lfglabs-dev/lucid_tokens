@@ -1,0 +1,16 @@
+{
+  "symbol": "SWK",
+  "name": "Sowaka(PoS)",
+  "address": "0xe3c8f0d7f978aadf1929cbbfb116419175844f04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38489/thumb/sowaka-logo-mark_%281%29.png?1717687562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xddfbe9173c90deb428fdd494cb16125653172919",
+    "polygon-pos": "0xe3c8f0d7f978aadf1929cbbfb116419175844f04"
+  }
+}

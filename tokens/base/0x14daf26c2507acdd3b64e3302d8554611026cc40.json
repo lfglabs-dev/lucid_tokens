@@ -1,0 +1,15 @@
+{
+  "symbol": "MUST",
+  "name": "Cool Mustache",
+  "address": "0x14daf26c2507acdd3b64e3302d8554611026cc40",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53833/thumb/Must.png?1737558596",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x14daf26c2507acdd3b64e3302d8554611026cc40"
+  }
+}

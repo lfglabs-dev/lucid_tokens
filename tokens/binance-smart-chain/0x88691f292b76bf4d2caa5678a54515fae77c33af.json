@@ -1,0 +1,15 @@
+{
+  "symbol": "XPE",
+  "name": "Xpense",
+  "address": "0x88691f292b76bf4d2caa5678a54515fae77c33af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32359/thumb/xpense200.png?1697957554",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x88691f292b76bf4d2caa5678a54515fae77c33af"
+  }
+}

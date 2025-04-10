@@ -1,0 +1,16 @@
+{
+  "symbol": "SEXY",
+  "name": "Settled ETHXY Token",
+  "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33032/thumb/logo-circle.png?1700348518",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2",
+    "base": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MISA",
+  "name": "Sangkara",
+  "address": "0x934b0633f4874ca9340341ad66ff2f6ce3124b4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25360/thumb/misa.png?1651314232",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x934b0633f4874ca9340341ad66ff2f6ce3124b4c"
+  }
+}

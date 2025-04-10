@@ -1,0 +1,15 @@
+{
+  "symbol": "SMARS",
+  "name": "SafeMars",
+  "address": "0xc0366a104b429f0806bfa98d0008daa9555b2bed",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16143/thumb/83904828.png?1623118918",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc0366a104b429f0806bfa98d0008daa9555b2bed"
+  }
+}

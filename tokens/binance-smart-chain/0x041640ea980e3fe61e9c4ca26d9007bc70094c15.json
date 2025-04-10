@@ -1,0 +1,15 @@
+{
+  "symbol": "PirateCoin☠",
+  "name": "Pirate Coin",
+  "address": "0x041640ea980e3fe61e9c4ca26d9007bc70094c15",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18278/thumb/logo_200_%284%29.png?1631234630",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x041640ea980e3fe61e9c4ca26d9007bc70094c15"
+  }
+}

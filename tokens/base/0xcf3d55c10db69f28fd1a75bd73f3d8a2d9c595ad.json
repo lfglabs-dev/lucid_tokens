@@ -1,0 +1,16 @@
+{
+  "symbol": "aBascbETH",
+  "name": "Aave Base cbETH",
+  "address": "0xcf3d55c10db69f28fd1a75bd73f3d8a2d9c595ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32892/thumb/cbETH.png?1699789253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcf3d55c10db69f28fd1a75bd73f3d8a2d9c595ad",
+    "ethereum": "0x977b6fc5de62598b08c85ac8cf2b745874e8b78c"
+  }
+}

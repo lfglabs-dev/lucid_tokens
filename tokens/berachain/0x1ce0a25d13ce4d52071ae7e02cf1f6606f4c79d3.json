@@ -1,0 +1,15 @@
+{
+  "symbol": "NECT",
+  "name": "Nectar",
+  "address": "0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54231/thumb/NECT_%281%29.png?1738861282",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3"
+  }
+}

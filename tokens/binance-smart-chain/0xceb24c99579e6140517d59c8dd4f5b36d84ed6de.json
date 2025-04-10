@@ -1,0 +1,15 @@
+{
+  "symbol": "PCD ",
+  "name": "Phecda",
+  "address": "0xceb24c99579e6140517d59c8dd4f5b36d84ed6de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38896/thumb/1000050055.jpg?1719424143",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xceb24c99579e6140517d59c8dd4f5b36d84ed6de"
+  }
+}

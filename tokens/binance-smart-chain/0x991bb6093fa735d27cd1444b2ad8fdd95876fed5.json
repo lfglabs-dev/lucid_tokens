@@ -1,0 +1,15 @@
+{
+  "symbol": "PTAS",
+  "name": "La Peseta",
+  "address": "0x991bb6093fa735d27cd1444b2ad8fdd95876fed5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30631/thumb/ptas.jpg?1685968715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x991bb6093fa735d27cd1444b2ad8fdd95876fed5"
+  }
+}

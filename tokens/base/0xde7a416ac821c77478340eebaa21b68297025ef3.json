@@ -1,0 +1,15 @@
+{
+  "symbol": "BENI",
+  "name": "Beni",
+  "address": "0xde7a416ac821c77478340eebaa21b68297025ef3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36691/thumb/1000017459.jpg?1712092250",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xde7a416ac821c77478340eebaa21b68297025ef3"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "symbol": "IBEX",
+  "name": "Impermax",
+  "address": "0x78ab77f7d590fb101aa18affc238cbfea31ead5b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1664846656",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf655c8567e0f213e6c634cd2a68d992152161dc6",
+    "scroll": "0x78ab77f7d590fb101aa18affc238cbfea31ead5b",
+    "zksync": "0xbe9f8c0d6f0fd7e46cdacca340747ea2f247991d",
+    "linea": "0xcf0f95e34f25d1bb3d9cad3cbb2eb40dab7c3841",
+    "blast": "0x9f04b6cefd5bcd67d76ab708f17553ce40188e6a",
+    "canto": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "avalanche": "0x089d3daf549f99553c2182db24bc4336a4f0c824",
+    "arbitrum-one": "0x56659245931cb6920e39c189d2a0e7dd0da2d57b",
+    "polygon-pos": "0xf972daced7c6b03223710c11413036d17eb298f6",
+    "base": "0xb8a9a92dfe1303728394dd0f8362a09962dec24f"
+  }
+}

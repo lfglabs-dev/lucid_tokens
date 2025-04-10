@@ -1,0 +1,16 @@
+{
+  "symbol": "KOGIN",
+  "name": "Kogin by Virtuals",
+  "address": "0x2941d526e22406c5d6f273e281899cfc042a7332",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52787/thumb/OIG4.png?1734291387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2941d526e22406c5d6f273e281899cfc042a7332",
+    "ronin": "0x86d4b36f073746eeddda6e3ce1bcfa5e18a12714"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "IRT",
+  "name": "Infinity Rocket Token",
+  "address": "0xcbe5bca571628894a38836b0bae833ff012f71d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20619/thumb/irt.PNG?1637317783",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcbe5bca571628894a38836b0bae833ff012f71d8"
+  }
+}

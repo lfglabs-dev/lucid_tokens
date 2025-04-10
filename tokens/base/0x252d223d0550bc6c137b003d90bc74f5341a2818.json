@@ -1,0 +1,15 @@
+{
+  "symbol": "BITBOT",
+  "name": "Bitbot",
+  "address": "0x252d223d0550bc6c137b003d90bc74f5341a2818",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52512/thumb/Bitbot_Logo.png?1733493165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x252d223d0550bc6c137b003d90bc74f5341a2818"
+  }
+}

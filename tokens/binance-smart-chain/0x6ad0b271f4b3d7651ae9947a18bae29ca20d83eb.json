@@ -1,0 +1,15 @@
+{
+  "symbol": "WRKX",
+  "name": "NFTWorkx",
+  "address": "0x6ad0b271f4b3d7651ae9947a18bae29ca20d83eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32684/thumb/Logo_NFTworkxCircle_%281%29.png?1698937871",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6ad0b271f4b3d7651ae9947a18bae29ca20d83eb"
+  }
+}

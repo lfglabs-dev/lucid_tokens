@@ -1,0 +1,15 @@
+{
+  "symbol": "HODL",
+  "name": "HODL",
+  "address": "0x137ffd84025c582482e03d3a0b9f74c26dddfbad",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37756/thumb/IMG-2044.jpg?1715447300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x137ffd84025c582482e03d3a0b9f74c26dddfbad"
+  }
+}

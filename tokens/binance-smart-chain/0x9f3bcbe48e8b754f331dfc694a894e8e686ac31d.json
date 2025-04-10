@@ -1,0 +1,15 @@
+{
+  "symbol": "ACT",
+  "name": "Acet Token",
+  "address": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18205/thumb/ACET-LOGO.png?1630975189",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d"
+  }
+}

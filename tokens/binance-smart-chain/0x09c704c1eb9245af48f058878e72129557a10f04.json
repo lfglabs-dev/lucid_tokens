@@ -1,0 +1,15 @@
+{
+  "symbol": "SWEEP",
+  "name": "Sweeptoken",
+  "address": "0x09c704c1eb9245af48f058878e72129557a10f04",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27848/thumb/sweep200.png?1666083170",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x09c704c1eb9245af48f058878e72129557a10f04"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "UST",
+  "name": "Wrapped UST Token",
+  "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15462/thumb/ust.png?1620910058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+    "aurora": "0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc",
+    "harmony-shard-0": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
+    "ethereum": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+    "fantom": "0xe2d27f06f63d98b8e11b38b5b08a75d0c8dd62b9",
+    "polygon-pos": "0x692597b009d13c4049a947cab2239b7d6517875f"
+  }
+}

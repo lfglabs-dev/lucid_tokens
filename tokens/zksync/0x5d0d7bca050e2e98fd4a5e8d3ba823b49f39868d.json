@@ -1,0 +1,15 @@
+{
+  "symbol": "ZFI",
+  "name": "Zyfi Token",
+  "address": "0x5d0d7bca050e2e98fd4a5e8d3ba823b49f39868d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39770/thumb/High_Quality-blue-sign..png?1724046783",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x5d0d7bca050e2e98fd4a5e8d3ba823b49f39868d"
+  }
+}

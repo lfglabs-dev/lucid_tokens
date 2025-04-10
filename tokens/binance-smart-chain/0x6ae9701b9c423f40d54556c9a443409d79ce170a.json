@@ -1,0 +1,16 @@
+{
+  "symbol": "POLC",
+  "name": "Polka City",
+  "address": "0x6ae9701b9c423f40d54556c9a443409d79ce170a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14066/thumb/vykih1Nq_400x400.png?1614130959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+    "binance-smart-chain": "0x6ae9701b9c423f40d54556c9a443409d79ce170a"
+  }
+}

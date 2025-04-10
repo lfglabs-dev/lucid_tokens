@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBSC",
+  "name": "SHIBA BSC",
+  "address": "0xdf0816cc717216c8b0863af8d4f0fc20bc65d643",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15800/thumb/shibsc.png?1621929146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf0816cc717216c8b0863af8d4f0fc20bc65d643"
+  }
+}

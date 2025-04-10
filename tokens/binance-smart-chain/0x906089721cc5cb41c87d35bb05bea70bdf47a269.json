@@ -1,0 +1,15 @@
+{
+  "symbol": "ARMY",
+  "name": "BabyDogeARMY",
+  "address": "0x906089721cc5cb41c87d35bb05bea70bdf47a269",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29974/thumb/200x200-transparent.png?1682400003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x906089721cc5cb41c87d35bb05bea70bdf47a269"
+  }
+}

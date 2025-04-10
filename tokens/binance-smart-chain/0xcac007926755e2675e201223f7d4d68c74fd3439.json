@@ -1,0 +1,15 @@
+{
+  "symbol": "1GUY",
+  "name": "1GUY",
+  "address": "0xcac007926755e2675e201223f7d4d68c74fd3439",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50551/thumb/logo-min.png?1728308659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcac007926755e2675e201223f7d4d68c74fd3439"
+  }
+}

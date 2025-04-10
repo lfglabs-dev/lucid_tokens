@@ -1,0 +1,15 @@
+{
+  "symbol": "LIY",
+  "name": "Lily",
+  "address": "0x24fd25a49627ce2e4be711e76dc22234c83539fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53617/thumb/lily_logo.jpg?1736889954",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x24fd25a49627ce2e4be711e76dc22234c83539fe"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "DEFI.d",
+  "name": "Hashdex Bitcoin Futures ETF - Dinari",
+  "address": "0xac21cd6fe43240d90741d25858d0ff0940b11cc7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xdd92f0723a7318e684a88532cac2421e3cc9968e",
+    "ethereum": "0x81b11d330d9af45599be0580b9bcba7f4e57bd35",
+    "blast": "0x64931990e69b55ff7acaf0f20416d29b20855be6",
+    "base": "0xac21cd6fe43240d90741d25858d0ff0940b11cc7"
+  }
+}

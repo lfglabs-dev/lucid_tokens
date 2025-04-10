@@ -1,0 +1,15 @@
+{
+  "symbol": "CAPO",
+  "name": "LaunchTokenBot",
+  "address": "0x63cb9a22cbc00bf9159429e9dede4b88c3dba8ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52234/thumb/f22a0bcbbfa4da6930bf8c1d37c2e0a0.jpeg?1732804814",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x63cb9a22cbc00bf9159429e9dede4b88c3dba8ce"
+  }
+}

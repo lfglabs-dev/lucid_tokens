@@ -1,0 +1,16 @@
+{
+  "symbol": "fUSDT",
+  "name": "Frapped USDT",
+  "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21949/thumb/frapped.png?1640322203",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+    "binance-smart-chain": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ORAI",
+  "name": "Oraichain Token",
+  "address": "0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12931/thumb/orai.png?1647077378",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
+    "binance-smart-chain": "0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0"
+  }
+}

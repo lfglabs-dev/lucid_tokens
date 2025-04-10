@@ -1,0 +1,15 @@
+{
+  "symbol": "PERRY",
+  "name": "Perry",
+  "address": "0x5043f271095350c5ac7db2384a0d9337e27c1055",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54452/thumb/perry-logo.jpg?1739779639",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5043f271095350c5ac7db2384a0d9337e27c1055"
+  }
+}

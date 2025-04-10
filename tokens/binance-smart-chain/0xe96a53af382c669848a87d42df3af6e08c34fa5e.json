@@ -1,0 +1,15 @@
+{
+  "symbol": "GUCCIPEPE",
+  "name": "GucciPepe",
+  "address": "0xe96a53af382c669848a87d42df3af6e08c34fa5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30425/thumb/200x200.png?1684400842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe96a53af382c669848a87d42df3af6e08c34fa5e"
+  }
+}

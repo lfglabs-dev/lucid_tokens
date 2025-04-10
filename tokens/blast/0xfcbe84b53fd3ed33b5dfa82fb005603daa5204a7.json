@@ -1,0 +1,18 @@
+{
+  "symbol": "MCD.d",
+  "name": "McDonald's Corporation - Dinari",
+  "address": "0xfcbe84b53fd3ed33b5dfa82fb005603daa5204a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0c29891dc5060618c779e2a45fbe4808aa5ae6ad",
+    "ethereum": "0xec3e2998c87ac9bced45381f84932c877cad6930",
+    "blast": "0xfcbe84b53fd3ed33b5dfa82fb005603daa5204a7",
+    "base": "0x0150958b2b183a8e63264b8a6d82b4f747df3f62"
+  }
+}

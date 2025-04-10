@@ -1,0 +1,15 @@
+{
+  "symbol": "BEFE",
+  "name": "BEFE",
+  "address": "0x57185189118c7e786cafd5c71f35b16012fa95ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33172/thumb/Befe_5.png?1700919971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57185189118c7e786cafd5c71f35b16012fa95ad"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "axlWBTC",
+  "name": "Axelar Wrapped WBTC",
+  "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28173/thumb/axlwbtc.png?1668245218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "evmos": "0xf5b24c0093b65408ace53df7ce86a02448d53b25",
+    "kava": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
+    "base": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad"
+  }
+}

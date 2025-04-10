@@ -1,0 +1,17 @@
+{
+  "symbol": "MIR",
+  "name": "Wrapped MIR Token",
+  "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13295/thumb/mirror_logo_transparent.png?1611554658",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+    "energi": "0x7e58cef7c589e0e1771b9c049cba313fdec31976",
+    "binance-smart-chain": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9"
+  }
+}

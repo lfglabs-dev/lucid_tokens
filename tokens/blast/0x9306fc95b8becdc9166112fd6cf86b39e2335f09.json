@@ -1,0 +1,15 @@
+{
+  "symbol": "DCASK",
+  "name": "DigiCask",
+  "address": "0x9306fc95b8becdc9166112fd6cf86b39e2335f09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36591/thumb/DigiCask-Logo.png?1711949185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x9306fc95b8becdc9166112fd6cf86b39e2335f09"
+  }
+}

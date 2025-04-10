@@ -1,0 +1,15 @@
+{
+  "symbol": "FWOG",
+  "name": "Based Fwog",
+  "address": "0x1035ae3f87a91084c6c5084d0615cc6121c5e228",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52691/thumb/IMG_8652.PNG?1734033750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1035ae3f87a91084c6c5084d0615cc6121c5e228"
+  }
+}

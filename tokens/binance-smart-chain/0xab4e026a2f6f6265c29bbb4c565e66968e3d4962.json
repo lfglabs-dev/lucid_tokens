@@ -1,0 +1,15 @@
+{
+  "symbol": "MANIA",
+  "name": "ScapesMania",
+  "address": "0xab4e026a2f6f6265c29bbb4c565e66968e3d4962",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30406/thumb/token_scapesmania_200x200px.png?1684374712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xab4e026a2f6f6265c29bbb4c565e66968e3d4962"
+  }
+}

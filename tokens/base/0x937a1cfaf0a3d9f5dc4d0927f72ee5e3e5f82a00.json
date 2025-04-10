@@ -1,0 +1,15 @@
+{
+  "symbol": "Cocoro",
+  "name": "Cocoro",
+  "address": "0x937a1cfaf0a3d9f5dc4d0927f72ee5e3e5f82a00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54771/thumb/cocoro-logo.png?1741442335",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x937a1cfaf0a3d9f5dc4d0927f72ee5e3e5f82a00"
+  }
+}

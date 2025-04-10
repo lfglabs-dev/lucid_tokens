@@ -1,0 +1,15 @@
+{
+  "symbol": "GLORY",
+  "name": "GLORY",
+  "address": "0xd582879453337bd149ae53ec2092b0af5281d1d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xd582879453337bd149ae53ec2092b0af5281d1d7"
+  }
+}

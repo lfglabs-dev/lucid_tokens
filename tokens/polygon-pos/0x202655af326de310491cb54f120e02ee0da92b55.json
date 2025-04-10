@@ -1,0 +1,15 @@
+{
+  "symbol": "CRETA",
+  "name": "CRETA TOKEN",
+  "address": "0x202655af326de310491cb54f120e02ee0da92b55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29129/thumb/colour_icon.png?1676954572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x202655af326de310491cb54f120e02ee0da92b55"
+  }
+}

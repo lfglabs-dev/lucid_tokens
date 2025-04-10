@@ -1,0 +1,27 @@
+{
+  "symbol": "LINK",
+  "name": "ChainLink Token",
+  "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "optimistic-ethereum": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+    "base": "0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196",
+    "huobi-token": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
+    "xdai": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
+    "harmony-shard-0": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
+    "milkomeda-cardano": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+    "energi": "0x68ca48ca2626c415a89756471d4ade2cc9034008",
+    "binance-smart-chain": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+    "fantom": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+    "avalanche": "0x5947bb275c521040051d82396192181b413227a3",
+    "arbitrum-one": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "polygon-pos": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+  }
+}

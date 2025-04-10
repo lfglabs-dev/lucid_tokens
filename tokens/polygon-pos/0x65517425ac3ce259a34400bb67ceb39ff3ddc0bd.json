@@ -1,0 +1,15 @@
+{
+  "symbol": "nARS",
+  "name": "Num Finance ARS",
+  "address": "0x65517425ac3ce259a34400bb67ceb39ff3ddc0bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23054/thumb/nuARS_Logo.png?1643149045",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x65517425ac3ce259a34400bb67ceb39ff3ddc0bd"
+  }
+}

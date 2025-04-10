@@ -1,0 +1,15 @@
+{
+  "symbol": "NMBTC",
+  "name": "NMBTC Token",
+  "address": "0x5ddb331c3ba48a1d68cbf50dd3bc7aac407dc115",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20059/thumb/logo_-_2021-11-09T161322.006.png?1636445625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ddb331c3ba48a1d68cbf50dd3bc7aac407dc115"
+  }
+}

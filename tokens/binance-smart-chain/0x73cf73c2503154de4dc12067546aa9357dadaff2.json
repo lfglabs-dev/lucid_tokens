@@ -1,0 +1,15 @@
+{
+  "symbol": "42",
+  "name": "42-coin",
+  "address": "0x73cf73c2503154de4dc12067546aa9357dadaff2",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1283/thumb/42-coin.png?1547035308",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x73cf73c2503154de4dc12067546aa9357dadaff2"
+  }
+}

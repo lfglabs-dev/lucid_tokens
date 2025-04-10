@@ -1,0 +1,15 @@
+{
+  "symbol": "AvaxMinerAI",
+  "name": "AvaxMinerAI",
+  "address": "0x3cc96f3cb4f45b5b5cdbce61faee8ae80d805c65",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53340/thumb/logo.png?1736154470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x3cc96f3cb4f45b5b5cdbce61faee8ae80d805c65"
+  }
+}

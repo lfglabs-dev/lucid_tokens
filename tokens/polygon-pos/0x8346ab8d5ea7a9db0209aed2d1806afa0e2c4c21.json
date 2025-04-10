@@ -1,0 +1,18 @@
+{
+  "symbol": "MOD",
+  "name": "MODEFI  (PoS)",
+  "address": "0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13980/thumb/modefi_logo.png?1613453111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+    "binance-smart-chain": "0xd4fbc57b6233f268e7fba3b66e62719d74deecbc",
+    "fantom": "0xe64b9fd040d1f9d4715c645e0d567ef69958d3d9",
+    "polygon-pos": "0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21"
+  }
+}

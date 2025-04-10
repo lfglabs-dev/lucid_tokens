@@ -1,0 +1,15 @@
+{
+  "symbol": "MORK",
+  "name": "Mork",
+  "address": "0x0b1594b0e896bf165d925956e0df733b8443af6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39675/thumb/Mork_200_x_200_Circle.png?1723609160",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0b1594b0e896bf165d925956e0df733b8443af6a"
+  }
+}

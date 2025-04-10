@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYLONG",
+  "name": "BABYLONG",
+  "address": "0xeceb785a646f2c5ac759aa30d0fc85841ba004f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33039/thumb/babylong_coingecko.png?1700405351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeceb785a646f2c5ac759aa30d0fc85841ba004f3"
+  }
+}

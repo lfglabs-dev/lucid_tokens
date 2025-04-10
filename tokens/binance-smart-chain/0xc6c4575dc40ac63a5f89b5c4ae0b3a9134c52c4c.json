@@ -1,0 +1,15 @@
+{
+  "symbol": "nml",
+  "name": "zoey - your longevity coach by NetMind XYZ",
+  "address": "0xc6c4575dc40ac63a5f89b5c4ae0b3a9134c52c4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54486/thumb/20250218-043057.jpeg?1739991592",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc6c4575dc40ac63a5f89b5c4ae0b3a9134c52c4c"
+  }
+}

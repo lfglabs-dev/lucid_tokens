@@ -1,0 +1,15 @@
+{
+  "symbol": "ESX",
+  "name": "EstateX",
+  "address": "0x4ad006e61d77453ce99f6e24ba45d59e1c194644",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36937/thumb/logo.jpeg?1712847900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4ad006e61d77453ce99f6e24ba45d59e1c194644"
+  }
+}

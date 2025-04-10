@@ -1,0 +1,15 @@
+{
+  "symbol": "amWMATIC",
+  "name": "Aave Matic Market WMATIC",
+  "address": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17267/thumb/amWMATIC_2x.png?1626967624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4"
+  }
+}

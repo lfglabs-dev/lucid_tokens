@@ -1,0 +1,15 @@
+{
+  "symbol": "MOON",
+  "name": "HoneyMoon",
+  "address": "0xe8c93310af068aa50bd7bf0ebfa459df2a02ceba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18187/thumb/download_%2833%29.png?1630906145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe8c93310af068aa50bd7bf0ebfa459df2a02ceba"
+  }
+}

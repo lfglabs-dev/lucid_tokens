@@ -1,0 +1,15 @@
+{
+  "symbol": "BLAZE",
+  "name": "StoryFire ",
+  "address": "0xef7a4dd703d074974b7240c74b5ce938aa8983d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37351/thumb/storyfire.jpeg?1714094642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xef7a4dd703d074974b7240c74b5ce938aa8983d3"
+  }
+}

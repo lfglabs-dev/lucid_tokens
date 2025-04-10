@@ -1,0 +1,15 @@
+{
+  "symbol": "KAT",
+  "name": "Karat Token",
+  "address": "0xcdb7d260c107499c80b4b748e8331c64595972a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31834/thumb/coin1.png?1695208945",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xcdb7d260c107499c80b4b748e8331c64595972a1"
+  }
+}

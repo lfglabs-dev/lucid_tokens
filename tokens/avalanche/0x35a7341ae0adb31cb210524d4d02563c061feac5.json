@@ -1,0 +1,15 @@
+{
+  "symbol": "WOOF",
+  "name": "Woof",
+  "address": "0x35a7341ae0adb31cb210524d4d02563c061feac5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54758/thumb/Woof_Designs_%282%29.png?1741388468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x35a7341ae0adb31cb210524d4d02563c061feac5"
+  }
+}

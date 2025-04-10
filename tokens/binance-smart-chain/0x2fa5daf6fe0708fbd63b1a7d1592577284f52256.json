@@ -1,0 +1,16 @@
+{
+  "symbol": "MARSH",
+  "name": "UnmarshalToken",
+  "address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14554/thumb/img_circle_256x256.png?1616997706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
+    "binance-smart-chain": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256"
+  }
+}

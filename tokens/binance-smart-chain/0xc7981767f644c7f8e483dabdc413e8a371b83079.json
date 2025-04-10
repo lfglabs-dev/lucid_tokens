@@ -1,0 +1,16 @@
+{
+  "symbol": "LIQ",
+  "name": "Liquidus",
+  "address": "0xc7981767f644c7f8e483dabdc413e8a371b83079",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18749/thumb/liq.png?1635004173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc7981767f644c7f8e483dabdc413e8a371b83079",
+    "cronos": "0xabd380327fe66724ffda91a87c772fb8d00be488"
+  }
+}

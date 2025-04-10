@@ -1,0 +1,15 @@
+{
+  "symbol": "BACK",
+  "name": "We're so back",
+  "address": "0x4dfbd8a695baf78ebf8f905a4527020e844b278d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36636/thumb/image_66.png?1712025923",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4dfbd8a695baf78ebf8f905a4527020e844b278d"
+  }
+}

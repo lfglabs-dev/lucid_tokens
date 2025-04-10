@@ -1,0 +1,16 @@
+{
+  "symbol": "MHUNT",
+  "name": "MetaShooter",
+  "address": "0x61f95bd637e3034133335c1baa0148e518d438ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24985/thumb/200x200.png?1649681575",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x61f95bd637e3034133335c1baa0148e518d438ad",
+    "binance-smart-chain": "0x2c717059b366714d267039af8f59125cadce6d8c"
+  }
+}

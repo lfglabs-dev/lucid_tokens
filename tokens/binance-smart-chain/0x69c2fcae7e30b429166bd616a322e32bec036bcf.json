@@ -1,0 +1,16 @@
+{
+  "symbol": "MURATIAI",
+  "name": "MuratiAI",
+  "address": "0x69c2fcae7e30b429166bd616a322e32bec036bcf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30433/thumb/Muratilogo.png?1684466716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x69c2fcae7e30b429166bd616a322e32bec036bcf",
+    "ethereum": "0x69c2fcae7e30b429166bd616a322e32bec036bcf"
+  }
+}

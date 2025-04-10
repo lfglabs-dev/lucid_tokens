@@ -1,0 +1,15 @@
+{
+  "symbol": "SAP",
+  "name": "Satoshi Panda",
+  "address": "0xf251d850898758775958691df66895d0b5f837ad",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36225/thumb/1708066762482-82f2eccfa245aa68f2fd95f85143387c.png?1710870957",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf251d850898758775958691df66895d0b5f837ad"
+  }
+}

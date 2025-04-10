@@ -1,0 +1,16 @@
+{
+  "symbol": "RAGE",
+  "name": "RAGE Token",
+  "address": "0xd38c1b7b95d359978996e01b8a85286f65b3c011",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14585/thumb/Copy_of_RAGE_FAN_LOGO_ONLY.png?1627476357",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
+    "binance-smart-chain": "0xd38c1b7b95d359978996e01b8a85286f65b3c011"
+  }
+}

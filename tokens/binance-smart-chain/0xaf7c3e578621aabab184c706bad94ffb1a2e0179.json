@@ -1,0 +1,15 @@
+{
+  "symbol": "DAOP",
+  "name": "DaoSpace",
+  "address": "0xaf7c3e578621aabab184c706bad94ffb1a2e0179",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30066/thumb/daospacelogo200.png?1683008832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaf7c3e578621aabab184c706bad94ffb1a2e0179"
+  }
+}

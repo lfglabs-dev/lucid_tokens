@@ -1,0 +1,15 @@
+{
+  "symbol": "VELO",
+  "name": "VELO",
+  "address": "0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12538/thumb/Logo_200x_200.png?1625196103",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46"
+  }
+}

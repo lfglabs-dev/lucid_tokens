@@ -1,0 +1,15 @@
+{
+  "symbol": "terminal",
+  "name": "farterminal",
+  "address": "0xb488fcb23333e7baa28d1dfd7b69a5d3a8bfeb3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51477/thumb/terminalLogo.png?1731403786",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb488fcb23333e7baa28d1dfd7b69a5d3a8bfeb3a"
+  }
+}

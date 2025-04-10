@@ -1,0 +1,15 @@
+{
+  "symbol": "SSTX",
+  "name": "Silver Stonks",
+  "address": "0x5396734569e26101677eb39c89413f7fa7d8006f",
+  "decimals": 7,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17000/thumb/Logo-Silver-Stonks.png?1630048454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5396734569e26101677eb39c89413f7fa7d8006f"
+  }
+}

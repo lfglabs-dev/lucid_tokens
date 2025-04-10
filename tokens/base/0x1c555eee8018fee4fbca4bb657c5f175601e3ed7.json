@@ -1,0 +1,15 @@
+{
+  "symbol": "HUMO",
+  "name": "Humo",
+  "address": "0x1c555eee8018fee4fbca4bb657c5f175601e3ed7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52829/thumb/HUMO_Token.png?1734449906",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1c555eee8018fee4fbca4bb657c5f175601e3ed7"
+  }
+}

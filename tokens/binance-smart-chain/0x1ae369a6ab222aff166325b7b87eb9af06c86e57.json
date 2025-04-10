@@ -1,0 +1,15 @@
+{
+  "symbol": "10SET",
+  "name": "10Set Token",
+  "address": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14629/thumb/10set.png?1617353812",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57"
+  }
+}

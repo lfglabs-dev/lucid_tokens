@@ -1,0 +1,16 @@
+{
+  "symbol": "Mazi",
+  "name": "Mazimatic",
+  "address": "0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30490/thumb/4de906d9d4104a16b4334d8ec8f75284.png?1684718591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb",
+    "ethereum": "0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb"
+  }
+}

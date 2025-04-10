@@ -1,0 +1,15 @@
+{
+  "symbol": "LBR",
+  "name": "Libra Protocol",
+  "address": "0x566a9eeac9a589bf0825222bca083ecdb9c86c82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29389/thumb/Libra_Protocol.png?1678424896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x566a9eeac9a589bf0825222bca083ecdb9c86c82"
+  }
+}

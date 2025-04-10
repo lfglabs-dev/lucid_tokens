@@ -1,0 +1,15 @@
+{
+  "symbol": "MiKe💛",
+  "name": "MiKeNekoฅ^•ω•^ฅ💛",
+  "address": "0x24d75cc35e98488b0c3a562b58182e00804bbabe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x24d75cc35e98488b0c3a562b58182e00804bbabe"
+  }
+}

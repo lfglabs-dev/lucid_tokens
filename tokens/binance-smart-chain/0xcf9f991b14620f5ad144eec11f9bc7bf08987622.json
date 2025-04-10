@@ -1,0 +1,15 @@
+{
+  "symbol": "PORNROCKET",
+  "name": "PORNROCKET",
+  "address": "0xcf9f991b14620f5ad144eec11f9bc7bf08987622",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16207/thumb/PornRocket.png?1623307659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcf9f991b14620f5ad144eec11f9bc7bf08987622"
+  }
+}

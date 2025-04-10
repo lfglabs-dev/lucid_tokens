@@ -1,0 +1,15 @@
+{
+  "symbol": "SNFTS",
+  "name": "Seedify NFT Space",
+  "address": "0x6f51a1674befdd77f7ab1246b83adb9f13613762",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27131/thumb/SNFTS_-Emblem2_-thick.png?1662023443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6f51a1674befdd77f7ab1246b83adb9f13613762"
+  }
+}

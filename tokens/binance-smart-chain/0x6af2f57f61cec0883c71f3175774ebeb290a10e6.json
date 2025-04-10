@@ -1,0 +1,15 @@
+{
+  "symbol": "SCIE",
+  "name": "scientia",
+  "address": "0x6af2f57f61cec0883c71f3175774ebeb290a10e6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20450/thumb/scienta.PNG?1637044446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6af2f57f61cec0883c71f3175774ebeb290a10e6"
+  }
+}

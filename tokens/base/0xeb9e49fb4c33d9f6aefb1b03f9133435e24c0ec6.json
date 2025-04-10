@@ -1,0 +1,15 @@
+{
+  "symbol": "NEWB",
+  "name": "newton on base",
+  "address": "0xeb9e49fb4c33d9f6aefb1b03f9133435e24c0ec6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38475/thumb/newton_%281%29.png?1717651085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xeb9e49fb4c33d9f6aefb1b03f9133435e24c0ec6"
+  }
+}

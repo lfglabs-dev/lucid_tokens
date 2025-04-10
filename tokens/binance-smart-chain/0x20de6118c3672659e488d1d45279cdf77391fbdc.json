@@ -1,0 +1,15 @@
+{
+  "symbol": "BIDZ",
+  "name": "BIDZ",
+  "address": "0x20de6118c3672659e488d1d45279cdf77391fbdc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26177/thumb/O99u27zU_400x400.png?1656380941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x20de6118c3672659e488d1d45279cdf77391fbdc"
+  }
+}

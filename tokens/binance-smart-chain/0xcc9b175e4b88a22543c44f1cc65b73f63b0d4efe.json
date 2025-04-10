@@ -1,0 +1,15 @@
+{
+  "symbol": "SHARK",
+  "name": "BabyShark",
+  "address": "0xcc9b175e4b88a22543c44f1cc65b73f63b0d4efe",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15653/thumb/Resized_Shark_Logo.png?1624260129",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcc9b175e4b88a22543c44f1cc65b73f63b0d4efe"
+  }
+}

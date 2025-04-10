@@ -1,0 +1,15 @@
+{
+  "symbol": "GQB",
+  "name": "GQB",
+  "address": "0xe319519d910e733098fb559c2b10cb70ed854603",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52242/thumb/GUILDQB_Logo.png?1732815975",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe319519d910e733098fb559c2b10cb70ed854603"
+  }
+}

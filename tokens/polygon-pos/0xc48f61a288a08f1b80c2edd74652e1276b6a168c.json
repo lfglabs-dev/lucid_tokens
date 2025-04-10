@@ -1,0 +1,16 @@
+{
+  "symbol": "GYSR",
+  "name": "Geyser (PoS)",
+  "address": "0xc48f61a288a08f1b80c2edd74652e1276b6a168c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12995/thumb/logo_padded_shifted.png?1636633987",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab",
+    "polygon-pos": "0xc48f61a288a08f1b80c2edd74652e1276b6a168c"
+  }
+}

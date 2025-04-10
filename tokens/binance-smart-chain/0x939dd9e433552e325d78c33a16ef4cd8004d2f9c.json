@@ -1,0 +1,15 @@
+{
+  "symbol": "SN",
+  "name": "SpaceN",
+  "address": "0x939dd9e433552e325d78c33a16ef4cd8004d2f9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27576/thumb/sn.png?1664694186",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x939dd9e433552e325d78c33a16ef4cd8004d2f9c"
+  }
+}

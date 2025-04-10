@@ -1,0 +1,15 @@
+{
+  "symbol": "HGHG",
+  "name": "HUGHUG",
+  "address": "0xb626213cb1d52caa1ed71e2a0e62c0113ed8d642",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20172/thumb/512hug.png?1636603036",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb626213cb1d52caa1ed71e2a0e62c0113ed8d642"
+  }
+}

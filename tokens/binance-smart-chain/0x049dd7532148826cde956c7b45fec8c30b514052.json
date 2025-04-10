@@ -1,0 +1,16 @@
+{
+  "symbol": "TEX",
+  "name": "IotexPad",
+  "address": "0x049dd7532148826cde956c7b45fec8c30b514052",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20964/thumb/7gyi5TV8_400x400.jpg?1638152165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "iotex": "0x0499a3ec965136bea01e4350113a2105724785dc",
+    "binance-smart-chain": "0x049dd7532148826cde956c7b45fec8c30b514052"
+  }
+}

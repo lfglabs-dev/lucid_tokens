@@ -1,0 +1,16 @@
+{
+  "symbol": "WINTER",
+  "name": "Winter Token (PoS)",
+  "address": "0x51540d15957bdc0fdb87d32616c8d658d59f77c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25367/thumb/winter.png?1651317666",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xccba0b2bc4babe4cbfb6bd2f1edc2a9e86b7845f",
+    "polygon-pos": "0x51540d15957bdc0fdb87d32616c8d658d59f77c6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GQ",
+  "name": "Galactic Quadrant",
+  "address": "0xf700d4c708c2be1463e355f337603183d20e0808",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24059/thumb/logo_gg.png?1648630827",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf700d4c708c2be1463e355f337603183d20e0808"
+  }
+}

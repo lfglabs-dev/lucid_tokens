@@ -1,0 +1,15 @@
+{
+  "symbol": "JANI",
+  "name": "janitooor",
+  "address": "0x8f06863df59a042bcc2c86cc8ca1709ec1ee316b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54525/thumb/janinew.png?1740137171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x8f06863df59a042bcc2c86cc8ca1709ec1ee316b"
+  }
+}

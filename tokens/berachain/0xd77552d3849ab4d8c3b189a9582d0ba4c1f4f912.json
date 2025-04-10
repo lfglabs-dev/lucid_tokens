@@ -1,0 +1,15 @@
+{
+  "symbol": "wgBERA",
+  "name": "Wrapped gBERA",
+  "address": "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54804/thumb/wgbera.jpg?1741743688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"
+  }
+}

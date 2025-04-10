@@ -1,0 +1,15 @@
+{
+  "symbol": "stkBNB",
+  "name": "Staked BNB",
+  "address": "0xc2e9d07f66a89c44062459a47a0d2dc038e4fb16",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26725/thumb/stkBNB.png?1659878803",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc2e9d07f66a89c44062459a47a0d2dc038e4fb16"
+  }
+}

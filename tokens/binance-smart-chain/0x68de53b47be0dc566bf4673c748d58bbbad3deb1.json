@@ -1,0 +1,15 @@
+{
+  "symbol": "DGR",
+  "name": "DogeGrow",
+  "address": "0x68de53b47be0dc566bf4673c748d58bbbad3deb1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29532/thumb/IMG-20230321-WA0009.jpg?1679478426",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x68de53b47be0dc566bf4673c748d58bbbad3deb1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "AIOZ",
+  "name": "AIOZ Network",
+  "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14631/thumb/aioz-logo-200.png?1649237507",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x626e8036deb333b408be468f951bdb42433cbf18",
+    "binance-smart-chain": "0x33d08d8c7a168333a85285a68c0042b39fc3741d"
+  }
+}

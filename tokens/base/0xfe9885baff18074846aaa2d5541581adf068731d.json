@@ -1,0 +1,15 @@
+{
+  "symbol": "DOR",
+  "name": "Dor Technologies",
+  "address": "0xfe9885baff18074846aaa2d5541581adf068731d",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33044/thumb/dortoken_red.png?1700429057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfe9885baff18074846aaa2d5541581adf068731d"
+  }
+}

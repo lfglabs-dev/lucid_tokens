@@ -1,0 +1,15 @@
+{
+  "symbol": "Goal",
+  "name": "TopGoal Token",
+  "address": "0xc4736f2611a62d545dc2d0d8f0766283617e6fcb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29229/thumb/YRDnlXib_400x400.jpg?1677496052",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc4736f2611a62d545dc2d0d8f0766283617e6fcb"
+  }
+}

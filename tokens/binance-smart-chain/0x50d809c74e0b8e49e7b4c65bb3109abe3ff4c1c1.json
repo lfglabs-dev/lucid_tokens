@@ -1,0 +1,15 @@
+{
+  "symbol": "CUB",
+  "name": "Cub Finance",
+  "address": "0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14743/thumb/cub.png?1618019618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1"
+  }
+}

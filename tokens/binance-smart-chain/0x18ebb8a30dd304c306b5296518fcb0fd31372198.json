@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOK",
+  "name": "Bscbook",
+  "address": "0x18ebb8a30dd304c306b5296518fcb0fd31372198",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54322/thumb/200x200.jpg?1739289452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x18ebb8a30dd304c306b5296518fcb0fd31372198"
+  }
+}

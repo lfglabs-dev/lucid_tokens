@@ -1,0 +1,15 @@
+{
+  "symbol": "Y8U",
+  "name": "Y8U.AI",
+  "address": "0x991b4ce57864060115700d6fc05c7780346a15ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37315/thumb/y8u-200x200.png?1713971536",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x991b4ce57864060115700d6fc05c7780346a15ac"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "uENS",
+  "name": "Ethereum Name Service (Universal)",
+  "address": "0x8f2bd24a6406142cbae4b39e14be8efc8157d951",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54725/thumb/UA-ENS.png?1741244441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8f2bd24a6406142cbae4b39e14be8efc8157d951"
+  }
+}

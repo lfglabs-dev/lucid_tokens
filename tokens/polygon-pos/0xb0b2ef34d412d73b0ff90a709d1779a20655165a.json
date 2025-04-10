@@ -1,0 +1,17 @@
+{
+  "symbol": "GUARD",
+  "name": "Guardian",
+  "address": "0xb0b2ef34d412d73b0ff90a709d1779a20655165a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17995/thumb/Guard_200x200_.png?1630047581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
+    "arbitrum-one": "0xbcf339df10d78f2b44aa760ead0f715a7a7d7269",
+    "polygon-pos": "0xb0b2ef34d412d73b0ff90a709d1779a20655165a"
+  }
+}

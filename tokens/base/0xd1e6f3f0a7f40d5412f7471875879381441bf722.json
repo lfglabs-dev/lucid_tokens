@@ -1,0 +1,15 @@
+{
+  "symbol": "ARI",
+  "name": "ARI",
+  "address": "0xd1e6f3f0a7f40d5412f7471875879381441bf722",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51167/thumb/ARI_TOKEN_WHITE_2_%281%29.png?1730267906",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd1e6f3f0a7f40d5412f7471875879381441bf722"
+  }
+}

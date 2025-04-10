@@ -1,0 +1,15 @@
+{
+  "symbol": "SYNDOG",
+  "name": "Synthesizer Dog",
+  "address": "0x3d1d651761d535df881740ab50ba4bd8a2ec2c00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51577/thumb/SYNDOG_LOGO.png?1731534533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3d1d651761d535df881740ab50ba4bd8a2ec2c00"
+  }
+}

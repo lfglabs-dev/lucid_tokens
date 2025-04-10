@@ -1,0 +1,15 @@
+{
+  "symbol": "SHC",
+  "name": "ShowPlus Chain 2.0",
+  "address": "0xe8b9c5c5561727d248aac2a3207219bbae25a16c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51350/thumb/Transparent_logo.png?1730875345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe8b9c5c5561727d248aac2a3207219bbae25a16c"
+  }
+}

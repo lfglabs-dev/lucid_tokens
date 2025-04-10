@@ -1,0 +1,15 @@
+{
+  "symbol": "IRA",
+  "name": "DeFi-IRA",
+  "address": "0x029c58a909fbe3d4be85a24f414dda923a3fde0f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39974/thumb/Defi_Ira.PNG?1724970682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x029c58a909fbe3d4be85a24f414dda923a3fde0f"
+  }
+}

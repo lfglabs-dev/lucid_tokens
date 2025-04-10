@@ -1,0 +1,15 @@
+{
+  "symbol": "POGAI",
+  "name": "POGAI",
+  "address": "0xdfa86a77c9c99c2a1d33e56f42081b40fc3bdfcc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54692/thumb/IMG_1010.jpeg?1741091946",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdfa86a77c9c99c2a1d33e56f42081b40fc3bdfcc"
+  }
+}

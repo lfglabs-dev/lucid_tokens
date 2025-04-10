@@ -1,0 +1,15 @@
+{
+  "symbol": "Type",
+  "name": "Type",
+  "address": "0xd9a44c40584288505931880c9915c6a5eb5f2fb1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30962/thumb/Type-It-logo-200-x-200.png?1689222093",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9a44c40584288505931880c9915c6a5eb5f2fb1"
+  }
+}

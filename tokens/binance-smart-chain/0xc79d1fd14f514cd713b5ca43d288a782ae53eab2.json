@@ -1,0 +1,15 @@
+{
+  "symbol": "XLD",
+  "name": "XcelDefi",
+  "address": "0xc79d1fd14f514cd713b5ca43d288a782ae53eab2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19318/thumb/PNG_XLD.png?1642750313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc79d1fd14f514cd713b5ca43d288a782ae53eab2"
+  }
+}

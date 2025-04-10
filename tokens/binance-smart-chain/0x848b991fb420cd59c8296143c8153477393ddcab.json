@@ -1,0 +1,15 @@
+{
+  "symbol": "KCN",
+  "name": "Kylacoin",
+  "address": "0x848b991fb420cd59c8296143c8153477393ddcab",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30654/thumb/bitcoin.png?1686123784",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x848b991fb420cd59c8296143c8153477393ddcab"
+  }
+}

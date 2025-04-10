@@ -1,0 +1,15 @@
+{
+  "symbol": "S",
+  "name": "Token S",
+  "address": "0x667d0fb35364b0711b8566bee4dc3d0f96d6a688",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54975/thumb/token-s.jpg?1742970082",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x667d0fb35364b0711b8566bee4dc3d0f96d6a688"
+  }
+}

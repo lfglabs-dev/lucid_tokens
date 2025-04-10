@@ -1,0 +1,15 @@
+{
+  "symbol": "Mini GOUT",
+  "name": "MINIGOUT",
+  "address": "0xbe3a6594fde8a93dd2fa40bc0b52a899f3f91671",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52467/thumb/logo200.png?1733411516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbe3a6594fde8a93dd2fa40bc0b52a899f3f91671"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "USDC.e",
+  "name": "Bridged USDC (zkSync)",
+  "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35262/thumb/USDC_Icon.png?1708008941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4"
+  }
+}

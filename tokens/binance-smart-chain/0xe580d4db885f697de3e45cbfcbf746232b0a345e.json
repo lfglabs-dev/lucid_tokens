@@ -1,0 +1,15 @@
+{
+  "symbol": "STARX",
+  "name": "STARX",
+  "address": "0xe580d4db885f697de3e45cbfcbf746232b0a345e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8417/thumb/starworks.PNG?1640681958",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe580d4db885f697de3e45cbfcbf746232b0a345e"
+  }
+}

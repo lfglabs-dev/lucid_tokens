@@ -1,0 +1,25 @@
+{
+  "symbol": "ynETHx",
+  "name": "ynETH MAX",
+  "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x657d9aba1dbb59e53f9f3ecaa878447dcfc96dcb",
+    "arbitrum-one": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "optimistic-ethereum": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "fraxtal": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "berachain": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "binance-smart-chain": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "base": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "scroll": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "taiko": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "mantle": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "blast": "0xe231db5f348d709239ef1741ea30961b3b635a61"
+  }
+}

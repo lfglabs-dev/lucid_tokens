@@ -1,0 +1,15 @@
+{
+  "symbol": "BENX",
+  "name": "BlueBenx",
+  "address": "0x315be92aba5c3aaaf82b0c0c613838342c1416e7",
+  "decimals": 7,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27460/thumb/B3S1F8VA_400x400.jpeg?1664167125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x315be92aba5c3aaaf82b0c0c613838342c1416e7"
+  }
+}

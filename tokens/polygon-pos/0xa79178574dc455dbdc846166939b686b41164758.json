@@ -1,0 +1,15 @@
+{
+  "symbol": "BJR",
+  "name": "BiJiRi",
+  "address": "0xa79178574dc455dbdc846166939b686b41164758",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53844/thumb/K2-icon_v2_200.png?1737569391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa79178574dc455dbdc846166939b686b41164758"
+  }
+}

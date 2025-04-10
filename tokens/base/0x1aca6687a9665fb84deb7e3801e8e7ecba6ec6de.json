@@ -1,0 +1,15 @@
+{
+  "symbol": "RAIN",
+  "name": "Rain by Virtuals",
+  "address": "0x1aca6687a9665fb84deb7e3801e8e7ecba6ec6de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53110/thumb/5ab777ba-71fa-44b5-9e34-6582d0bef7fe.jpg?1735233561",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1aca6687a9665fb84deb7e3801e8e7ecba6ec6de"
+  }
+}

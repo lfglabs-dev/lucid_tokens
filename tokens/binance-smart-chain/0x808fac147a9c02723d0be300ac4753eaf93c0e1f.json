@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyFlokiCoin",
+  "name": "BabyFlokiCoin",
+  "address": "0x808fac147a9c02723d0be300ac4753eaf93c0e1f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18882/thumb/n8hZe-5I_400x400.jpg?1633693483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x808fac147a9c02723d0be300ac4753eaf93c0e1f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "CHAR",
+  "name": "Biochar",
+  "address": "0x20b048fa035d5763685d695e66adf62c5d9f5055",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38094/thumb/char_logo_toucan.png?1716488453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x20b048fa035d5763685d695e66adf62c5d9f5055",
+    "celo": "0x50e85c754929840b58614f48e29c64bc78c58345"
+  }
+}

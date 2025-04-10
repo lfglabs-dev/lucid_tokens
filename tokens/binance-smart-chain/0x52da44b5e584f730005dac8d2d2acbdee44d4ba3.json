@@ -1,0 +1,15 @@
+{
+  "symbol": "KT",
+  "name": "KingToken",
+  "address": "0x52da44b5e584f730005dac8d2d2acbdee44d4ba3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23411/thumb/kt.png?1644151409",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x52da44b5e584f730005dac8d2d2acbdee44d4ba3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "onchain",
+  "name": "onchain",
+  "address": "0x1c22374032e7e5a1bbde3d943f5deb310db060dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40107/thumb/onchain.png?1725696897",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "onchain": "0xde31521cc76810d2b4f41c38f2a5d6b498217145",
+    "base": "0x1c22374032e7e5a1bbde3d943f5deb310db060dd"
+  }
+}

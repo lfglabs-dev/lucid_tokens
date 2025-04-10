@@ -1,0 +1,15 @@
+{
+  "symbol": "HYPER",
+  "name": "Hyper",
+  "address": "0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50634/thumb/Group_427320575.png?1728546751",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31"
+  }
+}

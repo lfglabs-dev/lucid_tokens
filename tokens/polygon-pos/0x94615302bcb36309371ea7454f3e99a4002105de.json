@@ -1,0 +1,15 @@
+{
+  "symbol": "NRS",
+  "name": "Nereus Token",
+  "address": "0x94615302bcb36309371ea7454f3e99a4002105de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51587/thumb/e3c4e5_aeff06e183814a82bb9cb771cd64386b_mv2.png?1731569446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x94615302bcb36309371ea7454f3e99a4002105de"
+  }
+}

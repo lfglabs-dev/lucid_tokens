@@ -1,0 +1,15 @@
+{
+  "symbol": "MTRX",
+  "name": "Metarix",
+  "address": "0x08b87b1cfdba00dfb79d77cac1a5970ba6c9cde2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27565/thumb/output-onlinepngtools_%287%29.png?1664520885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x08b87b1cfdba00dfb79d77cac1a5970ba6c9cde2"
+  }
+}

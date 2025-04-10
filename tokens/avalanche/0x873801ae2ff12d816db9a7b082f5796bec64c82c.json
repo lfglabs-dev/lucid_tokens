@@ -1,0 +1,16 @@
+{
+  "symbol": "WTF",
+  "name": "Waterfall Governance Token",
+  "address": "0x873801ae2ff12d816db9a7b082f5796bec64c82c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19189/thumb/wtf_icon_avatar_200x200.png?1634631004",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd73f32833b6d5d9c8070c23e599e283a3039823c",
+    "avalanche": "0x873801ae2ff12d816db9a7b082f5796bec64c82c"
+  }
+}

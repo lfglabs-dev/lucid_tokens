@@ -1,0 +1,15 @@
+{
+  "symbol": "CHRETT",
+  "name": "Chinese BRETT",
+  "address": "0xf8a99f2bf2ce5bb6ce4aafcf070d8723bc904aa2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38541/thumb/GNQP9A7WwAIcolJ_%282%29.png?1717926712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf8a99f2bf2ce5bb6ce4aafcf070d8723bc904aa2"
+  }
+}

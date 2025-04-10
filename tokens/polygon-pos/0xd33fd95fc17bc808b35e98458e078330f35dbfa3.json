@@ -1,0 +1,15 @@
+{
+  "symbol": "NIGHT",
+  "name": "Midnight",
+  "address": "0xd33fd95fc17bc808b35e98458e078330f35dbfa3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38034/thumb/cmc_logo.png?1716323658",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd33fd95fc17bc808b35e98458e078330f35dbfa3"
+  }
+}

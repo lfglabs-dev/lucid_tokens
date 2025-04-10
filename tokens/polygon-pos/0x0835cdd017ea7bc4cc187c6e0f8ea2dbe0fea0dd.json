@@ -1,0 +1,15 @@
+{
+  "symbol": "KEN",
+  "name": "KOHENOOR",
+  "address": "0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33880/thumb/Screenshot_2023_1126_101414.jpg?1703146967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd"
+  }
+}

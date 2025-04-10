@@ -1,0 +1,15 @@
+{
+  "symbol": "LUS",
+  "name": "Luna Rush Token",
+  "address": "0xde301d6a2569aefcfe271b9d98f318baee1d30a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22295/thumb/16197.png?1641420414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde301d6a2569aefcfe271b9d98f318baee1d30a4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PAT",
+  "name": "Pat",
+  "address": "0x8300e8e6b258147972972dbcf87719da7b817a9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36545/thumb/Pfp_%282%29.png?1711734258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8300e8e6b258147972972dbcf87719da7b817a9c"
+  }
+}

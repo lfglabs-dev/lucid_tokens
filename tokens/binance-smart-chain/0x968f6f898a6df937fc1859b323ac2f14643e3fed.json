@@ -1,0 +1,16 @@
+{
+  "symbol": "NWC",
+  "name": "Newscrypto",
+  "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9805/thumb/Tu1_NI3s_%281%29.png?1614745476",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+    "binance-smart-chain": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+  }
+}

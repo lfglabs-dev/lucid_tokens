@@ -1,0 +1,15 @@
+{
+  "symbol": "PPAD",
+  "name": "PlayPad Token",
+  "address": "0x93bb13e90678ccd8bbab07d1daef15086746dc9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20202/thumb/playpad.PNG?1636622174",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x93bb13e90678ccd8bbab07d1daef15086746dc9b"
+  }
+}

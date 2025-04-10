@@ -1,0 +1,15 @@
+{
+  "symbol": "NAYM",
+  "name": "Naym",
+  "address": "0x314d7f9e2f55b430ef656fbb98a7635d43a2261e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50981/thumb/naym.jpg?1729651162",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x314d7f9e2f55b430ef656fbb98a7635d43a2261e"
+  }
+}

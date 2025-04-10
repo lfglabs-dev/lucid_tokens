@@ -1,0 +1,15 @@
+{
+  "symbol": "$ADE",
+  "name": "AADex Finance",
+  "address": "0x15c5be2f72d2f8211ca1cf3d29f058f2b844ffc6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39874/thumb/ADE_%282%29.png?1724617141",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x15c5be2f72d2f8211ca1cf3d29f058f2b844ffc6"
+  }
+}

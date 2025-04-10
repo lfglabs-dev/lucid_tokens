@@ -1,0 +1,15 @@
+{
+  "symbol": "HYGT",
+  "name": "High Yield Dollar Governance Token",
+  "address": "0x100995a7e5ffd8ee60cc18a10c75cee8c572c59b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x100995a7e5ffd8ee60cc18a10c75cee8c572c59b"
+  }
+}

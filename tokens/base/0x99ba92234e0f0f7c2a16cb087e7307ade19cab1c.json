@@ -1,0 +1,15 @@
+{
+  "symbol": "WECO",
+  "name": "WECO AI RWA AGENT by Virtuals",
+  "address": "0x99ba92234e0f0f7c2a16cb087e7307ade19cab1c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54730/thumb/weco.jpg?1741245926",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x99ba92234e0f0f7c2a16cb087e7307ade19cab1c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GAFI",
+  "name": "GameFi",
+  "address": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18292/thumb/gamefi.PNG?1631312307",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e"
+  }
+}

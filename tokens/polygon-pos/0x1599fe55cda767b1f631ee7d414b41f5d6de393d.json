@@ -1,0 +1,15 @@
+{
+  "symbol": "MILK",
+  "name": "Milk",
+  "address": "0x1599fe55cda767b1f631ee7d414b41f5d6de393d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23340/thumb/milk_logo.jpg?1643890548",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1599fe55cda767b1f631ee7d414b41f5d6de393d"
+  }
+}

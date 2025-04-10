@@ -1,0 +1,15 @@
+{
+  "symbol": "BOAI",
+  "name": "BOLICAI",
+  "address": "0x571dbcaa3df80dfebf69fefd084dace4a22ea7bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32285/thumb/IMG_20231010_185010_404.jpg?1697181781",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x571dbcaa3df80dfebf69fefd084dace4a22ea7bf"
+  }
+}

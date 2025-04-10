@@ -1,0 +1,15 @@
+{
+  "symbol": "Bling",
+  "name": "PlebDreke",
+  "address": "0x84f074917fb9d464c1264c47296be53424bbc93f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37288/thumb/image_3.png?1713946317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x84f074917fb9d464c1264c47296be53424bbc93f"
+  }
+}

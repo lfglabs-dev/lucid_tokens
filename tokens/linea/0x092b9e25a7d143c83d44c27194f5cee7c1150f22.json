@@ -1,0 +1,15 @@
+{
+  "symbol": "CWC",
+  "name": "CatWifCap",
+  "address": "0x092b9e25a7d143c83d44c27194f5cee7c1150f22",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52656/thumb/CATWIFCAP.png?1734000793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x092b9e25a7d143c83d44c27194f5cee7c1150f22"
+  }
+}

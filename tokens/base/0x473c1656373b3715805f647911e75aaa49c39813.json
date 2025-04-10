@@ -1,0 +1,15 @@
+{
+  "symbol": "SHITZU",
+  "name": "SHITZU",
+  "address": "0x473c1656373b3715805f647911e75aaa49c39813",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24857/thumb/sFChtaUA_400x400.jpg?1649141749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x473c1656373b3715805f647911e75aaa49c39813"
+  }
+}

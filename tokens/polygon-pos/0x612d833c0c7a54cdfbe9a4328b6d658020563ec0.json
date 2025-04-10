@@ -1,0 +1,16 @@
+{
+  "symbol": "fxPINE",
+  "name": "Pine Token (FXERC20)",
+  "address": "0x612d833c0c7a54cdfbe9a4328b6d658020563ec0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25660/thumb/8M1szAEo_400x400.jpg?1653277012",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x569424c5ee13884a193773fdc5d1c5f79c443a51",
+    "polygon-pos": "0x612d833c0c7a54cdfbe9a4328b6d658020563ec0"
+  }
+}

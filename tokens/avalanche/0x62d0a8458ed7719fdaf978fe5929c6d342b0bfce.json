@@ -1,0 +1,17 @@
+{
+  "symbol": "BEAM",
+  "name": "Beam",
+  "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32417/thumb/chain-logo.png?1698114384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "binance-smart-chain": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "avalanche": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SNPT",
+  "name": "SNPIT TOKEN(PoS)",
+  "address": "0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38820/thumb/SNPT.jpg?1719100061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BURR",
+  "name": "Burr Governance Token",
+  "address": "0x28e0e3b9817012b356119df9e217c25932d609c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55134/thumb/BURR_Token_logo.png?1744006499",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x28e0e3b9817012b356119df9e217c25932d609c2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "WRLD",
+  "name": "NFT Worlds",
+  "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22112/thumb/ZyBrRgfO.jpg?1640842284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+    "polygon-pos": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9"
+  }
+}

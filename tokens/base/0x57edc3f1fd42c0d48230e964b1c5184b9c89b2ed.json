@@ -1,0 +1,15 @@
+{
+  "symbol": "DKING",
+  "name": "draiftking",
+  "address": "0x57edc3f1fd42c0d48230e964b1c5184b9c89b2ed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53423/thumb/Draiftking_1by1_copy.png?1736355133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x57edc3f1fd42c0d48230e964b1c5184b9c89b2ed"
+  }
+}

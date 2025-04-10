@@ -1,0 +1,17 @@
+{
+  "symbol": "MaticX",
+  "name": "Liquid Staking Matic (PoS)",
+  "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25383/thumb/6GWyFVHD_400x400.jpg?1651615396",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
+    "manta-pacific": "0x01d27580c464d5b3b26f78bee12e684901dbc02a",
+    "polygon-pos": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CLEO",
+  "name": "Cleopatra",
+  "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2"
+  }
+}

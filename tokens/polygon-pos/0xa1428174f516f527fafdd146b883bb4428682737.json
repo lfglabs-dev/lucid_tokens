@@ -1,0 +1,16 @@
+{
+  "symbol": "SUPER",
+  "name": "SuperFarm (PoS)",
+  "address": "0xa1428174f516f527fafdd146b883bb4428682737",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+    "polygon-pos": "0xa1428174f516f527fafdd146b883bb4428682737"
+  }
+}

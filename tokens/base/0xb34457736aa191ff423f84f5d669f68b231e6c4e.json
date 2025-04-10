@@ -1,0 +1,15 @@
+{
+  "symbol": "AIDOGE",
+  "name": "AGENT DOGE by Virtuals",
+  "address": "0xb34457736aa191ff423f84f5d669f68b231e6c4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52187/thumb/Screenshot_2024-11-23_at_4.09.40%E2%80%AFPM.png?1732723139",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb34457736aa191ff423f84f5d669f68b231e6c4e"
+  }
+}

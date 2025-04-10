@@ -1,0 +1,15 @@
+{
+  "symbol": "YEET",
+  "name": "YEET",
+  "address": "0x08a38caa631de329ff2dad1656ce789f31af3142",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x08a38caa631de329ff2dad1656ce789f31af3142"
+  }
+}

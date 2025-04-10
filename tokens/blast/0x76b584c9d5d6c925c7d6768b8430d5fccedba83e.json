@@ -1,0 +1,18 @@
+{
+  "symbol": "ARKX.d",
+  "name": "ARK Space Exploration & Innovation ETF - Dinari",
+  "address": "0x76b584c9d5d6c925c7d6768b8430d5fccedba83e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54037/thumb/d-token-200.png?1738075900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x10ddf4850c43de1bcab504f53becdcd66a53d5c4",
+    "ethereum": "0xf0d7ee633636bae1d502a96f1130b00deaf06dc4",
+    "blast": "0x76b584c9d5d6c925c7d6768b8430d5fccedba83e",
+    "base": "0x32224be543fb8f338a9a6c337d84478e256ee219"
+  }
+}

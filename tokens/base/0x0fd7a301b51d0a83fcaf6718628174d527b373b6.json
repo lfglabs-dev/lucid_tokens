@@ -1,0 +1,15 @@
+{
+  "symbol": "LUM",
+  "name": "luminous",
+  "address": "0x0fd7a301b51d0a83fcaf6718628174d527b373b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51439/thumb/LUM.jpg?1731232511",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0fd7a301b51d0a83fcaf6718628174d527b373b6"
+  }
+}

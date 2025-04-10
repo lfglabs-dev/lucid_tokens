@@ -1,0 +1,15 @@
+{
+  "symbol": "SPH",
+  "name": "Sophia",
+  "address": "0x95308ec85a48376f253f36720355a54808c7857b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55152/thumb/IMG_1204.jpeg?1744189746",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x95308ec85a48376f253f36720355a54808c7857b"
+  }
+}

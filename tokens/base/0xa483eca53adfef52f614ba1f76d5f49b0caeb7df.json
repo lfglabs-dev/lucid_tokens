@@ -1,0 +1,17 @@
+{
+  "symbol": "MARA.d",
+  "name": "MARA Holdings, Inc. Common Stock - Dinari",
+  "address": "0xa483eca53adfef52f614ba1f76d5f49b0caeb7df",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53868/thumb/d-token-200.png?1737615592",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xc0ce7221db1508529752339c3bd5dcf01fa1b0ca",
+    "blast": "0x179004cb725a4d94bfcdffa5eece3b9df0efffe6",
+    "base": "0xa483eca53adfef52f614ba1f76d5f49b0caeb7df"
+  }
+}

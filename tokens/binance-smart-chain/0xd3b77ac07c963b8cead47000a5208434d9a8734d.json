@@ -1,0 +1,15 @@
+{
+  "symbol": "TREES",
+  "name": "SAFETREES",
+  "address": "0xd3b77ac07c963b8cead47000a5208434d9a8734d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16202/thumb/ST_newLogo_200x.png?1649045576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd3b77ac07c963b8cead47000a5208434d9a8734d"
+  }
+}

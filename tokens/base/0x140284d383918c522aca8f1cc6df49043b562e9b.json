@@ -1,0 +1,15 @@
+{
+  "symbol": "BLAP",
+  "name": "BLAP",
+  "address": "0x140284d383918c522aca8f1cc6df49043b562e9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53007/thumb/dextoolslogo1.png?1734986637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x140284d383918c522aca8f1cc6df49043b562e9b"
+  }
+}

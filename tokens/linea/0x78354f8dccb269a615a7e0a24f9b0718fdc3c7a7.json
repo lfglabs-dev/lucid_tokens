@@ -1,0 +1,18 @@
+{
+  "symbol": "ZERO",
+  "name": "ZeroLend",
+  "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37375/thumb/Logo_Icon_Gradient.png?1714148516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7",
+    "zksync": "0x27d0a2b5316b98088294378692f4eabfb3222e36",
+    "x-layer": "0x843d794ed4335b27d02184ca86787c14e6247074",
+    "manta-pacific": "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d"
+  }
+}

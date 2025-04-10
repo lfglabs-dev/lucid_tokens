@@ -1,0 +1,15 @@
+{
+  "symbol": "POODL",
+  "name": "Poodl",
+  "address": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14405/thumb/poodl-logo200x200.jpg?1615900163",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d"
+  }
+}

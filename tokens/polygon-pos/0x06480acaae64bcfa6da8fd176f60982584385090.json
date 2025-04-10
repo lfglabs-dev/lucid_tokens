@@ -1,0 +1,15 @@
+{
+  "symbol": "IVY",
+  "name": "IVY Trading System",
+  "address": "0x06480acaae64bcfa6da8fd176f60982584385090",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50570/thumb/logo-200.png?1728374566",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x06480acaae64bcfa6da8fd176f60982584385090"
+  }
+}

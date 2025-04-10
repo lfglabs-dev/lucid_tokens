@@ -1,0 +1,15 @@
+{
+  "symbol": "ACTUAL",
+  "name": "Actual by Virtuals",
+  "address": "0x6948de89f535ed4a3b07122be0fe1ae65d527c03",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53484/thumb/XAvatar.png?1736485234",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6948de89f535ed4a3b07122be0fe1ae65d527c03"
+  }
+}

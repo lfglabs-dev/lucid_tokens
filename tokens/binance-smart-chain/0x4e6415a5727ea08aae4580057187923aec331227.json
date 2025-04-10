@@ -1,0 +1,15 @@
+{
+  "symbol": "FINE",
+  "name": "Refinable",
+  "address": "0x4e6415a5727ea08aae4580057187923aec331227",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14925/thumb/profilepic_square.png?1621497134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4e6415a5727ea08aae4580057187923aec331227"
+  }
+}

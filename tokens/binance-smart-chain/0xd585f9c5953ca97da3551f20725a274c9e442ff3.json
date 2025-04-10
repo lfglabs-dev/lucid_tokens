@@ -1,0 +1,15 @@
+{
+  "symbol": "PEG",
+  "name": "Pegazus Finance",
+  "address": "0xd585f9c5953ca97da3551f20725a274c9e442ff3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15610/thumb/Pegazus.png?1621317167",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd585f9c5953ca97da3551f20725a274c9e442ff3"
+  }
+}

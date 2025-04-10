@@ -1,0 +1,16 @@
+{
+  "symbol": "⌘",
+  "name": "NANI",
+  "address": "0x00000000000007c8612ba63df8ddefd9e6077c97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53551/thumb/logo.png?1736671853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00000000000007c8612ba63df8ddefd9e6077c97",
+    "base": "0x00000000000007c8612ba63df8ddefd9e6077c97"
+  }
+}

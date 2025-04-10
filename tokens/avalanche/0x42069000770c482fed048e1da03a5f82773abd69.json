@@ -1,0 +1,15 @@
+{
+  "symbol": "BRO",
+  "name": "My Bro",
+  "address": "0x42069000770c482fed048e1da03a5f82773abd69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53208/thumb/broLogoTransparent200x200.png?1735668457",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x42069000770c482fed048e1da03a5f82773abd69"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FURY",
+  "name": "Engines of Fury Token",
+  "address": "0x0203d275d2a65030889af45ed91d472be3948b92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25141/thumb/Untitled_design_%2823%29.png?1715284191",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0203d275d2a65030889af45ed91d472be3948b92"
+  }
+}

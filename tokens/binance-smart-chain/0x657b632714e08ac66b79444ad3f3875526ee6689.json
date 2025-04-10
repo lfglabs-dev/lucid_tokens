@@ -1,0 +1,15 @@
+{
+  "symbol": "F2C",
+  "name": "Ftribe Fighters Coin",
+  "address": "0x657b632714e08ac66b79444ad3f3875526ee6689",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22250/thumb/d2pxPhBW_400x400.png?1641278639",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x657b632714e08ac66b79444ad3f3875526ee6689"
+  }
+}

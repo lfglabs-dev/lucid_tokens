@@ -1,0 +1,15 @@
+{
+  "symbol": "AIINU",
+  "name": "AI INU",
+  "address": "0x8853f0c059c27527d33d02378e5e4f6d5afb574a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36902/thumb/aiinu.png?1712699681",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8853f0c059c27527d33d02378e5e4f6d5afb574a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "steakEURA",
+  "name": "Steakhouse EURA",
+  "address": "0xbeefa28d5e56d41d35df760ab53b94d9ffd7051f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52608/thumb/Screenshot_2024-12-07_at_11.17.05%E2%80%AFPM.png?1733757610",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbeefa28d5e56d41d35df760ab53b94d9ffd7051f"
+  }
+}

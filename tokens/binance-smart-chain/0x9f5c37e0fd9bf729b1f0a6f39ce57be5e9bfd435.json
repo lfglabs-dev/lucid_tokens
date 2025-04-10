@@ -1,0 +1,15 @@
+{
+  "symbol": " BTCPAY",
+  "name": "Bitcoin Pay",
+  "address": "0x9f5c37e0fd9bf729b1f0a6f39ce57be5e9bfd435",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/6174/thumb/bitcoin-pay.png?1547042200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9f5c37e0fd9bf729b1f0a6f39ce57be5e9bfd435"
+  }
+}

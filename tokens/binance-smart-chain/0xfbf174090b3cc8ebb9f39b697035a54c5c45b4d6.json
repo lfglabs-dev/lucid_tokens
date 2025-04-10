@@ -1,0 +1,15 @@
+{
+  "symbol": "POM",
+  "name": "POM",
+  "address": "0xfbf174090b3cc8ebb9f39b697035a54c5c45b4d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53451/thumb/logo-coingecko.png?1736401450",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfbf174090b3cc8ebb9f39b697035a54c5c45b4d6"
+  }
+}

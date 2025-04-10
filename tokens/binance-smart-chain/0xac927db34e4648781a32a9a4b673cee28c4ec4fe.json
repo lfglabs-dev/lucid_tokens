@@ -1,0 +1,15 @@
+{
+  "symbol": "NXTU",
+  "name": "4 Next Unicorn",
+  "address": "0xac927db34e4648781a32a9a4b673cee28c4ec4fe",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33061/thumb/4_Next_Unicorn_LOGO.png?1700493326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xac927db34e4648781a32a9a4b673cee28c4ec4fe"
+  }
+}

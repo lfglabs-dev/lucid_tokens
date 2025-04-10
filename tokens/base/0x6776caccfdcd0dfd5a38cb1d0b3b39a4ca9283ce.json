@@ -1,0 +1,15 @@
+{
+  "symbol": "NOM",
+  "name": "nomad",
+  "address": "0x6776caccfdcd0dfd5a38cb1d0b3b39a4ca9283ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37872/thumb/NOM_LOGO.jpeg?1715829131",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6776caccfdcd0dfd5a38cb1d0b3b39a4ca9283ce"
+  }
+}

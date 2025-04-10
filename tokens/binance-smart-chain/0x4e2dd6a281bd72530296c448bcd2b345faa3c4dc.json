@@ -1,0 +1,15 @@
+{
+  "symbol": "EXTO+",
+  "name": "Exchange Token Plus",
+  "address": "0x4e2dd6a281bd72530296c448bcd2b345faa3c4dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52636/thumb/extoplus_200x200.png?1733860126",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4e2dd6a281bd72530296c448bcd2b345faa3c4dc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BANDIT",
+  "name": "Bandit on Base",
+  "address": "0xe0f96f025ebb27950718ebd787b69c325cf045c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53583/thumb/200.png?1736750886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe0f96f025ebb27950718ebd787b69c325cf045c0"
+  }
+}

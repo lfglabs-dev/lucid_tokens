@@ -1,0 +1,15 @@
+{
+  "symbol": "PARA",
+  "name": "PARA",
+  "address": "0x8a5652eb940dd3832a8426fbe5afbb01b0f96a14",
+  "decimals": 10,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32156/thumb/200x200.png?1696599835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8a5652eb940dd3832a8426fbe5afbb01b0f96a14"
+  }
+}

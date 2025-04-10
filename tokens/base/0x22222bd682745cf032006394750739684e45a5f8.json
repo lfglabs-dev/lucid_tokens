@@ -1,0 +1,15 @@
+{
+  "symbol": "POLLUK",
+  "name": "Jasse Polluk",
+  "address": "0x22222bd682745cf032006394750739684e45a5f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38510/thumb/Jasse_Polluk.png?1717754036",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x22222bd682745cf032006394750739684e45a5f8"
+  }
+}

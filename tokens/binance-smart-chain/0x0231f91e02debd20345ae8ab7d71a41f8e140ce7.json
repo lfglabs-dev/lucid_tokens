@@ -1,0 +1,16 @@
+{
+  "symbol": "bwJUP",
+  "name": "BSC Wrapped Jupiter",
+  "address": "0x0231f91e02debd20345ae8ab7d71a41f8e140ce7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10351/thumb/logo512.png?1632480932",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
+    "binance-smart-chain": "0x0231f91e02debd20345ae8ab7d71a41f8e140ce7"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "ZUN",
+  "name": "Zunami Token",
+  "address": "0x1db0fc8933f545648b54a9ee4326209a9a259643",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6b5204b0be36771253cc38e88012e02b752f0f36",
+    "optimistic-ethereum": "0x25193034153afb4251a8e02a8db0deaef4c876f6",
+    "arbitrum-one": "0x346e74dc9935a9b02eb34fb84658a66010fa056d",
+    "base": "0x1db0fc8933f545648b54a9ee4326209a9a259643"
+  }
+}

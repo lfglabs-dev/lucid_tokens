@@ -1,0 +1,15 @@
+{
+  "symbol": "AIRI",
+  "name": "aiRight Token",
+  "address": "0x7e2a35c746f2f7c240b664f1da4dd100141ae71f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16428/thumb/alright.PNG?1623995586",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7e2a35c746f2f7c240b664f1da4dd100141ae71f"
+  }
+}

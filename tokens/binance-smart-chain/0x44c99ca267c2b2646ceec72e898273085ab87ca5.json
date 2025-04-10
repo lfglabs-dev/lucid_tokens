@@ -1,0 +1,15 @@
+{
+  "symbol": "RPTR",
+  "name": "Raptor v3",
+  "address": "0x44c99ca267c2b2646ceec72e898273085ab87ca5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25265/thumb/Vy7-XGjj_400x400.jpg?1651053305",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x44c99ca267c2b2646ceec72e898273085ab87ca5"
+  }
+}

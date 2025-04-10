@@ -1,0 +1,15 @@
+{
+  "symbol": "JOOPS",
+  "name": "JOOPS",
+  "address": "0xe3b933caed104db24542249c7331584d5a05972f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36825/thumb/joops_spaceman_ticker_CMC_200X200.png?1712555826",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe3b933caed104db24542249c7331584d5a05972f"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "USHY.d",
+  "name": "iShares Broad USD High Yield Corporate Bond ETF - Dinari",
+  "address": "0xd194fdcbc9b98d829f7a35fde25feef8f8e41ef1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xeb32d26ab45b5c6cfe6c924adf00f8d5953dadf3",
+    "ethereum": "0xd16acb3147bcafd8469ffb288f45db52cc04ae68",
+    "blast": "0x0e8c94ce5f658b52a8d4e30933520b2106a9397c",
+    "base": "0xd194fdcbc9b98d829f7a35fde25feef8f8e41ef1"
+  }
+}

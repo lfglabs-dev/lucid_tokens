@@ -1,0 +1,18 @@
+{
+  "symbol": "WAVAX",
+  "name": "Wrapped AVAX",
+  "address": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22943/thumb/AVAX_wh_small.png?1644224391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "oasis": "0x32847e63e99d3a044908763056e25694490082f8",
+    "ethereum": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+    "binance-smart-chain": "0x96412902aa9aff61e13f085e70d3152c6ef2a817",
+    "polygon-pos": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a"
+  }
+}

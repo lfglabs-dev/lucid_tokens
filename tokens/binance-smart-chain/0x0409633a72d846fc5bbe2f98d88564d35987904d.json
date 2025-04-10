@@ -1,0 +1,15 @@
+{
+  "symbol": "PHB",
+  "name": "Phoenix Global",
+  "address": "0x0409633a72d846fc5bbe2f98d88564d35987904d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20052/thumb/tTcJ-ORs_400x400.jpg?1636429516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0409633a72d846fc5bbe2f98d88564d35987904d"
+  }
+}

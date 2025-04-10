@@ -1,0 +1,15 @@
+{
+  "symbol": "MCT",
+  "name": "MetaCraftToken",
+  "address": "0xdf677713a2c661ecd0b2bd4d7485170aa8c1eceb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22332/thumb/F2iEsigu_400x400.jpg?1641515143",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf677713a2c661ecd0b2bd4d7485170aa8c1eceb"
+  }
+}

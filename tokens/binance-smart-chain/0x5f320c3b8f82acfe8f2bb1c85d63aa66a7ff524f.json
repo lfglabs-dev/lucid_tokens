@@ -1,0 +1,15 @@
+{
+  "symbol": "NLC",
+  "name": "Nelore Coin",
+  "address": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26208/thumb/NLC.jpg?1656554961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f"
+  }
+}

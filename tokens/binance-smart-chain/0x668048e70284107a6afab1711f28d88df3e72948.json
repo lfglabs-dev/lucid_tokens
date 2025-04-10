@@ -1,0 +1,16 @@
+{
+  "symbol": "CLS",
+  "name": "Coldstack",
+  "address": "0x668048e70284107a6afab1711f28d88df3e72948",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15499/thumb/logo_200x200.png?1621072403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x675bbc7514013e2073db7a919f6e4cbef576de37",
+    "binance-smart-chain": "0x668048e70284107a6afab1711f28d88df3e72948"
+  }
+}

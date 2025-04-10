@@ -1,0 +1,15 @@
+{
+  "symbol": "SPIN",
+  "name": "Spintop",
+  "address": "0x6aa217312960a21adbde1478dc8cbcf828110a67",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21209/thumb/51683048395_1cb5de34ca_o.png?1638568244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6aa217312960a21adbde1478dc8cbcf828110a67"
+  }
+}

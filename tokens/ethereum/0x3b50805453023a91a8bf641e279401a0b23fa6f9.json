@@ -10,6 +10,7 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x3b50805453023a91a8bf641e279401a0b23fa6f9"
+    "ethereum": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
+    "base": "0xf757c9804cf2ee8d8ed64e0a8936293fe43a7252"
   }
 }

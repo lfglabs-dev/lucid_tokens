@@ -1,0 +1,15 @@
+{
+  "symbol": "WZRD",
+  "name": "Wizardia Token",
+  "address": "0xfa40d8fc324bcdd6bbae0e086de886c571c225d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24434/thumb/Icon_%281%29.jpg?1648177628",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfa40d8fc324bcdd6bbae0e086de886c571c225d4"
+  }
+}

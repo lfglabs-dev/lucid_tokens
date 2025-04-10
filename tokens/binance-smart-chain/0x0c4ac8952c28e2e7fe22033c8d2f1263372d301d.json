@@ -1,0 +1,15 @@
+{
+  "symbol": "APRA",
+  "name": "Apraemio",
+  "address": "0x0c4ac8952c28e2e7fe22033c8d2f1263372d301d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52520/thumb/new_apra_logo_symbol-black-05-09.png?1733502125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0c4ac8952c28e2e7fe22033c8d2f1263372d301d"
+  }
+}

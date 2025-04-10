@@ -1,0 +1,15 @@
+{
+  "symbol": "HADES",
+  "name": "HadesAI by Virtuals",
+  "address": "0xaf0aa8de89e3dbdafe144abcdddafa568a526299",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52550/thumb/Hades_AI_pixel_logo.png?1733629799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xaf0aa8de89e3dbdafe144abcdddafa568a526299"
+  }
+}

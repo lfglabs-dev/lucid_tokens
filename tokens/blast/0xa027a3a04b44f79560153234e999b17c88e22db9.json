@@ -1,0 +1,15 @@
+{
+  "symbol": "PTC",
+  "name": "Particle",
+  "address": "0xa027a3a04b44f79560153234e999b17c88e22db9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39020/thumb/logo_200_200.png?1719939510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xa027a3a04b44f79560153234e999b17c88e22db9"
+  }
+}

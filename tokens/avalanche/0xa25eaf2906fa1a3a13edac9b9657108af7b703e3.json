@@ -1,0 +1,15 @@
+{
+  "symbol": "ggAVAX",
+  "name": "GoGoPool Liquid Staking Token",
+  "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33543/thumb/ggavax-token-flat.png?1702383352",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3"
+  }
+}

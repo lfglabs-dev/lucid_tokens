@@ -1,0 +1,18 @@
+{
+  "symbol": "AI",
+  "name": "Flourishing AI Token",
+  "address": "0xa9b038285f43cd6fe9e16b4c80b4b9bccd3c161b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17127/thumb/logo-circle.png?1632374596",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa9b038285f43cd6fe9e16b4c80b4b9bccd3c161b",
+    "ethereum": "0x6ab4ce36260f201e4e2391eca2fd7538f71e4131",
+    "arbitrum-one": "0x8d7c2588c365b9e98ea464b63dbccdf13ecd9809",
+    "polygon-pos": "0xfa78cba4ebbf8fe28b4fc1468948f16fda2752b3"
+  }
+}

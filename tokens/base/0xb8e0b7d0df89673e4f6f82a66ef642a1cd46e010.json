@@ -1,0 +1,15 @@
+{
+  "symbol": "$REFLECT",
+  "name": "$REFLECT",
+  "address": "0xb8e0b7d0df89673e4f6f82a66ef642a1cd46e010",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37103/thumb/reflect.jpeg?1713318642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb8e0b7d0df89673e4f6f82a66ef642a1cd46e010"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "XYZ.d",
+  "name": "Block, Inc. - Dinari",
+  "address": "0x89d0a55a8c2d94c0d4a91c6e3de58dd131ad87fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd883bcf80b2b085fa40cc3e2416b4ab1cbca649e",
+    "ethereum": "0x9e6dbde4211e6853b33b8bcd5ce82144997c63ba",
+    "blast": "0x89d0a55a8c2d94c0d4a91c6e3de58dd131ad87fc",
+    "base": "0xd5eab2d9e01442bfca720f6f15451555dd003f40"
+  }
+}

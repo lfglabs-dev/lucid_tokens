@@ -1,0 +1,15 @@
+{
+  "symbol": "Alf",
+  "name": "ALF",
+  "address": "0x26f1bb40ea88b46ceb21557dc0ffac7b7c0ad40f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38867/thumb/alf200.png?1719283344",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x26f1bb40ea88b46ceb21557dc0ffac7b7c0ad40f"
+  }
+}

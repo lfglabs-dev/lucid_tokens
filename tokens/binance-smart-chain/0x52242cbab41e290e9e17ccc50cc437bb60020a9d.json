@@ -1,0 +1,16 @@
+{
+  "symbol": "WNCG",
+  "name": "WrappedNCG",
+  "address": "0x52242cbab41e290e9e17ccc50cc437bb60020a9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17747/thumb/WNCG.png?1629167703",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+    "binance-smart-chain": "0x52242cbab41e290e9e17ccc50cc437bb60020a9d"
+  }
+}

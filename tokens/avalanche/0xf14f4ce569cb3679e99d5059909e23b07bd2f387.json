@@ -1,0 +1,15 @@
+{
+  "symbol": "NXUSD",
+  "name": "NXUSD",
+  "address": "0xf14f4ce569cb3679e99d5059909e23b07bd2f387",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25101/thumb/nxusd-logo.png?1650286304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf14f4ce569cb3679e99d5059909e23b07bd2f387"
+  }
+}

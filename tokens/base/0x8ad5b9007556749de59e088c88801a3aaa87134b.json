@@ -1,0 +1,15 @@
+{
+  "symbol": "FARTHER",
+  "name": "Farther",
+  "address": "0x8ad5b9007556749de59e088c88801a3aaa87134b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37870/thumb/farther-logo.png?1715828571",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8ad5b9007556749de59e088c88801a3aaa87134b"
+  }
+}

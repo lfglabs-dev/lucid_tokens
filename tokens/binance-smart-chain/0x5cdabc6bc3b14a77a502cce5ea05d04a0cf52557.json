@@ -1,0 +1,15 @@
+{
+  "symbol": "SAFEMOO",
+  "name": "SafeMoo",
+  "address": "0x5cdabc6bc3b14a77a502cce5ea05d04a0cf52557",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33260/thumb/SafeMoo.png?1701319054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5cdabc6bc3b14a77a502cce5ea05d04a0cf52557"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PEACH",
+  "name": "Based Peaches",
+  "address": "0x8319767a7b602f88e376368dca1b92d38869b9b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36762/thumb/Based-Peaches-200x200.png?1712260997",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8319767a7b602f88e376368dca1b92d38869b9b4"
+  }
+}

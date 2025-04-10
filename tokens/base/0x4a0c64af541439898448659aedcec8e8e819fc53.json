@@ -1,0 +1,15 @@
+{
+  "symbol": "PONKE",
+  "name": "Ponke",
+  "address": "0x4a0c64af541439898448659aedcec8e8e819fc53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33929/thumb/ponke.png?1703415326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4a0c64af541439898448659aedcec8e8e819fc53"
+  }
+}

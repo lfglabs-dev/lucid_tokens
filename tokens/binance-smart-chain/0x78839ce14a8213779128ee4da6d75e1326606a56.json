@@ -1,0 +1,15 @@
+{
+  "symbol": "ynBTCk",
+  "name": "YieldNest Restaked BTC - Kernel",
+  "address": "0x78839ce14a8213779128ee4da6d75e1326606a56",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52949/thumb/ynBTCk.png?1734794714",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x78839ce14a8213779128ee4da6d75e1326606a56"
+  }
+}

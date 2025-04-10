@@ -1,0 +1,15 @@
+{
+  "symbol": "TAKI",
+  "name": "TakiToken",
+  "address": "0xe78aee6ccb05471a69677fb74da80f5d251c042b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25271/thumb/logo.png?1651118069",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe78aee6ccb05471a69677fb74da80f5d251c042b"
+  }
+}

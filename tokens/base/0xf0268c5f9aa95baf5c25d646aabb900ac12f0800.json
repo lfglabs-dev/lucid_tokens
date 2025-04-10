@@ -1,0 +1,15 @@
+{
+  "symbol": "RGOAT",
+  "name": "RealGOAT",
+  "address": "0xf0268c5f9aa95baf5c25d646aabb900ac12f0800",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38923/thumb/IMG_20240625_033037_003.jpg?1719521003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf0268c5f9aa95baf5c25d646aabb900ac12f0800"
+  }
+}

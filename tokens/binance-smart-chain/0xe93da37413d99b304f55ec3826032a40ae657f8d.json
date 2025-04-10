@@ -1,0 +1,15 @@
+{
+  "symbol": "MPS",
+  "name": "Meupass",
+  "address": "0xe93da37413d99b304f55ec3826032a40ae657f8d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54584/thumb/photo_2025-01-07_15-05-45.jpg?1740552092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe93da37413d99b304f55ec3826032a40ae657f8d"
+  }
+}

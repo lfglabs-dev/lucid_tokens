@@ -1,0 +1,15 @@
+{
+  "symbol": "POLYGOLD",
+  "name": "PolyGold Token",
+  "address": "0x0184316f58b9a44acdd3e683257259dc0cf2202a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16055/thumb/wYRJKCT.png?1622699065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0184316f58b9a44acdd3e683257259dc0cf2202a"
+  }
+}

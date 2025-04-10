@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyCheems",
+  "name": "Baby Cheems",
+  "address": "0x5bebf2b9ca7f25983b0cbe2a9e681804da034558",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52322/thumb/1000028046.png?1733078369",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5bebf2b9ca7f25983b0cbe2a9e681804da034558"
+  }
+}

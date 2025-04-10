@@ -1,0 +1,15 @@
+{
+  "symbol": "LAZIO",
+  "name": "FC Lazio Fan Token",
+  "address": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19263/thumb/B4Lla6V6_400x400.png?1634819219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x77d547256a2cd95f32f67ae0313e450ac200648d"
+  }
+}

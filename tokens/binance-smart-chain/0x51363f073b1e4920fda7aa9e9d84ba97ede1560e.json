@@ -1,0 +1,15 @@
+{
+  "symbol": "BOB",
+  "name": "Build On BNB",
+  "address": "0x51363f073b1e4920fda7aa9e9d84ba97ede1560e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51822/thumb/photo_2024-11-17_10-22-49.jpg?1732035300",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x51363f073b1e4920fda7aa9e9d84ba97ede1560e"
+  }
+}

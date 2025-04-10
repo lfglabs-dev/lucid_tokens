@@ -1,0 +1,17 @@
+{
+  "symbol": "BLOK",
+  "name": "BLOK",
+  "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18819/thumb/logo-bholdus-6.png?1633518105",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+    "binance-smart-chain": "0xa0d96fd642156fc7e964949642257b3572f10cd6",
+    "arbitrum-one": "0x9dce8e754913d928eb39bc4fc3cf047e364f7f2c"
+  }
+}

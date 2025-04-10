@@ -1,0 +1,17 @@
+{
+  "symbol": "DUSK",
+  "name": "Dusk Network",
+  "address": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5217/thumb/D_ticker_purple_on_circle_%282%29.png?1563781659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+    "energi": "0x458a9f6a008055fd79f321ea7eb3f83a6cb326e2",
+    "binance-smart-chain": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c"
+  }
+}

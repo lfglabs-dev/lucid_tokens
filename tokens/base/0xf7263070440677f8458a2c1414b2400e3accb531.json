@@ -1,0 +1,16 @@
+{
+  "symbol": "POKO",
+  "name": "POKO",
+  "address": "0xf7263070440677f8458a2c1414b2400e3accb531",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36802/thumb/poko_logo.png?1712469618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0c7d31befe4945089a3b8f835d6e8c1d4df6d952",
+    "base": "0xf7263070440677f8458a2c1414b2400e3accb531"
+  }
+}

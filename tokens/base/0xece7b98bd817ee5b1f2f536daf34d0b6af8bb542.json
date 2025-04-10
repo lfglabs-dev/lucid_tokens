@@ -1,0 +1,15 @@
+{
+  "symbol": "ROCK",
+  "name": "BLACK ROCK",
+  "address": "0xece7b98bd817ee5b1f2f536daf34d0b6af8bb542",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36495/thumb/3Pha-GRY_400x400.jpg?1711615811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xece7b98bd817ee5b1f2f536daf34d0b6af8bb542"
+  }
+}

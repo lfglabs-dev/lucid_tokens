@@ -1,0 +1,15 @@
+{
+  "symbol": "ETH",
+  "name": "Ethereum Token",
+  "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39580/thumb/weth.png?1723006716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+  }
+}

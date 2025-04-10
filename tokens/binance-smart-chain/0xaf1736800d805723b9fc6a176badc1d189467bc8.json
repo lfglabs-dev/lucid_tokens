@@ -1,0 +1,15 @@
+{
+  "symbol": "DRA",
+  "name": "Dracoo",
+  "address": "0xaf1736800d805723b9fc6a176badc1d189467bc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23517/thumb/logo_%282%29.png?1696522726",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaf1736800d805723b9fc6a176badc1d189467bc8"
+  }
+}

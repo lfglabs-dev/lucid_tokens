@@ -1,0 +1,16 @@
+{
+  "symbol": "APX",
+  "name": "AstroPepeX",
+  "address": "0xcacf1ca03983ce6c7e235fb20c70acc70ed13509",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31839/thumb/apx.png?1695263982",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xed4e879087ebd0e8a77d66870012b5e0dffd0fa4",
+    "base": "0xcacf1ca03983ce6c7e235fb20c70acc70ed13509"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SPHERE",
+  "name": "Sphere Finance",
+  "address": "0x62f594339830b90ae4c084ae7d223ffafd9658a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24424/thumb/2iR2JsL.png?1647655357",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x62f594339830b90ae4c084ae7d223ffafd9658a7"
+  }
+}

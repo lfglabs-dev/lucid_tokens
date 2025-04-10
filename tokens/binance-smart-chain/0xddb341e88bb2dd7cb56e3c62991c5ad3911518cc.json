@@ -1,0 +1,15 @@
+{
+  "symbol": "CC",
+  "name": "CC",
+  "address": "0xddb341e88bb2dd7cb56e3c62991c5ad3911518cc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34443/thumb/28945.jpg?1704875297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xddb341e88bb2dd7cb56e3c62991c5ad3911518cc"
+  }
+}

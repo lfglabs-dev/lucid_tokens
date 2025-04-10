@@ -1,0 +1,15 @@
+{
+  "symbol": "COAI",
+  "name": "CodeMong Ai",
+  "address": "0x7dd4cca136132e2260b3e8b4053cd7af057c3ed5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39496/thumb/LdZxCkKY_400x400.jpg?1722542896",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7dd4cca136132e2260b3e8b4053cd7af057c3ed5"
+  }
+}

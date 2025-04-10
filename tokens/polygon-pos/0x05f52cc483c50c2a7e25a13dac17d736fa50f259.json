@@ -1,0 +1,15 @@
+{
+  "symbol": "BXC",
+  "name": "Bloxies Coin",
+  "address": "0x05f52cc483c50c2a7e25a13dac17d736fa50f259",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31400/thumb/BXC_Coin_200x200.png?1692783061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x05f52cc483c50c2a7e25a13dac17d736fa50f259"
+  }
+}

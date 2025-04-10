@@ -1,0 +1,18 @@
+{
+  "symbol": "jCHF",
+  "name": "Jarvis Synthetic Swiss Franc",
+  "address": "0xbd1463f02f61676d53fd183c2b19282bff93d099",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15727/thumb/jCHF.png?1634046084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+    "xdai": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e",
+    "binance-smart-chain": "0x7c869b5a294b1314e985283d01c702b62224a05f",
+    "polygon-pos": "0xbd1463f02f61676d53fd183c2b19282bff93d099"
+  }
+}

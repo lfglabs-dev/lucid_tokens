@@ -1,0 +1,15 @@
+{
+  "symbol": "DDM",
+  "name": "DDM Deutsche Mark",
+  "address": "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54837/thumb/LOGO_DEUTSCHE_DDM_MARK_200x200_pixel.png?1742015618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511"
+  }
+}

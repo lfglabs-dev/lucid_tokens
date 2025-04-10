@@ -1,0 +1,15 @@
+{
+  "symbol": "PAYU",
+  "name": "Platform of meme coins",
+  "address": "0x9aeb2e6dd8d55e14292acfcfc4077e33106e4144",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30615/thumb/200px.png?1685769855",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9aeb2e6dd8d55e14292acfcfc4077e33106e4144"
+  }
+}

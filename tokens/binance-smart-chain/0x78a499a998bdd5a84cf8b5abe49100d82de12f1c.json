@@ -1,0 +1,15 @@
+{
+  "symbol": "JOJO",
+  "name": "JOJO",
+  "address": "0x78a499a998bdd5a84cf8b5abe49100d82de12f1c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17383/thumb/JOJO.png?1627462497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x78a499a998bdd5a84cf8b5abe49100d82de12f1c"
+  }
+}

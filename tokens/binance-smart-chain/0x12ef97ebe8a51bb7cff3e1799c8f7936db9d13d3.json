@@ -1,0 +1,15 @@
+{
+  "symbol": "OKY",
+  "name": "Onigiri Kitty",
+  "address": "0x12ef97ebe8a51bb7cff3e1799c8f7936db9d13d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x12ef97ebe8a51bb7cff3e1799c8f7936db9d13d3"
+  }
+}

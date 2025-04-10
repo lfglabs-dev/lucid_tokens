@@ -1,0 +1,15 @@
+{
+  "symbol": "Boe",
+  "name": "Boe",
+  "address": "0xff62ddfa80e513114c3a0bf4d6ffff1c1d17aadf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36712/thumb/79jlrE4M_400x400_%282%29.jpg?1712127456",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xff62ddfa80e513114c3a0bf4d6ffff1c1d17aadf"
+  }
+}

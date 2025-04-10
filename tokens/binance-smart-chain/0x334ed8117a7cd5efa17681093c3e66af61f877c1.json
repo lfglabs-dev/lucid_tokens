@@ -1,0 +1,16 @@
+{
+  "symbol": "AGUS",
+  "name": "AGUS",
+  "address": "0x334ed8117a7cd5efa17681093c3e66af61f877c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37094/thumb/0x04513ADaAc27ed0324549E15f52c051e64F81DAB.png?1713271473",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "core": "0x01065d48363713fa32c6ca51387e0803023c872c",
+    "binance-smart-chain": "0x334ed8117a7cd5efa17681093c3e66af61f877c1"
+  }
+}

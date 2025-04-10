@@ -1,0 +1,15 @@
+{
+  "symbol": "HENLO",
+  "name": "henlo",
+  "address": "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54719/thumb/Full_Circle_Logo_Large_%28YellowBlue%29_%281%29.png?1741193376",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5"
+  }
+}

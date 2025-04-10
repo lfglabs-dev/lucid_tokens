@@ -1,0 +1,15 @@
+{
+  "symbol": "ONE",
+  "name": "One Token",
+  "address": "0x6b0a03c7bd8441e0f8959394761e29bd6afbfdf7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30171/thumb/one.png?1683535182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6b0a03c7bd8441e0f8959394761e29bd6afbfdf7"
+  }
+}

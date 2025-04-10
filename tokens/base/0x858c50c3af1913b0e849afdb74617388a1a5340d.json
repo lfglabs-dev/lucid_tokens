@@ -1,0 +1,16 @@
+{
+  "symbol": "SQT",
+  "name": "SubQueryToken",
+  "address": "0x858c50c3af1913b0e849afdb74617388a1a5340d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23359/thumb/photo_2021-07-14_11-31-12.jpg?1696522574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
+    "base": "0x858c50c3af1913b0e849afdb74617388a1a5340d"
+  }
+}

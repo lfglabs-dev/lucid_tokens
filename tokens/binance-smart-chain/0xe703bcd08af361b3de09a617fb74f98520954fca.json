@@ -1,0 +1,15 @@
+{
+  "symbol": "MGP",
+  "name": "MOST Global",
+  "address": "0xe703bcd08af361b3de09a617fb74f98520954fca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33212/thumb/mgp200x200.png?1701085068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe703bcd08af361b3de09a617fb74f98520954fca"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BasePrinter",
+  "name": "BasePrinter",
+  "address": "0xbc1852f8940991d91bd2b09a5abb5e7b8092a16c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52667/thumb/BasePrinter.png?1734013829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbc1852f8940991d91bd2b09a5abb5e7b8092a16c"
+  }
+}

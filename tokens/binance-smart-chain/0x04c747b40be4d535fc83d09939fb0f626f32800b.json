@@ -1,0 +1,15 @@
+{
+  "symbol": "ITAM",
+  "name": "ITAM",
+  "address": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11063/thumb/ITAMGames.png?1587735926",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x04c747b40be4d535fc83d09939fb0f626f32800b"
+  }
+}

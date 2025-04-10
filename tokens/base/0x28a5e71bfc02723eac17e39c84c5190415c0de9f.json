@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPI",
+  "name": "PEPi",
+  "address": "0x28a5e71bfc02723eac17e39c84c5190415c0de9f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37513/thumb/pepi.png?1714627734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x28a5e71bfc02723eac17e39c84c5190415c0de9f"
+  }
+}

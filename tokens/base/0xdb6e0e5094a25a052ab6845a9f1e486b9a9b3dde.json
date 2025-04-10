@@ -1,0 +1,15 @@
+{
+  "symbol": "OKAYEG",
+  "name": "Okayeg",
+  "address": "0xdb6e0e5094a25a052ab6845a9f1e486b9a9b3dde",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37748/thumb/Okayeg_200.png?1715442444",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdb6e0e5094a25a052ab6845a9f1e486b9a9b3dde"
+  }
+}

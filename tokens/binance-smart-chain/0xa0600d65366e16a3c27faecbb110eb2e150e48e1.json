@@ -1,0 +1,15 @@
+{
+  "symbol": "INSN",
+  "name": "IndustrySonic",
+  "address": "0xa0600d65366e16a3c27faecbb110eb2e150e48e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53132/thumb/industry-sonic.jpg?1735298014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa0600d65366e16a3c27faecbb110eb2e150e48e1"
+  }
+}

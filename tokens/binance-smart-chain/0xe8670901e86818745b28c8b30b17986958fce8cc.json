@@ -1,0 +1,15 @@
+{
+  "symbol": "XCT",
+  "name": "Citadel.one",
+  "address": "0xe8670901e86818745b28c8b30b17986958fce8cc",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17852/thumb/logo200on200.png?1648487794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe8670901e86818745b28c8b30b17986958fce8cc"
+  }
+}

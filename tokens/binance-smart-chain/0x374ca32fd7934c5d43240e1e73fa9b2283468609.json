@@ -1,0 +1,17 @@
+{
+  "symbol": "EQB",
+  "name": "Equilibria Token",
+  "address": "0x374ca32fd7934c5d43240e1e73fa9b2283468609",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30645/thumb/QLLK8pmR_400x400.jpg?1686103901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c",
+    "ethereum": "0xfe80d611c6403f70e5b1b9b722d2b3510b740b2b",
+    "binance-smart-chain": "0x374ca32fd7934c5d43240e1e73fa9b2283468609"
+  }
+}

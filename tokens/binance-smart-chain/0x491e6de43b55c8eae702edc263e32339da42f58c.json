@@ -1,0 +1,17 @@
+{
+  "symbol": "ESE",
+  "name": "eesee",
+  "address": "0x491e6de43b55c8eae702edc263e32339da42f58c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35182/thumb/Eesee.jpg?1707796753",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x908ddb096bfb3acb19e2280aad858186ea4935c4",
+    "binance-smart-chain": "0x491e6de43b55c8eae702edc263e32339da42f58c",
+    "blast": "0x491e6de43b55c8eae702edc263e32339da42f58c"
+  }
+}

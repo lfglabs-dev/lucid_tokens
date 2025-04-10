@@ -1,0 +1,15 @@
+{
+  "symbol": "HYCO",
+  "name": "HYCO",
+  "address": "0x45656c02aae856443717c34159870b90d1288203",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29407/thumb/%EB%A1%9C%EA%B3%A0200.200.png?1678517001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x45656c02aae856443717c34159870b90d1288203"
+  }
+}

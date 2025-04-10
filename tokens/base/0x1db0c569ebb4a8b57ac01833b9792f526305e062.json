@@ -1,0 +1,16 @@
+{
+  "symbol": "GENOME",
+  "name": "GENOME",
+  "address": "0x1db0c569ebb4a8b57ac01833b9792f526305e062",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36763/thumb/images.jpg?1712282056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ae4f8885f6cfa41a692cb9da3789cfa6a83e9f2",
+    "base": "0x1db0c569ebb4a8b57ac01833b9792f526305e062"
+  }
+}

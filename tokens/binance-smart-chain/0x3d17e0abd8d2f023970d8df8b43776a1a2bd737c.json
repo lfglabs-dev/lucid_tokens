@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPECHAIN",
+  "name": "PEPE Chain",
+  "address": "0x3d17e0abd8d2f023970d8df8b43776a1a2bd737c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30276/thumb/logo.png?1683787847",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3d17e0abd8d2f023970d8df8b43776a1a2bd737c"
+  }
+}

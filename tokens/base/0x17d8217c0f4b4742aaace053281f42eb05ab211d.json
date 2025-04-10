@@ -1,0 +1,15 @@
+{
+  "symbol": "CLOUD",
+  "name": "CloudBase",
+  "address": "0x17d8217c0f4b4742aaace053281f42eb05ab211d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31391/thumb/CloudBaselogo_%281%29.png?1692762173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x17d8217c0f4b4742aaace053281f42eb05ab211d"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ASTRAFER",
+  "name": "Astrafer",
+  "address": "0xdfce1e99a31c4597a3f8a8945cbfa9037655e335",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26246/thumb/ATSRA_Token.png?1657276411",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xdfce1e99a31c4597a3f8a8945cbfa9037655e335",
+    "ethereum": "0xb51b97dd5569fab69495316b5a065cccff4b829d"
+  }
+}

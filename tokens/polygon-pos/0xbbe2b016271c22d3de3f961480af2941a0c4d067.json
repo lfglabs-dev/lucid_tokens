@@ -1,0 +1,15 @@
+{
+  "symbol": "SFL",
+  "name": "Shuffle",
+  "address": "0xbbe2b016271c22d3de3f961480af2941a0c4d067",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27462/thumb/qB-uAxkc_400x400_%281%29.jpg?1664173403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xbbe2b016271c22d3de3f961480af2941a0c4d067"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "TPRO",
+  "name": "TPRO",
+  "address": "0xd24157aa1097486dc9d7cf094a7e15026e566b5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26694/thumb/tpro-logo-200x200.png?1659607453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3540abe4f288b280a0740ad5121aec337c404d15",
+    "polygon-pos": "0xd24157aa1097486dc9d7cf094a7e15026e566b5d"
+  }
+}

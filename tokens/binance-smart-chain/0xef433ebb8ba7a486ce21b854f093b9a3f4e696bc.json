@@ -1,0 +1,15 @@
+{
+  "symbol": "TUK",
+  "name": "TUK Token",
+  "address": "0xef433ebb8ba7a486ce21b854f093b9a3f4e696bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32072/thumb/TukToken-LogoCircle.png?1696327146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xef433ebb8ba7a486ce21b854f093b9a3f4e696bc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ABIC",
+  "name": "Arabic",
+  "address": "0x4823a096382f4fa583b55d563afb9f9a58c72fc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19549/thumb/abic.png?1635400194",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4823a096382f4fa583b55d563afb9f9a58c72fc0"
+  }
+}

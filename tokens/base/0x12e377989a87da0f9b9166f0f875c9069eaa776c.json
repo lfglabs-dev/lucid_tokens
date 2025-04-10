@@ -1,0 +1,15 @@
+{
+  "symbol": "CLO",
+  "name": "Cloudland",
+  "address": "0x12e377989a87da0f9b9166f0f875c9069eaa776c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53159/thumb/cloudland-400x400.png?1735462898",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x12e377989a87da0f9b9166f0f875c9069eaa776c"
+  }
+}

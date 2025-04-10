@@ -1,0 +1,15 @@
+{
+  "symbol": "MANYU",
+  "name": "MANYU",
+  "address": "0x39878e8a41af06d99e605c1e65eea755128f05f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54473/thumb/MANYU.jpg?1739950920",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x39878e8a41af06d99e605c1e65eea755128f05f1"
+  }
+}

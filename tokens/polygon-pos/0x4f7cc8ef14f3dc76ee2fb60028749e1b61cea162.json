@@ -1,0 +1,15 @@
+{
+  "symbol": "BB",
+  "name": "BitBoard",
+  "address": "0x4f7cc8ef14f3dc76ee2fb60028749e1b61cea162",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52618/thumb/lOviRzPu_400x400.png?1733783971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4f7cc8ef14f3dc76ee2fb60028749e1b61cea162"
+  }
+}

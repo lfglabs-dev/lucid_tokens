@@ -1,0 +1,16 @@
+{
+  "symbol": "SPX",
+  "name": "SPX6900",
+  "address": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31401/thumb/IMG_8166.jpg?1692841631",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+    "base": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c"
+  }
+}

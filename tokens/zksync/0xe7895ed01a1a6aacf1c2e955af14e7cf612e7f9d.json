@@ -1,0 +1,15 @@
+{
+  "symbol": "LETH",
+  "name": "Liquid ETH",
+  "address": "0xe7895ed01a1a6aacf1c2e955af14e7cf612e7f9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xe7895ed01a1a6aacf1c2e955af14e7cf612e7f9d"
+  }
+}

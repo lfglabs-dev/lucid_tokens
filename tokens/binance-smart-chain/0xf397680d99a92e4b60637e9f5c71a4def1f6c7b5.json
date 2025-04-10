@@ -1,0 +1,15 @@
+{
+  "symbol": "FLIGHT",
+  "name": "FLIGHT CLUP COIN",
+  "address": "0xf397680d99a92e4b60637e9f5c71a4def1f6c7b5",
+  "decimals": 4,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28647/thumb/IO74iBmD_200x200-4.png?1672883991",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf397680d99a92e4b60637e9f5c71a4def1f6c7b5"
+  }
+}

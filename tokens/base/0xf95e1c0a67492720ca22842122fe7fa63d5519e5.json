@@ -1,0 +1,15 @@
+{
+  "symbol": "LUNARLENS",
+  "name": "LUNARLENS",
+  "address": "0xf95e1c0a67492720ca22842122fe7fa63d5519e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39304/thumb/%E6%9C%88%E4%BA%AE%E5%B8%8164.png?1721633565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf95e1c0a67492720ca22842122fe7fa63d5519e5"
+  }
+}

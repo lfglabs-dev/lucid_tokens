@@ -1,0 +1,15 @@
+{
+  "symbol": "MONEY",
+  "name": "Moremoney USD",
+  "address": "0x0f577433bf59560ef2a79c124e9ff99fca258948",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24237/thumb/money.png?1647087223",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x0f577433bf59560ef2a79c124e9ff99fca258948"
+  }
+}

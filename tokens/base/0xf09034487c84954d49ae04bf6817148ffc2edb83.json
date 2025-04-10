@@ -1,0 +1,15 @@
+{
+  "symbol": "BARRY",
+  "name": "Barry The Badger",
+  "address": "0xf09034487c84954d49ae04bf6817148ffc2edb83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53144/thumb/IMG_4596.jpeg?1735377862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf09034487c84954d49ae04bf6817148ffc2edb83"
+  }
+}

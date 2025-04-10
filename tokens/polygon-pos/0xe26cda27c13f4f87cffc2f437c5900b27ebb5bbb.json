@@ -1,0 +1,15 @@
+{
+  "symbol": "RBLS",
+  "name": "Rebel Bots Token",
+  "address": "0xe26cda27c13f4f87cffc2f437c5900b27ebb5bbb",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24094/thumb/logo-footer-356.88b37f33.png?1646364881",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe26cda27c13f4f87cffc2f437c5900b27ebb5bbb"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LOT",
+  "name": "Lottery Token",
+  "address": "0xca57b8d3edd0bedc6c1087bd35d782c3518b2a52",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54432/thumb/1000161712.png?1739607416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xca57b8d3edd0bedc6c1087bd35d782c3518b2a52"
+  }
+}

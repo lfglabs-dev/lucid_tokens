@@ -1,0 +1,15 @@
+{
+  "symbol": "SMOL",
+  "name": "Tiny Fren",
+  "address": "0x291a8da3c42b7d7f00349d6f1be3c823a2b3fca4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52844/thumb/SMOLPP.png?1734470447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x291a8da3c42b7d7f00349d6f1be3c823a2b3fca4"
+  }
+}

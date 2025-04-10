@@ -1,0 +1,15 @@
+{
+  "symbol": "MCRT",
+  "name": "MagicCraft",
+  "address": "0x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21318/thumb/mcrt.png?1638932009",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f"
+  }
+}

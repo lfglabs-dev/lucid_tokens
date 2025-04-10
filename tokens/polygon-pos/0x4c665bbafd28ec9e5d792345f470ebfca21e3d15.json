@@ -1,0 +1,15 @@
+{
+  "symbol": "SKP",
+  "name": "SKY PLAY",
+  "address": "0x4c665bbafd28ec9e5d792345f470ebfca21e3d15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27129/thumb/SKP_logo_20x20.png?1662021510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4c665bbafd28ec9e5d792345f470ebfca21e3d15"
+  }
+}

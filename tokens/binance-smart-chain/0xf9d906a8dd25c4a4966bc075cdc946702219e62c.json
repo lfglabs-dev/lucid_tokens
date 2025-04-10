@@ -1,0 +1,16 @@
+{
+  "symbol": "YIELD",
+  "name": "Yield Protocol [via ChainPort.io]",
+  "address": "0xf9d906a8dd25c4a4966bc075cdc946702219e62c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14220/thumb/yield.png?1615030969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa8b61cff52564758a204f841e636265bebc8db9b",
+    "binance-smart-chain": "0xf9d906a8dd25c4a4966bc075cdc946702219e62c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "STARSHIP",
+  "name": "StarShip",
+  "address": "0x52419258e3fa44deac7e670eadd4c892b480a805",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15580/thumb/starship.png?1630921863",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x52419258e3fa44deac7e670eadd4c892b480a805"
+  }
+}

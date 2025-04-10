@@ -1,0 +1,15 @@
+{
+  "symbol": "SERSH",
+  "name": "SerenityShield",
+  "address": "0x84affeef925cdce87f8a99b7b2e540da5140fc09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33744/thumb/Serenity_Shield_-_Full_Colour_-_Brand_Mark_%281%29.png?1702906970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x84affeef925cdce87f8a99b7b2e540da5140fc09"
+  }
+}

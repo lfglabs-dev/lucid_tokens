@@ -1,0 +1,15 @@
+{
+  "symbol": "GNP",
+  "name": "Genie",
+  "address": "0xfa139cc2f5c5b8c72309be8e63c3024d03b7e63c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18753/thumb/colori.png?1633322631",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfa139cc2f5c5b8c72309be8e63c3024d03b7e63c"
+  }
+}

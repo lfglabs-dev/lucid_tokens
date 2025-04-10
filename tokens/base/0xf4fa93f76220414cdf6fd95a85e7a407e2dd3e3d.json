@@ -1,0 +1,16 @@
+{
+  "symbol": "BIAO",
+  "name": "Biaoqing",
+  "address": "0xf4fa93f76220414cdf6fd95a85e7a407e2dd3e3d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38643/thumb/oPnGc4zJ_400x400.jpg?1718210024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9fd9278f04f01c6a39a9d1c1cd79f7782c6ade08",
+    "base": "0xf4fa93f76220414cdf6fd95a85e7a407e2dd3e3d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SHARP",
+  "name": "Sharp AI",
+  "address": "0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54859/thumb/sharp-ai.png?1742110692",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "STO",
+  "name": "StakeStone",
+  "address": "0x1d88713b483a8e45cff0e5cd7c2e15e5fab4534d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55050/thumb/STO-white-bg.png?1743437541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1d88713b483a8e45cff0e5cd7c2e15e5fab4534d",
+    "binance-smart-chain": "0xdaf1695c41327b61b9b9965ac6a5843a3198cf07"
+  }
+}

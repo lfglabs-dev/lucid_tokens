@@ -1,0 +1,15 @@
+{
+  "symbol": "OFF",
+  "name": "OFF",
+  "address": "0xd55edfc79c0d14084260d16f38bda75e28abfb6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37828/thumb/profile-3_1.png?1715669157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xd55edfc79c0d14084260d16f38bda75e28abfb6a"
+  }
+}

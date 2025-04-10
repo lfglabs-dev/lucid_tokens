@@ -1,0 +1,15 @@
+{
+  "symbol": "PINKSALE",
+  "name": "PinkSale",
+  "address": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17377/thumb/4cC4Fgs.png?1627450990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689"
+  }
+}

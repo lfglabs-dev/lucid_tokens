@@ -1,0 +1,16 @@
+{
+  "symbol": "TOON",
+  "name": "PontoonToken",
+  "address": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19575/thumb/pontoon.PNG?1635467899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
+    "binance-smart-chain": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02"
+  }
+}

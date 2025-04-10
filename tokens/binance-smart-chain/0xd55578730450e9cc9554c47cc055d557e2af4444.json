@@ -1,0 +1,15 @@
+{
+  "symbol": "SHONG",
+  "name": "Shong Inu",
+  "address": "0xd55578730450e9cc9554c47cc055d557e2af4444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55139/thumb/IMG_7171.jpeg?1744110142",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd55578730450e9cc9554c47cc055d557e2af4444"
+  }
+}

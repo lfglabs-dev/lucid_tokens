@@ -1,0 +1,15 @@
+{
+  "symbol": "Tip",
+  "name": "Send tip with crypto",
+  "address": "0xe981ed1c382eea4424fbaa889852149b964400be",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34308/thumb/logo200xxblck.png?1704614393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe981ed1c382eea4424fbaa889852149b964400be"
+  }
+}

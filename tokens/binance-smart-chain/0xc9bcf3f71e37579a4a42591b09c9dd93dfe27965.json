@@ -1,0 +1,15 @@
+{
+  "symbol": "MILK",
+  "name": "MilkshakeSwap Token",
+  "address": "0xc9bcf3f71e37579a4a42591b09c9dd93dfe27965",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18654/thumb/Logo200x200_%2810%29.png?1632780043",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc9bcf3f71e37579a4a42591b09c9dd93dfe27965"
+  }
+}

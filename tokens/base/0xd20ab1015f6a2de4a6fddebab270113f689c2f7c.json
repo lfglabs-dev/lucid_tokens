@@ -1,0 +1,16 @@
+{
+  "symbol": "DHB",
+  "name": "DeHub",
+  "address": "0xd20ab1015f6a2de4a6fddebab270113f689c2f7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18094/thumb/dehub.PNG?1630462516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd20ab1015f6a2de4a6fddebab270113f689c2f7c",
+    "binance-smart-chain": "0x680d3113caf77b61b510f332d5ef4cf5b41a761d"
+  }
+}

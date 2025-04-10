@@ -1,0 +1,16 @@
+{
+  "symbol": "SMTY",
+  "name": "SMTYToken",
+  "address": "0xbf776e4fca664d791c4ee3a71e2722990e003283",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15039/thumb/dDxKgwPN_400x400.jpg?1619507030",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf776e4fca664d791c4ee3a71e2722990e003283",
+    "binance-smart-chain": "0xbf776e4fca664d791c4ee3a71e2722990e003283"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Bsop",
+  "name": "Bsop",
+  "address": "0x9704d2adbc02c085ff526a37ac64872027ac8a50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53930/thumb/IMG_20250123_195741_620.png?1737746583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9704d2adbc02c085ff526a37ac64872027ac8a50"
+  }
+}

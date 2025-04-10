@@ -1,0 +1,15 @@
+{
+  "symbol": "W8Bit",
+  "name": "8Bit Chain",
+  "address": "0xb7ae4ea886face39d47a47f46d6afabcaad5af6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35459/thumb/8BIT-200x200.PNG?1708675050",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb7ae4ea886face39d47a47f46d6afabcaad5af6e"
+  }
+}

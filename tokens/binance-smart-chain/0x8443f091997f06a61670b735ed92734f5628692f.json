@@ -1,0 +1,17 @@
+{
+  "symbol": "BEL",
+  "name": "Bella Protocol",
+  "address": "0x8443f091997f06a61670b735ed92734f5628692f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12478/thumb/Bella.png?1602230054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+    "manta-pacific": "0xb385e52903c802b3bdca7c4d0c78460a8988e1ce",
+    "binance-smart-chain": "0x8443f091997f06a61670b735ed92734f5628692f"
+  }
+}

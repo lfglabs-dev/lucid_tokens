@@ -1,0 +1,17 @@
+{
+  "symbol": "NNT",
+  "name": "NunuToken",
+  "address": "0x771c01e1917b5ab5b791f7b96f0cd69e22f6dbcf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24378/thumb/NNT_99cc33.png?1649120059",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x771c01e1917b5ab5b791f7b96f0cd69e22f6dbcf",
+    "ethereum": "0x19193f450086d0442157b852081976d41657ad56",
+    "binance-smart-chain": "0x3a2927e68749dd6ad0a568d7c05b587863c0bc10"
+  }
+}

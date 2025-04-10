@@ -1,0 +1,15 @@
+{
+  "symbol": "WOMPWOMP",
+  "name": "sad trombone",
+  "address": "0xf4ffe72af996335e0140c06f23fc6b69e257deec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38263/thumb/Coin_gecko.png?1716942635",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf4ffe72af996335e0140c06f23fc6b69e257deec"
+  }
+}

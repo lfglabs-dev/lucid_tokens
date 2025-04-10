@@ -1,0 +1,15 @@
+{
+  "symbol": "NAFT",
+  "name": "Nafter",
+  "address": "0xd7730681b1dc8f6f969166b29d8a5ea8568616a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15493/thumb/Nafter_White_logo_1_200x200.png?1621047922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd7730681b1dc8f6f969166b29d8a5ea8568616a3"
+  }
+}

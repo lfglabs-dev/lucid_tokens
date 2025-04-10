@@ -1,0 +1,15 @@
+{
+  "symbol": "LQR",
+  "name": "Laqira Token",
+  "address": "0xc4a1e7106d08b7ff947254b6d75cf2b877d55daf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20307/thumb/lqt.PNG?1636841139",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc4a1e7106d08b7ff947254b6d75cf2b877d55daf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ABX",
+  "name": "Alpha Base Index",
+  "address": "0xebcda5b80f62dd4dd2a96357b42bb6facbf30267",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54637/thumb/Logomark_Blue_Background.png?1740815637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xebcda5b80f62dd4dd2a96357b42bb6facbf30267"
+  }
+}

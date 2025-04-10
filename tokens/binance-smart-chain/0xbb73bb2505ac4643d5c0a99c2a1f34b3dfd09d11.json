@@ -1,0 +1,15 @@
+{
+  "symbol": "MGC",
+  "name": "Meta Games Coin",
+  "address": "0xbb73bb2505ac4643d5c0a99c2a1f34b3dfd09d11",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38414/thumb/IMG_20240531_230338_626.jpg?1717477781",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb73bb2505ac4643d5c0a99c2a1f34b3dfd09d11"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SAKA",
+  "name": "Saka Vault",
+  "address": "0x855c172281e2f0a8ac59248c04cfd47a7f40e8dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38601/thumb/logo-medium.png?1718095849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x855c172281e2f0a8ac59248c04cfd47a7f40e8dd"
+  }
+}

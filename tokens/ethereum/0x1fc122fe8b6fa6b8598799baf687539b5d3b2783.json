@@ -1,0 +1,15 @@
+{
+  "symbol": "QUEST",
+  "name": "Quest Ecosystem",
+  "address": "0x1fc122fe8b6fa6b8598799baf687539b5d3b2783",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55071/thumb/token_200x200.png?1743598440",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1fc122fe8b6fa6b8598799baf687539b5d3b2783"
+  }
+}

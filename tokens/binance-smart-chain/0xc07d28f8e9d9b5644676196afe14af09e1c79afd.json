@@ -1,0 +1,15 @@
+{
+  "symbol": "HODL",
+  "name": "HoldOn4DearLife",
+  "address": "0xc07d28f8e9d9b5644676196afe14af09e1c79afd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54344/thumb/HoldOn4DearLife.png?1739355389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc07d28f8e9d9b5644676196afe14af09e1c79afd"
+  }
+}

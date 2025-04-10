@@ -1,0 +1,15 @@
+{
+  "symbol": "BHC",
+  "name": "Billion Happiness",
+  "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12803/thumb/BHC_BLACK_TRANSPARENT.png?1602665544",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4"
+  }
+}

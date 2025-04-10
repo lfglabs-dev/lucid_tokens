@@ -1,0 +1,17 @@
+{
+  "symbol": "WBTC",
+  "name": "Wrapped BTC",
+  "address": "0x5d49c278340655b56609fdf8976eb0612af3a0c3",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23004/thumb/WBTC_wh_small.png?1644223021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "neon-evm": "0x16a3fe59080d6944a42b441e44450432c1445372",
+    "oasis": "0xd43ce0aa2a29dcb75bdb83085703dc589de6c7eb",
+    "polygon-pos": "0x5d49c278340655b56609fdf8976eb0612af3a0c3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KingCat",
+  "name": "King Cat",
+  "address": "0xf51bee141c9551338d1b26844ae5035b55993f0d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35237/thumb/catking.png?1707936108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf51bee141c9551338d1b26844ae5035b55993f0d"
+  }
+}

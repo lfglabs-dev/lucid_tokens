@@ -1,0 +1,17 @@
+{
+  "symbol": "ORA",
+  "name": "ORA Coin",
+  "address": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51812/thumb/ORA_Token.png?1732029092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x33333333fede34409fb7f67c6585047e1f653333",
+    "binance-smart-chain": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+    "base": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333"
+  }
+}

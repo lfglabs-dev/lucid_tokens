@@ -1,0 +1,15 @@
+{
+  "symbol": "BDTF",
+  "name": "Base MemeIndexer DTF",
+  "address": "0xb8753941196692e322846cfee9c14c97ac81928a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54665/thumb/IMG_1010.jpeg?1740898964",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb8753941196692e322846cfee9c14c97ac81928a"
+  }
+}

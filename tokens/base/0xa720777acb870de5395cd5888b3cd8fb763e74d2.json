@@ -1,0 +1,15 @@
+{
+  "symbol": "MOLLY",
+  "name": "MOLLY ANALYTICS by Virtuals",
+  "address": "0xa720777acb870de5395cd5888b3cd8fb763e74d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53700/thumb/Further_Upscaled_Image.png?1737070230",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa720777acb870de5395cd5888b3cd8fb763e74d2"
+  }
+}

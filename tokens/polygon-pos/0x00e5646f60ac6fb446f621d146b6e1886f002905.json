@@ -1,0 +1,18 @@
+{
+  "symbol": "RAI",
+  "name": "Rai Reflex Index (PoS)",
+  "address": "0x00e5646f60ac6fb446f621d146b6e1886f002905",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+    "optimistic-ethereum": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
+    "avalanche": "0x97cd1cfe2ed5712660bb6c14053c0ecb031bff7d",
+    "polygon-pos": "0x00e5646f60ac6fb446f621d146b6e1886f002905"
+  }
+}

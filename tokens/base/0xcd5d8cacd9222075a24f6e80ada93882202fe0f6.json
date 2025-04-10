@@ -1,0 +1,15 @@
+{
+  "symbol": "AGENT2025",
+  "name": "Agent 2025",
+  "address": "0xcd5d8cacd9222075a24f6e80ada93882202fe0f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53291/thumb/Screenshot_2025-01-03_at_17.17.02.png?1735997806",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcd5d8cacd9222075a24f6e80ada93882202fe0f6"
+  }
+}

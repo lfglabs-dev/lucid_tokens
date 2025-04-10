@@ -1,0 +1,15 @@
+{
+  "symbol": "MAO",
+  "name": "MAO",
+  "address": "0x8e6df9b20338722feadabc2a2b3483047d3a2c7d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51344/thumb/K_w9E60W_400x400.jpg?1730824697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8e6df9b20338722feadabc2a2b3483047d3a2c7d"
+  }
+}

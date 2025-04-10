@@ -1,0 +1,15 @@
+{
+  "symbol": "WISTA",
+  "name": "Wistaverse",
+  "address": "0xb7042c40de76cfc607ac05e68f9c28a778f0c8a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30599/thumb/LOGO_round.png?1685504146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb7042c40de76cfc607ac05e68f9c28a778f0c8a6"
+  }
+}

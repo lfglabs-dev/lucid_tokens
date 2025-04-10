@@ -1,0 +1,16 @@
+{
+  "symbol": "uDOGE",
+  "name": "Dogecoin (Universal)",
+  "address": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40099/thumb/UA-DOGE_1.png?1725632510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736",
+    "world-chain": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "axlUSDC",
+  "name": "Axelar Wrapped USDC",
+  "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32612/thumb/USDC.png?1698734090",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+  }
+}

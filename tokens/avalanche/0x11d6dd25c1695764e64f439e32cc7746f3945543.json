@@ -1,0 +1,16 @@
+{
+  "symbol": "SOUL",
+  "name": "SoulPower",
+  "address": "0x11d6dd25c1695764e64f439e32cc7746f3945543",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18581/thumb/soul.jpg?1632491969",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0xe2fb177009ff39f52c0134e8007fa0e4baacbd07",
+    "avalanche": "0x11d6dd25c1695764e64f439e32cc7746f3945543"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GGP",
+  "name": "GoGoPool Protocol",
+  "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30267/thumb/GGP_logo_square.png?1683776057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d"
+  }
+}

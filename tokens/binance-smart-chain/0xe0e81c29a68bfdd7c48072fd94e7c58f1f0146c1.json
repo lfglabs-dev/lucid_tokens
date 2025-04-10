@@ -1,0 +1,15 @@
+{
+  "symbol": "H2ON",
+  "name": "H2O Network Token",
+  "address": "0xe0e81c29a68bfdd7c48072fd94e7c58f1f0146c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26326/thumb/KpqZJPT6_400x400.jpg?1657250202",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe0e81c29a68bfdd7c48072fd94e7c58f1f0146c1"
+  }
+}

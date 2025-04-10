@@ -1,0 +1,17 @@
+{
+  "symbol": "ONE",
+  "name": "Harmony ONE",
+  "address": "0x03ff0ff224f904be3118461335064bb48df47938",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1630919349",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "harmony-shard-0": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+    "energi": "0xd001188ee1830425fd2b0fb21f6f3bb79bab161e",
+    "binance-smart-chain": "0x03ff0ff224f904be3118461335064bb48df47938"
+  }
+}

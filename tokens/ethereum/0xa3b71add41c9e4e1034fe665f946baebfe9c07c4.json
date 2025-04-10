@@ -1,0 +1,15 @@
+{
+  "symbol": "LEGAL",
+  "name": "LegalX",
+  "address": "0xa3b71add41c9e4e1034fe665f946baebfe9c07c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55128/thumb/DexTools_-_Logo_.png?1743921567",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa3b71add41c9e4e1034fe665f946baebfe9c07c4"
+  }
+}

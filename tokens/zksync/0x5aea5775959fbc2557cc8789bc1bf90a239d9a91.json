@@ -1,0 +1,24 @@
+{
+  "symbol": "WETH",
+  "name": "Wrapped Ether",
+  "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39723/thumb/WETH.PNG?1723733967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
+    "cube": "0x57eea49ec1087695274a9c4f341e414eb64328c2",
+    "zksync": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+    "milkomeda-cardano": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+    "kardiachain": "0x1540020a94aa8bc189aa97639da213a4ca49d9a7",
+    "aurora": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb",
+    "velas": "0x85219708c49aa701871ad330a94ea0f41dff24ca",
+    "meter": "0x79a61d3a28f8c8537a3df63092927cfa1150fb3c",
+    "tomochain": "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b",
+    "etherlink": "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
+  }
+}

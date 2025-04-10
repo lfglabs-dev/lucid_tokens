@@ -1,0 +1,15 @@
+{
+  "symbol": "DNA",
+  "name": "DNAToken",
+  "address": "0xed49fe44fd4249a09843c2ba4bba7e50beca7113",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54349/thumb/DNA.png?1739369608",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "world-chain": "0xed49fe44fd4249a09843c2ba4bba7e50beca7113"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyCat",
+  "name": "Baby Cat",
+  "address": "0x546d499689e0d4101c7ea774a61e312d1ad72352",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36785/thumb/babycat%281%29.png?1712338169",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x546d499689e0d4101c7ea774a61e312d1ad72352"
+  }
+}

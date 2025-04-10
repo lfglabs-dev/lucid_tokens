@@ -1,0 +1,15 @@
+{
+  "symbol": "WINK",
+  "name": "WINK",
+  "address": "0x8c3441e7b9aa8a30a542dde048dd067de2802e9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53647/thumb/Wink200.png?1736981075",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8c3441e7b9aa8a30a542dde048dd067de2802e9b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BARIO",
+  "name": "Based Mario",
+  "address": "0x814fe70e85025bec87d4ad3f3b713bdcaac0579b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50719/thumb/bario.jpg?1728803763",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x814fe70e85025bec87d4ad3f3b713bdcaac0579b"
+  }
+}

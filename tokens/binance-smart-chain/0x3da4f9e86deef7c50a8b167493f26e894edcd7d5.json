@@ -1,0 +1,15 @@
+{
+  "symbol": "TIIM",
+  "name": "TRIIPMILES",
+  "address": "0x3da4f9e86deef7c50a8b167493f26e894edcd7d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12185/thumb/fOf8ZxL.png?1597961299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3da4f9e86deef7c50a8b167493f26e894edcd7d5"
+  }
+}

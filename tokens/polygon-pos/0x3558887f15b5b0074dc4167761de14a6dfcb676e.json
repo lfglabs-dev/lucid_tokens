@@ -1,0 +1,16 @@
+{
+  "symbol": "NETVR",
+  "name": "NetVRk",
+  "address": "0x3558887f15b5b0074dc4167761de14a6dfcb676e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15721/thumb/netvrk_icon.png?1627536091",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x52498f8d9791736f1d6398fe95ba3bd868114d10",
+    "polygon-pos": "0x3558887f15b5b0074dc4167761de14a6dfcb676e"
+  }
+}

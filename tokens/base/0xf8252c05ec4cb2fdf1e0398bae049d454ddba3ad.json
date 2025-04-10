@@ -1,0 +1,16 @@
+{
+  "symbol": "JAM",
+  "name": "Jam",
+  "address": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53706/thumb/2_%281%29_%281%29%281%29.png?1737086677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad",
+    "base": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad"
+  }
+}

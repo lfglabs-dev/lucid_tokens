@@ -1,0 +1,15 @@
+{
+  "symbol": "BSDX",
+  "name": "Base Yield Index",
+  "address": "0x8f0987ddb485219c767770e2080e5cc01ddc772a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53519/thumb/Base_Yield_Index.png?1736574395",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8f0987ddb485219c767770e2080e5cc01ddc772a"
+  }
+}

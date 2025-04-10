@@ -1,0 +1,15 @@
+{
+  "symbol": "ASTROS",
+  "name": "ASTROS",
+  "address": "0xbc024abd1e72e2b5f9f73de13ace4ac68fe73e62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52695/thumb/ASTROS.png?1734035950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xbc024abd1e72e2b5f9f73de13ace4ac68fe73e62"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CONVO",
+  "name": "Prefrontal Cortex Convo Agent by Virtuals",
+  "address": "0xab964f7b7b6391bd6c4e8512ef00d01f255d9c0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51064/thumb/Convo_Agent_89ef084f87.jpg?1729926154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xab964f7b7b6391bd6c4e8512ef00d01f255d9c0d"
+  }
+}

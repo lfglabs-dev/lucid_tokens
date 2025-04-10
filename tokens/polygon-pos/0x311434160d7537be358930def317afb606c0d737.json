@@ -1,0 +1,15 @@
+{
+  "symbol": "NAKA",
+  "name": "Nakamoto.Games",
+  "address": "0x311434160d7537be358930def317afb606c0d737",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19073/thumb/flCKDeh6_400x400.jpg?1634280509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x311434160d7537be358930def317afb606c0d737"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LONG",
+  "name": "LONG",
+  "address": "0x2816a491dd0b7a88d84cbded842a618e59016888",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36888/thumb/coin9.png?1712652624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2816a491dd0b7a88d84cbded842a618e59016888"
+  }
+}

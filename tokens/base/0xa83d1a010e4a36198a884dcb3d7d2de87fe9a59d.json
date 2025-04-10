@@ -1,0 +1,16 @@
+{
+  "symbol": "LAN",
+  "name": "Lanify",
+  "address": "0xa83d1a010e4a36198a884dcb3d7d2de87fe9a59d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36404/thumb/logo200x200.png?1711369836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc01b1979e2244dc94e67891df0af4f7885e57fd4",
+    "base": "0xa83d1a010e4a36198a884dcb3d7d2de87fe9a59d"
+  }
+}

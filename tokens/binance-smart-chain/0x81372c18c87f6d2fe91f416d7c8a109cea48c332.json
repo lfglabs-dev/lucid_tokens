@@ -1,0 +1,15 @@
+{
+  "symbol": "SWI",
+  "name": "Swinca Coin",
+  "address": "0x81372c18c87f6d2fe91f416d7c8a109cea48c332",
+  "decimals": 4,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25534/thumb/LOGO-TOKEN-2.jpeg?1652251811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x81372c18c87f6d2fe91f416d7c8a109cea48c332"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$SHAKA",
+  "name": "Shaka",
+  "address": "0x478e03d45716dda94f6dbc15a633b0d90c237e2f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36850/thumb/sharetheshaka.png?1712585688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x478e03d45716dda94f6dbc15a633b0d90c237e2f"
+  }
+}

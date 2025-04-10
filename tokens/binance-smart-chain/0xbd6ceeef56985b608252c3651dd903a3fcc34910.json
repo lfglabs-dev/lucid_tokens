@@ -1,0 +1,15 @@
+{
+  "symbol": "TWELVE",
+  "name": "Twelve Zodiac",
+  "address": "0xbd6ceeef56985b608252c3651dd903a3fcc34910",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30418/thumb/Twelve_Zodiac.png?1684391416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbd6ceeef56985b608252c3651dd903a3fcc34910"
+  }
+}

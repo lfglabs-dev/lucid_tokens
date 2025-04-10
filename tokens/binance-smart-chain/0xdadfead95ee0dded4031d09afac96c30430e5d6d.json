@@ -1,0 +1,15 @@
+{
+  "symbol": "FAFY",
+  "name": "Fafy Token",
+  "address": "0xdadfead95ee0dded4031d09afac96c30430e5d6d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35873/thumb/1000077395.png?1709975346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdadfead95ee0dded4031d09afac96c30430e5d6d"
+  }
+}

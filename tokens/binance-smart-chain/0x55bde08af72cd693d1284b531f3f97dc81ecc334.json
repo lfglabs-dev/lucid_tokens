@@ -1,0 +1,15 @@
+{
+  "symbol": "capy",
+  "name": "capybara",
+  "address": "0x55bde08af72cd693d1284b531f3f97dc81ecc334",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50408/thumb/y1UFAUxp_400x400.jpg?1727664151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x55bde08af72cd693d1284b531f3f97dc81ecc334"
+  }
+}

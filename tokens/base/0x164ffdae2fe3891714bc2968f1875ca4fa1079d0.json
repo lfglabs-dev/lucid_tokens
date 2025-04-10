@@ -1,0 +1,15 @@
+{
+  "symbol": "DEFI.ssi",
+  "name": "DEFI.ssi",
+  "address": "0x164ffdae2fe3891714bc2968f1875ca4fa1079d0",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53090/thumb/defi.png?1735214136",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x164ffdae2fe3891714bc2968f1875ca4fa1079d0"
+  }
+}

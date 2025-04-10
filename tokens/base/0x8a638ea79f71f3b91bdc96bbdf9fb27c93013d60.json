@@ -1,0 +1,15 @@
+{
+  "symbol": "BBT",
+  "name": "Baby Tiger",
+  "address": "0x8a638ea79f71f3b91bdc96bbdf9fb27c93013d60",
+  "decimals": 5,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51933/thumb/BBT_%282%29_%281%29.png?1732205350",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8a638ea79f71f3b91bdc96bbdf9fb27c93013d60"
+  }
+}

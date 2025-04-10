@@ -1,0 +1,15 @@
+{
+  "symbol": "ECET",
+  "name": "ECET Token",
+  "address": "0xc1ab7e48fafee6b2596c65261392e59690ce7742",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37239/thumb/ecet_Token_symbol.png?1713858062",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc1ab7e48fafee6b2596c65261392e59690ce7742"
+  }
+}

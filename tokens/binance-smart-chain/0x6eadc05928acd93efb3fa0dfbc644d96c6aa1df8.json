@@ -1,0 +1,17 @@
+{
+  "symbol": "8PAY v2",
+  "name": "8PAY Network v2",
+  "address": "0x6eadc05928acd93efb3fa0dfbc644d96c6aa1df8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14667/thumb/8pay.jpeg?1617639682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6eadc05928acd93efb3fa0dfbc644d96c6aa1df8",
+    "ethereum": "0x06ddb3a8bc0abc14f85e974cf1a93a6f8d4909d9",
+    "polygon-pos": "0x06ddb3a8bc0abc14f85e974cf1a93a6f8d4909d9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GEC",
+  "name": "GreenEnvCoalition",
+  "address": "0x93891a3328cc16ebd59474ced882b1d91dec63e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31495/thumb/1000001941.png?1693356867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x93891a3328cc16ebd59474ced882b1d91dec63e1"
+  }
+}

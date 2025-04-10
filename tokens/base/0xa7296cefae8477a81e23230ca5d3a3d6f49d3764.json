@@ -1,0 +1,15 @@
+{
+  "symbol": "FIT",
+  "name": "Fit",
+  "address": "0xa7296cefae8477a81e23230ca5d3a3d6f49d3764",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50358/thumb/fitclub-logo_%281%29.png?1727285353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa7296cefae8477a81e23230ca5d3a3d6f49d3764"
+  }
+}

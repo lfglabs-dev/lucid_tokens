@@ -1,0 +1,17 @@
+{
+  "symbol": "DEXTF",
+  "name": "DEXTF Token",
+  "address": "0x03e8d118a1864c7dc53bf91e007ab7d91f5a06fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12634/thumb/0qgT0aMu_400x400.jpg?1639175406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+    "zksync": "0x9929bcac4417a21d7e6fc86f6dae1cc7f27a2e41",
+    "avalanche": "0x03e8d118a1864c7dc53bf91e007ab7d91f5a06fa"
+  }
+}

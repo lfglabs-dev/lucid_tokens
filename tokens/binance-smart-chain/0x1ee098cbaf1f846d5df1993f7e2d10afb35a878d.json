@@ -1,0 +1,15 @@
+{
+  "symbol": "SABLE",
+  "name": "SABLE",
+  "address": "0x1ee098cbaf1f846d5df1993f7e2d10afb35a878d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30989/thumb/SableFinance_Coin-08.png?1689563687",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ee098cbaf1f846d5df1993f7e2d10afb35a878d"
+  }
+}

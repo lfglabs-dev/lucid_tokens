@@ -1,0 +1,16 @@
+{
+  "symbol": "sUSN",
+  "name": "Staked USN",
+  "address": "0xb6a09d426861c63722aa0b333a9ce5d5a9b04c4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54924/thumb/sUSN_Logo.png?1742538935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe24a3dc889621612422a64e6388927901608b91d",
+    "zksync": "0xb6a09d426861c63722aa0b333a9ce5d5a9b04c4f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "coin",
+  "name": "coin",
+  "address": "0x8e16d46cb2da01cdd49601ec73d7b0344969ae33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36089/thumb/download_%284%29.png?1710466413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8e16d46cb2da01cdd49601ec73d7b0344969ae33"
+  }
+}

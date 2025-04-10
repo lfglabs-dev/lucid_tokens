@@ -1,0 +1,15 @@
+{
+  "symbol": "uTAO",
+  "name": "Bittensor (Universal)",
+  "address": "0xfdca15bd55f350a36e63c47661914d80411d2c22",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54906/thumb/Untitled_%281%29.png?1742450295",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfdca15bd55f350a36e63c47661914d80411d2c22"
+  }
+}

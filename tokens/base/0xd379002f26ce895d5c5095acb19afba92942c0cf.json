@@ -1,0 +1,15 @@
+{
+  "symbol": "ROBO",
+  "name": "the meme of the future",
+  "address": "0xd379002f26ce895d5c5095acb19afba92942c0cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37548/thumb/robot.png?1714734385",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd379002f26ce895d5c5095acb19afba92942c0cf"
+  }
+}

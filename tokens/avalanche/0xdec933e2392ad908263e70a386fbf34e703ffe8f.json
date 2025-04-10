@@ -1,0 +1,19 @@
+{
+  "symbol": "wbCOIN",
+  "name": "Wrapped Backed Coinbase Global",
+  "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54429/thumb/bCOIN_200x200.png?1739606057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+    "avalanche": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+    "ethereum": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+    "base": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+    "polygon-pos": "0xdec933e2392ad908263e70a386fbf34e703ffe8f"
+  }
+}

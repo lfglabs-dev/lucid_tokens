@@ -1,0 +1,15 @@
+{
+  "symbol": "BASEDGUY",
+  "name": "Just a based guy",
+  "address": "0xba5ed8a0e261bf2a5ad629d4d5de884ccbfdf3f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52705/thumb/IMG_0040.png?1734056757",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xba5ed8a0e261bf2a5ad629d4d5de884ccbfdf3f7"
+  }
+}

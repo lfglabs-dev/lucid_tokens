@@ -1,0 +1,16 @@
+{
+  "symbol": "MODE",
+  "name": "MODE",
+  "address": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34979/thumb/Mode_logo_primary.png?1706864226",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mode": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+    "base": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90"
+  }
+}

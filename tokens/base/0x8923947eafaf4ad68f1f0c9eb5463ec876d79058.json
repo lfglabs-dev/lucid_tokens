@@ -1,0 +1,16 @@
+{
+  "symbol": "MERC",
+  "name": "Liquid Mercury",
+  "address": "0x8923947eafaf4ad68f1f0c9eb5463ec876d79058",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29297/thumb/cda56b6a-146c-4348-b4ff-5b87980c0f83.jpg?1677914858",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6ee2f71049dde9a93b7c0ee1091b72acf9b46810",
+    "base": "0x8923947eafaf4ad68f1f0c9eb5463ec876d79058"
+  }
+}

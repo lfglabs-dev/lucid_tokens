@@ -1,0 +1,15 @@
+{
+  "symbol": "STA",
+  "name": "STA TOKEN",
+  "address": "0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26189/thumb/200x200.png?1656393801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c"
+  }
+}

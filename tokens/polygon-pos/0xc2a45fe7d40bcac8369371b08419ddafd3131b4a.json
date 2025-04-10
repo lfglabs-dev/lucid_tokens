@@ -1,0 +1,15 @@
+{
+  "symbol": "LCD",
+  "name": "Lucidao",
+  "address": "0xc2a45fe7d40bcac8369371b08419ddafd3131b4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23693/thumb/lcd-icon-color-200px.png?1645450706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc2a45fe7d40bcac8369371b08419ddafd3131b4a"
+  }
+}

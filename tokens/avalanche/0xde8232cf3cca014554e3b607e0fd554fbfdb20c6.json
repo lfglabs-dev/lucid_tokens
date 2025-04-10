@@ -1,0 +1,15 @@
+{
+  "symbol": "BEEs",
+  "name": "BEEs",
+  "address": "0xde8232cf3cca014554e3b607e0fd554fbfdb20c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36457/thumb/BEES.png?1711476470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xde8232cf3cca014554e3b607e0fd554fbfdb20c6"
+  }
+}

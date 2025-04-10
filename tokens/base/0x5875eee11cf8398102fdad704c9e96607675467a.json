@@ -1,0 +1,17 @@
+{
+  "symbol": "sUSDS",
+  "name": "Savings USDS",
+  "address": "0x5875eee11cf8398102fdad704c9e96607675467a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52721/thumb/sUSDS_Coin.png?1734086971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+    "arbitrum-one": "0xddb46999f8891663a8f2828d25298f70416d7610",
+    "base": "0x5875eee11cf8398102fdad704c9e96607675467a"
+  }
+}

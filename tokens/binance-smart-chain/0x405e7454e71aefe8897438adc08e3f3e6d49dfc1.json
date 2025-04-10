@@ -1,0 +1,15 @@
+{
+  "symbol": "SCT",
+  "name": "SuperCells Token",
+  "address": "0x405e7454e71aefe8897438adc08e3f3e6d49dfc1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31984/thumb/SCT.png?1695876263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x405e7454e71aefe8897438adc08e3f3e6d49dfc1"
+  }
+}

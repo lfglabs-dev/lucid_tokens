@@ -1,0 +1,21 @@
+{
+  "symbol": "bGOOGL",
+  "name": "Backed Alphabet Inc",
+  "address": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38913/thumb/b-GOOGL-200x200.png?1719474755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
+    "xdai": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
+    "ethereum": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
+    "binance-smart-chain": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
+    "avalanche": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
+    "polygon-pos": "0xebee37aaf2905b7bda7e3b928043862e982e8f32",
+    "base": "0xebee37aaf2905b7bda7e3b928043862e982e8f32"
+  }
+}

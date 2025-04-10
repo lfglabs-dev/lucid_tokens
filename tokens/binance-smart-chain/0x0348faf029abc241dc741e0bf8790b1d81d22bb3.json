@@ -1,0 +1,15 @@
+{
+  "symbol": "GMBLY",
+  "name": "Gambly.io",
+  "address": "0x0348faf029abc241dc741e0bf8790b1d81d22bb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54971/thumb/gambly.png?1742946398",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0348faf029abc241dc741e0bf8790b1d81d22bb3"
+  }
+}

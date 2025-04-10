@@ -1,0 +1,15 @@
+{
+  "symbol": "SWORD",
+  "name": "eZKalibur Token",
+  "address": "0x240f765af2273b0cab6caff2880d6d8f8b285fa4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30722/thumb/leaf.png?1686632378",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x240f765af2273b0cab6caff2880d6d8f8b285fa4"
+  }
+}

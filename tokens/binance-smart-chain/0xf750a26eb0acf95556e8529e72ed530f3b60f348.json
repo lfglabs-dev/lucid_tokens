@@ -1,0 +1,15 @@
+{
+  "symbol": "GNT",
+  "name": "GreenTrust",
+  "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15171/thumb/U4tF68c.png?1620013363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf750a26eb0acf95556e8529e72ed530f3b60f348"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BUFF",
+  "name": "BUFF",
+  "address": "0xe9c1b765c3b69ff6178c7310fe3eb106421870a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28370/thumb/logo.png?1671682595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe9c1b765c3b69ff6178c7310fe3eb106421870a5"
+  }
+}

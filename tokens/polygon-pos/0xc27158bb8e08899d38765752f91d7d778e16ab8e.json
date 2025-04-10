@@ -1,0 +1,18 @@
+{
+  "symbol": "fxKAP",
+  "name": "Kapital DAO Token (FXERC20)",
+  "address": "0xc27158bb8e08899d38765752f91d7d778e16ab8e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27682/thumb/KAP-200px.png?1665214016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
+    "blast": "0x15d24de366f69b835be19f7cf9447e770315dd80",
+    "arbitrum-one": "0x965d00aa7abc62ca10132e641d08593435ac811d",
+    "polygon-pos": "0xc27158bb8e08899d38765752f91d7d778e16ab8e"
+  }
+}

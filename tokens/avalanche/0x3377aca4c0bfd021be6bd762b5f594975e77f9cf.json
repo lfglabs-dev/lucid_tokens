@@ -1,0 +1,15 @@
+{
+  "symbol": "CATWIF",
+  "name": "Cat wif Hands",
+  "address": "0x3377aca4c0bfd021be6bd762b5f594975e77f9cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36292/thumb/2024-03-17_10.47.00_%281%29.jpg?1711013240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x3377aca4c0bfd021be6bd762b5f594975e77f9cf"
+  }
+}

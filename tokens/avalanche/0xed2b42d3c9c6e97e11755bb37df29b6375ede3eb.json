@@ -1,0 +1,15 @@
+{
+  "symbol": "HON",
+  "name": "HonToken",
+  "address": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23527/thumb/tokenlogo200.png?1644368289",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb"
+  }
+}

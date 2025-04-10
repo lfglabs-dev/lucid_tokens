@@ -1,0 +1,15 @@
+{
+  "symbol": "GFAL",
+  "name": "Games For A Living",
+  "address": "0x47c454ca6be2f6def6f32b638c80f91c9c3c5949",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29430/thumb/1678377354822mgk.png?1678781803",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x47c454ca6be2f6def6f32b638c80f91c9c3c5949"
+  }
+}

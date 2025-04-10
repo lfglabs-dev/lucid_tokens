@@ -1,0 +1,15 @@
+{
+  "symbol": "PRIDE",
+  "name": "PRIDE Token",
+  "address": "0x085d15db9c7cd3df188422f88ec41ec573d691b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24438/thumb/CHYWVY56_400x400.jpg?1647668737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x085d15db9c7cd3df188422f88ec41ec573d691b9"
+  }
+}

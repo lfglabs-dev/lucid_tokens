@@ -1,0 +1,15 @@
+{
+  "symbol": "HECT",
+  "name": "Hectic Turkey",
+  "address": "0xb38c9d498bab8deefa5ffe8e1d7ca000ef6c3362",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35682/thumb/IMG_7660.PNG?1709526061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb38c9d498bab8deefa5ffe8e1d7ca000ef6c3362"
+  }
+}

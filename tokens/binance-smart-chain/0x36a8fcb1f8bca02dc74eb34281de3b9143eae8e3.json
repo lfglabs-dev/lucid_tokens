@@ -1,0 +1,15 @@
+{
+  "symbol": "Ember",
+  "name": "Ember",
+  "address": "0x36a8fcb1f8bca02dc74eb34281de3b9143eae8e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28480/thumb/Ember_Logo.jpg?1671006672",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x36a8fcb1f8bca02dc74eb34281de3b9143eae8e3"
+  }
+}

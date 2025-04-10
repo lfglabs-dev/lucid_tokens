@@ -1,0 +1,15 @@
+{
+  "symbol": "BLU",
+  "name": "Blu",
+  "address": "0x52e0d3c27cc9e3607c1ca7914b9049be3d5e9c41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51922/thumb/Blu.jpg?1732190348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x52e0d3c27cc9e3607c1ca7914b9049be3d5e9c41"
+  }
+}

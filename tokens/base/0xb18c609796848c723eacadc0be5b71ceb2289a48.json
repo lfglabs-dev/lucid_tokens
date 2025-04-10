@@ -1,0 +1,15 @@
+{
+  "symbol": "ATA",
+  "name": "ATA by Virtuals",
+  "address": "0xb18c609796848c723eacadc0be5b71ceb2289a48",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53189/thumb/atalogo_transparent_200x200.png?1735584101",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb18c609796848c723eacadc0be5b71ceb2289a48"
+  }
+}

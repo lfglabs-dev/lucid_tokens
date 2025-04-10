@@ -1,0 +1,15 @@
+{
+  "symbol": "EV",
+  "name": "EVAI",
+  "address": "0x2167afa1c658dc5c4ec975f4af608ff075a8b8ae",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25313/thumb/EV-TOKEN-CG-45_%281%29.png?1651215001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2167afa1c658dc5c4ec975f4af608ff075a8b8ae"
+  }
+}

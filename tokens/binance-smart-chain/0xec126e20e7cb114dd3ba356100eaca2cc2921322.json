@@ -1,0 +1,15 @@
+{
+  "symbol": "SEG",
+  "name": "Solar Energy",
+  "address": "0xec126e20e7cb114dd3ba356100eaca2cc2921322",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20935/thumb/seg.png?1638010532",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xec126e20e7cb114dd3ba356100eaca2cc2921322"
+  }
+}

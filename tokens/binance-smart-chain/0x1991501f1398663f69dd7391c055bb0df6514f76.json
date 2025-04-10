@@ -1,0 +1,15 @@
+{
+  "symbol": "HotDoge",
+  "name": "Hot Doge",
+  "address": "0x1991501f1398663f69dd7391c055bb0df6514f76",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15404/thumb/525ea2_88a58501323f44c7a806c008ae2b4858_mv2.png?1622197208",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1991501f1398663f69dd7391c055bb0df6514f76"
+  }
+}

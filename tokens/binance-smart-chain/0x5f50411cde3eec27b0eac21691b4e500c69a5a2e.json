@@ -1,0 +1,15 @@
+{
+  "symbol": "SGLY",
+  "name": "Singularity",
+  "address": "0x5f50411cde3eec27b0eac21691b4e500c69a5a2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22071/thumb/sgly_square.png?1640751285",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f50411cde3eec27b0eac21691b4e500c69a5a2e"
+  }
+}

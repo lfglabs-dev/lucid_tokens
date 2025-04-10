@@ -1,0 +1,15 @@
+{
+  "symbol": "DOM",
+  "name": "DOM",
+  "address": "0xb0e87796380172f911214208df966a84cceaaf82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51723/thumb/463fac78-dcc9-49cf-879f-b0b1af658295.png?1731903839",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb0e87796380172f911214208df966a84cceaaf82"
+  }
+}

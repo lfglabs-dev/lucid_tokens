@@ -1,0 +1,15 @@
+{
+  "symbol": "mubarak",
+  "name": "mubarak",
+  "address": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54857/thumb/DKjv3dc6_400x400.jpg?1742107486",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6"
+  }
+}

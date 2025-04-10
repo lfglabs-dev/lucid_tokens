@@ -1,0 +1,15 @@
+{
+  "symbol": "uBLUR",
+  "name": "Blur (Universal)",
+  "address": "0x44951c66dfe920baed34457a2cfa65a0c7ff2025",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54714/thumb/UA-BLUR.png?1741185673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x44951c66dfe920baed34457a2cfa65a0c7ff2025"
+  }
+}

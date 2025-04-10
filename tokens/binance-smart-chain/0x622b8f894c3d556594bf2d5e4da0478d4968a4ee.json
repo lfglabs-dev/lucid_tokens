@@ -1,0 +1,15 @@
+{
+  "symbol": "DRA",
+  "name": "Dracarys",
+  "address": "0x622b8f894c3d556594bf2d5e4da0478d4968a4ee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34612/thumb/DRA_Logo-1_%284%29.png?1705502638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x622b8f894c3d556594bf2d5e4da0478d4968a4ee"
+  }
+}

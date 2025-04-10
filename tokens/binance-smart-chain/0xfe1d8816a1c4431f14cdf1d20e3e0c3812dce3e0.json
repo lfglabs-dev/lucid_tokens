@@ -1,0 +1,15 @@
+{
+  "symbol": "BNBs",
+  "name": "BNBs",
+  "address": "0xfe1d8816a1c4431f14cdf1d20e3e0c3812dce3e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36738/thumb/sGJ2vvXp_400x400.jpeg?1712210137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfe1d8816a1c4431f14cdf1d20e3e0c3812dce3e0"
+  }
+}

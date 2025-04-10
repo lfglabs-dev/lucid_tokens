@@ -1,0 +1,18 @@
+{
+  "symbol": "WMTX",
+  "name": "WorldMobileToken",
+  "address": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17333/thumb/Colored_Token.png?1627346708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+    "binance-smart-chain": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+    "arbitrum-one": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+    "base": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d"
+  }
+}

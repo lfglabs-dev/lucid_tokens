@@ -1,0 +1,15 @@
+{
+  "symbol": "steakUSDA",
+  "name": "Steakhouse USDA",
+  "address": "0xbeefa1abfebe621df50ceaef9f54fdb73648c92c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52607/thumb/Screenshot_2024-12-07_at_11.17.05%E2%80%AFPM.png?1733757590",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbeefa1abfebe621df50ceaef9f54fdb73648c92c"
+  }
+}

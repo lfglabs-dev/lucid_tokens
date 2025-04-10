@@ -1,0 +1,15 @@
+{
+  "symbol": "GEON",
+  "name": "Dungeon Token",
+  "address": "0x167fcfed3aad2d11052fcde0cbf704d879939473",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x167fcfed3aad2d11052fcde0cbf704d879939473"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ZPET",
+  "name": "ZinoPet Token",
+  "address": "0x0c6eaaab86e8374a91e3f42c726b6fd1abacb54c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33753/thumb/36babc19-8951-4700-87b6-ce2cca203907.jpeg?1702946708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x0c6eaaab86e8374a91e3f42c726b6fd1abacb54c"
+  }
+}

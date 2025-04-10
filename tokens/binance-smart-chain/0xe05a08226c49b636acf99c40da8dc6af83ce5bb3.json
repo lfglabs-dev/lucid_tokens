@@ -1,0 +1,25 @@
+{
+  "symbol": "ankrETH",
+  "name": "Ankr Staked ETH",
+  "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1625756490",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+    "optimistic-ethereum": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+    "scroll": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+    "polygon-zkevm": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+    "blast": "0x049e6a52e2c9b7814c8178908f3630726c134c92",
+    "linea": "0x11d8680c7f8f82f623e840130eb06c33d9f90c89",
+    "mode": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+    "binance-smart-chain": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+    "fantom": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+    "avalanche": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+    "arbitrum-one": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3"
+  }
+}

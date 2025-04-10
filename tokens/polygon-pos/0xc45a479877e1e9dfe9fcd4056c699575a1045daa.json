@@ -1,0 +1,15 @@
+{
+  "symbol": "aPolSUSHI",
+  "name": "Aave Polygon SUSHI",
+  "address": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32924/thumb/sushi.png?1699826150",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa"
+  }
+}

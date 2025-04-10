@@ -1,0 +1,15 @@
+{
+  "symbol": "FID",
+  "name": "Fidira",
+  "address": "0x9a4eb698e5de3d3df0a68f681789072de1e50222",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19446/thumb/nl0qESy3_400x400.jpg?1635236436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x9a4eb698e5de3d3df0a68f681789072de1e50222"
+  }
+}

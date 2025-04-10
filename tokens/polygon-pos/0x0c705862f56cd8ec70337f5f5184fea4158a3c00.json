@@ -1,0 +1,15 @@
+{
+  "symbol": "AWT",
+  "name": "AWT",
+  "address": "0x0c705862f56cd8ec70337f5f5184fea4158a3c00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30679/thumb/black.png?1686215515",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0c705862f56cd8ec70337f5f5184fea4158a3c00"
+  }
+}

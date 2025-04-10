@@ -1,0 +1,17 @@
+{
+  "symbol": "DYP",
+  "name": "DeFiYieldProtocol",
+  "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13480/thumb/dyp_logo.png?1608971751",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+    "binance-smart-chain": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+    "avalanche": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17"
+  }
+}

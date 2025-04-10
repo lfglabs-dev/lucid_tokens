@@ -1,0 +1,16 @@
+{
+  "symbol": "UNFI",
+  "name": "UNFI",
+  "address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13152/thumb/logo-2.png?1605748967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x441761326490cacf7af299725b6292597ee822c2",
+    "binance-smart-chain": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b"
+  }
+}

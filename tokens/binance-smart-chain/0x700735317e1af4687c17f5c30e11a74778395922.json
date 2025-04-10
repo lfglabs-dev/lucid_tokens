@@ -1,0 +1,15 @@
+{
+  "symbol": "MCC",
+  "name": "MeshChainCoin",
+  "address": "0x700735317e1af4687c17f5c30e11a74778395922",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53941/thumb/meshchain-logo-200x200.png?1737786319",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x700735317e1af4687c17f5c30e11a74778395922"
+  }
+}

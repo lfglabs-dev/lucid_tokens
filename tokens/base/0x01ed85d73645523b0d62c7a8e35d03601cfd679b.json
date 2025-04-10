@@ -1,0 +1,15 @@
+{
+  "symbol": "NABLA",
+  "name": "Nabla",
+  "address": "0x01ed85d73645523b0d62c7a8e35d03601cfd679b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53488/thumb/Nabla_Icon_200x200.png?1736486284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x01ed85d73645523b0d62c7a8e35d03601cfd679b"
+  }
+}

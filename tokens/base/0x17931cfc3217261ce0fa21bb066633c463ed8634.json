@@ -1,0 +1,15 @@
+{
+  "symbol": "BASED",
+  "name": "BASEDChad",
+  "address": "0x17931cfc3217261ce0fa21bb066633c463ed8634",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36378/thumb/based_chad_logo_1.png?1711342570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x17931cfc3217261ce0fa21bb066633c463ed8634"
+  }
+}

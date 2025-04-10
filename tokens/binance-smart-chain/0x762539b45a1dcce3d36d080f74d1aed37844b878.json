@@ -1,0 +1,17 @@
+{
+  "symbol": "LINA",
+  "name": "Linear Token",
+  "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12509/thumb/1649227343-linalogo200px.png?1649229117",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+    "harmony-shard-0": "0x946c8286bd9b52b81f681903210e1a57872fdd85",
+    "binance-smart-chain": "0x762539b45a1dcce3d36d080f74d1aed37844b878"
+  }
+}

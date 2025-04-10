@@ -1,0 +1,15 @@
+{
+  "symbol": "METAN",
+  "name": "Metan Chain",
+  "address": "0x879d239bcc0356cf9df8c90442488bce99554c66",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23762/thumb/metan.png?1645420372",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x879d239bcc0356cf9df8c90442488bce99554c66"
+  }
+}

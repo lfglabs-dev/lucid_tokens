@@ -1,0 +1,15 @@
+{
+  "symbol": "BIRD",
+  "name": "BIRD",
+  "address": "0x9f7277778c798ef0bc1debf28994eaec1af7ba24",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31413/thumb/Lucky_Bird_logo.png?1692847467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9f7277778c798ef0bc1debf28994eaec1af7ba24"
+  }
+}

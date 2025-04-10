@@ -1,0 +1,15 @@
+{
+  "symbol": "BPX",
+  "name": "BLACK PHOENIX",
+  "address": "0x4e22ab2bbcb3e7f74249c87f62bb35ef92c3d964",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16948/thumb/photo_2021-05-11_01-35-19.jpg?1625721219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4e22ab2bbcb3e7f74249c87f62bb35ef92c3d964"
+  }
+}

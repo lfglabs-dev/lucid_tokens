@@ -1,0 +1,17 @@
+{
+  "symbol": "stBTC",
+  "name": "Lorenzo stBTC",
+  "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50978/thumb/stBTC.png?1729640576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+    "taiko": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+    "swellchain": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3"
+  }
+}

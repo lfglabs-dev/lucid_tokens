@@ -1,0 +1,16 @@
+{
+  "symbol": "TLM",
+  "name": "Alien Worlds Trilium",
+  "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+  "decimals": 4,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14676/thumb/kY-C4o7RThfWrDQsLCAG4q4clZhBDDfJQVhWUEKxXAzyQYMj4Jmq1zmFwpRqxhAJFPOa0AsW_PTSshoPuMnXNwq3rU7Imp15QimXTjlXMx0nC088mt1rIwRs75GnLLugWjSllxgzvQ9YrP4tBgclK4_rb17hjnusGj_c0u2fx0AvVokjSNB-v2poTj0xT9BZRCbzRE3-lF1.jpg?1617700061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72",
+    "binance-smart-chain": "0x2222227e22102fe3322098e4cbfe18cfebd57c95"
+  }
+}

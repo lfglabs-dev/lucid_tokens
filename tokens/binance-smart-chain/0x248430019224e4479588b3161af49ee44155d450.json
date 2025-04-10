@@ -1,0 +1,15 @@
+{
+  "symbol": "GIC",
+  "name": "GicSportsNetwork",
+  "address": "0x248430019224e4479588b3161af49ee44155d450",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51227/thumb/GIC.jpg?1730395376",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x248430019224e4479588b3161af49ee44155d450"
+  }
+}

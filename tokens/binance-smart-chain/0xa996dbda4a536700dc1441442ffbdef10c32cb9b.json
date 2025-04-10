@@ -1,0 +1,15 @@
+{
+  "symbol": "VITRA",
+  "name": "Vitra Studios",
+  "address": "0xa996dbda4a536700dc1441442ffbdef10c32cb9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33473/thumb/2e72af29-3f59-41dc-aa27-52f71bd98006.jpeg?1702002939",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa996dbda4a536700dc1441442ffbdef10c32cb9b"
+  }
+}

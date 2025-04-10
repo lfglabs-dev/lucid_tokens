@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPI",
+  "name": "Pepe Inscriptions",
+  "address": "0x19706c142d33376240e418d6385f05691a5fa8e2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37124/thumb/pepi.png?1713368514",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x19706c142d33376240e418d6385f05691a5fa8e2"
+  }
+}

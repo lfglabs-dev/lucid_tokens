@@ -1,0 +1,15 @@
+{
+  "symbol": "HVI",
+  "name": "Hungarian Vizsla Inu",
+  "address": "0xde619a9e0eeeaa9f8cd39522ed788234837f3b26",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16812/thumb/k%C3%B6r-nincs_h%C3%A1tt%C3%A9r.png?1625148179",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde619a9e0eeeaa9f8cd39522ed788234837f3b26"
+  }
+}

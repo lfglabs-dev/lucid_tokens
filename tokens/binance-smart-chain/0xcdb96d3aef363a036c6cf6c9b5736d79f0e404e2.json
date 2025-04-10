@@ -1,0 +1,15 @@
+{
+  "symbol": "IPX",
+  "name": "InpulseX",
+  "address": "0xcdb96d3aef363a036c6cf6c9b5736d79f0e404e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30112/thumb/inpulse-x.jpg?1683101137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcdb96d3aef363a036c6cf6c9b5736d79f0e404e2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "xETH",
+  "name": "Particles Money xETH token",
+  "address": "0xc4655eb36aa7f1e476a3059a609443ded02ab61f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33163/thumb/xETH.png?1700831188",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc4655eb36aa7f1e476a3059a609443ded02ab61f"
+  }
+}

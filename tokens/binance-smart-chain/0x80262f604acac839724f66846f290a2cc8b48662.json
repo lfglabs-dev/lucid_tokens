@@ -1,0 +1,15 @@
+{
+  "symbol": "ARI10",
+  "name": "ARI10",
+  "address": "0x80262f604acac839724f66846f290a2cc8b48662",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19904/thumb/ari10.PNG?1636100074",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x80262f604acac839724f66846f290a2cc8b48662"
+  }
+}

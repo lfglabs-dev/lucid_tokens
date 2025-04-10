@@ -1,0 +1,15 @@
+{
+  "symbol": "BASED",
+  "name": "BASED",
+  "address": "0x32e0f9d26d1e33625742a52620cc76c1130efde6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39669/thumb/BASED.jpg?1723603780",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x32e0f9d26d1e33625742a52620cc76c1130efde6"
+  }
+}

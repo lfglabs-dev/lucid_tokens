@@ -1,0 +1,15 @@
+{
+  "symbol": "BBOOK",
+  "name": "BASE BOOK",
+  "address": "0x1dedb41feb0e12637a820c22c1b739ca2e75b48c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36283/thumb/200x200book.png?1711006659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1dedb41feb0e12637a820c22c1b739ca2e75b48c"
+  }
+}

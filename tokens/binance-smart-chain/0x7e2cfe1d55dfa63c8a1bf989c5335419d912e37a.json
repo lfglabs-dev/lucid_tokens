@@ -1,0 +1,15 @@
+{
+  "symbol": "APES",
+  "name": "AGE OF APES",
+  "address": "0x7e2cfe1d55dfa63c8a1bf989c5335419d912e37a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33498/thumb/logo_%281%29.png?1702036242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7e2cfe1d55dfa63c8a1bf989c5335419d912e37a"
+  }
+}

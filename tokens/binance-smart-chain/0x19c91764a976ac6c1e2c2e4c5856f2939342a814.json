@@ -1,0 +1,17 @@
+{
+  "symbol": "PAR",
+  "name": "Parachute",
+  "address": "0x19c91764a976ac6c1e2c2e4c5856f2939342a814",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7590/thumb/Parachute_Logo.png?1560918207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
+    "binance-smart-chain": "0x19c91764a976ac6c1e2c2e4c5856f2939342a814",
+    "polygon-pos": "0xf521d590fb1e0b432fd0e020cdbd6c6397d652c2"
+  }
+}

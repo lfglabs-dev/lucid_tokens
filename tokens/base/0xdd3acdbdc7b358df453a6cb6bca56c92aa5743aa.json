@@ -1,0 +1,15 @@
+{
+  "symbol": "MEME.ssi",
+  "name": "MEME.ssi",
+  "address": "0xdd3acdbdc7b358df453a6cb6bca56c92aa5743aa",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53091/thumb/meme.png?1735214704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdd3acdbdc7b358df453a6cb6bca56c92aa5743aa"
+  }
+}

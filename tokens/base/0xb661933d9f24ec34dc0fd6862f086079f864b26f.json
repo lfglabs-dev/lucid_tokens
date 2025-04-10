@@ -1,0 +1,15 @@
+{
+  "symbol": "$STREET",
+  "name": "Base Street",
+  "address": "0xb661933d9f24ec34dc0fd6862f086079f864b26f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36611/thumb/0xb661933d9f24ec34dc0fd6862f086079f864b26f_%281%29.png?1711975109",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb661933d9f24ec34dc0fd6862f086079f864b26f"
+  }
+}

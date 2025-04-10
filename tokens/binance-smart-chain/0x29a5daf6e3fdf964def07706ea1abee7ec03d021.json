@@ -1,0 +1,15 @@
+{
+  "symbol": "TLC",
+  "name": "Trillioner",
+  "address": "0x29a5daf6e3fdf964def07706ea1abee7ec03d021",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30314/thumb/4_%286%29_%281%29.jpg?1683881956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29a5daf6e3fdf964def07706ea1abee7ec03d021"
+  }
+}

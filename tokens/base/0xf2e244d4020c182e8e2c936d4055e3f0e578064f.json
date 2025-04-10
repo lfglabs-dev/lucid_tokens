@@ -1,0 +1,15 @@
+{
+  "symbol": "CHPD",
+  "name": "ChirpPad",
+  "address": "0xf2e244d4020c182e8e2c936d4055e3f0e578064f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54687/thumb/ChirpPad_Logo_200.png?1741015873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf2e244d4020c182e8e2c936d4055e3f0e578064f"
+  }
+}

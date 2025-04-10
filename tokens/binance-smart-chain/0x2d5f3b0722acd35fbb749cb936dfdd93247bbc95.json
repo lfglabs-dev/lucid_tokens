@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYBNB",
+  "name": "BabyBNB",
+  "address": "0x2d5f3b0722acd35fbb749cb936dfdd93247bbc95",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50389/thumb/download.png?1727543824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2d5f3b0722acd35fbb749cb936dfdd93247bbc95"
+  }
+}

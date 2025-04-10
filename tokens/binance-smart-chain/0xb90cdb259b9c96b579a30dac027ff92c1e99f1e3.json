@@ -1,0 +1,15 @@
+{
+  "symbol": "CORTEX",
+  "name": "CORTEX",
+  "address": "0xb90cdb259b9c96b579a30dac027ff92c1e99f1e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31111/thumb/NCORAI.jpg?1690522978",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb90cdb259b9c96b579a30dac027ff92c1e99f1e3"
+  }
+}

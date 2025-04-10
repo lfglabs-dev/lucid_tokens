@@ -1,0 +1,16 @@
+{
+  "symbol": "MMX",
+  "name": "M2 Global Wealth Limited(PoS)",
+  "address": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33161/thumb/mmx.png?1700830276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
+    "polygon-pos": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e"
+  }
+}

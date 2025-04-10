@@ -1,0 +1,15 @@
+{
+  "symbol": "BLWK",
+  "name": "BlackWork",
+  "address": "0xf0b6e02bb5903bc98792aebe98e72007d3d7e5e8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55132/thumb/af60585e-e9e8-40f0-91d0-3dfb3209aa299199445419534516766.png?1743923812",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf0b6e02bb5903bc98792aebe98e72007d3d7e5e8"
+  }
+}

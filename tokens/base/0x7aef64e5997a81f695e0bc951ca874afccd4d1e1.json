@@ -1,0 +1,15 @@
+{
+  "symbol": "OVER",
+  "name": "It's so over",
+  "address": "0x7aef64e5997a81f695e0bc951ca874afccd4d1e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36635/thumb/Group_15.png?1712025717",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7aef64e5997a81f695e0bc951ca874afccd4d1e1"
+  }
+}

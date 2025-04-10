@@ -1,0 +1,15 @@
+{
+  "symbol": "SYMP",
+  "name": "Sympson by Virtuals",
+  "address": "0x504a26cf29674bc77a9341e73f88ccecc864034c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53549/thumb/sympson_ai_twitter_profile.png?1736670581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x504a26cf29674bc77a9341e73f88ccecc864034c"
+  }
+}

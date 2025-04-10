@@ -1,0 +1,15 @@
+{
+  "symbol": "BENG",
+  "name": "Based Peng",
+  "address": "0x3e05d37cfbd8caaad9e3322d35cc727afaff63e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36741/thumb/0.5_%281%29_%281%29.png?1712211668",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3e05d37cfbd8caaad9e3322d35cc727afaff63e3"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "LBTC",
+  "name": "Lombard Staked Bitcoin",
+  "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8236a87084f8b84306f72007f36f2618a5634494",
+    "berachain": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "sonic": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "swellchain": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "corn": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "binance-smart-chain": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "base": "0xecac9c5f704e954931349da37f60e39f515c11c1"
+  }
+}

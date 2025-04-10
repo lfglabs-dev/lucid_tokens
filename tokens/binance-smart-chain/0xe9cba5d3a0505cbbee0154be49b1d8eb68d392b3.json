@@ -1,0 +1,15 @@
+{
+  "symbol": "ZUSHI",
+  "name": "ZUSHI",
+  "address": "0xe9cba5d3a0505cbbee0154be49b1d8eb68d392b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38192/thumb/Design_sem_nome_%2874%29.png?1716789885",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe9cba5d3a0505cbbee0154be49b1d8eb68d392b3"
+  }
+}

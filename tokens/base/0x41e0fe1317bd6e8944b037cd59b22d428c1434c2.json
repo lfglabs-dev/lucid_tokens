@@ -1,0 +1,15 @@
+{
+  "symbol": "VIRTU ",
+  "name": "Virtu  by Virtuals",
+  "address": "0x41e0fe1317bd6e8944b037cd59b22d428c1434c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51827/thumb/_removal.ai__24fd4161-77b5-412f-b553-a99e9012f575_photo_2024-11-07_08-05-59.png?1732042711",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x41e0fe1317bd6e8944b037cd59b22d428c1434c2"
+  }
+}

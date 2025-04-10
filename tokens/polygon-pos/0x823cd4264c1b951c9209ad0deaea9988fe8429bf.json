@@ -1,0 +1,15 @@
+{
+  "symbol": "maAAVE",
+  "name": "Matic Aave interest bearing AAVE",
+  "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14077/thumb/maAAVE.png?1614158144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf"
+  }
+}

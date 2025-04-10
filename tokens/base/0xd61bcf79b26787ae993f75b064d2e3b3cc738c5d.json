@@ -1,0 +1,15 @@
+{
+  "symbol": "uETC",
+  "name": "Ethereum Classic (Universal)",
+  "address": "0xd61bcf79b26787ae993f75b064d2e3b3cc738c5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54727/thumb/UA-ETC.png?1741245697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd61bcf79b26787ae993f75b064d2e3b3cc738c5d"
+  }
+}

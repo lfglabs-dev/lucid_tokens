@@ -1,0 +1,15 @@
+{
+  "symbol": "BFHT",
+  "name": "BeFaster Holder Token",
+  "address": "0x577ad06f635b402fc2724efd6a53a3a0aed3d155",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13205/thumb/200-200-max.png?1606198516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x577ad06f635b402fc2724efd6a53a3a0aed3d155"
+  }
+}

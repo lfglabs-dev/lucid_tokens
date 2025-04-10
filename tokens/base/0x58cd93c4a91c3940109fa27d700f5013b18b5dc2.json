@@ -1,0 +1,17 @@
+{
+  "symbol": "MVP",
+  "name": "MAGA VP",
+  "address": "0x58cd93c4a91c3940109fa27d700f5013b18b5dc2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37462/thumb/1000017296.jpg?1714451792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x766d2fcece1e3eef32aae8711ab886ee95fd5b2a",
+    "binance-smart-chain": "0xa4e8e73c8be170528385bbce78172c891f1febd7",
+    "base": "0x58cd93c4a91c3940109fa27d700f5013b18b5dc2"
+  }
+}

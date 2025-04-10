@@ -1,0 +1,15 @@
+{
+  "symbol": "VRTK",
+  "name": "Vertek",
+  "address": "0xed236c32f695c83efde232c288701d6f9c23e60e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28958/thumb/vertek-mark-color-round%282%29.png?1675738383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xed236c32f695c83efde232c288701d6f9c23e60e"
+  }
+}

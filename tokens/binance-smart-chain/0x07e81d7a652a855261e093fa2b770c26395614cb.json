@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYX",
+  "name": "BabyX Swap",
+  "address": "0x07e81d7a652a855261e093fa2b770c26395614cb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34866/thumb/logsq.png?1706409825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07e81d7a652a855261e093fa2b770c26395614cb"
+  }
+}

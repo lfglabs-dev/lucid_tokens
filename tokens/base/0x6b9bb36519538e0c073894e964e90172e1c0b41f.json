@@ -1,0 +1,15 @@
+{
+  "symbol": "WEWE",
+  "name": "WEWECOIN",
+  "address": "0x6b9bb36519538e0c073894e964e90172e1c0b41f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39135/thumb/WEWE_icon.png?1720685545",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6b9bb36519538e0c073894e964e90172e1c0b41f"
+  }
+}

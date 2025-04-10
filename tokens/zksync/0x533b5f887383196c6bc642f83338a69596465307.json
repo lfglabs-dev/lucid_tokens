@@ -1,0 +1,15 @@
+{
+  "symbol": "$SNRK",
+  "name": "Snark Launch",
+  "address": "0x533b5f887383196c6bc642f83338a69596465307",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29957/thumb/IMG_20230422_160407_790.jpg?1682386917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x533b5f887383196c6bc642f83338a69596465307"
+  }
+}

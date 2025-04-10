@@ -1,0 +1,16 @@
+{
+  "symbol": "VERSE",
+  "name": "Shibaverse",
+  "address": "0xa1388e73c51b37383b1ab9dce8317ef5a0349cc5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18407/thumb/logo_200.png?1631795328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ae0d42f23c33338de15bfa89c7405c068d9dc0a",
+    "polygon-pos": "0xa1388e73c51b37383b1ab9dce8317ef5a0349cc5"
+  }
+}

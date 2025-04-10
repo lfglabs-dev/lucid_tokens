@@ -1,0 +1,15 @@
+{
+  "symbol": "TES",
+  "name": "Titan Trading Token",
+  "address": "0x87e154e86fb691ab8a27116e93ed8d54e2b8c18c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35779/thumb/token-200x200.png?1709795122",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x87e154e86fb691ab8a27116e93ed8d54e2b8c18c"
+  }
+}

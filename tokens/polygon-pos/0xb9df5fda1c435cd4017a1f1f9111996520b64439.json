@@ -1,0 +1,15 @@
+{
+  "symbol": "IBS",
+  "name": "IBSToken",
+  "address": "0xb9df5fda1c435cd4017a1f1f9111996520b64439",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52507/thumb/ibs.jpg?1733483859",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb9df5fda1c435cd4017a1f1f9111996520b64439"
+  }
+}

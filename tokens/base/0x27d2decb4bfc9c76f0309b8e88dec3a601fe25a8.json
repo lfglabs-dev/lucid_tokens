@@ -1,0 +1,15 @@
+{
+  "symbol": "BALD",
+  "name": "Bald",
+  "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31119/thumb/cdjxKSjo_400x400.jpg?1690721640",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8"
+  }
+}

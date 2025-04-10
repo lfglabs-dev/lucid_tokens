@@ -1,0 +1,19 @@
+{
+  "symbol": "INK",
+  "name": "INK",
+  "address": "0x0731d0c0d123382c163aae78a09390cad2ffc941",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23511/thumb/0xffabb85adb5c25d57343547a8b32b62f03814b12.png?1644300315",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0xffabb85adb5c25d57343547a8b32b62f03814b12",
+    "binance-smart-chain": "0xc08aa06c1d707bf910ada0bdeef1353f379e64e1",
+    "avalanche": "0x32975907733f93305be28e2bfd123666b7a9c863",
+    "cronos": "0x32975907733f93305be28e2bfd123666b7a9c863",
+    "polygon-pos": "0x0731d0c0d123382c163aae78a09390cad2ffc941"
+  }
+}

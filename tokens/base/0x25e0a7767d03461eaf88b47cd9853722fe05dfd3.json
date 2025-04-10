@@ -1,0 +1,15 @@
+{
+  "symbol": "SCI",
+  "name": "PoSciDonDAO Token",
+  "address": "0x25e0a7767d03461eaf88b47cd9853722fe05dfd3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52651/thumb/LogoMark200x200.png?1733953414",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x25e0a7767d03461eaf88b47cd9853722fe05dfd3"
+  }
+}

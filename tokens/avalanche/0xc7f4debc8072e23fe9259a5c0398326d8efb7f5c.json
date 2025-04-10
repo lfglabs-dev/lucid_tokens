@@ -1,0 +1,15 @@
+{
+  "symbol": "HeC",
+  "name": "HeroesChained",
+  "address": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22813/thumb/logo_-_2022-01-20T140628.062.png?1642658814",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c"
+  }
+}

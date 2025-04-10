@@ -1,0 +1,15 @@
+{
+  "symbol": "uUSDC",
+  "name": "Universal USDC",
+  "address": "0xb7890cee6cf4792cdcc13489d36d9d42726ab863",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51563/thumb/pngtree-usd-coin-usdc-digital-stablecoin-icon-technology-pay-web-vector-png-image_37843734.png?1731519821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb7890cee6cf4792cdcc13489d36d9d42726ab863"
+  }
+}

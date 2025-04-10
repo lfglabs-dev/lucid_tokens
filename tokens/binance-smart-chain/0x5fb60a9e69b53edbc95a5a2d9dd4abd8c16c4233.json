@@ -1,0 +1,15 @@
+{
+  "symbol": "DINO",
+  "name": "Dinosaur Inu",
+  "address": "0x5fb60a9e69b53edbc95a5a2d9dd4abd8c16c4233",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34604/thumb/logo3_%281%29.png?1705492347",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5fb60a9e69b53edbc95a5a2d9dd4abd8c16c4233"
+  }
+}

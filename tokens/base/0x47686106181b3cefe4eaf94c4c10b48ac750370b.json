@@ -1,0 +1,15 @@
+{
+  "symbol": "VTF",
+  "name": "Virtuals Index",
+  "address": "0x47686106181b3cefe4eaf94c4c10b48ac750370b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54638/thumb/VTFLOGO.png?1740815702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x47686106181b3cefe4eaf94c4c10b48ac750370b"
+  }
+}

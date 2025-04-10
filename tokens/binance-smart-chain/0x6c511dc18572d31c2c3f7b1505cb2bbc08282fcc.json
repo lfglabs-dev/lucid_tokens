@@ -1,0 +1,19 @@
+{
+  "symbol": "AIPO",
+  "name": "Aipocalypto",
+  "address": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51400/thumb/aipo.png?1731084580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
+    "polygon-pos": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
+    "optimistic-ethereum": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
+    "blast": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
+    "binance-smart-chain": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc"
+  }
+}

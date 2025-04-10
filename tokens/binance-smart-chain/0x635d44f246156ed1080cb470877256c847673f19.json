@@ -1,0 +1,15 @@
+{
+  "symbol": "WBAI",
+  "name": "WhiteBridge",
+  "address": "0x635d44f246156ed1080cb470877256c847673f19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53713/thumb/WB_BLACK_ICON_LOGO.png?1737093242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x635d44f246156ed1080cb470877256c847673f19"
+  }
+}

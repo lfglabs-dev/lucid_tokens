@@ -1,0 +1,18 @@
+{
+  "symbol": "ONUS",
+  "name": "ONUS",
+  "address": "0xc0a1adce1c62daedf1b5f07b31266090bc5cc6d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24599/thumb/onus.png?1648364408",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1851ccd370c444ff494d7505e6103959bce9f9d9",
+    "kardiachain": "0x981fb6159ae351b7378d0d510930813de281fcb5",
+    "ethereum": "0x4184aa04215e5d716dd4c213fed519acadc68f92",
+    "polygon-pos": "0xc0a1adce1c62daedf1b5f07b31266090bc5cc6d2"
+  }
+}

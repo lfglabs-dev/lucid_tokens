@@ -1,0 +1,15 @@
+{
+  "symbol": "superOETHb",
+  "name": "Super OETH",
+  "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39828/thumb/Super_OETH.png?1724208268",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3"
+  }
+}

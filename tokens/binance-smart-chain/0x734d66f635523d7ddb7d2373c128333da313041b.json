@@ -1,0 +1,15 @@
+{
+  "symbol": "USDZ",
+  "name": "ZEDXION",
+  "address": "0x734d66f635523d7ddb7d2373c128333da313041b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25909/thumb/20475.png?1654587346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x734d66f635523d7ddb7d2373c128333da313041b"
+  }
+}

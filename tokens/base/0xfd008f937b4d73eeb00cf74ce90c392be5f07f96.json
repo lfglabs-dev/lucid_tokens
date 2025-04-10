@@ -1,0 +1,15 @@
+{
+  "symbol": "MOON",
+  "name": "MOON INU",
+  "address": "0xfd008f937b4d73eeb00cf74ce90c392be5f07f96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36493/thumb/moon-200.png?1711612557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfd008f937b4d73eeb00cf74ce90c392be5f07f96"
+  }
+}

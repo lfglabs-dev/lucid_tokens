@@ -1,0 +1,15 @@
+{
+  "symbol": "IXAD",
+  "name": "Index Avalanche DeFi Token",
+  "address": "0xa9ef87eb3fdc2f08ef5ee401326f7331d4d312cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30069/thumb/IXAD_token.png?1683009673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xa9ef87eb3fdc2f08ef5ee401326f7331d4d312cf"
+  }
+}

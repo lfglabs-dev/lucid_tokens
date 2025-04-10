@@ -1,0 +1,15 @@
+{
+  "symbol": "CTY",
+  "name": "Custodiy (V3)",
+  "address": "0xba08da6b46e3dd153dd8b66a6e4cfd37a6359559",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26702/thumb/IMG_20220804_011032_777.jpg?1659662673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xba08da6b46e3dd153dd8b66a6e4cfd37a6359559"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DPAD",
+  "name": "DegenPad",
+  "address": "0x1234d66b6fbb900296ae2f57740b800fd8960927",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38469/thumb/dpad_token_logo.png?1717619200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1234d66b6fbb900296ae2f57740b800fd8960927"
+  }
+}

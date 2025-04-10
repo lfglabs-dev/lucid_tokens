@@ -1,0 +1,15 @@
+{
+  "symbol": "BKOK",
+  "name": "BlackRock_FinTech",
+  "address": "0x9cc484ded7a7851a03f05a03e8d19eb5f5a73f20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50963/thumb/200.png?1729598249",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9cc484ded7a7851a03f05a03e8d19eb5f5a73f20"
+  }
+}

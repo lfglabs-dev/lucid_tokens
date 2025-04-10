@@ -1,0 +1,15 @@
+{
+  "symbol": "WEBFOUR",
+  "name": "WEBFOUR",
+  "address": "0xd3987cb8a59e8ef6aab0d95b92254344ed9c3c6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22323/thumb/WebFourLogoNoText.png?1641457540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd3987cb8a59e8ef6aab0d95b92254344ed9c3c6f"
+  }
+}

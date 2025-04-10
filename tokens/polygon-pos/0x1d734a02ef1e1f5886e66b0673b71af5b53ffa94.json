@@ -1,0 +1,18 @@
+{
+  "symbol": "SD",
+  "name": "Stader (PoS)",
+  "address": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20658/thumb/sd.png?1642927667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
+    "binance-smart-chain": "0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8",
+    "fantom": "0x412a13c109ac30f0db80ad3bd1defd5d0a6c0ac6",
+    "polygon-pos": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94"
+  }
+}

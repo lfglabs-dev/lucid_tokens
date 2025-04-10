@@ -1,0 +1,15 @@
+{
+  "symbol": "SIREN",
+  "name": "SIREN",
+  "address": "0x997a58129890bbda032231a52ed1ddc845fc18e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54479/thumb/siren.png?1739960056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x997a58129890bbda032231a52ed1ddc845fc18e1"
+  }
+}

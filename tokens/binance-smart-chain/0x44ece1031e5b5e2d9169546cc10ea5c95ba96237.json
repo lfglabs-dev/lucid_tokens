@@ -1,0 +1,15 @@
+{
+  "symbol": "AmazingTeam",
+  "name": "AmazingTeamDao",
+  "address": "0x44ece1031e5b5e2d9169546cc10ea5c95ba96237",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25064/thumb/EXlV29q.jpg?1650013930",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x44ece1031e5b5e2d9169546cc10ea5c95ba96237"
+  }
+}

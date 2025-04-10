@@ -1,0 +1,15 @@
+{
+  "symbol": "Joi",
+  "name": "Joi",
+  "address": "0x5df0a19605b7b31716fc83dcfc6a79a36ef7a0f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51725/thumb/LOGO.png?1731910124",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5df0a19605b7b31716fc83dcfc6a79a36ef7a0f2"
+  }
+}

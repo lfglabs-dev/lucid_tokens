@@ -1,0 +1,15 @@
+{
+  "symbol": "PINK",
+  "name": "Pink Token",
+  "address": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16446/thumb/dot_finance.PNG?1624331635",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc"
+  }
+}

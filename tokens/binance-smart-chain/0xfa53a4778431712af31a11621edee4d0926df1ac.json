@@ -1,0 +1,15 @@
+{
+  "symbol": "PTS",
+  "name": "Petals",
+  "address": "0xfa53a4778431712af31a11621edee4d0926df1ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26154/thumb/pts.png?1656078078",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfa53a4778431712af31a11621edee4d0926df1ac"
+  }
+}

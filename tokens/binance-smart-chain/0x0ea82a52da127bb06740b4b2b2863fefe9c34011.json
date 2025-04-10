@@ -1,0 +1,15 @@
+{
+  "symbol": "AIW",
+  "name": "Stability World AI",
+  "address": "0x0ea82a52da127bb06740b4b2b2863fefe9c34011",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54521/thumb/200x200.png?1740122130",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0ea82a52da127bb06740b4b2b2863fefe9c34011"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CTP",
+  "name": "CTOMORROW PLATFORM",
+  "address": "0xb850cac12ab85d4400db61ac78dc5fc2418b6868",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22256/thumb/dchSzDny_400x400.jpg?1641283473",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb850cac12ab85d4400db61ac78dc5fc2418b6868"
+  }
+}

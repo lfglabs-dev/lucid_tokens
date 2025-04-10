@@ -1,0 +1,15 @@
+{
+  "symbol": "Rabbit",
+  "name": "RabbitCoin",
+  "address": "0x28767e286113ab01ee819b9398a22d6f27badb6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36328/thumb/200x200.png?1711098153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x28767e286113ab01ee819b9398a22d6f27badb6e"
+  }
+}

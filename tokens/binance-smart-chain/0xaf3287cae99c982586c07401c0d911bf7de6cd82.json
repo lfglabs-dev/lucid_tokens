@@ -1,0 +1,15 @@
+{
+  "symbol": "H2O",
+  "name": "H2O DAO",
+  "address": "0xaf3287cae99c982586c07401c0d911bf7de6cd82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24588/thumb/M5-QvqZ8_400x400.jpg?1648226430",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaf3287cae99c982586c07401c0d911bf7de6cd82"
+  }
+}

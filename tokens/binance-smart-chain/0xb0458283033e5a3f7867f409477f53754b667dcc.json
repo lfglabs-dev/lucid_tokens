@@ -1,0 +1,15 @@
+{
+  "symbol": "BBlurt",
+  "name": "BBlurt Token",
+  "address": "0xb0458283033e5a3f7867f409477f53754b667dcc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12996/thumb/8SzwQc8j2KJa5zQFn3ArqGwN8arxoZj3EEz8h4AtHCdLzKWsjWiXAgTPKaNsZAkzyJZdMHrdemGtWAUeeQuaxEks6SKbYTWEoHj9gRv7t322LQ7xh1p.png?1604243870",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb0458283033e5a3f7867f409477f53754b667dcc"
+  }
+}

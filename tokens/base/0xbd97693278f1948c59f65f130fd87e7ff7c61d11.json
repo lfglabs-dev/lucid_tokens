@@ -1,0 +1,15 @@
+{
+  "symbol": "NOGWAI",
+  "name": "Nogwai by Matt Furie",
+  "address": "0xbd97693278f1948c59f65f130fd87e7ff7c61d11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39002/thumb/Nogwai-Coin-Logo_200.png?1719821827",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbd97693278f1948c59f65f130fd87e7ff7c61d11"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "F",
+  "name": "SynFutures",
+  "address": "0x2c24497d4086490e7ead87cc12597fb50c2e6ed6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52186/thumb/synfutures_f_token_light_200.png?1732722899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e15a54b5ecac17e58dadeddbe8506a7560252f9",
+    "base": "0x2c24497d4086490e7ead87cc12597fb50c2e6ed6"
+  }
+}

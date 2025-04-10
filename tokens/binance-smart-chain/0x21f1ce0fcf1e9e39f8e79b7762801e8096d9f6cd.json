@@ -1,0 +1,15 @@
+{
+  "symbol": "BCPAY",
+  "name": "BCPAY FinTech",
+  "address": "0x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18342/thumb/bcpay.jpg?1631601832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd"
+  }
+}

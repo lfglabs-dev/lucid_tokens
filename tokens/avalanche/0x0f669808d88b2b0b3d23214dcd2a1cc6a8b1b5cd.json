@@ -1,0 +1,15 @@
+{
+  "symbol": "BLUB",
+  "name": "Blub",
+  "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54739/thumb/u_5C-c5m_400x400.jpg?1741278200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd"
+  }
+}

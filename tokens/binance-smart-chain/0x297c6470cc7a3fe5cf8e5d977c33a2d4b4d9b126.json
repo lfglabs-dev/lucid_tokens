@@ -1,0 +1,15 @@
+{
+  "symbol": "OFT",
+  "name": "ONFA TOKEN",
+  "address": "0x297c6470cc7a3fe5cf8e5d977c33a2d4b4d9b126",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39159/thumb/logo-onfa-circle-green.png?1720776070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x297c6470cc7a3fe5cf8e5d977c33a2d4b4d9b126"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BFLOKI",
+  "name": "Baby Floki Inu",
+  "address": "0x02a9d7162bd73c2b35c5cf6cdd585e91928c850a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16759/thumb/floki.PNG?1624934064",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x02a9d7162bd73c2b35c5cf6cdd585e91928c850a"
+  }
+}

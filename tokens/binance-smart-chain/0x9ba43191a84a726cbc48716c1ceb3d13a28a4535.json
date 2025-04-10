@@ -1,0 +1,15 @@
+{
+  "symbol": "IXIR",
+  "name": "IXIR",
+  "address": "0x9ba43191a84a726cbc48716c1ceb3d13a28a4535",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23884/thumb/CMC_CG_%282%29.png?1645601643",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9ba43191a84a726cbc48716c1ceb3d13a28a4535"
+  }
+}

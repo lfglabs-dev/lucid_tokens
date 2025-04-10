@@ -1,0 +1,15 @@
+{
+  "symbol": "VERB",
+  "name": "Verb AI",
+  "address": "0xea40ba42ee2e35f36eb63770f23a96ec47e14091",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53801/thumb/Verbai_200x200.png?1737392659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xea40ba42ee2e35f36eb63770f23a96ec47e14091"
+  }
+}

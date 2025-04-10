@@ -1,0 +1,15 @@
+{
+  "symbol": "LITT",
+  "name": "LitLabToken",
+  "address": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29930/thumb/_LITT_token_logo.png?1682140867",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d"
+  }
+}

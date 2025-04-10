@@ -1,0 +1,15 @@
+{
+  "symbol": "UW3S",
+  "name": "Utility Web3Shot",
+  "address": "0x961e149db8bfbdb318c182152725ac806d7be3f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x961e149db8bfbdb318c182152725ac806d7be3f4"
+  }
+}

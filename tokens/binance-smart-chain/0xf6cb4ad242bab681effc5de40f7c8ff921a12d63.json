@@ -1,0 +1,15 @@
+{
+  "symbol": "CNS",
+  "name": "Centric SWAP",
+  "address": "0xf6cb4ad242bab681effc5de40f7c8ff921a12d63",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11864/thumb/CNS.png?1626960631",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf6cb4ad242bab681effc5de40f7c8ff921a12d63"
+  }
+}

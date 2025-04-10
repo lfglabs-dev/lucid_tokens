@@ -1,0 +1,15 @@
+{
+  "symbol": "vLINK",
+  "name": "Venus LINK",
+  "address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13923/thumb/vlink.png?1612845463",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f"
+  }
+}

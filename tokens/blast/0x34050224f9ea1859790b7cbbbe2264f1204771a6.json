@@ -1,0 +1,15 @@
+{
+  "symbol": "BINU",
+  "name": "Blast Inu",
+  "address": "0x34050224f9ea1859790b7cbbbe2264f1204771a6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35596/thumb/binu.jpeg?1709259914",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x34050224f9ea1859790b7cbbbe2264f1204771a6"
+  }
+}

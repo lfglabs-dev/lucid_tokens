@@ -1,0 +1,15 @@
+{
+  "symbol": "MET",
+  "name": "Metya Token",
+  "address": "0xa5b000d453143b357dba63f4ee83f2f6fda832b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53633/thumb/IMG_20250115_121319_684.jpg?1736941711",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa5b000d453143b357dba63f4ee83f2f6fda832b8"
+  }
+}

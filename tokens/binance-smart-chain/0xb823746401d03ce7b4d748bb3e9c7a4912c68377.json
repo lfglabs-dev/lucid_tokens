@@ -1,0 +1,15 @@
+{
+  "symbol": "PAYX",
+  "name": "PayX",
+  "address": "0xb823746401d03ce7b4d748bb3e9c7a4912c68377",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31795/thumb/pay-X-logo-200.png?1695026657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb823746401d03ce7b4d748bb3e9c7a4912c68377"
+  }
+}

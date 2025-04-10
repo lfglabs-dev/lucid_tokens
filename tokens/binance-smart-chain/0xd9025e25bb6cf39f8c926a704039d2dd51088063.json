@@ -1,0 +1,15 @@
+{
+  "symbol": "CYT",
+  "name": "Coinary Token",
+  "address": "0xd9025e25bb6cf39f8c926a704039d2dd51088063",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17622/thumb/CYT-LOGO-1.png?1628669366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9025e25bb6cf39f8c926a704039d2dd51088063"
+  }
+}

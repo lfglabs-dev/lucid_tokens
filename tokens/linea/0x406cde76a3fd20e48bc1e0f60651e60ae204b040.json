@@ -1,0 +1,19 @@
+{
+  "symbol": "axlFRAX",
+  "name": "Axelar Wrapped FRAX",
+  "address": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x909dbde1ebe906af95660033e478d59efe831fed",
+    "blast": "0x909dbde1ebe906af95660033e478d59efe831fed",
+    "linea": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
+    "mantle": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
+    "scroll": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040"
+  }
+}

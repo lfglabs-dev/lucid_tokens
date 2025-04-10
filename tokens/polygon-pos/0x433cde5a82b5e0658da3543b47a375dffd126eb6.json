@@ -1,0 +1,15 @@
+{
+  "symbol": "GOON",
+  "name": "GOON",
+  "address": "0x433cde5a82b5e0658da3543b47a375dffd126eb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38816/thumb/k83OAotb_400x400.jpg?1719078743",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x433cde5a82b5e0658da3543b47a375dffd126eb6"
+  }
+}

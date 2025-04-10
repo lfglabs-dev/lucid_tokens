@@ -1,0 +1,15 @@
+{
+  "symbol": "FTW",
+  "name": "FriendTech33",
+  "address": "0x3347453ced85bd288d783d85cdec9b01ab90f9d8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31958/thumb/ft33.png?1695727168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3347453ced85bd288d783d85cdec9b01ab90f9d8"
+  }
+}

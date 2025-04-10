@@ -1,0 +1,15 @@
+{
+  "symbol": "SEN",
+  "name": "Senspark",
+  "address": "0xfe302b8666539d5046cd9aa0707bb327f5f94c22",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38070/thumb/COIN-SENSPARK-200x200.png?1716446789",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xfe302b8666539d5046cd9aa0707bb327f5f94c22"
+  }
+}

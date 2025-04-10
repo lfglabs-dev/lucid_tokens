@@ -1,0 +1,15 @@
+{
+  "symbol": "OPSYS",
+  "name": "Operating System",
+  "address": "0x38b88d6568d61556d33592ad7bc24e89a7fb6691",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53900/thumb/Opsys.png?1737704123",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x38b88d6568d61556d33592ad7bc24e89a7fb6691"
+  }
+}

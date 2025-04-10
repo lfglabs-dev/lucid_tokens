@@ -1,0 +1,17 @@
+{
+  "symbol": "PAR",
+  "name": "PAR Stablecoin",
+  "address": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14153/thumb/par_round_200.png?1614670422",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+    "fantom": "0x13082681e8ce9bd0af505912d306403592490fc7",
+    "polygon-pos": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128"
+  }
+}

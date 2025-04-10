@@ -1,0 +1,15 @@
+{
+  "symbol": "SKOP",
+  "name": "SKOP Token",
+  "address": "0x6d3b8c76c5396642960243febf736c6be8b60562",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38342/thumb/skop.jpeg?1717141011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6d3b8c76c5396642960243febf736c6be8b60562"
+  }
+}

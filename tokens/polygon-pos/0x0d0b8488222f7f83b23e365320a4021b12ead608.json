@@ -1,0 +1,15 @@
+{
+  "symbol": "NXTT",
+  "name": "NextEarthToken",
+  "address": "0x0d0b8488222f7f83b23e365320a4021b12ead608",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23264/thumb/kG1zm83.png?1643363107",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0d0b8488222f7f83b23e365320a4021b12ead608"
+  }
+}

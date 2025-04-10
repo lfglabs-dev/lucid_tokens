@@ -1,0 +1,15 @@
+{
+  "symbol": "ChainCade",
+  "name": "ChainCade",
+  "address": "0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17001/thumb/chaincade.png?1637045853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PARADOX",
+  "name": "Paradox",
+  "address": "0x3c4b6cd7874edc945797123fce2d9a871818524b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51590/thumb/IMG_1408.jpeg?1731570502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3c4b6cd7874edc945797123fce2d9a871818524b"
+  }
+}

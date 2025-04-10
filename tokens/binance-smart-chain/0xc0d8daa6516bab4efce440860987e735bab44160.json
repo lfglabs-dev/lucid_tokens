@@ -1,0 +1,15 @@
+{
+  "symbol": "vUSD",
+  "name": "vUSD",
+  "address": "0xc0d8daa6516bab4efce440860987e735bab44160",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40070/thumb/vusd_%281%29.png?1725488822",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc0d8daa6516bab4efce440860987e735bab44160"
+  }
+}

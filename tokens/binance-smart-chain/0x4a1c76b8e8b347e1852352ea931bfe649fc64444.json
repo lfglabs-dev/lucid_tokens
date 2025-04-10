@@ -1,0 +1,15 @@
+{
+  "symbol": "ROCKET",
+  "name": "DOGE ROCKET",
+  "address": "0x4a1c76b8e8b347e1852352ea931bfe649fc64444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55106/thumb/ROCKET_MAIN200.jpg?1743753280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4a1c76b8e8b347e1852352ea931bfe649fc64444"
+  }
+}

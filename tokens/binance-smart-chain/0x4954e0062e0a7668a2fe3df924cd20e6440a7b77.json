@@ -1,0 +1,15 @@
+{
+  "symbol": "BNU",
+  "name": "ByteNext",
+  "address": "0x4954e0062e0a7668a2fe3df924cd20e6440a7b77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16000/thumb/logo.png?1641777102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4954e0062e0a7668a2fe3df924cd20e6440a7b77"
+  }
+}

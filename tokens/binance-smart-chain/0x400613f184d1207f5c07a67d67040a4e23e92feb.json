@@ -1,0 +1,15 @@
+{
+  "symbol": "UPDOG",
+  "name": "UpDog",
+  "address": "0x400613f184d1207f5c07a67d67040a4e23e92feb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15369/thumb/wKA2xZr.png?1620665433",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x400613f184d1207f5c07a67d67040a4e23e92feb"
+  }
+}

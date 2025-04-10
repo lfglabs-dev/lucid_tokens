@@ -1,0 +1,15 @@
+{
+  "symbol": "KICKS",
+  "name": "GetKicks",
+  "address": "0xfeb4e9b932ef708c498cc997abe51d0ee39300cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27873/thumb/GetKicks.jpg?1666169072",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfeb4e9b932ef708c498cc997abe51d0ee39300cf"
+  }
+}

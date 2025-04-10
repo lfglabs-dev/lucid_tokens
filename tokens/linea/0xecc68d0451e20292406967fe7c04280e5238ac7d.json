@@ -1,0 +1,19 @@
+{
+  "symbol": "frxETH",
+  "name": "Frax Ether",
+  "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "optimistic-ethereum": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "linea": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "arbitrum-one": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "base": "0xecc68d0451e20292406967fe7c04280e5238ac7d"
+  }
+}

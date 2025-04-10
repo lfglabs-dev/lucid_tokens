@@ -1,0 +1,16 @@
+{
+  "symbol": "wHOGE",
+  "name": "Wrapped HOGE",
+  "address": "0xdf690c65d067035364a58369c26820d3696d7799",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14360/thumb/hoge.jpg?1615641604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+    "base": "0xdf690c65d067035364a58369c26820d3696d7799"
+  }
+}

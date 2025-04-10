@@ -1,0 +1,15 @@
+{
+  "symbol": "DOODi",
+  "name": "DOODiPALS",
+  "address": "0xc468acf451922712cf45af9801df89578b0418b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54879/thumb/2025-03-18_00.17.16-removebg-preview.png?1742328437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc468acf451922712cf45af9801df89578b0418b4"
+  }
+}

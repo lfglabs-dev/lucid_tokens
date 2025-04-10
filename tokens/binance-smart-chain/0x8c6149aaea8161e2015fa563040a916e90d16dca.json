@@ -1,0 +1,15 @@
+{
+  "symbol": "SMX",
+  "name": "Snapmuse.io",
+  "address": "0x8c6149aaea8161e2015fa563040a916e90d16dca",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37069/thumb/Snapmuseio_logo1.png?1713179960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8c6149aaea8161e2015fa563040a916e90d16dca"
+  }
+}

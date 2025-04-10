@@ -1,0 +1,16 @@
+{
+  "symbol": "GLS",
+  "name": "Glacier Network",
+  "address": "0xe898bcd00b86a3eae43914319d2d4460230f735c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52878/thumb/glacier.jpg?1734576386",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x68e2e5c9dff32419a108713f83274a4fb5e194ca",
+    "base": "0xe898bcd00b86a3eae43914319d2d4460230f735c"
+  }
+}

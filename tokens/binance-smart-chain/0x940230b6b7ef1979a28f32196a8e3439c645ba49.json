@@ -1,0 +1,15 @@
+{
+  "symbol": "SHIBARMY",
+  "name": "Shib Army",
+  "address": "0x940230b6b7ef1979a28f32196a8e3439c645ba49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19779/thumb/shiba_army.PNG?1635843834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x940230b6b7ef1979a28f32196a8e3439c645ba49"
+  }
+}

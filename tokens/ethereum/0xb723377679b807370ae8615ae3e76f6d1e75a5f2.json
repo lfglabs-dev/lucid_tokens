@@ -1,0 +1,15 @@
+{
+  "symbol": "lvlwaUSDT",
+  "name": "Level Wrapped aUSDT",
+  "address": "0xb723377679b807370ae8615ae3e76f6d1e75a5f2",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55115/thumb/usdt.png?1743789612",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb723377679b807370ae8615ae3e76f6d1e75a5f2"
+  }
+}

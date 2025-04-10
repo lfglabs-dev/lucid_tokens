@@ -1,0 +1,15 @@
+{
+  "symbol": "SPY",
+  "name": "Smarty Pay",
+  "address": "0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18813/thumb/logo_smarty-pay.png?1633499996",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1"
+  }
+}

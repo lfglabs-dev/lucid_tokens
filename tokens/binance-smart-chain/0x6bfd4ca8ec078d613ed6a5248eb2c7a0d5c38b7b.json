@@ -1,0 +1,15 @@
+{
+  "symbol": "ECT",
+  "name": "Ecochaintoken",
+  "address": "0x6bfd4ca8ec078d613ed6a5248eb2c7a0d5c38b7b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18304/thumb/Logo-Transparency.png?1631503556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6bfd4ca8ec078d613ed6a5248eb2c7a0d5c38b7b"
+  }
+}

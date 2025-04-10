@@ -1,0 +1,16 @@
+{
+  "symbol": "UNB",
+  "name": "Unbound",
+  "address": "0x301af3eff0c904dc5ddd06faa808f653474f7fcc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21412/thumb/Unbound_icon_png.png?1639091708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8db253a1943dddf1af9bcf8706ac9a0ce939d922",
+    "binance-smart-chain": "0x301af3eff0c904dc5ddd06faa808f653474f7fcc"
+  }
+}

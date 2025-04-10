@@ -1,0 +1,15 @@
+{
+  "symbol": "IONA",
+  "name": "Iona by Virtuals",
+  "address": "0x645c7aa841087e2e7f741c749ab27422ff5bba8e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52166/thumb/iona.jpg?1732682259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x645c7aa841087e2e7f741c749ab27422ff5bba8e"
+  }
+}

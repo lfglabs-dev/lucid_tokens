@@ -1,0 +1,15 @@
+{
+  "symbol": "MGTAI",
+  "name": "Moongate Fun",
+  "address": "0xb20568b5de8abe668062710d785d292f686541e6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54900/thumb/jTPrgeOWEt-cdXO1xCcv_kogCNLsHT8-OBs7hrLULQ0uFfQTSjAeqkfa4iNBbGWN2KCsxsSCz5KzBMJRkwhYHz_6z9mgFaGwKrl8vrGcRfFTS9AKPIN4tP2zF4X4Qz54eiPy6UJ0Zv__0cr-Xk9W7lF1zP0qN9XQWhAbds3dlo1cuP034T5EvRyrgDHjGpTw3vK1bgu3.jpg?1742448752",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb20568b5de8abe668062710d785d292f686541e6"
+  }
+}

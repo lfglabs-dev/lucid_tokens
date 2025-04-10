@@ -1,0 +1,15 @@
+{
+  "symbol": "MSHIBA",
+  "name": "Matsuri Shiba Inu",
+  "address": "0xbd4b29918d92d613b019252091ab0189f354534f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31393/thumb/IMG_20230820_203650_706.jpg?1692762446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbd4b29918d92d613b019252091ab0189f354534f"
+  }
+}

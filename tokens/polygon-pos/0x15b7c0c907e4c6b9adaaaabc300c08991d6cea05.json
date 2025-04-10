@@ -1,0 +1,17 @@
+{
+  "symbol": "GEL",
+  "name": "Gelato Network Token",
+  "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15026/thumb/Gelato_Icon_Logo_1024x1024.png?1619491717",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+    "fantom": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+    "polygon-pos": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05"
+  }
+}

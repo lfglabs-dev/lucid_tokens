@@ -1,0 +1,15 @@
+{
+  "symbol": "KITTEN",
+  "name": "BabyZeek",
+  "address": "0x9d86578f4b935bed8398353c89bf0fca987dcef2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36414/thumb/Asset_31.png?1711420517",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x9d86578f4b935bed8398353c89bf0fca987dcef2"
+  }
+}

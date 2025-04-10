@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGA",
+  "name": "DOGITA",
+  "address": "0x05311d9aa0e17d1071986146ced510c85c71b52f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36840/thumb/1000104286.png?1712562281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x05311d9aa0e17d1071986146ced510c85c71b52f"
+  }
+}

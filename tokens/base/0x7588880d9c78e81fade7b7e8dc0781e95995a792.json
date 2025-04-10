@@ -1,0 +1,15 @@
+{
+  "symbol": "SAINT",
+  "name": "Satoshi AI agent by Virtuals",
+  "address": "0x7588880d9c78e81fade7b7e8dc0781e95995a792",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52336/thumb/saint.jpg?1733121865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7588880d9c78e81fade7b7e8dc0781e95995a792"
+  }
+}

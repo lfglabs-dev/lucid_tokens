@@ -1,0 +1,15 @@
+{
+  "symbol": "MTHN",
+  "name": "MTHN COIN",
+  "address": "0xcc0d48a5530cca0481105ccd61a14c495a51c901",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39072/thumb/_MTHN_Logo.png?1720228134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcc0d48a5530cca0481105ccd61a14c495a51c901"
+  }
+}

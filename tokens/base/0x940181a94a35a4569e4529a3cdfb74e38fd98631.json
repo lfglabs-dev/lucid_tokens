@@ -1,0 +1,15 @@
+{
+  "symbol": "AERO",
+  "name": "Aerodrome",
+  "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31745/thumb/token.png?1694749704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x940181a94a35a4569e4529a3cdfb74e38fd98631"
+  }
+}

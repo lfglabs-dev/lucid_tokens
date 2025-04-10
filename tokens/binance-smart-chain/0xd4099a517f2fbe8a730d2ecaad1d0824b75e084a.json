@@ -1,0 +1,15 @@
+{
+  "symbol": "MONO",
+  "name": "The Monopolist",
+  "address": "0xd4099a517f2fbe8a730d2ecaad1d0824b75e084a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21184/thumb/ab05Nt4UN1q5.png?1638512515",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd4099a517f2fbe8a730d2ecaad1d0824b75e084a"
+  }
+}

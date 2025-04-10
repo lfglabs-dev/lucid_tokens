@@ -1,0 +1,15 @@
+{
+  "symbol": "Rtime",
+  "name": "RecTime",
+  "address": "0xca39370ab6cf858343cea824a1c784964e5bf247",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33159/thumb/IMG_20231102_235030_095.jpg?1700829092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xca39370ab6cf858343cea824a1c784964e5bf247"
+  }
+}

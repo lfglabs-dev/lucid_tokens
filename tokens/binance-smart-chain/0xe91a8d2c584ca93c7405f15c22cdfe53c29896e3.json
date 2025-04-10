@@ -1,0 +1,16 @@
+{
+  "symbol": "DEXT",
+  "name": "DEXTools",
+  "address": "0xe91a8d2c584ca93c7405f15c22cdfe53c29896e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11603/thumb/dext.png?1605790188",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+    "binance-smart-chain": "0xe91a8d2c584ca93c7405f15c22cdfe53c29896e3"
+  }
+}

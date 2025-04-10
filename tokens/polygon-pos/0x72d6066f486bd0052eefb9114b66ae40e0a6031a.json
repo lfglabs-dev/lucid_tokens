@@ -1,0 +1,17 @@
+{
+  "symbol": "WRX",
+  "name": "Wazirx (PoS)",
+  "address": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10547/thumb/WazirX.png?1580834330",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "energi": "0x0894840ba7d57c7adf2caf8fd3c41eb79af5b8e7",
+    "binance-smart-chain": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
+    "polygon-pos": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyHippo",
+  "name": "BABY HIPPO",
+  "address": "0x5ff325ec2cde57373cb3db511f96a33dc92e1986",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51003/thumb/BabyHippo_200x200.png?1729703473",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ff325ec2cde57373cb3db511f96a33dc92e1986"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "PLAY",
+  "name": "Playdoge",
+  "address": "0xb68a20b9e9b06fde873897e12ab3372ce48f1a8a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39983/thumb/Logo1.png?1725025225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb68a20b9e9b06fde873897e12ab3372ce48f1a8a",
+    "ethereum": "0x6551698ee65f5db726e49f9ab0ff1ce9419003a7"
+  }
+}

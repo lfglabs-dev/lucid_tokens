@@ -1,0 +1,16 @@
+{
+  "symbol": "CORX",
+  "name": "CorionX",
+  "address": "0x141383cdb8158982fb3469c3e49cc82f8026d968",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13129/thumb/x_log.png?1605515405",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
+    "binance-smart-chain": "0x141383cdb8158982fb3469c3e49cc82f8026d968"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "🔶",
+  "name": "🔶",
+  "address": "0x1ea3ffc43ee291a4373418286e9b001aebe14444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55090/thumb/bnb.png?1743666646",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1ea3ffc43ee291a4373418286e9b001aebe14444"
+  }
+}

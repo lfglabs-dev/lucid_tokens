@@ -1,0 +1,17 @@
+{
+  "symbol": "TGR",
+  "name": "Tegro",
+  "address": "0xd9780513292477c4039dfda1cfcd89ff111e9da5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26564/thumb/200x200.png?1658800017",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9780513292477c4039dfda1cfcd89ff111e9da5",
+    "ethereum": "0xc7026a20a640bc71b9074f7aed52a00cd9147091",
+    "polygon-pos": "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed"
+  }
+}

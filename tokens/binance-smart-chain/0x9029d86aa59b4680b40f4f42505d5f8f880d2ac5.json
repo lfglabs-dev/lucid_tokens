@@ -1,0 +1,15 @@
+{
+  "symbol": "CO2",
+  "name": "CO2DAO Token",
+  "address": "0x9029d86aa59b4680b40f4f42505d5f8f880d2ac5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31560/thumb/CO2_logo.png?1693805501",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9029d86aa59b4680b40f4f42505d5f8f880d2ac5"
+  }
+}

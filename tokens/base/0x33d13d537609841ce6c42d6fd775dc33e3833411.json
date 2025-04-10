@@ -1,0 +1,15 @@
+{
+  "symbol": "OAKS",
+  "name": "Oaks",
+  "address": "0x33d13d537609841ce6c42d6fd775dc33e3833411",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51920/thumb/Screenshot_2024-11-19_at_4.43.57%E2%80%AFPM.png?1732185930",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x33d13d537609841ce6c42d6fd775dc33e3833411"
+  }
+}

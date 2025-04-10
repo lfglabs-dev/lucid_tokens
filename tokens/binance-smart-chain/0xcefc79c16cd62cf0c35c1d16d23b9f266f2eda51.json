@@ -1,0 +1,15 @@
+{
+  "symbol": "CATTON",
+  "name": "Catton AI",
+  "address": "0xcefc79c16cd62cf0c35c1d16d23b9f266f2eda51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54241/thumb/cattonai_token_logo200.png?1738886157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcefc79c16cd62cf0c35c1d16d23b9f266f2eda51"
+  }
+}

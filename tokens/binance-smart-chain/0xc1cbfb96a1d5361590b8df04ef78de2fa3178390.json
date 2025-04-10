@@ -1,0 +1,15 @@
+{
+  "symbol": "PCHF",
+  "name": "peachfolio",
+  "address": "0xc1cbfb96a1d5361590b8df04ef78de2fa3178390",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16529/thumb/7d578071-601e-4ef6-9a98-cc7984b258c4.png?1624342728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc1cbfb96a1d5361590b8df04ef78de2fa3178390"
+  }
+}

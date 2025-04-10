@@ -1,0 +1,15 @@
+{
+  "symbol": "LFT",
+  "name": "LIFEFORM Token",
+  "address": "0xa9f978c02915246e435c0bda9785aaaad3cc46d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37778/thumb/lifeform.jpeg?1715582496",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa9f978c02915246e435c0bda9785aaaad3cc46d2"
+  }
+}

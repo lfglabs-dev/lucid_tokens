@@ -1,0 +1,15 @@
+{
+  "symbol": "BTCBAM",
+  "name": "Bitcoin BAM",
+  "address": "0xcf0990170a60da34ffcffa14ead4a3de27d0f4ce",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12854/thumb/logo.png?1603087328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcf0990170a60da34ffcffa14ead4a3de27d0f4ce"
+  }
+}

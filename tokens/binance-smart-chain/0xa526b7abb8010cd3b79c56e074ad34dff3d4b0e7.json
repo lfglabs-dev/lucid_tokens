@@ -1,0 +1,15 @@
+{
+  "symbol": "ELONMARS",
+  "name": "ELON MARS",
+  "address": "0xa526b7abb8010cd3b79c56e074ad34dff3d4b0e7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33557/thumb/3c0f684f-cc96-4b5d-8c83-8e82cba14888-26741543.jpg?1702429499",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa526b7abb8010cd3b79c56e074ad34dff3d4b0e7"
+  }
+}

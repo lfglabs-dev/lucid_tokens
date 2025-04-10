@@ -1,0 +1,15 @@
+{
+  "symbol": "ONEPUNCH",
+  "name": "ONEPUNCH",
+  "address": "0x1f63d0ec7193964142ef6b13d901462d0e5cbb50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38183/thumb/onepunch.png?1716788353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x1f63d0ec7193964142ef6b13d901462d0e5cbb50"
+  }
+}

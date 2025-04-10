@@ -1,0 +1,15 @@
+{
+  "symbol": "MNST",
+  "name": "MoonStarter.net",
+  "address": "0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16146/thumb/MoonStarter.png?1623120360",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9"
+  }
+}

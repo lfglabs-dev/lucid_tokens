@@ -1,0 +1,15 @@
+{
+  "symbol": "GST",
+  "name": "GreenSatoshiToken",
+  "address": "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25484/thumb/gst.png?1652064157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98"
+  }
+}

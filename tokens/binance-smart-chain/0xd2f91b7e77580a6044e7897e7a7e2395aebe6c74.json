@@ -1,0 +1,15 @@
+{
+  "symbol": "SWC",
+  "name": "Swiss Cash Coin",
+  "address": "0xd2f91b7e77580a6044e7897e7a7e2395aebe6c74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd2f91b7e77580a6044e7897e7a7e2395aebe6c74"
+  }
+}

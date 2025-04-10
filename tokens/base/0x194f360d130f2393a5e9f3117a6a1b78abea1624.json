@@ -1,0 +1,15 @@
+{
+  "symbol": "SUMR",
+  "name": "SummerToken",
+  "address": "0x194f360d130f2393a5e9f3117a6a1b78abea1624",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54144/thumb/Group_427320880.png?1738399205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x194f360d130f2393a5e9f3117a6a1b78abea1624"
+  }
+}

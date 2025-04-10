@@ -1,0 +1,15 @@
+{
+  "symbol": "MCASH",
+  "name": "Monsoon Finance",
+  "address": "0xa25610a77077390a75ad9072a084c5fbc7d43a0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18632/thumb/DdcZZeP_%282%29.png?1632716316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa25610a77077390a75ad9072a084c5fbc7d43a0d"
+  }
+}

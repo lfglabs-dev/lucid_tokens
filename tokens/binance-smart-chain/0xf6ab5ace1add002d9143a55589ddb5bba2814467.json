@@ -1,0 +1,15 @@
+{
+  "symbol": "BCHEM",
+  "name": "Bitchemical",
+  "address": "0xf6ab5ace1add002d9143a55589ddb5bba2814467",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39578/thumb/bitchemical.png?1723004450",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf6ab5ace1add002d9143a55589ddb5bba2814467"
+  }
+}

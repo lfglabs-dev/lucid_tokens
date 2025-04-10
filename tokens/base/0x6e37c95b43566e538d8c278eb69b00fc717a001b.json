@@ -1,0 +1,15 @@
+{
+  "symbol": "Re7RWA",
+  "name": "Re7 RWA",
+  "address": "0x6e37c95b43566e538d8c278eb69b00fc717a001b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51549/thumb/pngtree-usd-coin-usdc-digital-stablecoin-icon-technology-pay-web-vector-png-image_37843734.png?1731517054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6e37c95b43566e538d8c278eb69b00fc717a001b"
+  }
+}

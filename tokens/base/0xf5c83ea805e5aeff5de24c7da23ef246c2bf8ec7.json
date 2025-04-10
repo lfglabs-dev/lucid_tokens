@@ -1,0 +1,15 @@
+{
+  "symbol": "MONSTA",
+  "name": "Based Monsta",
+  "address": "0xf5c83ea805e5aeff5de24c7da23ef246c2bf8ec7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53518/thumb/Based_Monsta.jpg?1736574101",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf5c83ea805e5aeff5de24c7da23ef246c2bf8ec7"
+  }
+}

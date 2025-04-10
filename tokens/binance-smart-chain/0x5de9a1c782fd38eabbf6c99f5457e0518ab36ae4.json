@@ -1,0 +1,17 @@
+{
+  "symbol": "DRIFT",
+  "name": "Drift Token",
+  "address": "0x5de9a1c782fd38eabbf6c99f5457e0518ab36ae4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb7cffebb06621287c7850ffefb22c30252e78e6b",
+    "binance-smart-chain": "0x5de9a1c782fd38eabbf6c99f5457e0518ab36ae4",
+    "polygon-pos": "0x3d5efbcf89ba18ac4cf7f7e5db838e554d15fead"
+  }
+}

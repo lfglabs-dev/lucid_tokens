@@ -1,0 +1,15 @@
+{
+  "symbol": "LUNCARMY",
+  "name": "LUNCARMY",
+  "address": "0x7ba1a5780ce75a6998e0f65529393873a6d57cda",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31753/thumb/LUNCARMY.png?1694754841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7ba1a5780ce75a6998e0f65529393873a6d57cda"
+  }
+}

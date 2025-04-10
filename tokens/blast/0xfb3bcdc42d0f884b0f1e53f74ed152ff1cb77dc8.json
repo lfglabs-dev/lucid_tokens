@@ -1,0 +1,18 @@
+{
+  "symbol": "JPM.d",
+  "name": "JPMorgan Chase & Co. - Dinari",
+  "address": "0xfb3bcdc42d0f884b0f1e53f74ed152ff1cb77dc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe15602ceeb794feb4163b049fe82a1f8432781b2",
+    "ethereum": "0x4026f916beda6ca2b347c44517a83f5efab3f569",
+    "blast": "0xfb3bcdc42d0f884b0f1e53f74ed152ff1cb77dc8",
+    "base": "0x687838649383f180024435b96fe014b351854a2d"
+  }
+}

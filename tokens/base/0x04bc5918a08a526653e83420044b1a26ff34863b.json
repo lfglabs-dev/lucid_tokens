@@ -1,0 +1,15 @@
+{
+  "symbol": "SDT",
+  "name": "SkyNity SkyDust",
+  "address": "0x04bc5918a08a526653e83420044b1a26ff34863b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54490/thumb/logoSDT.png?1739994201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x04bc5918a08a526653e83420044b1a26ff34863b"
+  }
+}

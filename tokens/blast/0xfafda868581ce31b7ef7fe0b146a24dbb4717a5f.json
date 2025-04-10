@@ -1,0 +1,18 @@
+{
+  "symbol": "F.d",
+  "name": "Ford Motor Company - Dinari",
+  "address": "0xfafda868581ce31b7ef7fe0b146a24dbb4717a5f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7af89514dadd0a39b5e87f013b0f3fd2ed591c88",
+    "ethereum": "0x9ba08fa0428db35dde85d6c515184642c6301199",
+    "blast": "0xfafda868581ce31b7ef7fe0b146a24dbb4717a5f",
+    "base": "0xb9c229a7aac1c67c7468baf37ef056a91d7df118"
+  }
+}

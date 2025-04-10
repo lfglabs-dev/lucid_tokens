@@ -1,0 +1,15 @@
+{
+  "symbol": "LUMI",
+  "name": "LumiShare",
+  "address": "0x9d6df568d4d3e619b99a5f988ac7b2bcc3408753",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31456/thumb/Lumishare_logo_only_icon.png?1692940458",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9d6df568d4d3e619b99a5f988ac7b2bcc3408753"
+  }
+}

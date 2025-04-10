@@ -1,0 +1,15 @@
+{
+  "symbol": "GCB",
+  "name": "GCB",
+  "address": "0x84f70be4deb029d5f8aacbeacc74c4dc10737342",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39089/thumb/gcbt.png?1720461904",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x84f70be4deb029d5f8aacbeacc74c4dc10737342"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LUC",
+  "name": "Lucretius",
+  "address": "0x87837b7b4850687e200254f78c0af0a34329a491",
+  "decimals": 15,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24205/thumb/luc.png?1646836215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x87837b7b4850687e200254f78c0af0a34329a491"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "mMAI",
+  "name": "Morpho MAI",
+  "address": "0x30b8a2c8e7fa41e77b54b8faf45c610e7ad909e3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51552/thumb/mai-logo.png?1731517339",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x30b8a2c8e7fa41e77b54b8faf45c610e7ad909e3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DTC",
+  "name": "TrumpCoin",
+  "address": "0xab8c98491816fede394582f7758a5effeb4368d7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30391/thumb/photo_2023-05-12_01-14-11.png?1684309247",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xab8c98491816fede394582f7758a5effeb4368d7"
+  }
+}

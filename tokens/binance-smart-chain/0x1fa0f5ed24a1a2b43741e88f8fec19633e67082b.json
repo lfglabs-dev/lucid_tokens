@@ -1,0 +1,15 @@
+{
+  "symbol": "DIAM",
+  "name": "DIAM",
+  "address": "0x1fa0f5ed24a1a2b43741e88f8fec19633e67082b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54369/thumb/diam.jpg?1739416154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1fa0f5ed24a1a2b43741e88f8fec19633e67082b"
+  }
+}

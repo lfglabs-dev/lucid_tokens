@@ -1,0 +1,15 @@
+{
+  "symbol": "$HOUND",
+  "name": "BaseHoundBot by Virtuals",
+  "address": "0xccdf2cbabfa37878125ab2d20bfcb9328b7ab3cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53384/thumb/basehoundlogo.png?1736274597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xccdf2cbabfa37878125ab2d20bfcb9328b7ab3cf"
+  }
+}

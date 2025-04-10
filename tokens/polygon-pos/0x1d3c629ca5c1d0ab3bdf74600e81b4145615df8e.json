@@ -1,0 +1,15 @@
+{
+  "symbol": "PRNT",
+  "name": "Preprints.io Token",
+  "address": "0x1d3c629ca5c1d0ab3bdf74600e81b4145615df8e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37728/thumb/PRNT_transparent.png?1715335146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1d3c629ca5c1d0ab3bdf74600e81b4145615df8e"
+  }
+}

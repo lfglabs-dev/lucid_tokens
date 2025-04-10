@@ -1,0 +1,15 @@
+{
+  "symbol": "BERAFI",
+  "name": "BeraFi",
+  "address": "0x36e9fe653e673fda3857dbe5afbc884af8a316a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54382/thumb/TOKEN_LOGO_%281%29.png?1739459375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x36e9fe653e673fda3857dbe5afbc884af8a316a2"
+  }
+}

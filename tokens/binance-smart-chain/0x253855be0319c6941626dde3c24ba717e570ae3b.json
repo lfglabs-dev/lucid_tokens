@@ -1,0 +1,15 @@
+{
+  "symbol": "NUTZ",
+  "name": "NUTZ",
+  "address": "0x253855be0319c6941626dde3c24ba717e570ae3b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39665/thumb/logonutz.png.png?1723526592",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x253855be0319c6941626dde3c24ba717e570ae3b"
+  }
+}

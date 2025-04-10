@@ -1,0 +1,15 @@
+{
+  "symbol": "LUNAR",
+  "name": "MoonPrime Games",
+  "address": "0xab7dd9c9993e63604ff57cfc2dbe430adffd33d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52920/thumb/logo_.webp?1734686281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xab7dd9c9993e63604ff57cfc2dbe430adffd33d3"
+  }
+}

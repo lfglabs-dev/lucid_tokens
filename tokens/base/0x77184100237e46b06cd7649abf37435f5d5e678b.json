@@ -1,0 +1,15 @@
+{
+  "symbol": "SPR",
+  "name": "SuperMeme",
+  "address": "0x77184100237e46b06cd7649abf37435f5d5e678b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52813/thumb/SPRticker_200x200.png?1734370008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x77184100237e46b06cd7649abf37435f5d5e678b"
+  }
+}

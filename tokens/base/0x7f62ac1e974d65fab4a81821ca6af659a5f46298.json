@@ -1,0 +1,16 @@
+{
+  "symbol": "WELS",
+  "name": "Wrapped Ethlas Token",
+  "address": "0x7f62ac1e974d65fab4a81821ca6af659a5f46298",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30331/thumb/ELS_Logo_200x200.png?1684137108",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeb575c45004bd7b61c6a8d3446a62a05a6ce18d8",
+    "base": "0x7f62ac1e974d65fab4a81821ca6af659a5f46298"
+  }
+}

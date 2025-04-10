@@ -1,0 +1,15 @@
+{
+  "symbol": "CAF",
+  "name": "Childrens Aid Foundation",
+  "address": "0x096985703f584b9444ce9730b600fc39de29ccc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35337/thumb/200x200.png?1708315553",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x096985703f584b9444ce9730b600fc39de29ccc8"
+  }
+}

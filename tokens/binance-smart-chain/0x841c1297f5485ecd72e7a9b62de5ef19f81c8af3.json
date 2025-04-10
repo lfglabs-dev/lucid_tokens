@@ -1,0 +1,15 @@
+{
+  "symbol": "DPIN",
+  "name": "DPIN",
+  "address": "0x841c1297f5485ecd72e7a9b62de5ef19f81c8af3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54780/thumb/IMG_9544.jpeg?1741517505",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x841c1297f5485ecd72e7a9b62de5ef19f81c8af3"
+  }
+}

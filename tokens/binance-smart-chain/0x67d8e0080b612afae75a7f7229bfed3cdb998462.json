@@ -1,0 +1,15 @@
+{
+  "symbol": "CHT",
+  "name": "CyberHarbor",
+  "address": "0x67d8e0080b612afae75a7f7229bfed3cdb998462",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x67d8e0080b612afae75a7f7229bfed3cdb998462"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "BRIDGE",
+  "name": "Cross-Chain Bridge Token",
+  "address": "0x92868a5255c628da08f550a858a802f5351c5223",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20223/thumb/0x92868A5255C628dA08F550a858A802f5351C5223.png?1636684446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x92868a5255c628da08f550a858a802f5351c5223",
+    "binance-smart-chain": "0x92868a5255c628da08f550a858a802f5351c5223",
+    "fantom": "0x92868a5255c628da08f550a858a802f5351c5223",
+    "avalanche": "0xc0367f9b1f84ca8de127226ac2a994ea4bf1e41b",
+    "polygon-pos": "0x92868a5255c628da08f550a858a802f5351c5223"
+  }
+}

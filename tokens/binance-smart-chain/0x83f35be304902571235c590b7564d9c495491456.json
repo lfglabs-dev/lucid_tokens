@@ -1,0 +1,15 @@
+{
+  "symbol": "DCLOUD",
+  "name": "DecentraCloud",
+  "address": "0x83f35be304902571235c590b7564d9c495491456",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36582/thumb/dcp.jpeg?1711945447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x83f35be304902571235c590b7564d9c495491456"
+  }
+}

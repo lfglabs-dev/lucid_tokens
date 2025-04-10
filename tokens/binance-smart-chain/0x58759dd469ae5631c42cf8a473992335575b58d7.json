@@ -1,0 +1,18 @@
+{
+  "symbol": "DHV",
+  "name": "DeHive.finance",
+  "address": "0x58759dd469ae5631c42cf8a473992335575b58d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14926/thumb/logo_200x200.png?1626181831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
+    "xdai": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "binance-smart-chain": "0x58759dd469ae5631c42cf8a473992335575b58d7",
+    "polygon-pos": "0x5fcb9de282af6122ce3518cde28b7089c9f97b26"
+  }
+}

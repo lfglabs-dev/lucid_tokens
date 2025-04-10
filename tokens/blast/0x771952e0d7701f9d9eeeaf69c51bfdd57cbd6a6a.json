@@ -1,0 +1,18 @@
+{
+  "symbol": "RKLB.d",
+  "name": "Rocket Lab USA, Inc. Common Stock - Dinari",
+  "address": "0x771952e0d7701f9d9eeeaf69c51bfdd57cbd6a6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe3b82cfbfeda73dc6870d76090061bc3c97d25ac",
+    "ethereum": "0xc3260a0e1dd1f7ac6508ae29cb00f4fa4b544ba7",
+    "blast": "0x771952e0d7701f9d9eeeaf69c51bfdd57cbd6a6a",
+    "base": "0xa26a3903cbba4e6c2c757d7601fbc569efc479ef"
+  }
+}

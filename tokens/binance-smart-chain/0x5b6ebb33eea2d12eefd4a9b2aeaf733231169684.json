@@ -1,0 +1,16 @@
+{
+  "symbol": "WELD",
+  "name": "Weld.Money",
+  "address": "0x5b6ebb33eea2d12eefd4a9b2aeaf733231169684",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18544/thumb/weld.PNG?1632362171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+    "binance-smart-chain": "0x5b6ebb33eea2d12eefd4a9b2aeaf733231169684"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ALINK",
+  "name": "ALINK.AI",
+  "address": "0x78e624070871831842730b43f77467af3e8b580c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29336/thumb/IMG_20230302_185330_175.jpg?1678173552",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x78e624070871831842730b43f77467af3e8b580c"
+  }
+}

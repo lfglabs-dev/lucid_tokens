@@ -1,0 +1,19 @@
+{
+  "symbol": "CAW",
+  "name": "crow with knife",
+  "address": "0xbbbbbbbbb7949dcc7d1539c91b81a5bf09e37bdb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36067/thumb/200px.png?1710405601",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0xccccccccdbec186dc426f8b5628af94737df0e60",
+    "binance-smart-chain": "0xdfbea88c4842d30c26669602888d746d30f9d60d",
+    "arbitrum-one": "0x16f1967565aad72dd77588a332ce445e7cef752b",
+    "polygon-pos": "0xbbbbbbbbb7949dcc7d1539c91b81a5bf09e37bdb",
+    "base": "0xdfbea88c4842d30c26669602888d746d30f9d60d"
+  }
+}

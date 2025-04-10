@@ -1,0 +1,15 @@
+{
+  "symbol": "BERATARDIO",
+  "name": "Beratardio",
+  "address": "0x66a501076865a2b21df9dbd51fa931317188418b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55086/thumb/for_resizing_.png?1743665350",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x66a501076865a2b21df9dbd51fa931317188418b"
+  }
+}

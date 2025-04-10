@@ -1,0 +1,15 @@
+{
+  "symbol": "SBBTC",
+  "name": "Shibabitcoin",
+  "address": "0x13ba349ecbe6d78590587f12ee19f50d8f8cd627",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38500/thumb/shiba.jpeg?1717745704",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x13ba349ecbe6d78590587f12ee19f50d8f8cd627"
+  }
+}

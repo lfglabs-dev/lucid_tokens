@@ -1,0 +1,16 @@
+{
+  "symbol": "FEED",
+  "name": "Feeder.finance",
+  "address": "0x67d66e8ec1fd25d98b3ccd3b19b7dc4b4b7fc493",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15151/thumb/feeder_finance_logo.png?1619968857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x67d66e8ec1fd25d98b3ccd3b19b7dc4b4b7fc493",
+    "fantom": "0x5d5530eb3147152fe78d5c4bfeede054c8d1442a"
+  }
+}

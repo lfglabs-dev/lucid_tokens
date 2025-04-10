@@ -1,0 +1,15 @@
+{
+  "symbol": "BIXBT",
+  "name": "BeraXBT",
+  "address": "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55022/thumb/BeraLogo-200px.jpg?1743243276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e"
+  }
+}

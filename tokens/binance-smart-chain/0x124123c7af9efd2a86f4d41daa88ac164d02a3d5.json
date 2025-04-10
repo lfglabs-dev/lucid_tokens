@@ -1,0 +1,15 @@
+{
+  "symbol": "GEC",
+  "name": "GreenEnvironmentalCoins",
+  "address": "0x124123c7af9efd2a86f4d41daa88ac164d02a3d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31933/thumb/IMG_20230922_152539_673.jpg?1695723560",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x124123c7af9efd2a86f4d41daa88ac164d02a3d5"
+  }
+}

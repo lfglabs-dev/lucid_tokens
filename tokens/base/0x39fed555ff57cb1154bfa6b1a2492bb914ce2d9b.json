@@ -1,0 +1,15 @@
+{
+  "symbol": "ECHO",
+  "name": "EchoLeaks by Virtuals",
+  "address": "0x39fed555ff57cb1154bfa6b1a2492bb914ce2d9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52172/thumb/echoleaks.jpg?1732683705",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x39fed555ff57cb1154bfa6b1a2492bb914ce2d9b"
+  }
+}

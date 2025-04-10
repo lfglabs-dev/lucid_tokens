@@ -1,0 +1,15 @@
+{
+  "symbol": "GROOVE",
+  "name": "GROOVE",
+  "address": "0x1cd38856ee0fdfd65c757e530e3b1de3061008d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38234/thumb/WhatsApp_Image_2024-05-25_at_15.01.21.png?1716860760",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1cd38856ee0fdfd65c757e530e3b1de3061008d3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XHUNT",
+  "name": "XHUNT",
+  "address": "0xdaecc7ddd6df9c7840018d4d4fdf9599e101481c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54492/thumb/vMCraP_O_400x400.jpg?1739998409",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdaecc7ddd6df9c7840018d4d4fdf9599e101481c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FLDX",
+  "name": "Flair Dex Token",
+  "address": "0x107d2b7c619202d994a4d044c762dd6f8e0c5326",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29949/thumb/Frame_481586.png?1682327933",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x107d2b7c619202d994a4d044c762dd6f8e0c5326"
+  }
+}

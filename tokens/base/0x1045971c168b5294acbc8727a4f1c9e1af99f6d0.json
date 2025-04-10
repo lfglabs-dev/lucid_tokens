@@ -1,0 +1,18 @@
+{
+  "symbol": "FTN",
+  "name": "Bridged FTN (OrtakSea)",
+  "address": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1671006114",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaedf386b755465871ff874e3e37af5976e247064",
+    "base": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+    "binance-smart-chain": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+    "arbitrum-one": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0"
+  }
+}

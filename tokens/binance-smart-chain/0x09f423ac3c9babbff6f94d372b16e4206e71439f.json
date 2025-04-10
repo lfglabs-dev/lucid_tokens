@@ -1,0 +1,16 @@
+{
+  "symbol": "WEJS",
+  "name": "Wrapped Enjinstarter",
+  "address": "0x09f423ac3c9babbff6f94d372b16e4206e71439f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18732/thumb/l-R1nYA0_400x400.jpg?1633297242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96610186f3ab8d73ebee1cf950c750f3b1fb79c2",
+    "binance-smart-chain": "0x09f423ac3c9babbff6f94d372b16e4206e71439f"
+  }
+}

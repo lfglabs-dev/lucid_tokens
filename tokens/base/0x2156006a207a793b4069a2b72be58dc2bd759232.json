@@ -1,0 +1,15 @@
+{
+  "symbol": "COIN",
+  "name": "Coin Token",
+  "address": "0x2156006a207a793b4069a2b72be58dc2bd759232",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37694/thumb/tokcoin-removebg-preview__1_-removebg-preview.png?1715232104",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2156006a207a793b4069a2b72be58dc2bd759232"
+  }
+}

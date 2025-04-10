@@ -1,6 +1,6 @@
 {
   "symbol": "aUSDC",
-  "name": "Falcon USDC Core",
+  "name": "(Deployer)",
   "address": "0xd50b9bbf136d1bd5cd5ac6ed9b3f26c458a6d4a6",
   "decimals": 18,
   "type": "ERC20",

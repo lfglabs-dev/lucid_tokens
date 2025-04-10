@@ -1,0 +1,16 @@
+{
+  "symbol": "AEUR",
+  "name": "Anchored Coins EUR",
+  "address": "0xa40640458fbc27b6eefedea1e9c9e17d4cee7a21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33469/thumb/aeur-icon2.png?1701944612",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa40640458fbc27b6eefedea1e9c9e17d4cee7a21",
+    "binance-smart-chain": "0xa40640458fbc27b6eefedea1e9c9e17d4cee7a21"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "PROS",
+  "name": "Prosper",
+  "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13668/thumb/heD6cg22l3sF5VgPh4G1xC6lnKEWXJif-jbaqUpv8CDP6jbWaqn9UjBdkXWNrw1CewaQOxb8zXRdNeNJWWiUDjfsEl_d7E3bPLg4cFoilQF5TGKHfWyJlnpm3UYc9ytvRvOjxOevMuiu8-lusnNoOcwgsJpMkYWHqe322GAxLt0_30kFMVAcjEDUrOlkK6hUYi0m9P433mvNlOm.jpg?1610671732",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+    "binance-smart-chain": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+    "polygon-pos": "0x6109cb051c5c64093830121ed76272ab04bbdd7c"
+  }
+}

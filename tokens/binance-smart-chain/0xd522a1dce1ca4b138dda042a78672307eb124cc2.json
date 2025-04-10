@@ -1,0 +1,15 @@
+{
+  "symbol": "SWAPZ",
+  "name": "SWAPZ.app",
+  "address": "0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16811/thumb/EWV5xQB.jpeg?1625147828",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd522a1dce1ca4b138dda042a78672307eb124cc2"
+  }
+}

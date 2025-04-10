@@ -1,0 +1,15 @@
+{
+  "symbol": "BERAMO",
+  "name": "BeramoniumCoin",
+  "address": "0x1f7210257fa157227d09449229a9266b0d581337",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54529/thumb/_BERAMO_logo.png?1740168354",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x1f7210257fa157227d09449229a9266b0d581337"
+  }
+}

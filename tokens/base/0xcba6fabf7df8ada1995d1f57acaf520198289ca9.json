@@ -1,0 +1,15 @@
+{
+  "symbol": "BUTT",
+  "name": "BeromesButt",
+  "address": "0xcba6fabf7df8ada1995d1f57acaf520198289ca9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52419/thumb/BUTT_Logo.jpg?1733326535",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcba6fabf7df8ada1995d1f57acaf520198289ca9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TECH",
+  "name": "NumberGoUpTech",
+  "address": "0x5ac04b69bde6f67c0bd5d6ba6fd5d816548b066a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35785/thumb/I2n2x-Ed_400x400.jpg?1709808486",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x5ac04b69bde6f67c0bd5d6ba6fd5d816548b066a"
+  }
+}

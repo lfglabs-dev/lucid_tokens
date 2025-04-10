@@ -1,0 +1,15 @@
+{
+  "symbol": "OXI",
+  "name": "Oxbull",
+  "address": "0x07fb80f7a8460de3065d74b2663ba0d740fb3ca5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53028/thumb/Oxbull_logo.png?1735055682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x07fb80f7a8460de3065d74b2663ba0d740fb3ca5"
+  }
+}

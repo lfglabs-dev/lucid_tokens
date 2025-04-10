@@ -1,0 +1,15 @@
+{
+  "symbol": "CRAFT",
+  "name": "CRAFT",
+  "address": "0x8ae8be25c23833e0a01aa200403e826f611f9cd2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20934/thumb/3mrl6Lfw_400x400.jpg?1638003612",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x8ae8be25c23833e0a01aa200403e826f611f9cd2"
+  }
+}

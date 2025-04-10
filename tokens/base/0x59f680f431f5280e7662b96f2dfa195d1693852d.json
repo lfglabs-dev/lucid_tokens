@@ -1,0 +1,16 @@
+{
+  "symbol": "MAG",
+  "name": "Magnify Cash",
+  "address": "0x59f680f431f5280e7662b96f2dfa195d1693852d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38992/thumb/magnifyt.jpg?1719808409",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x71da932ccda723ba3ab730c976bc66daaf9c598c",
+    "base": "0x59f680f431f5280e7662b96f2dfa195d1693852d"
+  }
+}

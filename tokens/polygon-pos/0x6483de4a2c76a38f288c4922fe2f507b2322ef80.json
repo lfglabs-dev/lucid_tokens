@@ -1,0 +1,15 @@
+{
+  "symbol": "LRS",
+  "name": "Larissa",
+  "address": "0x6483de4a2c76a38f288c4922fe2f507b2322ef80",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34527/thumb/lrs_200x200.png?1705306770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x6483de4a2c76a38f288c4922fe2f507b2322ef80"
+  }
+}

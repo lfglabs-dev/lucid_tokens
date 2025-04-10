@@ -1,0 +1,21 @@
+{
+  "symbol": "bCSBGC3",
+  "name": "Backed CSBGC3 CHF Swiss Domestic Government Bond 0-3yr",
+  "address": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38920/thumb/b-CSBGC3-200x200.png?1719513620",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
+    "xdai": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
+    "ethereum": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
+    "binance-smart-chain": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
+    "avalanche": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
+    "polygon-pos": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
+    "base": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2"
+  }
+}

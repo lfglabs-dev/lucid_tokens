@@ -1,0 +1,15 @@
+{
+  "symbol": "VARK",
+  "name": "Aardvark",
+  "address": "0x09579452bc3872727a5d105f342645792bb8a82b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32678/thumb/VARK.jpg?1698929830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x09579452bc3872727a5d105f342645792bb8a82b"
+  }
+}

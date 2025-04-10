@@ -1,0 +1,17 @@
+{
+  "symbol": "1ART",
+  "name": "ArtWallet",
+  "address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19307/thumb/token_light_3x.png?1642936901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+    "ethereum": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+    "fantom": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KEY",
+  "name": "MoMo KEY",
+  "address": "0x85c128ee1feeb39a59490c720a9c563554b51d33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14812/thumb/2e7a347a975a232693d4467bd4d6546.png?1618542804",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x85c128ee1feeb39a59490c720a9c563554b51d33"
+  }
+}

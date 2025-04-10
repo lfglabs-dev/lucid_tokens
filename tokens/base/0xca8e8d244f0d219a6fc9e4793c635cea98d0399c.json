@@ -1,0 +1,15 @@
+{
+  "symbol": "CAT",
+  "name": "Catson",
+  "address": "0xca8e8d244f0d219a6fc9e4793c635cea98d0399c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39313/thumb/Sp7.png?1721706297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xca8e8d244f0d219a6fc9e4793c635cea98d0399c"
+  }
+}

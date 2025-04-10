@@ -1,0 +1,15 @@
+{
+  "symbol": "POSI",
+  "name": "Position Token",
+  "address": "0x5ca42204cdaa70d5c773946e69de942b85ca6706",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17459/thumb/posi.png?1627887743",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ca42204cdaa70d5c773946e69de942b85ca6706"
+  }
+}

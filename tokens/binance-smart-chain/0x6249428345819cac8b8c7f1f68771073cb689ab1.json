@@ -1,0 +1,15 @@
+{
+  "symbol": "BBK",
+  "name": "BNB BANK",
+  "address": "0x6249428345819cac8b8c7f1f68771073cb689ab1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22510/thumb/Final-Logo_1.png?1641965441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6249428345819cac8b8c7f1f68771073cb689ab1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BSMTI",
+  "name": "Basmati",
+  "address": "0x3beff5cc75f04e3717676dae3eeac8f57a8ca493",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37412/thumb/1000010075.jpg?1714373910",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x3beff5cc75f04e3717676dae3eeac8f57a8ca493"
+  }
+}

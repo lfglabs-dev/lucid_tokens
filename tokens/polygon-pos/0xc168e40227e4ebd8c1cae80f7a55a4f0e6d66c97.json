@@ -1,0 +1,16 @@
+{
+  "symbol": "DFYN",
+  "name": "DFYN Token (PoS)",
+  "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15368/thumb/SgqhfWz4_400x400_%281%29.jpg?1620666919",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9695e0114e12c0d3a3636fab5a18e6b737529023",
+    "polygon-pos": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97"
+  }
+}

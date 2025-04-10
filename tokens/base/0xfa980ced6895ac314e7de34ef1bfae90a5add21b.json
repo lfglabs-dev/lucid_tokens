@@ -1,0 +1,16 @@
+{
+  "symbol": "PRIME",
+  "name": "Prime",
+  "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+    "base": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b"
+  }
+}

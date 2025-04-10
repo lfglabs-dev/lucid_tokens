@@ -1,0 +1,15 @@
+{
+  "symbol": "XTM",
+  "name": "Torum",
+  "address": "0x443cab9583b83eaa7a712c9d64525e57e2a7eb3f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18393/thumb/torum-transparent-cmc.png?1631760805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x443cab9583b83eaa7a712c9d64525e57e2a7eb3f"
+  }
+}

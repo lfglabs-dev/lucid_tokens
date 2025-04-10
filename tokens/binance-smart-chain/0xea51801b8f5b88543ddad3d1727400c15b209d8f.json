@@ -1,0 +1,15 @@
+{
+  "symbol": "INUKO",
+  "name": "Inuko Coin",
+  "address": "0xea51801b8f5b88543ddad3d1727400c15b209d8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27821/thumb/633d8d5b978376632f2a82a0_Illustration261a-p-500.png?1665980363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xea51801b8f5b88543ddad3d1727400c15b209d8f"
+  }
+}

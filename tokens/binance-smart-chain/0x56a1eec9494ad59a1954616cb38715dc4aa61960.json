@@ -1,0 +1,15 @@
+{
+  "symbol": "JMTAI",
+  "name": "Judgment AI",
+  "address": "0x56a1eec9494ad59a1954616cb38715dc4aa61960",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35042/thumb/IMG_6025.jpeg_2.png?1707193069",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x56a1eec9494ad59a1954616cb38715dc4aa61960"
+  }
+}

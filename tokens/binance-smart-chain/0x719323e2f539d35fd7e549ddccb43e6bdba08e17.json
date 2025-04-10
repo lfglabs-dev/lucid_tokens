@@ -1,0 +1,15 @@
+{
+  "symbol": "MBXN",
+  "name": "Upbots Token",
+  "address": "0x719323e2f539d35fd7e549ddccb43e6bdba08e17",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12476/thumb/UBXT.png?1600132967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x719323e2f539d35fd7e549ddccb43e6bdba08e17"
+  }
+}

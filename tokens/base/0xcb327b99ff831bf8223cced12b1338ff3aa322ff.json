@@ -1,0 +1,15 @@
+{
+  "symbol": "bsdETH",
+  "name": "Based ETH",
+  "address": "0xcb327b99ff831bf8223cced12b1338ff3aa322ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35774/thumb/Icon_White_on_Blue.png?1709793654",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcb327b99ff831bf8223cced12b1338ff3aa322ff"
+  }
+}

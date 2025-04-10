@@ -1,0 +1,15 @@
+{
+  "symbol": "CRAPPY",
+  "name": "CrappyBird",
+  "address": "0x67ce18961c3269ca03c2e5632f1938cc53e614a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38938/thumb/crappybird_logo.jpeg?1719568566",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x67ce18961c3269ca03c2e5632f1938cc53e614a1"
+  }
+}

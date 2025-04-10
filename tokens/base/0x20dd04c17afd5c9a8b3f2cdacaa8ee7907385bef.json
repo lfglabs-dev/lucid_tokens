@@ -1,0 +1,15 @@
+{
+  "symbol": "NATIVE",
+  "name": "Native",
+  "address": "0x20dd04c17afd5c9a8b3f2cdacaa8ee7907385bef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52565/thumb/native_logo_fill.png?1733672418",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x20dd04c17afd5c9a8b3f2cdacaa8ee7907385bef"
+  }
+}

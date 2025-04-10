@@ -1,0 +1,15 @@
+{
+  "symbol": "GINI",
+  "name": "Gini",
+  "address": "0xa1a39558718d6fa57c699dc45981e5a1b2e25d08",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54652/thumb/Kalp.png?1740892400",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa1a39558718d6fa57c699dc45981e5a1b2e25d08"
+  }
+}

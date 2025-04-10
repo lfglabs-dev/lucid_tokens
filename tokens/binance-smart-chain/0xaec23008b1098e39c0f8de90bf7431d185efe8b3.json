@@ -1,0 +1,15 @@
+{
+  "symbol": "CBUNNY",
+  "name": "Crazy Bunny Equity Token",
+  "address": "0xaec23008b1098e39c0f8de90bf7431d185efe8b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19675/thumb/500x500px.png?1635739677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaec23008b1098e39c0f8de90bf7431d185efe8b3"
+  }
+}

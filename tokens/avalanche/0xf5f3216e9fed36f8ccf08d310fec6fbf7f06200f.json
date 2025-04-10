@@ -1,0 +1,15 @@
+{
+  "symbol": "BOBS",
+  "name": "BOBS",
+  "address": "0xf5f3216e9fed36f8ccf08d310fec6fbf7f06200f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34021/thumb/bobs_200.png?1703670370",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf5f3216e9fed36f8ccf08d310fec6fbf7f06200f"
+  }
+}

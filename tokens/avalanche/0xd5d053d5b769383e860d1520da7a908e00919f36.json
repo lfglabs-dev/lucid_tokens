@@ -1,0 +1,15 @@
+{
+  "symbol": "JUICE",
+  "name": "JUICE",
+  "address": "0xd5d053d5b769383e860d1520da7a908e00919f36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37367/thumb/juice200.png?1714116899",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xd5d053d5b769383e860d1520da7a908e00919f36"
+  }
+}

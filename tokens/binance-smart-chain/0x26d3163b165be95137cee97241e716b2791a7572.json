@@ -1,0 +1,15 @@
+{
+  "symbol": "DSHARE",
+  "name": "DSHARE",
+  "address": "0x26d3163b165be95137cee97241e716b2791a7572",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22194/thumb/dshares.png?1641191230",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x26d3163b165be95137cee97241e716b2791a7572"
+  }
+}

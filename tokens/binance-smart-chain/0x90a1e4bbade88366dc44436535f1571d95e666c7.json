@@ -1,0 +1,16 @@
+{
+  "symbol": "FWT",
+  "name": "FreewayToken",
+  "address": "0x90a1e4bbade88366dc44436535f1571d95e666c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13012/thumb/S5h7MHR.png?1652862323",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20e7125677311fca903a8897042b9983f22ea295",
+    "binance-smart-chain": "0x90a1e4bbade88366dc44436535f1571d95e666c7"
+  }
+}

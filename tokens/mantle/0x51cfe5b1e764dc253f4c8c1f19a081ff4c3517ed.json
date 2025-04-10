@@ -1,0 +1,15 @@
+{
+  "symbol": "MINU",
+  "name": "Mantle Inu Token",
+  "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1689743388",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed"
+  }
+}

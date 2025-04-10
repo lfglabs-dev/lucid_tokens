@@ -1,0 +1,15 @@
+{
+  "symbol": "FIRO",
+  "name": "Firo",
+  "address": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20128/thumb/firocoingecko.png?1636537460",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed"
+  }
+}

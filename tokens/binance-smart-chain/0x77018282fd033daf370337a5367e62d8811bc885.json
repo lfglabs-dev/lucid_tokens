@@ -1,0 +1,16 @@
+{
+  "symbol": "POOLZ",
+  "name": "$Poolz Finance [via ChainPort.io]",
+  "address": "0x77018282fd033daf370337a5367e62d8811bc885",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13679/thumb/poolz_logo.png?1610806091",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+    "binance-smart-chain": "0x77018282fd033daf370337a5367e62d8811bc885"
+  }
+}

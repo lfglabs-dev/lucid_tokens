@@ -1,0 +1,15 @@
+{
+  "symbol": "PRO",
+  "name": "ProductClank",
+  "address": "0x2e7df1528f4ea427f48b49ae8a1f78149db7185a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54712/thumb/ProductClank_Transparent_Background.png?1741185094",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2e7df1528f4ea427f48b49ae8a1f78149db7185a"
+  }
+}

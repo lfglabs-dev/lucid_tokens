@@ -1,0 +1,15 @@
+{
+  "symbol": "asUSDF",
+  "name": "Astherus asUSDF",
+  "address": "0x917af46b3c3c6e1bb7286b9f59637fb7c65851fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54132/thumb/asUSDF_logo_%28200x200%29.png?1738393832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x917af46b3c3c6e1bb7286b9f59637fb7c65851fb"
+  }
+}

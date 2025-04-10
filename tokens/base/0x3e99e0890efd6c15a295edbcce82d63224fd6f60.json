@@ -1,0 +1,15 @@
+{
+  "symbol": "DXAI",
+  "name": "DXAI.app by Virtuals",
+  "address": "0x3e99e0890efd6c15a295edbcce82d63224fd6f60",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53238/thumb/coinge.jpg?1735839864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3e99e0890efd6c15a295edbcce82d63224fd6f60"
+  }
+}

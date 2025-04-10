@@ -1,0 +1,15 @@
+{
+  "symbol": "RENTA",
+  "name": "Renta Token",
+  "address": "0x792905a8b7c0a22d56e78e849f95c162018a4e2d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55059/thumb/logo200x200.png?1743524174",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x792905a8b7c0a22d56e78e849f95c162018a4e2d"
+  }
+}

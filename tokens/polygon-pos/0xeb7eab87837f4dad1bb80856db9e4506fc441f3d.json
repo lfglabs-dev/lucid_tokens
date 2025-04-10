@@ -1,0 +1,15 @@
+{
+  "symbol": "MEE",
+  "name": "MEE Governance Token",
+  "address": "0xeb7eab87837f4dad1bb80856db9e4506fc441f3d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27588/thumb/MEE_200x200.png?1672476410",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xeb7eab87837f4dad1bb80856db9e4506fc441f3d"
+  }
+}

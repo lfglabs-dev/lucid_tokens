@@ -1,0 +1,15 @@
+{
+  "symbol": "COCO",
+  "name": "COCO COIN",
+  "address": "0xf563e86e461de100cfcfd8b65daa542d3d4b0550",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39989/thumb/200x200.png?1725028188",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf563e86e461de100cfcfd8b65daa542d3d4b0550"
+  }
+}

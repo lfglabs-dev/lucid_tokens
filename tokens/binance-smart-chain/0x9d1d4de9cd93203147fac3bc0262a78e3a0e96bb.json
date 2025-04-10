@@ -1,0 +1,15 @@
+{
+  "symbol": "PBUX",
+  "name": "Playbux",
+  "address": "0x9d1d4de9cd93203147fac3bc0262a78e3a0e96bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36656/thumb/playbux.jpeg?1712042088",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9d1d4de9cd93203147fac3bc0262a78e3a0e96bb"
+  }
+}

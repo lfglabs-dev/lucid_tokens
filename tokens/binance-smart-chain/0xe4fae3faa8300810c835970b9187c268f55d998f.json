@@ -1,0 +1,17 @@
+{
+  "symbol": "CATE",
+  "name": "CateCoin",
+  "address": "0xe4fae3faa8300810c835970b9187c268f55d998f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15364/thumb/logo.png?1620647627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe4fae3faa8300810c835970b9187c268f55d998f",
+    "ethereum": "0x051fb509e4a775fabd257611eea1efaed8f91359",
+    "base": "0x051fb509e4a775fabd257611eea1efaed8f91359"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "WARPIE",
+  "name": "Warpie",
+  "address": "0xf2c862ba9edba3579dd8b37389deea0528c625c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37005/thumb/Warpie_Logo_transparent__%28200_x_200_px%29.png?1713071864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf2c862ba9edba3579dd8b37389deea0528c625c2"
+  }
+}

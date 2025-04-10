@@ -1,0 +1,15 @@
+{
+  "symbol": "SIR",
+  "name": "Poo Chi",
+  "address": "0x91a483538deea8ef583b413166a91e709bd2c8f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50856/thumb/1000221631.png?1729301978",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x91a483538deea8ef583b413166a91e709bd2c8f6"
+  }
+}

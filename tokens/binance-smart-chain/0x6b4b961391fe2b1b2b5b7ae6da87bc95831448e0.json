@@ -1,0 +1,15 @@
+{
+  "symbol": "CTI",
+  "name": "Community INU⚡",
+  "address": "0x6b4b961391fe2b1b2b5b7ae6da87bc95831448e0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33905/thumb/32-inch-by-32-inch-1.png?1703240746",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6b4b961391fe2b1b2b5b7ae6da87bc95831448e0"
+  }
+}

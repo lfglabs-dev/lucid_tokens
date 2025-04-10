@@ -1,0 +1,15 @@
+{
+  "symbol": "BRAIN",
+  "name": "Gigabrain by Virtuals",
+  "address": "0xce1eab31756a48915b7e7bb79c589835aac6242d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53455/thumb/1000022837.jpg?1736403801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xce1eab31756a48915b7e7bb79c589835aac6242d"
+  }
+}

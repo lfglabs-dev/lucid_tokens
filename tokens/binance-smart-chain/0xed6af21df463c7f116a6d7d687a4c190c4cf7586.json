@@ -1,0 +1,15 @@
+{
+  "symbol": "Fu",
+  "name": "Fu",
+  "address": "0xed6af21df463c7f116a6d7d687a4c190c4cf7586",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50475/thumb/IMG_5332.jpeg?1727850342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xed6af21df463c7f116a6d7d687a4c190c4cf7586"
+  }
+}

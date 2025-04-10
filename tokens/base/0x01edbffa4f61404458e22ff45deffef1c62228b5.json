@@ -1,0 +1,15 @@
+{
+  "symbol": "wLIBRA",
+  "name": "Wrapped Libra",
+  "address": "0x01edbffa4f61404458e22ff45deffef1c62228b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34499/thumb/logo.png?1705265581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x01edbffa4f61404458e22ff45deffef1c62228b5"
+  }
+}

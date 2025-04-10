@@ -1,0 +1,16 @@
+{
+  "symbol": "ZOOT",
+  "name": "Zoo Token",
+  "address": "0xb3d691125514db7a5be3326af86a72ecdc2cde16",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15629/thumb/gyzERsO.png?1621394316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1341a2257fa7b770420ef70616f888056f90926c",
+    "binance-smart-chain": "0xb3d691125514db7a5be3326af86a72ecdc2cde16"
+  }
+}

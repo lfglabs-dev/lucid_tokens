@@ -1,0 +1,17 @@
+{
+  "symbol": "MGG",
+  "name": "MetaGaming Guild [via ChainPort.io]",
+  "address": "0x6125adcab2f171bc70cfe2caecfec5509273a86a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23287/thumb/mgg.png?1643543010",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7237c0b30b1355f1b76355582f182f6f04b08740",
+    "binance-smart-chain": "0x6125adcab2f171bc70cfe2caecfec5509273a86a",
+    "fantom": "0xfda8355e8ce22ac44f2d175f4acfec8fac7472d7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "HotMoon",
+  "name": "HotMoon Token",
+  "address": "0xc1357d32bf23fd5fe3280681a36755b6f150442e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25206/thumb/hotmoon-coinGecko.png?1650770774",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc1357d32bf23fd5fe3280681a36755b6f150442e"
+  }
+}

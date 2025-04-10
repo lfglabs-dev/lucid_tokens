@@ -1,0 +1,15 @@
+{
+  "symbol": "lower",
+  "name": "lower",
+  "address": "0x67040bb0ad76236ddd5d156d23ec920a089d1eac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37153/thumb/lower.jpg?1713471922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x67040bb0ad76236ddd5d156d23ec920a089d1eac"
+  }
+}

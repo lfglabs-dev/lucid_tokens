@@ -1,0 +1,15 @@
+{
+  "symbol": "weETH",
+  "name": "Wrapped eETH",
+  "address": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37842/thumb/weETH_%281%29.png?1715747077",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AGENT",
+  "name": "AgentAlgo",
+  "address": "0xd98832e8a59156acbee4744b9a94a9989a728f36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52294/thumb/agent_logo.jpg?1732966712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd98832e8a59156acbee4744b9a94a9989a728f36"
+  }
+}

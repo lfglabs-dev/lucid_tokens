@@ -1,0 +1,15 @@
+{
+  "symbol": "RUUF",
+  "name": "RuufCoin",
+  "address": "0x182f1d39df9460d7aef29afbc80bbd68ed0a41d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17968/thumb/44d23204-3919-4ba6-adaf-69a51b9621d8.png?1629947200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x182f1d39df9460d7aef29afbc80bbd68ed0a41d5"
+  }
+}

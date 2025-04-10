@@ -1,0 +1,15 @@
+{
+  "symbol": "ALT",
+  "name": "Alitas",
+  "address": "0x5ca09af27b8a4f1d636380909087536bc7e2d94d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16330/thumb/ALT.png?1623748504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ca09af27b8a4f1d636380909087536bc7e2d94d"
+  }
+}

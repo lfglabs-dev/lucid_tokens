@@ -1,0 +1,15 @@
+{
+  "symbol": "MOCHI",
+  "name": "Mochi DeFi",
+  "address": "0x92072f045d0904e9a0cdfd48519f54c83bf41e82",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37418/thumb/1000006840.png?1714376584",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x92072f045d0904e9a0cdfd48519f54c83bf41e82"
+  }
+}

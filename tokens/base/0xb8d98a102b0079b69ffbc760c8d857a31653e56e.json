@@ -1,0 +1,15 @@
+{
+  "symbol": "toby",
+  "name": "toby",
+  "address": "0xb8d98a102b0079b69ffbc760c8d857a31653e56e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36615/thumb/toby1.png?1711976453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb8d98a102b0079b69ffbc760c8d857a31653e56e"
+  }
+}

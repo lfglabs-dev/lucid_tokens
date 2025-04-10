@@ -1,0 +1,15 @@
+{
+  "symbol": "WWD",
+  "name": "Wolf Works DAO",
+  "address": "0xd3144ff5f388d36c0a445686c08540296d8b209b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24106/thumb/200px-cmc.png?1646376154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd3144ff5f388d36c0a445686c08540296d8b209b"
+  }
+}

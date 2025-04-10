@@ -1,0 +1,18 @@
+{
+  "symbol": "LOVELY",
+  "name": "Lovely Finance",
+  "address": "0x00560e906b7c73ee2d18ebfd191591a83ae27ea0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19053/thumb/lovely-inu-logo-new.png?1634264028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f6d4d4643a514132f84f4a270946db3c7cb701c",
+    "binance-smart-chain": "0x93b30f6d5c2eed35950498f71235a749e6f0540c",
+    "polygon-pos": "0x00560e906b7c73ee2d18ebfd191591a83ae27ea0",
+    "base": "0x4e719699e4197f4bf4370c49acd3e3b8de11974f"
+  }
+}

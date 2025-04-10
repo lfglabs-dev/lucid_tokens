@@ -1,0 +1,15 @@
+{
+  "symbol": "FREN",
+  "name": "Frens Club",
+  "address": "0x45c30fa6a2c7e031fe86e4f1cb5becfde149b980",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37893/thumb/C55415C5-1754-4B9A-B32F-9DF1AF2264F1.png?1715846907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x45c30fa6a2c7e031fe86e4f1cb5becfde149b980"
+  }
+}

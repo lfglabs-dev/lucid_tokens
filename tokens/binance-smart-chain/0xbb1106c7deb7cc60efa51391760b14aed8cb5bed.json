@@ -1,0 +1,15 @@
+{
+  "symbol": "Car",
+  "name": "Car ",
+  "address": "0xbb1106c7deb7cc60efa51391760b14aed8cb5bed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54355/thumb/IMG_8783.jpeg?1739384049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb1106c7deb7cc60efa51391760b14aed8cb5bed"
+  }
+}

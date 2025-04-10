@@ -1,0 +1,15 @@
+{
+  "symbol": "LUNE",
+  "name": "Luneko",
+  "address": "0xacd1caef47e4c47bafe8a51b3f4305fc38203b7a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37343/thumb/ResizedLogo.png?1714054539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xacd1caef47e4c47bafe8a51b3f4305fc38203b7a"
+  }
+}

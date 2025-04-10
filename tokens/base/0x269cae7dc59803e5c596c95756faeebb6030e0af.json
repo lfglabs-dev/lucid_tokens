@@ -1,0 +1,15 @@
+{
+  "symbol": "MXNe",
+  "name": "Real MXN",
+  "address": "0x269cae7dc59803e5c596c95756faeebb6030e0af",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54735/thumb/mxne-logo-200.png?1741253834",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x269cae7dc59803e5c596c95756faeebb6030e0af"
+  }
+}

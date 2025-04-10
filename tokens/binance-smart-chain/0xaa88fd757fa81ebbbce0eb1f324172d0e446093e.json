@@ -1,0 +1,15 @@
+{
+  "symbol": "REIGN",
+  "name": "Reign of Terror",
+  "address": "0xaa88fd757fa81ebbbce0eb1f324172d0e446093e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29804/thumb/Reign_of_Terror_Symbol.png?1681358308",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaa88fd757fa81ebbbce0eb1f324172d0e446093e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ALTT",
+  "name": "Altcoinist",
+  "address": "0x1b5ce2a593a840e3ad3549a34d7b3dec697c114d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39455/thumb/logo_%281%29.png?1722372577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1b5ce2a593a840e3ad3549a34d7b3dec697c114d"
+  }
+}

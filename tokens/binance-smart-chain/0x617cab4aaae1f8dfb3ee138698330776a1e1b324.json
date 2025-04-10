@@ -1,0 +1,15 @@
+{
+  "symbol": "ARTY",
+  "name": "Artyfact",
+  "address": "0x617cab4aaae1f8dfb3ee138698330776a1e1b324",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33879/thumb/arty.png?1703146847",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x617cab4aaae1f8dfb3ee138698330776a1e1b324"
+  }
+}

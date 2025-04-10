@@ -1,0 +1,15 @@
+{
+  "symbol": "LGO",
+  "name": "Level Governance Token",
+  "address": "0xbe2b6c5e31f292009f495ddbda88e28391c9815e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28629/thumb/LGO-256.png?1672717698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbe2b6c5e31f292009f495ddbda88e28391c9815e"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "ZERC",
+  "name": "zkRace",
+  "address": "0xe1b3eb06806601828976e491914e3de18b5d6b28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17438/thumb/derace-logo-black-coingecko.png?1627656907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf8428a5a99cb452ea50b6ea70b052daa3df4934f",
+    "binance-smart-chain": "0x9c47e503b2f497e9ad9f1c0dfa6bd9fd5456aa4e",
+    "polygon-pos": "0xe1b3eb06806601828976e491914e3de18b5d6b28",
+    "base": "0xa3a2cdd230f9b3ff6e01a01534a3ed3cbf049815"
+  }
+}

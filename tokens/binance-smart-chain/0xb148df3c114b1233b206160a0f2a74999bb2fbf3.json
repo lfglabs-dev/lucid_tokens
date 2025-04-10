@@ -1,0 +1,15 @@
+{
+  "symbol": "DHLT",
+  "name": "DeHealth",
+  "address": "0xb148df3c114b1233b206160a0f2a74999bb2fbf3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24839/thumb/DeHealth_FB.png?1658911320",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb148df3c114b1233b206160a0f2a74999bb2fbf3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FLOPPA",
+  "name": "Floppa",
+  "address": "0x776aaef8d8760129a0398cf8674ee28cefc0eab9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36969/thumb/IMG_8717.jpeg?1712909755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x776aaef8d8760129a0398cf8674ee28cefc0eab9"
+  }
+}

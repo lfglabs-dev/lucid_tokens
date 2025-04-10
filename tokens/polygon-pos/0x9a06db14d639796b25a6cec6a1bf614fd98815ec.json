@@ -1,0 +1,16 @@
+{
+  "symbol": "$ZKP",
+  "name": "$ZKP Token",
+  "address": "0x9a06db14d639796b25a6cec6a1bf614fd98815ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18611/thumb/DvXVFEkp_400x400.png?1632669379",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x909e34d3f6124c324ac83dcca84b74398a6fa173",
+    "polygon-pos": "0x9a06db14d639796b25a6cec6a1bf614fd98815ec"
+  }
+}

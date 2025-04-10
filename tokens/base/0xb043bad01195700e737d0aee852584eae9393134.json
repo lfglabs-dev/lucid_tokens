@@ -1,0 +1,15 @@
+{
+  "symbol": "FLOWER",
+  "name": "Farcaster Flower",
+  "address": "0xb043bad01195700e737d0aee852584eae9393134",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38726/thumb/200.jpg?1718478137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb043bad01195700e737d0aee852584eae9393134"
+  }
+}

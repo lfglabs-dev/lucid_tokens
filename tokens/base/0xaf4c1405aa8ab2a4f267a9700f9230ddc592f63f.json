@@ -1,0 +1,15 @@
+{
+  "symbol": "Zygo",
+  "name": "Zygo the frog",
+  "address": "0xaf4c1405aa8ab2a4f267a9700f9230ddc592f63f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40022/thumb/1000000333.jpg?1725345968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xaf4c1405aa8ab2a4f267a9700f9230ddc592f63f"
+  }
+}

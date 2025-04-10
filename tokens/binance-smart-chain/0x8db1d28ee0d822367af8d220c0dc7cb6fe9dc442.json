@@ -1,0 +1,16 @@
+{
+  "symbol": "ETHPAD",
+  "name": "ETHPAD.network",
+  "address": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17520/thumb/tHAbIBQK_400x400.jpg?1628075612",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+    "binance-smart-chain": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442"
+  }
+}

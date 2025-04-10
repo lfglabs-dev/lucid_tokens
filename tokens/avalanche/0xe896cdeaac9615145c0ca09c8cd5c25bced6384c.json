@@ -1,0 +1,15 @@
+{
+  "symbol": "PEFI",
+  "name": "PenguinToken",
+  "address": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14643/thumb/pefi.png?1643460876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c"
+  }
+}

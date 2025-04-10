@@ -1,0 +1,17 @@
+{
+  "symbol": "LOVE",
+  "name": "Love.io",
+  "address": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33011/thumb/IMG_7458.png?1700124277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "pulsechain": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
+    "ethereum": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
+    "binance-smart-chain": "0xb55ee890426341fe45ee6dc788d2d93d25b59063"
+  }
+}

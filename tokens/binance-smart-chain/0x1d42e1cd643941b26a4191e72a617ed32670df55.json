@@ -1,0 +1,15 @@
+{
+  "symbol": "MBP",
+  "name": "MBP Coin",
+  "address": "0x1d42e1cd643941b26a4191e72a617ed32670df55",
+  "decimals": 10,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50216/thumb/mbpcoin_.png?1726436403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1d42e1cd643941b26a4191e72a617ed32670df55"
+  }
+}

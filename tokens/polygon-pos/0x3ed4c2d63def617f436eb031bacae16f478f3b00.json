@@ -1,0 +1,15 @@
+{
+  "symbol": "DPEX",
+  "name": "DPEX",
+  "address": "0x3ed4c2d63def617f436eb031bacae16f478f3b00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31038/thumb/logo-ai.png?1689847877",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3ed4c2d63def617f436eb031bacae16f478f3b00"
+  }
+}

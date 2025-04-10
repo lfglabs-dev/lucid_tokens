@@ -1,0 +1,15 @@
+{
+  "symbol": "INF",
+  "name": "INFinitar coin",
+  "address": "0xf77d81766e42f377159a5512858afc012809c7e6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52674/thumb/INF-200.jpg?1734019437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf77d81766e42f377159a5512858afc012809c7e6"
+  }
+}

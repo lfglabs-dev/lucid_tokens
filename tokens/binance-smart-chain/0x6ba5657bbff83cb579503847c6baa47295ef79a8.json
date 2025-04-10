@@ -1,0 +1,15 @@
+{
+  "symbol": "NBLU",
+  "name": "Nuritopia",
+  "address": "0x6ba5657bbff83cb579503847c6baa47295ef79a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31964/thumb/nblu.jpeg?1695737326",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6ba5657bbff83cb579503847c6baa47295ef79a8"
+  }
+}

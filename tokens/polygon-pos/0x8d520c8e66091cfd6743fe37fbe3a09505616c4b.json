@@ -1,0 +1,16 @@
+{
+  "symbol": "COT",
+  "name": "CosplayToken (PoS)",
+  "address": "0x8d520c8e66091cfd6743fe37fbe3a09505616c4b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21294/thumb/brave_ZxsjzUc8xn.png?1638874098",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
+    "polygon-pos": "0x8d520c8e66091cfd6743fe37fbe3a09505616c4b"
+  }
+}

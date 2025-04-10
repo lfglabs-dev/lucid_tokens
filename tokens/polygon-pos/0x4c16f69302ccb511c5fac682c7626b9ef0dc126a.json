@@ -1,0 +1,15 @@
+{
+  "symbol": "polyBUNNY",
+  "name": "Polygon BUNNY Token",
+  "address": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16855/thumb/token-bunny.a8b61846.png?1625455221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a"
+  }
+}

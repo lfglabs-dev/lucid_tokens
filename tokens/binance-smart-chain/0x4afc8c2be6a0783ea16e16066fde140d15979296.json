@@ -1,0 +1,15 @@
+{
+  "symbol": "HARE",
+  "name": "Hare Token",
+  "address": "0x4afc8c2be6a0783ea16e16066fde140d15979296",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16327/thumb/200ico.png?1623745151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4afc8c2be6a0783ea16e16066fde140d15979296"
+  }
+}

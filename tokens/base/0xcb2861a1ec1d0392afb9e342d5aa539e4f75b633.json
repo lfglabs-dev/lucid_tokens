@@ -1,0 +1,15 @@
+{
+  "symbol": "DUDE",
+  "name": "dude",
+  "address": "0xcb2861a1ec1d0392afb9e342d5aa539e4f75b633",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36860/thumb/dudelogo.png?1712642712",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcb2861a1ec1d0392afb9e342d5aa539e4f75b633"
+  }
+}

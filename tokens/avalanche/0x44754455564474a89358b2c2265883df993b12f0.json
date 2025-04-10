@@ -1,0 +1,18 @@
+{
+  "symbol": "ZEE",
+  "name": "ZeroSwapToken",
+  "address": "0x44754455564474a89358b2c2265883df993b12f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12861/thumb/zeroswap.jpg?1603111827",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+    "binance-smart-chain": "0x44754455564474a89358b2c2265883df993b12f0",
+    "avalanche": "0x44754455564474a89358b2c2265883df993b12f0",
+    "polygon-pos": "0xfd4959c06fbcc02250952daebf8e0fb38cf9fd8c"
+  }
+}

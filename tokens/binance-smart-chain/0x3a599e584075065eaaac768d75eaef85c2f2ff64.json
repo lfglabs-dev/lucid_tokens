@@ -1,0 +1,15 @@
+{
+  "symbol": "FDT",
+  "name": "Frutti Dino",
+  "address": "0x3a599e584075065eaaac768d75eaef85c2f2ff64",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27626/thumb/pmrawdYc_400x400.jpeg?1664954567",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3a599e584075065eaaac768d75eaef85c2f2ff64"
+  }
+}

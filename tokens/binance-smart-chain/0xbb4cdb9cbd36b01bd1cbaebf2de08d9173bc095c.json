@@ -1,0 +1,15 @@
+{
+  "symbol": "WBNB",
+  "name": "Wrapped BNB",
+  "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12591/thumb/binance-coin-logo.png?1600947313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+  }
+}

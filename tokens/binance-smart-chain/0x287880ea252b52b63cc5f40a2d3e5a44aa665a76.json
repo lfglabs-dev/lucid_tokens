@@ -1,0 +1,15 @@
+{
+  "symbol": "ALPINE",
+  "name": "ALPINE Fan Token",
+  "address": "0x287880ea252b52b63cc5f40a2d3e5a44aa665a76",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23717/thumb/18112.png?1645154685",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x287880ea252b52b63cc5f40a2d3e5a44aa665a76"
+  }
+}

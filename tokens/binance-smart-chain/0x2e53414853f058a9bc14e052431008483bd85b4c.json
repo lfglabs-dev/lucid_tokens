@@ -1,0 +1,15 @@
+{
+  "symbol": "GROK",
+  "name": "Grok",
+  "address": "0x2e53414853f058a9bc14e052431008483bd85b4c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32994/thumb/logo_200px.png?1700102402",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2e53414853f058a9bc14e052431008483bd85b4c"
+  }
+}

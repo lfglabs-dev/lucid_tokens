@@ -1,0 +1,15 @@
+{
+  "symbol": "keySATIN",
+  "name": "KeyofLife.fi/keySATIN",
+  "address": "0xb7f1219db39ea0cb029e4dcc3daffdcfd233defd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29703/thumb/1-01.png?1680764713",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb7f1219db39ea0cb029e4dcc3daffdcfd233defd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "HIM",
+  "name": "Human Intelligence Machine",
+  "address": "0xc1ffaef4e7d553bbaf13926e258a1a555a363a07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37898/thumb/Human_Intelligence_Machine.png?1715848133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc1ffaef4e7d553bbaf13926e258a1a555a363a07"
+  }
+}

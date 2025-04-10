@@ -1,0 +1,15 @@
+{
+  "symbol": "GG",
+  "name": "Gun Game Token",
+  "address": "0x000000000000a59351f61b598e8da953b9e041ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39383/thumb/photo_2024-06-27_21-36-13.jpg?1721960371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x000000000000a59351f61b598e8da953b9e041ec"
+  }
+}

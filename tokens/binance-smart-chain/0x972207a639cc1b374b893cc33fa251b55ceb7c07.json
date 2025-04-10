@@ -1,0 +1,15 @@
+{
+  "symbol": "vBETH",
+  "name": "Venus BETH",
+  "address": "0x972207a639cc1b374b893cc33fa251b55ceb7c07",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13924/thumb/vbeth.png?1612851527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x972207a639cc1b374b893cc33fa251b55ceb7c07"
+  }
+}

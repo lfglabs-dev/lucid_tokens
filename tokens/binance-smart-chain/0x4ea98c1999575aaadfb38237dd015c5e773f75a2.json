@@ -1,0 +1,17 @@
+{
+  "symbol": "TRUMP",
+  "name": "MAGA",
+  "address": "0x4ea98c1999575aaadfb38237dd015c5e773f75a2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31498/thumb/Maga-Trump-Logo-200px.png?1693357313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6aa56e1d98b3805921c170eb4b3fe7d4fda6d89b",
+    "binance-smart-chain": "0x4ea98c1999575aaadfb38237dd015c5e773f75a2",
+    "base": "0x57f5fbd3de65dfc0bd3630f732969e5fb97e6d37"
+  }
+}

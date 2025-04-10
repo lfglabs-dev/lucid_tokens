@@ -1,0 +1,15 @@
+{
+  "symbol": "FAND",
+  "name": "Fandomdao",
+  "address": "0x8132a61eff71fec65e6dfb3406f4f64e55c69a82",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36443/thumb/FAND_200.png?1711441436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8132a61eff71fec65e6dfb3406f4f64e55c69a82"
+  }
+}

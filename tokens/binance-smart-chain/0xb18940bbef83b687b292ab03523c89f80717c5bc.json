@@ -1,0 +1,15 @@
+{
+  "symbol": "$BMC",
+  "name": "BullishMarketCap",
+  "address": "0xb18940bbef83b687b292ab03523c89f80717c5bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38897/thumb/1000133706.png?1719425594",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb18940bbef83b687b292ab03523c89f80717c5bc"
+  }
+}

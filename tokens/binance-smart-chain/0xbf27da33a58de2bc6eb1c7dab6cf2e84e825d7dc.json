@@ -1,0 +1,15 @@
+{
+  "symbol": "ZGD",
+  "name": "ZambesiGold",
+  "address": "0xbf27da33a58de2bc6eb1c7dab6cf2e84e825d7dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25544/thumb/lD1w22TUaUn2AkWmkgI5WWSufl5kZ-1Gu3s-g-2A9qZ-DyW5g9UrrBRaOxKp5fcLEghB2VR-XBxw-4mu4M76SjH3YDCvh27CH4RTfKAbtlrEWHNP7oHN9Y6eBrqwfGu_-M0SAJf-dqDRnMNLWIxP8hKtAxaIFR0_JmxdInlMpBJa2WONniOHCeGomlyYeGfBKa4bYytvpIKDwZNBC-b_-enFwb.jpg?1652326768",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbf27da33a58de2bc6eb1c7dab6cf2e84e825d7dc"
+  }
+}

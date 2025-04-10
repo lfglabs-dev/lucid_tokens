@@ -1,0 +1,15 @@
+{
+  "symbol": "AWK",
+  "name": "Awkward Monkey",
+  "address": "0x16cec756a0fcba1d7ce95df5a46406c469a9128a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38623/thumb/AWK-BASE-Profile-Logo-based1.png?1718161968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x16cec756a0fcba1d7ce95df5a46406c469a9128a"
+  }
+}

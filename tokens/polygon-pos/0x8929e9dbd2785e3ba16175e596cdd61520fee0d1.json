@@ -1,0 +1,19 @@
+{
+  "symbol": "ALTD",
+  "name": "Altitude",
+  "address": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30114/thumb/logo.png?1683102953",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+    "binance-smart-chain": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+    "avalanche": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+    "arbitrum-one": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+    "polygon-pos": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1"
+  }
+}

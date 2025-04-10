@@ -1,0 +1,15 @@
+{
+  "symbol": "DAN",
+  "name": "Dastra",
+  "address": "0x09531ece451453d68f8c6399120f67f19fee4489",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33812/thumb/Frame_8.png?1703017772",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x09531ece451453d68f8c6399120f67f19fee4489"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GURS",
+  "name": "GURS",
+  "address": "0x223a368ad0e7396165fc629976d77596a51f155c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34281/thumb/200x200.jpg?1704452874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x223a368ad0e7396165fc629976d77596a51f155c"
+  }
+}

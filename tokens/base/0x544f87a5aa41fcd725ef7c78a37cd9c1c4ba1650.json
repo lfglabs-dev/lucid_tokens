@@ -1,0 +1,15 @@
+{
+  "symbol": "uBERA",
+  "name": "Berachain (Universal)",
+  "address": "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54905/thumb/Untitled.png?1742449920",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650"
+  }
+}

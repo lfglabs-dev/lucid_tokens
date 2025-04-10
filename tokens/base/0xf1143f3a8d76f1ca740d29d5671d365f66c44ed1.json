@@ -1,0 +1,15 @@
+{
+  "symbol": "uBTC",
+  "name": "Bitcoin (Universal)",
+  "address": "0xf1143f3a8d76f1ca740d29d5671d365f66c44ed1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50252/thumb/UA-BTC_1.png?1726721793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf1143f3a8d76f1ca740d29d5671d365f66c44ed1"
+  }
+}

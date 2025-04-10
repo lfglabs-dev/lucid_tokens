@@ -1,0 +1,15 @@
+{
+  "symbol": "SCAR",
+  "name": "VELHALLA.io",
+  "address": "0x8d9fb713587174ee97e91866050c383b5cee6209",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20421/thumb/velha.jpg?1637030452",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8d9fb713587174ee97e91866050c383b5cee6209"
+  }
+}

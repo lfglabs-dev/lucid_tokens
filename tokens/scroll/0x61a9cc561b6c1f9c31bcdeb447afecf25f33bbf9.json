@@ -1,0 +1,15 @@
+{
+  "symbol": "PANDA",
+  "name": "PANDA",
+  "address": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35746/thumb/panda.jpeg?1709714542",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9"
+  }
+}

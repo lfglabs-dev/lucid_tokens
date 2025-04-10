@@ -1,0 +1,15 @@
+{
+  "symbol": "IHF",
+  "name": "IHF Smart Debase Token",
+  "address": "0x3b9728bd65ca2c11a817ce39a6e91808cceef6fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38674/thumb/IHF_Smart_Debase_Token.png?1718307310",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3b9728bd65ca2c11a817ce39a6e91808cceef6fd"
+  }
+}

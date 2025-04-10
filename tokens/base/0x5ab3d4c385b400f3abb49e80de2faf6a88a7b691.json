@@ -1,0 +1,15 @@
+{
+  "symbol": "FLOCK",
+  "name": "FLock.io",
+  "address": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53178/thumb/FLock_Token_Logo.png?1735561398",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691"
+  }
+}

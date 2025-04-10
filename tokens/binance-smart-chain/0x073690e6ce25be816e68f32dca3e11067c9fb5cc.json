@@ -1,0 +1,18 @@
+{
+  "symbol": "KUJI",
+  "name": "Kujira native asset",
+  "address": "0x073690e6ce25be816e68f32dca3e11067c9fb5cc",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20685/thumb/kuji-200x200.png?1637557201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca",
+    "ethereum": "0x96543ef8d2c75c26387c1a319ae69c0bee6f3fe7",
+    "binance-smart-chain": "0x073690e6ce25be816e68f32dca3e11067c9fb5cc",
+    "arbitrum-one": "0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca"
+  }
+}

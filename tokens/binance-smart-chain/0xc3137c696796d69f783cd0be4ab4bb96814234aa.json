@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPA",
+  "name": "Pepa Inu",
+  "address": "0xc3137c696796d69f783cd0be4ab4bb96814234aa",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29557/thumb/IMG_20230324_010229_652.jpg?1679642907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc3137c696796d69f783cd0be4ab4bb96814234aa"
+  }
+}

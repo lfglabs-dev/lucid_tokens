@@ -1,0 +1,15 @@
+{
+  "symbol": "SMRAT",
+  "name": "Secured MoonRat Token",
+  "address": "0x68590a47578e5060a29fd99654f4556dbfa05d10",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15241/thumb/SMRAT_200x200.png?1620199864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x68590a47578e5060a29fd99654f4556dbfa05d10"
+  }
+}

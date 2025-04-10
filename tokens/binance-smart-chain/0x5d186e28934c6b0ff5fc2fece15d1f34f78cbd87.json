@@ -1,0 +1,16 @@
+{
+  "symbol": "DUCK",
+  "name": "DLP Duck Token",
+  "address": "0x5d186e28934c6b0ff5fc2fece15d1f34f78cbd87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13440/thumb/DLP_Duck_Token.png?1612840740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+    "binance-smart-chain": "0x5d186e28934c6b0ff5fc2fece15d1f34f78cbd87"
+  }
+}

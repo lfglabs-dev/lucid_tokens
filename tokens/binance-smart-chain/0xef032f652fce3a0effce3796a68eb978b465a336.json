@@ -1,0 +1,15 @@
+{
+  "symbol": "MOOCHII",
+  "name": "MOOCHII",
+  "address": "0xef032f652fce3a0effce3796a68eb978b465a336",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15444/thumb/QUVbHkC.png?1622196413",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xef032f652fce3a0effce3796a68eb978b465a336"
+  }
+}

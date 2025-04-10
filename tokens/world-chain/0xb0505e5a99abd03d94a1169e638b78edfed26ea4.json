@@ -1,0 +1,16 @@
+{
+  "symbol": "uSUI",
+  "name": "Sui (Universal)",
+  "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50482/thumb/UA-SUI-PAD.png?1727888681",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
+    "world-chain": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4"
+  }
+}

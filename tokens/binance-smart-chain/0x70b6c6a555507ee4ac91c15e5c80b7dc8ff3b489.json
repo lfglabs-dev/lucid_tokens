@@ -1,0 +1,15 @@
+{
+  "symbol": "XTT-b20",
+  "name": "BEP20 - XTblock Token",
+  "address": "0x70b6c6a555507ee4ac91c15e5c80b7dc8ff3b489",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17921/thumb/XTblock-Icon-round-200.png?1632122725",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x70b6c6a555507ee4ac91c15e5c80b7dc8ff3b489"
+  }
+}

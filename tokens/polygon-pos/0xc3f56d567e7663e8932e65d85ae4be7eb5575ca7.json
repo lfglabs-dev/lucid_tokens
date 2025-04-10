@@ -1,0 +1,16 @@
+{
+  "symbol": "FTRB",
+  "name": "Faith Tribe",
+  "address": "0xc3f56d567e7663e8932e65d85ae4be7eb5575ca7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23939/thumb/ym1Hf4x2_400x400.jpg?1645766940",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2596825a84888e8f24b747df29e11b5dd03c81d7",
+    "polygon-pos": "0xc3f56d567e7663e8932e65d85ae4be7eb5575ca7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LISTA",
+  "name": "Lista DAO",
+  "address": "0xfceb31a79f71ac9cbdcf853519c1b12d379edc46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38068/thumb/lista.png?1716443925",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfceb31a79f71ac9cbdcf853519c1b12d379edc46"
+  }
+}

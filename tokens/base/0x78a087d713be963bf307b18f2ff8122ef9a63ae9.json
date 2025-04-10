@@ -1,0 +1,15 @@
+{
+  "symbol": "BSWAP",
+  "name": "Baseswap Token",
+  "address": "0x78a087d713be963bf307b18f2ff8122ef9a63ae9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31245/thumb/Baseswap_LogoNew.jpg?1691720636",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x78a087d713be963bf307b18f2ff8122ef9a63ae9"
+  }
+}

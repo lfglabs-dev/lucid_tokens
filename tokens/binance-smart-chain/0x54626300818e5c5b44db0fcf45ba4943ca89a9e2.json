@@ -1,0 +1,15 @@
+{
+  "symbol": "CHECOIN",
+  "name": "CHECOIN",
+  "address": "0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17399/thumb/hmvUIO89jIpjmOD6astn5S5pTSJqnhc3KowWEcI2.png?1627528698",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x54626300818e5c5b44db0fcf45ba4943ca89a9e2"
+  }
+}

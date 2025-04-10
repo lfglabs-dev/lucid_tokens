@@ -1,0 +1,15 @@
+{
+  "symbol": "SPECU",
+  "name": "Speculation",
+  "address": "0x11d41056ff636107dd710ec4ea772490a710cdb7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51676/thumb/specu_logo.png?1731778446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x11d41056ff636107dd710ec4ea772490a710cdb7"
+  }
+}

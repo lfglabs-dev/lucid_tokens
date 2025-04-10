@@ -1,0 +1,17 @@
+{
+  "symbol": "NFTD",
+  "name": "NFTrade Token [via ChainPort.io]",
+  "address": "0x9e3ca00f2d4a9e5d4f0add0900de5f15050812cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18578/thumb/nftrade.png?1632486088",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8e0fe2947752be0d5acf73aae77362daf79cb379",
+    "binance-smart-chain": "0xac83271abb4ec95386f08ad2b904a46c61777cef",
+    "avalanche": "0x9e3ca00f2d4a9e5d4f0add0900de5f15050812cf"
+  }
+}

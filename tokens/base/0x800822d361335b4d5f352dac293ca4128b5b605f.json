@@ -1,0 +1,15 @@
+{
+  "symbol": "SYMM",
+  "name": "Symmio",
+  "address": "0x800822d361335b4d5f352dac293ca4128b5b605f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52828/thumb/256.jpg?1734435636",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x800822d361335b4d5f352dac293ca4128b5b605f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PALLA",
+  "name": "Pallapay",
+  "address": "0x8f49733210700d38098d7375c221c7d02f700cc8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16200/thumb/palla.png?1647095947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8f49733210700d38098d7375c221c7d02f700cc8"
+  }
+}

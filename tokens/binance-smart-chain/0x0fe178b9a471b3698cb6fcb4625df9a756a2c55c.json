@@ -1,0 +1,15 @@
+{
+  "symbol": "STRIP",
+  "name": "Strip Finance",
+  "address": "0x0fe178b9a471b3698cb6fcb4625df9a756a2c55c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20289/thumb/strip_finance.PNG?1636813662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0fe178b9a471b3698cb6fcb4625df9a756a2c55c"
+  }
+}

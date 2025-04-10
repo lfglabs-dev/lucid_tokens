@@ -1,0 +1,15 @@
+{
+  "symbol": "AI",
+  "name": "AI Protocol",
+  "address": "0x938171227ece879267122a36847b219cbd3b9d47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54512/thumb/ai_200x200.png?1740070043",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x938171227ece879267122a36847b219cbd3b9d47"
+  }
+}

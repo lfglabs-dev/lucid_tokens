@@ -1,0 +1,15 @@
+{
+  "symbol": "ADD",
+  "name": "ADD FINANCE",
+  "address": "0xc30c95205c7bc70d81da8e852255cc89b90480f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32008/thumb/add.jpg?1696040967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc30c95205c7bc70d81da8e852255cc89b90480f7"
+  }
+}

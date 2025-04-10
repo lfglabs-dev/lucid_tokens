@@ -1,0 +1,15 @@
+{
+  "symbol": "ROY",
+  "name": "Royalty",
+  "address": "0x4c1c447f625faef814566b21494013940b11c30b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54317/thumb/ROY_LOGO.png?1739225589",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c1c447f625faef814566b21494013940b11c30b"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "PGX",
+  "name": "Pegaxy",
+  "address": "0x0ef27ddc8f89d4886e89d630de089962ffc12e43",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19305/thumb/Logo_200x200_%281%29.png?1634972378",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae",
+    "avalanche": "0x0ef27ddc8f89d4886e89d630de089962ffc12e43"
+  }
+}

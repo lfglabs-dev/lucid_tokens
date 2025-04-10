@@ -1,0 +1,17 @@
+{
+  "symbol": "BITT",
+  "name": "BITTOKEN (PoS)",
+  "address": "0xfd0cbddec28a93bb86b9db4a62258f5ef25fefde",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13783/thumb/BITT_Logo_256pixels.png?1611733961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
+    "binance-smart-chain": "0x518445f0db93863e5e93a7f70617c05afa8048f1",
+    "polygon-pos": "0xfd0cbddec28a93bb86b9db4a62258f5ef25fefde"
+  }
+}

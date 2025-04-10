@@ -1,0 +1,15 @@
+{
+  "symbol": "VAI",
+  "name": "VAI Stablecoin",
+  "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13861/thumb/VAI_logo.png?1612413571",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7"
+  }
+}

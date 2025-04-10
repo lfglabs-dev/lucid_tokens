@@ -1,0 +1,15 @@
+{
+  "symbol": "FirstHare",
+  "name": "FirstHare",
+  "address": "0x432b4f994760ea0c5f48baab6217e82a2b7f2c55",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22788/thumb/17453.png?1642580538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x432b4f994760ea0c5f48baab6217e82a2b7f2c55"
+  }
+}

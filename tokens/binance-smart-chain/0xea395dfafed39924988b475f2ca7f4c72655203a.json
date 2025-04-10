@@ -1,0 +1,15 @@
+{
+  "symbol": "CPO",
+  "name": "Cryptopolis",
+  "address": "0xea395dfafed39924988b475f2ca7f4c72655203a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19163/thumb/POLIS.png?1634563500",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xea395dfafed39924988b475f2ca7f4c72655203a"
+  }
+}

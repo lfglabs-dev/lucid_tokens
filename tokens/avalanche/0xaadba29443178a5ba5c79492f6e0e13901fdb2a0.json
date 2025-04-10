@@ -1,0 +1,15 @@
+{
+  "symbol": "MAD",
+  "name": "MAD",
+  "address": "0xaadba29443178a5ba5c79492f6e0e13901fdb2a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34181/thumb/mad-tokenImage-dark-512.png?1704221848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xaadba29443178a5ba5c79492f6e0e13901fdb2a0"
+  }
+}

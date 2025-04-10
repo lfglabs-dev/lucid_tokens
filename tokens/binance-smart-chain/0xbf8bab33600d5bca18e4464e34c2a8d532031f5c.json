@@ -1,0 +1,15 @@
+{
+  "symbol": "OZONE",
+  "name": "OZONE",
+  "address": "0xbf8bab33600d5bca18e4464e34c2a8d532031f5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31679/thumb/Copy_of_token-icon-purple-blue_%283%29.png?1694400483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbf8bab33600d5bca18e4464e34c2a8d532031f5c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "YON",
+  "name": "YESorNO",
+  "address": "0x68355e342ff81633ccd0395cc77c83e266ca548e",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39427/thumb/yes_or_no.jpg?1722237907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x68355e342ff81633ccd0395cc77c83e266ca548e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MDOGAI",
+  "name": "MoonDog AI",
+  "address": "0xd81cb23a4690f7fdf54e583f221d2c01882604f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53614/thumb/MD_PFP_1000x1000_%281%29.jpg?1736888651",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd81cb23a4690f7fdf54e583f221d2c01882604f8"
+  }
+}

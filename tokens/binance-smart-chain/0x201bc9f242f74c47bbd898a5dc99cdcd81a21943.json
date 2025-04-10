@@ -1,0 +1,15 @@
+{
+  "symbol": "IGU",
+  "name": "IGU Token",
+  "address": "0x201bc9f242f74c47bbd898a5dc99cdcd81a21943",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29112/thumb/IGU_500x500.png?1676692453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x201bc9f242f74c47bbd898a5dc99cdcd81a21943"
+  }
+}

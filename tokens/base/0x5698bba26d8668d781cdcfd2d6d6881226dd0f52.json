@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOL",
+  "name": "Bool",
+  "address": "0x5698bba26d8668d781cdcfd2d6d6881226dd0f52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36367/thumb/vM_6qNMg_400x400.jpg?1711337777",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5698bba26d8668d781cdcfd2d6d6881226dd0f52"
+  }
+}

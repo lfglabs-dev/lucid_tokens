@@ -1,0 +1,17 @@
+{
+  "symbol": "NFTY",
+  "name": "NFTY Token",
+  "address": "0x5774b2fc3e91af89f89141eacf76545e74265982",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18741/thumb/logo_%281%29.png?1643188469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe1d7c7a4596b038ced2a84bf65b8647271c53208",
+    "binance-smart-chain": "0x5774b2fc3e91af89f89141eacf76545e74265982",
+    "polygon-pos": "0xcc081220542a60a8ea7963c4f53d522b503272c1"
+  }
+}

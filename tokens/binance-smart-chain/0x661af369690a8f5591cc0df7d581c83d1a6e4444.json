@@ -1,0 +1,15 @@
+{
+  "symbol": "4444",
+  "name": "4444",
+  "address": "0x661af369690a8f5591cc0df7d581c83d1a6e4444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55067/thumb/4444.jpg?1743580730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x661af369690a8f5591cc0df7d581c83d1a6e4444"
+  }
+}

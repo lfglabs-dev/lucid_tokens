@@ -1,0 +1,15 @@
+{
+  "symbol": "GAME",
+  "name": "GAME by Virtuals",
+  "address": "0x1c4cca7c5db003824208adda61bd749e55f463a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51063/thumb/Gaming_Agent_1fe70d54ba.jpg?1729925539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1c4cca7c5db003824208adda61bd749e55f463a3"
+  }
+}

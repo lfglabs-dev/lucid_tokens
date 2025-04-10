@@ -1,0 +1,15 @@
+{
+  "symbol": "LFC",
+  "name": "Life Coin",
+  "address": "0xd9474595edb03e35c5843335f90eb18671921246",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24614/thumb/lfc.png?1648374164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd9474595edb03e35c5843335f90eb18671921246"
+  }
+}

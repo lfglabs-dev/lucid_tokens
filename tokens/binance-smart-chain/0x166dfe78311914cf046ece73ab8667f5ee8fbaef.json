@@ -1,0 +1,15 @@
+{
+  "symbol": "LCOM",
+  "name": "Linkcom",
+  "address": "0x166dfe78311914cf046ece73ab8667f5ee8fbaef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38830/thumb/LCOM.jpg?1719191489",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x166dfe78311914cf046ece73ab8667f5ee8fbaef"
+  }
+}

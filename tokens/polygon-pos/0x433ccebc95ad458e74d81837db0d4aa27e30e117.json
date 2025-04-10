@@ -1,0 +1,15 @@
+{
+  "symbol": "UDAO",
+  "name": "UDAO",
+  "address": "0x433ccebc95ad458e74d81837db0d4aa27e30e117",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38763/thumb/udao.jpg?1718750271",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x433ccebc95ad458e74d81837db0d4aa27e30e117"
+  }
+}

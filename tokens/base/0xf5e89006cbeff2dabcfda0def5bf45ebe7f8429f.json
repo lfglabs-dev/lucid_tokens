@@ -1,0 +1,15 @@
+{
+  "symbol": "Ragdoll",
+  "name": "Ragdoll",
+  "address": "0xf5e89006cbeff2dabcfda0def5bf45ebe7f8429f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51848/thumb/O0_Ds5Ad_400x400.jpg?1732060576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf5e89006cbeff2dabcfda0def5bf45ebe7f8429f"
+  }
+}

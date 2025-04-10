@@ -1,0 +1,15 @@
+{
+  "symbol": "SMCW",
+  "name": "Space Crown",
+  "address": "0xb2ea51baa12c461327d12a2069d47b30e680b69d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24394/thumb/6htFQIdk_400x400.jpg?1647521132",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb2ea51baa12c461327d12a2069d47b30e680b69d"
+  }
+}

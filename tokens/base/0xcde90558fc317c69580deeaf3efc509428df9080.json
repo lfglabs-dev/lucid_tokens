@@ -1,0 +1,15 @@
+{
+  "symbol": "NORMILIO",
+  "name": "Normilio",
+  "address": "0xcde90558fc317c69580deeaf3efc509428df9080",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36915/thumb/cg.png?1712769420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcde90558fc317c69580deeaf3efc509428df9080"
+  }
+}

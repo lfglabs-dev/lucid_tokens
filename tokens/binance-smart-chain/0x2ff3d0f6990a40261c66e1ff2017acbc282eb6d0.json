@@ -1,0 +1,15 @@
+{
+  "symbol": "vSXP",
+  "name": "Venus SXP",
+  "address": "0x2ff3d0f6990a40261c66e1ff2017acbc282eb6d0",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13918/thumb/sxp.png?1612844350",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2ff3d0f6990a40261c66e1ff2017acbc282eb6d0"
+  }
+}

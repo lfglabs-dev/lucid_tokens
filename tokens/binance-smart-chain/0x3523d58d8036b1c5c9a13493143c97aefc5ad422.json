@@ -1,0 +1,15 @@
+{
+  "symbol": "KBOX",
+  "name": "KBOX Token",
+  "address": "0x3523d58d8036b1c5c9a13493143c97aefc5ad422",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20828/thumb/icon_abe_token-200.png?1637726119",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3523d58d8036b1c5c9a13493143c97aefc5ad422"
+  }
+}

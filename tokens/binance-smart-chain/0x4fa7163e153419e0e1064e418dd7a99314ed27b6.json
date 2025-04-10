@@ -1,0 +1,17 @@
+{
+  "symbol": "HOTCROSS",
+  "name": "Hot Cross Token",
+  "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15706/thumb/Hotcross.png?1632197570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+    "binance-smart-chain": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+    "avalanche": "0x2f86508f41310d8d974b76deb3d246c0caa71cf5"
+  }
+}

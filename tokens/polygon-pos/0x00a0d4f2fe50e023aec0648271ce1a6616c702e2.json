@@ -1,0 +1,15 @@
+{
+  "symbol": "HITT",
+  "name": "TokHit",
+  "address": "0x00a0d4f2fe50e023aec0648271ce1a6616c702e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29356/thumb/token_%282%29.png?1678263396",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x00a0d4f2fe50e023aec0648271ce1a6616c702e2"
+  }
+}

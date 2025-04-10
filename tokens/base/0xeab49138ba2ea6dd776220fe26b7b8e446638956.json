@@ -1,0 +1,15 @@
+{
+  "symbol": "SEND",
+  "name": "Send",
+  "address": "0xeab49138ba2ea6dd776220fe26b7b8e446638956",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53906/thumb/send.png?1737707549",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xeab49138ba2ea6dd776220fe26b7b8e446638956"
+  }
+}

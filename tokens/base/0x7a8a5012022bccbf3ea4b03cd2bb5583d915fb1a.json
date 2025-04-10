@@ -1,0 +1,15 @@
+{
+  "symbol": "CHUCK",
+  "name": "Chuck",
+  "address": "0x7a8a5012022bccbf3ea4b03cd2bb5583d915fb1a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37468/thumb/1000030138.jpg?1714457112",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7a8a5012022bccbf3ea4b03cd2bb5583d915fb1a"
+  }
+}

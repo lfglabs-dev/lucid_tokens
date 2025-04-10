@@ -1,0 +1,15 @@
+{
+  "symbol": "LIZARD",
+  "name": "LIZARD",
+  "address": "0xed0d09ee0f32f7b5afae6f2d728189c5e355b52a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34663/thumb/LIZARD_LOGO_Final_3_BLK_BG_%281%29.png?1705652961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xed0d09ee0f32f7b5afae6f2d728189c5e355b52a"
+  }
+}

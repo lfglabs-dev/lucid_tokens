@@ -1,0 +1,15 @@
+{
+  "symbol": "WEC",
+  "name": "WholeEarthCoin from Mainnet",
+  "address": "0x3623f2b63d8f50b477849d29e7c9a6625331e89d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16313/thumb/61ea0d78e70bb93dee3c03a0_whole-earth-coin_brand.png?1643189537",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3623f2b63d8f50b477849d29e7c9a6625331e89d"
+  }
+}

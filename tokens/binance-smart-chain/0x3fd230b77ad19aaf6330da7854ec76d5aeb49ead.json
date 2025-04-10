@@ -1,0 +1,15 @@
+{
+  "symbol": "COINROBOT",
+  "name": "CoinRobot.AI",
+  "address": "0x3fd230b77ad19aaf6330da7854ec76d5aeb49ead",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40118/thumb/CoinRobot-ai_COINROBOT_200.png?1725839170",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3fd230b77ad19aaf6330da7854ec76d5aeb49ead"
+  }
+}

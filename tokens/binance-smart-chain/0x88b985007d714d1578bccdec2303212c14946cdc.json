@@ -1,0 +1,15 @@
+{
+  "symbol": "FRTC",
+  "name": "FART COIN",
+  "address": "0x88b985007d714d1578bccdec2303212c14946cdc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32698/thumb/20231030_174406.png?1698984451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x88b985007d714d1578bccdec2303212c14946cdc"
+  }
+}

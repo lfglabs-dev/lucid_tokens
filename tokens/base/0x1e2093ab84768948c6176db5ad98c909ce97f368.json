@@ -1,0 +1,15 @@
+{
+  "symbol": "DORA",
+  "name": "DORA AI by Virtuals",
+  "address": "0x1e2093ab84768948c6176db5ad98c909ce97f368",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52843/thumb/200px.png?1734470293",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1e2093ab84768948c6176db5ad98c909ce97f368"
+  }
+}

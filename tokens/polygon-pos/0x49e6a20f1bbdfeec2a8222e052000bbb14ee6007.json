@@ -1,0 +1,15 @@
+{
+  "symbol": "TNGBL",
+  "name": "Tangible",
+  "address": "0x49e6a20f1bbdfeec2a8222e052000bbb14ee6007",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25428/thumb/TNGBL-200.png?1651738094",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x49e6a20f1bbdfeec2a8222e052000bbb14ee6007"
+  }
+}

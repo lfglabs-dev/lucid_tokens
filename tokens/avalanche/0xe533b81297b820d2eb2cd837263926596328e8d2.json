@@ -1,0 +1,15 @@
+{
+  "symbol": "EMDX",
+  "name": "EMDX Token",
+  "address": "0xe533b81297b820d2eb2cd837263926596328e8d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30774/thumb/EMDX_200x200.png?1687149980",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe533b81297b820d2eb2cd837263926596328e8d2"
+  }
+}

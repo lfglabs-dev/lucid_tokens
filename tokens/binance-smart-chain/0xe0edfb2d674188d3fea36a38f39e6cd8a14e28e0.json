@@ -1,0 +1,15 @@
+{
+  "symbol": "SafeGrok",
+  "name": "SafeGrok",
+  "address": "0xe0edfb2d674188d3fea36a38f39e6cd8a14e28e0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33586/thumb/SafeGrok.png?1702466001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe0edfb2d674188d3fea36a38f39e6cd8a14e28e0"
+  }
+}

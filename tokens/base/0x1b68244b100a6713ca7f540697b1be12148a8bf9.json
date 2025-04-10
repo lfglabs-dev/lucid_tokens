@@ -1,0 +1,15 @@
+{
+  "symbol": "YES",
+  "name": "YES",
+  "address": "0x1b68244b100a6713ca7f540697b1be12148a8bf9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35657/thumb/yes-money.jpeg?1709437181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1b68244b100a6713ca7f540697b1be12148a8bf9"
+  }
+}

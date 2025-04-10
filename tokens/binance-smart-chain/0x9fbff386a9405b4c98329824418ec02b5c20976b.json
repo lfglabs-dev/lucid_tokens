@@ -1,0 +1,15 @@
+{
+  "symbol": "FUTURE",
+  "name": "FUTURECOIN",
+  "address": "0x9fbff386a9405b4c98329824418ec02b5c20976b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23806/thumb/3ptM03y.png?1645509244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9fbff386a9405b4c98329824418ec02b5c20976b"
+  }
+}

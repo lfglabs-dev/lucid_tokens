@@ -1,0 +1,15 @@
+{
+  "symbol": "NOMAI",
+  "name": "nomAI by Virtuals",
+  "address": "0x4d70f1058b73198f12a76c193aef5db5dd75babd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53065/thumb/0x4d70f1058b73198f12a76c193aef5db5dd75babd.png?1735192916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4d70f1058b73198f12a76c193aef5db5dd75babd"
+  }
+}

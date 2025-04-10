@@ -1,0 +1,15 @@
+{
+  "symbol": "VZ",
+  "name": "VaultZero AI",
+  "address": "0x910f42f204bd998fa271ca8aa07ce359c733b898",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53550/thumb/Rounded.png?1736671003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x910f42f204bd998fa271ca8aa07ce359c733b898"
+  }
+}

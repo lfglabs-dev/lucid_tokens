@@ -1,0 +1,15 @@
+{
+  "symbol": "Dook",
+  "name": "Shoobadookie",
+  "address": "0x461ee40928677644b8195662ab91bcdaae6ef105",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x461ee40928677644b8195662ab91bcdaae6ef105"
+  }
+}

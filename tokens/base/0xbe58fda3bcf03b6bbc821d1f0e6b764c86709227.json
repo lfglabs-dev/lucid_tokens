@@ -1,0 +1,15 @@
+{
+  "symbol": "VFX",
+  "name": "Vabble",
+  "address": "0xbe58fda3bcf03b6bbc821d1f0e6b764c86709227",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52126/thumb/vabble.jpg?1732611797",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbe58fda3bcf03b6bbc821d1f0e6b764c86709227"
+  }
+}

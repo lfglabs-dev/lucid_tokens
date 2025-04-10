@@ -1,0 +1,15 @@
+{
+  "symbol": "burn",
+  "name": "BurnedFi",
+  "address": "0x19c018e13cff682e729cc7b5fb68c8a641bf98a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33995/thumb/BURN.jpg?1703601533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x19c018e13cff682e729cc7b5fb68c8a641bf98a4"
+  }
+}

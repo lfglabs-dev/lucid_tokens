@@ -1,0 +1,15 @@
+{
+  "symbol": "JUNIOR",
+  "name": "JUNIOR",
+  "address": "0x214dd1b5cbe543d4189ab39832f1bc1eedebb1d3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39120/thumb/JR_Pic.jpeg?1720619864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x214dd1b5cbe543d4189ab39832f1bc1eedebb1d3"
+  }
+}

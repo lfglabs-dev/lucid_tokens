@@ -1,0 +1,15 @@
+{
+  "symbol": "DCT",
+  "name": "DCT Token",
+  "address": "0x56f46bd073e9978eb6984c0c3e5c661407c3a447",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51644/thumb/20241115_024601.png?1731691642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x56f46bd073e9978eb6984c0c3e5c661407c3a447"
+  }
+}

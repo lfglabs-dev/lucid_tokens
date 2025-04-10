@@ -1,0 +1,15 @@
+{
+  "symbol": "spex",
+  "name": "Speciex",
+  "address": "0xf1b6460e7fa76e7afddfe20740c260b0ec6807a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29079/thumb/SPECIEX-LOGO.png?1676440418",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf1b6460e7fa76e7afddfe20740c260b0ec6807a8"
+  }
+}

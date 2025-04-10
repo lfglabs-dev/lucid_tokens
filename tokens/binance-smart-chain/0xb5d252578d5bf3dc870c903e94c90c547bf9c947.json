@@ -1,0 +1,15 @@
+{
+  "symbol": "CPT",
+  "name": "iComPneT",
+  "address": "0xb5d252578d5bf3dc870c903e94c90c547bf9c947",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54122/thumb/IMG_8790.png?1738338842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb5d252578d5bf3dc870c903e94c90c547bf9c947"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "BIO",
+  "name": "BIO",
+  "address": "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53022/thumb/bio.jpg?1735011002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcb1592591996765ec0efc1f92599a19767ee5ffa",
+    "base": "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2"
+  }
+}

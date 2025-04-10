@@ -1,0 +1,17 @@
+{
+  "symbol": "KIBSHI",
+  "name": "KiboShib",
+  "address": "0xc7dcca0a3e69bd762c8db257f868f76be36c8514",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29335/thumb/foto_no_exif_%2811%29%282%29_%281%29.png?1678173395",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x02e7f808990638e9e67e1f00313037ede2362361",
+    "arbitrum-one": "0xf525e73bdeb4ac1b0e741af3ed8a8cbb43ab0756",
+    "base": "0xc7dcca0a3e69bd762c8db257f868f76be36c8514"
+  }
+}

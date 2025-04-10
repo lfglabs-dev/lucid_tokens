@@ -1,0 +1,15 @@
+{
+  "symbol": "BOMB",
+  "name": "bomb.money",
+  "address": "0x522348779dcb2911539e76a1042aa922f9c47ee3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21406/thumb/CD9qxg9l_400x400.jpg?1639087343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x522348779dcb2911539e76a1042aa922f9c47ee3"
+  }
+}

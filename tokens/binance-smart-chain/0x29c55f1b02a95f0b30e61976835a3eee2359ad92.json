@@ -1,0 +1,15 @@
+{
+  "symbol": "ESHARE",
+  "name": "ESHARE V2",
+  "address": "0x29c55f1b02a95f0b30e61976835a3eee2359ad92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31131/thumb/ESHARES.png?1690789889",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29c55f1b02a95f0b30e61976835a3eee2359ad92"
+  }
+}

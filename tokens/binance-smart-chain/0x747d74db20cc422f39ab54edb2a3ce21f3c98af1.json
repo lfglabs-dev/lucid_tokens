@@ -1,0 +1,17 @@
+{
+  "symbol": "CGU",
+  "name": "Crypto Gaming United",
+  "address": "0x747d74db20cc422f39ab54edb2a3ce21f3c98af1",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20751/thumb/2022_CGU-MG_RGB.png?1666606977",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x747d74db20cc422f39ab54edb2a3ce21f3c98af1",
+    "ethereum": "0x849a226f327b89e3133d9930d927f9eb9346f8c9",
+    "polygon-pos": "0x709d140925272ee606825781b1bef7be6b1412cd"
+  }
+}

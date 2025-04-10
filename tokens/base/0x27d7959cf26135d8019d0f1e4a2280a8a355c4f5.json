@@ -1,0 +1,15 @@
+{
+  "symbol": "LESTER",
+  "name": "LESTER by Virtuals",
+  "address": "0x27d7959cf26135d8019d0f1e4a2280a8a355c4f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53372/thumb/lester.png?1736208500",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x27d7959cf26135d8019d0f1e4a2280a8a355c4f5"
+  }
+}

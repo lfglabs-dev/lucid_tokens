@@ -1,0 +1,15 @@
+{
+  "symbol": "SHOE",
+  "name": "Shoe404",
+  "address": "0x096d19b58cab84a2f0ff0e81c08291bffaa62848",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36486/thumb/Shoe.png?1711556371",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x096d19b58cab84a2f0ff0e81c08291bffaa62848"
+  }
+}

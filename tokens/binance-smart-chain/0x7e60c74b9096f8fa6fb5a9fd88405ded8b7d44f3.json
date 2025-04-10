@@ -1,0 +1,15 @@
+{
+  "symbol": "MONIE",
+  "name": "INFIBLUE WORLD",
+  "address": "0x7e60c74b9096f8fa6fb5a9fd88405ded8b7d44f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30236/thumb/infiblue_logo_transparent_bg_200_x_200.png?1683685616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7e60c74b9096f8fa6fb5a9fd88405ded8b7d44f3"
+  }
+}

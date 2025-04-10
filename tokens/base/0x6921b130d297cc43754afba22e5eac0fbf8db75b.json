@@ -1,0 +1,15 @@
+{
+  "symbol": "doginme",
+  "name": "doginme",
+  "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35123/thumb/doginme-logo1-transparent200.png?1707411591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6921b130d297cc43754afba22e5eac0fbf8db75b"
+  }
+}

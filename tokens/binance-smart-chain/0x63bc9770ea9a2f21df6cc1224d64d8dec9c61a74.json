@@ -1,0 +1,15 @@
+{
+  "symbol": "POP",
+  "name": "Popcoin",
+  "address": "0x63bc9770ea9a2f21df6cc1224d64d8dec9c61a74",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28160/thumb/Popcoin-logo-200x200.png?1668163551",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x63bc9770ea9a2f21df6cc1224d64d8dec9c61a74"
+  }
+}

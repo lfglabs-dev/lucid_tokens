@@ -1,0 +1,15 @@
+{
+  "symbol": "FOOD",
+  "name": "Food Coin",
+  "address": "0x78b1aa5c9b37c52695c93448ad0c64560edb9c4d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37092/thumb/Food.png?1713271258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x78b1aa5c9b37c52695c93448ad0c64560edb9c4d"
+  }
+}

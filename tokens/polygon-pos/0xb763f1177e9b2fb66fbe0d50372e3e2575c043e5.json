@@ -1,0 +1,15 @@
+{
+  "symbol": "Knot",
+  "name": "Karmaverse Knot",
+  "address": "0xb763f1177e9b2fb66fbe0d50372e3e2575c043e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24239/thumb/knot.png?1647088638",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb763f1177e9b2fb66fbe0d50372e3e2575c043e5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ABYS",
+  "name": "Abyss Fragment",
+  "address": "0x23001ae6cd2f0644c5846e156565998334fc2be3",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37470/thumb/abys.jpeg?1714458210",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x23001ae6cd2f0644c5846e156565998334fc2be3"
+  }
+}

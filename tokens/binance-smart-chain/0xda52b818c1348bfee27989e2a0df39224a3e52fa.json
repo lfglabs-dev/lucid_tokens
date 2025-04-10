@@ -1,0 +1,15 @@
+{
+  "symbol": "BLEND",
+  "name": "Blend",
+  "address": "0xda52b818c1348bfee27989e2a0df39224a3e52fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52885/thumb/BLEND.jpeg?1734599253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xda52b818c1348bfee27989e2a0df39224a3e52fa"
+  }
+}

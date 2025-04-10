@@ -1,0 +1,17 @@
+{
+  "symbol": "PMON",
+  "name": "Polkamon",
+  "address": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14604/thumb/polkamon.png?1617238350",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+    "binance-smart-chain": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+    "polygon-pos": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "EBERT",
+  "name": "EBERT",
+  "address": "0xf83cde146ac35e99dd61b6448f7ad9a4534133cc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52969/thumb/1000019413.jpg?1734882313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf83cde146ac35e99dd61b6448f7ad9a4534133cc"
+  }
+}

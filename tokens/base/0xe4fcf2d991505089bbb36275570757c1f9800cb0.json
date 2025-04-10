@@ -1,0 +1,15 @@
+{
+  "symbol": "purrcoin",
+  "name": "PURR",
+  "address": "0xe4fcf2d991505089bbb36275570757c1f9800cb0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37429/thumb/logo.png?1714379357",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe4fcf2d991505089bbb36275570757c1f9800cb0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "OOGA",
+  "name": "Ooga Token",
+  "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x009af46df68db0e76bfe9ea35663f6ed17877956"
+  }
+}

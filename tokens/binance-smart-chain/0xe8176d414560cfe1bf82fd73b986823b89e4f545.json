@@ -1,0 +1,15 @@
+{
+  "symbol": "HERO",
+  "name": "StepHero",
+  "address": "0xe8176d414560cfe1bf82fd73b986823b89e4f545",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17700/thumb/stephero.PNG?1629072670",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe8176d414560cfe1bf82fd73b986823b89e4f545"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XCAT",
+  "name": "XCAT",
+  "address": "0xa6ac757cceed22d72ac00af401a11e691154ce36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51300/thumb/xx.png?1730601110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa6ac757cceed22d72ac00af401a11e691154ce36"
+  }
+}

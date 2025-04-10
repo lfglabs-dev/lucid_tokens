@@ -1,0 +1,15 @@
+{
+  "symbol": "KTR",
+  "name": "Kitty Run",
+  "address": "0xa66cd1c4d890faa7c1a09a54a254d33d809ba3b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39088/thumb/200200-removebg-preview.png?1720461166",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa66cd1c4d890faa7c1a09a54a254d33d809ba3b5"
+  }
+}

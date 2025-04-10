@@ -1,0 +1,15 @@
+{
+  "symbol": "TRIBAL",
+  "name": "Tribal",
+  "address": "0xe13e40e8fdb815fbc4a1e2133ab5588c33bac45d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38531/thumb/tribally.jpeg?1717765399",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe13e40e8fdb815fbc4a1e2133ab5588c33bac45d"
+  }
+}

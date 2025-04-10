@@ -1,0 +1,16 @@
+{
+  "symbol": "LOOT",
+  "name": "LOOT Token",
+  "address": "0x14a9a94e555fdd54c21d7f7e328e61d7ebece54b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22895/thumb/loot.png?1642850037",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x721a1b990699ee9d90b6327faad0a3e840ae8335",
+    "binance-smart-chain": "0x14a9a94e555fdd54c21d7f7e328e61d7ebece54b"
+  }
+}

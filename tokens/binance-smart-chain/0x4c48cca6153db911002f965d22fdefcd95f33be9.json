@@ -1,0 +1,15 @@
+{
+  "symbol": "ESC",
+  "name": "The Essential Coin",
+  "address": "0x4c48cca6153db911002f965d22fdefcd95f33be9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21913/thumb/The-Essential-Coin-200x200.png?1640241497",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c48cca6153db911002f965d22fdefcd95f33be9"
+  }
+}

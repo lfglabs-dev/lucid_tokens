@@ -1,0 +1,15 @@
+{
+  "symbol": "RIKU",
+  "name": "Riku",
+  "address": "0xd1412d909f67b8db7505ddfcf26cf2303f4b1bb4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35924/thumb/riku.jpeg?1710224102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd1412d909f67b8db7505ddfcf26cf2303f4b1bb4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "PARTI",
+  "name": "PARTI Token",
+  "address": "0x59264f02d301281f3393e1385c0aefd446eb0f00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54955/thumb/parti-token-200.png?1742822558",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x59264f02d301281f3393e1385c0aefd446eb0f00",
+    "base": "0x59264f02d301281f3393e1385c0aefd446eb0f00"
+  }
+}

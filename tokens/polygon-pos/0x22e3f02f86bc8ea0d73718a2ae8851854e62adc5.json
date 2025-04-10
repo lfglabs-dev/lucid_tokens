@@ -1,0 +1,15 @@
+{
+  "symbol": "FLAME",
+  "name": "FireStarter",
+  "address": "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17359/thumb/WhiteOnBlack_Primary_Logo.png?1636960502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5"
+  }
+}

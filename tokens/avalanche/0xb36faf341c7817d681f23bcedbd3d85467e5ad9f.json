@@ -1,0 +1,15 @@
+{
+  "symbol": "RPEPE",
+  "name": "Red Pepe",
+  "address": "0xb36faf341c7817d681f23bcedbd3d85467e5ad9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33686/thumb/Next_ohne_200x200.png?1702731921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb36faf341c7817d681f23bcedbd3d85467e5ad9f"
+  }
+}

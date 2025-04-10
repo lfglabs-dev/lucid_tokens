@@ -1,0 +1,15 @@
+{
+  "symbol": "SECOND",
+  "name": "Second",
+  "address": "0x7979871595b80433183950ab6c6457752b585805",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34326/thumb/200x200_PNG.png?1704647870",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x7979871595b80433183950ab6c6457752b585805"
+  }
+}

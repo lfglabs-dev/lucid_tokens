@@ -1,0 +1,15 @@
+{
+  "symbol": "POR",
+  "name": "Portuma",
+  "address": "0x9000cac49c3841926baac5b2e13c87d43e51b6a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21567/thumb/coin-icon.png?1639474887",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9000cac49c3841926baac5b2e13c87d43e51b6a4"
+  }
+}

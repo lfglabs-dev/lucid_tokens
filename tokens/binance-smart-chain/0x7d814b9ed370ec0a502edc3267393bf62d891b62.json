@@ -1,0 +1,15 @@
+{
+  "symbol": "BMT",
+  "name": "Bubblemaps",
+  "address": "0x7d814b9ed370ec0a502edc3267393bf62d891b62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52778/thumb/background-square.png?1734284378",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7d814b9ed370ec0a502edc3267393bf62d891b62"
+  }
+}

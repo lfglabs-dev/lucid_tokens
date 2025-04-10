@@ -1,0 +1,16 @@
+{
+  "symbol": "fxVERSE",
+  "name": "Verse (FXERC20)",
+  "address": "0xc708d6f2153933daa50b2d0758955be0a93a8fec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28424/thumb/verselogo.png?1670461811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x249ca82617ec3dfb2589c4c17ab7ec9765350a18",
+    "polygon-pos": "0xc708d6f2153933daa50b2d0758955be0a93a8fec"
+  }
+}

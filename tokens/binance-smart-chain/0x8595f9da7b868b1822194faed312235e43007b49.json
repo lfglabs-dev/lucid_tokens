@@ -1,0 +1,15 @@
+{
+  "symbol": "BTT",
+  "name": "BitTorrent",
+  "address": "0x8595f9da7b868b1822194faed312235e43007b49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7595/thumb/BTT_Token_Graphic.png?1555066995",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8595f9da7b868b1822194faed312235e43007b49"
+  }
+}

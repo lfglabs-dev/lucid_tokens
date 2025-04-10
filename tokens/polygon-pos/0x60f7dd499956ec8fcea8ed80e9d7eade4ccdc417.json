@@ -1,0 +1,16 @@
+{
+  "symbol": "USDW",
+  "name": "USD DWIN",
+  "address": "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53767/thumb/LOGO200x200.fw.png?1737196873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3ab6c736aa54917e11e58cc2cc12e1638233b265",
+    "polygon-pos": "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417"
+  }
+}

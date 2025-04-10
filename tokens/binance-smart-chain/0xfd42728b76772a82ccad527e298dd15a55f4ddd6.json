@@ -1,0 +1,15 @@
+{
+  "symbol": "KAREN",
+  "name": "KarenCoin",
+  "address": "0xfd42728b76772a82ccad527e298dd15a55f4ddd6",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16191/thumb/karen.PNG?1623274611",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfd42728b76772a82ccad527e298dd15a55f4ddd6"
+  }
+}

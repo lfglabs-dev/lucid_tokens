@@ -1,0 +1,15 @@
+{
+  "symbol": "aAvaBTC.b",
+  "name": "Aave Avalanche BTC.b",
+  "address": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32914/thumb/btc.png?1699824823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692"
+  }
+}

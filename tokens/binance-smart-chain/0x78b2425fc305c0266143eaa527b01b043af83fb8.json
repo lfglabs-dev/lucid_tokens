@@ -1,0 +1,15 @@
+{
+  "symbol": "VSL",
+  "name": "Vetter Skylabs Token",
+  "address": "0x78b2425fc305c0266143eaa527b01b043af83fb8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28208/thumb/Vetter-Skylabs-200x200.png?1668417213",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x78b2425fc305c0266143eaa527b01b043af83fb8"
+  }
+}

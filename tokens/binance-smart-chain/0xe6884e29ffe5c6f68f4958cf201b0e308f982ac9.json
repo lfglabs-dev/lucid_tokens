@@ -1,0 +1,15 @@
+{
+  "symbol": "VEGAS",
+  "name": "Vegasino",
+  "address": "0xe6884e29ffe5c6f68f4958cf201b0e308f982ac9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25905/thumb/third_about_img.png?1654502494",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe6884e29ffe5c6f68f4958cf201b0e308f982ac9"
+  }
+}

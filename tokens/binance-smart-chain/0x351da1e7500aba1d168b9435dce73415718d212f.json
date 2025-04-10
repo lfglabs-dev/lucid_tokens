@@ -1,0 +1,15 @@
+{
+  "symbol": "FPS",
+  "name": "WEB3WAR Token",
+  "address": "0x351da1e7500aba1d168b9435dce73415718d212f",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33643/thumb/web3war-logo.png?1702540832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x351da1e7500aba1d168b9435dce73415718d212f"
+  }
+}

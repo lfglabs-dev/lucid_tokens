@@ -1,0 +1,15 @@
+{
+  "symbol": "BBOT",
+  "name": "Berabot",
+  "address": "0xa452810a4215fccc834ed241e6667f519b9856ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54546/thumb/Berabot_Logo.png?1740220386",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xa452810a4215fccc834ed241e6667f519b9856ec"
+  }
+}

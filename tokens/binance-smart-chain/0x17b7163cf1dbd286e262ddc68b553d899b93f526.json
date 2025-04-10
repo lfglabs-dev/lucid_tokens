@@ -1,0 +1,15 @@
+{
+  "symbol": "QBT",
+  "name": "Qubit Token",
+  "address": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17957/thumb/qubit.PNG?1629937058",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x17b7163cf1dbd286e262ddc68b553d899b93f526"
+  }
+}

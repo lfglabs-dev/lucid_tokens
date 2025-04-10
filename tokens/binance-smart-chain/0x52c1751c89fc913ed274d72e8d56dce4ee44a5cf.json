@@ -1,0 +1,15 @@
+{
+  "symbol": "SCRL",
+  "name": "Wizarre Scroll",
+  "address": "0x52c1751c89fc913ed274d72e8d56dce4ee44a5cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21046/thumb/scroll_200.png?1638257148",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x52c1751c89fc913ed274d72e8d56dce4ee44a5cf"
+  }
+}

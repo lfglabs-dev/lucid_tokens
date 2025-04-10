@@ -1,0 +1,15 @@
+{
+  "symbol": "RIM",
+  "name": "MetaRim",
+  "address": "0xa25199a79a34cc04b15e5c0bba4e3a557364e532",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23904/thumb/rim.png?1645680141",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa25199a79a34cc04b15e5c0bba4e3a557364e532"
+  }
+}

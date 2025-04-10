@@ -1,0 +1,15 @@
+{
+  "symbol": "LOH",
+  "name": "Land of Heroes",
+  "address": "0xd979d11c03cc7a66028755846f77fff0a270f753",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38987/thumb/logo_LOH.png?1719807145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd979d11c03cc7a66028755846f77fff0a270f753"
+  }
+}

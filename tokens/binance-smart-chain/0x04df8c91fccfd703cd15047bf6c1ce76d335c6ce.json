@@ -1,0 +1,15 @@
+{
+  "symbol": "BLOVELY",
+  "name": "Baby Lovely Inu",
+  "address": "0x04df8c91fccfd703cd15047bf6c1ce76d335c6ce",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23608/thumb/blovely.png?1644746419",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x04df8c91fccfd703cd15047bf6c1ce76d335c6ce"
+  }
+}

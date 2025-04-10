@@ -1,0 +1,15 @@
+{
+  "symbol": "Top",
+  "name": "Top",
+  "address": "0xe85562c6ff86a8ff0268222aff0205a26d37d68e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51421/thumb/TOPPROTOCOL_%281%29.png?1731183495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe85562c6ff86a8ff0268222aff0205a26d37d68e"
+  }
+}

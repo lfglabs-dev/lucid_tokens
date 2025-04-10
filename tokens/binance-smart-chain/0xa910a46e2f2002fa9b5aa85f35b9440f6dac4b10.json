@@ -1,0 +1,15 @@
+{
+  "symbol": "SCORP",
+  "name": "Scorpion",
+  "address": "0xa910a46e2f2002fa9b5aa85f35b9440f6dac4b10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37317/thumb/Qbm7jp17_400x400.jpg?1713974672",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa910a46e2f2002fa9b5aa85f35b9440f6dac4b10"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XSEED",
+  "name": "MXS Games",
+  "address": "0x0a10d108e2d81ccc793e37b56206c84bf96ddc57",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36916/thumb/mxs_logo_icon_black_%281%29_%281%29.png?1712769505",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x0a10d108e2d81ccc793e37b56206c84bf96ddc57"
+  }
+}

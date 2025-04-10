@@ -1,0 +1,15 @@
+{
+  "symbol": "MEVRV2",
+  "name": "Metaverse VR V2",
+  "address": "0x23ccf3c12a7eff7fe09fa52c716ea9f200b87363",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23437/thumb/coingecko.png?1644212206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x23ccf3c12a7eff7fe09fa52c716ea9f200b87363"
+  }
+}

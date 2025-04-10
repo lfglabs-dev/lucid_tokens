@@ -1,0 +1,17 @@
+{
+  "symbol": "USDY",
+  "name": "Ondo U.S. Dollar Yield",
+  "address": "0x5be26527e817998a7206475496fde1e68957c5a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1694517653",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x96f6ef951840721adbf46ac996b59e0235cb985c",
+    "mantle": "0x5be26527e817998a7206475496fde1e68957c5a6",
+    "arbitrum-one": "0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d"
+  }
+}

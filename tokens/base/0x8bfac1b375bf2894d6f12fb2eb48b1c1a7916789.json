@@ -1,0 +1,15 @@
+{
+  "symbol": "MEY",
+  "name": "Mey Network",
+  "address": "0x8bfac1b375bf2894d6f12fb2eb48b1c1a7916789",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52249/thumb/logo_mey_200.png?1732828172",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8bfac1b375bf2894d6f12fb2eb48b1c1a7916789"
+  }
+}

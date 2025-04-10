@@ -1,0 +1,20 @@
+{
+  "symbol": "GRAIN",
+  "name": "Granary Token",
+  "address": "0x8f87a7d376821c7b2658a005aaf190ec778bf37a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29740/thumb/Grain.png?1681096624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf88baf18fab7e330fa0c4f83949e23f52fececce",
+    "optimistic-ethereum": "0xfd389dc9533717239856190f42475d3f263a270d",
+    "binance-smart-chain": "0x8f87a7d376821c7b2658a005aaf190ec778bf37a",
+    "fantom": "0x02838746d9e1413e07ee064fcbada57055417f21",
+    "avalanche": "0x9df4ac62f9e435dbcd85e06c990a7f0ea32739a9",
+    "arbitrum-one": "0x80bb30d62a16e1f2084deae84dc293531c3ac3a1"
+  }
+}

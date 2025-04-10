@@ -1,0 +1,16 @@
+{
+  "symbol": "MNT",
+  "name": "Mantle Token",
+  "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25181/thumb/assetmantle.png?1650548235",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+    "mantle": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
+  }
+}

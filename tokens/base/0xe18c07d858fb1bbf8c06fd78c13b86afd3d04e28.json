@@ -1,0 +1,15 @@
+{
+  "symbol": "HEMPY",
+  "name": "IP Tokens of IPNFT #139",
+  "address": "0xe18c07d858fb1bbf8c06fd78c13b86afd3d04e28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53265/thumb/token_icon_hempy.png?1735912677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe18c07d858fb1bbf8c06fd78c13b86afd3d04e28"
+  }
+}

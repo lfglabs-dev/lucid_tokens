@@ -1,0 +1,15 @@
+{
+  "symbol": "SVTS",
+  "name": "SYNCVAULT",
+  "address": "0xb4e017223fd3d639d0264de4da1b9e080325cb5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50447/thumb/White_SV_logo_200x200.png?1727771615",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb4e017223fd3d639d0264de4da1b9e080325cb5e"
+  }
+}

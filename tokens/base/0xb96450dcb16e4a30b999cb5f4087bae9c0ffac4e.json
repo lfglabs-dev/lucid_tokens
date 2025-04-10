@@ -1,0 +1,15 @@
+{
+  "symbol": "TREB",
+  "name": "TREB",
+  "address": "0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54644/thumb/Treble_Token_-_200x200.png?1740818987",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e"
+  }
+}

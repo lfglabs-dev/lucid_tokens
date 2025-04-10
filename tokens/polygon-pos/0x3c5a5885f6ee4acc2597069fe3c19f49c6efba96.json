@@ -1,0 +1,15 @@
+{
+  "symbol": "KRIDA",
+  "name": "Krida Fans",
+  "address": "0x3c5a5885f6ee4acc2597069fe3c19f49c6efba96",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23104/thumb/bIdz6haF_400x400.jpg?1643233205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3c5a5885f6ee4acc2597069fe3c19f49c6efba96"
+  }
+}

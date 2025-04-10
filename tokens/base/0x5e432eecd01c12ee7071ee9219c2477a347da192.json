@@ -1,0 +1,16 @@
+{
+  "symbol": "ARQX",
+  "name": "ARQx AI",
+  "address": "0x5e432eecd01c12ee7071ee9219c2477a347da192",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37808/thumb/ARQX_GC.png?1715591796",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5e432eecd01c12ee7071ee9219c2477a347da192",
+    "base": "0x5e432eecd01c12ee7071ee9219c2477a347da192"
+  }
+}

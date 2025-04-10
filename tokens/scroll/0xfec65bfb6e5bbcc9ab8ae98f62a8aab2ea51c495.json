@@ -1,0 +1,15 @@
+{
+  "symbol": "PED",
+  "name": "Perseid Token",
+  "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32805/thumb/light_512.png?1699454440",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495"
+  }
+}

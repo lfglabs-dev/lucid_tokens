@@ -1,0 +1,15 @@
+{
+  "symbol": "DEFAI",
+  "name": "DeFi Agents AI Token",
+  "address": "0xb3621cd34803cf7065dcb0d5bfb0f56c1834a063",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53887/thumb/logo_square_Black_%281%29.png?1737657342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb3621cd34803cf7065dcb0d5bfb0f56c1834a063"
+  }
+}

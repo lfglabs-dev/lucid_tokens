@@ -1,0 +1,15 @@
+{
+  "symbol": "MBC",
+  "name": "MBC COIN",
+  "address": "0xbb02e0dc6ca8c838daa2f73f045f831ba3dcd4a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39922/thumb/PNG.png?1724812740",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb02e0dc6ca8c838daa2f73f045f831ba3dcd4a2"
+  }
+}

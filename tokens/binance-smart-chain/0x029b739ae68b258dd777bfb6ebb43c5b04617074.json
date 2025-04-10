@@ -1,0 +1,15 @@
+{
+  "symbol": "ULD",
+  "name": "Unlighted",
+  "address": "0x029b739ae68b258dd777bfb6ebb43c5b04617074",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38799/thumb/Untitled_design_%284%29.png?1718915541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x029b739ae68b258dd777bfb6ebb43c5b04617074"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PRXY",
+  "name": "Proxy",
+  "address": "0xab3d689c22a2bb821f50a4ff0f21a7980dcb8591",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17442/thumb/Proxy_logo_200.png?1628337184",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xab3d689c22a2bb821f50a4ff0f21a7980dcb8591"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TIG",
+  "name": "The Innovation Game",
+  "address": "0x0c03ce270b4826ec62e7dd007f0b716068639f7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50669/thumb/TIG_Logo_-_200x200.png?1728670027",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0c03ce270b4826ec62e7dd007f0b716068639f7b"
+  }
+}

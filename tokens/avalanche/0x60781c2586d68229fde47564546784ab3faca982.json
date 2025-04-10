@@ -1,0 +1,15 @@
+{
+  "symbol": "PNG",
+  "name": "Pangolin",
+  "address": "0x60781c2586d68229fde47564546784ab3faca982",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14023/thumb/mXGnm3Eo_400x400.jpg?1644478963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x60781c2586d68229fde47564546784ab3faca982"
+  }
+}

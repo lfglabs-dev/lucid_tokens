@@ -1,0 +1,15 @@
+{
+  "symbol": "APU",
+  "name": "BASED APU",
+  "address": "0x6f35720b272bf23832852b13ae9888c706e1a379",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52610/thumb/apu-ezgif.com-webp-to-jpg-converter.jpg?1733758449",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6f35720b272bf23832852b13ae9888c706e1a379"
+  }
+}

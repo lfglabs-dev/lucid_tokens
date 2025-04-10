@@ -1,0 +1,15 @@
+{
+  "symbol": "NRG",
+  "name": "Energy Token",
+  "address": "0x93ea2a6508d410490f2094fc68625522ddc5cd9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36234/thumb/image%281%29.png?1710914603",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x93ea2a6508d410490f2094fc68625522ddc5cd9f"
+  }
+}

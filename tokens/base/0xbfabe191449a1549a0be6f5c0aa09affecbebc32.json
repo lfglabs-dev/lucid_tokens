@@ -1,0 +1,15 @@
+{
+  "symbol": "HCAT",
+  "name": "Hover Cat",
+  "address": "0xbfabe191449a1549a0be6f5c0aa09affecbebc32",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53870/thumb/cat_icon_200.jpeg?1737615927",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbfabe191449a1549a0be6f5c0aa09affecbebc32"
+  }
+}

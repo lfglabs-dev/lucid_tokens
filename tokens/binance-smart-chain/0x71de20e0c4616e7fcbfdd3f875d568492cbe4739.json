@@ -1,0 +1,16 @@
+{
+  "symbol": "SWINGBY",
+  "name": "SWINGBY token",
+  "address": "0x71de20e0c4616e7fcbfdd3f875d568492cbe4739",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11861/thumb/swingby.png?1595822302",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8287c7b963b405b7b8d467db9d79eec40625b13a",
+    "binance-smart-chain": "0x71de20e0c4616e7fcbfdd3f875d568492cbe4739"
+  }
+}

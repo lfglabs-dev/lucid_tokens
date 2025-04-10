@@ -1,0 +1,15 @@
+{
+  "symbol": "BINK",
+  "name": "Bink AI",
+  "address": "0x5fdfafd107fc267bd6d6b1c08fcafb8d31394ba1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54928/thumb/BINK_logo.png?1742576832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5fdfafd107fc267bd6d6b1c08fcafb8d31394ba1"
+  }
+}

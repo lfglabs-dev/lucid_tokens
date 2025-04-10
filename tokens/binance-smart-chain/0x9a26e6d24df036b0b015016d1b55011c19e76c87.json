@@ -1,0 +1,15 @@
+{
+  "symbol": "DMS",
+  "name": "Dragon Mainland Shards",
+  "address": "0x9a26e6d24df036b0b015016d1b55011c19e76c87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20702/thumb/DMS.png?1637630616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9a26e6d24df036b0b015016d1b55011c19e76c87"
+  }
+}

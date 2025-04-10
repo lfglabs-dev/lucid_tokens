@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYMIGGLES",
+  "name": "BABY MIGGLES",
+  "address": "0xa202b2b7b4d2fe56bf81492ffdda657fe512de07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51834/thumb/IMG_6772.png?1732044511",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa202b2b7b4d2fe56bf81492ffdda657fe512de07"
+  }
+}

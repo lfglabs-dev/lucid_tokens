@@ -1,0 +1,15 @@
+{
+  "symbol": "WOD",
+  "name": "World of Defish",
+  "address": "0x298632d8ea20d321fab1c9b473df5dbda249b2b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22126/thumb/Logo.jpg?1640869389",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x298632d8ea20d321fab1c9b473df5dbda249b2b6"
+  }
+}

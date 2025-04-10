@@ -1,0 +1,15 @@
+{
+  "symbol": "BLEP",
+  "name": "Blep Super Meme",
+  "address": "0xc438b0c0e80a8fa1b36898d1b36a3fc2ec371c54",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52788/thumb/ezgif.com-jpg-to-png-converter.png?1734291658",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc438b0c0e80a8fa1b36898d1b36a3fc2ec371c54"
+  }
+}

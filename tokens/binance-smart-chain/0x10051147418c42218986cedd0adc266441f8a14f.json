@@ -1,0 +1,15 @@
+{
+  "symbol": "DYOR",
+  "name": "DYOR Token",
+  "address": "0x10051147418c42218986cedd0adc266441f8a14f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23654/thumb/13987.png?1644926775",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x10051147418c42218986cedd0adc266441f8a14f"
+  }
+}

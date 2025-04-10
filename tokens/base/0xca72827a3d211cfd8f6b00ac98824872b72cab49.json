@@ -1,0 +1,15 @@
+{
+  "symbol": "cgUSD",
+  "name": "Cygnus Global USD",
+  "address": "0xca72827a3d211cfd8f6b00ac98824872b72cab49",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35628/thumb/cgUSD.png?1709291316",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xca72827a3d211cfd8f6b00ac98824872b72cab49"
+  }
+}

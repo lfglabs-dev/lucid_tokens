@@ -1,0 +1,15 @@
+{
+  "symbol": "AQUA",
+  "name": "AQUA",
+  "address": "0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15710/thumb/aqua-icon.png?1621583770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991"
+  }
+}

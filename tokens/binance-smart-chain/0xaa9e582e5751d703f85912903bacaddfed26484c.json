@@ -1,0 +1,18 @@
+{
+  "symbol": "HAI",
+  "name": "Hacken Token",
+  "address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11081/thumb/logo_haken_vector.png?1593511379",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+    "vechain": "0xacc280010b2ee0efc770bce34774376656d8ce14",
+    "ethereum": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
+    "base": "0x73e2a6320314883ff8cc08b53f1460a5f4c47f2c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XAI",
+  "name": "Grok",
+  "address": "0x0009ae5a69b037ea74a900783fab457fa605ae5d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32798/thumb/logo_200px.png?1699446214",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0009ae5a69b037ea74a900783fab457fa605ae5d"
+  }
+}

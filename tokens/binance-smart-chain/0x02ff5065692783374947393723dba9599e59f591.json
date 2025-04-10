@@ -1,0 +1,15 @@
+{
+  "symbol": "YOOSHI",
+  "name": "YOOSHI",
+  "address": "0x02ff5065692783374947393723dba9599e59f591",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15614/thumb/logo.png?1622520684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x02ff5065692783374947393723dba9599e59f591"
+  }
+}

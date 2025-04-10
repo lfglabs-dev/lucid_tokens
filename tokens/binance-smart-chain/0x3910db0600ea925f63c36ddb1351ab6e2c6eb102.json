@@ -1,0 +1,15 @@
+{
+  "symbol": "SPARTA",
+  "name": "Spartan Protocol Token V2",
+  "address": "0x3910db0600ea925f63c36ddb1351ab6e2c6eb102",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12638/thumb/coin_sparta_black_bg.png?1622515206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3910db0600ea925f63c36ddb1351ab6e2c6eb102"
+  }
+}

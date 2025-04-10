@@ -1,0 +1,15 @@
+{
+  "symbol": "FTS",
+  "name": "Fortress",
+  "address": "0x4437743ac02957068995c48e08465e0ee1769fbe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15036/thumb/FTS_logo_200x200.png?1619504869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4437743ac02957068995c48e08465e0ee1769fbe"
+  }
+}

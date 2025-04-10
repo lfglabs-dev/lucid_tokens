@@ -1,0 +1,15 @@
+{
+  "symbol": "BOSHI",
+  "name": "Based Satoshi",
+  "address": "0x7fdd7419428955dbf36d4176af5a8f09ad29d1f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39403/thumb/gxlfIx0p_400x400.jpg?1722052095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7fdd7419428955dbf36d4176af5a8f09ad29d1f3"
+  }
+}

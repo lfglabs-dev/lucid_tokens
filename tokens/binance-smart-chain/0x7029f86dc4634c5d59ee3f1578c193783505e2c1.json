@@ -1,0 +1,15 @@
+{
+  "symbol": "TPAD",
+  "name": "TrustPad 2.0",
+  "address": "0x7029f86dc4634c5d59ee3f1578c193783505e2c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32960/thumb/tpad.png?1700014159",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7029f86dc4634c5d59ee3f1578c193783505e2c1"
+  }
+}

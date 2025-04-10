@@ -1,0 +1,18 @@
+{
+  "symbol": "ICE",
+  "name": "IceToken",
+  "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14586/thumb/ice.png?1617188825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf16e81dce15b08f326220742020379b855b87df9",
+    "binance-smart-chain": "0xf16e81dce15b08f326220742020379b855b87df9",
+    "fantom": "0xf16e81dce15b08f326220742020379b855b87df9",
+    "polygon-pos": "0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59"
+  }
+}

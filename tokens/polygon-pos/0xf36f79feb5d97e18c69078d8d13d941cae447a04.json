@@ -1,0 +1,15 @@
+{
+  "symbol": "b01",
+  "name": "b0rder1ess",
+  "address": "0xf36f79feb5d97e18c69078d8d13d941cae447a04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37173/thumb/b01-token-logo.JPG?1713509202",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf36f79feb5d97e18c69078d8d13d941cae447a04"
+  }
+}

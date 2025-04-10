@@ -1,0 +1,15 @@
+{
+  "symbol": "τDOGE",
+  "name": "τDogecoin",
+  "address": "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15959/thumb/photo_2021-06-01_11-30-59.png?1622518356",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a"
+  }
+}

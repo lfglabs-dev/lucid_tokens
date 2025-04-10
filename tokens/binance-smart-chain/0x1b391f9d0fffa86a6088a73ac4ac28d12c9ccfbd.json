@@ -1,0 +1,15 @@
+{
+  "symbol": "SET",
+  "name": "Sustainable Energy Token",
+  "address": "0x1b391f9d0fffa86a6088a73ac4ac28d12c9ccfbd",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15592/thumb/new_logo_200.png?1621292943",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1b391f9d0fffa86a6088a73ac4ac28d12c9ccfbd"
+  }
+}

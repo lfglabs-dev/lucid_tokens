@@ -1,0 +1,15 @@
+{
+  "symbol": "TNT",
+  "name": "Travel and Tourism token",
+  "address": "0x25c498781ca536547b147e2199f572e5393d36f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28328/thumb/airtnt.png?1669457251",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x25c498781ca536547b147e2199f572e5393d36f0"
+  }
+}

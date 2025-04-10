@@ -1,0 +1,15 @@
+{
+  "symbol": "LOOP",
+  "name": "LoopNetwork",
+  "address": "0xce186ad6430e2fe494a22c9edbd4c68794a28b35",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24259/thumb/loop.png?1647170665",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xce186ad6430e2fe494a22c9edbd4c68794a28b35"
+  }
+}

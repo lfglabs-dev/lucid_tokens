@@ -1,0 +1,15 @@
+{
+  "symbol": "CAP",
+  "name": "Based Brians",
+  "address": "0xd473475958d4c1538418224a52e5c0a6c997835a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36029/thumb/based_brian_coingecko.png?1710389319",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd473475958d4c1538418224a52e5c0a6c997835a"
+  }
+}

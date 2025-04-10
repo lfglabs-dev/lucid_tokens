@@ -1,0 +1,15 @@
+{
+  "symbol": "FARM",
+  "name": "CryptoFarmers",
+  "address": "0x5c15cdb9d43824dca67fceb1201e5abebe0b2cbc",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51380/thumb/logo_200-200.png?1730966625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5c15cdb9d43824dca67fceb1201e5abebe0b2cbc"
+  }
+}

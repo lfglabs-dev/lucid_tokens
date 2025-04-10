@@ -1,0 +1,17 @@
+{
+  "symbol": "axlSEILOR",
+  "name": "Axelar Wrapped SEILOR",
+  "address": "0x518960f5d12eb192f89a73c2ae9b2bd369c73d40",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31252/thumb/Kryptonite_PFP-03.png?1692015654",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "sei-v2": "0x89aec21572f6637ccbd0d66861aaac46dd775ed1",
+    "base": "0x9bde70bad05b7d84dac03024dae15aace8c9cca2",
+    "binance-smart-chain": "0x518960f5d12eb192f89a73c2ae9b2bd369c73d40"
+  }
+}

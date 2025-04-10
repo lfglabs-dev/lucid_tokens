@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyPeiPei",
+  "name": "Baby PeiPei",
+  "address": "0x04c6f12e06ffe8a79935accf3d3068a4581a7e95",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39278/thumb/1000001670.png?1721396459",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x04c6f12e06ffe8a79935accf3d3068a4581a7e95"
+  }
+}

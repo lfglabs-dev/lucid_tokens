@@ -1,0 +1,15 @@
+{
+  "symbol": "$OTTO",
+  "name": "Otto",
+  "address": "0x62ff28a01abd2484adb18c61f78f30fb2e4a6fdb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52644/thumb/Otto_logo_200x200.png?1733873416",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x62ff28a01abd2484adb18c61f78f30fb2e4a6fdb"
+  }
+}

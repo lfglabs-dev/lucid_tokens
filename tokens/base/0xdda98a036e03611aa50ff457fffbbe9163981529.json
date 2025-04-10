@@ -1,0 +1,15 @@
+{
+  "symbol": "FRENZ",
+  "name": "FRENZ",
+  "address": "0xdda98a036e03611aa50ff457fffbbe9163981529",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36475/thumb/FRENZ.png?1711527630",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdda98a036e03611aa50ff457fffbbe9163981529"
+  }
+}

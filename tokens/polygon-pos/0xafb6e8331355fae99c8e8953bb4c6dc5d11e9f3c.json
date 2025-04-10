@@ -1,0 +1,15 @@
+{
+  "symbol": "AAGG",
+  "name": "Arch Aggressive Portfolio",
+  "address": "0xafb6e8331355fae99c8e8953bb4c6dc5d11e9f3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30638/thumb/AAGG.png?1686034996",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xafb6e8331355fae99c8e8953bb4c6dc5d11e9f3c"
+  }
+}

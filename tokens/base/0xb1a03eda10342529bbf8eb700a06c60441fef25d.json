@@ -1,0 +1,15 @@
+{
+  "symbol": "MIGGLES",
+  "name": "Mister Miggles",
+  "address": "0xb1a03eda10342529bbf8eb700a06c60441fef25d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39251/thumb/miggles.jpg?1721283044",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb1a03eda10342529bbf8eb700a06c60441fef25d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TOTEM",
+  "name": "TOTEM",
+  "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25056/thumb/C6_miUEU_400x400.jpg?1649939854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LUNA",
+  "name": "Luna by Virtuals",
+  "address": "0x55cd6469f597452b5a7536e2cd98fde4c1247ee4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50880/thumb/WhatsApp_Image_2024-10-16_at_22.45.56_%281%29.jpeg?1729429511",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x55cd6469f597452b5a7536e2cd98fde4c1247ee4"
+  }
+}

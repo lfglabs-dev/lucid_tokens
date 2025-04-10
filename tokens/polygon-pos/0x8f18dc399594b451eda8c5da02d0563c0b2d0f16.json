@@ -1,0 +1,15 @@
+{
+  "symbol": "WOLF",
+  "name": "moonwolf.io",
+  "address": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14698/thumb/oC37AkkD_400x400.jpg?1617835365",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "RBX",
+  "name": "RBX",
+  "address": "0x94960952876e3ed6a7760b198354fcc5319a406a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19253/thumb/output-onlinepngtools-9.png?1634801960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299",
+    "binance-smart-chain": "0xace3574b8b054e074473a9bd002e5dc6dd3dff1b",
+    "avalanche": "0x94960952876e3ed6a7760b198354fcc5319a406a"
+  }
+}

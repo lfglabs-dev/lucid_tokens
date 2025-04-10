@@ -1,0 +1,15 @@
+{
+  "symbol": "SQR",
+  "name": "Magic Square",
+  "address": "0x2b72867c32cf673f7b02d208b26889fed353b1f8",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26377/thumb/bafkreictuxcsw472vuroqwv7maumzsa4pfhrdw6tglpme7zfdkce62niau_%281%29.jpg?1678849971",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2b72867c32cf673f7b02d208b26889fed353b1f8"
+  }
+}

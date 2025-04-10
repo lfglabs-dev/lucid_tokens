@@ -1,0 +1,15 @@
+{
+  "symbol": "CHAMP",
+  "name": "NFT Champions",
+  "address": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19536/thumb/champ.png?1635905981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f"
+  }
+}

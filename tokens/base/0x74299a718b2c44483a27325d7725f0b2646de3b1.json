@@ -1,0 +1,15 @@
+{
+  "symbol": "DAG",
+  "name": "Constellation",
+  "address": "0x74299a718b2c44483a27325d7725f0b2646de3b1",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4645/thumb/DAG.png?1626339160",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x74299a718b2c44483a27325d7725f0b2646de3b1"
+  }
+}

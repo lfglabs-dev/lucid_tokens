@@ -1,0 +1,15 @@
+{
+  "symbol": "PUBE",
+  "name": "Proudly Unwashed Balls Empire",
+  "address": "0x3916984fa787d89b648ccd8d60b5ff07e0e8e4f4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15425/thumb/2618620f.jpg?1622440947",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3916984fa787d89b648ccd8d60b5ff07e0e8e4f4"
+  }
+}

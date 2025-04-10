@@ -1,0 +1,17 @@
+{
+  "symbol": "KEYFI",
+  "name": "KeyFi Token",
+  "address": "0xd1a5f2a049343fc4d5f8d478f734eba51b22375e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15098/thumb/keyfi_logo.jpg?1619690054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8647e90c0645152fccf4d9abb6b59eb4aa99052",
+    "binance-smart-chain": "0x4b6000f9163de2e3f0a01ec37e06e1469dbbce9d",
+    "polygon-pos": "0xd1a5f2a049343fc4d5f8d478f734eba51b22375e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CWF",
+  "name": "UNIVERSAL CONTACT",
+  "address": "0x07869c388a4decf49bdc61ec1ed2b3af8a27f116",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34405/thumb/logogithub.png?1704789939",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07869c388a4decf49bdc61ec1ed2b3af8a27f116"
+  }
+}

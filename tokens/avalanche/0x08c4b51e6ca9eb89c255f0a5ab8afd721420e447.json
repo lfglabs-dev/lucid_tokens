@@ -1,0 +1,15 @@
+{
+  "symbol": "PEARL",
+  "name": "Pearl Token (Stargate)",
+  "address": "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54681/thumb/pearl.jpg?1740987269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447"
+  }
+}

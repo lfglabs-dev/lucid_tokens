@@ -1,0 +1,15 @@
+{
+  "symbol": "VEX",
+  "name": "Velorex",
+  "address": "0xc029a12e4a002c6858878fd9d3cc74e227cc2dda",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15793/thumb/vex.png?1637824735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc029a12e4a002c6858878fd9d3cc74e227cc2dda"
+  }
+}

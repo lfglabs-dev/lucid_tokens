@@ -1,0 +1,15 @@
+{
+  "symbol": "AIP",
+  "name": "AI POWERS",
+  "address": "0xe855e5348923560940981882ab40a5ede6bd16a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37139/thumb/Token.png?1713420917",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe855e5348923560940981882ab40a5ede6bd16a0"
+  }
+}

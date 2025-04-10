@@ -1,0 +1,15 @@
+{
+  "symbol": "CONE",
+  "name": "BitCone",
+  "address": "0xba777ae3a3c91fcd83ef85bfe65410592bdd0f7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32278/thumb/BitCone_Logo_V7.5_halo_NO_circle_-200x200_copy_BIGGER.png?1697180757",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xba777ae3a3c91fcd83ef85bfe65410592bdd0f7c"
+  }
+}

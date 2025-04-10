@@ -1,0 +1,15 @@
+{
+  "symbol": "FOC",
+  "name": "TheForce Coin",
+  "address": "0x3051cfb958dcd408fba70256073adba943fdf552",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15490/thumb/force.PNG?1621040891",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3051cfb958dcd408fba70256073adba943fdf552"
+  }
+}

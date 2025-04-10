@@ -1,0 +1,16 @@
+{
+  "symbol": "SELF",
+  "name": "SELF Crypto",
+  "address": "0x50c34995a273075a80c23625f69f40d56ce414de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30805/thumb/Isotype_1_200x200.png?1687414126",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x50c34995a273075a80c23625f69f40d56ce414de",
+    "ethereum": "0x4af8aa621df6dd3e2d653188a357fc2b35c6a037"
+  }
+}

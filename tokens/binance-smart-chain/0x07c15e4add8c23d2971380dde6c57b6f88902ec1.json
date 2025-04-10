@@ -1,0 +1,15 @@
+{
+  "symbol": "MARS",
+  "name": "MetaMars",
+  "address": "0x07c15e4add8c23d2971380dde6c57b6f88902ec1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50568/thumb/1000058272.jpg?1728372809",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07c15e4add8c23d2971380dde6c57b6f88902ec1"
+  }
+}

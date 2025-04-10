@@ -1,0 +1,15 @@
+{
+  "symbol": "BFROG",
+  "name": "BaseFrog",
+  "address": "0x1308ae20e66e43d575a76b5dfb30771a50c9256a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37373/thumb/GsFV3tdq_400x400.jpg?1714147812",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1308ae20e66e43d575a76b5dfb30771a50c9256a"
+  }
+}

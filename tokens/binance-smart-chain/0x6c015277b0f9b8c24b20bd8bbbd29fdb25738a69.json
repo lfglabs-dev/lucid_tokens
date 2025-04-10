@@ -1,0 +1,15 @@
+{
+  "symbol": "WNYC",
+  "name": "Wrapped NewYorkCoin",
+  "address": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17123/thumb/J53IJI7.png?1626399992",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69"
+  }
+}

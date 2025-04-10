@@ -1,0 +1,15 @@
+{
+  "symbol": "DUBI",
+  "name": "Decentralized Universal Basic Income",
+  "address": "0x950e1561b7a7deb1a32a6419fd435410daf851b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2606/thumb/decentralized-universal-basic-income.png?1547036752",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x950e1561b7a7deb1a32a6419fd435410daf851b0"
+  }
+}

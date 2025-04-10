@@ -1,0 +1,15 @@
+{
+  "symbol": "DEFI",
+  "name": "Defiway Token",
+  "address": "0x18c3eb88c972390120bb4abd2f705c48f62e212c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39391/thumb/photo_2024-07-25_18-08-57.jpg?1721975084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x18c3eb88c972390120bb4abd2f705c48f62e212c"
+  }
+}

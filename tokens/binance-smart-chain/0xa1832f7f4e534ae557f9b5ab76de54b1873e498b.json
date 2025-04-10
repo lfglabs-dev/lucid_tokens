@@ -1,0 +1,16 @@
+{
+  "symbol": "BID",
+  "name": "CreatorBid",
+  "address": "0xa1832f7f4e534ae557f9b5ab76de54b1873e498b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53878/thumb/creatorbid.jpg?1737623538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa1832f7f4e534ae557f9b5ab76de54b1873e498b",
+    "base": "0xa1832f7f4e534ae557f9b5ab76de54b1873e498b"
+  }
+}

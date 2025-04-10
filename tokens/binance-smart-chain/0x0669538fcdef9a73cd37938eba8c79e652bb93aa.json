@@ -1,0 +1,15 @@
+{
+  "symbol": "SCPT",
+  "name": "SCPT - Script Network",
+  "address": "0x0669538fcdef9a73cd37938eba8c79e652bb93aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20869/thumb/Script_LOGO-03.png?1696520263",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0669538fcdef9a73cd37938eba8c79e652bb93aa"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "RPG",
+  "name": "RangersProtocolGas",
+  "address": "0x61dc650c10ec3c758d251cd2d1ab45af1a43e941",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18791/thumb/tO8MlqiM_400x400.png?1633421196",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1f16d41f9b3db03b462bdd6c92245ee708d1c103",
+    "binance-smart-chain": "0x61dc650c10ec3c758d251cd2d1ab45af1a43e941"
+  }
+}

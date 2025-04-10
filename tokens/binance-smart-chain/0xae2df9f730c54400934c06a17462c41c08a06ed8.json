@@ -1,0 +1,15 @@
+{
+  "symbol": "DOBO",
+  "name": "DogeBonk.com",
+  "address": "0xae2df9f730c54400934c06a17462c41c08a06ed8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19153/thumb/dobo.png?1640080606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xae2df9f730c54400934c06a17462c41c08a06ed8"
+  }
+}

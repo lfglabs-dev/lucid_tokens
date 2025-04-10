@@ -1,0 +1,15 @@
+{
+  "symbol": "LGX",
+  "name": "Legion Token",
+  "address": "0x9096b4309224d751fcb43d7eb178dcffc122ad15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21816/thumb/1_%284%29.png?1640071919",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9096b4309224d751fcb43d7eb178dcffc122ad15"
+  }
+}

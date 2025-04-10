@@ -1,0 +1,16 @@
+{
+  "symbol": "ELF",
+  "name": "ELF Token",
+  "address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1371/thumb/aelf-logo.png?1547035397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+    "binance-smart-chain": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9"
+  }
+}

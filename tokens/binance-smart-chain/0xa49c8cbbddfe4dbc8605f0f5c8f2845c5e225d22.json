@@ -1,0 +1,15 @@
+{
+  "symbol": "APT",
+  "name": "Apidae Token",
+  "address": "0xa49c8cbbddfe4dbc8605f0f5c8f2845c5e225d22",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26276/thumb/ApidaeTokenLogo.png?1657016442",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa49c8cbbddfe4dbc8605f0f5c8f2845c5e225d22"
+  }
+}

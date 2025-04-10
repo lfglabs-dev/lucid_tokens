@@ -1,0 +1,15 @@
+{
+  "symbol": "CAS",
+  "name": " Cashaa",
+  "address": "0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2979/thumb/Logo.png?1564502509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c"
+  }
+}

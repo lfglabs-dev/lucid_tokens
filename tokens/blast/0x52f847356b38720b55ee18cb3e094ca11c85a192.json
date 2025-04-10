@@ -1,0 +1,15 @@
+{
+  "symbol": "FNX",
+  "name": "Fenix",
+  "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x52f847356b38720b55ee18cb3e094ca11c85a192"
+  }
+}

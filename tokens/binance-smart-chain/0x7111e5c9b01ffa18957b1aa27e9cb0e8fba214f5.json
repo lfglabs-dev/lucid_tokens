@@ -1,0 +1,15 @@
+{
+  "symbol": "ULAB",
+  "name": "Unilab Network",
+  "address": "0x7111e5c9b01ffa18957b1aa27e9cb0e8fba214f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22330/thumb/unilab-logo-black-text-200.png?1641517618",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7111e5c9b01ffa18957b1aa27e9cb0e8fba214f5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SHI3LD",
+  "name": "PolyShield",
+  "address": "0xf239e69ce434c7fb408b05a0da416b14917d934e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17641/thumb/QRE5xI0.png?1628741510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf239e69ce434c7fb408b05a0da416b14917d934e"
+  }
+}

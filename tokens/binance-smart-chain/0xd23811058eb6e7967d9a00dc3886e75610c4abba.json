@@ -1,0 +1,15 @@
+{
+  "symbol": "KNIGHT",
+  "name": "KnightSwap Token",
+  "address": "0xd23811058eb6e7967d9a00dc3886e75610c4abba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24132/thumb/knightswap.png?1646539967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd23811058eb6e7967d9a00dc3886e75610c4abba"
+  }
+}

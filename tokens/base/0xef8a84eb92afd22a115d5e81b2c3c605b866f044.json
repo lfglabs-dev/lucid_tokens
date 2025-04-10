@@ -1,0 +1,15 @@
+{
+  "symbol": "BEBE",
+  "name": "Bebe",
+  "address": "0xef8a84eb92afd22a115d5e81b2c3c605b866f044",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36839/thumb/logo.png?1712561707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xef8a84eb92afd22a115d5e81b2c3c605b866f044"
+  }
+}

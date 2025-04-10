@@ -1,0 +1,15 @@
+{
+  "symbol": "BADCAT",
+  "name": "BADCAT",
+  "address": "0x1b2c141479757b8643a519be4692904088d860b2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38119/thumb/NgUCgax2_200x200.png?1716537224",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1b2c141479757b8643a519be4692904088d860b2"
+  }
+}

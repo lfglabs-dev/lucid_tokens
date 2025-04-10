@@ -1,0 +1,15 @@
+{
+  "symbol": "AIXCB",
+  "name": "aixCB by Virtuals",
+  "address": "0x76c71f1703fbf19ffdcf3051e1e684cb9934510f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52869/thumb/aixCB.jpg?1734551540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x76c71f1703fbf19ffdcf3051e1e684cb9934510f"
+  }
+}

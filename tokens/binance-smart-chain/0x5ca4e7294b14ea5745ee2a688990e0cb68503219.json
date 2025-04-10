@@ -1,0 +1,15 @@
+{
+  "symbol": "GRBE",
+  "name": "Green_Beli_v2",
+  "address": "0x5ca4e7294b14ea5745ee2a688990e0cb68503219",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18776/thumb/Logo-200x200_%288%29.png?1633402162",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5ca4e7294b14ea5745ee2a688990e0cb68503219"
+  }
+}

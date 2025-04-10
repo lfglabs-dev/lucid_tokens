@@ -1,0 +1,16 @@
+{
+  "symbol": "MVI",
+  "name": "Metaverse Index (PoS)",
+  "address": "0xfe712251173a2cd5f5be2b46bb528328ea3565e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14684/thumb/MVI_logo.png?1617776444",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
+    "polygon-pos": "0xfe712251173a2cd5f5be2b46bb528328ea3565e1"
+  }
+}

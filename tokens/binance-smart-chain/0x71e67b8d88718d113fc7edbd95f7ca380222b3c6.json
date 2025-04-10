@@ -1,0 +1,15 @@
+{
+  "symbol": "HMT",
+  "name": "Humanize",
+  "address": "0x71e67b8d88718d113fc7edbd95f7ca380222b3c6",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27439/thumb/hmt.png?1663935057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x71e67b8d88718d113fc7edbd95f7ca380222b3c6"
+  }
+}

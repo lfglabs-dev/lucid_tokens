@@ -1,0 +1,15 @@
+{
+  "symbol": "GEOD",
+  "name": "Geodnet Token",
+  "address": "0xac0f66379a6d7801d7726d5a943356a172549adb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31608/thumb/Circular_White.png?1694072309",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xac0f66379a6d7801d7726d5a943356a172549adb"
+  }
+}

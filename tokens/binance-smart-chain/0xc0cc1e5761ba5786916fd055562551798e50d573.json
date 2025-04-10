@@ -1,0 +1,15 @@
+{
+  "symbol": "ASY",
+  "name": "ASYAGRO",
+  "address": "0xc0cc1e5761ba5786916fd055562551798e50d573",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10632/thumb/c0Q4z8HJ_400x400.jpg?1581203764",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc0cc1e5761ba5786916fd055562551798e50d573"
+  }
+}

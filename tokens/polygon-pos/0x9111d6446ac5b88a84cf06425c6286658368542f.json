@@ -1,0 +1,17 @@
+{
+  "symbol": "FLAG - PoS",
+  "name": "ForLootAndGlory",
+  "address": "0x9111d6446ac5b88a84cf06425c6286658368542f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20726/thumb/token_logo.ico?1637595445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x9111d6446ac5b88a84cf06425c6286658368542f",
+    "skale": "0xcdf030a3e65f917dfa8d74555a64a5ec5303c88e",
+    "ethereum": "0x9348e94a447bf8b2ec11f374d3f055fd47d936df"
+  }
+}

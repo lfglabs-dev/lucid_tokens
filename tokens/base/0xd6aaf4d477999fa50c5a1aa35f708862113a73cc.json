@@ -1,0 +1,15 @@
+{
+  "symbol": "PROPS",
+  "name": "Propbase",
+  "address": "0xd6aaf4d477999fa50c5a1aa35f708862113a73cc",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32932/thumb/PROP_BASE_%286%29.png?1699870054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd6aaf4d477999fa50c5a1aa35f708862113a73cc"
+  }
+}

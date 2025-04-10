@@ -1,0 +1,15 @@
+{
+  "symbol": "AMETA",
+  "name": "Alpha City",
+  "address": "0x90ec58ef4cc9f37b96de1e203b65bd4e6e79580e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54292/thumb/200x200.png?1739083747",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x90ec58ef4cc9f37b96de1e203b65bd4e6e79580e"
+  }
+}

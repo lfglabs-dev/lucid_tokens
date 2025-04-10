@@ -1,0 +1,15 @@
+{
+  "symbol": "HARD",
+  "name": "hardwAIre DAO",
+  "address": "0x3de67b963766076a3e77e4bec067460523574694",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54073/thumb/hardwaire_%28200_x_200_px%29.png?1738167850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3de67b963766076a3e77e4bec067460523574694"
+  }
+}

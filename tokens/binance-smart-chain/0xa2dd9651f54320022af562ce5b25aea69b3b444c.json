@@ -1,0 +1,15 @@
+{
+  "symbol": "PAPA",
+  "name": "PAPA BEAR",
+  "address": "0xa2dd9651f54320022af562ce5b25aea69b3b444c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32945/thumb/papabear.jpg?1699899004",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa2dd9651f54320022af562ce5b25aea69b3b444c"
+  }
+}

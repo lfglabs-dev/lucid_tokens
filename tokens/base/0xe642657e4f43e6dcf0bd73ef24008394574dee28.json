@@ -1,0 +1,15 @@
+{
+  "symbol": "RECORD",
+  "name": "MusicProtocolRECORDToken",
+  "address": "0xe642657e4f43e6dcf0bd73ef24008394574dee28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39243/thumb/fjord-icon.png?1721274482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe642657e4f43e6dcf0bd73ef24008394574dee28"
+  }
+}

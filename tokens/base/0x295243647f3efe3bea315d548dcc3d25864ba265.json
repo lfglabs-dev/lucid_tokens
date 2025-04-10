@@ -1,0 +1,15 @@
+{
+  "symbol": "TOCHI",
+  "name": "Tochi Base",
+  "address": "0x295243647f3efe3bea315d548dcc3d25864ba265",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33752/thumb/Screenshot_2023-12-17_at_5.04.39%E2%80%AFpm.png?1702946467",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x295243647f3efe3bea315d548dcc3d25864ba265"
+  }
+}

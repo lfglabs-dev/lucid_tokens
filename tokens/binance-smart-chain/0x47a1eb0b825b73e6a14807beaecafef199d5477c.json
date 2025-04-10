@@ -1,0 +1,15 @@
+{
+  "symbol": "CaptainBNB",
+  "name": "CaptainBNB",
+  "address": "0x47a1eb0b825b73e6a14807beaecafef199d5477c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54535/thumb/capbnb.jpeg?1740211805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x47a1eb0b825b73e6a14807beaecafef199d5477c"
+  }
+}

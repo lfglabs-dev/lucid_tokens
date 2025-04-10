@@ -1,0 +1,15 @@
+{
+  "symbol": "LunaT",
+  "name": "Lunatics",
+  "address": "0x2a48ece377b87ce941406657b9278b4459595e06",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26684/thumb/rsz_3-pca17g_400x400.png?1659594562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2a48ece377b87ce941406657b9278b4459595e06"
+  }
+}

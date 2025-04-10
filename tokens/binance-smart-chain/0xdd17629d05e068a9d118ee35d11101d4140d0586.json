@@ -1,0 +1,15 @@
+{
+  "symbol": "YOCO",
+  "name": "YoCoin",
+  "address": "0xdd17629d05e068a9d118ee35d11101d4140d0586",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17395/thumb/yocoin.PNG?1627526814",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdd17629d05e068a9d118ee35d11101d4140d0586"
+  }
+}

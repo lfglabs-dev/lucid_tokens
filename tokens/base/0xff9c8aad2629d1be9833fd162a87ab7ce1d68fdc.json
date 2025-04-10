@@ -1,0 +1,15 @@
+{
+  "symbol": "KRETT",
+  "name": "Brett Killer",
+  "address": "0xff9c8aad2629d1be9833fd162a87ab7ce1d68fdc",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37246/thumb/photo_2024-04-20_00.16.14_%282%29.jpeg?1713862195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xff9c8aad2629d1be9833fd162a87ab7ce1d68fdc"
+  }
+}

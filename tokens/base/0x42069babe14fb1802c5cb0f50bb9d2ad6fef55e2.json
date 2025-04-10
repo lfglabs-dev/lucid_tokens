@@ -1,0 +1,15 @@
+{
+  "symbol": "FROK",
+  "name": "frok.ai",
+  "address": "0x42069babe14fb1802c5cb0f50bb9d2ad6fef55e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36028/thumb/Frok_logo.png?1710389187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x42069babe14fb1802c5cb0f50bb9d2ad6fef55e2"
+  }
+}

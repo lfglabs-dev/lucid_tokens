@@ -1,0 +1,17 @@
+{
+  "symbol": "AUDF",
+  "name": "Forte AUD",
+  "address": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37837/thumb/Logo_emblem_blue.png?1715742171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+    "avalanche": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+    "polygon-pos": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "HIGH",
+  "name": "High",
+  "address": "0x4d25e94291fe8dcfbfa572cbb2aaa7b755087c91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36318/thumb/high200x200.png?1711092521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4d25e94291fe8dcfbfa572cbb2aaa7b755087c91"
+  }
+}

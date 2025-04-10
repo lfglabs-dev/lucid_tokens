@@ -1,0 +1,15 @@
+{
+  "symbol": "Re7WETH",
+  "name": "Re7 WETH",
+  "address": "0xa2cac0023a4797b4729db94783405189a4203afc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51546/thumb/ethereum-eth-logo.png?1731516766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa2cac0023a4797b4729db94783405189a4203afc"
+  }
+}

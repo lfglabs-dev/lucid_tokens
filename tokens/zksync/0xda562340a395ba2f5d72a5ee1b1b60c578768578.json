@@ -1,0 +1,15 @@
+{
+  "symbol": "GORILLA",
+  "name": "GORILLA ARMY",
+  "address": "0xda562340a395ba2f5d72a5ee1b1b60c578768578",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52422/thumb/goril6.jpg?1733327049",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xda562340a395ba2f5d72a5ee1b1b60c578768578"
+  }
+}

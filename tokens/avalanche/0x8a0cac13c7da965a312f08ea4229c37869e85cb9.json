@@ -1,0 +1,20 @@
+{
+  "symbol": "GRT.e",
+  "name": "Graph Token",
+  "address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "harmony-shard-0": "0x002fa662f2e09de7c306d2bab0085ee9509488ff",
+    "energi": "0x771513ba693d457df3678c951c448701f2eaaad5",
+    "avalanche": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+    "arbitrum-one": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+    "polygon-pos": "0x5fe2b58c013d7601147dcdd68c143a77499f5531"
+  }
+}

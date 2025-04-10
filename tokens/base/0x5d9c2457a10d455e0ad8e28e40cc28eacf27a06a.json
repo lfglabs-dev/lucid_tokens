@@ -1,0 +1,15 @@
+{
+  "symbol": "GM",
+  "name": "GM Everyday",
+  "address": "0x5d9c2457a10d455e0ad8e28e40cc28eacf27a06a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52139/thumb/sRavZnte_.png?1732642259",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5d9c2457a10d455e0ad8e28e40cc28eacf27a06a"
+  }
+}

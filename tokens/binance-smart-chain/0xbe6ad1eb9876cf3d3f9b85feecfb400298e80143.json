@@ -1,0 +1,15 @@
+{
+  "symbol": "AIC",
+  "name": "AI Companions",
+  "address": "0xbe6ad1eb9876cf3d3f9b85feecfb400298e80143",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40130/thumb/AI_Companions.png?1725942702",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbe6ad1eb9876cf3d3f9b85feecfb400298e80143"
+  }
+}

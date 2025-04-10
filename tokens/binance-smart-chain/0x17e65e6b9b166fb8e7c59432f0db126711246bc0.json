@@ -1,0 +1,15 @@
+{
+  "symbol": "TIFI",
+  "name": "TiFi Token",
+  "address": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24990/thumb/logo200_%281%29.png?1649686507",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0"
+  }
+}

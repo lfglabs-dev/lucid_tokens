@@ -1,0 +1,16 @@
+{
+  "symbol": "PRIMATE",
+  "name": "PRIMATE",
+  "address": "0xa19863e302fd1b41276fce5a48d9c511dbeef34c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25245/thumb/benji-logo-512x512.png?1651028701",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x46e98ffe40e408ba6412beb670507e083c8b95ff",
+    "binance-smart-chain": "0xa19863e302fd1b41276fce5a48d9c511dbeef34c"
+  }
+}

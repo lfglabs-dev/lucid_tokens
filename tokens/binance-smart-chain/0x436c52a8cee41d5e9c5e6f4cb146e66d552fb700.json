@@ -1,0 +1,16 @@
+{
+  "symbol": "EQX",
+  "name": "EQIFi Token",
+  "address": "0x436c52a8cee41d5e9c5e6f4cb146e66d552fb700",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17490/thumb/EQIFI_Logo_Color.png?1627968404",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbd3de9a069648c84d27d74d701c9fa3253098b15",
+    "binance-smart-chain": "0x436c52a8cee41d5e9c5e6f4cb146e66d552fb700"
+  }
+}

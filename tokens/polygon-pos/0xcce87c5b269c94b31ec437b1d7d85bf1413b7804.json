@@ -1,0 +1,15 @@
+{
+  "symbol": "OORT",
+  "name": "Oort Digital",
+  "address": "0xcce87c5b269c94b31ec437b1d7d85bf1413b7804",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xcce87c5b269c94b31ec437b1d7d85bf1413b7804"
+  }
+}

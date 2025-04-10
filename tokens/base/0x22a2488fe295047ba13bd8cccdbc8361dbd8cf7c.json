@@ -1,0 +1,16 @@
+{
+  "symbol": "SONNE",
+  "name": "Sonne",
+  "address": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27540/thumb/Token1.png?1664422231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
+    "base": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c"
+  }
+}

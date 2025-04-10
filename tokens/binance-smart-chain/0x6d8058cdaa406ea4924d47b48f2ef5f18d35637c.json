@@ -1,0 +1,15 @@
+{
+  "symbol": "GRAB",
+  "name": "GRAB",
+  "address": "0x6d8058cdaa406ea4924d47b48f2ef5f18d35637c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53310/thumb/photo_2025-01-04_01.31.27.jpeg?1736067675",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d8058cdaa406ea4924d47b48f2ef5f18d35637c"
+  }
+}

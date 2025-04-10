@@ -1,0 +1,15 @@
+{
+  "symbol": "C4E",
+  "name": "C4E native asset",
+  "address": "0x27443b27dfdf632390521c0b8a6fdafe07d8f79f",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28199/thumb/logo_C4E_bez_tla3.png?1668337165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x27443b27dfdf632390521c0b8a6fdafe07d8f79f"
+  }
+}

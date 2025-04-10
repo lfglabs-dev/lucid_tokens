@@ -1,0 +1,15 @@
+{
+  "symbol": "CLEG",
+  "name": "Chain of Legends Token",
+  "address": "0x4027d91ecd3140e53ae743d657549adfeebb27ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26440/thumb/logo1.png?1658108765",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4027d91ecd3140e53ae743d657549adfeebb27ab"
+  }
+}

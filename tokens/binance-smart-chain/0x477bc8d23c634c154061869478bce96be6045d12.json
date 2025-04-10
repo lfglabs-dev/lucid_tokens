@@ -1,0 +1,17 @@
+{
+  "symbol": "SFUND",
+  "name": "SeedifyFund",
+  "address": "0x477bc8d23c634c154061869478bce96be6045d12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14614/thumb/Favicon_Icon.png?1632121435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x477bc8d23c634c154061869478bce96be6045d12",
+    "ethereum": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
+    "arbitrum-one": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60"
+  }
+}

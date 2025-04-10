@@ -1,0 +1,15 @@
+{
+  "symbol": "PEACHY",
+  "name": " PEACHY",
+  "address": "0x0fc170b2b697f9a97a2fe4ae26b02495aa5ff2c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35314/thumb/200x200-100kb.png?1708160923",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0fc170b2b697f9a97a2fe4ae26b02495aa5ff2c2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "HEROES",
+  "name": "Dehero Community Token",
+  "address": "0x261510dd6257494eea1dda7618dbe8a7b87870dd",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17917/thumb/33b73b5a11f3391dd9ef009985308cf5.png?1629781766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x261510dd6257494eea1dda7618dbe8a7b87870dd"
+  }
+}

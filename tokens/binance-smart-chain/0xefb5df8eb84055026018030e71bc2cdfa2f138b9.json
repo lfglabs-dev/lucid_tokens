@@ -1,0 +1,15 @@
+{
+  "symbol": "CARBON",
+  "name": "Carbon",
+  "address": "0xefb5df8eb84055026018030e71bc2cdfa2f138b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13262/thumb/CRBN_Icon_200.png?1606803750",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xefb5df8eb84055026018030e71bc2cdfa2f138b9"
+  }
+}

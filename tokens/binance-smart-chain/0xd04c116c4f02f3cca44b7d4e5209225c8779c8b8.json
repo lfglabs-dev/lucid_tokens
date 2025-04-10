@@ -1,0 +1,15 @@
+{
+  "symbol": "BG",
+  "name": "BunnyPark Game",
+  "address": "0xd04c116c4f02f3cca44b7d4e5209225c8779c8b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21422/thumb/BG_TOKEN.png?1639115205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd04c116c4f02f3cca44b7d4e5209225c8779c8b8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AGRF",
+  "name": "Agri Future Token",
+  "address": "0x0c0ae048d2d0b50e7d8a2870556419d6b59b6a47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37891/thumb/AGRF.jpg?1715846415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0c0ae048d2d0b50e7d8a2870556419d6b59b6a47"
+  }
+}

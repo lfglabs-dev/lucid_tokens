@@ -1,0 +1,16 @@
+{
+  "symbol": "NUX",
+  "name": "NUX Peanut.trade",
+  "address": "0x6d8734002fbffe1c86495e32c95f732fc77f6f2a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13958/thumb/2sAMZXpO_400x400.jpg?1613353972",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+    "binance-smart-chain": "0x6d8734002fbffe1c86495e32c95f732fc77f6f2a"
+  }
+}

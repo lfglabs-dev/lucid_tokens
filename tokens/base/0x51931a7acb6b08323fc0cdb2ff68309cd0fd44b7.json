@@ -1,0 +1,18 @@
+{
+  "symbol": "VWO.d",
+  "name": "Vanguard FTSE Emerging Markets ETF - Dinari",
+  "address": "0x51931a7acb6b08323fc0cdb2ff68309cd0fd44b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1bed98b79f8a5e32031b0d735022fc006db47d37",
+    "ethereum": "0x9f9e5c45d95d66e85e8a878007bf27ca2d987394",
+    "blast": "0x413e5687814841d65146c062c506c73992a57692",
+    "base": "0x51931a7acb6b08323fc0cdb2ff68309cd0fd44b7"
+  }
+}

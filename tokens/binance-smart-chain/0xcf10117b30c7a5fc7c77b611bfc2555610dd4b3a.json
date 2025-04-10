@@ -1,0 +1,15 @@
+{
+  "symbol": "NOTAI",
+  "name": "NOTAI",
+  "address": "0xcf10117b30c7a5fc7c77b611bfc2555610dd4b3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50233/thumb/logo_6.png?1726596293",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcf10117b30c7a5fc7c77b611bfc2555610dd4b3a"
+  }
+}

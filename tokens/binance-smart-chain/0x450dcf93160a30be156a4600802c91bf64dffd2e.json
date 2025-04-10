@@ -1,0 +1,15 @@
+{
+  "symbol": "CORGI",
+  "name": "CorgiCoin",
+  "address": "0x450dcf93160a30be156a4600802c91bf64dffd2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16096/thumb/BMfphzgF_400x400.png?1622881650",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x450dcf93160a30be156a4600802c91bf64dffd2e"
+  }
+}

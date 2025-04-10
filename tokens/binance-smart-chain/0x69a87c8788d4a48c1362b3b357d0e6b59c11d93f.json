@@ -1,0 +1,16 @@
+{
+  "symbol": "OBI",
+  "name": "ORBOFI",
+  "address": "0x69a87c8788d4a48c1362b3b357d0e6b59c11d93f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30216/thumb/new_V_test2.png?1683626303",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbb3a8fd6ec4bf0fdc6cd2739b1e41192d12b1873",
+    "binance-smart-chain": "0x69a87c8788d4a48c1362b3b357d0e6b59c11d93f"
+  }
+}

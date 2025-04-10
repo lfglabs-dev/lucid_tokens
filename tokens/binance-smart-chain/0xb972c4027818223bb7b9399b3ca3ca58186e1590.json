@@ -1,0 +1,15 @@
+{
+  "symbol": "SUPE",
+  "name": "Supe Token",
+  "address": "0xb972c4027818223bb7b9399b3ca3ca58186e1590",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21874/thumb/nF9bWyQe_400x400.jpg?1640209950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb972c4027818223bb7b9399b3ca3ca58186e1590"
+  }
+}

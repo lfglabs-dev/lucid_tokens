@@ -1,0 +1,15 @@
+{
+  "symbol": "CATX",
+  "name": "CATX",
+  "address": "0x8d0c064ab0973fe124fa9efaad492060baacb62c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37923/thumb/CATX200200.png?1715937031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8d0c064ab0973fe124fa9efaad492060baacb62c"
+  }
+}

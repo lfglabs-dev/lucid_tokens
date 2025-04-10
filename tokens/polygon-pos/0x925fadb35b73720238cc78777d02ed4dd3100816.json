@@ -1,0 +1,16 @@
+{
+  "symbol": "AutoS",
+  "name": "AutoSingle Token",
+  "address": "0x925fadb35b73720238cc78777d02ed4dd3100816",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27083/thumb/autos.png?1661764923",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x925fadb35b73720238cc78777d02ed4dd3100816",
+    "cronos": "0xae620dc4b9b6e44fbeb4a949f63ac957cc43b5dd"
+  }
+}

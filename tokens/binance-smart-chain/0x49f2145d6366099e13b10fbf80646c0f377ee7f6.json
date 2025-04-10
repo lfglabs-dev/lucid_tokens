@@ -1,0 +1,15 @@
+{
+  "symbol": "PORTO",
+  "name": "FC Porto Fan Token",
+  "address": "0x49f2145d6366099e13b10fbf80646c0f377ee7f6",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20459/thumb/fcp.jpg?1637062333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x49f2145d6366099e13b10fbf80646c0f377ee7f6"
+  }
+}

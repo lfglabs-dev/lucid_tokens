@@ -1,0 +1,15 @@
+{
+  "symbol": "KSN",
+  "name": "KISSAN",
+  "address": "0xc8a11f433512c16ed895245f34bcc2ca44eb06bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26414/thumb/200x200-2.png?1657925697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc8a11f433512c16ed895245f34bcc2ca44eb06bd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "APRIL",
+  "name": "April Token",
+  "address": "0xbfea674ce7d16e26e39e3c088810367a708ef94c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15689/thumb/200-by-200-01.png?1621565063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbfea674ce7d16e26e39e3c088810367a708ef94c"
+  }
+}

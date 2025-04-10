@@ -1,0 +1,15 @@
+{
+  "symbol": "MMO",
+  "name": "MMOCoin",
+  "address": "0x0aa086e7a108d387de63294fe2a88b05820a9855",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4364/thumb/xWGfHzg.png?1547039713",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0aa086e7a108d387de63294fe2a88b05820a9855"
+  }
+}

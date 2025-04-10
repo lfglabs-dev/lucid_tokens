@@ -1,0 +1,15 @@
+{
+  "symbol": "GYMNET",
+  "name": "GYM NETWORK V2",
+  "address": "0x0012365f0a1e5f30a5046c680dcb21d07b15fcf7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24654/thumb/Wrq6pSQ.png?1648525258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0012365f0a1e5f30a5046c680dcb21d07b15fcf7"
+  }
+}

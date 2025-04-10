@@ -1,0 +1,15 @@
+{
+  "symbol": "wDingocoin",
+  "name": "Wrapped Dingocoin",
+  "address": "0x9b208b117b2c4f76c1534b6f006b033220a681a4",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15989/thumb/dingocoin.png?1634699256",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9b208b117b2c4f76c1534b6f006b033220a681a4"
+  }
+}

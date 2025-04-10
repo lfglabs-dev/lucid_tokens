@@ -1,0 +1,15 @@
+{
+  "symbol": "DEFIDO",
+  "name": "DeFido",
+  "address": "0x132bbda4a40d4d6288be49b637ec2c113b5d7600",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39305/thumb/DEFI200.jpg?1721636059",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x132bbda4a40d4d6288be49b637ec2c113b5d7600"
+  }
+}

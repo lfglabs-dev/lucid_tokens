@@ -1,0 +1,15 @@
+{
+  "symbol": "CLX",
+  "name": "Clanker Index",
+  "address": "0x44551ca46fa5592bb572e20043f7c3d54c85cad7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54636/thumb/clnk-icon-1.png?1740815528",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x44551ca46fa5592bb572e20043f7c3d54c85cad7"
+  }
+}

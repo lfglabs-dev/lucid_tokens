@@ -1,0 +1,15 @@
+{
+  "symbol": "Fren Pet",
+  "name": "Fren Pet",
+  "address": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33022/thumb/token.png?1700274697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105"
+  }
+}

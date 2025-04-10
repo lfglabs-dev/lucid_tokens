@@ -1,0 +1,16 @@
+{
+  "symbol": "SQUID",
+  "name": "Squid Game V2",
+  "address": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20506/thumb/squid.png?1638506382",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+    "base": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b"
+  }
+}

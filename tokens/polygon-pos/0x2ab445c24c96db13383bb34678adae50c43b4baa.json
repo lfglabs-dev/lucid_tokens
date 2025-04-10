@@ -1,0 +1,15 @@
+{
+  "symbol": "CLAY",
+  "name": "Clay",
+  "address": "0x2ab445c24c96db13383bb34678adae50c43b4baa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54183/thumb/MW-CLAYpfp_%281%29.png?1738681645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2ab445c24c96db13383bb34678adae50c43b4baa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BNKR",
+  "name": "BankrCoin",
+  "address": "0x22af33fe49fd1fa80c7149773dde5890d3c76f3b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52626/thumb/banker.png?1733818573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x22af33fe49fd1fa80c7149773dde5890d3c76f3b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ADR",
+  "name": "Adroverse Token",
+  "address": "0x36f1f32c728c3f330409ec1f0928fa3ab3c8a76f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24556/thumb/92mtj657_400x400.jpg?1648136168",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x36f1f32c728c3f330409ec1f0928fa3ab3c8a76f"
+  }
+}

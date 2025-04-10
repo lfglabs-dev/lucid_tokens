@@ -1,0 +1,15 @@
+{
+  "symbol": "$TRUST",
+  "name": "Trust Inspect",
+  "address": "0x1a2457016bee420da8bb40be029b76119847731d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54942/thumb/1000161981.png?1742635299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1a2457016bee420da8bb40be029b76119847731d"
+  }
+}

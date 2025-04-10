@@ -1,0 +1,15 @@
+{
+  "symbol": "HPAY",
+  "name": "HedgePay",
+  "address": "0xc75aa1fa199eac5adabc832ea4522cff6dfd521a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27725/thumb/200x200CG.png?1665547140",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc75aa1fa199eac5adabc832ea4522cff6dfd521a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PANANA",
+  "name": "Panana",
+  "address": "0x844c03892863b0e3e00e805e41b34527044d5c72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52672/thumb/panana_eat.png?1734017755",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x844c03892863b0e3e00e805e41b34527044d5c72"
+  }
+}

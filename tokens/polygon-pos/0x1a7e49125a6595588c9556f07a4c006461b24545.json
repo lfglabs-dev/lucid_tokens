@@ -1,0 +1,15 @@
+{
+  "symbol": "AKI",
+  "name": "Aki Protocol",
+  "address": "0x1a7e49125a6595588c9556f07a4c006461b24545",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29359/thumb/Aki_Network.png?1678263779",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1a7e49125a6595588c9556f07a4c006461b24545"
+  }
+}

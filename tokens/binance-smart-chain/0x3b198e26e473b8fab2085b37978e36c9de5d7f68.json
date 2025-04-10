@@ -1,0 +1,16 @@
+{
+  "symbol": "TIME",
+  "name": "ChronoTech Token",
+  "address": "0x3b198e26e473b8fab2085b37978e36c9de5d7f68",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/604/thumb/time-32x32.png?1627130666",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x485d17a6f1b8780392d53d64751824253011a260",
+    "binance-smart-chain": "0x3b198e26e473b8fab2085b37978e36c9de5d7f68"
+  }
+}

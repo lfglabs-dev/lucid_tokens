@@ -1,0 +1,16 @@
+{
+  "symbol": "USDV",
+  "name": "Vyvo US Dollar",
+  "address": "0xa380c0b01ad15c8cf6b46890bddab5f0868e87f3",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31718/thumb/_USDV_Solid%28200x200%29.png?1694582157",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9a5350edf28c1f93bb36d6e94b5c425fde8e222d",
+    "polygon-pos": "0xa380c0b01ad15c8cf6b46890bddab5f0868e87f3"
+  }
+}

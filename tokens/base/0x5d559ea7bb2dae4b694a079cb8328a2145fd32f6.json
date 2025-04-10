@@ -1,0 +1,15 @@
+{
+  "symbol": "OwO",
+  "name": "SoMon",
+  "address": "0x5d559ea7bb2dae4b694a079cb8328a2145fd32f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39575/thumb/0x5d559ea7bb2dae4b694a079cb8328a2145fd32f6.png?1723003348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5d559ea7bb2dae4b694a079cb8328a2145fd32f6"
+  }
+}

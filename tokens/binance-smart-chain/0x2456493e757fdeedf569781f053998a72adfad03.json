@@ -1,0 +1,15 @@
+{
+  "symbol": "DNT",
+  "name": "Definder network token",
+  "address": "0x2456493e757fdeedf569781f053998a72adfad03",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2073/thumb/ava_SN.png?1597047420",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2456493e757fdeedf569781f053998a72adfad03"
+  }
+}

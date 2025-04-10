@@ -1,0 +1,15 @@
+{
+  "symbol": "UBU",
+  "name": "Ubuntu",
+  "address": "0x78445485a8d5b3be765e3027bc336e3c272a23c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x78445485a8d5b3be765e3027bc336e3c272a23c9"
+  }
+}

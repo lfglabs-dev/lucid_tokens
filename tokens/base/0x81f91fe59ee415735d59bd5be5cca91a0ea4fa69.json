@@ -1,0 +1,15 @@
+{
+  "symbol": "FPEPE",
+  "name": "Based Father Pepe",
+  "address": "0x81f91fe59ee415735d59bd5be5cca91a0ea4fa69",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38009/thumb/logo_200x200.png?1716270878",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x81f91fe59ee415735d59bd5be5cca91a0ea4fa69"
+  }
+}

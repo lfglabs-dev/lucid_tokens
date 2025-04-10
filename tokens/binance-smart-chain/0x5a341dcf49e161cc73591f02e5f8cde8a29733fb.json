@@ -1,0 +1,15 @@
+{
+  "symbol": "RTO",
+  "name": "Reflecto",
+  "address": "0x5a341dcf49e161cc73591f02e5f8cde8a29733fb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20483/thumb/cmc-logo.png?1637117236",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5a341dcf49e161cc73591f02e5f8cde8a29733fb"
+  }
+}

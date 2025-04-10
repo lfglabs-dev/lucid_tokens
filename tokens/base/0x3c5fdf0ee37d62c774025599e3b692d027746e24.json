@@ -1,0 +1,15 @@
+{
+  "symbol": "BONKEY",
+  "name": "BONKEY",
+  "address": "0x3c5fdf0ee37d62c774025599e3b692d027746e24",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51629/thumb/nWKo5DZvrtkwwjtT7YXyYQeDstBhvwrqxdOmGmWvUNN6d_GSurf_TR1InJS8oLo2WYIJG2ZsX2Lffmr8z1bjqjygtVNcAKuMIX3TJPg65wPZepTpTQnXCXZrbA_oXuiIkzN2PU1vd1i6scKtGgJa4ffeecm1R7WzR7NX65j6JVu_ys42VMrpvNuNJ2ovRGM8sh9V-MovD8Mbs9NkaYQ_%281%29.jpg?1731664154",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3c5fdf0ee37d62c774025599e3b692d027746e24"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "YOSHI",
+  "name": "Yoshi.exchange",
+  "address": "0x4374f26f0148a6331905edf4cd33b89d8eed78d1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19355/thumb/YOSHI_200.png?1641569394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x3dc57b391262e3aae37a08d91241f9ba9d58b570",
+    "binance-smart-chain": "0x4374f26f0148a6331905edf4cd33b89d8eed78d1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MEMEX",
+  "name": "Meme Index",
+  "address": "0xb214b79eac9378a56d14d6e6d452150c80d6ad79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55142/thumb/TX8_XEQ1_400x400.jpg?1744114706",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb214b79eac9378a56d14d6e6d452150c80d6ad79"
+  }
+}

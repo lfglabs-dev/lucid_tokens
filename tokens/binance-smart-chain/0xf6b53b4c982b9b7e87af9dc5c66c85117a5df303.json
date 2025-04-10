@@ -1,0 +1,15 @@
+{
+  "symbol": "DB",
+  "name": "Denarius Binance Token",
+  "address": "0xf6b53b4c982b9b7e87af9dc5c66c85117a5df303",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/760/thumb/denarius.png?1547034506",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf6b53b4c982b9b7e87af9dc5c66c85117a5df303"
+  }
+}

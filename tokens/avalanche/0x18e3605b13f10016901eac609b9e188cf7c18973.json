@@ -1,0 +1,15 @@
+{
+  "symbol": "HEFE",
+  "name": "HEFE",
+  "address": "0x18e3605b13f10016901eac609b9e188cf7c18973",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37416/thumb/0x18e3605b13f10016901eac609b9e188cf7c18973_%281%29.png?1714376008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x18e3605b13f10016901eac609b9e188cf7c18973"
+  }
+}

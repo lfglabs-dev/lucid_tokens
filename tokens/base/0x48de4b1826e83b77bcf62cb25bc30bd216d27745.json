@@ -1,0 +1,15 @@
+{
+  "symbol": "YUKO",
+  "name": "YUKO",
+  "address": "0x48de4b1826e83b77bcf62cb25bc30bd216d27745",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51889/thumb/photo_2024-11-20_16-19-14.jpg?1732122162",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x48de4b1826e83b77bcf62cb25bc30bd216d27745"
+  }
+}

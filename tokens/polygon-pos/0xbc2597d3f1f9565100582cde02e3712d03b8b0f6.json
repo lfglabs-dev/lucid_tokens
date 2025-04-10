@@ -1,0 +1,16 @@
+{
+  "symbol": "CCAKE",
+  "name": "CheesecakeSwap Token",
+  "address": "0xbc2597d3f1f9565100582cde02e3712d03b8b0f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14547/thumb/CCAKElogo.png?1616984147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc7091aa18598b87588e37501b6ce865263cd67ce",
+    "polygon-pos": "0xbc2597d3f1f9565100582cde02e3712d03b8b0f6"
+  }
+}

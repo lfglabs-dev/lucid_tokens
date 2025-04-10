@@ -1,0 +1,16 @@
+{
+  "symbol": "METAL",
+  "name": "METAL",
+  "address": "0x200c234721b5e549c3693ccc93cf191f90dc2af9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24376/thumb/metal.png?1649571721",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x200c234721b5e549c3693ccc93cf191f90dc2af9",
+    "binance-smart-chain": "0x200c234721b5e549c3693ccc93cf191f90dc2af9"
+  }
+}

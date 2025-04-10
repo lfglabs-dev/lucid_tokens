@@ -1,0 +1,15 @@
+{
+  "symbol": "binancedog",
+  "name": "binancedog",
+  "address": "0x1c45366641014069114c78962bdc371f534bc81c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39854/thumb/binancedog.jpg?1724357980",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1c45366641014069114c78962bdc371f534bc81c"
+  }
+}

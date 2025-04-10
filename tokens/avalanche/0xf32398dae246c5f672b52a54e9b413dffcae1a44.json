@@ -1,0 +1,15 @@
+{
+  "symbol": "KACY",
+  "name": "Kassandra",
+  "address": "0xf32398dae246c5f672b52a54e9b413dffcae1a44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22918/thumb/kacy.png?1643459818",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf32398dae246c5f672b52a54e9b413dffcae1a44"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FTS",
+  "name": "FINANCIAL TRANSACTION SYSTEM",
+  "address": "0xeacd67fa73606320e6c842c05df291ca0fac4142",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38329/thumb/IMG_20240425_145138_969_-_Kammel_Kocharr.jpg?1717097240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeacd67fa73606320e6c842c05df291ca0fac4142"
+  }
+}

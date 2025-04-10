@@ -1,0 +1,15 @@
+{
+  "symbol": "APEPE",
+  "name": "Ape and Pepe",
+  "address": "0xa3f751662e282e83ec3cbc387d225ca56dd63d3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39614/thumb/APEPE_200.png?1723142351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa3f751662e282e83ec3cbc387d225ca56dd63d3a"
+  }
+}

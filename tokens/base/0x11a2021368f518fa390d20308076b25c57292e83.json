@@ -1,0 +1,16 @@
+{
+  "symbol": "HSAI",
+  "name": "HealthSci.AI",
+  "address": "0x11a2021368f518fa390d20308076b25c57292e83",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51384/thumb/logo-200.jpg?1730967315",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xaa3acc21d184cef6f7fc3385fbdb79575231afba",
+    "base": "0x11a2021368f518fa390d20308076b25c57292e83"
+  }
+}

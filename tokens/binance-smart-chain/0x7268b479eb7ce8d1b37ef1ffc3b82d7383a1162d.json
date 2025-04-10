@@ -1,0 +1,15 @@
+{
+  "symbol": "MEB",
+  "name": "Meblox Protocol",
+  "address": "0x7268b479eb7ce8d1b37ef1ffc3b82d7383a1162d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21885/thumb/create-meblox.png?1640215801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7268b479eb7ce8d1b37ef1ffc3b82d7383a1162d"
+  }
+}

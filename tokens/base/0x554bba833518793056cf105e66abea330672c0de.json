@@ -1,0 +1,21 @@
+{
+  "symbol": "MAHA",
+  "name": "MAHA.xyz",
+  "address": "0x554bba833518793056cf105e66abea330672c0de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13404/thumb/MAHA_Token.png?1625651604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x745407c86df8db893011912d3ab28e68b62e49b0",
+    "scroll": "0x6a661312938d22a2a0e27f585073e4406903990a",
+    "blast": "0x6a661312938d22a2a0e27f585073e4406903990a",
+    "binance-smart-chain": "0x6a661312938d22a2a0e27f585073e4406903990a",
+    "arbitrum-one": "0xeb99748e91afca94a6289db3b02e7ef4a8f0a22d",
+    "polygon-pos": "0xeb99748e91afca94a6289db3b02e7ef4a8f0a22d",
+    "base": "0x554bba833518793056cf105e66abea330672c0de"
+  }
+}

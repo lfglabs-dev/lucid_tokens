@@ -1,0 +1,15 @@
+{
+  "symbol": "FOUND",
+  "name": "FOUND coin",
+  "address": "0x1acbc7d9c40aa8955281ae29b581bcf002eeb4f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37892/thumb/ccfound.jpeg?1715847035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1acbc7d9c40aa8955281ae29b581bcf002eeb4f4"
+  }
+}

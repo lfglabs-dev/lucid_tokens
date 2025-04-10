@@ -1,0 +1,15 @@
+{
+  "symbol": "Mork",
+  "name": "Morkie Token",
+  "address": "0xafb755c5f2ea2aadbae693d3bf2dc2c35158dc04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38818/thumb/200.png?1719082276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xafb755c5f2ea2aadbae693d3bf2dc2c35158dc04"
+  }
+}

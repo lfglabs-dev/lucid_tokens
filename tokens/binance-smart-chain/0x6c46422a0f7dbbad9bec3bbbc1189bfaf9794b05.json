@@ -1,0 +1,15 @@
+{
+  "symbol": "LTRBT",
+  "name": "Little Rabbit",
+  "address": "0x6c46422a0f7dbbad9bec3bbbc1189bfaf9794b05",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27327/thumb/ltrbt.png?1663326133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6c46422a0f7dbbad9bec3bbbc1189bfaf9794b05"
+  }
+}

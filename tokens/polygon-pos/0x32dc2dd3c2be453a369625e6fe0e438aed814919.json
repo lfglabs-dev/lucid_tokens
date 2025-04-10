@@ -1,0 +1,16 @@
+{
+  "symbol": "fxKEY",
+  "name": "SelfKey (FXERC20)",
+  "address": "0x32dc2dd3c2be453a369625e6fe0e438aed814919",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2034/thumb/selfkey.png?1548608934",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+    "polygon-pos": "0x32dc2dd3c2be453a369625e6fe0e438aed814919"
+  }
+}

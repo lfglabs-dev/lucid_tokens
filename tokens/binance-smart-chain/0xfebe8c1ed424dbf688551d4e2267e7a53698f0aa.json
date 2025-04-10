@@ -1,0 +1,15 @@
+{
+  "symbol": "VINU",
+  "name": "Vita Inu",
+  "address": "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20594/thumb/vita-inu-head-wallet-icon-transparent.png?1637286122",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa"
+  }
+}

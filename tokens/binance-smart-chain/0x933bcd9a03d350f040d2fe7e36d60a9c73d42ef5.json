@@ -1,0 +1,15 @@
+{
+  "symbol": "SNPS",
+  "name": "SNPS Token",
+  "address": "0x933bcd9a03d350f040d2fe7e36d60a9c73d42ef5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30719/thumb/snaps.png?1686559255",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x933bcd9a03d350f040d2fe7e36d60a9c73d42ef5"
+  }
+}

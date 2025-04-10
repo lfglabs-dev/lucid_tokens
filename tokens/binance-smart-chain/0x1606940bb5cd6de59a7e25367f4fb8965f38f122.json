@@ -1,0 +1,15 @@
+{
+  "symbol": "AQUAGOAT",
+  "name": "AquaGoat",
+  "address": "0x1606940bb5cd6de59a7e25367f4fb8965f38f122",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18676/thumb/ag.png?1634864671",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1606940bb5cd6de59a7e25367f4fb8965f38f122"
+  }
+}

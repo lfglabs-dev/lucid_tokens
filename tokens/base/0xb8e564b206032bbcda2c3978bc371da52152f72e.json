@@ -1,0 +1,15 @@
+{
+  "symbol": "BASEX",
+  "name": "Base Terminal",
+  "address": "0xb8e564b206032bbcda2c3978bc371da52152f72e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50300/thumb/Base_Terminal_Logo_200x200.png?1727021406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb8e564b206032bbcda2c3978bc371da52152f72e"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "EURe",
+  "name": "Monerium EURe",
+  "address": "0x3ff47c5bf409c86533fe1f4907524d304062428d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x39b8b6385416f4ca36a20319f70d28621895279d",
+    "polygon-pos": "0xe0aea583266584dafbb3f9c3211d5588c73fea8d",
+    "xdai": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "arbitrum-one": "0x0c06ccf38114ddfc35e07427b9424adcca9f44f8",
+    "linea": "0x3ff47c5bf409c86533fe1f4907524d304062428d",
+    "scroll": "0xd7bb130a48595fcdf9480e36c1ae97ff2938ac21"
+  }
+}

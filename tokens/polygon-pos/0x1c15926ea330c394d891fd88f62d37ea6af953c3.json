@@ -1,0 +1,15 @@
+{
+  "symbol": "AFFI",
+  "name": "Affi Network",
+  "address": "0x1c15926ea330c394d891fd88f62d37ea6af953c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37116/thumb/Affi_Logo_X.png?1713330746",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x1c15926ea330c394d891fd88f62d37ea6af953c3"
+  }
+}

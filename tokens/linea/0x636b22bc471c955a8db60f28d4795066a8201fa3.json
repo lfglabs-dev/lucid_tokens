@@ -1,0 +1,15 @@
+{
+  "symbol": "UNI",
+  "name": "Uniswap",
+  "address": "0x636b22bc471c955a8db60f28d4795066a8201fa3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50195/thumb/uni.png?1726227605",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x636b22bc471c955a8db60f28d4795066a8201fa3"
+  }
+}

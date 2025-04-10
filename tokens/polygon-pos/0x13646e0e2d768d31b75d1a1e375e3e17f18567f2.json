@@ -1,0 +1,15 @@
+{
+  "symbol": "NWS",
+  "name": "Nodewaves",
+  "address": "0x13646e0e2d768d31b75d1a1e375e3e17f18567f2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33160/thumb/logo-4.png?1700829948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x13646e0e2d768d31b75d1a1e375e3e17f18567f2"
+  }
+}

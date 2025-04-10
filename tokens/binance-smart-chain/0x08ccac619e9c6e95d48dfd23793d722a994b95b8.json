@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGE-1",
+  "name": "Doge-1 Mission to the moon",
+  "address": "0x08ccac619e9c6e95d48dfd23793d722a994b95b8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23778/thumb/IMMAGINE-PER-CMC.png?1645434864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x08ccac619e9c6e95d48dfd23793d722a994b95b8"
+  }
+}

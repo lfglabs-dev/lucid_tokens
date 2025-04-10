@@ -1,0 +1,15 @@
+{
+  "symbol": "BWORM",
+  "name": "BrainWorms",
+  "address": "0x506beb7965fc7053059006c7ab4c62c02c2d989f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39192/thumb/black_square_transparent_200px.png?1720990715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x506beb7965fc7053059006c7ab4c62c02c2d989f"
+  }
+}

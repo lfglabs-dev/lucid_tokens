@@ -1,0 +1,15 @@
+{
+  "symbol": "CAT",
+  "name": "Simons Cat",
+  "address": "0x6894cde390a3f51155ea41ed24a33a4827d3063d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39765/thumb/Simon's_Cat_Logo.png?1724017505",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6894cde390a3f51155ea41ed24a33a4827d3063d"
+  }
+}

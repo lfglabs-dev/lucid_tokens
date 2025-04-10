@@ -1,0 +1,15 @@
+{
+  "symbol": "USBT",
+  "name": "UniversalBlockchain",
+  "address": "0x43767d226ef1f5337d10382cd19d64b60a30c5fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40152/thumb/photo_2024-08-26_12.58.04.jpeg?1726072854",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x43767d226ef1f5337d10382cd19d64b60a30c5fd"
+  }
+}

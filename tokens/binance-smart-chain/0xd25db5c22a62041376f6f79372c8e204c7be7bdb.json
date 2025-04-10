@@ -1,0 +1,15 @@
+{
+  "symbol": "TBX",
+  "name": "TurboX",
+  "address": "0xd25db5c22a62041376f6f79372c8e204c7be7bdb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39661/thumb/Logo_TBX.png?1723525260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd25db5c22a62041376f6f79372c8e204c7be7bdb"
+  }
+}

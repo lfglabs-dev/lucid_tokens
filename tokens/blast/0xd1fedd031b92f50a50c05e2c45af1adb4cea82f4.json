@@ -1,0 +1,15 @@
+{
+  "symbol": "BLADE",
+  "name": "Blade",
+  "address": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4"
+  }
+}

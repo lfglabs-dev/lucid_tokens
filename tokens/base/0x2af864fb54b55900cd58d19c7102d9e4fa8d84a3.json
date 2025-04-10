@@ -1,0 +1,15 @@
+{
+  "symbol": "GB",
+  "name": "Grand",
+  "address": "0x2af864fb54b55900cd58d19c7102d9e4fa8d84a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33257/thumb/GB_LOGO.png?1701318050",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2af864fb54b55900cd58d19c7102d9e4fa8d84a3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KIMBO",
+  "name": "Kimbo",
+  "address": "0x184ff13b3ebcb25be44e860163a5d8391dd568c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33793/thumb/kimbo.jpg?1702989206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x184ff13b3ebcb25be44e860163a5d8391dd568c1"
+  }
+}

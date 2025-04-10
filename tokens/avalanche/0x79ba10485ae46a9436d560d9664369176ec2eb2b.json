@@ -1,0 +1,15 @@
+{
+  "symbol": "WORM",
+  "name": "chikn worm",
+  "address": "0x79ba10485ae46a9436d560d9664369176ec2eb2b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28497/thumb/Worm_Icon_01_1340.png?1671109415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x79ba10485ae46a9436d560d9664369176ec2eb2b"
+  }
+}

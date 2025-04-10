@@ -1,0 +1,15 @@
+{
+  "symbol": "gcat",
+  "name": "Giga Cat",
+  "address": "0xe4fc328ae212232efc5f5dd0e0b1537cd055d715",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36729/thumb/gigacatpfp.png?1712151034",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe4fc328ae212232efc5f5dd0e0b1537cd055d715"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PALM",
+  "name": "PalmPay",
+  "address": "0xf85be0902a16fb87d447021d6e4517b38a15087d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28216/thumb/logoGreen_%282%29.png?1668428951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf85be0902a16fb87d447021d6e4517b38a15087d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "OMOM",
+  "name": "OMOM",
+  "address": "0xd93a10aaf86c18333e34e1c2eb628ef0d8215de0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50748/thumb/cropped-Square.png?1728956047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd93a10aaf86c18333e34e1c2eb628ef0d8215de0"
+  }
+}

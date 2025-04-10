@@ -1,0 +1,15 @@
+{
+  "symbol": "BAT",
+  "name": "BATIC",
+  "address": "0xd9a1070f832cc02ff9d839500eef6e8c64983726",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50675/thumb/batic.jpg?1728693607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd9a1070f832cc02ff9d839500eef6e8c64983726"
+  }
+}

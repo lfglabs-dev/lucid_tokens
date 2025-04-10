@@ -1,0 +1,15 @@
+{
+  "symbol": "GNIMB",
+  "name": "Nimbus Governance Token",
+  "address": "0x99c486b908434ae4adf567e9990a929854d0c955",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31853/thumb/GNIMB_Token_Logo.png?1695286832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x99c486b908434ae4adf567e9990a929854d0c955"
+  }
+}

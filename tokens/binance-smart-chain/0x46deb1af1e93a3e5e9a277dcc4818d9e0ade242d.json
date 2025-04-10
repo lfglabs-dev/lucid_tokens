@@ -1,0 +1,17 @@
+{
+  "symbol": "Skibidi",
+  "name": "Skibidi Dop Dop",
+  "address": "0x46deb1af1e93a3e5e9a277dcc4818d9e0ade242d",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52594/thumb/skibidi-logo-coingecko.png?1733727963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfab13732ae25267a5f47f6f31660c9a82b5fa9f1",
+    "binance-smart-chain": "0x46deb1af1e93a3e5e9a277dcc4818d9e0ade242d",
+    "base": "0xf09930625447d6a5f8e1217edb5649c7314e4e96"
+  }
+}

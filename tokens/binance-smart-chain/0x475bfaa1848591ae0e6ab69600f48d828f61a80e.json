@@ -1,0 +1,15 @@
+{
+  "symbol": "DOME",
+  "name": "Everdome",
+  "address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23267/thumb/Ix-ms0fq_400x400.jpg?1643414048",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e"
+  }
+}

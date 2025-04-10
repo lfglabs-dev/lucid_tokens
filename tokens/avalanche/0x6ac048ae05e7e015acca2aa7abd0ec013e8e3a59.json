@@ -1,0 +1,22 @@
+{
+  "symbol": "BSKT",
+  "name": "BSKT",
+  "address": "0x6ac048ae05e7e015acca2aa7abd0ec013e8e3a59",
+  "decimals": 5,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34661/thumb/BSKT_Logo.png?1705636891",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "acala": "0xdd10e83916878aa18e26e0ad6d3432f0df7d310e",
+    "ethereum": "0xbc0899e527007f1b8ced694508fcb7a2b9a46f53",
+    "binance-smart-chain": "0xaf42a5df3c1c1427da8fc0326bd7b030a9367e78",
+    "fantom": "0x646481dbd76264f817d6588e289bf08da38a571e",
+    "avalanche": "0x6ac048ae05e7e015acca2aa7abd0ec013e8e3a59",
+    "arbitrum-one": "0xa3210cd727fe6daf8386af5623ba51a367e46263",
+    "polygon-pos": "0x9a6a40cdf21a0af417f1b815223fd92c85636c58",
+    "base": "0x7ccdba6198db389cf37b714fd6573b73f3670236"
+  }
+}

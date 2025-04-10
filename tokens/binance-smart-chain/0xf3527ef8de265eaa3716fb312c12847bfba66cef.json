@@ -1,0 +1,17 @@
+{
+  "symbol": "USDX",
+  "name": "USDX",
+  "address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50360/thumb/USDX_100px.png?1727322749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
+    "ethereum": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
+    "arbitrum-one": "0xf3527ef8de265eaa3716fb312c12847bfba66cef"
+  }
+}

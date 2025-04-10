@@ -1,0 +1,15 @@
+{
+  "symbol": "AQLA",
+  "name": "Aqualibre",
+  "address": "0xdbe125089d0752ef458c0685436ace93a7f1f8ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35026/thumb/aq1.png?1707147950",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdbe125089d0752ef458c0685436ace93a7f1f8ca"
+  }
+}

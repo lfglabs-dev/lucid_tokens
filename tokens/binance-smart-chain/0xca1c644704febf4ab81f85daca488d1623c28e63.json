@@ -1,0 +1,15 @@
+{
+  "symbol": "ABRA",
+  "name": "ABRA",
+  "address": "0xca1c644704febf4ab81f85daca488d1623c28e63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33702/thumb/cadabra-logo.png?1702826391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xca1c644704febf4ab81f85daca488d1623c28e63"
+  }
+}

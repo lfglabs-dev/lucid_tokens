@@ -1,0 +1,15 @@
+{
+  "symbol": "wBaseDOGE",
+  "name": "Wrapped BaseDOGE",
+  "address": "0x373504da48418c67e6fcd071f33cb0b3b47613c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37079/thumb/coingecko_200x200_logo_basedoge.png?1713249900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x373504da48418c67e6fcd071f33cb0b3b47613c7"
+  }
+}

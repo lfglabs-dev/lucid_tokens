@@ -1,0 +1,15 @@
+{
+  "symbol": "TSO",
+  "name": "Thesirion",
+  "address": "0x7772b39661b87a98521193b9f18f87cfabe401fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55110/thumb/ThesirionLogo200x200.png?1743754699",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7772b39661b87a98521193b9f18f87cfabe401fa"
+  }
+}

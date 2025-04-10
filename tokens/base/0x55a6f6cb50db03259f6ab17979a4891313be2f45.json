@@ -1,0 +1,15 @@
+{
+  "symbol": "DILIGENT",
+  "name": "DILIGENT PEPE",
+  "address": "0x55a6f6cb50db03259f6ab17979a4891313be2f45",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37711/thumb/photo_2024-04-09_12-21-44.png?1715275436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x55a6f6cb50db03259f6ab17979a4891313be2f45"
+  }
+}

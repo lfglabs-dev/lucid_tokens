@@ -1,0 +1,15 @@
+{
+  "symbol": "BLEU",
+  "name": "LeBleuElefant",
+  "address": "0xbf4db8b7a679f89ef38125d5f84dd1446af2ea3b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37811/thumb/b.png?1715597915",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbf4db8b7a679f89ef38125d5f84dd1446af2ea3b"
+  }
+}

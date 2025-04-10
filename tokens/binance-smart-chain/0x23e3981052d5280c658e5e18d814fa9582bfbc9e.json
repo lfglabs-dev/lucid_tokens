@@ -1,0 +1,15 @@
+{
+  "symbol": "YCT",
+  "name": "YouClout",
+  "address": "0x23e3981052d5280c658e5e18d814fa9582bfbc9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18808/thumb/7W5vEIz-_400x400.jpg?1633480030",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x23e3981052d5280c658e5e18d814fa9582bfbc9e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BMX",
+  "name": "BitMinerX",
+  "address": "0x9200ce9cc03307e0d3a8da80dd0d416aea3e7a8b",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34977/thumb/BitMinerX.png?1706855875",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9200ce9cc03307e0d3a8da80dd0d416aea3e7a8b"
+  }
+}

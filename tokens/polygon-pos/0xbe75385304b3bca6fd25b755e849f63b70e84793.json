@@ -1,0 +1,15 @@
+{
+  "symbol": "SWIO",
+  "name": "Second World Games",
+  "address": "0xbe75385304b3bca6fd25b755e849f63b70e84793",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37840/thumb/swio_logo.png?1715743824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xbe75385304b3bca6fd25b755e849f63b70e84793"
+  }
+}

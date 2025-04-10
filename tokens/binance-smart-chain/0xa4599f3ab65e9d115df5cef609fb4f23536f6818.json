@@ -1,0 +1,15 @@
+{
+  "symbol": "CCC",
+  "name": "Candide Coin",
+  "address": "0xa4599f3ab65e9d115df5cef609fb4f23536f6818",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40038/thumb/file.png?1725391353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa4599f3ab65e9d115df5cef609fb4f23536f6818"
+  }
+}

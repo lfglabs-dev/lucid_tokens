@@ -1,0 +1,16 @@
+{
+  "symbol": "JUSD",
+  "name": "JUSD Stable Token",
+  "address": "0x0ba8a6ce46d369d779299dedade864318097b703",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32302/thumb/200x200.png?1697186770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbf3950db0522a7f5caa107d4cbbbd84de9e047e2",
+    "polygon-pos": "0x0ba8a6ce46d369d779299dedade864318097b703"
+  }
+}

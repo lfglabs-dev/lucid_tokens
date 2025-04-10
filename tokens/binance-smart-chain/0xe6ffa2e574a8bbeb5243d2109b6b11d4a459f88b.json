@@ -1,0 +1,15 @@
+{
+  "symbol": "HIP",
+  "name": "Hippo Token",
+  "address": "0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17386/thumb/hip.PNG?1627520087",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b"
+  }
+}

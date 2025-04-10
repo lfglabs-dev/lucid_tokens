@@ -1,0 +1,15 @@
+{
+  "symbol": "KOJI v2",
+  "name": "koji.earth",
+  "address": "0x7eb567f5c781ee8e47c7100dc5046955503fc26a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16124/thumb/koji-token-200.png?1623039354",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7eb567f5c781ee8e47c7100dc5046955503fc26a"
+  }
+}

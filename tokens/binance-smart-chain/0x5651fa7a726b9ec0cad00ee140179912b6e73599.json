@@ -1,0 +1,15 @@
+{
+  "symbol": "OORT",
+  "name": "OORT",
+  "address": "0x5651fa7a726b9ec0cad00ee140179912b6e73599",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34460/thumb/Token_Logo_Transparent_200x200.png?1704957692",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5651fa7a726b9ec0cad00ee140179912b6e73599"
+  }
+}

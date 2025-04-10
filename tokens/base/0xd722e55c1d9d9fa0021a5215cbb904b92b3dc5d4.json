@@ -1,0 +1,18 @@
+{
+  "symbol": "RDNT",
+  "name": "Radiant",
+  "address": "0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26536/thumb/Radiant-Logo-200x200.png?1658715865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "ethereum": "0x137ddb47ee24eaa998a535ab00378d6bfa84f893",
+    "binance-smart-chain": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df",
+    "base": "0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4"
+  }
+}

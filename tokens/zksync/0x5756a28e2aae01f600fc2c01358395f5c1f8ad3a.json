@@ -1,0 +1,15 @@
+{
+  "symbol": "VS",
+  "name": "veSync",
+  "address": "0x5756a28e2aae01f600fc2c01358395f5c1f8ad3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30611/thumb/veSync-Logo-PNG-200X200.png?1685691394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x5756a28e2aae01f600fc2c01358395f5c1f8ad3a"
+  }
+}

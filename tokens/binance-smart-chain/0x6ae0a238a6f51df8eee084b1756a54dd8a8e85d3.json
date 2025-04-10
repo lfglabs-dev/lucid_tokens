@@ -1,0 +1,15 @@
+{
+  "symbol": "AMT",
+  "name": "AutoMiningToken",
+  "address": "0x6ae0a238a6f51df8eee084b1756a54dd8a8e85d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28918/thumb/AMT_-_Logo.png?1675392338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6ae0a238a6f51df8eee084b1756a54dd8a8e85d3"
+  }
+}

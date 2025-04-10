@@ -1,0 +1,16 @@
+{
+  "symbol": "CHRP",
+  "name": "Chirpley Token",
+  "address": "0xed00fc7d48b57b81fe65d1ce71c0985e4cf442cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27243/thumb/Chirpley-Logo_200x200.png?1662882824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xed00fc7d48b57b81fe65d1ce71c0985e4cf442cb",
+    "ethereum": "0x70bc0dc6414eb8974bc70685f798838a87d8cce4"
+  }
+}

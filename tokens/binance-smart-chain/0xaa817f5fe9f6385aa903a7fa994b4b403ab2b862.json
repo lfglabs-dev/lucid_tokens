@@ -1,0 +1,15 @@
+{
+  "symbol": "BNX",
+  "name": "BondX",
+  "address": "0xaa817f5fe9f6385aa903a7fa994b4b403ab2b862",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54548/thumb/bondx-logo.jpg?1740238229",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaa817f5fe9f6385aa903a7fa994b4b403ab2b862"
+  }
+}

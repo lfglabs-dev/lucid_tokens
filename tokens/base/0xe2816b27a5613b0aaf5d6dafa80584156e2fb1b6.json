@@ -1,0 +1,16 @@
+{
+  "symbol": "JAIHOZ",
+  "name": "JAIHOZ by Virtuals",
+  "address": "0xe2816b27a5613b0aaf5d6dafa80584156e2fb1b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53495/thumb/jaihoz.jpg?1736508283",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe2816b27a5613b0aaf5d6dafa80584156e2fb1b6",
+    "ronin": "0xf299c912186195d02111d22c3ab863650256e05f"
+  }
+}

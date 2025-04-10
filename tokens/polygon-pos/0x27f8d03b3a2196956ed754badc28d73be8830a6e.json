@@ -1,0 +1,15 @@
+{
+  "symbol": "amDAI",
+  "name": "Aave Matic Market DAI",
+  "address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17251/thumb/amDAI_2x.png?1626942084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x27f8d03b3a2196956ed754badc28d73be8830a6e"
+  }
+}

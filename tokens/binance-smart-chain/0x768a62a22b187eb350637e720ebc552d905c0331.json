@@ -1,0 +1,15 @@
+{
+  "symbol": "YMII",
+  "name": "Young Mids Inspired",
+  "address": "0x768a62a22b187eb350637e720ebc552d905c0331",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32560/thumb/1000082100.jpg?1698545207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x768a62a22b187eb350637e720ebc552d905c0331"
+  }
+}

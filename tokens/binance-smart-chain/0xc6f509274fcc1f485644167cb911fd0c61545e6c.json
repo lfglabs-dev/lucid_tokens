@@ -1,0 +1,15 @@
+{
+  "symbol": "OBS",
+  "name": "Obsidium",
+  "address": "0xc6f509274fcc1f485644167cb911fd0c61545e6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19499/thumb/obs.png?1638344944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc6f509274fcc1f485644167cb911fd0c61545e6c"
+  }
+}

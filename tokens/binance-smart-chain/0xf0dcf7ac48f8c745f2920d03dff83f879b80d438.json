@@ -1,0 +1,15 @@
+{
+  "symbol": "GAMI",
+  "name": "Gami Token",
+  "address": "0xf0dcf7ac48f8c745f2920d03dff83f879b80d438",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24482/thumb/IMG_20220319_170534_629.jpg?1647822338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf0dcf7ac48f8c745f2920d03dff83f879b80d438"
+  }
+}

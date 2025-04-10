@@ -1,0 +1,15 @@
+{
+  "symbol": "MYST",
+  "name": "MyStandard",
+  "address": "0x0256b279d973c8d687264ac3eb36be09232d4474",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52890/thumb/FUndable_myst_logo.png?1734604348",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x0256b279d973c8d687264ac3eb36be09232d4474"
+  }
+}

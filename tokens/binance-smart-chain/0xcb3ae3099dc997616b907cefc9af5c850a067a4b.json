@@ -1,0 +1,15 @@
+{
+  "symbol": "EMOJI",
+  "name": "MOMOJI",
+  "address": "0xcb3ae3099dc997616b907cefc9af5c850a067a4b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34600/thumb/photo_2024-01-17_00.25.29-remove_%281%29.png?1705486769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcb3ae3099dc997616b907cefc9af5c850a067a4b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "TST",
+  "name": "Test",
+  "address": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54274/thumb/Test.png?1738997629",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429"
+  }
+}

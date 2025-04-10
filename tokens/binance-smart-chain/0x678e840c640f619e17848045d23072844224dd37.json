@@ -1,0 +1,16 @@
+{
+  "symbol": "CRTS",
+  "name": "Cratos BEP20",
+  "address": "0x678e840c640f619e17848045d23072844224dd37",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17322/thumb/cratos.png?1627301460",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x678e840c640f619e17848045d23072844224dd37",
+    "binance-smart-chain": "0x678e840c640f619e17848045d23072844224dd37"
+  }
+}

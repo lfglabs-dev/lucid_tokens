@@ -1,0 +1,16 @@
+{
+  "symbol": "BLOCK",
+  "name": "Blockasset",
+  "address": "0xbc7a566b85ef73f935e640a06b5a8b031cd975df",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21332/thumb/Blockasset-Logo-Symbol.png?1648442722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "chiliz": "0x33e5b3e24501774598367bc0832b52787ac39ca5",
+    "binance-smart-chain": "0xbc7a566b85ef73f935e640a06b5a8b031cd975df"
+  }
+}

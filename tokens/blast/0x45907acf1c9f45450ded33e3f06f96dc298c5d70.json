@@ -1,0 +1,18 @@
+{
+  "symbol": "MELI.d",
+  "name": "Mercado Libre, Inc - Dinari",
+  "address": "0x45907acf1c9f45450ded33e3f06f96dc298c5d70",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54363/thumb/d-token-200.png?1739401339",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x41c9954ff544c2376385afc15d11d9bcfac777ab",
+    "ethereum": "0x52bd2411f090af9b1fc688fcf3c4242ab0e7ddaf",
+    "blast": "0x45907acf1c9f45450ded33e3f06f96dc298c5d70",
+    "base": "0xcff62955b5fcd043ebc177d02b6723017a886076"
+  }
+}

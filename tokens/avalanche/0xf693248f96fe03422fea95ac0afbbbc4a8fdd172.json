@@ -1,0 +1,15 @@
+{
+  "symbol": "TUS",
+  "name": "Treasure Under Sea",
+  "address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20012/thumb/img-tus.png?1636378482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172"
+  }
+}

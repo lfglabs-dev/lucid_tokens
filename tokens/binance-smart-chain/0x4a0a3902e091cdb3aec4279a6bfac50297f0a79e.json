@@ -1,0 +1,16 @@
+{
+  "symbol": "VERA",
+  "name": "Vera",
+  "address": "0x4a0a3902e091cdb3aec4279a6bfac50297f0a79e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18519/thumb/JJXTVFOE_400x400.png?1632273174",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+    "binance-smart-chain": "0x4a0a3902e091cdb3aec4279a6bfac50297f0a79e"
+  }
+}

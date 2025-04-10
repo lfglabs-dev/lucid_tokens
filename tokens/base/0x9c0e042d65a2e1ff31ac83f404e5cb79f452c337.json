@@ -1,0 +1,15 @@
+{
+  "symbol": "uAPT",
+  "name": "Aptos (Universal)",
+  "address": "0x9c0e042d65a2e1ff31ac83f404e5cb79f452c337",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50646/thumb/UA-APTOS-PAD_1.png?1728579627",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9c0e042d65a2e1ff31ac83f404e5cb79f452c337"
+  }
+}

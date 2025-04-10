@@ -1,0 +1,15 @@
+{
+  "symbol": "SANINU",
+  "name": "Santa Inu",
+  "address": "0x4d496efc21754481fe7a9f3f0f758785ade8e1d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20647/thumb/wzP7T0v1_400x400.jpg?1637527137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4d496efc21754481fe7a9f3f0f758785ade8e1d3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AVC",
+  "name": "AVC",
+  "address": "0xd34984d7bff492dc3b2336eabd1758ce16ddfc2d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52785/thumb/altervesegame.png?1734289151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd34984d7bff492dc3b2336eabd1758ce16ddfc2d"
+  }
+}

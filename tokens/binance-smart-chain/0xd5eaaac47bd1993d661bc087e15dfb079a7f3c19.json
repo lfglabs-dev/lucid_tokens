@@ -1,0 +1,15 @@
+{
+  "symbol": "KOMA",
+  "name": "Koma Inu",
+  "address": "0xd5eaaac47bd1993d661bc087e15dfb079a7f3c19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50902/thumb/IMG_7580.jpeg?1729520086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd5eaaac47bd1993d661bc087e15dfb079a7f3c19"
+  }
+}

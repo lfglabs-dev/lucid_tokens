@@ -1,0 +1,15 @@
+{
+  "symbol": "BB",
+  "name": "BB Gaming",
+  "address": "0x688ec465111ed639267cb17c47e790c9cc7279c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24616/thumb/bb.png?1648375444",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x688ec465111ed639267cb17c47e790c9cc7279c1"
+  }
+}

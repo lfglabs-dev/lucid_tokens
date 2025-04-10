@@ -1,0 +1,15 @@
+{
+  "symbol": "EAPE",
+  "name": "EraApe ",
+  "address": "0x2e2992688ee4b2b7229118f2f4cfd9b8ab13c520",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33130/thumb/eraape.logo.png?1700796461",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2e2992688ee4b2b7229118f2f4cfd9b8ab13c520"
+  }
+}

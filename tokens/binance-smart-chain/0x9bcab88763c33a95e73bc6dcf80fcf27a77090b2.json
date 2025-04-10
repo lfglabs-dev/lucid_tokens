@@ -1,0 +1,15 @@
+{
+  "symbol": "VICS",
+  "name": "RoboFi Token",
+  "address": "0x9bcab88763c33a95e73bc6dcf80fcf27a77090b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17582/thumb/s6cPN83.jpeg?1628562295",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9bcab88763c33a95e73bc6dcf80fcf27a77090b2"
+  }
+}

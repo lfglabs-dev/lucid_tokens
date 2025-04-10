@@ -1,0 +1,15 @@
+{
+  "symbol": "SPN",
+  "name": "Sapiens AI",
+  "address": "0x035098c2a3bea5e03b1e08e7140a5369d47bd349",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38758/thumb/SP_Display_picture_gradient.png?1718736657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x035098c2a3bea5e03b1e08e7140a5369d47bd349"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "REBD",
+  "name": "Reborn dollar",
+  "address": "0x4b497a84fe1b0df682425799c0580355b0dc05b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51051/thumb/Reborn_Dollar.jpg?1729871821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4b497a84fe1b0df682425799c0580355b0dc05b8"
+  }
+}

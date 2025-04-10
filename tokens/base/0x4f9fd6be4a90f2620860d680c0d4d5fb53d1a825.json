@@ -1,0 +1,15 @@
+{
+  "symbol": "AIXBT",
+  "name": "aixbt by Virtuals",
+  "address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51784/thumb/3.png?1731981138",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825"
+  }
+}

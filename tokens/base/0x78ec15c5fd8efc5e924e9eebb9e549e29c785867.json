@@ -1,0 +1,15 @@
+{
+  "symbol": "TORUS",
+  "name": "Torus",
+  "address": "0x78ec15c5fd8efc5e924e9eebb9e549e29c785867",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53678/thumb/Torus.jpg?1737010506",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x78ec15c5fd8efc5e924e9eebb9e549e29c785867"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "RAIN",
+  "name": "Precipitate.AI",
+  "address": "0x1f1aa4d239002bb818536c95e9b762a1fc8484c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32405/thumb/bluedrop_200-removebg-preview.png?1698056874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe3944ab788a60ca266f1eec3c26925b95f6370ad",
+    "base": "0x1f1aa4d239002bb818536c95e9b762a1fc8484c1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "ATOM",
+  "name": "Cosmos Token",
+  "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1481/thumb/cosmos_hub.png?1555657960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "evmos": "0xc5e00d3b04563950941f7137b5afa3a534f0d6d6",
+    "canto": "0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
+    "kava": "0x15932e26f5bd4923d46a2b205191c4b5d5f43fe3",
+    "binance-smart-chain": "0x0eb3a705fc54725037cc9e008bdede697f62f335"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "wSWIFT",
+  "name": "SwiftCash Team Wrapped SWIFT",
+  "address": "0x99945f484ebc48f5307cc00cf8dcf8d6d3d4b017",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7030/thumb/swiftcash.png?1557887415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x99945f484ebc48f5307cc00cf8dcf8d6d3d4b017"
+  }
+}

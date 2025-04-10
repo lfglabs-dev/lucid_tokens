@@ -1,0 +1,17 @@
+{
+  "symbol": "NSTR",
+  "name": "Nostra",
+  "address": "0x08d7ea3c148672c4b03999eb0d0467733da2db6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28282/thumb/Nostra_200x200.png?1669978422",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x610dbd98a28ebba525e9926b6aaf88f9159edbfd",
+    "arbitrum-one": "0x6d7187220f769bde541ff51dd37ee07416f861d2",
+    "base": "0x08d7ea3c148672c4b03999eb0d0467733da2db6a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XPX",
+  "name": "XPX",
+  "address": "0x6f3aaf802f57d045efdd2ac9c06d8879305542af",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3735/thumb/proximax.png?1548332126",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6f3aaf802f57d045efdd2ac9c06d8879305542af"
+  }
+}

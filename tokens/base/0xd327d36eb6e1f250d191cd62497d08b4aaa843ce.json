@@ -1,0 +1,15 @@
+{
+  "symbol": "FOMO",
+  "name": "Father Of Meme: Origin",
+  "address": "0xd327d36eb6e1f250d191cd62497d08b4aaa843ce",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37172/thumb/fomobase_%281%29.jpg?1713508327",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd327d36eb6e1f250d191cd62497d08b4aaa843ce"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KRD",
+  "name": "Krypton DAO",
+  "address": "0xb020805e0bc7f0e353d1343d67a239f417d57bbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25467/thumb/krd.png?1651915442",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb020805e0bc7f0e353d1343d67a239f417d57bbf"
+  }
+}

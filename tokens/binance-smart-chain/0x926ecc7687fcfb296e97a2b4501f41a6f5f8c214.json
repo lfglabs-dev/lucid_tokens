@@ -1,0 +1,15 @@
+{
+  "symbol": "BRN",
+  "name": "BRN Metaverse",
+  "address": "0x926ecc7687fcfb296e97a2b4501f41a6f5f8c214",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25363/thumb/brn.png?1651316601",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x926ecc7687fcfb296e97a2b4501f41a6f5f8c214"
+  }
+}

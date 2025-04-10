@@ -1,0 +1,17 @@
+{
+  "symbol": "CYFM",
+  "name": "CyberFM Radio",
+  "address": "0x9001fd53504f7bf253296cffadf5b6030cd61abb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5476/thumb/cyberfm.png?1547041216",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82",
+    "binance-smart-chain": "0x9001fd53504f7bf253296cffadf5b6030cd61abb",
+    "polygon-pos": "0xda5949544aaf6124d06f398bfde4c86cc33b0ee7"
+  }
+}

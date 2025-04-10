@@ -1,0 +1,18 @@
+{
+  "symbol": "CSCO.d",
+  "name": "Cisco Systems, Inc. Common Stock (DE) - Dinari",
+  "address": "0x341c9b4e5566a2ae22a337c84e3c006064731925",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x337842843512192b798a5592053ce8e2245651f8",
+    "ethereum": "0x0a27c31f087cd3d30cdad339731bede4194531a4",
+    "blast": "0x4040fe823164384d2b719546557f01136990395b",
+    "base": "0x341c9b4e5566a2ae22a337c84e3c006064731925"
+  }
+}

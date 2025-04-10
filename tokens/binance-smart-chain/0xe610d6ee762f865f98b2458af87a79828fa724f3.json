@@ -1,0 +1,15 @@
+{
+  "symbol": "TRRXITTE",
+  "name": "TRRXITTE International",
+  "address": "0xe610d6ee762f865f98b2458af87a79828fa724f3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13452/thumb/TRRXITTE_Int..png?1696513215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe610d6ee762f865f98b2458af87a79828fa724f3"
+  }
+}

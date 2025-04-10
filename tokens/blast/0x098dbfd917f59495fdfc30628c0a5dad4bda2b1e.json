@@ -1,0 +1,18 @@
+{
+  "symbol": "ETHE.d",
+  "name": "Grayscale Ethereum Trust (ETH) - Dinari",
+  "address": "0x098dbfd917f59495fdfc30628c0a5dad4bda2b1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53949/thumb/d-token-200.png?1737788495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4cb894d1a5fc353ec18ba50cb087b88f6f73121f",
+    "ethereum": "0x4e4016eb5014468f3dba5883c70f9997026ea11e",
+    "blast": "0x098dbfd917f59495fdfc30628c0a5dad4bda2b1e",
+    "base": "0x5aa9bd9364cc3644bb7f35f092283dae7fd17e11"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "fool",
+  "name": "fool",
+  "address": "0xf26d362a14399adabd5d2dfbbb876039529165d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40033/thumb/FOOL.png?1725363783",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf26d362a14399adabd5d2dfbbb876039529165d8"
+  }
+}

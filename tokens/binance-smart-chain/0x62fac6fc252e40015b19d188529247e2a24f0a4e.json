@@ -1,0 +1,15 @@
+{
+  "symbol": "STAY",
+  "name": "STAY",
+  "address": "0x62fac6fc252e40015b19d188529247e2a24f0a4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50201/thumb/Staynex_Logo_Black20_20.png?1726276993",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x62fac6fc252e40015b19d188529247e2a24f0a4e"
+  }
+}

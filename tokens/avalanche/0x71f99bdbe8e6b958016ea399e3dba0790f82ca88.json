@@ -1,0 +1,15 @@
+{
+  "symbol": "ABG",
+  "name": "AB Group",
+  "address": "0x71f99bdbe8e6b958016ea399e3dba0790f82ca88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39569/thumb/200px_ABG.png?1722929461",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x71f99bdbe8e6b958016ea399e3dba0790f82ca88"
+  }
+}

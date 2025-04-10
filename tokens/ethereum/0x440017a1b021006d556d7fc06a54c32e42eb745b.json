@@ -10,6 +10,9 @@
     "height": "32"
   },
   "platforms": {
-    "ethereum": "0x440017a1b021006d556d7fc06a54c32e42eb745b"
+    "ethereum": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
+    "polygon-pos": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
+    "arbitrum-one": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
+    "binance-smart-chain": "0x440017a1b021006d556d7fc06a54c32e42eb745b"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "symbol": "DADDY",
+  "name": "Cryptojourney",
+  "address": "0xdb173587d459ddb1b9b0f2d6d88febef039304a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38388/thumb/_daddy_%282%29.png?1717417360",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xdb173587d459ddb1b9b0f2d6d88febef039304a2"
+  }
+}

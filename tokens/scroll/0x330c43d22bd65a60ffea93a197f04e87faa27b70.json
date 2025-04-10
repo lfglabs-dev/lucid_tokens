@@ -1,0 +1,15 @@
+{
+  "symbol": "abcNURI",
+  "name": "abcNURI",
+  "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0x330c43d22bd65a60ffea93a197f04e87faa27b70"
+  }
+}

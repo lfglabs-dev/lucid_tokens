@@ -1,0 +1,15 @@
+{
+  "symbol": "PEM",
+  "name": "PEM",
+  "address": "0xdccb6095245b3ddb709f77faf251ab31ccf1f70c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38614/thumb/PEM.jpg?1718103498",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdccb6095245b3ddb709f77faf251ab31ccf1f70c"
+  }
+}

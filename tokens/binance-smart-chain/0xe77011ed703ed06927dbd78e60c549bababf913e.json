@@ -1,0 +1,15 @@
+{
+  "symbol": "mBTC",
+  "name": "Micro Bitcoin Finance",
+  "address": "0xe77011ed703ed06927dbd78e60c549bababf913e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16086/thumb/bitcoin-96x96.png?1622797624",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe77011ed703ed06927dbd78e60c549bababf913e"
+  }
+}

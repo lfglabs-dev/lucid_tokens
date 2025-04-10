@@ -1,0 +1,15 @@
+{
+  "symbol": "BRD",
+  "name": "69Bird",
+  "address": "0x9ea12b889e61cdb5f486e9c9f4d08a6d8d1cdbaf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52042/thumb/Token_Image.jpg?1732391802",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9ea12b889e61cdb5f486e9c9f4d08a6d8d1cdbaf"
+  }
+}

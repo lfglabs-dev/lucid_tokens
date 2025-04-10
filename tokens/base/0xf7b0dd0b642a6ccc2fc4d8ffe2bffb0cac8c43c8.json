@@ -1,0 +1,15 @@
+{
+  "symbol": "GEKKO",
+  "name": "Gekko AI by Virtuals",
+  "address": "0xf7b0dd0b642a6ccc2fc4d8ffe2bffb0cac8c43c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53532/thumb/gekko.jpg?1736580908",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf7b0dd0b642a6ccc2fc4d8ffe2bffb0cac8c43c8"
+  }
+}

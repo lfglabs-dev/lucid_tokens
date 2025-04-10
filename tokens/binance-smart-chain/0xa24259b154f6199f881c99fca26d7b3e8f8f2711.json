@@ -1,0 +1,15 @@
+{
+  "symbol": "GTTM",
+  "name": "GoingToTheMoon",
+  "address": "0xa24259b154f6199f881c99fca26d7b3e8f8f2711",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa24259b154f6199f881c99fca26d7b3e8f8f2711"
+  }
+}

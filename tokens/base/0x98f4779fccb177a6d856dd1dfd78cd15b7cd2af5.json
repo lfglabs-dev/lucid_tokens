@@ -1,0 +1,15 @@
+{
+  "symbol": "MISATO",
+  "name": "Misato by Virtuals",
+  "address": "0x98f4779fccb177a6d856dd1dfd78cd15b7cd2af5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52231/thumb/misatocleanboost.png?1732802425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x98f4779fccb177a6d856dd1dfd78cd15b7cd2af5"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ZKDX",
+  "name": "ZKDX",
+  "address": "0x71ca0e46434b4dfbd7065afe508c9a107eb3a522",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34802/thumb/logo-png.png?1706092934",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xc3a3aa99b80845d22cc41dea3bdb9b2a9ebe199a",
+    "blast": "0x71ca0e46434b4dfbd7065afe508c9a107eb3a522"
+  }
+}

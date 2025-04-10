@@ -1,0 +1,15 @@
+{
+  "symbol": "VAB",
+  "name": "Vabble",
+  "address": "0x2c9ab600d71967ff259c491ad51f517886740cbc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17508/thumb/vabble_tplogo_200_x_200.png?1628508875",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2c9ab600d71967ff259c491ad51f517886740cbc"
+  }
+}

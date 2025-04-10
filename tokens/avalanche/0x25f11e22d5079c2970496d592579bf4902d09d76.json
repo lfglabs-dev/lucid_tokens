@@ -1,0 +1,15 @@
+{
+  "symbol": "JIGEN",
+  "name": "Jigen",
+  "address": "0x25f11e22d5079c2970496d592579bf4902d09d76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38538/thumb/Desktop_-_2_%281%29.png?1717834116",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x25f11e22d5079c2970496d592579bf4902d09d76"
+  }
+}

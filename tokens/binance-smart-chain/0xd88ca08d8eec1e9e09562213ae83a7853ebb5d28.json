@@ -1,0 +1,16 @@
+{
+  "symbol": "XWIN",
+  "name": "xWIN Token",
+  "address": "0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15400/thumb/200x200_%28transparent_background%29.png?1622515538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28",
+    "polygon-pos": "0x6cd6cb131764c704ba9167c29930fbdc38901ab7"
+  }
+}

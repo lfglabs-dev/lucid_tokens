@@ -1,0 +1,20 @@
+{
+  "symbol": "YGG",
+  "name": "Yield Guild Games Token",
+  "address": "0x13ab6739368a4e4abf24695bf52959224367391f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17358/thumb/le1nzlO6_400x400.jpg?1632465691",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+    "ronin": "0x1c306872bc82525d72bf3562e8f0aa3f8f26e857",
+    "harmony-shard-0": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c",
+    "binance-smart-chain": "0x13ab6739368a4e4abf24695bf52959224367391f",
+    "polygon-pos": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1",
+    "base": "0xaac78d1219c08aecc8e37e03858fe885f5ef1799"
+  }
+}

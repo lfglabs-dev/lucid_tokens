@@ -1,0 +1,15 @@
+{
+  "symbol": "ENTS",
+  "name": "Ents",
+  "address": "0x9240c44ee90d058b0b17ababe0f74ab1a205ae04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36391/thumb/photo_2024-03-18_20-10-07.jpg?1711356341",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9240c44ee90d058b0b17ababe0f74ab1a205ae04"
+  }
+}

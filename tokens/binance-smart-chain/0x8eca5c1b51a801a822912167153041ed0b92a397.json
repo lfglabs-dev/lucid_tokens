@@ -1,0 +1,15 @@
+{
+  "symbol": "FRP",
+  "name": "FAME REWARD PLUS",
+  "address": "0x8eca5c1b51a801a822912167153041ed0b92a397",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27675/thumb/fameRewardPlus-icon.png?1665211110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8eca5c1b51a801a822912167153041ed0b92a397"
+  }
+}

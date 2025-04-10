@@ -1,0 +1,19 @@
+{
+  "symbol": "LUNA",
+  "name": "LUNA",
+  "address": "0x156ab3346823b651294766e23e6cf87254d68962",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1644226405",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "oasis": "0x4f43717b20ae319aa50bc5b2349b93af5f7ac823",
+    "ethereum": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+    "binance-smart-chain": "0x156ab3346823b651294766e23e6cf87254d68962",
+    "avalanche": "0x70928e5b188def72817b7775f0bf6325968e563b",
+    "polygon-pos": "0x9cd6746665d9557e1b9a775819625711d0693439"
+  }
+}

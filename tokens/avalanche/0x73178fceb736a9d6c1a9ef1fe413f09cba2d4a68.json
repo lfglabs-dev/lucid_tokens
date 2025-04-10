@@ -1,0 +1,18 @@
+{
+  "symbol": "FEVR",
+  "name": "FevrToken",
+  "address": "0x73178fceb736a9d6c1a9ef1fe413f09cba2d4a68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17136/thumb/Fevr-Token.png?1626869849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
+    "ethereum": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
+    "avalanche": "0x73178fceb736a9d6c1a9ef1fe413f09cba2d4a68",
+    "polygon-pos": "0xe6b9d092223f39013656702a40dbe6b7decc5746"
+  }
+}

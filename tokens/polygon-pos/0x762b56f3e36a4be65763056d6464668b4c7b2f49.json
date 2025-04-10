@@ -1,0 +1,15 @@
+{
+  "symbol": "PUGGY",
+  "name": "PUGGY Coin",
+  "address": "0x762b56f3e36a4be65763056d6464668b4c7b2f49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39871/thumb/PUGGY.jpg?1724501020",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x762b56f3e36a4be65763056d6464668b4c7b2f49"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ROCKETAI",
+  "name": "launchbot",
+  "address": "0x03f64375f98aaafb617d18ca1e4a9a85a5c74476",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53432/thumb/200x200_transparent.png?1736366985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x03f64375f98aaafb617d18ca1e4a9a85a5c74476"
+  }
+}

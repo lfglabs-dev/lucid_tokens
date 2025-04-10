@@ -1,0 +1,16 @@
+{
+  "symbol": "OSEAN",
+  "name": "Osean",
+  "address": "0x722cb8e411d40942c0f581b919ecce3e4d759602",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30968/thumb/IdJP8vv1_400x400.jpg?1689242247",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x722cb8e411d40942c0f581b919ecce3e4d759602",
+    "ethereum": "0x50d5118fb90d572b9d42ba65e0addc4900867809"
+  }
+}

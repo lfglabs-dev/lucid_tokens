@@ -1,0 +1,15 @@
+{
+  "symbol": "YIELD",
+  "name": "PolyYield Token",
+  "address": "0xce4e6da9c509cb33c23d748713c681c959f68658",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16656/thumb/polylogo.png?1624602286",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xce4e6da9c509cb33c23d748713c681c959f68658"
+  }
+}

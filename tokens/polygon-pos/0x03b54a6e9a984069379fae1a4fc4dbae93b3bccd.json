@@ -1,0 +1,15 @@
+{
+  "symbol": "wstETH",
+  "name": "Wrapped liquid staked Ether 2.0 (PoS)",
+  "address": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53018/thumb/steth.png?1734997931",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SXCH",
+  "name": "Solarx L1",
+  "address": "0xe58c3a44b74362048e202cb7c8036d4b0b28af50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38141/thumb/solarx.jpeg?1716607106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe58c3a44b74362048e202cb7c8036d4b0b28af50"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ORE",
+  "name": "Orenium Protocol",
+  "address": "0xb0dba141b38e61d704168fab3ce7366575c503ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36118/thumb/ore200.png?1710491792",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb0dba141b38e61d704168fab3ce7366575c503ad"
+  }
+}

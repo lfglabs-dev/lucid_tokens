@@ -1,0 +1,15 @@
+{
+  "symbol": "ANDY",
+  "name": "Andy",
+  "address": "0x8b1869f79b9abf52001314a2e6990a96f039058d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39241/thumb/IMG_1473.jpeg?1721274150",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8b1869f79b9abf52001314a2e6990a96f039058d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PulseDoge",
+  "name": "PulseDoge",
+  "address": "0xd4d55b811d9ede2adce61a98d67d7f91bffce495",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19695/thumb/pulse.png?1635750667",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd4d55b811d9ede2adce61a98d67d7f91bffce495"
+  }
+}

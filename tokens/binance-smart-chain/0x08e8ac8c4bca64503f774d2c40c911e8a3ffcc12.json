@@ -1,0 +1,15 @@
+{
+  "symbol": "TCC",
+  "name": "TCC",
+  "address": "0x08e8ac8c4bca64503f774d2c40c911e8a3ffcc12",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54472/thumb/tcc.jpg?1739948699",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x08e8ac8c4bca64503f774d2c40c911e8a3ffcc12"
+  }
+}

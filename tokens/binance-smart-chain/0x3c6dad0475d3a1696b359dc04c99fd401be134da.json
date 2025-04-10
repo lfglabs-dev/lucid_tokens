@@ -1,0 +1,16 @@
+{
+  "symbol": "SAITO",
+  "name": "SAITO",
+  "address": "0x3c6dad0475d3a1696b359dc04c99fd401be134da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14750/thumb/SAITO.png?1626857406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
+    "binance-smart-chain": "0x3c6dad0475d3a1696b359dc04c99fd401be134da"
+  }
+}

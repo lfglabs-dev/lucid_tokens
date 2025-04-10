@@ -1,0 +1,15 @@
+{
+  "symbol": "MF",
+  "name": "Make Fun",
+  "address": "0x474cb5b5087e13ea006e13702e330c93c825ab5d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51437/thumb/logo-128.png?1731224206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x474cb5b5087e13ea006e13702e330c93c825ab5d"
+  }
+}

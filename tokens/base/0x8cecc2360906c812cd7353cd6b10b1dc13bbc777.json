@@ -1,0 +1,16 @@
+{
+  "symbol": "FX",
+  "name": "Function X",
+  "address": "0x8cecc2360906c812cd7353cd6b10b1dc13bbc777",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8186/thumb/47271330_590071468072434_707260356350705664_n.jpg?1556096683",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+    "base": "0x8cecc2360906c812cd7353cd6b10b1dc13bbc777"
+  }
+}

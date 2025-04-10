@@ -1,0 +1,15 @@
+{
+  "symbol": "PREME",
+  "name": "PREME Token",
+  "address": "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36091/thumb/PREME_Token.png?1710477118",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111"
+  }
+}

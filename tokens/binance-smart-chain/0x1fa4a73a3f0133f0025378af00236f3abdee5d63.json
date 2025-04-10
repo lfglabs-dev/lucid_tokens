@@ -1,0 +1,15 @@
+{
+  "symbol": "NEAR",
+  "name": "NEAR Protocol",
+  "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51252/thumb/NEAR.JPG?1730470269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63"
+  }
+}

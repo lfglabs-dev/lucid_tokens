@@ -1,0 +1,15 @@
+{
+  "symbol": "yETH",
+  "name": "YOLO Games ETH",
+  "address": "0xcf09205d04647b0dbf99fe702113358df764ced3",
+  "decimals": 24,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38871/thumb/yETH.png?1719286818",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xcf09205d04647b0dbf99fe702113358df764ced3"
+  }
+}

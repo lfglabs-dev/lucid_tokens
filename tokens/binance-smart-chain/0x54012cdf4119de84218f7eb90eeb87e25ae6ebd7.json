@@ -1,0 +1,16 @@
+{
+  "symbol": "LUFFY",
+  "name": "LUFFY",
+  "address": "0x54012cdf4119de84218f7eb90eeb87e25ae6ebd7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17736/thumb/LUFFY_TOKEN-200x200.png?1645001895",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x54012cdf4119de84218f7eb90eeb87e25ae6ebd7",
+    "binance-smart-chain": "0x54012cdf4119de84218f7eb90eeb87e25ae6ebd7"
+  }
+}

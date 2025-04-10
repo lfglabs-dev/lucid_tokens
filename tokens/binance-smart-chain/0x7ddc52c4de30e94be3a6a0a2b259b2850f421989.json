@@ -1,0 +1,16 @@
+{
+  "symbol": "GMT",
+  "name": "GoMining Token",
+  "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15662/thumb/gmt.png?1640069038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+    "binance-smart-chain": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989"
+  }
+}

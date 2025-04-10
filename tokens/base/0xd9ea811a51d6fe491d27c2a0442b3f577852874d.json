@@ -1,0 +1,15 @@
+{
+  "symbol": "BOB",
+  "name": "Breakout Bro by Virtuals",
+  "address": "0xd9ea811a51d6fe491d27c2a0442b3f577852874d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52905/thumb/XgozGvbq_400x400.jpg?1734638358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd9ea811a51d6fe491d27c2a0442b3f577852874d"
+  }
+}

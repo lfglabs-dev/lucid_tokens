@@ -1,0 +1,15 @@
+{
+  "symbol": "ANZ",
+  "name": "Anzen Token",
+  "address": "0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52456/thumb/ANZ_symbol200w.png?1733391218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3"
+  }
+}

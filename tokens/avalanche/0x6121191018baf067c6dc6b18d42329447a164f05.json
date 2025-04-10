@@ -1,0 +1,15 @@
+{
+  "symbol": "PIZZA",
+  "name": "Pizza",
+  "address": "0x6121191018baf067c6dc6b18d42329447a164f05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23771/thumb/eh-lDaUq_400x400.jpg?1645430643",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x6121191018baf067c6dc6b18d42329447a164f05"
+  }
+}

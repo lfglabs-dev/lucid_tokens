@@ -1,0 +1,16 @@
+{
+  "symbol": "ankrBNB",
+  "name": "Ankr Staked BNB",
+  "address": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28451/thumb/ankrBNB.png?1670740364",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+    "opbnb": "0x0c0efea731e3e9810c2b4822d5497eac107808ab"
+  }
+}

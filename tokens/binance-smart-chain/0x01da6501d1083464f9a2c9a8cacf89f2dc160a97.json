@@ -1,0 +1,15 @@
+{
+  "symbol": "TQS",
+  "name": "Torq Swap",
+  "address": "0x01da6501d1083464f9a2c9a8cacf89f2dc160a97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39476/thumb/Takehiro200x200.png?1722459153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x01da6501d1083464f9a2c9a8cacf89f2dc160a97"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "KRWO",
+  "name": "KRWO",
+  "address": "0x5868a0bc3a64cff82e19a135e17fe18e18e03bc1",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54799/thumb/KRWO-Common.png?1741696516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "klay-token": "0x7fc692699f2216647a0e06225d8bdf8cdee40e7f",
+    "binance-smart-chain": "0x5868a0bc3a64cff82e19a135e17fe18e18e03bc1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LDO",
+  "name": "Lido DAO Token",
+  "address": "0x986854779804799c1d68867f5e03e601e781e41b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22995/thumb/LDO_wh_small.png?1644226233",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x986854779804799c1d68867f5e03e601e781e41b"
+  }
+}

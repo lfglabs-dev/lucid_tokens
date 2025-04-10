@@ -1,0 +1,15 @@
+{
+  "symbol": "AIMX",
+  "name": "MindMatrix",
+  "address": "0x75d6bd84de4cbcb92495204de959f7fea6a3f89a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31676/thumb/200x200-AIMX.png?1694399810",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x75d6bd84de4cbcb92495204de959f7fea6a3f89a"
+  }
+}

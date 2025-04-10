@@ -1,0 +1,15 @@
+{
+  "symbol": "BLT",
+  "name": "Bullets",
+  "address": "0x71fd7dfa7db7094e0f857ad3040f1afef76fef85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30475/thumb/Logo_BLT_Token_%28200x200%29.png?1684673128",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x71fd7dfa7db7094e0f857ad3040f1afef76fef85"
+  }
+}

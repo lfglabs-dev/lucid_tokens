@@ -1,0 +1,15 @@
+{
+  "symbol": "CASH",
+  "name": "CASH",
+  "address": "0x5d066d022ede10efa2717ed3d79f22f949f8c175",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27558/thumb/qRnUZoW2_400x400.jpeg?1664517986",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5d066d022ede10efa2717ed3d79f22f949f8c175"
+  }
+}

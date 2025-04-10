@@ -1,0 +1,23 @@
+{
+  "symbol": "AI",
+  "name": "Any Inu (non-ITS)",
+  "address": "0x764933fbad8f5d04ccd088602096655c2ed9879f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34126/thumb/anyinulogo200.png?1704174269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "optimistic-ethereum": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "blast": "0x764933fbad8f5d04ccd088602096655c2ed9879f",
+    "binance-smart-chain": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "fantom": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "avalanche": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "arbitrum-one": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "polygon-pos": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "base": "0x2598c30330d5771ae9f983979209486ae26de875"
+  }
+}

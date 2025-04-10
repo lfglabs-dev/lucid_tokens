@@ -1,0 +1,19 @@
+{
+  "symbol": "Arc",
+  "name": "Archly",
+  "address": "0xfb4c64c144c2bd0e7f2a06da7d6aac32d8cb2514",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37308/thumb/arc-logo-circle-200.png?1713952763",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe8876189a80b2079d8c0a7867e46c50361d972c1",
+    "zksync": "0xfb4c64c144c2bd0e7f2a06da7d6aac32d8cb2514",
+    "ethereum": "0x9482c407d32204462d8cbbc0755e96c39b79878e",
+    "avalanche": "0xe8876189a80b2079d8c0a7867e46c50361d972c1",
+    "base": "0xe8876189a80b2079d8c0a7867e46c50361d972c1"
+  }
+}

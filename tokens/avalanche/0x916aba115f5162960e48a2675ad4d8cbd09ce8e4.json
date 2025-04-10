@@ -1,0 +1,15 @@
+{
+  "symbol": "MCV",
+  "name": "MCVERSE",
+  "address": "0x916aba115f5162960e48a2675ad4d8cbd09ce8e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29564/thumb/mcv-token-logo-200x200.png?1679736111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x916aba115f5162960e48a2675ad4d8cbd09ce8e4"
+  }
+}

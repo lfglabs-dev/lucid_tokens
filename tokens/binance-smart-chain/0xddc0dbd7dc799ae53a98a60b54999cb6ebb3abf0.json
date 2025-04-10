@@ -1,0 +1,16 @@
+{
+  "symbol": "BLAST",
+  "name": "SafeBLAST",
+  "address": "0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15686/thumb/safeblast.png?1621561206",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0",
+    "ethereum": "0x614d7f40701132e25fe6fc17801fbd34212d2eda"
+  }
+}

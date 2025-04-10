@@ -1,0 +1,15 @@
+{
+  "symbol": "CAMILLE",
+  "name": "Camille",
+  "address": "0x1a5f096d6d4f0da25f2df00279cff615c7f856fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54664/thumb/photo_2025-02-28_16-26-57.jpg?1740898405",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1a5f096d6d4f0da25f2df00279cff615c7f856fc"
+  }
+}

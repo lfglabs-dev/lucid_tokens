@@ -1,0 +1,15 @@
+{
+  "symbol": "ZKPepe",
+  "name": "ZKPepe",
+  "address": "0x90eea899185105d583d04b7bdbfb672fce902a53",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29870/thumb/241.png?1681892975",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x90eea899185105d583d04b7bdbfb672fce902a53"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$mfer",
+  "name": "mfercoin",
+  "address": "0xe3086852a4b125803c815a158249ae468a3254ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36550/thumb/mfercoin-logo.png?1711876821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe3086852a4b125803c815a158249ae468a3254ca"
+  }
+}

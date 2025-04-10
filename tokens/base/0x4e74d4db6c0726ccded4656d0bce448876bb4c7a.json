@@ -1,0 +1,15 @@
+{
+  "symbol": "wBLT",
+  "name": "Wrapped BMX Liquidity Token",
+  "address": "0x4e74d4db6c0726ccded4656d0bce448876bb4c7a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31532/thumb/wBLT_200x200.png?1693786810",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4e74d4db6c0726ccded4656d0bce448876bb4c7a"
+  }
+}

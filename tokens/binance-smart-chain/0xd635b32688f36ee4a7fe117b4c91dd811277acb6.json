@@ -1,0 +1,15 @@
+{
+  "symbol": "COPYCAT",
+  "name": "Copycat Token",
+  "address": "0xd635b32688f36ee4a7fe117b4c91dd811277acb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18276/thumb/copycat.PNG?1631233811",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd635b32688f36ee4a7fe117b4c91dd811277acb6"
+  }
+}

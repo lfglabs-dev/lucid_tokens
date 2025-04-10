@@ -1,0 +1,15 @@
+{
+  "symbol": "GOTEM",
+  "name": "gotEM",
+  "address": "0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19108/thumb/logo-transparent-bg.png?1634510489",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8"
+  }
+}

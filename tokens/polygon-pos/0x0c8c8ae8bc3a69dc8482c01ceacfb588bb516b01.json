@@ -1,0 +1,15 @@
+{
+  "symbol": "AURORA",
+  "name": "AuroraToken",
+  "address": "0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15345/thumb/aurora_tokenlogo.png?1620622117",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01"
+  }
+}

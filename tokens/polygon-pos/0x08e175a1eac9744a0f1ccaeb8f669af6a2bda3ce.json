@@ -1,0 +1,15 @@
+{
+  "symbol": "E8",
+  "name": "Energy8",
+  "address": "0x08e175a1eac9744a0f1ccaeb8f669af6a2bda3ce",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19707/thumb/official-logo-e8.png?1635754513",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x08e175a1eac9744a0f1ccaeb8f669af6a2bda3ce"
+  }
+}

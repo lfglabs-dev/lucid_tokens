@@ -1,0 +1,16 @@
+{
+  "symbol": "JACK",
+  "name": "Stable Jack",
+  "address": "0x3fe4902b275caf603c46c81f3d921bb8515b5bc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x3fe4902b275caf603c46c81f3d921bb8515b5bc0",
+    "sonic": "0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36"
+  }
+}

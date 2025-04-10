@@ -1,0 +1,15 @@
+{
+  "symbol": "BRAND",
+  "name": "BrandPad",
+  "address": "0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19532/thumb/brandpad.PNG?1635373732",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49"
+  }
+}

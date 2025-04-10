@@ -1,0 +1,15 @@
+{
+  "symbol": "ncash",
+  "name": "NitroNetwork",
+  "address": "0xc69eba65e87889f0805db717af06797055a0ba07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28415/thumb/XeaMbijo_400x400.jpeg?1670422437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xc69eba65e87889f0805db717af06797055a0ba07"
+  }
+}

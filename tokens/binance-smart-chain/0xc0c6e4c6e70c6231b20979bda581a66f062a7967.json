@@ -1,0 +1,18 @@
+{
+  "symbol": "bATRI",
+  "name": "AtariToken",
+  "address": "0xc0c6e4c6e70c6231b20979bda581a66f062a7967",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12992/thumb/AtariLogoPS_200x200_%281%29.png?1643189483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdacd69347de42babfaecd09dc88958378780fb62",
+    "binance-smart-chain": "0xc0c6e4c6e70c6231b20979bda581a66f062a7967",
+    "fantom": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+    "polygon-pos": "0xb140665dde25c644c6b418e417c930de8a8a6ac9"
+  }
+}

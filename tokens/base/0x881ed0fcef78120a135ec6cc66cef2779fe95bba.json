@@ -1,0 +1,16 @@
+{
+  "symbol": "DOGEGF",
+  "name": "DogeGF",
+  "address": "0x881ed0fcef78120a135ec6cc66cef2779fe95bba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18651/thumb/dogf.png?1632758659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfb130d93e49dca13264344966a611dc79a456bc5",
+    "base": "0x881ed0fcef78120a135ec6cc66cef2779fe95bba"
+  }
+}

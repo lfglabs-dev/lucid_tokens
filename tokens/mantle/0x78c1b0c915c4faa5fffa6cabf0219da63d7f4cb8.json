@@ -1,0 +1,15 @@
+{
+  "symbol": "WMNT",
+  "name": "Wrapped Mantle",
+  "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1689416644",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8"
+  }
+}

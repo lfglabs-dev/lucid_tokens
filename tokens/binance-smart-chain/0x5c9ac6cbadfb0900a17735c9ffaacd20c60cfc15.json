@@ -1,0 +1,15 @@
+{
+  "symbol": "DEMI",
+  "name": "DeMi",
+  "address": "0x5c9ac6cbadfb0900a17735c9ffaacd20c60cfc15",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34833/thumb/DEMI.jpg?1706197493",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5c9ac6cbadfb0900a17735c9ffaacd20c60cfc15"
+  }
+}

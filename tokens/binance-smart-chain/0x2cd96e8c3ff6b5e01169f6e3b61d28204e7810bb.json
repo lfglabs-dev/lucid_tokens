@@ -1,0 +1,16 @@
+{
+  "symbol": "LBlock",
+  "name": "LuckyBlock",
+  "address": "0x2cd96e8c3ff6b5e01169f6e3b61d28204e7810bb",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23126/thumb/logo-200x200-LB-09.png?1643268144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2cd96e8c3ff6b5e01169f6e3b61d28204e7810bb",
+    "ethereum": "0x2b867efd2de4ad2b583ca0cb3df9c4040ef4d329"
+  }
+}

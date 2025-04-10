@@ -1,0 +1,15 @@
+{
+  "symbol": "CODA",
+  "name": "CODA",
+  "address": "0xe6f3be5b52b5de0156148a4aab2e6674e7c1f5d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe6f3be5b52b5de0156148a4aab2e6674e7c1f5d0"
+  }
+}

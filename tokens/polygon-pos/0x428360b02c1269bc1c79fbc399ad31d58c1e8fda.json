@@ -1,0 +1,15 @@
+{
+  "symbol": "DEFIT",
+  "name": "Digital Fitness",
+  "address": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14699/thumb/Defit.png?1623738365",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "yyAVAX",
+  "name": "YieldYak gAVAX",
+  "address": "0xf7d9281e8e363584973f946201b82ba72c965d27",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27221/thumb/yyAVAX_Token__200x200.png?1662685308",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xf7d9281e8e363584973f946201b82ba72c965d27"
+  }
+}

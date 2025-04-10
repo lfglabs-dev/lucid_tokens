@@ -1,0 +1,15 @@
+{
+  "symbol": "FGDS",
+  "name": "FGDSTOKEN",
+  "address": "0x90500b067a9b24dcb4834a839c44eec90b2cd9ac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29206/thumb/FGDS.png?1677312998",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x90500b067a9b24dcb4834a839c44eec90b2cd9ac"
+  }
+}

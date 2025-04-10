@@ -1,0 +1,17 @@
+{
+  "symbol": "CRT",
+  "name": "Cryptopia Token",
+  "address": "0x7348565f0a5077252d310392c3cecd8db87a7704",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37263/thumb/Cryptos.png?1713867243",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x7348565f0a5077252d310392c3cecd8db87a7704",
+    "skale": "0x883cfbd30bd076a063a453335414909545186275",
+    "ethereum": "0x68ccaca9adf1552b3316d6067690ec27397c8ea8"
+  }
+}

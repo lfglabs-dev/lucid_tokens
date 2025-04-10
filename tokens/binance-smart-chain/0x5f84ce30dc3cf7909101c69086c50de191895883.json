@@ -1,0 +1,15 @@
+{
+  "symbol": "VRT",
+  "name": "Venus Reward Token",
+  "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15734/thumb/vrt-venus-token.png?1621750113",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f84ce30dc3cf7909101c69086c50de191895883"
+  }
+}

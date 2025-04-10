@@ -1,0 +1,15 @@
+{
+  "symbol": "aPolDPI",
+  "name": "Aave Polygon DPI",
+  "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32926/thumb/dpi.png?1699826275",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x724dc807b04555b71ed48a6896b6f41593b8c637"
+  }
+}

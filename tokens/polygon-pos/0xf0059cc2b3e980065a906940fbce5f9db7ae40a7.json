@@ -1,0 +1,16 @@
+{
+  "symbol": "ULT",
+  "name": "Shardus (PoS)",
+  "address": "0xf0059cc2b3e980065a906940fbce5f9db7ae40a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8383/thumb/final_logo_photoshop.png?1557890272",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7",
+    "polygon-pos": "0xf0059cc2b3e980065a906940fbce5f9db7ae40a7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RUBY",
+  "name": "RUBY",
+  "address": "0xf7722aa0714096f1fb5ef83e6041cebb4d58a08e",
+  "decimals": 12,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24301/thumb/v7j5bIgX_400x400.jpg?1647269369",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf7722aa0714096f1fb5ef83e6041cebb4d58a08e"
+  }
+}

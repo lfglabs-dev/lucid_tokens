@@ -1,0 +1,15 @@
+{
+  "symbol": "CBE",
+  "name": "Coinbidex",
+  "address": "0xd16cb89f621820bc19dae1c29c9db6d22813b01d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33804/thumb/coinbidex200.png?1702992855",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd16cb89f621820bc19dae1c29c9db6d22813b01d"
+  }
+}

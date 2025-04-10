@@ -1,0 +1,16 @@
+{
+  "symbol": "CEC",
+  "name": "Counterfire Economic Coin",
+  "address": "0x111111267109489dc6f350608d5113b10c0c5cd7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40128/thumb/icon_CEC.png?1725917669",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x111111267109489dc6f350608d5113b10c0c5cd7",
+    "tomochain": "0x111111267109489dc6f350608d5113b10c0c5cd7"
+  }
+}

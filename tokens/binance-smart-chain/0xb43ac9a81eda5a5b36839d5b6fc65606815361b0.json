@@ -1,0 +1,15 @@
+{
+  "symbol": "SEN",
+  "name": "Senspark",
+  "address": "0xb43ac9a81eda5a5b36839d5b6fc65606815361b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25033/thumb/Senspark_logo_200_x_200.png?1649852190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb43ac9a81eda5a5b36839d5b6fc65606815361b0"
+  }
+}

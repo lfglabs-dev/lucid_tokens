@@ -1,0 +1,15 @@
+{
+  "symbol": "BNB",
+  "name": "Binance",
+  "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53096/thumb/multichain-bridged-wbnb-polygon-pos.webp?1735221968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f"
+  }
+}

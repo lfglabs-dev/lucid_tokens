@@ -1,0 +1,16 @@
+{
+  "symbol": "SYRUP",
+  "name": "Syrup Token",
+  "address": "0x688aee022aa544f150678b8e5720b6b96a9e9a2f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51232/thumb/Syrup_Logo.png?1730445056",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66",
+    "base": "0x688aee022aa544f150678b8e5720b6b96a9e9a2f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "EOS",
+  "name": "EOS Token",
+  "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15771/thumb/eos-eos-logo.png?1621834238",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+  }
+}

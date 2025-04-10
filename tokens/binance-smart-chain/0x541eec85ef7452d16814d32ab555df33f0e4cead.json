@@ -1,0 +1,15 @@
+{
+  "symbol": "BIAO",
+  "name": "Biao",
+  "address": "0x541eec85ef7452d16814d32ab555df33f0e4cead",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55007/thumb/Biao.jpg?1743159211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x541eec85ef7452d16814d32ab555df33f0e4cead"
+  }
+}

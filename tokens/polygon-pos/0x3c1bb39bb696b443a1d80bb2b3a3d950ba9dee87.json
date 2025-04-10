@@ -1,0 +1,16 @@
+{
+  "symbol": "WSG",
+  "name": "Wall Street Games",
+  "address": "0x3c1bb39bb696b443a1d80bb2b3a3d950ba9dee87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15872/thumb/X3Awe42.png?1622181358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa58950f05fea2277d2608748412bf9f802ea4901",
+    "polygon-pos": "0x3c1bb39bb696b443a1d80bb2b3a3d950ba9dee87"
+  }
+}

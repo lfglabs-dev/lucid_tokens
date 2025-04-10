@@ -1,0 +1,17 @@
+{
+  "symbol": "PERI",
+  "name": "Peri Finance Token",
+  "address": "0xb49b7e0742ecb4240ffe91661d2a580677460b6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15313/thumb/6xVEMS1.png?1620375905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5d30ad9c6374bf925d0a75454fa327aacf778492",
+    "binance-smart-chain": "0xb49b7e0742ecb4240ffe91661d2a580677460b6a",
+    "polygon-pos": "0xdc0e17eae3b9651875030244b971fa0223a1764f"
+  }
+}

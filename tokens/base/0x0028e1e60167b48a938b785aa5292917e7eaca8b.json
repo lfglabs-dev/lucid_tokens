@@ -1,0 +1,15 @@
+{
+  "symbol": "COINYE",
+  "name": "Coinye West",
+  "address": "0x0028e1e60167b48a938b785aa5292917e7eaca8b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36403/thumb/Coinye_West.png?1711369153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0028e1e60167b48a938b785aa5292917e7eaca8b"
+  }
+}

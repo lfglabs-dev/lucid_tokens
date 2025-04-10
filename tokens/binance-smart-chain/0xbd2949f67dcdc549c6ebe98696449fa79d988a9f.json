@@ -1,0 +1,17 @@
+{
+  "symbol": "MTRG",
+  "name": "Wrapped MTRG on BSC by Meter.io",
+  "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11848/thumb/mtrg-logo.png?1595062273",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "meter": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
+    "theta": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+    "binance-smart-chain": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f"
+  }
+}

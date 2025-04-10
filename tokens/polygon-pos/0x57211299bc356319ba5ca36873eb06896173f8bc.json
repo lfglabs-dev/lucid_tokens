@@ -1,0 +1,15 @@
+{
+  "symbol": "SUT",
+  "name": "Super Useless Token",
+  "address": "0x57211299bc356319ba5ca36873eb06896173f8bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39928/thumb/SUT.png?1724835723",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x57211299bc356319ba5ca36873eb06896173f8bc"
+  }
+}

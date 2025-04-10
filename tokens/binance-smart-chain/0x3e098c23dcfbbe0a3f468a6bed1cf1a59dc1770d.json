@@ -1,0 +1,15 @@
+{
+  "symbol": "YU",
+  "name": "BOUNTYKINDS YU",
+  "address": "0x3e098c23dcfbbe0a3f468a6bed1cf1a59dc1770d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30454/thumb/YU_TOKEN_%281%29.png?1684491577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3e098c23dcfbbe0a3f468a6bed1cf1a59dc1770d"
+  }
+}

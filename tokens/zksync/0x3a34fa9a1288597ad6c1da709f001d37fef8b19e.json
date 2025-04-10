@@ -1,0 +1,15 @@
+{
+  "symbol": "SYDX",
+  "name": "SyncDex",
+  "address": "0x3a34fa9a1288597ad6c1da709f001d37fef8b19e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29746/thumb/Logo200x200.png?1681108370",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x3a34fa9a1288597ad6c1da709f001d37fef8b19e"
+  }
+}

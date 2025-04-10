@@ -1,0 +1,16 @@
+{
+  "symbol": "PNT",
+  "name": "pNetwork Token",
+  "address": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11659/thumb/pNetwork.png?1592411134",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+    "binance-smart-chain": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92"
+  }
+}

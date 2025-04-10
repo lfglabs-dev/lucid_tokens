@@ -1,0 +1,15 @@
+{
+  "symbol": "XTER",
+  "name": "Xterio",
+  "address": "0x103071da56e7cd95b415320760d6a0ddc4da1ca5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53378/thumb/xterio.jpg?1736255691",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x103071da56e7cd95b415320760d6a0ddc4da1ca5"
+  }
+}

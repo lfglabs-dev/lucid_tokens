@@ -1,0 +1,16 @@
+{
+  "symbol": "HFT",
+  "name": "Hashflow",
+  "address": "0x44ec807ce2f4a6f2737a92e985f318d035883e47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26136/thumb/M4iXwrNz_400x400.jpg?1656024705",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+    "binance-smart-chain": "0x44ec807ce2f4a6f2737a92e985f318d035883e47"
+  }
+}

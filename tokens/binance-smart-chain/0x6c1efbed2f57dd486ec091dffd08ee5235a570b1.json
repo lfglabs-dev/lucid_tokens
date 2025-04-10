@@ -1,0 +1,15 @@
+{
+  "symbol": "PNDR",
+  "name": "PANDORA",
+  "address": "0x6c1efbed2f57dd486ec091dffd08ee5235a570b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18062/thumb/pandora.PNG?1630372562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6c1efbed2f57dd486ec091dffd08ee5235a570b1"
+  }
+}

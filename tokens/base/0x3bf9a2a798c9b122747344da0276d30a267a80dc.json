@@ -1,0 +1,15 @@
+{
+  "symbol": "FOMO",
+  "name": "Fear of Missing Out",
+  "address": "0x3bf9a2a798c9b122747344da0276d30a267a80dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53938/thumb/icon_200x200.png?1737784529",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3bf9a2a798c9b122747344da0276d30a267a80dc"
+  }
+}

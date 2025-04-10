@@ -1,0 +1,15 @@
+{
+  "symbol": "Hawk",
+  "name": "Hawk",
+  "address": "0xe846d164b88ed2e1209609fea3cf7a3d89d70d2d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40072/thumb/Hawk-%E6%97%A0%E8%BE%B9%E6%A1%86.png?1725492506",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe846d164b88ed2e1209609fea3cf7a3d89d70d2d"
+  }
+}

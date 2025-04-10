@@ -1,0 +1,15 @@
+{
+  "symbol": "AFC",
+  "name": "Accel Finance Coin",
+  "address": "0x3867564f3b5ad2ddb53b317ba64cddef9e1eb54d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51738/thumb/logo_AFC_200_200.png?1731920325",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3867564f3b5ad2ddb53b317ba64cddef9e1eb54d"
+  }
+}

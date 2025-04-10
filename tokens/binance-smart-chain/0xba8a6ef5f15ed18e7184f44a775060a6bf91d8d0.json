@@ -1,0 +1,17 @@
+{
+  "symbol": "SHAKE",
+  "name": "SHAKE token by SpaceSwap v2",
+  "address": "0xba8a6ef5f15ed18e7184f44a775060a6bf91d8d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12765/thumb/shake.png?1633423725",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6006fc2a849fedaba8330ce36f5133de01f96189",
+    "binance-smart-chain": "0xba8a6ef5f15ed18e7184f44a775060a6bf91d8d0",
+    "avalanche": "0xc1d02e488a9ce2481bfdcd797d5373dd2e70a9c2"
+  }
+}

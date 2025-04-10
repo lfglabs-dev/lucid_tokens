@@ -1,0 +1,15 @@
+{
+  "symbol": "EMP",
+  "name": "emp.money",
+  "address": "0x3b248cefa87f836a4e6f6d6c9b42991b88dc1d58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22938/thumb/lDuYojVA_400x400.png?1643007907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3b248cefa87f836a4e6f6d6c9b42991b88dc1d58"
+  }
+}

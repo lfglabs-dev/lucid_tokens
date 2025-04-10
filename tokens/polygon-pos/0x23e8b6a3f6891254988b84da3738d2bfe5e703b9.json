@@ -1,0 +1,16 @@
+{
+  "symbol": "WELT",
+  "name": "FABWELT",
+  "address": "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20505/thumb/welt.PNG?1637143324",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+    "binance-smart-chain": "0x1785113910847770290f5f840b4c74fc46451201"
+  }
+}

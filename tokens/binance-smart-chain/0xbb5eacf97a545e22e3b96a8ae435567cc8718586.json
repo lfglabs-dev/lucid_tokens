@@ -1,0 +1,15 @@
+{
+  "symbol": "CLANCY",
+  "name": "Clancy",
+  "address": "0xbb5eacf97a545e22e3b96a8ae435567cc8718586",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54941/thumb/clancy.png?1742634569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb5eacf97a545e22e3b96a8ae435567cc8718586"
+  }
+}

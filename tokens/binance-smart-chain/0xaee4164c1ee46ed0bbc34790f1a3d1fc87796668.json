@@ -1,0 +1,15 @@
+{
+  "symbol": "HMDX",
+  "name": "Poly-Peg MDX",
+  "address": "0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18504/thumb/Capture.PNG?1632211012",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668"
+  }
+}

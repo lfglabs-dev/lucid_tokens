@@ -1,0 +1,15 @@
+{
+  "symbol": "LFG",
+  "name": "LOTOFOMOGROW",
+  "address": "0x921f10d157d6dfff4ddcf72a12b53c2effefbb90",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38050/thumb/lumberjack-feb-19-head.png?1716402766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x921f10d157d6dfff4ddcf72a12b53c2effefbb90"
+  }
+}

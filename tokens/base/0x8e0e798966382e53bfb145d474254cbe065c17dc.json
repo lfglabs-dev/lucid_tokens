@@ -1,0 +1,15 @@
+{
+  "symbol": "GAME",
+  "name": "GAME OF MEMES",
+  "address": "0x8e0e798966382e53bfb145d474254cbe065c17dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38384/thumb/GAME_Logo.png?1717387875",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8e0e798966382e53bfb145d474254cbe065c17dc"
+  }
+}

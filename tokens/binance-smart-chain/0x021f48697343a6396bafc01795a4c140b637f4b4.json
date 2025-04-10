@@ -1,0 +1,15 @@
+{
+  "symbol": "MyS",
+  "name": "Magic Yearn Share",
+  "address": "0x021f48697343a6396bafc01795a4c140b637f4b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29343/thumb/mys.png?1678186682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x021f48697343a6396bafc01795a4c140b637f4b4"
+  }
+}

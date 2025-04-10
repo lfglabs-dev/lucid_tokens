@@ -1,0 +1,18 @@
+{
+  "symbol": "UFO.d",
+  "name": "Procure Space ETF - Dinari",
+  "address": "0x8f6a976b6c7fe18e31870eadfae09b3cb447541a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3f29fda039ee80f7d30fa5eb4e3b40691329f020",
+    "ethereum": "0x1194e99f23c8b99cb55a328160aeb0bb010bf0c3",
+    "blast": "0x8f6a976b6c7fe18e31870eadfae09b3cb447541a",
+    "base": "0x3ac60413b5ad95fc02409d6e8c5b316e19c962e1"
+  }
+}

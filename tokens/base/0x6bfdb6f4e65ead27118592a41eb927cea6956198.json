@@ -1,0 +1,16 @@
+{
+  "symbol": "FMC",
+  "name": "Fame AI",
+  "address": "0x6bfdb6f4e65ead27118592a41eb927cea6956198",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33574/thumb/20231205-153104.png?1702450853",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6bfdb6f4e65ead27118592a41eb927cea6956198",
+    "base": "0x6bfdb6f4e65ead27118592a41eb927cea6956198"
+  }
+}

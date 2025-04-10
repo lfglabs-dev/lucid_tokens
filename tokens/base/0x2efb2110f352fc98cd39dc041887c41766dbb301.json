@@ -1,0 +1,15 @@
+{
+  "symbol": "CROW",
+  "name": "cr0w by Virtuals",
+  "address": "0x2efb2110f352fc98cd39dc041887c41766dbb301",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53591/thumb/crowpfp-square.jpeg?1736804798",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2efb2110f352fc98cd39dc041887c41766dbb301"
+  }
+}

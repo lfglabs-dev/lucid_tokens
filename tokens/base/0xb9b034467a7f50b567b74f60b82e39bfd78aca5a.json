@@ -1,0 +1,18 @@
+{
+  "symbol": "SOXL.d",
+  "name": "Direxion Daily Semiconductor Bull 3X Shares - Dinari",
+  "address": "0xb9b034467a7f50b567b74f60b82e39bfd78aca5a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x9fe6002c876972d8d84124ec25000a6fa14c88ec",
+    "ethereum": "0xc580919e2e4b083321f9e4c5ed56bc862f275916",
+    "blast": "0xdd31c8b5c899c0f85fb4738accac44180e4d7390",
+    "base": "0xb9b034467a7f50b567b74f60b82e39bfd78aca5a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CALLS",
+  "name": "OnlyCalls by Virtuals",
+  "address": "0xac743b05f5e590d9db6a4192e02457838e4af61e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52481/thumb/onlyCalls_%281%29.jpg?1733425816",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xac743b05f5e590d9db6a4192e02457838e4af61e"
+  }
+}

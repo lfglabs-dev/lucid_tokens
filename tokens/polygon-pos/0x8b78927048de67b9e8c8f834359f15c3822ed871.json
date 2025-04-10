@@ -1,0 +1,15 @@
+{
+  "symbol": "LOE",
+  "name": "LegendsOfElysium",
+  "address": "0x8b78927048de67b9e8c8f834359f15c3822ed871",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27247/thumb/loe.png?1663332281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8b78927048de67b9e8c8f834359f15c3822ed871"
+  }
+}

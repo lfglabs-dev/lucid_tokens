@@ -1,0 +1,15 @@
+{
+  "symbol": "CATZ",
+  "name": "CatzCoin",
+  "address": "0xbfbee3dac982148ac793161f7362344925506903",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15519/thumb/MX0hFr7.jpeg?1621118815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbfbee3dac982148ac793161f7362344925506903"
+  }
+}

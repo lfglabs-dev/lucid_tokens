@@ -1,0 +1,15 @@
+{
+  "symbol": "BUSD",
+  "name": "Binance USD",
+  "address": "0x7d43aabc515c356145049227cee54b608342c0ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31020/thumb/download_%2816%29.png?1689828129",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x7d43aabc515c356145049227cee54b608342c0ad"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "YT",
+  "name": "YapTrade DAO",
+  "address": "0x387627b2bceb9ba5b476f6597727a7acf47f5b6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54494/thumb/2kx2k_Size_Yap.png?1740027561",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x387627b2bceb9ba5b476f6597727a7acf47f5b6c"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "MARS",
+  "name": "Mars",
+  "address": "0xcb5e6e276adf62d68a1857880359750c8f79d076",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50353/thumb/1000000603.jpg?1727281973",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb8d6196d71cdd7d90a053a7769a077772aaac464",
+    "binance-smart-chain": "0xcb5e6e276adf62d68a1857880359750c8f79d076"
+  }
+}

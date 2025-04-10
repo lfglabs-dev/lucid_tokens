@@ -1,0 +1,20 @@
+{
+  "symbol": "WOW",
+  "name": "WOWswap",
+  "address": "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14101/thumb/Group-423.png?1614317472",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+    "huobi-token": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+    "metis-andromeda": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+    "ethereum": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
+    "avalanche": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b",
+    "polygon-pos": "0x855d4248672a1fce482165e8dbe1207b94b1968a"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "XV",
+  "name": "XV",
+  "address": "0x34dce75a3d1910cc9d188aa5a75fb9addcae0fcc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33432/thumb/XV_Token_logo_black_background_200_by_200.png?1701818327",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x34dce75a3d1910cc9d188aa5a75fb9addcae0fcc",
+    "binance-smart-chain": "0x34dce75a3d1910cc9d188aa5a75fb9addcae0fcc"
+  }
+}

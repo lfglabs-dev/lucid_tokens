@@ -1,0 +1,15 @@
+{
+  "symbol": "kurbi",
+  "name": "kurbi",
+  "address": "0x653a143b8d15c565c6623d1f168cfbec1056d872",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37466/thumb/photo_2024-04-23_11-40-15.png?1714455133",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x653a143b8d15c565c6623d1f168cfbec1056d872"
+  }
+}

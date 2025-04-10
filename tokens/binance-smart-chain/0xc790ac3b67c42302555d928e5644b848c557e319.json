@@ -1,0 +1,15 @@
+{
+  "symbol": "CELA",
+  "name": "Cellula Token",
+  "address": "0xc790ac3b67c42302555d928e5644b848c557e319",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51660/thumb/CELA.jpg?1731711714",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc790ac3b67c42302555d928e5644b848c557e319"
+  }
+}

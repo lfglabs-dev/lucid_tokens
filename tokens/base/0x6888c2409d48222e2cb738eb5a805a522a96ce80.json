@@ -1,0 +1,15 @@
+{
+  "symbol": "TREE",
+  "name": "/treeplanting",
+  "address": "0x6888c2409d48222e2cb738eb5a805a522a96ce80",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38145/thumb/tree.png?1716654253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6888c2409d48222e2cb738eb5a805a522a96ce80"
+  }
+}

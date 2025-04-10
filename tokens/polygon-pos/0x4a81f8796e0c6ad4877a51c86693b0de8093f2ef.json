@@ -1,0 +1,15 @@
+{
+  "symbol": "ICE",
+  "name": "Iron Finance ICE Token",
+  "address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17024/thumb/ice_logo.jpg?1626104736",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef"
+  }
+}

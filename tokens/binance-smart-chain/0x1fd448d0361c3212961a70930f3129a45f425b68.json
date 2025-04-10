@@ -1,0 +1,15 @@
+{
+  "symbol": "Mars",
+  "name": "Marscoin",
+  "address": "0x1fd448d0361c3212961a70930f3129a45f425b68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54368/thumb/mars_200.jpg?1739415696",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1fd448d0361c3212961a70930f3129a45f425b68"
+  }
+}

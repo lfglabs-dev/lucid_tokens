@@ -1,0 +1,15 @@
+{
+  "symbol": "OFAC",
+  "name": "Onchain Finance and Culture",
+  "address": "0xd06a6370c232d3729340fd6953d9c92c400d14f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52323/thumb/GdU5uodXkAA_XKi.jpeg?1733078553",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd06a6370c232d3729340fd6953d9c92c400d14f5"
+  }
+}

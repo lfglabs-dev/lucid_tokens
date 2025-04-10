@@ -1,0 +1,15 @@
+{
+  "symbol": "SWCAT",
+  "name": "Star Wars Cat",
+  "address": "0x98b6e33e77a55732f0e2ce595429144b18ce862c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20899/thumb/star_wars_cat.PNG?1637878347",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x98b6e33e77a55732f0e2ce595429144b18ce862c"
+  }
+}

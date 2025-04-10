@@ -1,0 +1,15 @@
+{
+  "symbol": "PERA",
+  "name": "Pera Finance",
+  "address": "0xfda866cfece71f4c17b4a5e5f9a00ac08c72eadc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16185/thumb/Pera-Finance-200x200.png?1650104052",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xfda866cfece71f4c17b4a5e5f9a00ac08c72eadc"
+  }
+}

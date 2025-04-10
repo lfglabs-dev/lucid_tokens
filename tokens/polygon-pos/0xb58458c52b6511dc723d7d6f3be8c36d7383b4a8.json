@@ -1,0 +1,15 @@
+{
+  "symbol": "FANX",
+  "name": "FrontFanz",
+  "address": "0xb58458c52b6511dc723d7d6f3be8c36d7383b4a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33225/thumb/200x200_ff.png?1701100617",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xb58458c52b6511dc723d7d6f3be8c36d7383b4a8"
+  }
+}

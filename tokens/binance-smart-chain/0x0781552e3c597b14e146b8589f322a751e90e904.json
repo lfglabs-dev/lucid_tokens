@@ -1,0 +1,15 @@
+{
+  "symbol": "FUXI",
+  "name": "FUXI DRAGON",
+  "address": "0x0781552e3c597b14e146b8589f322a751e90e904",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53162/thumb/lofofuxi_200_200.png?1735478032",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0781552e3c597b14e146b8589f322a751e90e904"
+  }
+}

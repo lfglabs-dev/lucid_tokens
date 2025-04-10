@@ -1,0 +1,15 @@
+{
+  "symbol": "FROG CEO",
+  "name": "FROG CEO",
+  "address": "0xbbf8b05ef7af53ccbff8e3673e73714f939bfd84",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29500/thumb/200.png?1679371048",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbbf8b05ef7af53ccbff8e3673e73714f939bfd84"
+  }
+}

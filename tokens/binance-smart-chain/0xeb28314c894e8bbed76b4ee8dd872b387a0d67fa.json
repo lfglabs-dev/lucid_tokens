@@ -1,0 +1,15 @@
+{
+  "symbol": "DShell",
+  "name": "DiamondShell",
+  "address": "0xeb28314c894e8bbed76b4ee8dd872b387a0d67fa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54824/thumb/200x200dark.png?1741862070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xeb28314c894e8bbed76b4ee8dd872b387a0d67fa"
+  }
+}

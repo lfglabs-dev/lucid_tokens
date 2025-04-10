@@ -1,0 +1,15 @@
+{
+  "symbol": "MAI",
+  "name": "Mai Stablecoin",
+  "address": "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35569/thumb/mimatic-red.png?1709192002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RHINO",
+  "name": "Rhino Ninja",
+  "address": "0xb90075beb28c02d322e24be3b979ecb6497f35d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53526/thumb/logo_rhino200-200.png?1736578778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb90075beb28c02d322e24be3b979ecb6497f35d6"
+  }
+}

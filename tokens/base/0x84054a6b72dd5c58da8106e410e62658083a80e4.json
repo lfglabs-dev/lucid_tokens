@@ -1,0 +1,15 @@
+{
+  "symbol": "DTF",
+  "name": "Believe In Something",
+  "address": "0x84054a6b72dd5c58da8106e410e62658083a80e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51561/thumb/Buffet-final_%281%29.png?1731519643",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x84054a6b72dd5c58da8106e410e62658083a80e4"
+  }
+}

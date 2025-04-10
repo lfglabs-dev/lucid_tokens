@@ -1,0 +1,15 @@
+{
+  "symbol": "TFI",
+  "name": "TrustFi Network Token",
+  "address": "0x7565ab68d3f9dadff127f864103c8c706cf28235",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16297/thumb/frny3dSs_400x400.jpg?1623676476",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7565ab68d3f9dadff127f864103c8c706cf28235"
+  }
+}

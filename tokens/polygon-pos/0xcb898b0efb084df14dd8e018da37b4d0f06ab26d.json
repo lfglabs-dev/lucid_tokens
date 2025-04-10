@@ -1,0 +1,15 @@
+{
+  "symbol": "SING",
+  "name": "Sing Token",
+  "address": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17682/thumb/200_%2810%29.png?1628841873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d"
+  }
+}

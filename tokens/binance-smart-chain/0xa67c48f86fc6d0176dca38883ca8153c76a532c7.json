@@ -1,0 +1,15 @@
+{
+  "symbol": "syBTC",
+  "name": "syBTC",
+  "address": "0xa67c48f86fc6d0176dca38883ca8153c76a532c7",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54895/thumb/NewOption_06.png?1742412302",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa67c48f86fc6d0176dca38883ca8153c76a532c7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "USDB",
+  "name": "USDB",
+  "address": "0x4300000000000000000000000000000000000003",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35595/thumb/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x4300000000000000000000000000000000000003"
+  }
+}

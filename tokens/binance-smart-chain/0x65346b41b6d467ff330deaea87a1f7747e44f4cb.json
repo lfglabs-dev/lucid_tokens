@@ -1,0 +1,15 @@
+{
+  "symbol": "PPD",
+  "name": "PaisaPad",
+  "address": "0x65346b41b6d467ff330deaea87a1f7747e44f4cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32051/thumb/200x200.png?1696237528",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x65346b41b6d467ff330deaea87a1f7747e44f4cb"
+  }
+}

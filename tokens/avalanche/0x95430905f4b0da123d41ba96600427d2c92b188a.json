@@ -1,0 +1,15 @@
+{
+  "symbol": "Degen",
+  "name": "Cross Chain Degens DAO",
+  "address": "0x95430905f4b0da123d41ba96600427d2c92b188a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35856/thumb/Degen_Avax.png?1709896062",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x95430905f4b0da123d41ba96600427d2c92b188a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BOPB",
+  "name": "BIOPOP CHAIN",
+  "address": "0xb71d6d378176842dfe778d9509d7d3852806cd7a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38928/thumb/BIOPOP_Logo.jpg?1719558367",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb71d6d378176842dfe778d9509d7d3852806cd7a"
+  }
+}

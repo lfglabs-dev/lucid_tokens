@@ -1,0 +1,15 @@
+{
+  "symbol": "DONK",
+  "name": "Donkey",
+  "address": "0x8f9f2c61730932c99fae229a7265851aaaf9d59e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15330/thumb/donkey_logo.jpg?1620549377",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8f9f2c61730932c99fae229a7265851aaaf9d59e"
+  }
+}

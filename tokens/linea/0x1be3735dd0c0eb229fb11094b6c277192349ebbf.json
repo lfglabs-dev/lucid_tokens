@@ -1,0 +1,15 @@
+{
+  "symbol": "LUBE",
+  "name": "LUBE",
+  "address": "0x1be3735dd0c0eb229fb11094b6c277192349ebbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33070/thumb/200x200.png?1700536826",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0x1be3735dd0c0eb229fb11094b6c277192349ebbf"
+  }
+}

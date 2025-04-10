@@ -1,0 +1,15 @@
+{
+  "symbol": "L2VE",
+  "name": "L2VE",
+  "address": "0xa19328fb05ce6fd204d16c2a2a98f7cf434c12f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36329/thumb/photo_2024-03-21_09.46.29.jpeg?1711098200",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa19328fb05ce6fd204d16c2a2a98f7cf434c12f4"
+  }
+}

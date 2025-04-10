@@ -1,0 +1,16 @@
+{
+  "symbol": "CATA",
+  "name": "Catamoto",
+  "address": "0xbdf5bafee1291eec45ae3aadac89be8152d4e673",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37218/thumb/200x200.png?1713774219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbdf5bafee1291eec45ae3aadac89be8152d4e673",
+    "base": "0xbdf5bafee1291eec45ae3aadac89be8152d4e673"
+  }
+}

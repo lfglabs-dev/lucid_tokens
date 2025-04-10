@@ -1,0 +1,16 @@
+{
+  "symbol": "bMVL",
+  "name": "Binance Wrapped MVL",
+  "address": "0x5f588efaf8eb57e3837486e834fc5a4e07768d98",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3476/thumb/mass-vehicle-ledger.png?1547978299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+    "binance-smart-chain": "0x5f588efaf8eb57e3837486e834fc5a4e07768d98"
+  }
+}

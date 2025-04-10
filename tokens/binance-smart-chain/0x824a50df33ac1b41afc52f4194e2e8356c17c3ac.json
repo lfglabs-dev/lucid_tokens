@@ -1,0 +1,16 @@
+{
+  "symbol": "KICK",
+  "name": "KickToken",
+  "address": "0x824a50df33ac1b41afc52f4194e2e8356c17c3ac",
+  "decimals": 10,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/981/thumb/kick.png?1568643013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x824a50df33ac1b41afc52f4194e2e8356c17c3ac",
+    "harmony-shard-0": "0xc63fd3e9c9527ccdf1d331bbadfe21e77e357b5e"
+  }
+}

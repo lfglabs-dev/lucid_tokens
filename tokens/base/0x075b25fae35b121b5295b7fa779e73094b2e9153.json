@@ -1,0 +1,15 @@
+{
+  "symbol": "CLANKTARDIO",
+  "name": "CLANKTARDIO",
+  "address": "0x075b25fae35b121b5295b7fa779e73094b2e9153",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53502/thumb/clankerpfp.jpg?1736534941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x075b25fae35b121b5295b7fa779e73094b2e9153"
+  }
+}

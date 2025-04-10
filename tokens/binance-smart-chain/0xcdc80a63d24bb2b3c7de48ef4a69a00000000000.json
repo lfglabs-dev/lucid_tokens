@@ -1,0 +1,15 @@
+{
+  "symbol": "K0",
+  "name": "Kill Zero Token",
+  "address": "0xcdc80a63d24bb2b3c7de48ef4a69a00000000000",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55025/thumb/200.jpg?1743244670",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcdc80a63d24bb2b3c7de48ef4a69a00000000000"
+  }
+}

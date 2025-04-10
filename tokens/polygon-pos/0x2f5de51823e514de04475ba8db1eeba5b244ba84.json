@@ -1,0 +1,16 @@
+{
+  "symbol": "USDOT",
+  "name": "USD Token",
+  "address": "0x2f5de51823e514de04475ba8db1eeba5b244ba84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32817/thumb/usdot.png?1699579447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x2f5de51823e514de04475ba8db1eeba5b244ba84",
+    "polygon-pos": "0x2f5de51823e514de04475ba8db1eeba5b244ba84"
+  }
+}

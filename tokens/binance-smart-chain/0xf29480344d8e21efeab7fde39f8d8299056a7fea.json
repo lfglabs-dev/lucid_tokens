@@ -1,0 +1,15 @@
+{
+  "symbol": "TBCC",
+  "name": "TBCC v2",
+  "address": "0xf29480344d8e21efeab7fde39f8d8299056a7fea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13353/thumb/200-200.png?1625755548",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf29480344d8e21efeab7fde39f8d8299056a7fea"
+  }
+}

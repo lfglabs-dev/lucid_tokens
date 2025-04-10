@@ -1,0 +1,15 @@
+{
+  "symbol": "FOUR",
+  "name": "4",
+  "address": "0x21fd16cd0ef24a49d28429921e335bb0c1bfadb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39198/thumb/photo_2024-07-11_05.22.54_%281%29.jpeg?1721019842",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x21fd16cd0ef24a49d28429921e335bb0c1bfadb3"
+  }
+}

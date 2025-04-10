@@ -1,0 +1,17 @@
+{
+  "symbol": "AAA",
+  "name": "MoonRabbit",
+  "address": "0x2ebd50ae084e71eed419cb6c620b3bbd3927bf7e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17310/thumb/logo_moon_no_inscriptions-01.png?1627275874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c6bf16c273636523c29db7db04396143770f6a0",
+    "binance-smart-chain": "0xa39bf0446268d99c5c0a85ecf92970611912d386",
+    "polygon-pos": "0x2ebd50ae084e71eed419cb6c620b3bbd3927bf7e"
+  }
+}

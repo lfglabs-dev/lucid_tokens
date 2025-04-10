@@ -1,0 +1,17 @@
+{
+  "symbol": "MELD",
+  "name": "Meld",
+  "address": "0x333000333b26ee30214b4af6419d9ab07a450400",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30170/thumb/Twitter.jpg?1683534747",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "meld": "0x333000333528b1e38884a5d1ef13615b0c17a301",
+    "ethereum": "0x333000333b26ee30214b4af6419d9ab07a450400",
+    "avalanche": "0x333000333b26ee30214b4af6419d9ab07a450400"
+  }
+}

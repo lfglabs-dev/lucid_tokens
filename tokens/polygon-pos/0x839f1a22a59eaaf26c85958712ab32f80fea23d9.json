@@ -1,0 +1,15 @@
+{
+  "symbol": "AXN",
+  "name": "Axion",
+  "address": "0x839f1a22a59eaaf26c85958712ab32f80fea23d9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13110/thumb/AXION.png?1634887383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x839f1a22a59eaaf26c85958712ab32f80fea23d9"
+  }
+}

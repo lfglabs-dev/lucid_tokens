@@ -1,0 +1,15 @@
+{
+  "symbol": "SKICAT",
+  "name": "SKI MASK CAT",
+  "address": "0xa6f774051dfb6b54869227fda2df9cb46f296c09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52355/thumb/logo200x.png?1733168346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xa6f774051dfb6b54869227fda2df9cb46f296c09"
+  }
+}

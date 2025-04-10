@@ -1,0 +1,16 @@
+{
+  "symbol": "NPT",
+  "name": "NEOPIN Token",
+  "address": "0x306ee01a6ba3b4a8e993fa2c1adc7ea24462000c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23912/thumb/_Logo__Neopin_Token.png?1645682680",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "klay-token": "0xe06597d02a2c3aa7a9708de2cfa587b128bd3815",
+    "polygon-pos": "0x306ee01a6ba3b4a8e993fa2c1adc7ea24462000c"
+  }
+}

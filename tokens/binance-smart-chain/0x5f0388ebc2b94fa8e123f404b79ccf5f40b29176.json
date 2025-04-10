@@ -1,0 +1,15 @@
+{
+  "symbol": "vBCH",
+  "name": "Venus BCH",
+  "address": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13922/thumb/vbch.png?1612845455",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176"
+  }
+}

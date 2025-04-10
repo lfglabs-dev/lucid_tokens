@@ -1,0 +1,15 @@
+{
+  "symbol": "BRICS",
+  "name": "BRICS Chain",
+  "address": "0xec9742f992acc615c4252060d896c845ca8fc086",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33062/thumb/bricschain_1080.png?1700493499",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xec9742f992acc615c4252060d896c845ca8fc086"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "APAD",
+  "name": "AlphPad (AlphBridge)",
+  "address": "0x3a1f0ca49314fce2211792c7fa60ac97ab217cdc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39931/thumb/icon.png?1724836252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5aa7b9be58d4001a7065718641ce7b121b41ef9b",
+    "binance-smart-chain": "0x3a1f0ca49314fce2211792c7fa60ac97ab217cdc"
+  }
+}

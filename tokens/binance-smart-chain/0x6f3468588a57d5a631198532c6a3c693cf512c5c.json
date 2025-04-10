@@ -1,0 +1,15 @@
+{
+  "symbol": "GrokMoon",
+  "name": "Grok Moon",
+  "address": "0x6f3468588a57d5a631198532c6a3c693cf512c5c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34105/thumb/logo.png?1703960085",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6f3468588a57d5a631198532c6a3c693cf512c5c"
+  }
+}

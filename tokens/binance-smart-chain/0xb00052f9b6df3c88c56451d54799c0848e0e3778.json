@@ -1,0 +1,15 @@
+{
+  "symbol": "IVY",
+  "name": "Ivy Live",
+  "address": "0xb00052f9b6df3c88c56451d54799c0848e0e3778",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31289/thumb/ivy_200x200-8.png?1692255054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb00052f9b6df3c88c56451d54799c0848e0e3778"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "DEGOV2",
+  "name": "dego.finance",
+  "address": "0x3da932456d082cba208feb0b096d49b202bf89c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12503/thumb/c185FKx.png?1600298167",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3da932456d082cba208feb0b096d49b202bf89c8",
+    "binance-smart-chain": "0x3da932456d082cba208feb0b096d49b202bf89c8"
+  }
+}

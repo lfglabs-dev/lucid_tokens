@@ -1,0 +1,15 @@
+{
+  "symbol": "VETTER",
+  "name": "Vetter Token",
+  "address": "0x6169b3b23e57de79a6146a2170980ceb1f83b9e0",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19235/thumb/Vetter_Logo.jpg?1649412533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6169b3b23e57de79a6146a2170980ceb1f83b9e0"
+  }
+}

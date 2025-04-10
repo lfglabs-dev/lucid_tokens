@@ -1,0 +1,15 @@
+{
+  "symbol": "METO",
+  "name": "Metoshi",
+  "address": "0xdc3541806d651ec79ba8639a1b495acf503eb2dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22097/thumb/logo200x200.png?1640796397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdc3541806d651ec79ba8639a1b495acf503eb2dd"
+  }
+}

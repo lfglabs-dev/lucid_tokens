@@ -1,0 +1,15 @@
+{
+  "symbol": "SEF",
+  "name": "Segment",
+  "address": "0x5de40c1152c990492eaeaeecc4ecaab788bbc4fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34466/thumb/Asset_1_%281%29.png?1704966406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x5de40c1152c990492eaeaeecc4ecaab788bbc4fd"
+  }
+}

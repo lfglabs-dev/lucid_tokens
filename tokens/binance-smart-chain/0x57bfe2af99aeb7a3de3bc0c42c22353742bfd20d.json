@@ -1,0 +1,15 @@
+{
+  "symbol": "WAR",
+  "name": "WATER RABBIT",
+  "address": "0x57bfe2af99aeb7a3de3bc0c42c22353742bfd20d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34092/thumb/water_rabbit_logo.png?1703935469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x57bfe2af99aeb7a3de3bc0c42c22353742bfd20d"
+  }
+}

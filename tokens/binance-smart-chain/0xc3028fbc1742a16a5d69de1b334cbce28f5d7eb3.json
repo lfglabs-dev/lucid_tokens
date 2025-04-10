@@ -1,0 +1,15 @@
+{
+  "symbol": "SSS",
+  "name": "StarSharks",
+  "address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21667/thumb/FLjJKQd0_400x400.jpg?1639705037",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3"
+  }
+}

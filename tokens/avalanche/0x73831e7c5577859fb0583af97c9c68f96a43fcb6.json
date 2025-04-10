@@ -1,0 +1,15 @@
+{
+  "symbol": "$AIGG",
+  "name": "AIGG",
+  "address": "0x73831e7c5577859fb0583af97c9c68f96a43fcb6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54314/thumb/238291d4-6441-456d-90d5-aa9c8805d50c.jpeg?1739212682",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x73831e7c5577859fb0583af97c9c68f96a43fcb6"
+  }
+}

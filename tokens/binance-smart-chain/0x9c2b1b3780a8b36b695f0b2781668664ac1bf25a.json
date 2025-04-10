@@ -1,0 +1,15 @@
+{
+  "symbol": "SPKY",
+  "name": "SpookyShiba",
+  "address": "0x9c2b1b3780a8b36b695f0b2781668664ac1bf25a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26324/thumb/H2vW_x5A_400x400.jpeg?1657249034",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9c2b1b3780a8b36b695f0b2781668664ac1bf25a"
+  }
+}

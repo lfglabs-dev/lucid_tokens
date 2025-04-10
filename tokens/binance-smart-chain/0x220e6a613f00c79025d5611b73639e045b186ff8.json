@@ -1,0 +1,15 @@
+{
+  "symbol": "DBC",
+  "name": "Dhabi Coin",
+  "address": "0x220e6a613f00c79025d5611b73639e045b186ff8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22803/thumb/Ia0yVef.png?1642584684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x220e6a613f00c79025d5611b73639e045b186ff8"
+  }
+}

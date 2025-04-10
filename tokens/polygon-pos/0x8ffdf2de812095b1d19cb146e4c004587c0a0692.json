@@ -1,0 +1,16 @@
+{
+  "symbol": "aPolBAL",
+  "name": "Aave Polygon BAL",
+  "address": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32903/thumb/BAL_%281%29.png?1699802595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2516e7b3f76294e03c42aa4c5b5b4dce9c436fb8",
+    "polygon-pos": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692"
+  }
+}

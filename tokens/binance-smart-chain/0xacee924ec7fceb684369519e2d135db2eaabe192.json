@@ -1,0 +1,15 @@
+{
+  "symbol": "SHORT",
+  "name": "Bermuda Shorts",
+  "address": "0xacee924ec7fceb684369519e2d135db2eaabe192",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55052/thumb/20250304_082156_%281%29.png?1743439016",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xacee924ec7fceb684369519e2d135db2eaabe192"
+  }
+}

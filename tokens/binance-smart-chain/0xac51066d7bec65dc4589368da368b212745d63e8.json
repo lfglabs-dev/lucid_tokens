@@ -1,0 +1,16 @@
+{
+  "symbol": "ALICE",
+  "name": "ALICE",
+  "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14375/thumb/alice_logo.jpg?1615782968",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xac51066d7bec65dc4589368da368b212745d63e8",
+    "binance-smart-chain": "0xac51066d7bec65dc4589368da368b212745d63e8"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "QUIDD",
+  "name": "QUIDD",
+  "address": "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19725/thumb/quidd.png?1637303435",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xda9fdab21bc4a5811134a6e0ba6ca06624e67c07",
+    "binance-smart-chain": "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed",
+    "polygon-pos": "0x123706cdd8e60324e610e9a2cc7012d0f45a5b8e"
+  }
+}

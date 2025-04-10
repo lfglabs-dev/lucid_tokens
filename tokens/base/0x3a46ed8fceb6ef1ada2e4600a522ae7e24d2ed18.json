@@ -1,0 +1,15 @@
+{
+  "symbol": "USSI",
+  "name": "USSI",
+  "address": "0x3a46ed8fceb6ef1ada2e4600a522ae7e24d2ed18",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53089/thumb/ussi.png?1735213864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3a46ed8fceb6ef1ada2e4600a522ae7e24d2ed18"
+  }
+}

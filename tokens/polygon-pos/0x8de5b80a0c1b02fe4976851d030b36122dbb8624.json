@@ -1,0 +1,16 @@
+{
+  "symbol": "VANRY",
+  "name": "VANRY",
+  "address": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33466/thumb/apple-touch-icon.png?1701942541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
+    "polygon-pos": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KIB",
+  "name": "Kibble Exchange",
+  "address": "0x00da149c4e01e4a391ab86deddaae66e906b6fb7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55159/thumb/Token200w.png?1744266173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x00da149c4e01e4a391ab86deddaae66e906b6fb7"
+  }
+}

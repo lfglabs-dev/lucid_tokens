@@ -1,0 +1,15 @@
+{
+  "symbol": "SPACEM",
+  "name": "Spacem Token",
+  "address": "0x3c780f5cbf94de3efcec964af928d08c4508eebe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52188/thumb/photo_2024-11-11_13-23-50.jpg?1732726509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x3c780f5cbf94de3efcec964af928d08c4508eebe"
+  }
+}

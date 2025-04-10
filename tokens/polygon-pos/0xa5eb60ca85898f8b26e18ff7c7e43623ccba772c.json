@@ -1,0 +1,16 @@
+{
+  "symbol": "COSMIC",
+  "name": "CosmicSwap",
+  "address": "0xa5eb60ca85898f8b26e18ff7c7e43623ccba772c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16197/thumb/logo_-_2021-06-10T084120.309.png?1623285688",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x960cc8f437165b7362a34d95d1ec62dd2a940f00",
+    "polygon-pos": "0xa5eb60ca85898f8b26e18ff7c7e43623ccba772c"
+  }
+}

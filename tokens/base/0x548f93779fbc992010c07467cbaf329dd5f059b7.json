@@ -1,0 +1,16 @@
+{
+  "symbol": "BMX",
+  "name": "BMX",
+  "address": "0x548f93779fbc992010c07467cbaf329dd5f059b7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31699/thumb/bmx_white.png?1694511309",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x548f93779fbc992010c07467cbaf329dd5f059b7",
+    "mode": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb"
+  }
+}

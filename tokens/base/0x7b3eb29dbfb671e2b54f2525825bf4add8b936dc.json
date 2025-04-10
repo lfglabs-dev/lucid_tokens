@@ -1,0 +1,15 @@
+{
+  "symbol": "MOON",
+  "name": "Moon Coin",
+  "address": "0x7b3eb29dbfb671e2b54f2525825bf4add8b936dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37316/thumb/logo-moon-high_%284%29.png?1713972944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7b3eb29dbfb671e2b54f2525825bf4add8b936dc"
+  }
+}

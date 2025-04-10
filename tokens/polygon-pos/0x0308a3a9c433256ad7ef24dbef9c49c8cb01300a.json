@@ -1,0 +1,15 @@
+{
+  "symbol": "GPO",
+  "name": "GoldPesa Option",
+  "address": "0x0308a3a9c433256ad7ef24dbef9c49c8cb01300a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23813/thumb/15462.png?1645513212",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0308a3a9c433256ad7ef24dbef9c49c8cb01300a"
+  }
+}

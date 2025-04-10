@@ -1,0 +1,16 @@
+{
+  "symbol": "HEC",
+  "name": "Hector",
+  "address": "0x638eebe886b0e9e7c6929e69490064a6c94d204d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19832/thumb/logo-final.png?1635981937",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x5c4fdfc5233f935f20d2adba572f770c2e377ab0",
+    "binance-smart-chain": "0x638eebe886b0e9e7c6929e69490064a6c94d204d"
+  }
+}

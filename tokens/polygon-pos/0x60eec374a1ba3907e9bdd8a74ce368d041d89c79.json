@@ -1,0 +1,15 @@
+{
+  "symbol": "PBIRB",
+  "name": "Parrotly",
+  "address": "0x60eec374a1ba3907e9bdd8a74ce368d041d89c79",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28219/thumb/PARROTLY_BRAND_ASSETS__PARROTLY_ICON_BLUE_-_Copy_-_Copy_-_Copy.png?1668474102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x60eec374a1ba3907e9bdd8a74ce368d041d89c79"
+  }
+}

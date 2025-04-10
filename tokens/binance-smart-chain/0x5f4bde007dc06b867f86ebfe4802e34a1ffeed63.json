@@ -1,0 +1,16 @@
+{
+  "symbol": "HIGH",
+  "name": "Highstreet Token",
+  "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18973/thumb/logosq200200Coingecko.png?1634090470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+    "binance-smart-chain": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63"
+  }
+}

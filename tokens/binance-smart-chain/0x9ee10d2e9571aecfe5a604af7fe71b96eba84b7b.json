@@ -1,0 +1,15 @@
+{
+  "symbol": "WLTK",
+  "name": "Walletika",
+  "address": "0x9ee10d2e9571aecfe5a604af7fe71b96eba84b7b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34570/thumb/walletika.png?1705408736",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9ee10d2e9571aecfe5a604af7fe71b96eba84b7b"
+  }
+}

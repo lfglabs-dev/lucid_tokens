@@ -1,0 +1,15 @@
+{
+  "symbol": "METAV",
+  "name": "METAVPAD.com",
+  "address": "0x62858686119135cc00c4a3102b436a0eb314d402",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21397/thumb/metav.png?1639044315",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x62858686119135cc00c4a3102b436a0eb314d402"
+  }
+}

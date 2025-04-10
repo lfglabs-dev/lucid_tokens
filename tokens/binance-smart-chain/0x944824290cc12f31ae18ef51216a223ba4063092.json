@@ -1,0 +1,16 @@
+{
+  "symbol": "MASA",
+  "name": "Masa Token",
+  "address": "0x944824290cc12f31ae18ef51216a223ba4063092",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x944824290cc12f31ae18ef51216a223ba4063092",
+    "binance-smart-chain": "0x944824290cc12f31ae18ef51216a223ba4063092"
+  }
+}

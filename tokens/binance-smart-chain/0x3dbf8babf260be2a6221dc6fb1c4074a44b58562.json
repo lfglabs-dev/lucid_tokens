@@ -1,0 +1,15 @@
+{
+  "symbol": "SLK",
+  "name": "SLK",
+  "address": "0x3dbf8babf260be2a6221dc6fb1c4074a44b58562",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31920/thumb/starlink.jpg?1695644334",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3dbf8babf260be2a6221dc6fb1c4074a44b58562"
+  }
+}

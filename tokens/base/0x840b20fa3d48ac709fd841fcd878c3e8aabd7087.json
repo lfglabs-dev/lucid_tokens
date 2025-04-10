@@ -1,0 +1,15 @@
+{
+  "symbol": "GLUE",
+  "name": "GLUE",
+  "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "STEMX",
+  "name": "STEMX",
+  "address": "0x26734add0650719ea29087fe5cc0aab81b4f237d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19739/thumb/13702.png?1635813079",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x26734add0650719ea29087fe5cc0aab81b4f237d"
+  }
+}

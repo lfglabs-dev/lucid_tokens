@@ -1,0 +1,15 @@
+{
+  "symbol": "SAKAI",
+  "name": "Sakai Vault",
+  "address": "0x43b35e89d15b91162dea1c51133c4c93bdd1c4af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29128/thumb/SAKAI200SQUARE.png?1676951558",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x43b35e89d15b91162dea1c51133c4c93bdd1c4af"
+  }
+}

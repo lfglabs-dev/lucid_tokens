@@ -1,0 +1,15 @@
+{
+  "symbol": "CLANKER",
+  "name": "tokenbot",
+  "address": "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51440/thumb/CLANKER.png?1731232869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb"
+  }
+}

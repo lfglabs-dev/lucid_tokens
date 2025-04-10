@@ -1,0 +1,15 @@
+{
+  "symbol": "BFT",
+  "name": "BattleForTEN",
+  "address": "0x2bc8c2ae9dad57948fa4168e56e177a29ae0c0b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28355/thumb/BFT_LOGO_200X200.png?1669774806",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2bc8c2ae9dad57948fa4168e56e177a29ae0c0b1"
+  }
+}

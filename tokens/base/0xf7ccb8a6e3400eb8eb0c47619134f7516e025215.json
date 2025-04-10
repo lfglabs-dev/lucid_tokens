@@ -1,0 +1,15 @@
+{
+  "symbol": "SUMMER",
+  "name": "Onchain Summer",
+  "address": "0xf7ccb8a6e3400eb8eb0c47619134f7516e025215",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38558/thumb/2024-06-01_00.27.41.jpg?1718000886",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf7ccb8a6e3400eb8eb0c47619134f7516e025215"
+  }
+}

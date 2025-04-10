@@ -1,0 +1,17 @@
+{
+  "symbol": "EGG",
+  "name": "Waves Ducks",
+  "address": "0x889efce29fa0bb9b26be9fda17a8003f4e8da4de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17298/thumb/200x200_pixel.png?1627288546",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a",
+    "binance-smart-chain": "0x889efce29fa0bb9b26be9fda17a8003f4e8da4de",
+    "polygon-pos": "0x51de72b17c7bd12e9e6d69eb506a669eb6b5249e"
+  }
+}

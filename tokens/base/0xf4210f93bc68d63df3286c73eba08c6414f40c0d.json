@@ -1,0 +1,15 @@
+{
+  "symbol": "KATT",
+  "name": "KATT DADDY",
+  "address": "0xf4210f93bc68d63df3286c73eba08c6414f40c0d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37062/thumb/KATT_DADDY.png?1713175908",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf4210f93bc68d63df3286c73eba08c6414f40c0d"
+  }
+}

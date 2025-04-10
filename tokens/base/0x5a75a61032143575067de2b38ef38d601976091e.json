@@ -1,0 +1,15 @@
+{
+  "symbol": "SHARBI",
+  "name": "Sharbi",
+  "address": "0x5a75a61032143575067de2b38ef38d601976091e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29075/thumb/WhatsApp_Image_2023-01-25_at_12.08.22_PM-removebg-1.png?1676436684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5a75a61032143575067de2b38ef38d601976091e"
+  }
+}

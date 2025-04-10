@@ -1,0 +1,17 @@
+{
+  "symbol": "KATA",
+  "name": "Katana Inu",
+  "address": "0x02454a97a8372f3a760a033dbb39e67d73bd6d87",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21872/thumb/Katana_Inu512.png?1640236880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15",
+    "binance-smart-chain": "0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205",
+    "base": "0x02454a97a8372f3a760a033dbb39e67d73bd6d87"
+  }
+}

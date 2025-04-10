@@ -1,0 +1,15 @@
+{
+  "symbol": "RXCG",
+  "name": "RXCGames",
+  "address": "0x7c59a57fc16eac270421b74615c4bc009ecd486d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20989/thumb/evyjvQB.jpeg?1638169876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7c59a57fc16eac270421b74615c4bc009ecd486d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FOMO",
+  "name": "Aavegotchi FOMO",
+  "address": "0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24737/thumb/fomo.png?1648769659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AGNT",
+  "name": "AGNT",
+  "address": "0x521ebb84ea82ee65154b68ecfe3a7292fb3779d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39468/thumb/iAGENT_PROTOCOL__A_LOGO_GREEN.png?1722400433",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x521ebb84ea82ee65154b68ecfe3a7292fb3779d6"
+  }
+}

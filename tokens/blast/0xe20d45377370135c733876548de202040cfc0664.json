@@ -1,0 +1,15 @@
+{
+  "symbol": "BAC",
+  "name": "BAC Token",
+  "address": "0xe20d45377370135c733876548de202040cfc0664",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38442/thumb/uA_V79mH_400x400.jpg?1717546387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xe20d45377370135c733876548de202040cfc0664"
+  }
+}

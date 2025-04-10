@@ -1,0 +1,15 @@
+{
+  "symbol": "SOLO",
+  "name": "Sologenic",
+  "address": "0xc2c28b58db223da89b567a0a98197fc17c115148",
+  "decimals": 15,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10771/thumb/solo.png?1639914533",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc2c28b58db223da89b567a0a98197fc17c115148"
+  }
+}

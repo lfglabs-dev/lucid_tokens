@@ -1,0 +1,15 @@
+{
+  "symbol": "BSAI",
+  "name": "BitcoinSilverAi",
+  "address": "0xfe020130ea312be3efe53ed11e9d4d254b165f49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54795/thumb/1000001093.jpg?1741672855",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfe020130ea312be3efe53ed11e9d4d254b165f49"
+  }
+}

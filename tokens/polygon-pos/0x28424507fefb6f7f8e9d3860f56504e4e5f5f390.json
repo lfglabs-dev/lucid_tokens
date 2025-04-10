@@ -1,0 +1,15 @@
+{
+  "symbol": "amWETH",
+  "name": "Aave Matic Market WETH",
+  "address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17266/thumb/amWETH_2x.png?1626967258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390"
+  }
+}

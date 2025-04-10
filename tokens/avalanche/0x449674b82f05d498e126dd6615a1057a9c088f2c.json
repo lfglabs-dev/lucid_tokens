@@ -1,0 +1,15 @@
+{
+  "symbol": "LOST",
+  "name": "LostToken",
+  "address": "0x449674b82f05d498e126dd6615a1057a9c088f2c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24921/thumb/logo.png?1649383661",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x449674b82f05d498e126dd6615a1057a9c088f2c"
+  }
+}

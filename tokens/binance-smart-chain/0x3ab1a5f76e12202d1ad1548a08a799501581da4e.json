@@ -1,0 +1,15 @@
+{
+  "symbol": "DIN",
+  "name": "DIN",
+  "address": "0x3ab1a5f76e12202d1ad1548a08a799501581da4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54450/thumb/din-logo.jpg?1739778111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3ab1a5f76e12202d1ad1548a08a799501581da4e"
+  }
+}

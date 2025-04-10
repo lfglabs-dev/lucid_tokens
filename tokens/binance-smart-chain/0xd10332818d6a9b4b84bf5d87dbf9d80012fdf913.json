@@ -1,0 +1,15 @@
+{
+  "symbol": "MRHB",
+  "name": "Marhaba Network",
+  "address": "0xd10332818d6a9b4b84bf5d87dbf9d80012fdf913",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18613/thumb/MRHB_DeFi-02.png?1632670864",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd10332818d6a9b4b84bf5d87dbf9d80012fdf913"
+  }
+}

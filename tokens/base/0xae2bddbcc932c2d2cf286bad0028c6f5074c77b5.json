@@ -1,0 +1,15 @@
+{
+  "symbol": "FAH",
+  "name": "Falcons",
+  "address": "0xae2bddbcc932c2d2cf286bad0028c6f5074c77b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50297/thumb/Falcons.png?1726935509",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xae2bddbcc932c2d2cf286bad0028c6f5074c77b5"
+  }
+}

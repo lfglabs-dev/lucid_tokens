@@ -1,0 +1,15 @@
+{
+  "symbol": "MEPAD",
+  "name": "MemePad",
+  "address": "0x9d70a3ee3079a6fa2bb16591414678b7ad91f0b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15141/thumb/1619694441492-Memepad_coin.png?1619779985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9d70a3ee3079a6fa2bb16591414678b7ad91f0b5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "XSEI",
+  "name": "Xensei",
+  "address": "0x08f87e970e2e1234a974d090074fa40a2524cf67",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36031/thumb/Tokenicon.png?1710393836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x08f87e970e2e1234a974d090074fa40a2524cf67"
+  }
+}

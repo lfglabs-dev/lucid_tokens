@@ -1,0 +1,15 @@
+{
+  "symbol": "LOA",
+  "name": "Legend of Annihilation",
+  "address": "0xf8f4a417dbb936c2aa0fcc9e14ecc9825b13b0b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34654/thumb/IMG_20240117_134814_369.png?1705631404",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf8f4a417dbb936c2aa0fcc9e14ecc9825b13b0b5"
+  }
+}

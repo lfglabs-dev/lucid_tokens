@@ -1,0 +1,15 @@
+{
+  "symbol": "ODOS",
+  "name": "Odos Token",
+  "address": "0xca73ed1815e5915489570014e024b7ebe65de679",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52914/thumb/odos.jpg?1734678948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xca73ed1815e5915489570014e024b7ebe65de679"
+  }
+}

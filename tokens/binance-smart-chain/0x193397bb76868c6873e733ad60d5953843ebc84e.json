@@ -1,0 +1,15 @@
+{
+  "symbol": "MEME",
+  "name": "MEMETOON",
+  "address": "0x193397bb76868c6873e733ad60d5953843ebc84e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31632/thumb/meme.8af7ca91.png?1694076808",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x193397bb76868c6873e733ad60d5953843ebc84e"
+  }
+}

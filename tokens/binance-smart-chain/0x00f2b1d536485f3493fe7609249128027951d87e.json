@@ -1,0 +1,15 @@
+{
+  "symbol": "Grok Ai",
+  "name": "Grok Ai",
+  "address": "0x00f2b1d536485f3493fe7609249128027951d87e",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53107/thumb/photo_2024-12-25_12.34.40.png?1735229351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x00f2b1d536485f3493fe7609249128027951d87e"
+  }
+}

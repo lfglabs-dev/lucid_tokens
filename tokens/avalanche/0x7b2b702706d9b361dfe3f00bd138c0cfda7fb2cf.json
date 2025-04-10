@@ -1,0 +1,15 @@
+{
+  "symbol": "PLN",
+  "name": "Pollen",
+  "address": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21679/thumb/pln.png?1640329453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf"
+  }
+}

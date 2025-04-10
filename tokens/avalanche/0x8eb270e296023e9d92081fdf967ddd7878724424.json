@@ -1,0 +1,15 @@
+{
+  "symbol": "aAvaMAI",
+  "name": "Aave Avalanche MAI",
+  "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32917/thumb/mai.png?1699825303",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x8eb270e296023e9d92081fdf967ddd7878724424"
+  }
+}

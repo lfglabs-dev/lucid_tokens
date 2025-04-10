@@ -1,0 +1,15 @@
+{
+  "symbol": "FOXGIRL",
+  "name": "FoxGirl",
+  "address": "0x599beec263fa6ea35055011967597b259fc012a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19448/thumb/foxgirl.png?1635639329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x599beec263fa6ea35055011967597b259fc012a4"
+  }
+}

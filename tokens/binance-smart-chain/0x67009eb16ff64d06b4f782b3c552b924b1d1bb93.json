@@ -1,0 +1,15 @@
+{
+  "symbol": "MTC",
+  "name": "Matrix Chain",
+  "address": "0x67009eb16ff64d06b4f782b3c552b924b1d1bb93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39823/thumb/matrixchain.jpg?1724194125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x67009eb16ff64d06b4f782b3c552b924b1d1bb93"
+  }
+}

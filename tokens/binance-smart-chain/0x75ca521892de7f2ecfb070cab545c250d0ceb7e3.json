@@ -1,0 +1,15 @@
+{
+  "symbol": "PVC",
+  "name": "PVC META",
+  "address": "0x75ca521892de7f2ecfb070cab545c250d0ceb7e3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32080/thumb/26719.png?1696408156",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x75ca521892de7f2ecfb070cab545c250d0ceb7e3"
+  }
+}

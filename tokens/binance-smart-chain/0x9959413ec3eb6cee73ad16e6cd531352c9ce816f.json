@@ -1,0 +1,15 @@
+{
+  "symbol": "ZAI",
+  "name": "ZAYA",
+  "address": "0x9959413ec3eb6cee73ad16e6cd531352c9ce816f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53722/thumb/Zaya_ticker.jpeg?1737127084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9959413ec3eb6cee73ad16e6cd531352c9ce816f"
+  }
+}

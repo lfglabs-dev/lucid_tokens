@@ -1,0 +1,15 @@
+{
+  "symbol": "coin",
+  "name": "DJENN",
+  "address": "0xb73d8850510f2001fd4655c3baf98f3dfb00c0cc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38814/thumb/DJENN.png?1719072036",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xb73d8850510f2001fd4655c3baf98f3dfb00c0cc"
+  }
+}

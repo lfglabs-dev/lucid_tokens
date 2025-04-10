@@ -1,0 +1,16 @@
+{
+  "symbol": "ELFI",
+  "name": "ELFI Token",
+  "address": "0x6c619006043eab742355395690c7b42d3411e8c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23733/thumb/elyfi_logo.png?1645691480",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4",
+    "binance-smart-chain": "0x6c619006043eab742355395690c7b42d3411e8c0"
+  }
+}

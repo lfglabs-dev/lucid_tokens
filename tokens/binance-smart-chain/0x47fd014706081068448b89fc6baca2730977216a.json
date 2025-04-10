@@ -1,0 +1,15 @@
+{
+  "symbol": "PepeBNB",
+  "name": "Pepe The Frog",
+  "address": "0x47fd014706081068448b89fc6baca2730977216a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29893/thumb/ee6a6fe1-7f3b-4613-9466-52bba0d94dad.png?1681981902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x47fd014706081068448b89fc6baca2730977216a"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "NYA",
+  "name": "Nya",
+  "address": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40082/thumb/nya.jpg?1725523655",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "optimistic-ethereum": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "ethereum": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "avalanche": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "arbitrum-one": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "polygon-pos": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "base": "0x38f9bf9dce51833ec7f03c9dc218197999999999"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MBP",
+  "name": "MobiPad",
+  "address": "0xaf2f53cc6cc0384aba52275b0f715851fb5aff94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26082/thumb/20182.png?1655708024",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaf2f53cc6cc0384aba52275b0f715851fb5aff94"
+  }
+}

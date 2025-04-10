@@ -1,0 +1,15 @@
+{
+  "symbol": "oriBGT",
+  "name": "Origami iBGT Auto-Compounder",
+  "address": "0x69f1e971257419b1e9c405a553f252c64a29a30a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54994/thumb/oriBGT.png?1743069741",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x69f1e971257419b1e9c405a553f252c64a29a30a"
+  }
+}

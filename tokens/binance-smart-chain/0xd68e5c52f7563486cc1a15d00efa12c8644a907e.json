@@ -1,0 +1,15 @@
+{
+  "symbol": "EGC",
+  "name": "Egoras Credit",
+  "address": "0xd68e5c52f7563486cc1a15d00efa12c8644a907e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20987/thumb/RSGoYMG.png?1638169232",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd68e5c52f7563486cc1a15d00efa12c8644a907e"
+  }
+}

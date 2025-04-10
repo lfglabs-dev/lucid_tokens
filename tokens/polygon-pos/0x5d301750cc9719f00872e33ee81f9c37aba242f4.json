@@ -1,0 +1,15 @@
+{
+  "symbol": "RVLT",
+  "name": "Revolt 2 Earn",
+  "address": "0x5d301750cc9719f00872e33ee81f9c37aba242f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26360/thumb/revolt2earn_32.png?1657595833",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5d301750cc9719f00872e33ee81f9c37aba242f4"
+  }
+}

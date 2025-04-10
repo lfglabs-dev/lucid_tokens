@@ -1,0 +1,17 @@
+{
+  "symbol": "OLE",
+  "name": "OpenLeverage Token V2",
+  "address": "0xb7e2713cf55cf4b469b5a8421ae6fc0ed18f1467",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26098/thumb/256x256_OLE_Token_Logo.png?1655859035",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1b6e9c73bee68102d9dd4a2627f97bff4183ab0a",
+    "binance-smart-chain": "0xb7e2713cf55cf4b469b5a8421ae6fc0ed18f1467",
+    "arbitrum-one": "0x7be5dd337cc6ce3e474f64e2a92a566445290864"
+  }
+}

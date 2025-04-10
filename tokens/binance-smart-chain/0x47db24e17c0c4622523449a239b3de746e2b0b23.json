@@ -1,0 +1,16 @@
+{
+  "symbol": "PIXEL",
+  "name": "PixelVerse",
+  "address": "0x47db24e17c0c4622523449a239b3de746e2b0b23",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19934/thumb/pixelverse.PNG?1636325521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x47db24e17c0c4622523449a239b3de746e2b0b23",
+    "ethereum": "0x65e6b60ea01668634d68d0513fe814679f925bad"
+  }
+}

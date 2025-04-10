@@ -1,0 +1,16 @@
+{
+  "symbol": "PIKA",
+  "name": "Pika Protocol",
+  "address": "0x880ab5bede12d05e125ce21689d8a5e230b38cd6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40018/thumb/photo_2024-03-26_13-08-57.jpg?1725345218",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x880ab5bede12d05e125ce21689d8a5e230b38cd6",
+    "bitlayer": "0xd68458f51ce9feb238cdcf4cbcddf010eead01b4"
+  }
+}

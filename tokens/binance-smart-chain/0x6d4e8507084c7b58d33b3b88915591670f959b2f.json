@@ -1,0 +1,15 @@
+{
+  "symbol": "MINAR",
+  "name": "MINER ARENA",
+  "address": "0x6d4e8507084c7b58d33b3b88915591670f959b2f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32238/thumb/MINAR.jpg?1696941356",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d4e8507084c7b58d33b3b88915591670f959b2f"
+  }
+}

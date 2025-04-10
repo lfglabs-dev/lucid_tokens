@@ -1,0 +1,15 @@
+{
+  "symbol": "ABAL",
+  "name": "Arch Balanced Portfolio",
+  "address": "0xf401e2c1ce8f252947b60bfb92578f84217a1545",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30639/thumb/ABAL.png?1686035062",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf401e2c1ce8f252947b60bfb92578f84217a1545"
+  }
+}

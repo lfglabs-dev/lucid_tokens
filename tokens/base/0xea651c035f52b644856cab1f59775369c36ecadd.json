@@ -1,0 +1,17 @@
+{
+  "symbol": "LAIKA",
+  "name": "Laika",
+  "address": "0xea651c035f52b644856cab1f59775369c36ecadd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39364/thumb/logo_laika.jpg?1721895773",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "laikachain": "0x4200000000000000000000000000000000000000",
+    "ethereum": "0x19e1f2f837a3b90ebd0730cb6111189be0e1b6d6",
+    "base": "0xea651c035f52b644856cab1f59775369c36ecadd"
+  }
+}

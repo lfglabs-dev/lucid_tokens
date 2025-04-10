@@ -1,0 +1,15 @@
+{
+  "symbol": "FROG",
+  "name": "Frodo the virtual samurai",
+  "address": "0x4ad663403df2f0e7987bc9c74561687472e1611c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52679/thumb/pfp.png?1734021600",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4ad663403df2f0e7987bc9c74561687472e1611c"
+  }
+}

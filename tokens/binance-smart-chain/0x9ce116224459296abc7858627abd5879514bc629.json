@@ -1,0 +1,15 @@
+{
+  "symbol": "COL",
+  "name": "Clash of lilliput",
+  "address": "0x9ce116224459296abc7858627abd5879514bc629",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26070/thumb/col.png?1655540086",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9ce116224459296abc7858627abd5879514bc629"
+  }
+}

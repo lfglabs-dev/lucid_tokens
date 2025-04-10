@@ -1,0 +1,15 @@
+{
+  "symbol": "BTTY",
+  "name": "Bitcointry Token",
+  "address": "0x2024b9be6b03f2a57d3533ae33c7e1d0b0b4be47",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28641/thumb/bitcointry_token_logo_100x100.png?1672839869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2024b9be6b03f2a57d3533ae33c7e1d0b0b4be47"
+  }
+}

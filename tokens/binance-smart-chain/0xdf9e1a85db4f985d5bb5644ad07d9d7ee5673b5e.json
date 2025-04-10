@@ -1,0 +1,15 @@
+{
+  "symbol": "MM72",
+  "name": "MM72",
+  "address": "0xdf9e1a85db4f985d5bb5644ad07d9d7ee5673b5e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25564/thumb/mm72.png?1652521419",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdf9e1a85db4f985d5bb5644ad07d9d7ee5673b5e"
+  }
+}

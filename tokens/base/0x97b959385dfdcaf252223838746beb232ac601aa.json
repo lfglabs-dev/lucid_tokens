@@ -1,0 +1,15 @@
+{
+  "symbol": "AIM",
+  "name": "AI Market Compass",
+  "address": "0x97b959385dfdcaf252223838746beb232ac601aa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39363/thumb/aim.png?1721895551",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x97b959385dfdcaf252223838746beb232ac601aa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DINO",
+  "name": "DINO",
+  "address": "0x85e90a5430af45776548adb82ee4cd9e33b08077",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36637/thumb/dino_icon_copy.png?1712029544",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x85e90a5430af45776548adb82ee4cd9e33b08077"
+  }
+}

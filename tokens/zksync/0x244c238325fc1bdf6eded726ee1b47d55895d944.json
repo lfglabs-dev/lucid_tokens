@@ -1,0 +1,15 @@
+{
+  "symbol": "ZORRO",
+  "name": "Zorro",
+  "address": "0x244c238325fc1bdf6eded726ee1b47d55895d944",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34381/thumb/ZORRO_TP.png?1704777748",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x244c238325fc1bdf6eded726ee1b47d55895d944"
+  }
+}

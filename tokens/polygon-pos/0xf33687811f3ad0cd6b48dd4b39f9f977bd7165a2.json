@@ -1,0 +1,16 @@
+{
+  "symbol": "TruMATIC",
+  "name": "TruStake MATIC Vault Shares (PoS)",
+  "address": "0xf33687811f3ad0cd6b48dd4b39f9f977bd7165a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32416/thumb/TruMATIC_logo_250px_%281%29.png?1698114190",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "polygon-pos": "0xf33687811f3ad0cd6b48dd4b39f9f977bd7165a2"
+  }
+}

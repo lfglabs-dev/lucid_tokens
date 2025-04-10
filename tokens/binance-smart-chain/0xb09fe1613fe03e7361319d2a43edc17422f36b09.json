@@ -1,0 +1,16 @@
+{
+  "symbol": "BOG",
+  "name": "Bogged Finance",
+  "address": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15980/thumb/bog.png?1638183823",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
+    "avalanche": "0xb09fe1613fe03e7361319d2a43edc17422f36b09"
+  }
+}

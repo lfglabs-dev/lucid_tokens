@@ -1,0 +1,15 @@
+{
+  "symbol": "KCCPAD",
+  "name": "KCCPAD.io",
+  "address": "0x11582ef4642b1e7f0a023804b497656e2663bc9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16994/thumb/kcc.png?1625999319",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x11582ef4642b1e7f0a023804b497656e2663bc9b"
+  }
+}

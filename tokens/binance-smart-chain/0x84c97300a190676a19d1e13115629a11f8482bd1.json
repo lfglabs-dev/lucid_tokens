@@ -1,0 +1,15 @@
+{
+  "symbol": "DDD",
+  "name": "DotDot",
+  "address": "0x84c97300a190676a19d1e13115629a11f8482bd1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25212/thumb/batkXqm.png?1650859186",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x84c97300a190676a19d1e13115629a11f8482bd1"
+  }
+}

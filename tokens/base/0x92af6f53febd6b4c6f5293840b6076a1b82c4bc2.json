@@ -1,0 +1,15 @@
+{
+  "symbol": "BIRDDOG",
+  "name": "Bird Dog",
+  "address": "0x92af6f53febd6b4c6f5293840b6076a1b82c4bc2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38437/thumb/birddog_logo_sticker_200x200.png?1717538692",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x92af6f53febd6b4c6f5293840b6076a1b82c4bc2"
+  }
+}

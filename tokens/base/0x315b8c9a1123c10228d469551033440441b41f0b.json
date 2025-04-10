@@ -1,0 +1,15 @@
+{
+  "symbol": "BEATS",
+  "name": "BEATS on BASE",
+  "address": "0x315b8c9a1123c10228d469551033440441b41f0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52396/thumb/200x200_transparent.png?1733293803",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x315b8c9a1123c10228d469551033440441b41f0b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "bPEPE",
+  "name": "Blastin Pepes",
+  "address": "0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38717/thumb/blastinpepes.png?1718474635",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965"
+  }
+}

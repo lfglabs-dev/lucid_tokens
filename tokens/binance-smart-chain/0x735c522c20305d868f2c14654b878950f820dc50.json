@@ -1,0 +1,15 @@
+{
+  "symbol": "BEE",
+  "name": "BNBEE",
+  "address": "0x735c522c20305d868f2c14654b878950f820dc50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34116/thumb/BEE200.jpg?1704021111",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x735c522c20305d868f2c14654b878950f820dc50"
+  }
+}

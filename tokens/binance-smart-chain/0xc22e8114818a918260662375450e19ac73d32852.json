@@ -1,0 +1,15 @@
+{
+  "symbol": "KCAKE",
+  "name": "KITTY CAKE",
+  "address": "0xc22e8114818a918260662375450e19ac73d32852",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17319/thumb/logo_-_2021-07-26T173233.519.png?1627291990",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc22e8114818a918260662375450e19ac73d32852"
+  }
+}

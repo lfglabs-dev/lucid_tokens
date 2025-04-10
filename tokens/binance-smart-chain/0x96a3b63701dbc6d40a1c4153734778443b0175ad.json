@@ -1,0 +1,15 @@
+{
+  "symbol": "CAKEDOG",
+  "name": "CAKEDOG",
+  "address": "0x96a3b63701dbc6d40a1c4153734778443b0175ad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52514/thumb/IMG_0581.jpeg?1733498935",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x96a3b63701dbc6d40a1c4153734778443b0175ad"
+  }
+}

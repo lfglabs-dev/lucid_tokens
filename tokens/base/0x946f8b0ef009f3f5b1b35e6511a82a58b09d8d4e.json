@@ -1,0 +1,19 @@
+{
+  "symbol": "KIT",
+  "name": "DexKit",
+  "address": "0x946f8b0ef009f3f5b1b35e6511a82a58b09d8d4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13187/thumb/7739.png?1643187354",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
+    "base": "0x946f8b0ef009f3f5b1b35e6511a82a58b09d8d4e",
+    "arbitrum-one": "0x9134283afaf6e1b45689ec0b0c82ff2b232bcb30",
+    "binance-smart-chain": "0x314593fa9a2fa16432913dbccc96104541d32d11",
+    "polygon-pos": "0x4d0def42cf57d6f27cd4983042a55dce1c9f853c"
+  }
+}

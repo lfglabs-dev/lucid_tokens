@@ -1,0 +1,15 @@
+{
+  "symbol": "DYZilla",
+  "name": "DYZilla",
+  "address": "0xdaca7c8e16ddfa5d5b266380228ca9e2288f3931",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28532/thumb/Dyzilla.png?1671439769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdaca7c8e16ddfa5d5b266380228ca9e2288f3931"
+  }
+}

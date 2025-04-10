@@ -1,0 +1,15 @@
+{
+  "symbol": "CAKEBOT",
+  "name": "CakeBot",
+  "address": "0x39132daa2082e12ac33a08478a74362e3c394357",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32900/thumb/coinsniper_logo.png?1699800530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x39132daa2082e12ac33a08478a74362e3c394357"
+  }
+}

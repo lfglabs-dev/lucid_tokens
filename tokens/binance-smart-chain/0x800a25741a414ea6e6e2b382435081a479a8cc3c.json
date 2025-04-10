@@ -1,0 +1,15 @@
+{
+  "symbol": "SEOR",
+  "name": "SEOR Network",
+  "address": "0x800a25741a414ea6e6e2b382435081a479a8cc3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24397/thumb/-yycZmh7_400x400.png?1647523110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x800a25741a414ea6e6e2b382435081a479a8cc3c"
+  }
+}

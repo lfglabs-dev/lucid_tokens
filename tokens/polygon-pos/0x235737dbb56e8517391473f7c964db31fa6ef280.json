@@ -1,0 +1,15 @@
+{
+  "symbol": "KASTA",
+  "name": "KastaToken",
+  "address": "0x235737dbb56e8517391473f7c964db31fa6ef280",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22293/thumb/Kasta_ShortIcon_Indigo_RGB.png?1642749961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x235737dbb56e8517391473f7c964db31fa6ef280"
+  }
+}

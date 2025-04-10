@@ -1,0 +1,17 @@
+{
+  "symbol": "ISK",
+  "name": "ISKRA TOKEN",
+  "address": "0xd85eff20288ca72ea9eecffb428f89ee5066ca5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27428/thumb/ISKRA_logo.png?1663919121",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+    "klay-token": "0xd85eff20288ca72ea9eecffb428f89ee5066ca5c",
+    "base": "0xd85eff20288ca72ea9eecffb428f89ee5066ca5c"
+  }
+}

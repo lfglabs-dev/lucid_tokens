@@ -1,0 +1,15 @@
+{
+  "symbol": "ACS",
+  "name": "ACryptoS",
+  "address": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13276/thumb/ACS_logo.png?1634800304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
+  }
+}

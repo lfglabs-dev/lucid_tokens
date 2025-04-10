@@ -1,0 +1,16 @@
+{
+  "symbol": "ISLAND",
+  "name": "ISLAND",
+  "address": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52797/thumb/ISLAND_200x200.jpg?1734330930",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
+    "base": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662"
+  }
+}

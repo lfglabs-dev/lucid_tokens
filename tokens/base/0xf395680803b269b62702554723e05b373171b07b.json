@@ -1,0 +1,15 @@
+{
+  "symbol": "BRATT",
+  "name": "Son of Brett",
+  "address": "0xf395680803b269b62702554723e05b373171b07b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36078/thumb/1000005936.jpg?1710414421",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf395680803b269b62702554723e05b373171b07b"
+  }
+}

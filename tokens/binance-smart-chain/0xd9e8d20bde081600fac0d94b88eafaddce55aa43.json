@@ -1,0 +1,16 @@
+{
+  "symbol": "PUSSY",
+  "name": "PUSSY token",
+  "address": "0xd9e8d20bde081600fac0d94b88eafaddce55aa43",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15213/thumb/pussytoken.png?1620110339",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9196e18bc349b1f64bc08784eae259525329a1ad",
+    "binance-smart-chain": "0xd9e8d20bde081600fac0d94b88eafaddce55aa43"
+  }
+}

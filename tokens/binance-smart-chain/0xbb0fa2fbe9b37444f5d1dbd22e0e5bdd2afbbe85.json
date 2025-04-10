@@ -1,0 +1,15 @@
+{
+  "symbol": "USDm",
+  "name": "USD Mars",
+  "address": "0xbb0fa2fbe9b37444f5d1dbd22e0e5bdd2afbbe85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21252/thumb/WeChat_Image_20211230181747.jpg?1640859506",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb0fa2fbe9b37444f5d1dbd22e0e5bdd2afbbe85"
+  }
+}

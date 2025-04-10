@@ -1,0 +1,15 @@
+{
+  "symbol": "MVK",
+  "name": "MetaVerseKombat",
+  "address": "0x3405ff989f8bb8efd6c85ad6b29219d3383a5fb0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30180/thumb/Untitled_design_%282%29.png?1683598415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3405ff989f8bb8efd6c85ad6b29219d3383a5fb0"
+  }
+}

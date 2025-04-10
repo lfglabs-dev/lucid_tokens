@@ -1,0 +1,15 @@
+{
+  "symbol": "DCI",
+  "name": "Dynamic Crypto Index",
+  "address": "0xc91953e110ebb0039859304a0d1b64f8450763fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39056/thumb/DCI200.png?1720160592",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc91953e110ebb0039859304a0d1b64f8450763fc"
+  }
+}

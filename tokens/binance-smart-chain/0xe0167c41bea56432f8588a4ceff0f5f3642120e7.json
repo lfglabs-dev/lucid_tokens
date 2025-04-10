@@ -1,0 +1,15 @@
+{
+  "symbol": "VELON",
+  "name": "Viking Elon",
+  "address": "0xe0167c41bea56432f8588a4ceff0f5f3642120e7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25346/thumb/Viking_Elon_200.png?1651303559",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe0167c41bea56432f8588a4ceff0f5f3642120e7"
+  }
+}

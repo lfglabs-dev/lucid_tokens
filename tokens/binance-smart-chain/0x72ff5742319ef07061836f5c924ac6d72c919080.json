@@ -1,0 +1,15 @@
+{
+  "symbol": "GFT",
+  "name": "Gifto",
+  "address": "0x72ff5742319ef07061836f5c924ac6d72c919080",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1359/thumb/gifto.png?1547742697",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x72ff5742319ef07061836f5c924ac6d72c919080"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Trip",
+  "name": "Trip ",
+  "address": "0xc9bfb93d75645c4681bb63794abf1acad44725e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54717/thumb/IMG-20250120-184423-846.png?1741186152",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc9bfb93d75645c4681bb63794abf1acad44725e7"
+  }
+}

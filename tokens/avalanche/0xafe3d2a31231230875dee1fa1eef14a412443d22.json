@@ -1,0 +1,17 @@
+{
+  "symbol": "DFIAT",
+  "name": "DeFiato [via ChainPort.io]",
+  "address": "0xafe3d2a31231230875dee1fa1eef14a412443d22",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13386/thumb/Defiato.png?1608085873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1045f5ccb01daea4f8eab055f5fcbb7c0e7c89f0",
+    "binance-smart-chain": "0xf64ed9ad397a1ae657f31131d4b189220a7f1cc7",
+    "avalanche": "0xafe3d2a31231230875dee1fa1eef14a412443d22"
+  }
+}

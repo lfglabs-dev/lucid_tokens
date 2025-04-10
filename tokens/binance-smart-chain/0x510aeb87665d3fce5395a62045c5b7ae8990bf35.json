@@ -1,0 +1,15 @@
+{
+  "symbol": "SDX",
+  "name": "SteakD",
+  "address": "0x510aeb87665d3fce5395a62045c5b7ae8990bf35",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33960/thumb/SteakD_coin_symbol_circle_200x200.png?1703567636",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x510aeb87665d3fce5395a62045c5b7ae8990bf35"
+  }
+}

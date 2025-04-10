@@ -1,0 +1,15 @@
+{
+  "symbol": "member",
+  "name": "member",
+  "address": "0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36041/thumb/member-coingecko.png?1710400496",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9"
+  }
+}

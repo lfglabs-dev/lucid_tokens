@@ -1,0 +1,15 @@
+{
+  "symbol": "Boshi",
+  "name": "Boshi",
+  "address": "0x33ad778e6c76237d843c52d7cafc972bb7cf8729",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37222/thumb/boshi.jpeg?1713775901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x33ad778e6c76237d843c52d7cafc972bb7cf8729"
+  }
+}

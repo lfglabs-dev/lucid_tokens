@@ -1,0 +1,15 @@
+{
+  "symbol": "INFINITY",
+  "name": "Loop Of Infinity",
+  "address": "0x978bf545a15e29595e6c583aefa76f5fe71070c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35587/thumb/lop.jpeg?1709203782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x978bf545a15e29595e6c583aefa76f5fe71070c2"
+  }
+}

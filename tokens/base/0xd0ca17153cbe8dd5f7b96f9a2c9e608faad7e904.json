@@ -1,0 +1,18 @@
+{
+  "symbol": "GBTC.d",
+  "name": "Grayscale Bitcoin Trust (BTC) - Dinari",
+  "address": "0xd0ca17153cbe8dd5f7b96f9a2c9e608faad7e904",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53867/thumb/d-token-200.png?1737615504",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb1284f6b3e487e3f773e9ad40f337c3b3cda5c69",
+    "blast": "0x9558e1217e0cb47ade9b5f63cc5aca8d47691ab7",
+    "ethereum": "0xd0f48caf8fdb1e7b1fb8b08b914e0b44ed0aade0",
+    "base": "0xd0ca17153cbe8dd5f7b96f9a2c9e608faad7e904"
+  }
+}

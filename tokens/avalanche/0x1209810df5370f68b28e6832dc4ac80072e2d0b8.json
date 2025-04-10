@@ -1,0 +1,15 @@
+{
+  "symbol": "AVALOX",
+  "name": "AVALOX",
+  "address": "0x1209810df5370f68b28e6832dc4ac80072e2d0b8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34823/thumb/avalox.jpg?1706189694",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x1209810df5370f68b28e6832dc4ac80072e2d0b8"
+  }
+}

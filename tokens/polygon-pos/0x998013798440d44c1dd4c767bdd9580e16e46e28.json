@@ -1,0 +1,15 @@
+{
+  "symbol": "ITSB",
+  "name": "ITSBLOC",
+  "address": "0x998013798440d44c1dd4c767bdd9580e16e46e28",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27268/thumb/ezgif-2-1826f94a8a.jpeg?1663135869",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x998013798440d44c1dd4c767bdd9580e16e46e28"
+  }
+}

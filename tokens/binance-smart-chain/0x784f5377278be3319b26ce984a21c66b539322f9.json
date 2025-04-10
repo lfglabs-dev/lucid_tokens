@@ -1,0 +1,15 @@
+{
+  "symbol": "StarDOGE",
+  "name": "StarDOGE",
+  "address": "0x784f5377278be3319b26ce984a21c66b539322f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52123/thumb/IMG_1297.JPG?1732606924",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x784f5377278be3319b26ce984a21c66b539322f9"
+  }
+}

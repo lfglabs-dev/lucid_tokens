@@ -1,0 +1,15 @@
+{
+  "symbol": "PORIGON",
+  "name": "PORIGON",
+  "address": "0xc3323b6e71925b25943fb7369ee6769837e9c676",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38179/thumb/porigon.png?1716788089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xc3323b6e71925b25943fb7369ee6769837e9c676"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Helmet",
+  "name": "Helmet.insure Governance Token",
+  "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13680/thumb/ZMdK-1J4_400x400.png?1610834469",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8"
+  }
+}

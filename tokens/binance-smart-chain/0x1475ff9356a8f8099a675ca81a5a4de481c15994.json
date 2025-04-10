@@ -1,0 +1,15 @@
+{
+  "symbol": "OCF",
+  "name": "Oceanfi",
+  "address": "0x1475ff9356a8f8099a675ca81a5a4de481c15994",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33946/thumb/OceanFi_200x200.png?1703537526",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1475ff9356a8f8099a675ca81a5a4de481c15994"
+  }
+}

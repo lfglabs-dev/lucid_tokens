@@ -1,0 +1,15 @@
+{
+  "symbol": "BONK",
+  "name": "Bonk",
+  "address": "0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37123/thumb/200x200.png?1713367524",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MOONARCH",
+  "name": "Moonarch.app",
+  "address": "0xaf96a19c2dd4a0f6b077d9481fcc8c9102faa141",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15567/thumb/android-chrome-256x256.png?1621222240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaf96a19c2dd4a0f6b077d9481fcc8c9102faa141"
+  }
+}

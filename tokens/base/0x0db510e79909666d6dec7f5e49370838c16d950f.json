@@ -1,0 +1,15 @@
+{
+  "symbol": "ANON",
+  "name": "Super Anon",
+  "address": "0x0db510e79909666d6dec7f5e49370838c16d950f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51871/thumb/_.png?1732095727",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0db510e79909666d6dec7f5e49370838c16d950f"
+  }
+}

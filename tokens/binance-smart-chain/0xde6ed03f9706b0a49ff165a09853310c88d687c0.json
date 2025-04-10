@@ -1,0 +1,15 @@
+{
+  "symbol": "$DDY",
+  "name": "AltsDaddy",
+  "address": "0xde6ed03f9706b0a49ff165a09853310c88d687c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52759/thumb/Square_Logo_copy.png?1734194861",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xde6ed03f9706b0a49ff165a09853310c88d687c0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MRS",
+  "name": "Metars",
+  "address": "0x238d02ee3f80fbf5e381f049616025c186889b68",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26625/thumb/PRmUU8O1_400x400.jpeg?1659322669",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x238d02ee3f80fbf5e381f049616025c186889b68"
+  }
+}

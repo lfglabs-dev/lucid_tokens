@@ -1,0 +1,15 @@
+{
+  "symbol": "BITS",
+  "name": "BitStarters",
+  "address": "0xfb7009e55aa19a81ccf8d215a9564ce1155c65d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51062/thumb/bitstarter.jpg?1729899925",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xfb7009e55aa19a81ccf8d215a9564ce1155c65d8"
+  }
+}

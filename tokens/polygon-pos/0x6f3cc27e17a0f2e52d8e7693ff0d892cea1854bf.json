@@ -1,0 +1,15 @@
+{
+  "symbol": "GOO",
+  "name": "Goo",
+  "address": "0x6f3cc27e17a0f2e52d8e7693ff0d892cea1854bf",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25802/thumb/GOO-200.png?1653977205",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x6f3cc27e17a0f2e52d8e7693ff0d892cea1854bf"
+  }
+}

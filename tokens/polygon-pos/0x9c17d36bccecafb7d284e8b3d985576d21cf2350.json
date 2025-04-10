@@ -1,0 +1,15 @@
+{
+  "symbol": "OBSW",
+  "name": "OBSWToken",
+  "address": "0x9c17d36bccecafb7d284e8b3d985576d21cf2350",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35434/thumb/OBS_WORLD_LOGO.jpg?1708589491",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x9c17d36bccecafb7d284e8b3d985576d21cf2350"
+  }
+}

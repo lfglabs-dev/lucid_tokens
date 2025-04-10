@@ -1,0 +1,15 @@
+{
+  "symbol": "DUH",
+  "name": "duh",
+  "address": "0x8011eef8fc855df1c4f421443f306e19818e60d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36456/thumb/IMG_7076.jpeg?1711474825",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8011eef8fc855df1c4f421443f306e19818e60d3"
+  }
+}

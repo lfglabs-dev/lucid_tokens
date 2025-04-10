@@ -1,0 +1,18 @@
+{
+  "symbol": "CIOTX",
+  "name": "Crosschain IOTX",
+  "address": "0x300211def2a644b036a9bdd3e58159bb2074d388",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18331/thumb/iotx.PNG?1631579018",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x300211def2a644b036a9bdd3e58159bb2074d388",
+    "iotex": "0x99b2b0efb56e62e36960c20cd5ca8ec6abd5557a",
+    "ethereum": "0x9f90b457dea25ef802e38d470dda7343691d8fe1",
+    "binance-smart-chain": "0x2aaf50869739e317ab80a57bf87caa35f5b60598"
+  }
+}

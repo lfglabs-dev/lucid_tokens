@@ -1,0 +1,15 @@
+{
+  "symbol": "SWARM",
+  "name": "The SWARM (by SLAMai) by Virtuals",
+  "address": "0xea87169699dabd028a78d4b91544b4298086baf6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54841/thumb/SWARM.jpg?1742017845",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xea87169699dabd028a78d4b91544b4298086baf6"
+  }
+}

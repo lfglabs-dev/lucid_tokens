@@ -1,0 +1,15 @@
+{
+  "symbol": "PDOGE",
+  "name": "Poor Doge",
+  "address": "0xb299b7697d7b63b7c8616a120c0fe7a70db2f59b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50755/thumb/Poor_Doge_200x200.png?1729031829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb299b7697d7b63b7c8616a120c0fe7a70db2f59b"
+  }
+}

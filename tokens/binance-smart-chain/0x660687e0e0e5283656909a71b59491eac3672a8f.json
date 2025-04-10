@@ -1,0 +1,15 @@
+{
+  "symbol": "PRD",
+  "name": "Parad",
+  "address": "0x660687e0e0e5283656909a71b59491eac3672a8f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53572/thumb/7OJEk694_400x400.jpg?1736748468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x660687e0e0e5283656909a71b59491eac3672a8f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "COLLE",
+  "name": "Colle AI",
+  "address": "0xaeb63742f2c7dd1538bbe2285b6789017a06b58b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36676/thumb/E9Yq4waZ.png?1712062887",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc36983d3d9d379ddfb306dfb919099cb6730e355",
+    "binance-smart-chain": "0xaeb63742f2c7dd1538bbe2285b6789017a06b58b"
+  }
+}

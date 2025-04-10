@@ -1,0 +1,15 @@
+{
+  "symbol": "SRG",
+  "name": "STREET RUNNER",
+  "address": "0x722f41f6511ff7cda73a1cb0a9ea2f731738c4a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24382/thumb/kKx4Ivoy_400x400.jpg?1647447765",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x722f41f6511ff7cda73a1cb0a9ea2f731738c4a0"
+  }
+}

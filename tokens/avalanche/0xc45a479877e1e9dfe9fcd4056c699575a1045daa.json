@@ -1,0 +1,17 @@
+{
+  "symbol": "aAvaFRAX",
+  "name": "Aave Avalanche FRAX",
+  "address": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32904/thumb/FRAX.png?1699802848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd4e245848d6e1220dbe62e155d89fa327e43cb06",
+    "avalanche": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
+    "arbitrum-one": "0x38d693ce1df5aadf7bc62595a37d667ad57922e5"
+  }
+}

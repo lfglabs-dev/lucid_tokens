@@ -1,0 +1,15 @@
+{
+  "symbol": "EGG",
+  "name": "LoserchickEgg",
+  "address": "0x245e5ddb65efea6522fa913229df1f4957fb2e21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17574/thumb/lRAQ2MOTpWqrHhI.png?1628551880",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x245e5ddb65efea6522fa913229df1f4957fb2e21"
+  }
+}

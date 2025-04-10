@@ -1,0 +1,15 @@
+{
+  "symbol": "SWORD",
+  "name": "SWORD",
+  "address": "0x4287105ffac106eb98a71cab46586906181e35ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39104/thumb/sword.jpg?1720518351",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4287105ffac106eb98a71cab46586906181e35ff"
+  }
+}

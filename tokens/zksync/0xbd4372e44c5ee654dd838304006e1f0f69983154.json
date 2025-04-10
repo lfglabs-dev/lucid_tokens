@@ -1,0 +1,15 @@
+{
+  "symbol": "NODL",
+  "name": "Nodle Token",
+  "address": "0xbd4372e44c5ee654dd838304006e1f0f69983154",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27019/thumb/nodle.png?1661481908",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xbd4372e44c5ee654dd838304006e1f0f69983154"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KAKA",
+  "name": "Miss Kaka",
+  "address": "0xcad5a334dc54143d122d1e753bad5050181270c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54404/thumb/KAKA_200.jpg?1739519999",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcad5a334dc54143d122d1e753bad5050181270c8"
+  }
+}

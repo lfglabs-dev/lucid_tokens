@@ -1,0 +1,15 @@
+{
+  "symbol": "SCLP",
+  "name": "Scallop",
+  "address": "0xf2c96e402c9199682d5ded26d3771c6b192c01af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19059/thumb/scallop.PNG?1634266022",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf2c96e402c9199682d5ded26d3771c6b192c01af"
+  }
+}

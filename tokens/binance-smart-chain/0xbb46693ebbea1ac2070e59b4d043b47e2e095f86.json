@@ -1,0 +1,15 @@
+{
+  "symbol": "BFG",
+  "name": "BFG Token",
+  "address": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18108/thumb/bfg.png?1630491817",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86"
+  }
+}

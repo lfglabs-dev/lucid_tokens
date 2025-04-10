@@ -1,0 +1,15 @@
+{
+  "symbol": "SUMI",
+  "name": "SUMI",
+  "address": "0xe8aae6251c6cf39927b0ff31399030c60bec798f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51253/thumb/SUMI.jpg?1730477794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xe8aae6251c6cf39927b0ff31399030c60bec798f"
+  }
+}

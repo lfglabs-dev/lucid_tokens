@@ -1,0 +1,15 @@
+{
+  "symbol": "TEVA",
+  "name": "Tevaera",
+  "address": "0x00309d634d11541b857f927be91ad2f0bd78894c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53086/thumb/Teva-200.png?1735204737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x00309d634d11541b857f927be91ad2f0bd78894c"
+  }
+}

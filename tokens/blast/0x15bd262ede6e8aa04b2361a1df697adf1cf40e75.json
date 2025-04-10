@@ -1,0 +1,15 @@
+{
+  "symbol": "PETOSHI",
+  "name": "Petoshi",
+  "address": "0x15bd262ede6e8aa04b2361a1df697adf1cf40e75",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38453/thumb/PETOSHI.jpg?1717559334",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x15bd262ede6e8aa04b2361a1df697adf1cf40e75"
+  }
+}

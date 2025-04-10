@@ -1,0 +1,18 @@
+{
+  "symbol": "DAL.d",
+  "name": "Delta Air Lines, Inc. - Dinari",
+  "address": "0xd021ad9bc28dcbcb04801638937351f6b9045f33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xcc603c6626408fbfe2c1fea3565acb5d10c85274",
+    "ethereum": "0xf373c3d96996ede40ea161f6929fd457cda8111c",
+    "blast": "0x399351786afd19dc7524b6af87aad8339f641494",
+    "base": "0xd021ad9bc28dcbcb04801638937351f6b9045f33"
+  }
+}

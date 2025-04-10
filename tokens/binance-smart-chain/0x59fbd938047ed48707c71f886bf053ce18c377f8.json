@@ -1,0 +1,15 @@
+{
+  "symbol": "CAMEL",
+  "name": "CAMEL",
+  "address": "0x59fbd938047ed48707c71f886bf053ce18c377f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54956/thumb/200cg.png?1742833399",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x59fbd938047ed48707c71f886bf053ce18c377f8"
+  }
+}

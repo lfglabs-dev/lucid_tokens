@@ -1,0 +1,15 @@
+{
+  "symbol": "BOWSER",
+  "name": "Bowser",
+  "address": "0x7047b80cb47527e864029d3cfe1899534dc15402",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50784/thumb/BOWSER_200.jpg?1729193270",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "world-chain": "0x7047b80cb47527e864029d3cfe1899534dc15402"
+  }
+}

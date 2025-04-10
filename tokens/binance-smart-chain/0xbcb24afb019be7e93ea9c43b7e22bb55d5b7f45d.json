@@ -1,0 +1,15 @@
+{
+  "symbol": "BSCS",
+  "name": "BSCS Token",
+  "address": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14963/thumb/BSCS_LOGO.png?1619158072",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d"
+  }
+}

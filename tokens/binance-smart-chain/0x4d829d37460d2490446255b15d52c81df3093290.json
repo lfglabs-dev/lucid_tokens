@@ -1,0 +1,15 @@
+{
+  "symbol": "DLY",
+  "name": "Daily Finance",
+  "address": "0x4d829d37460d2490446255b15d52c81df3093290",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34376/thumb/Daily_Finance.png?1704763008",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4d829d37460d2490446255b15d52c81df3093290"
+  }
+}

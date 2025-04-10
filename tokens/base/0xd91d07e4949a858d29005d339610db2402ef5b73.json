@@ -1,0 +1,16 @@
+{
+  "symbol": "dGOLD",
+  "name": "DataGold",
+  "address": "0xd91d07e4949a858d29005d339610db2402ef5b73",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52431/thumb/__blue-on-navy_%282%29.PNG?1733339078",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x08d9040214c4aba39292fd2e7de20bbba7a8dce4",
+    "base": "0xd91d07e4949a858d29005d339610db2402ef5b73"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "HLT",
+  "name": "Huanghuali Token",
+  "address": "0xe52a736828c782c2a4a345bbe8052aed010fc82d",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50920/thumb/1000058676.jpg?1729580912",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe52a736828c782c2a4a345bbe8052aed010fc82d",
+    "binance-smart-chain": "0xe52a736828c782c2a4a345bbe8052aed010fc82d"
+  }
+}

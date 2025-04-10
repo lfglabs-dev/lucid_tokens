@@ -1,0 +1,16 @@
+{
+  "symbol": "YAY",
+  "name": "YAY Games",
+  "address": "0x524df384bffb18c0c8f3f43d012011f8f9795579",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18251/thumb/spaces_-MacxYkWFZNLr04KrFOx_avatar-1626443663682.png?1631136343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x524df384bffb18c0c8f3f43d012011f8f9795579",
+    "avalanche": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca"
+  }
+}

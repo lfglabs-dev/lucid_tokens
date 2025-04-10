@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGAI",
+  "name": "Dogai",
+  "address": "0x94db03752342bc9b5bbf89e3bf0132494f0cb2b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32818/thumb/Dogai.png?1699579830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x94db03752342bc9b5bbf89e3bf0132494f0cb2b3"
+  }
+}

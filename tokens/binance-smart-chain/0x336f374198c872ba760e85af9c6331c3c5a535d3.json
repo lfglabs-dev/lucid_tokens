@@ -1,0 +1,18 @@
+{
+  "symbol": "LIF3",
+  "name": "LIF3",
+  "address": "0x336f374198c872ba760e85af9c6331c3c5a535d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31291/thumb/Tokens.png?1692327153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7138eb0d563f3f6722500936a11dcae99d738a2c",
+    "binance-smart-chain": "0x336f374198c872ba760e85af9c6331c3c5a535d3",
+    "fantom": "0x5e074c28149cc35c1e5fbc79d8a6ea688dba2314",
+    "polygon-pos": "0x110b25d2b21ee73eb401f3ae7833f7072912a0bf"
+  }
+}

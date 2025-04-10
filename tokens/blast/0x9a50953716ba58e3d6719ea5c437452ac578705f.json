@@ -1,0 +1,16 @@
+{
+  "symbol": "mwstETH-WPUNKS:20",
+  "name": "MetaStreet V2 Deposit: WPUNKS-wstETH:20",
+  "address": "0x9a50953716ba58e3d6719ea5c437452ac578705f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc975342a95ccb75378ddc646b8620fa3cd5bc051",
+    "blast": "0x9a50953716ba58e3d6719ea5c437452ac578705f"
+  }
+}

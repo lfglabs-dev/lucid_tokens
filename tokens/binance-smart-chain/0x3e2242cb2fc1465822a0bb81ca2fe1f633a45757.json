@@ -1,0 +1,15 @@
+{
+  "symbol": "Forky",
+  "name": "Forky",
+  "address": "0x3e2242cb2fc1465822a0bb81ca2fe1f633a45757",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53199/thumb/coingecko.png?1735617209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3e2242cb2fc1465822a0bb81ca2fe1f633a45757"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "JLP",
+  "name": "JLaunchpad",
+  "address": "0x7add55f6220a63c5e1fda057efdf5600c02ddf3f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55033/thumb/JlaunchPad_200_x_200_%281%29.png?1743322560",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7add55f6220a63c5e1fda057efdf5600c02ddf3f"
+  }
+}

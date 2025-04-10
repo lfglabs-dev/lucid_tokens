@@ -1,0 +1,15 @@
+{
+  "symbol": "TABBY",
+  "name": "TabbyPOS",
+  "address": "0x319558c8ad708dc42f45ab70eada4750d6c942d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29931/thumb/tabbyposlogo200pixel.png?1682141922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x319558c8ad708dc42f45ab70eada4750d6c942d7"
+  }
+}

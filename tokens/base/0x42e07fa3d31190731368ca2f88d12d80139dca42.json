@@ -1,0 +1,15 @@
+{
+  "symbol": "INTOS",
+  "name": "INT OS",
+  "address": "0x42e07fa3d31190731368ca2f88d12d80139dca42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53428/thumb/pfp_square.png?1736362379",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x42e07fa3d31190731368ca2f88d12d80139dca42"
+  }
+}

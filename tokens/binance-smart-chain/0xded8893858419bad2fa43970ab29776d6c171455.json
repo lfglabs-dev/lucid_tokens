@@ -1,0 +1,15 @@
+{
+  "symbol": "GELO",
+  "name": "Grok Elo",
+  "address": "0xded8893858419bad2fa43970ab29776d6c171455",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33568/thumb/dogelogo2_resized%283%29.png?1702448333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xded8893858419bad2fa43970ab29776d6c171455"
+  }
+}

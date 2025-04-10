@@ -1,0 +1,16 @@
+{
+  "symbol": "TUA",
+  "name": "Atua AI",
+  "address": "0x36b2269fd151208a4bfc3dea503e0a6f2485fa78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50532/thumb/Atua_BG_1.png?1728205651",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x36b2269fd151208a4bfc3dea503e0a6f2485fa78",
+    "ethereum": "0x791a5c2261823dbf69b27b63e851b7745532cfa2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BORED",
+  "name": "BORED",
+  "address": "0x70737489dfdf1a29b7584d40500d3561bd4fe196",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37050/thumb/bored.jpeg?1713166470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x70737489dfdf1a29b7584d40500d3561bd4fe196"
+  }
+}

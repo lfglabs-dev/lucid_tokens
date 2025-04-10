@@ -1,0 +1,15 @@
+{
+  "symbol": "SSS",
+  "name": "SSS",
+  "address": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36139/thumb/sss.jpeg?1710684220",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e"
+  }
+}

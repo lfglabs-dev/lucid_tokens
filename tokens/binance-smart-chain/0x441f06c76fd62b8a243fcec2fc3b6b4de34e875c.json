@@ -1,0 +1,15 @@
+{
+  "symbol": "FH",
+  "name": "Fullhouse.gg",
+  "address": "0x441f06c76fd62b8a243fcec2fc3b6b4de34e875c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53073/thumb/IMG_20241225_055347_700.png?1735198799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x441f06c76fd62b8a243fcec2fc3b6b4de34e875c"
+  }
+}

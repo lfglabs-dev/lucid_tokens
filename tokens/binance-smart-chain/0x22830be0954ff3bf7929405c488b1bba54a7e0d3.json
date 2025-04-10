@@ -1,0 +1,15 @@
+{
+  "symbol": "BRCST",
+  "name": "BRCStarter",
+  "address": "0x22830be0954ff3bf7929405c488b1bba54a7e0d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36141/thumb/1000004631.jpg?1710685659",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x22830be0954ff3bf7929405c488b1bba54a7e0d3"
+  }
+}

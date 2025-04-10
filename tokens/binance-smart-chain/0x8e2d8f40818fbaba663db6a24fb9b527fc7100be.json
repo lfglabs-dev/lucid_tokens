@@ -1,0 +1,15 @@
+{
+  "symbol": "ORE",
+  "name": "ORE Token",
+  "address": "0x8e2d8f40818fbaba663db6a24fb9b527fc7100be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19047/thumb/12752.png?1634253604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8e2d8f40818fbaba663db6a24fb9b527fc7100be"
+  }
+}

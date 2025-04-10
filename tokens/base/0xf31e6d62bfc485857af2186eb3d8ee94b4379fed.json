@@ -1,0 +1,15 @@
+{
+  "symbol": "CHIDO",
+  "name": "Chinese Doge Wow",
+  "address": "0xf31e6d62bfc485857af2186eb3d8ee94b4379fed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52054/thumb/1.png?1732449299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf31e6d62bfc485857af2186eb3d8ee94b4379fed"
+  }
+}

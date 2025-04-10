@@ -1,0 +1,17 @@
+{
+  "symbol": "VOLT",
+  "name": "Volt Inu",
+  "address": "0x7f792db54b0e580cdc755178443f0430cf799aca",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25201/thumb/tghEEYDf_400x400.jpg?1650618171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7f792db54b0e580cdc755178443f0430cf799aca",
+    "binance-smart-chain": "0x7f792db54b0e580cdc755178443f0430cf799aca",
+    "polygon-pos": "0x7f792db54b0e580cdc755178443f0430cf799aca"
+  }
+}

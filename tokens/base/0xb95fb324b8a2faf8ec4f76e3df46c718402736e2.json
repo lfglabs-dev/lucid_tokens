@@ -1,0 +1,15 @@
+{
+  "symbol": "UNIT",
+  "name": "Flat Money",
+  "address": "0xb95fb324b8a2faf8ec4f76e3df46c718402736e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37894/thumb/flatmoneylogo200x200.png?1715847249",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb95fb324b8a2faf8ec4f76e3df46c718402736e2"
+  }
+}

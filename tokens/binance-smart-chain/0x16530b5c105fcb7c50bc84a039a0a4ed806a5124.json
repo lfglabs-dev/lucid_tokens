@@ -1,0 +1,15 @@
+{
+  "symbol": "LIXX",
+  "name": "Libra Incentix",
+  "address": "0x16530b5c105fcb7c50bc84a039a0a4ed806a5124",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31996/thumb/lixx.jpg?1695969644",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x16530b5c105fcb7c50bc84a039a0a4ed806a5124"
+  }
+}

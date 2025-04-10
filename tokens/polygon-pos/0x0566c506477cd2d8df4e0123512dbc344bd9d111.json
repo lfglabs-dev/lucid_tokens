@@ -1,0 +1,15 @@
+{
+  "symbol": "MLC",
+  "name": "MyLovelyCoin",
+  "address": "0x0566c506477cd2d8df4e0123512dbc344bd9d111",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38829/thumb/Token_logo_CMC.png?1719150043",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x0566c506477cd2d8df4e0123512dbc344bd9d111"
+  }
+}

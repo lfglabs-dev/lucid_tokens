@@ -1,0 +1,15 @@
+{
+  "symbol": "$PEACE",
+  "name": "Peace Token",
+  "address": "0xc2eeca228ebac45c339cc5e522dd3a10638155f1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51624/thumb/200x200.png?1731659578",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc2eeca228ebac45c339cc5e522dd3a10638155f1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$COPTER",
+  "name": "Helicopter Finance",
+  "address": "0xbc12ad556581ff7162e595e5956f5f3845fdb38c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15217/thumb/att1YJDb_400x400.jpg?1620115502",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbc12ad556581ff7162e595e5956f5f3845fdb38c"
+  }
+}

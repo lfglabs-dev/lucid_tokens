@@ -1,0 +1,15 @@
+{
+  "symbol": "FLIES",
+  "name": "MUTATIO",
+  "address": "0x8b67f2e56139ca052a7ec49cbcd1aa9c83f2752a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36752/thumb/MUTATIO.png?1712218952",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8b67f2e56139ca052a7ec49cbcd1aa9c83f2752a"
+  }
+}

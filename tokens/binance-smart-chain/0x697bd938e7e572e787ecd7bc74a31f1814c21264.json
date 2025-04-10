@@ -1,0 +1,15 @@
+{
+  "symbol": "DIFX",
+  "name": "DigitalFinancialExch",
+  "address": "0x697bd938e7e572e787ecd7bc74a31f1814c21264",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23241/thumb/difx.png?1647167550",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x697bd938e7e572e787ecd7bc74a31f1814c21264"
+  }
+}

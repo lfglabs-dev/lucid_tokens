@@ -1,0 +1,16 @@
+{
+  "symbol": "TKING",
+  "name": "Tiger King",
+  "address": "0x9b4bdddaeb68d85b0848bab7774e6855439fd94e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15605/thumb/tigerking.png?1649149229",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x24e89bdf2f65326b94e36978a7edeac63623dafa",
+    "binance-smart-chain": "0x9b4bdddaeb68d85b0848bab7774e6855439fd94e"
+  }
+}

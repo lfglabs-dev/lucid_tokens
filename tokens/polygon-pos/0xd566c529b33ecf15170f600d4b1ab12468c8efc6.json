@@ -1,0 +1,16 @@
+{
+  "symbol": "UERII",
+  "name": "UERII (PoS)",
+  "address": "0xd566c529b33ecf15170f600d4b1ab12468c8efc6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29388/thumb/Avatar512.png?1678424774",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc1abb8c93be6811affc70675b0432926c4bfbb5d",
+    "polygon-pos": "0xd566c529b33ecf15170f600d4b1ab12468c8efc6"
+  }
+}

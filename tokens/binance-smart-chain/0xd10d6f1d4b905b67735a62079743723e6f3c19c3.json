@@ -1,0 +1,15 @@
+{
+  "symbol": "BDOGITO",
+  "name": "BULLDOGITO",
+  "address": "0xd10d6f1d4b905b67735a62079743723e6f3c19c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53561/thumb/photo_2024-08-25_01-45-17_%281%29.png?1736676165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd10d6f1d4b905b67735a62079743723e6f3c19c3"
+  }
+}

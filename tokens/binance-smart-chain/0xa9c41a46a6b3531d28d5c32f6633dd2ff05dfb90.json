@@ -1,0 +1,15 @@
+{
+  "symbol": "WEX",
+  "name": "WaultSwap",
+  "address": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14882/thumb/200x200_logo_in_circle_wswap.png?1624012445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90"
+  }
+}

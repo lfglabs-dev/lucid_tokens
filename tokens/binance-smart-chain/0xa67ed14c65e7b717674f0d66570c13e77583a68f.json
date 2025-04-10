@@ -1,0 +1,15 @@
+{
+  "symbol": "NMD",
+  "name": "NexusMind",
+  "address": "0xa67ed14c65e7b717674f0d66570c13e77583a68f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35449/thumb/nmd-cg.jpg?1708664539",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa67ed14c65e7b717674f0d66570c13e77583a68f"
+  }
+}

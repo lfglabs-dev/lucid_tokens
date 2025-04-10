@@ -1,0 +1,15 @@
+{
+  "symbol": "FAN",
+  "name": "FAN",
+  "address": "0x3b9e9100db1389c518d47c635d80a90ad4c4f41b",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35118/thumb/cp77dY2L_400x400.jpg?1707403429",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3b9e9100db1389c518d47c635d80a90ad4c4f41b"
+  }
+}

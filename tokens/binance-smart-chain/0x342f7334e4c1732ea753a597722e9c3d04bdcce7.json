@@ -1,0 +1,15 @@
+{
+  "symbol": "EidMubarak",
+  "name": "Eid Mubarak",
+  "address": "0x342f7334e4c1732ea753a597722e9c3d04bdcce7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54899/thumb/IMG_9788.jpeg?1742448106",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x342f7334e4c1732ea753a597722e9c3d04bdcce7"
+  }
+}

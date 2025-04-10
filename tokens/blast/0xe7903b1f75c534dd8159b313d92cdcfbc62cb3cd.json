@@ -1,0 +1,21 @@
+{
+  "symbol": "wrsETH",
+  "name": "rsETHWrapper",
+  "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "linea": "0xd2671165570f41bbb3b0097893300b6eb6101e6c",
+    "optimistic-ethereum": "0x87eee96d50fb761ad85b1c982d28a042169d61b1",
+    "zksync": "0xd4169e045bcf9a86cc00101225d9ed61d2f51af2",
+    "scroll": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f",
+    "blast": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
+    "mode": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
+    "base": "0xedfa23602d0ec14714057867a78d01e94176bea0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "DCK",
+  "name": "DexCheck",
+  "address": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26412/thumb/dexcheck_logo.png?1659094003",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
+    "ethereum": "0x672f4fa517894496b8a958b4b3fca068ce513a39",
+    "base": "0x1718c0b55a07f61db44f0ac7404dc574b5abfef2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DEER",
+  "name": "Deer Token",
+  "address": "0x2442421fe1acc8a732251fc372892b5ff1fdd938",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54563/thumb/IMG_3378.jpeg?1740375386",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2442421fe1acc8a732251fc372892b5ff1fdd938"
+  }
+}

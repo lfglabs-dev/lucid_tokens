@@ -1,0 +1,15 @@
+{
+  "symbol": "UBXS",
+  "name": "UBXS Token",
+  "address": "0x4f1960e29b2ca581a38c5c474e123f420f8092db",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22558/thumb/logo_200x200.png?1642056380",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4f1960e29b2ca581a38c5c474e123f420f8092db"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "CHAMP",
+  "name": "Super Champs",
+  "address": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51900/thumb/CHAMP_Token_256x256.png?1732131989",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
+    "ethereum": "0x4af1bc87e43ddb22188bb3791ae00341586fe8fc"
+  }
+}

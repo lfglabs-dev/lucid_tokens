@@ -1,0 +1,15 @@
+{
+  "symbol": "GrokBank",
+  "name": "Grok Bank",
+  "address": "0xc1a8f8bb27958c92ca1ed00340a50297cd4ccdd8",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34166/thumb/photo_2023-12-30_18.37.05.png?1704216743",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc1a8f8bb27958c92ca1ed00340a50297cd4ccdd8"
+  }
+}

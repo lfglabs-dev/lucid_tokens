@@ -1,0 +1,15 @@
+{
+  "symbol": "LEO",
+  "name": "LEO",
+  "address": "0x04f388e30bfd03f357ae061ec5680c7e4ac4cf09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36306/thumb/leologo_%281%29.png?1711090151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x04f388e30bfd03f357ae061ec5680c7e4ac4cf09"
+  }
+}

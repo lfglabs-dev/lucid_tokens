@@ -1,0 +1,15 @@
+{
+  "symbol": "FrokAI",
+  "name": "FrokAI",
+  "address": "0xcbfe8e065534d0cc117bd71a11b0249a63e247f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39050/thumb/L8noko50_400x400.jpg?1720121982",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcbfe8e065534d0cc117bd71a11b0249a63e247f7"
+  }
+}

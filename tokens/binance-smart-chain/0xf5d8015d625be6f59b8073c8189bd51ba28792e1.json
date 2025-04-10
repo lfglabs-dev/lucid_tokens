@@ -1,0 +1,16 @@
+{
+  "symbol": "JULD",
+  "name": "JULSWAP DAO",
+  "address": "0xf5d8015d625be6f59b8073c8189bd51ba28792e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13839/thumb/Logo-D-Unicorn.png?1622435397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf5d8015d625be6f59b8073c8189bd51ba28792e1",
+    "harmony-shard-0": "0x504d7d5bd2075fa782fbd0be9bea4cdc7e25f5a1"
+  }
+}

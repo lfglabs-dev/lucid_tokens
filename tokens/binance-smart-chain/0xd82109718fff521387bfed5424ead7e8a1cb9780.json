@@ -1,0 +1,15 @@
+{
+  "symbol": "ONC",
+  "name": "Oncology Network",
+  "address": "0xd82109718fff521387bfed5424ead7e8a1cb9780",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53303/thumb/Oncology_full_logo.png?1736065328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd82109718fff521387bfed5424ead7e8a1cb9780"
+  }
+}

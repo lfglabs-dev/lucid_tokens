@@ -1,0 +1,15 @@
+{
+  "symbol": "uAAVE",
+  "name": "Aave (Universal)",
+  "address": "0xf383074c4b993d1ccd196188d27d0ddf22ad463c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54499/thumb/UA-AAVE_200x200.png?1740031894",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf383074c4b993d1ccd196188d27d0ddf22ad463c"
+  }
+}

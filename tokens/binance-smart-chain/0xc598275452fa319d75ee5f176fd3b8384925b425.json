@@ -1,0 +1,15 @@
+{
+  "symbol": "STRM",
+  "name": "Stream",
+  "address": "0xc598275452fa319d75ee5f176fd3b8384925b425",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25438/thumb/17464.png?1651743438",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc598275452fa319d75ee5f176fd3b8384925b425"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ISA",
+  "name": "Islander",
+  "address": "0x3eefb18003d033661f84e48360ebecd181a84709",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22375/thumb/islander-new-logo.png?1649051752",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x3eefb18003d033661f84e48360ebecd181a84709"
+  }
+}

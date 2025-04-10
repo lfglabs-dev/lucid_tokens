@@ -1,0 +1,16 @@
+{
+  "symbol": "SOIL",
+  "name": "Soil",
+  "address": "0x43c73b90e0c2a355784dcf0da12f477729b31e77",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32050/thumb/SOIL_sygnet_dark_blue.png?1696237354",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x43c73b90e0c2a355784dcf0da12f477729b31e77",
+    "ethereum": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16"
+  }
+}

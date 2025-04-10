@@ -1,0 +1,16 @@
+{
+  "symbol": "UNIX",
+  "name": "UniX Gaming",
+  "address": "0x6f97d3f120fbbdaacf1c9da61a8ad126b7426861",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20674/thumb/unix.png?1637735771",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8",
+    "avalanche": "0x6f97d3f120fbbdaacf1c9da61a8ad126b7426861"
+  }
+}

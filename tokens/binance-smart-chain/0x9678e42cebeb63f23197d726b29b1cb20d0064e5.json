@@ -1,0 +1,15 @@
+{
+  "symbol": "IOTX",
+  "name": "IoTeX Network",
+  "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15978/thumb/iotex-logo.png?1622527411",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5"
+  }
+}

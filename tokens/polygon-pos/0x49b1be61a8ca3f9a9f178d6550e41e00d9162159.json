@@ -1,0 +1,16 @@
+{
+  "symbol": "GGTK",
+  "name": "GGToken (PoS)",
+  "address": "0x49b1be61a8ca3f9a9f178d6550e41e00d9162159",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13666/thumb/ggtk.png?1629348879",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
+    "polygon-pos": "0x49b1be61a8ca3f9a9f178d6550e41e00d9162159"
+  }
+}

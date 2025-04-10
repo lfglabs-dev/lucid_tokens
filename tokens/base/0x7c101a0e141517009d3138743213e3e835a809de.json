@@ -1,0 +1,15 @@
+{
+  "symbol": "COSMIC",
+  "name": "Cosmic",
+  "address": "0x7c101a0e141517009d3138743213e3e835a809de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38759/thumb/Base_Cosmic.PNG?1718740331",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7c101a0e141517009d3138743213e3e835a809de"
+  }
+}

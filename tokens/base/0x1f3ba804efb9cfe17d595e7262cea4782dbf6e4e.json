@@ -1,0 +1,15 @@
+{
+  "symbol": "HPC",
+  "name": "Happy Puppy Club",
+  "address": "0x1f3ba804efb9cfe17d595e7262cea4782dbf6e4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35822/thumb/hpc-token-200.png?1709886836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1f3ba804efb9cfe17d595e7262cea4782dbf6e4e"
+  }
+}

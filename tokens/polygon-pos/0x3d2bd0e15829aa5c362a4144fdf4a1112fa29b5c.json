@@ -1,0 +1,17 @@
+{
+  "symbol": "BONSAI",
+  "name": "Bonsai Token",
+  "address": "0x3d2bd0e15829aa5c362a4144fdf4a1112fa29b5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35884/thumb/Bonsai_BW_Coingecko-200x200.jpg?1710071621",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3d2bd0e15829aa5c362a4144fdf4a1112fa29b5c",
+    "zksync": "0xb0588f9a9cade7cd5f194a5fe77acd6a58250f82",
+    "base": "0x474f4cb764df9da079d94052fed39625c147c12c"
+  }
+}

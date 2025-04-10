@@ -1,0 +1,15 @@
+{
+  "symbol": "WIFEDOGE",
+  "name": "WIFEDOGE",
+  "address": "0x07b36f2549291d320132712a1e64d3826b1fb4d7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17346/thumb/w_doge_logo200.png?1627365473",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x07b36f2549291d320132712a1e64d3826b1fb4d7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RAYS",
+  "name": "RAYS (PoS)",
+  "address": "0x2d027e55b85429e9f205930a8aff6d8e6c8c3021",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26609/thumb/mch_rays_200.png?1659015796",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2d027e55b85429e9f205930a8aff6d8e6c8c3021"
+  }
+}

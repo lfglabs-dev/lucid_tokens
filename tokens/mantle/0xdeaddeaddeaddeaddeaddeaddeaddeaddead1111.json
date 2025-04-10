@@ -1,0 +1,15 @@
+{
+  "symbol": "WETH",
+  "name": "Ether",
+  "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31013/thumb/wrapped-eth-mantle-bridge.png?1689742991",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mantle": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111"
+  }
+}

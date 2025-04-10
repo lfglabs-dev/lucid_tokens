@@ -1,0 +1,15 @@
+{
+  "symbol": "Bully",
+  "name": "Based Bully",
+  "address": "0x3d6ac59538e8b6c223f7ce9ce2fb2387d27cb299",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53839/thumb/basedbullylogo.PNG?1737560782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3d6ac59538e8b6c223f7ce9ce2fb2387d27cb299"
+  }
+}

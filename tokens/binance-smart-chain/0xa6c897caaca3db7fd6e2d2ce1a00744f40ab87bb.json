@@ -1,0 +1,15 @@
+{
+  "symbol": "DRACE",
+  "name": "DeathRoad Token",
+  "address": "0xa6c897caaca3db7fd6e2d2ce1a00744f40ab87bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18178/thumb/DeathRoad_token_logo_200x200-25.png?1630897737",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa6c897caaca3db7fd6e2d2ce1a00744f40ab87bb"
+  }
+}

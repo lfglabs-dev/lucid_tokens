@@ -1,0 +1,15 @@
+{
+  "symbol": "TRUMP",
+  "name": "Meme TrumpCoin",
+  "address": "0xd28b3fd350a14f0b1d14633e3d14db7b80406391",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52523/thumb/signal-2024-12-05-094620_002.png?1733512983",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd28b3fd350a14f0b1d14633e3d14db7b80406391"
+  }
+}

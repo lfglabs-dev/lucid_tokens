@@ -1,0 +1,16 @@
+{
+  "symbol": "LUCHA",
+  "name": "Luchadores.io LUCHA Token",
+  "address": "0xf4435cc8b478d54313f04c956882be3d9acf9f6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22794/thumb/lucha.png?1642581523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf4435cc8b478d54313f04c956882be3d9acf9f6f",
+    "polygon-pos": "0x6749441fdc8650b5b5a854ed255c82ef361f1596"
+  }
+}

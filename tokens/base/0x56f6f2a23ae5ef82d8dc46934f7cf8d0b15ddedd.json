@@ -1,0 +1,16 @@
+{
+  "symbol": "Croginal",
+  "name": "Croginal Cats",
+  "address": "0x56f6f2a23ae5ef82d8dc46934f7cf8d0b15ddedd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39333/thumb/croginalcoin.png?1721793281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "cronos": "0xd50f5739a09f36c6f97cc9a4849c5462ba6129a3",
+    "base": "0x56f6f2a23ae5ef82d8dc46934f7cf8d0b15ddedd"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "LAVA",
+  "name": "Axelar Wrapped LAVA",
+  "address": "0x11e969e9b3f89cb16d686a03cd8508c9fc0361af",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37354/thumb/lava_logo.png?1714098423",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x11e969e9b3f89cb16d686a03cd8508c9fc0361af",
+    "base": "0x11e969e9b3f89cb16d686a03cd8508c9fc0361af"
+  }
+}

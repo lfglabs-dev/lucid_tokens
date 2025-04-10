@@ -1,0 +1,15 @@
+{
+  "symbol": "AIR",
+  "name": "AIRcoin",
+  "address": "0x6cc87c5ab2cfac0f2d582286f5ba69ca555fecb0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38647/thumb/IMG_3988.png?1718213220",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "blast": "0x6cc87c5ab2cfac0f2d582286f5ba69ca555fecb0"
+  }
+}

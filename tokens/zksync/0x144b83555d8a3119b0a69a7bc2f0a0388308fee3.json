@@ -1,0 +1,15 @@
+{
+  "symbol": "AAI",
+  "name": "AutoAir AI",
+  "address": "0x144b83555d8a3119b0a69a7bc2f0a0388308fee3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36165/thumb/AAI_-_Logo_200x200.png?1710745274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x144b83555d8a3119b0a69a7bc2f0a0388308fee3"
+  }
+}

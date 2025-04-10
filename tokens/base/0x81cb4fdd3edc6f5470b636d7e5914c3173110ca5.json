@@ -1,0 +1,15 @@
+{
+  "symbol": "CORA",
+  "name": "Cora by Virtuals",
+  "address": "0x81cb4fdd3edc6f5470b636d7e5914c3173110ca5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53182/thumb/Cora.jpg?1735562862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x81cb4fdd3edc6f5470b636d7e5914c3173110ca5"
+  }
+}

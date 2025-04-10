@@ -1,0 +1,15 @@
+{
+  "symbol": "BABY NEIRO",
+  "name": "BABY NEIRO",
+  "address": "0x7b7af2f5414fb6daeea39e811cf288380323f889",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50706/thumb/photo_2024-10-11_00.26.32.png?1728788051",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7b7af2f5414fb6daeea39e811cf288380323f889"
+  }
+}

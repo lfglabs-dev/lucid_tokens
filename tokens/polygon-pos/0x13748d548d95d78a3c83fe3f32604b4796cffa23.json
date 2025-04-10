@@ -1,0 +1,15 @@
+{
+  "symbol": "KOGECOIN",
+  "name": "kogecoin.io",
+  "address": "0x13748d548d95d78a3c83fe3f32604b4796cffa23",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17546/thumb/koge.PNG?1628204432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x13748d548d95d78a3c83fe3f32604b4796cffa23"
+  }
+}

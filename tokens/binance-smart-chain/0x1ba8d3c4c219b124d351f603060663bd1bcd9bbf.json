@@ -1,0 +1,16 @@
+{
+  "symbol": "TORN",
+  "name": "TornadoCash",
+  "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13496/thumb/ZINt8NSB_400x400.jpg?1609193407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x77777feddddffc19ff86db637967013e6c6a116c",
+    "binance-smart-chain": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf"
+  }
+}

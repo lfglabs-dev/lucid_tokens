@@ -1,0 +1,16 @@
+{
+  "symbol": "MBX",
+  "name": "MARBLEX on BNB",
+  "address": "0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24423/thumb/AgYzKzLt_400x400.jpg?1647654911",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
+    "klay-token": "0xd068c52d81f4409b9502da926ace3301cc41f623"
+  }
+}

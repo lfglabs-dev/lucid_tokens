@@ -1,0 +1,15 @@
+{
+  "symbol": "savUSD",
+  "name": "Staked avUSD",
+  "address": "0x06d47f3fb376649c3a9dafe069b3d6e35572219e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53558/thumb/token-savusd.png?1736674786",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x06d47f3fb376649c3a9dafe069b3d6e35572219e"
+  }
+}

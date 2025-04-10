@@ -1,0 +1,15 @@
+{
+  "symbol": "LOD3",
+  "name": "LOD3 Token",
+  "address": "0xbbaaa0420d474b34be197f95a323c2ff3829e811",
+  "decimals": 17,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28296/thumb/LODE-Token_200.png?1669265495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xbbaaa0420d474b34be197f95a323c2ff3829e811"
+  }
+}

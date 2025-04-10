@@ -1,0 +1,15 @@
+{
+  "symbol": "MXY",
+  "name": "MXY Token",
+  "address": "0x965d3704de812f5e1e7eef1ac22fe92174258bd9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22842/thumb/261052729_115071754344881_6053416489823202921_n.jpg?1642746147",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x965d3704de812f5e1e7eef1ac22fe92174258bd9"
+  }
+}

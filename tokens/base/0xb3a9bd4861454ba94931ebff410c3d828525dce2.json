@@ -1,0 +1,16 @@
+{
+  "symbol": "WOOF",
+  "name": "WoofWork.io",
+  "address": "0xb3a9bd4861454ba94931ebff410c3d828525dce2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28903/thumb/WWlogoTransparent_200x200.png?1675241564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6bc08509b36a98e829dffad49fde5e412645d0a3",
+    "base": "0xb3a9bd4861454ba94931ebff410c3d828525dce2"
+  }
+}

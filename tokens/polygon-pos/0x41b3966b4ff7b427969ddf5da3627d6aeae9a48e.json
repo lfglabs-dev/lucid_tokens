@@ -1,0 +1,18 @@
+{
+  "symbol": "NEXO",
+  "name": "Nexo (PoS)",
+  "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3695/thumb/nexo.png?1548086057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "energi": "0x04640dc771edd73cbeb934fb5461674830baea11",
+    "fantom": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+    "polygon-pos": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "VAPE",
+  "name": "VapeToken",
+  "address": "0x7bddaf6dbab30224aa2116c4291521c7a60d5f55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29235/thumb/logo_vape.png?1677555835",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x7bddaf6dbab30224aa2116c4291521c7a60d5f55"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KUNCI",
+  "name": "Kunci Coin",
+  "address": "0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23723/thumb/xZX34B26_400x400.jpg?1645161855",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125"
+  }
+}

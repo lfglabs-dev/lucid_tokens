@@ -1,0 +1,15 @@
+{
+  "symbol": "$AIAGENT",
+  "name": "AI Agents",
+  "address": "0xadcdbcb0db9edf31509971f64f0a8e0fc53b384d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52733/thumb/Logo_CASPER_AI.png?1734104098",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xadcdbcb0db9edf31509971f64f0a8e0fc53b384d"
+  }
+}

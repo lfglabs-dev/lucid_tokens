@@ -1,0 +1,15 @@
+{
+  "symbol": "RAWR",
+  "name": "Dino Poker",
+  "address": "0x469fda1fb46fcb4befc0d8b994b516bd28c87003",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35695/thumb/twitter_logo.png?1709546744",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x469fda1fb46fcb4befc0d8b994b516bd28c87003"
+  }
+}

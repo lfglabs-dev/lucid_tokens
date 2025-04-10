@@ -1,0 +1,15 @@
+{
+  "symbol": "MGP",
+  "name": "Magic Power Token",
+  "address": "0xa677bc9bdb10329e488a4d8387ed7a08b2fc9005",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22011/thumb/https-Mpg-com-Logo.jpg?1640590454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa677bc9bdb10329e488a4d8387ed7a08b2fc9005"
+  }
+}

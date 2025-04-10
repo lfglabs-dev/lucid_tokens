@@ -1,0 +1,19 @@
+{
+  "symbol": "AMPL",
+  "name": "AMPL secured by Meter Passport",
+  "address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+    "harmony-shard-0": "0xf2f5bf00cd952f3f980a02f5dce278cbff4dae05",
+    "energi": "0x79786ed8a70ccec6c7a31debc7fefc5119f9dc95",
+    "binance-smart-chain": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
+    "avalanche": "0x027dbca046ca156de9622cd1e2d907d375e53aa7"
+  }
+}

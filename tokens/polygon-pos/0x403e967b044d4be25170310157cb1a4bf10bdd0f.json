@@ -1,0 +1,15 @@
+{
+  "symbol": "FUD",
+  "name": "Aavegotchi FUD",
+  "address": "0x403e967b044d4be25170310157cb1a4bf10bdd0f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24736/thumb/fud.png?1648769512",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x403e967b044d4be25170310157cb1a4bf10bdd0f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SMUDCAT",
+  "name": "Smudge Cat",
+  "address": "0x22dc834c3ff3e45f484bf24b9b07b851b981900f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31209/thumb/logo192.png?1691402644",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x22dc834c3ff3e45f484bf24b9b07b851b981900f"
+  }
+}

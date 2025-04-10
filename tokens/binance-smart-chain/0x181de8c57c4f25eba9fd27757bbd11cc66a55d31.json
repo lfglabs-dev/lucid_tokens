@@ -1,0 +1,18 @@
+{
+  "symbol": "BELUGA",
+  "name": "BelugaToken",
+  "address": "0x181de8c57c4f25eba9fd27757bbd11cc66a55d31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13790/thumb/brand-logo-v2.23e5d279.png?1624906164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x181de8c57c4f25eba9fd27757bbd11cc66a55d31",
+    "harmony-shard-0": "0x2f20a4022bf71daf47ec43972b6ecf56e0db0609",
+    "fantom": "0x4a13a2cf881f5378def61e430139ed26d843df9a",
+    "polygon-pos": "0x47536f17f4ff30e64a96a7555826b8f9e66ec468"
+  }
+}

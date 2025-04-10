@@ -1,0 +1,15 @@
+{
+  "symbol": "BUB",
+  "name": "BUBCAT",
+  "address": "0x2c21b6d44e4f01807e2f9577ddd89f89d72c292c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51095/thumb/bubcbat.jpg?1730081173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2c21b6d44e4f01807e2f9577ddd89f89d72c292c"
+  }
+}

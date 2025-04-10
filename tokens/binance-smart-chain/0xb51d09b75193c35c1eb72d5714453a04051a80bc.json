@@ -1,0 +1,15 @@
+{
+  "symbol": "WMN",
+  "name": "WebMind Network",
+  "address": "0xb51d09b75193c35c1eb72d5714453a04051a80bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37090/thumb/Screenshot_2024-03-19-11-24-54-26_0b2fce7a16bf2b728d6ffa28c8d60efb.jpg?1713270729",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb51d09b75193c35c1eb72d5714453a04051a80bc"
+  }
+}

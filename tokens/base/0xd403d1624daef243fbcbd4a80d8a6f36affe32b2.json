@@ -1,0 +1,15 @@
+{
+  "symbol": "uLINK",
+  "name": "Chainlink (Universal)",
+  "address": "0xd403d1624daef243fbcbd4a80d8a6f36affe32b2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52901/thumb/UA-LINK_1_%281%29.png?1734636820",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd403d1624daef243fbcbd4a80d8a6f36affe32b2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "Rong",
+  "name": "Rong",
+  "address": "0xb6dea09415611c6f0425f3437c43de966aa7a1e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33659/thumb/rong.jpg?1702598293",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb6dea09415611c6f0425f3437c43de966aa7a1e9"
+  }
+}

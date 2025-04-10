@@ -1,0 +1,15 @@
+{
+  "symbol": "AVO",
+  "name": "Avoteo",
+  "address": "0xaed8bd0608ef3cc45290a8d0e4223ef4c92dd3dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27659/thumb/photo_2022-10-06_13-03-48.jpg?1665100954",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaed8bd0608ef3cc45290a8d0e4223ef4c92dd3dc"
+  }
+}

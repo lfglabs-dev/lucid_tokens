@@ -1,0 +1,15 @@
+{
+  "symbol": "BRIAN",
+  "name": "Brian",
+  "address": "0x3ecced5b416e58664f04a39dd18935eb71d33b15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51099/thumb/Brian_Arm_Strong.png?1730083824",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3ecced5b416e58664f04a39dd18935eb71d33b15"
+  }
+}

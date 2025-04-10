@@ -1,0 +1,15 @@
+{
+  "symbol": "SLEX",
+  "name": "SLEX Token",
+  "address": "0xc56dc6c39b2866fa8b6970f94a228ec15be3bcf6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36397/thumb/slex.jpeg?1711362970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc56dc6c39b2866fa8b6970f94a228ec15be3bcf6"
+  }
+}

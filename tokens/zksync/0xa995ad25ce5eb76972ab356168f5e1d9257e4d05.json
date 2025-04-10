@@ -1,0 +1,16 @@
+{
+  "symbol": "KOI",
+  "name": "Koi",
+  "address": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35766/thumb/Koi_logo.png?1709782399",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9d14bce1daddf408d77295bb1be9b343814f44de",
+    "zksync": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05"
+  }
+}

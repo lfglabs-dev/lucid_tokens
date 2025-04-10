@@ -1,0 +1,15 @@
+{
+  "symbol": "ZILLA",
+  "name": "DogeZilla",
+  "address": "0x4ace5cdb2aa47d1b2b8e4c4ca01bf6850a4b87b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33750/thumb/Untitled_%28100_x_100_px%29.png?1702945384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4ace5cdb2aa47d1b2b8e4c4ca01bf6850a4b87b5"
+  }
+}

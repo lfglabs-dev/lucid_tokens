@@ -1,0 +1,15 @@
+{
+  "symbol": "SACA",
+  "name": "Sandwich Cat",
+  "address": "0xed1978d01d4a8a9d6a43ac79403d5b8dfbed739b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36876/thumb/200x200_%281%29.png?1712646447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xed1978d01d4a8a9d6a43ac79403d5b8dfbed739b"
+  }
+}

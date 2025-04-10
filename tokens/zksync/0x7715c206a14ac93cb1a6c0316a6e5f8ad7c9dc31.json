@@ -1,0 +1,22 @@
+{
+  "symbol": "USDM",
+  "name": "Mountain Protocol USD",
+  "address": "0x7715c206a14ac93cb1a6c0316a6e5f8ad7c9dc31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31719/thumb/usdm.png?1694587333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "avalanche": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "celo": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "optimistic-ethereum": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "zksync": "0x7715c206a14ac93cb1a6c0316a6e5f8ad7c9dc31",
+    "arbitrum-one": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "polygon-pos": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "base": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+  }
+}

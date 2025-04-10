@@ -1,0 +1,15 @@
+{
+  "symbol": "MAT",
+  "name": "mymasterwar.com",
+  "address": "0xf3147987a00d35eecc10c731269003ca093740ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18772/thumb/JiuEEvte_400x400.jpg?1633393017",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf3147987a00d35eecc10c731269003ca093740ca"
+  }
+}

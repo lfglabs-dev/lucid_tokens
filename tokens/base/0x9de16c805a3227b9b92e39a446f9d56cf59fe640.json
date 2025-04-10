@@ -1,0 +1,15 @@
+{
+  "symbol": "BENTO",
+  "name": "Bento",
+  "address": "0x9de16c805a3227b9b92e39a446f9d56cf59fe640",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37138/thumb/logo-bento-200-200.png?1713419221",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9de16c805a3227b9b92e39a446f9d56cf59fe640"
+  }
+}

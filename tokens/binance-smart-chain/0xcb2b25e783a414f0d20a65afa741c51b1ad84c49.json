@@ -1,0 +1,15 @@
+{
+  "symbol": "SRP",
+  "name": "Starpunk",
+  "address": "0xcb2b25e783a414f0d20a65afa741c51b1ad84c49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18631/thumb/starpunk.PNG?1632713040",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcb2b25e783a414f0d20a65afa741c51b1ad84c49"
+  }
+}

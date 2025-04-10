@@ -1,0 +1,16 @@
+{
+  "symbol": "mETH",
+  "name": "mETH",
+  "address": "0xcda86a272531e8640cd7f1a92c01839911b90bb0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa",
+    "mantle": "0xcda86a272531e8640cd7f1a92c01839911b90bb0"
+  }
+}

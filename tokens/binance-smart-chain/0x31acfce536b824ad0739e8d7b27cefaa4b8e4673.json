@@ -1,0 +1,15 @@
+{
+  "symbol": "LKN",
+  "name": "Lockness",
+  "address": "0x31acfce536b824ad0739e8d7b27cefaa4b8e4673",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20176/thumb/lockness_bubles.png?1636603769",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x31acfce536b824ad0739e8d7b27cefaa4b8e4673"
+  }
+}

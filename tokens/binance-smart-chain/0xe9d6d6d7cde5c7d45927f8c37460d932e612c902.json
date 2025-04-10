@@ -1,0 +1,15 @@
+{
+  "symbol": "SFTY",
+  "name": "Stella Fantasy Token",
+  "address": "0xe9d6d6d7cde5c7d45927f8c37460d932e612c902",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29717/thumb/Token_Logo_SFTY.png?1680769510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe9d6d6d7cde5c7d45927f8c37460d932e612c902"
+  }
+}

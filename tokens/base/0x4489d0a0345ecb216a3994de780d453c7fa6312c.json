@@ -1,0 +1,16 @@
+{
+  "symbol": "STPT",
+  "name": "STPT",
+  "address": "0x4489d0a0345ecb216a3994de780d453c7fa6312c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8713/thumb/STP.png?1560262664",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+    "base": "0x4489d0a0345ecb216a3994de780d453c7fa6312c"
+  }
+}

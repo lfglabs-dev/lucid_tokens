@@ -1,0 +1,15 @@
+{
+  "symbol": "AAI",
+  "name": "Aventis AI",
+  "address": "0xed19b2b301e8a4e18c5dca374a27e7d209ba02c9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38919/thumb/AAIToken_%281%29.png?1719505836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xed19b2b301e8a4e18c5dca374a27e7d209ba02c9"
+  }
+}

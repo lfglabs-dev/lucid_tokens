@@ -1,0 +1,15 @@
+{
+  "symbol": "gaib",
+  "name": "_gai16zbrielShai16zpr0",
+  "address": "0x9a1b42f7f6d649b73bdb275972295acc940b153a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54011/thumb/cutelex.jpg?1737967746",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9a1b42f7f6d649b73bdb275972295acc940b153a"
+  }
+}

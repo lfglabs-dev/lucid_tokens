@@ -1,0 +1,15 @@
+{
+  "symbol": "MBC",
+  "name": "MonbaseCoin",
+  "address": "0x551faab1027cc50efaea5bed092e330475c3cd99",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35838/thumb/Token_MBC_BG_Square.png?1709889192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x551faab1027cc50efaea5bed092e330475c3cd99"
+  }
+}

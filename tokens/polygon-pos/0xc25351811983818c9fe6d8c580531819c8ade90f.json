@@ -1,0 +1,16 @@
+{
+  "symbol": "IDLE",
+  "name": "Idle (PoS)",
+  "address": "0xc25351811983818c9fe6d8c580531819c8ade90f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13286/thumb/token-logo.png?1607004948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+    "polygon-pos": "0xc25351811983818c9fe6d8c580531819c8ade90f"
+  }
+}

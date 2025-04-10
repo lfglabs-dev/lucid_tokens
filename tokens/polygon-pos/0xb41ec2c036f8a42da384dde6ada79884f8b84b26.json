@@ -1,0 +1,16 @@
+{
+  "symbol": "TIDAL",
+  "name": "Tidal Token",
+  "address": "0xb41ec2c036f8a42da384dde6ada79884f8b84b26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14460/thumb/Tidal-mono.png?1616233894",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+    "polygon-pos": "0xb41ec2c036f8a42da384dde6ada79884f8b84b26"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PepeAI",
+  "name": "Pepe AI",
+  "address": "0xe57f73eb27da9d17f90c994744d842e95700c100",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30148/thumb/logo_200px.png?1683513273",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe57f73eb27da9d17f90c994744d842e95700c100"
+  }
+}

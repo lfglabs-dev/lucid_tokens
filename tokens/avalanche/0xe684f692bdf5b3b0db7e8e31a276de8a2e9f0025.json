@@ -1,0 +1,15 @@
+{
+  "symbol": "rBTC.b",
+  "name": "Yak Milk Suzaku Restaked BTC.b",
+  "address": "0xe684f692bdf5b3b0db7e8e31a276de8a2e9f0025",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54156/thumb/rBTC.b_token_logo.png?1738479841",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xe684f692bdf5b3b0db7e8e31a276de8a2e9f0025"
+  }
+}

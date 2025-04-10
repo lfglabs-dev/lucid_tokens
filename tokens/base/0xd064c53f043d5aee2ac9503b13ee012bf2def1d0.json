@@ -1,0 +1,15 @@
+{
+  "symbol": "DEFIDO",
+  "name": "DeFido",
+  "address": "0xd064c53f043d5aee2ac9503b13ee012bf2def1d0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18861/thumb/defido.png?1635638445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd064c53f043d5aee2ac9503b13ee012bf2def1d0"
+  }
+}

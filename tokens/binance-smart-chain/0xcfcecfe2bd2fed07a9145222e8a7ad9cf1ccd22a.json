@@ -1,0 +1,18 @@
+{
+  "symbol": "ADS",
+  "name": "Adshares",
+  "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+  "decimals": 11,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/868/thumb/ads_tr_900.png?1549005693",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+    "base": "0xb20a4bd059f5914a2f8b9c18881c637f79efb7df",
+    "binance-smart-chain": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+    "polygon-pos": "0x598e49f01befeb1753737934a5b11fea9119c796"
+  }
+}

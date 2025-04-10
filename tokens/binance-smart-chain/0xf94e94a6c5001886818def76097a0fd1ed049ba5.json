@@ -1,0 +1,15 @@
+{
+  "symbol": "JWIF",
+  "name": "Jerrywifhat",
+  "address": "0xf94e94a6c5001886818def76097a0fd1ed049ba5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39612/thumb/JWIF.jpg?1723093181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf94e94a6c5001886818def76097a0fd1ed049ba5"
+  }
+}

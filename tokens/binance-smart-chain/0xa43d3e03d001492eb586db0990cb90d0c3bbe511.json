@@ -1,0 +1,15 @@
+{
+  "symbol": "CLYC",
+  "name": "Coinlocally Coin",
+  "address": "0xa43d3e03d001492eb586db0990cb90d0c3bbe511",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28808/thumb/light.png?1674304252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa43d3e03d001492eb586db0990cb90d0c3bbe511"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "HENAI",
+  "name": "HenjinAI Token",
+  "address": "0x42b08e7a9211482d3643a126a7df1895448d3509",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53542/thumb/henjinai-logo.jpg?1736610645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x42b08e7a9211482d3643a126a7df1895448d3509"
+  }
+}

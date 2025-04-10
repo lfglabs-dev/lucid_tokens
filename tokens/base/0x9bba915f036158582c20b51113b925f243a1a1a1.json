@@ -1,0 +1,15 @@
+{
+  "symbol": "IMGN",
+  "name": "IMGN Labs",
+  "address": "0x9bba915f036158582c20b51113b925f243a1a1a1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28666/thumb/200x200-Nai.png?1672990319",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9bba915f036158582c20b51113b925f243a1a1a1"
+  }
+}

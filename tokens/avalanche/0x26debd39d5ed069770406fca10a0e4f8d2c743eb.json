@@ -1,0 +1,15 @@
+{
+  "symbol": "GUN",
+  "name": "GUNZ",
+  "address": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55133/thumb/Ea90ZMxI_400x400.jpg?1744004695",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb"
+  }
+}

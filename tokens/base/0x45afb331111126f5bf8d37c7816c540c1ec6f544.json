@@ -1,0 +1,17 @@
+{
+  "symbol": "BLK.d",
+  "name": "Blackrock, Inc. - Dinari",
+  "address": "0x45afb331111126f5bf8d37c7816c540c1ec6f544",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53952/thumb/d-token-200.png?1737788600",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf2f26eee8b40447f664f20ad3513e894153fe09e",
+    "blast": "0xbfdaa788366593d3c7d15f9abc0b1cab2b1694ba",
+    "base": "0x45afb331111126f5bf8d37c7816c540c1ec6f544"
+  }
+}

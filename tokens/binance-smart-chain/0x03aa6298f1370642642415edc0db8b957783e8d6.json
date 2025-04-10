@@ -1,0 +1,16 @@
+{
+  "symbol": "NMT",
+  "name": "NetMind Token",
+  "address": "0x03aa6298f1370642642415edc0db8b957783e8d6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35328/thumb/NMT-logo.png?1708267799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x03aa6298f1370642642415edc0db8b957783e8d6",
+    "binance-smart-chain": "0x03aa6298f1370642642415edc0db8b957783e8d6"
+  }
+}

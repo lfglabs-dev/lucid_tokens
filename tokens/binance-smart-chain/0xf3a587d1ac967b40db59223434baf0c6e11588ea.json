@@ -1,0 +1,15 @@
+{
+  "symbol": "SNS",
+  "name": "SonorusToken",
+  "address": "0xf3a587d1ac967b40db59223434baf0c6e11588ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33591/thumb/SNS.jpg?1702468928",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf3a587d1ac967b40db59223434baf0c6e11588ea"
+  }
+}

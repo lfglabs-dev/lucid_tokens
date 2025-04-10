@@ -1,0 +1,15 @@
+{
+  "symbol": "MOLI",
+  "name": "LOVE MOLI",
+  "address": "0x766e09665a8128d9f7fd9d90bcd3d9cdc50b067f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39187/thumb/LOVE_MOLI.png?1720852344",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x766e09665a8128d9f7fd9d90bcd3d9cdc50b067f"
+  }
+}

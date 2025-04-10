@@ -1,0 +1,16 @@
+{
+  "symbol": "LRDS",
+  "name": "BLOCKLORDS",
+  "address": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34775/thumb/LRDS_PNG.png?1706001771",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd0a6053f087e87a25dc60701ba6e663b1a548e85",
+    "base": "0xb676f87a6e701f0de8de5ab91b56b66109766db1"
+  }
+}

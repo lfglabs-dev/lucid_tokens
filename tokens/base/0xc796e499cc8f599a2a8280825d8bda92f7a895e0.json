@@ -1,0 +1,15 @@
+{
+  "symbol": "BRO",
+  "name": "Neurobro by Virtuals",
+  "address": "0xc796e499cc8f599a2a8280825d8bda92f7a895e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52649/thumb/coingeckooo.png?1733917525",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc796e499cc8f599a2a8280825d8bda92f7a895e0"
+  }
+}

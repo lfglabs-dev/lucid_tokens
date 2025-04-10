@@ -1,0 +1,18 @@
+{
+  "symbol": "PICKLE",
+  "name": "PickleToken (PoS)",
+  "address": "0x2b88ad57897a8b496595925f43048301c37615da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12435/thumb/0M4W6Yr6_400x400.jpg?1643006080",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+    "aurora": "0x291c8fceaca3342b29cc36171deb98106f712c66",
+    "arbitrum-one": "0x965772e0e9c84b6f359c8597c891108dcf1c5b1a",
+    "polygon-pos": "0x2b88ad57897a8b496595925f43048301c37615da"
+  }
+}

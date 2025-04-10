@@ -1,0 +1,15 @@
+{
+  "symbol": "RATS",
+  "name": "GoldenRat",
+  "address": "0x45787821a0bd5e6bba8e709783c773a386e34d65",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51779/thumb/GoldenRat.jpg?1731940848",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x45787821a0bd5e6bba8e709783c773a386e34d65"
+  }
+}

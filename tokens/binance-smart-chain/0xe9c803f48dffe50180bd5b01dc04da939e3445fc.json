@@ -1,0 +1,16 @@
+{
+  "symbol": "VLX",
+  "name": "Velas",
+  "address": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9651/thumb/velas.png?1607999828",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+    "binance-smart-chain": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc"
+  }
+}

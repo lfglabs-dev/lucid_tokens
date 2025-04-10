@@ -1,0 +1,16 @@
+{
+  "symbol": "HRSE",
+  "name": "The Winners Circle",
+  "address": "0x3be0e5edc58bd55aaa381fa642688adc289c05a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37595/thumb/HRSE.jpg?1714984096",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zilliqa": "0x63b991c17010c21250a0ea58c6697f696a48cdf3",
+    "binance-smart-chain": "0x3be0e5edc58bd55aaa381fa642688adc289c05a3"
+  }
+}

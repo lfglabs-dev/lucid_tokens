@@ -1,0 +1,15 @@
+{
+  "symbol": "BOGE",
+  "name": "Boge",
+  "address": "0xef553b6914dbd17567393f7e55fbd773fff7d0cb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35545/thumb/boge.jpeg?1709094269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xef553b6914dbd17567393f7e55fbd773fff7d0cb"
+  }
+}

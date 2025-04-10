@@ -1,0 +1,15 @@
+{
+  "symbol": "TMC",
+  "name": "Tom coin",
+  "address": "0x8f1fe4e6707cd4236b704759d2ee15166c68183a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25849/thumb/65e20074cf9e4bba897431f80da64ffd.jpeg?1654150541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8f1fe4e6707cd4236b704759d2ee15166c68183a"
+  }
+}

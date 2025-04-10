@@ -1,0 +1,15 @@
+{
+  "symbol": "FRGST",
+  "name": "Froggies Token",
+  "address": "0x440758df68a045db3f2517257f27330a12438656",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30575/thumb/bAwE66My_400x400.jpg?1685331593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x440758df68a045db3f2517257f27330a12438656"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "$SMOON",
+  "name": "Solmoon",
+  "address": "0xa97b32d699e3908ff34502af489604ccdc1feb10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34482/thumb/Solmoon.jpg?1705017274",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa97b32d699e3908ff34502af489604ccdc1feb10"
+  }
+}

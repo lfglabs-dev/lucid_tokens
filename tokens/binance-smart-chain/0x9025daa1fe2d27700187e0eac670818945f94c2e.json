@@ -1,0 +1,15 @@
+{
+  "symbol": "STAGE",
+  "name": "Stage",
+  "address": "0x9025daa1fe2d27700187e0eac670818945f94c2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52380/thumb/1000255712.jpg?1733258084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9025daa1fe2d27700187e0eac670818945f94c2e"
+  }
+}

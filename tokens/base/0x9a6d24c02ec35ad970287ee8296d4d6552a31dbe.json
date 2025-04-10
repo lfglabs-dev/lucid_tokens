@@ -1,0 +1,17 @@
+{
+  "symbol": "OPN",
+  "name": "Open Ecosystem Token",
+  "address": "0x9a6d24c02ec35ad970287ee8296d4d6552a31dbe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36612/thumb/TOKEN.png?1711975511",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc28eb2250d1ae32c7e74cfb6d6b86afc9beb6509",
+    "polygon-pos": "0x7844f79fc841e4f92d974c417031c76f8578c2d5",
+    "base": "0x9a6d24c02ec35ad970287ee8296d4d6552a31dbe"
+  }
+}

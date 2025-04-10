@@ -1,0 +1,15 @@
+{
+  "symbol": "WAT",
+  "name": "Wat",
+  "address": "0x0b1d4c430de9fc309e38826729ac9cff7070d0a5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39030/thumb/1719781318502-55b3a07b8364e73e4ded15aff72f1f71_%281%29.png?1720022820",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0b1d4c430de9fc309e38826729ac9cff7070d0a5"
+  }
+}

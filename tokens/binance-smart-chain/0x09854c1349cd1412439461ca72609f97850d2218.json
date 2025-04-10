@@ -1,0 +1,15 @@
+{
+  "symbol": "FNFS",
+  "name": "FusedNFurious",
+  "address": "0x09854c1349cd1412439461ca72609f97850d2218",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54819/thumb/fnfs_logo.png?1741851585",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x09854c1349cd1412439461ca72609f97850d2218"
+  }
+}

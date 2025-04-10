@@ -1,0 +1,15 @@
+{
+  "symbol": "BNBx",
+  "name": "Liquid Staking BNB",
+  "address": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26842/thumb/BNBx_Logo.png?1660387908",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PAPYRUS",
+  "name": "PAPYRUS",
+  "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "scroll": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LFW",
+  "name": "LFW Token",
+  "address": "0xd71239a33c8542bd42130c1b4aca0673b4e4f48b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19570/thumb/lfw.png?1635430353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd71239a33c8542bd42130c1b4aca0673b4e4f48b"
+  }
+}

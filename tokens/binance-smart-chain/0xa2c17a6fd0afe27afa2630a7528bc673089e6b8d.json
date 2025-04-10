@@ -1,0 +1,15 @@
+{
+  "symbol": "CZGOAT",
+  "name": "CZ THE GOAT",
+  "address": "0xa2c17a6fd0afe27afa2630a7528bc673089e6b8d",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33304/thumb/CZ_THE_GOAT.png?1701404282",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa2c17a6fd0afe27afa2630a7528bc673089e6b8d"
+  }
+}

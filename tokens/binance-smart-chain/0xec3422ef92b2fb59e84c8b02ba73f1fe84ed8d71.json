@@ -1,0 +1,15 @@
+{
+  "symbol": "vDOGE",
+  "name": "Venus DOGE",
+  "address": "0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15058/thumb/doge.f7fbdf1d.png?1619590113",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71"
+  }
+}

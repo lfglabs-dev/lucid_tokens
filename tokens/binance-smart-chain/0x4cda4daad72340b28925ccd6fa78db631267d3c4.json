@@ -1,0 +1,15 @@
+{
+  "symbol": "BabyDogeCash",
+  "name": "BabyDogeCash",
+  "address": "0x4cda4daad72340b28925ccd6fa78db631267d3c4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16846/thumb/babydogecash-cmc-logo.png?1625391403",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4cda4daad72340b28925ccd6fa78db631267d3c4"
+  }
+}

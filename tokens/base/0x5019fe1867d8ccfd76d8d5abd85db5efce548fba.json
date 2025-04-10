@@ -1,0 +1,19 @@
+{
+  "symbol": "INT",
+  "name": "InteNet Protocol",
+  "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "base": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "binance-smart-chain": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "arbitrum-one": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "optimistic-ethereum": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba"
+  }
+}

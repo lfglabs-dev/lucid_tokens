@@ -1,0 +1,15 @@
+{
+  "symbol": "RGAME",
+  "name": "R-Games",
+  "address": "0xcbd9f6d748dd3d19416f8914528a65c7838e27d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36501/thumb/2023-04-20_11.42.52.jpg?1711618565",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xcbd9f6d748dd3d19416f8914528a65c7838e27d8"
+  }
+}

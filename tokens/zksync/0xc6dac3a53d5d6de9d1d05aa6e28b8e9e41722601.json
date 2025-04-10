@@ -1,0 +1,15 @@
+{
+  "symbol": "LIBERTAS",
+  "name": "Wrapped LIBERTAS OMNIBUS",
+  "address": "0xc6dac3a53d5d6de9d1d05aa6e28b8e9e41722601",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35181/thumb/libertas.png?1707796268",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0xc6dac3a53d5d6de9d1d05aa6e28b8e9e41722601"
+  }
+}

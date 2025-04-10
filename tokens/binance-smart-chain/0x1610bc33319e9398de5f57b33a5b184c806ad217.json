@@ -1,0 +1,15 @@
+{
+  "symbol": "vDOT",
+  "name": "Venus DOT",
+  "address": "0x1610bc33319e9398de5f57b33a5b184c806ad217",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13919/thumb/venus_dot.png?1612844407",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1610bc33319e9398de5f57b33a5b184c806ad217"
+  }
+}

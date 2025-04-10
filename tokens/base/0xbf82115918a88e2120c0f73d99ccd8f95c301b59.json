@@ -1,0 +1,15 @@
+{
+  "symbol": "WNK",
+  "name": "Winkies",
+  "address": "0xbf82115918a88e2120c0f73d99ccd8f95c301b59",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22260/thumb/wnk.png?1644053369",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbf82115918a88e2120c0f73d99ccd8f95c301b59"
+  }
+}

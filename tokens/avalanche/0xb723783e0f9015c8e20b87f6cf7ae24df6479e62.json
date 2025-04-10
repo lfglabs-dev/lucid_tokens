@@ -1,0 +1,15 @@
+{
+  "symbol": "CCY",
+  "name": "ChoccyCoin",
+  "address": "0xb723783e0f9015c8e20b87f6cf7ae24df6479e62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25252/thumb/logo200.png?1651040284",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb723783e0f9015c8e20b87f6cf7ae24df6479e62"
+  }
+}

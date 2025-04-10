@@ -1,0 +1,15 @@
+{
+  "symbol": "UNCN",
+  "name": "Unseen",
+  "address": "0xf2b028ed5977f136982fdfa429814cf19f09693f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50351/thumb/uncn-200x200.png?1727259131",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xf2b028ed5977f136982fdfa429814cf19f09693f"
+  }
+}

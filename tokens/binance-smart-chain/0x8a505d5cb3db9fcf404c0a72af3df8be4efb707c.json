@@ -1,0 +1,15 @@
+{
+  "symbol": "ENG",
+  "name": "ENERGY COIN",
+  "address": "0x8a505d5cb3db9fcf404c0a72af3df8be4efb707c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26579/thumb/CoinGecko_ENG_Logo.png?1658888031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8a505d5cb3db9fcf404c0a72af3df8be4efb707c"
+  }
+}

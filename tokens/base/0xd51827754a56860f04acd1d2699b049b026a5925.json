@@ -1,0 +1,15 @@
+{
+  "symbol": "GTY",
+  "name": "G-Agents AI",
+  "address": "0xd51827754a56860f04acd1d2699b049b026a5925",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54641/thumb/G-Agents_AI.png?1740816738",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd51827754a56860f04acd1d2699b049b026a5925"
+  }
+}

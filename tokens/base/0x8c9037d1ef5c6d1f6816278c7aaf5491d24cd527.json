@@ -1,0 +1,15 @@
+{
+  "symbol": "MOXIE",
+  "name": "Moxie",
+  "address": "0x8c9037d1ef5c6d1f6816278c7aaf5491d24cd527",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39451/thumb/favicon_-_200_x_200.png?1722311978",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x8c9037d1ef5c6d1f6816278c7aaf5491d24cd527"
+  }
+}

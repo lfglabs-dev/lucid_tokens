@@ -1,0 +1,15 @@
+{
+  "symbol": "BSHIB",
+  "name": "Based Shiba Inu",
+  "address": "0xfea9dcdc9e23a9068bf557ad5b186675c61d33ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36092/thumb/logocg.png?1710478223",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfea9dcdc9e23a9068bf557ad5b186675c61d33ea"
+  }
+}

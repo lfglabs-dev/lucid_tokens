@@ -1,0 +1,15 @@
+{
+  "symbol": "ISKY",
+  "name": "Skyblocks",
+  "address": "0x5dfd5edfde4d8ec9e632dca9d09fc7e833f74210",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22583/thumb/isky.png?1642141576",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5dfd5edfde4d8ec9e632dca9d09fc7e833f74210"
+  }
+}

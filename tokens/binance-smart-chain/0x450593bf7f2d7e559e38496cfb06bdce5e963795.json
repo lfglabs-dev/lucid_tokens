@@ -1,0 +1,15 @@
+{
+  "symbol": "BCCoin",
+  "name": "BlackCardCoin",
+  "address": "0x450593bf7f2d7e559e38496cfb06bdce5e963795",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37089/thumb/BCCoin-200x200.png?1713270601",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x450593bf7f2d7e559e38496cfb06bdce5e963795"
+  }
+}

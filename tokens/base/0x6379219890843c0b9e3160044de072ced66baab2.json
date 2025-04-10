@@ -1,0 +1,15 @@
+{
+  "symbol": "SLAYER",
+  "name": "ThreatSlayerAI by Virtuals",
+  "address": "0x6379219890843c0b9e3160044de072ced66baab2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53274/thumb/download_%2819%29.png?1735915919",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x6379219890843c0b9e3160044de072ced66baab2"
+  }
+}

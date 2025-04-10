@@ -1,0 +1,18 @@
+{
+  "symbol": "AUSD",
+  "name": "AUSD",
+  "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39284/thumb/Agora_Olive.png?1721453639",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "mantle": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "polygon-pos": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "avalanche": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AGORA",
+  "name": "Agora by Virtuals",
+  "address": "0xb2ee01f57aebd6e268934ed9dc47b01be760867d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53920/thumb/Agora_Logowip-02-01.png?1737717593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb2ee01f57aebd6e268934ed9dc47b01be760867d"
+  }
+}

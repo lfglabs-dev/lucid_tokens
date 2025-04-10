@@ -1,0 +1,15 @@
+{
+  "symbol": "GENX",
+  "name": "GENEX",
+  "address": "0x98f06352dc8a40dd6d94d4cde3b384e2276c991a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54549/thumb/genex-logo.jpg?1740239199",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x98f06352dc8a40dd6d94d4cde3b384e2276c991a"
+  }
+}

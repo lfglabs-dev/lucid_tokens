@@ -1,0 +1,15 @@
+{
+  "symbol": "uFLOKI",
+  "name": "Floki (Universal)",
+  "address": "0xcb474f3dee195a951f3584b213d16d2d4d4ee503",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54731/thumb/UA-FLOKI.png?1741245928",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcb474f3dee195a951f3584b213d16d2d4d4ee503"
+  }
+}

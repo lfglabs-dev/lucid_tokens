@@ -1,0 +1,21 @@
+{
+  "symbol": "PAPER",
+  "name": "PAPER",
+  "address": "0x11a1779ae6b02bb8e7ff847919bca3e55bcbb3d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23510/thumb/0xea97c7c1c89d4084e0bfb88284fa90243779da9f.png?1644300084",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0xea97c7c1c89d4084e0bfb88284fa90243779da9f",
+    "metis-andromeda": "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760",
+    "harmony-shard-0": "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760",
+    "binance-smart-chain": "0xe239b561369aef79ed55dfdded84848a3bf60480",
+    "avalanche": "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760",
+    "cronos": "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760",
+    "polygon-pos": "0x11a1779ae6b02bb8e7ff847919bca3e55bcbb3d5"
+  }
+}

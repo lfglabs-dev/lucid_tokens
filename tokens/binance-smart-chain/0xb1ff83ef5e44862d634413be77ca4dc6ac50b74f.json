@@ -1,0 +1,15 @@
+{
+  "symbol": "CUT",
+  "name": "CryptoUnity",
+  "address": "0xb1ff83ef5e44862d634413be77ca4dc6ac50b74f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33072/thumb/transparent-Logo_ikona_%282%29-2.png?1700541805",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb1ff83ef5e44862d634413be77ca4dc6ac50b74f"
+  }
+}

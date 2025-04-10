@@ -1,0 +1,15 @@
+{
+  "symbol": "BENJI",
+  "name": "Basenji",
+  "address": "0xbc45647ea894030a4e9801ec03479739fa2485f0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36416/thumb/ben200x200.jpg?1711420807",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbc45647ea894030a4e9801ec03479739fa2485f0"
+  }
+}

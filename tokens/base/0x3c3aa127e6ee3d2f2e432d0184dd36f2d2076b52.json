@@ -1,0 +1,15 @@
+{
+  "symbol": "DCE",
+  "name": "Ducky City Earn",
+  "address": "0x3c3aa127e6ee3d2f2e432d0184dd36f2d2076b52",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35158/thumb/logo_DCE_200.png?1707565577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3c3aa127e6ee3d2f2e432d0184dd36f2d2076b52"
+  }
+}

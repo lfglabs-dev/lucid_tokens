@@ -1,0 +1,15 @@
+{
+  "symbol": "aPolGHST",
+  "name": "Aave Polygon GHST",
+  "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32923/thumb/ghst.png?1699826089",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8eb270e296023e9d92081fdf967ddd7878724424"
+  }
+}

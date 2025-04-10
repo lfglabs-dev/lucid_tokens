@@ -1,0 +1,15 @@
+{
+  "symbol": "XCRE",
+  "name": "Cresio",
+  "address": "0xfa3c05c2023918a4324fde7163591fe6bebd1692",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8032/thumb/logoXCRE.png?1644387161",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xfa3c05c2023918a4324fde7163591fe6bebd1692"
+  }
+}

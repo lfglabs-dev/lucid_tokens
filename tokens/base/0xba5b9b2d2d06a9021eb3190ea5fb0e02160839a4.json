@@ -1,0 +1,15 @@
+{
+  "symbol": "Sendit",
+  "name": "Sendit",
+  "address": "0xba5b9b2d2d06a9021eb3190ea5fb0e02160839a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36789/thumb/Sendit-token-logo.png?1712416889",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xba5b9b2d2d06a9021eb3190ea5fb0e02160839a4"
+  }
+}

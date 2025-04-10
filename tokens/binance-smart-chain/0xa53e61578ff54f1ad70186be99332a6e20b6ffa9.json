@@ -1,0 +1,15 @@
+{
+  "symbol": "GDOGE",
+  "name": "Golden Doge",
+  "address": "0xa53e61578ff54f1ad70186be99332a6e20b6ffa9",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17190/thumb/Golden-Doge-Logo-200x200-White-Background.png?1626832299",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa53e61578ff54f1ad70186be99332a6e20b6ffa9"
+  }
+}

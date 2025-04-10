@@ -1,0 +1,15 @@
+{
+  "symbol": "CLIZA",
+  "name": "cliza",
+  "address": "0x290f057a2c59b95d8027aa4abf31782676502071",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54846/thumb/GlrnRZOaIAAwvFx.jpeg?1742020067",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x290f057a2c59b95d8027aa4abf31782676502071"
+  }
+}

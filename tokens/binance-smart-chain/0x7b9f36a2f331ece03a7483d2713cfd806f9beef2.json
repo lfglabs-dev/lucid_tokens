@@ -1,0 +1,15 @@
+{
+  "symbol": "IRISTOKEN",
+  "name": "IRIS ECOSYSTEM",
+  "address": "0x7b9f36a2f331ece03a7483d2713cfd806f9beef2",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26518/thumb/200x200.png?1658454212",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7b9f36a2f331ece03a7483d2713cfd806f9beef2"
+  }
+}

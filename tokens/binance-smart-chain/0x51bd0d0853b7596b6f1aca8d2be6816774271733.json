@@ -1,0 +1,15 @@
+{
+  "symbol": "PRX",
+  "name": "PAREX",
+  "address": "0x51bd0d0853b7596b6f1aca8d2be6816774271733",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23650/thumb/cmc.png?1645602955",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x51bd0d0853b7596b6f1aca8d2be6816774271733"
+  }
+}

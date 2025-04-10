@@ -1,0 +1,29 @@
+{
+  "symbol": "axlUSDC",
+  "name": "Axelar Wrapped USDC",
+  "address": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
+    "fraxtal": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "filecoin": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "optimistic-ethereum": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "evmos": "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57",
+    "mantle": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "linea": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "moonbeam": "0xca01a1d0993565291051daff390892518acfad3a",
+    "celo": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "kava": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "binance-smart-chain": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
+    "avalanche": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec",
+    "arbitrum-one": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "polygon-pos": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed",
+    "base": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+  }
+}

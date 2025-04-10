@@ -1,0 +1,15 @@
+{
+  "symbol": "aPolMATICX",
+  "name": "Aave Polygon MATICX",
+  "address": "0x80ca0d8c38d2e2bcbab66aa1648bd1c7160500fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32920/thumb/maticx.png?1699825663",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x80ca0d8c38d2e2bcbab66aa1648bd1c7160500fe"
+  }
+}

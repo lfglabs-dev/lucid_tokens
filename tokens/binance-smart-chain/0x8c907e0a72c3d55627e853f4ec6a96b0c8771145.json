@@ -1,0 +1,17 @@
+{
+  "symbol": "ZIG",
+  "name": "ZigCoin",
+  "address": "0x8c907e0a72c3d55627e853f4ec6a96b0c8771145",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14796/thumb/zignaly.jpg?1618496339",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+    "binance-smart-chain": "0x8c907e0a72c3d55627e853f4ec6a96b0c8771145",
+    "polygon-pos": "0x7bebd226154e865954a87650faefa8f485d36081"
+  }
+}

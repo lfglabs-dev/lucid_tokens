@@ -1,0 +1,15 @@
+{
+  "symbol": "BERF",
+  "name": "Berf",
+  "address": "0xfc5462143a3178cf044e97c491f6bcb5e38f173e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38169/thumb/BERF.jpg?1716703830",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xfc5462143a3178cf044e97c491f6bcb5e38f173e"
+  }
+}

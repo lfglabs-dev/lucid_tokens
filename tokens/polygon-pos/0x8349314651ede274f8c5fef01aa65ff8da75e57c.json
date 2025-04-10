@@ -1,0 +1,15 @@
+{
+  "symbol": "GGT",
+  "name": "GO GAME TOKEN",
+  "address": "0x8349314651ede274f8c5fef01aa65ff8da75e57c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40080/thumb/ggt.jpg?1725515957",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x8349314651ede274f8c5fef01aa65ff8da75e57c"
+  }
+}

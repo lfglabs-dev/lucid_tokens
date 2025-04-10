@@ -1,0 +1,15 @@
+{
+  "symbol": "1000X",
+  "name": "1000x by Virtuals",
+  "address": "0x352b850b733ab8bab50aed1dab5d22e3186ce984",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53381/thumb/1000x_pfp.jpg?1736273432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x352b850b733ab8bab50aed1dab5d22e3186ce984"
+  }
+}

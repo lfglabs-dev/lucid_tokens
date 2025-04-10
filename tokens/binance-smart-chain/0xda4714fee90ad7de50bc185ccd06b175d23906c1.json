@@ -1,0 +1,15 @@
+{
+  "symbol": "GODZ",
+  "name": "Godzilla",
+  "address": "0xda4714fee90ad7de50bc185ccd06b175d23906c1",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19672/thumb/13559.png?1635738708",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xda4714fee90ad7de50bc185ccd06b175d23906c1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BCPI",
+  "name": "BCRYPTOPIA",
+  "address": "0x557805bbe627ad81adecf4a94ef028141cebabdf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38941/thumb/BCPI-logo.png?1719570448",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x557805bbe627ad81adecf4a94ef028141cebabdf"
+  }
+}

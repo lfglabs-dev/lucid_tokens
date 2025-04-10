@@ -1,0 +1,15 @@
+{
+  "symbol": "RAKE",
+  "name": "Rake.in",
+  "address": "0x4c8a3a1025ab87ef184cb7f0691a5a371fe783a6",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29456/thumb/rakein2.png?1678962839",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4c8a3a1025ab87ef184cb7f0691a5a371fe783a6"
+  }
+}

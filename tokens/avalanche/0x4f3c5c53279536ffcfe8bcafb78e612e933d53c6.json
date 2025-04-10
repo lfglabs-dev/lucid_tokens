@@ -1,0 +1,15 @@
+{
+  "symbol": "PNIC",
+  "name": "Phoenic Token",
+  "address": "0x4f3c5c53279536ffcfe8bcafb78e612e933d53c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37667/thumb/IMG_20240506_181047_087.jpg?1715181260",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x4f3c5c53279536ffcfe8bcafb78e612e933d53c6"
+  }
+}

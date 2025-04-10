@@ -1,0 +1,15 @@
+{
+  "symbol": "VISION",
+  "name": "VISION ai by Virtuals",
+  "address": "0x50d7a818e5e339ebe13b17e130b5b608fac354dc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53391/thumb/BASE_flat_white.png?1736277616",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x50d7a818e5e339ebe13b17e130b5b608fac354dc"
+  }
+}

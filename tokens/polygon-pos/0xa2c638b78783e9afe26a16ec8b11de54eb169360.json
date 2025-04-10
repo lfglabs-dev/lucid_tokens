@@ -1,0 +1,15 @@
+{
+  "symbol": "PIN",
+  "name": "Pay it Now",
+  "address": "0xa2c638b78783e9afe26a16ec8b11de54eb169360",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22482/thumb/NBCXI0pU_400x400.jpg?1641886933",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xa2c638b78783e9afe26a16ec8b11de54eb169360"
+  }
+}

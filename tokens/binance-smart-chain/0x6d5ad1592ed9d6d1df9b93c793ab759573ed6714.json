@@ -1,0 +1,15 @@
+{
+  "symbol": "Broccoli",
+  "name": "CZ'S DOG",
+  "address": "0x6d5ad1592ed9d6d1df9b93c793ab759573ed6714",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54400/thumb/broccoli.jpg?1739504145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6d5ad1592ed9d6d1df9b93c793ab759573ed6714"
+  }
+}

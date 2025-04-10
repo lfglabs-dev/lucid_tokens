@@ -1,0 +1,15 @@
+{
+  "symbol": "AKITA",
+  "name": "AKITA-BSC",
+  "address": "0x1a4c5c74fb1ec39e839799baa0a91caeaeadedf7",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52932/thumb/photo_2024-12-19_21-57-02.jpg?1734709001",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1a4c5c74fb1ec39e839799baa0a91caeaeadedf7"
+  }
+}

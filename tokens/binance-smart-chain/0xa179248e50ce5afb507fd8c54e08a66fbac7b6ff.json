@@ -1,0 +1,15 @@
+{
+  "symbol": "$FJB",
+  "name": "Lets Go Brandon!",
+  "address": "0xa179248e50ce5afb507fd8c54e08a66fbac7b6ff",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21300/thumb/fjb.png?1640572953",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa179248e50ce5afb507fd8c54e08a66fbac7b6ff"
+  }
+}

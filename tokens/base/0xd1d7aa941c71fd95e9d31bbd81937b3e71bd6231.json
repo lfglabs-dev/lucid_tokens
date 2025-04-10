@@ -1,0 +1,15 @@
+{
+  "symbol": "ORCL",
+  "name": "Oracle",
+  "address": "0xd1d7aa941c71fd95e9d31bbd81937b3e71bd6231",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53276/thumb/Oracle.jpg?1735916307",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd1d7aa941c71fd95e9d31bbd81937b3e71bd6231"
+  }
+}

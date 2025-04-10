@@ -1,0 +1,15 @@
+{
+  "symbol": "BergerDoge",
+  "name": "Berger Doge Coin",
+  "address": "0x7fa92c33fdfa1050256437b302832a2ed530859f",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28384/thumb/photo_2022-12-02_22.18.34.png?1670059798",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7fa92c33fdfa1050256437b302832a2ed530859f"
+  }
+}

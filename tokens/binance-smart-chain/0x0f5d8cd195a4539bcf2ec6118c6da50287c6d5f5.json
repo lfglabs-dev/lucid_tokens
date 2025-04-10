@@ -1,0 +1,16 @@
+{
+  "symbol": "NGL",
+  "name": "Gold Fever Native Gold [via ChainPort.io]",
+  "address": "0x0f5d8cd195a4539bcf2ec6118c6da50287c6d5f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20633/thumb/2ypNydrG_400x400.jpg?1637338673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2653891204f463fb2a2f4f412564b19e955166ae",
+    "binance-smart-chain": "0x0f5d8cd195a4539bcf2ec6118c6da50287c6d5f5"
+  }
+}

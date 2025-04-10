@@ -1,0 +1,15 @@
+{
+  "symbol": "PINTO",
+  "name": "Pinto",
+  "address": "0xb170000aeefa790fa61d6e837d1035906839a3c8",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54217/thumb/pinto.png?1738829146",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xb170000aeefa790fa61d6e837d1035906839a3c8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MOVE",
+  "name": "MoveApp",
+  "address": "0x95ca12cd249d27008a482009e101a8501cf3a64f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31810/thumb/VuiIQ3eK_400x400.png?1695202845",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x95ca12cd249d27008a482009e101a8501cf3a64f"
+  }
+}

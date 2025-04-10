@@ -1,0 +1,15 @@
+{
+  "symbol": "$BANANA",
+  "name": "Banana For Scale",
+  "address": "0x3d4f0513e8a29669b960f9dbca61861548a9a760",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52230/thumb/Banana_token_image.png?1732801941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3d4f0513e8a29669b960f9dbca61861548a9a760"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "X",
+  "name": "GIBX Swap",
+  "address": "0xae28714390e95b8df1ef847c58aeac23ed457702",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18412/thumb/x.PNG?1631829219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xae28714390e95b8df1ef847c58aeac23ed457702"
+  }
+}

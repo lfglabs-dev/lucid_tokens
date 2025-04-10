@@ -1,0 +1,18 @@
+{
+  "symbol": "NORD",
+  "name": "Nord Token",
+  "address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13630/thumb/nord.jpg?1610465136",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+    "binance-smart-chain": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+    "fantom": "0xeaf26191ac1d35ae30baa19a5ad5558dd8156aef",
+    "polygon-pos": "0xf6f85b3f9fd581c2ee717c404f7684486f057f95"
+  }
+}

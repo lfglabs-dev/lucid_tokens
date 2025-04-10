@@ -1,0 +1,15 @@
+{
+  "symbol": "mSHEESHA",
+  "name": "SHEESHA POLYGON",
+  "address": "0x88c949b4eb85a90071f2c0bef861bddee1a7479d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23494/thumb/sheesha.PNG?1644222241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x88c949b4eb85a90071f2c0bef861bddee1a7479d"
+  }
+}

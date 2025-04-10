@@ -1,0 +1,15 @@
+{
+  "symbol": "CREATE",
+  "name": "Create",
+  "address": "0x3849cc93e7b71b37885237cd91a215974135cd8d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54410/thumb/based_creator_token.png?1739552390",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x3849cc93e7b71b37885237cd91a215974135cd8d"
+  }
+}

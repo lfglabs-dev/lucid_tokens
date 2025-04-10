@@ -1,0 +1,15 @@
+{
+  "symbol": "FOX",
+  "name": "Foxcon Token",
+  "address": "0x2885c2e374301d494208fc9c66ad22ced289a97f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35458/thumb/logo-foxcon200x200.png?1708674773",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2885c2e374301d494208fc9c66ad22ced289a97f"
+  }
+}

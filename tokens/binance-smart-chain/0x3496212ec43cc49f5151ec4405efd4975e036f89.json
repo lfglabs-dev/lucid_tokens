@@ -1,0 +1,15 @@
+{
+  "symbol": "LGC",
+  "name": "LiveGreen Coin",
+  "address": "0x3496212ec43cc49f5151ec4405efd4975e036f89",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28197/thumb/lgclogo_final-200px.png?1668335368",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3496212ec43cc49f5151ec4405efd4975e036f89"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GOUT",
+  "name": "GOUT",
+  "address": "0xf86af2fbcf6a0479b21b1d3a4af3893f63207fe7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51857/thumb/photo_2024-11-02_20-26-31_%282%29.png?1732080372",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf86af2fbcf6a0479b21b1d3a4af3893f63207fe7"
+  }
+}

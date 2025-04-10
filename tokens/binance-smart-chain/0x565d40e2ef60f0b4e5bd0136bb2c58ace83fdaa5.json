@@ -1,0 +1,15 @@
+{
+  "symbol": "S315",
+  "name": "S315",
+  "address": "0x565d40e2ef60f0b4e5bd0136bb2c58ace83fdaa5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38718/thumb/s315.jpg?1718474912",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x565d40e2ef60f0b4e5bd0136bb2c58ace83fdaa5"
+  }
+}

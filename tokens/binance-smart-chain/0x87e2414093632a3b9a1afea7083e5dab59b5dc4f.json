@@ -1,0 +1,15 @@
+{
+  "symbol": "FALCON",
+  "name": "Falcons Inu",
+  "address": "0x87e2414093632a3b9a1afea7083e5dab59b5dc4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39892/thumb/Copy_of_falcon_logo_1.png?1724706178",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x87e2414093632a3b9a1afea7083e5dab59b5dc4f"
+  }
+}

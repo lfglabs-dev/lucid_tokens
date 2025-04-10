@@ -1,0 +1,15 @@
+{
+  "symbol": "KAITO",
+  "name": "KAITO",
+  "address": "0x98d0baa52b2d063e780de12f615f963fe8537553",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54411/thumb/Qm4DW488_400x400.jpg?1739552780",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x98d0baa52b2d063e780de12f615f963fe8537553"
+  }
+}

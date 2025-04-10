@@ -1,0 +1,18 @@
+{
+  "symbol": "XOM.d",
+  "name": "Exxon Mobil Corporation - Dinari",
+  "address": "0x78bb8ff6baa486c31ce0ef1a157798f7a606565c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x315a2dca4b1b633d3a707c71d96243534c02f7c4",
+    "ethereum": "0x52926f7f983d3d7ddcbe644a809d67bbe4a9e785",
+    "blast": "0xda5afff979a356af2cfa75bd0054c2c8c505234a",
+    "base": "0x78bb8ff6baa486c31ce0ef1a157798f7a606565c"
+  }
+}

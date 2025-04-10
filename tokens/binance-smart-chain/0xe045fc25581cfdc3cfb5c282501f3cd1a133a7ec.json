@@ -1,0 +1,15 @@
+{
+  "symbol": "MAI",
+  "name": "MatrixGPT",
+  "address": "0xe045fc25581cfdc3cfb5c282501f3cd1a133a7ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29160/thumb/200-200.png?1677042662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe045fc25581cfdc3cfb5c282501f3cd1a133a7ec"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "DAI",
+  "name": "Dai Token",
+  "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39784/thumb/dai.png?1724109857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LUCKY",
+  "name": "Lucky Coin",
+  "address": "0xb5cc2ce99b3f98a969dbe458b96a117680ae0fa1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34997/thumb/logo.png?1706954922",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xb5cc2ce99b3f98a969dbe458b96a117680ae0fa1"
+  }
+}

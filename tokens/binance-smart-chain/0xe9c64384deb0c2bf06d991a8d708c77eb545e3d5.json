@@ -1,0 +1,16 @@
+{
+  "symbol": "RDT",
+  "name": "Ridotto",
+  "address": "0xe9c64384deb0c2bf06d991a8d708c77eb545e3d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18671/thumb/200x200_%2832%29.png?1632875527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4740735aa98dc8aa232bd049f8f0210458e7fca3",
+    "binance-smart-chain": "0xe9c64384deb0c2bf06d991a8d708c77eb545e3d5"
+  }
+}

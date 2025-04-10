@@ -1,0 +1,16 @@
+{
+  "symbol": "GPS",
+  "name": "GoPlus Security",
+  "address": "0x0c1dc73159e30c4b06170f2593d3118968a0dca5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53686/thumb/Separate_logo%EF%BC%88green%EF%BC%89.png?1737033911",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0c1dc73159e30c4b06170f2593d3118968a0dca5",
+    "binance-smart-chain": "0x9a4a67721573f2c9209dfff972c52be4e3f6642e"
+  }
+}

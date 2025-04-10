@@ -1,0 +1,15 @@
+{
+  "symbol": "BETS",
+  "name": "All Street Bets",
+  "address": "0x42069de48741db40aef864f8764432bbccbd0b69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36906/thumb/Screenshot_2024-03-17_034831_no_background.png?1712728634",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x42069de48741db40aef864f8764432bbccbd0b69"
+  }
+}

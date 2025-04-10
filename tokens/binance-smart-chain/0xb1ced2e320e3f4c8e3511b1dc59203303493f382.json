@@ -1,0 +1,15 @@
+{
+  "symbol": "MOONLIGHT",
+  "name": "Moonlight Token",
+  "address": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15908/thumb/logo-200x200_%284%29.png?1622413557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382"
+  }
+}

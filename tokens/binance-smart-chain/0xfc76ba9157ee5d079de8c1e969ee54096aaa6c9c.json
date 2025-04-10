@@ -1,0 +1,15 @@
+{
+  "symbol": "CRED",
+  "name": "CRED COIN PAY",
+  "address": "0xfc76ba9157ee5d079de8c1e969ee54096aaa6c9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xfc76ba9157ee5d079de8c1e969ee54096aaa6c9c"
+  }
+}

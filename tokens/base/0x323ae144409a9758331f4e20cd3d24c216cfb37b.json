@@ -1,0 +1,15 @@
+{
+  "symbol": "MOTOKO",
+  "name": "Motoko",
+  "address": "0x323ae144409a9758331f4e20cd3d24c216cfb37b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54249/thumb/Motoko-NFT_OS.jpg?1738907304",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x323ae144409a9758331f4e20cd3d24c216cfb37b"
+  }
+}

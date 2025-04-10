@@ -1,0 +1,15 @@
+{
+  "symbol": "XPNET",
+  "name": "XP.network",
+  "address": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18363/thumb/200.png?1646363211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a"
+  }
+}

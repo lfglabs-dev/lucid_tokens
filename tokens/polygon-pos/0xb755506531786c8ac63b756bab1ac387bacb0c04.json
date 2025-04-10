@@ -1,0 +1,17 @@
+{
+  "symbol": "ZARP",
+  "name": "ZARP Stablecoin",
+  "address": "0xb755506531786c8ac63b756bab1ac387bacb0c04",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27333/thumb/45F630F8-53ED-46BA-959E-ABAE03A1D5F3.jpeg?1663403124",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb755506531786c8ac63b756bab1ac387bacb0c04",
+    "polygon-pos": "0xb755506531786c8ac63b756bab1ac387bacb0c04",
+    "base": "0xb755506531786c8ac63b756bab1ac387bacb0c04"
+  }
+}

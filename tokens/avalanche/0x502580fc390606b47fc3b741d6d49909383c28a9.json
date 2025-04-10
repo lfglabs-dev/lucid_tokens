@@ -1,0 +1,16 @@
+{
+  "symbol": "HATCHY",
+  "name": "Hatchy",
+  "address": "0x502580fc390606b47fc3b741d6d49909383c28a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27560/thumb/HATCHY_200x200_Logo.png?1664519097",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x502580fc390606b47fc3b741d6d49909383c28a9",
+    "binance-smart-chain": "0x8af48050534ee9bde12ec6e45ea3db4908c04777"
+  }
+}

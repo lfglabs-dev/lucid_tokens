@@ -4,6 +4,11 @@
   "address": "0x1c95519d3fc922fc04fcf5d099be4a1ed8b15240",
   "decimals": 9,
   "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55046/thumb/photo_2025-03-29_19-46-10.jpg?1743434260",
+    "width": "32",
+    "height": "32"
+  },
   "platforms": {
     "ethereum": "0x1c95519d3fc922fc04fcf5d099be4a1ed8b15240"
   }

@@ -1,0 +1,15 @@
+{
+  "symbol": "NUON",
+  "name": "NUON",
+  "address": "0xfb9fed8cb962548a11fe7f6f282949061395c7f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29739/thumb/Nuon_image.jpg?1681096192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xfb9fed8cb962548a11fe7f6f282949061395c7f5"
+  }
+}

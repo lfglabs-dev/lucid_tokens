@@ -1,0 +1,16 @@
+{
+  "symbol": "CYG",
+  "name": "CygnusDAO",
+  "address": "0x05eaea39f69b24f8f2da13af2d8ee0853889f2a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33521/thumb/cyg.png?1702133561",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x05eaea39f69b24f8f2da13af2d8ee0853889f2a8",
+    "polygon-pos": "0xc553a5a789f1bb56a72847b3fda1de3e16e6763f"
+  }
+}

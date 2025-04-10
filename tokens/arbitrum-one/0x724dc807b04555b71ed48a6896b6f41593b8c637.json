@@ -1,0 +1,21 @@
+{
+  "symbol": "aArbUSDCn",
+  "name": "Aave Arbitrum USDCn",
+  "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+    "xdai": "0xc6b7aca6de8a6044e0e32d0c841a89244a10d284",
+    "optimistic-ethereum": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+    "metis-andromeda": "0x885c8aec5867571582545f894a5906971db9bf27",
+    "avalanche": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+    "arbitrum-one": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+    "polygon-pos": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
+  }
+}

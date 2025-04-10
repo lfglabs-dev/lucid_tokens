@@ -1,0 +1,16 @@
+{
+  "symbol": "NPAI",
+  "name": "NeuroPulseAI",
+  "address": "0xa9011ee5796be43123651181dc75c0e72bb1191c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31848/thumb/NPAI-200X200.png?1695285862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "Bitcichain": "0x02c7b38acc83d87680b740498ef7c90b54ceb062",
+    "arbitrum-one": "0xa9011ee5796be43123651181dc75c0e72bb1191c"
+  }
+}

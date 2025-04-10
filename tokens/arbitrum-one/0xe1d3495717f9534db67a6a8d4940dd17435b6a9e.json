@@ -1,0 +1,15 @@
+{
+  "symbol": "LOCUS",
+  "name": "Locus Token",
+  "address": "0xe1d3495717f9534db67a6a8d4940dd17435b6a9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33441/thumb/locus_finance_logo.jpeg?1701854209",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe1d3495717f9534db67a6a8d4940dd17435b6a9e"
+  }
+}

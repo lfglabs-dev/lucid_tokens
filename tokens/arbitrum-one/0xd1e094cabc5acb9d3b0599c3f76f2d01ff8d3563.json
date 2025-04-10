@@ -1,0 +1,17 @@
+{
+  "symbol": "VRSW",
+  "name": "Virtuswap Token",
+  "address": "0xd1e094cabc5acb9d3b0599c3f76f2d01ff8d3563",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30629/thumb/VirtuSwap_Logo_Red_200x200.png?1685809373",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x99a01a4d6a4d621094983050d9a2f10b2912e53d",
+    "arbitrum-one": "0xd1e094cabc5acb9d3b0599c3f76f2d01ff8d3563",
+    "polygon-pos": "0x57999936fc9a9ec0751a8d146cce11901be8bed0"
+  }
+}

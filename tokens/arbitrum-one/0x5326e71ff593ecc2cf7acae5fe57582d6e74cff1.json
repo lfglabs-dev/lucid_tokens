@@ -1,0 +1,15 @@
+{
+  "symbol": "plvGLP",
+  "name": "Plutus Vault GLP",
+  "address": "0x5326e71ff593ecc2cf7acae5fe57582d6e74cff1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30554/thumb/plvGLP.png?1685005757",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5326e71ff593ecc2cf7acae5fe57582d6e74cff1"
+  }
+}

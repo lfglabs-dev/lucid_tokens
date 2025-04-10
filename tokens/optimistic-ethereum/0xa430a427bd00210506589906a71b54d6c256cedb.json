@@ -1,0 +1,15 @@
+{
+  "symbol": "exaOP",
+  "name": "exactly OP",
+  "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1691117360",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xa430a427bd00210506589906a71b54d6c256cedb"
+  }
+}

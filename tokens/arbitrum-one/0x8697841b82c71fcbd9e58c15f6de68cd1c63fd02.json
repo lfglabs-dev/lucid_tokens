@@ -1,0 +1,17 @@
+{
+  "symbol": "NUT",
+  "name": "Nutcoin",
+  "address": "0x8697841b82c71fcbd9e58c15f6de68cd1c63fd02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37569/thumb/icon-2_200x200.png?1714886224",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x473f4068073cd5b2ab0e4cc8e146f9edc6fb52cc",
+    "arbitrum-one": "0x8697841b82c71fcbd9e58c15f6de68cd1c63fd02",
+    "base": "0x6a9431b9ecce9dde3f7a32391d5b61c5ad11e4a0"
+  }
+}

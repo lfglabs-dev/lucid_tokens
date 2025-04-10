@@ -1,0 +1,15 @@
+{
+  "symbol": "CRYSTAL",
+  "name": "Crystal",
+  "address": "0xd07d35368e04a839dee335e213302b21ef14bb4a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd07d35368e04a839dee335e213302b21ef14bb4a"
+  }
+}

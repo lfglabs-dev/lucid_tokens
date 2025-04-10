@@ -1,0 +1,16 @@
+{
+  "symbol": "IB",
+  "name": "IronBank",
+  "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22902/thumb/ironbank.png?1642872464",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+    "optimistic-ethereum": "0x00a35fd824c717879bf370e70ac6868b95870dfb"
+  }
+}

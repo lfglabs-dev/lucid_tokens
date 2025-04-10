@@ -1,0 +1,15 @@
+{
+  "symbol": "NUMA",
+  "name": "NUMA",
+  "address": "0x7fb7ede54259cb3d4e1eaf230c7e2b1ffc951e9a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35807/thumb/numa200.png?1709845645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7fb7ede54259cb3d4e1eaf230c7e2b1ffc951e9a"
+  }
+}

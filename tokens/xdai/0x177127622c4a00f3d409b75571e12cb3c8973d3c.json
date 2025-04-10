@@ -1,0 +1,17 @@
+{
+  "symbol": "COW",
+  "name": "CoW Protocol Token from Mainnet",
+  "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24384/thumb/COW-token-1024x1024.png?1647488013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+    "xdai": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+    "arbitrum-one": "0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04"
+  }
+}

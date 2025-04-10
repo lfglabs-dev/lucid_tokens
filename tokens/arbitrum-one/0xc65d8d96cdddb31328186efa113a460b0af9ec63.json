@@ -1,0 +1,19 @@
+{
+  "symbol": "PELL",
+  "name": "PELL Network Token",
+  "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+    "arbitrum-one": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+    "binance-smart-chain": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+    "bitlayer": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+    "core": "0xc65d8d96cdddb31328186efa113a460b0af9ec63"
+  }
+}

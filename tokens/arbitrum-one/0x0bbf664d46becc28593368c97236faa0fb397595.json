@@ -1,0 +1,15 @@
+{
+  "symbol": "KNOX",
+  "name": "KNOX Dollar",
+  "address": "0x0bbf664d46becc28593368c97236faa0fb397595",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38074/thumb/knox%28200_x_200_px%29.png?1716449113",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0bbf664d46becc28593368c97236faa0fb397595"
+  }
+}

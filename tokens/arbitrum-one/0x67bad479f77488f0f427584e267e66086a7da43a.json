@@ -1,0 +1,15 @@
+{
+  "symbol": "ARM.d",
+  "name": "Arm Holdings plc American Depositary Shares - Dinari",
+  "address": "0x67bad479f77488f0f427584e267e66086a7da43a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32982/thumb/Frame_16189.png?1700091554",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x67bad479f77488f0f427584e267e66086a7da43a"
+  }
+}

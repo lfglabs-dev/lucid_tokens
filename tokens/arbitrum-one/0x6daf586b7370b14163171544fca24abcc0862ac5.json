@@ -1,0 +1,15 @@
+{
+  "symbol": "BPET",
+  "name": "BPET",
+  "address": "0x6daf586b7370b14163171544fca24abcc0862ac5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33848/thumb/BPET_logo.png?1703122571",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6daf586b7370b14163171544fca24abcc0862ac5"
+  }
+}

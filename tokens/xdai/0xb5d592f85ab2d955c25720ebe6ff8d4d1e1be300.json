@@ -1,0 +1,15 @@
+{
+  "symbol": "PRTCLE",
+  "name": "Particle",
+  "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14395/thumb/unknown.png?1648702694",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300"
+  }
+}

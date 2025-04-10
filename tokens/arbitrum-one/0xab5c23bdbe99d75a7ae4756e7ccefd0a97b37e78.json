@@ -1,0 +1,15 @@
+{
+  "symbol": "stXAI",
+  "name": "stXAI",
+  "address": "0xab5c23bdbe99d75a7ae4756e7ccefd0a97b37e78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50667/thumb/0xab5c23bdbe99d75a7ae4756e7ccefd0a97b37e78.png?1728669229",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xab5c23bdbe99d75a7ae4756e7ccefd0a97b37e78"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "STAKE",
+  "name": "STAKE on xDai",
+  "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11061/thumb/xdai.png?1587714165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+    "xdai": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
+    "energi": "0xb9acfe14ef575cb043ffde23922c2bf97651a207"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AMZN.d",
+  "name": "Amazon.com, Inc. - Dinari",
+  "address": "0x8240affe697cde618ad05c3c8963f5bfe152650b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32529/thumb/token-icon.png?1698460876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x8240affe697cde618ad05c3c8963f5bfe152650b"
+  }
+}

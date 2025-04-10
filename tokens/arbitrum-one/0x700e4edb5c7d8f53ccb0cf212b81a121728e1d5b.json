@@ -1,0 +1,15 @@
+{
+  "symbol": "LOPO",
+  "name": "LOPO",
+  "address": "0x700e4edb5c7d8f53ccb0cf212b81a121728e1d5b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29250/thumb/IMG_20230220_222454_192.png?1677642606",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x700e4edb5c7d8f53ccb0cf212b81a121728e1d5b"
+  }
+}

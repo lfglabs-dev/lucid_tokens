@@ -1,0 +1,15 @@
+{
+  "symbol": "ARBS",
+  "name": "Arbswap Token",
+  "address": "0xf50874f8246776ca4b89eef471e718f70f38458f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30565/thumb/Arb-Logo_Circle_DARK_LOGO_ONLY.png?1685074061",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf50874f8246776ca4b89eef471e718f70f38458f"
+  }
+}

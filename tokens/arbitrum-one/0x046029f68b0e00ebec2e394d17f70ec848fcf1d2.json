@@ -1,0 +1,19 @@
+{
+  "symbol": "USD3",
+  "name": "Stable.com USD",
+  "address": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39865/thumb/2024-04-stable_com-usd3_coin.png?1724379520",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2",
+    "binance-smart-chain": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2",
+    "avalanche": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2",
+    "arbitrum-one": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2",
+    "polygon-pos": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2"
+  }
+}

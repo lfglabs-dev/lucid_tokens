@@ -1,0 +1,16 @@
+{
+  "symbol": "TBILL",
+  "name": "OpenEden T-Bills",
+  "address": "0xf84d28a8d28292842dd73d1c5f99476a80b6666a",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30576/thumb/OE_Logo_200x200_Transparent.png?1685332431",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdd50c053c096cb04a3e3362e2b622529ec5f2e8a",
+    "arbitrum-one": "0xf84d28a8d28292842dd73d1c5f99476a80b6666a"
+  }
+}

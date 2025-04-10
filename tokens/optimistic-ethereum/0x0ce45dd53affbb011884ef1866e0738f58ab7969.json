@@ -1,0 +1,18 @@
+{
+  "symbol": "cgETH.hashkey",
+  "name": "cgETH Hashkey Cloud",
+  "address": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf587b7116879a529353cc71ee959cd69fd5cae48",
+    "arbitrum-one": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+    "optimistic-ethereum": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+    "ethereum": "0xc60a9145d9e9f1152218e7da6df634b7a74ae444"
+  }
+}

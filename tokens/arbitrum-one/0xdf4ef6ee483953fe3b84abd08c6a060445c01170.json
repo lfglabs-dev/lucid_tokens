@@ -1,0 +1,16 @@
+{
+  "symbol": "WACME",
+  "name": "Wrapped ACME",
+  "address": "0xdf4ef6ee483953fe3b84abd08c6a060445c01170",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27207/thumb/accumulate-logo-200x200.png?1662607409",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdf4ef6ee483953fe3b84abd08c6a060445c01170",
+    "arbitrum-one": "0xdf4ef6ee483953fe3b84abd08c6a060445c01170"
+  }
+}

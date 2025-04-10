@@ -1,0 +1,15 @@
+{
+  "symbol": "POT",
+  "name": "POT Token",
+  "address": "0x76ce14237110c865f431e18f91fc1b225fb6fe99",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30493/thumb/TraderDAO-POT-Coin_%282%29.png?1684720871",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x76ce14237110c865f431e18f91fc1b225fb6fe99"
+  }
+}

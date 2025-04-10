@@ -1,0 +1,16 @@
+{
+  "symbol": "MVD",
+  "name": "Metavault DAO",
+  "address": "0x15a808ed3846d25e88ae868de79f1bcb1ac382b5",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23899/thumb/mvd.png?1660680251",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x788b6d2b37aa51d916f2837ae25b05f0e61339d1",
+    "arbitrum-one": "0x15a808ed3846d25e88ae868de79f1bcb1ac382b5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CBPAY",
+  "name": "CBPAY",
+  "address": "0xd6cf874e24a9f5f43075142101a6b13735cdd424",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38794/thumb/CBPAY.jpg?1718859373",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd6cf874e24a9f5f43075142101a6b13735cdd424"
+  }
+}

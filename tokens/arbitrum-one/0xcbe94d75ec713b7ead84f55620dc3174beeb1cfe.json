@@ -1,0 +1,16 @@
+{
+  "symbol": "FORE",
+  "name": "FORE Protocol",
+  "address": "0xcbe94d75ec713b7ead84f55620dc3174beeb1cfe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31001/thumb/EXCHANGE_LOGO_FORE.png?1689591906",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xcbe94d75ec713b7ead84f55620dc3174beeb1cfe",
+    "ethereum": "0xb2ee0adbe0ef1281025d0676511bb1df14600f4d"
+  }
+}

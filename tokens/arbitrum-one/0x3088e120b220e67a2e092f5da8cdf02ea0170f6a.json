@@ -1,0 +1,17 @@
+{
+  "symbol": "FNXAI",
+  "name": "Finanx AI",
+  "address": "0x3088e120b220e67a2e092f5da8cdf02ea0170f6a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51119/thumb/200x200.png?1730126766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x939069722d568b5498ccba4356e800eaefefd2a5",
+    "binance-smart-chain": "0xd26889f63094ba5a9d32666cdf5ba381acfad6a6",
+    "arbitrum-one": "0x3088e120b220e67a2e092f5da8cdf02ea0170f6a"
+  }
+}

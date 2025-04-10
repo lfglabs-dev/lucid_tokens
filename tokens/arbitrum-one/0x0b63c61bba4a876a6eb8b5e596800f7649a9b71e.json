@@ -1,0 +1,15 @@
+{
+  "symbol": "SECT",
+  "name": "Sector",
+  "address": "0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29672/thumb/ZVLrbTWD_400x400.jpg?1680574798",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e"
+  }
+}

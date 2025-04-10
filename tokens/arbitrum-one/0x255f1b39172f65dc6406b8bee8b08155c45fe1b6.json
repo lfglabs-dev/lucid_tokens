@@ -1,0 +1,17 @@
+{
+  "symbol": "HARAMBE",
+  "name": "HarambeCoin",
+  "address": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36043/thumb/HarambeCoin_full_cameo_200.png?1710400612",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
+    "arbitrum-one": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
+    "base": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6"
+  }
+}

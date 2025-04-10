@@ -1,0 +1,15 @@
+{
+  "symbol": "KNOW",
+  "name": "KNOW",
+  "address": "0x6b5b5eac259e883b484ed879d43dd4d616a90e65",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36964/thumb/63_%281%29.png?1712907583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6b5b5eac259e883b484ed879d43dd4d616a90e65"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "BRRR.d",
+  "name": "Valkyrie Bitcoin Fund - Dinari",
+  "address": "0x2b7c643b42409f352b936bf07e0538ba20979bff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54039/thumb/d-token-200.png?1738075951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2b7c643b42409f352b936bf07e0538ba20979bff",
+    "ethereum": "0xf12a38e6e51913ea04d70dba97d7420a13fd7941",
+    "base": "0xc3c1bb150e48ca764fa9428339b63b21376fcafa",
+    "blast": "0xf0a23fd4a51e9c5055b912e41a6052b56e6108b8"
+  }
+}

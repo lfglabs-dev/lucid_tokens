@@ -1,0 +1,16 @@
+{
+  "symbol": "PBX",
+  "name": "Paribus",
+  "address": "0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18410/thumb/paribus.PNG?1631828570",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd528cf2e081f72908e086f8800977df826b5a483",
+    "arbitrum-one": "0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403"
+  }
+}

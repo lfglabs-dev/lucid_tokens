@@ -1,0 +1,15 @@
+{
+  "symbol": "plsRDNT",
+  "name": "Plutus RDNT V2",
+  "address": "0x6dbf2155b0636cb3fd5359fccefb8a2c02b6cb51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30635/thumb/plsRDNT.png?1686018355",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6dbf2155b0636cb3fd5359fccefb8a2c02b6cb51"
+  }
+}

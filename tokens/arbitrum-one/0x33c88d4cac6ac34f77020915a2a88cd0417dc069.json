@@ -1,0 +1,15 @@
+{
+  "symbol": "USSD",
+  "name": "USSD",
+  "address": "0x33c88d4cac6ac34f77020915a2a88cd0417dc069",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39227/thumb/Avatar_1.png?1721189801",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x33c88d4cac6ac34f77020915a2a88cd0417dc069"
+  }
+}

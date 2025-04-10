@@ -1,0 +1,16 @@
+{
+  "symbol": "LVL",
+  "name": "Level Token",
+  "address": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28628/thumb/Token.png?1672717607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
+    "arbitrum-one": "0xb64e280e9d1b5dbec4accedb2257a87b400db149"
+  }
+}

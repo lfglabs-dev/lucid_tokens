@@ -1,0 +1,20 @@
+{
+  "symbol": "POKT",
+  "name": "Pocket Network",
+  "address": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22506/thumb/33689860.png?1641957673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+    "ethereum": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+    "binance-smart-chain": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+    "arbitrum-one": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+    "polygon-pos": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+    "base": "0x764a726d9ced0433a8d7643335919deb03a9a935"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "SolvBTC.ENA",
+  "name": "SolvBTC Ethena",
+  "address": "0xafafd68afe3fe65d376eec9eab1802616cfaccb8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38931/thumb/BTC_ena.png?1719562313",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x53e63a31fd1077f949204b94f431bcab98f72bce",
+    "merlin-chain": "0x88c618b2396c1a11a6aabd1bf89228a08462f2d2",
+    "arbitrum-one": "0xafafd68afe3fe65d376eec9eab1802616cfaccb8",
+    "ethereum": "0x325dc9ebcec31940c658acaca45f8293418d811e"
+  }
+}

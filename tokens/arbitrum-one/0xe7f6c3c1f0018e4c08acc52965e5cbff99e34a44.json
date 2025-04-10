@@ -1,0 +1,15 @@
+{
+  "symbol": "plsJONES",
+  "name": "Plutus JONES",
+  "address": "0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30553/thumb/plsJONES.png?1685000456",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44"
+  }
+}

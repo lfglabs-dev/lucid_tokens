@@ -1,0 +1,15 @@
+{
+  "symbol": "ARBI",
+  "name": "Arbitrum Ecosystem Index",
+  "address": "0x4810e5a7741ea5fdbb658eda632ddfac3b19e3c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32042/thumb/Frame_2881_%281%29.png?1696234380",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4810e5a7741ea5fdbb658eda632ddfac3b19e3c6"
+  }
+}

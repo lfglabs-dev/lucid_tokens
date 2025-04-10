@@ -1,0 +1,15 @@
+{
+  "symbol": "USD+",
+  "name": "USD+",
+  "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39629/thumb/usd_plus.png?1723181559",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x73cb180bf0521828d8849bc8cf2b920918e23032"
+  }
+}

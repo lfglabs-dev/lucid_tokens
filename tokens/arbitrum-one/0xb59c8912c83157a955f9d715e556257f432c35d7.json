@@ -1,0 +1,17 @@
+{
+  "symbol": "TRUF",
+  "name": "Truflation",
+  "address": "0xb59c8912c83157a955f9d715e556257f432c35d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36642/thumb/TRUF_Token_Logo_Blue.png?1712034385",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x243c9be13faba09f945ccc565547293337da0ad7",
+    "arbitrum-one": "0xb59c8912c83157a955f9d715e556257f432c35d7",
+    "base": "0xb59c8912c83157a955f9d715e556257f432c35d7"
+  }
+}

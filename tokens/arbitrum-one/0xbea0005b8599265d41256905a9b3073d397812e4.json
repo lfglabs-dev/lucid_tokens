@@ -1,0 +1,15 @@
+{
+  "symbol": "BEAN",
+  "name": "Bean",
+  "address": "0xbea0005b8599265d41256905a9b3073d397812e4",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18447/thumb/bean-logo-coingecko.png?1632090495",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xbea0005b8599265d41256905a9b3073d397812e4"
+  }
+}

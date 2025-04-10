@@ -1,0 +1,15 @@
+{
+  "symbol": "OD",
+  "name": "Open Dollar",
+  "address": "0x221a0f68770658c15b525d0f89f5da2baab5f321",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38630/thumb/OD_Token_200_x_200.png?1718170821",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x221a0f68770658c15b525d0f89f5da2baab5f321"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ICE",
+  "name": "Ice Token",
+  "address": "0xe4421566a501045ae4285996577a36f6cf074190",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35093/thumb/ICE_LOGO.jpg?1707363813",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe4421566a501045ae4285996577a36f6cf074190"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "TT",
+  "name": "Tdex Token",
+  "address": "0x0ae1bb2bc04308765a6b1215236cea8cfee8cab9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32725/thumb/20220929-180435.png?1699018453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0ae1bb2bc04308765a6b1215236cea8cfee8cab9",
+    "polygon-pos": "0x17a011150e9feb7bec4cfada055c8df436eb730b"
+  }
+}

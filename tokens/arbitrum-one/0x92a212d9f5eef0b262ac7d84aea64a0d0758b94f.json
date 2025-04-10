@@ -1,0 +1,16 @@
+{
+  "symbol": "gDEX",
+  "name": "DexFi Governance",
+  "address": "0x92a212d9f5eef0b262ac7d84aea64a0d0758b94f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30671/thumb/gDEX-icon-200x200.png?1686210225",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x92a212d9f5eef0b262ac7d84aea64a0d0758b94f",
+    "base": "0x53cb59d32a8d08fc6d3f81454f150946a028a44d"
+  }
+}

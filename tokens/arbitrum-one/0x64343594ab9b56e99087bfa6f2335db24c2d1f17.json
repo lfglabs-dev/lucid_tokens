@@ -1,0 +1,15 @@
+{
+  "symbol": "VST",
+  "name": "Vesta Stable",
+  "address": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23621/thumb/vesta.png?1644809642",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17"
+  }
+}

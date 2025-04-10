@@ -1,0 +1,16 @@
+{
+  "symbol": "KWL",
+  "name": "KEWL EXCHANGE",
+  "address": "0xed5740209fcf6974d6f3a5f11e295b5e468ac27c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36883/thumb/yamuk.png?1712649510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "chiliz": "0xed5740209fcf6974d6f3a5f11e295b5e468ac27c",
+    "arbitrum-one": "0xed5740209fcf6974d6f3a5f11e295b5e468ac27c"
+  }
+}

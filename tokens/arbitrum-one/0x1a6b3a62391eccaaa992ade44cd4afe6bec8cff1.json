@@ -1,0 +1,15 @@
+{
+  "symbol": "UXLINK",
+  "name": "UXLINK Token",
+  "address": "0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39229/thumb/uxlink.jpg?1721201390",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1"
+  }
+}

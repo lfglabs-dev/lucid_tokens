@@ -1,0 +1,16 @@
+{
+  "symbol": "PEPE",
+  "name": "Pepe",
+  "address": "0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31482/thumb/photo_2023-08-25_07-54-16.jpg?1693271857",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe042e9d09cb588331ff911c2b46fd833a3e5bd6",
+    "arbitrum-one": "0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e"
+  }
+}

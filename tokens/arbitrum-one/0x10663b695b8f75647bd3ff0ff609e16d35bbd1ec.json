@@ -1,0 +1,16 @@
+{
+  "symbol": "$AGG",
+  "name": "AmpliFi DAO",
+  "address": "0x10663b695b8f75647bd3ff0ff609e16d35bbd1ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29137/thumb/original-icon-transparent.png?1676962770",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x492798fb464e77cb3cda62b9a2c3c65162db198e",
+    "arbitrum-one": "0x10663b695b8f75647bd3ff0ff609e16d35bbd1ec"
+  }
+}

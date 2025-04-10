@@ -1,0 +1,16 @@
+{
+  "symbol": "sETH",
+  "name": "Synth sETH",
+  "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8843/thumb/sETH.png?1616150207",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+    "optimistic-ethereum": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49"
+  }
+}

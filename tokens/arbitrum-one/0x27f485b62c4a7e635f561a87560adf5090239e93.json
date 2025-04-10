@@ -1,0 +1,17 @@
+{
+  "symbol": "DFX",
+  "name": "DFX Token (L2)",
+  "address": "0x27f485b62c4a7e635f561a87560adf5090239e93",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14091/thumb/DFX.png?1614320944",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+    "arbitrum-one": "0x27f485b62c4a7e635f561a87560adf5090239e93",
+    "polygon-pos": "0x27f485b62c4a7e635f561a87560adf5090239e93"
+  }
+}

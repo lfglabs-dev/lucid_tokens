@@ -1,0 +1,15 @@
+{
+  "symbol": "AICORE",
+  "name": "AICORE",
+  "address": "0x1aae7de64d9ae1487e95858bbf98185f21e926fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1aae7de64d9ae1487e95858bbf98185f21e926fd"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SPOS",
+  "name": "Sportsparadise Switzerland AG Shares SHA",
+  "address": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33391/thumb/SPOS.png?1701680250",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0"
+  }
+}

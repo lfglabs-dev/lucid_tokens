@@ -1,0 +1,17 @@
+{
+  "symbol": "VEE",
+  "name": "BLOCKv",
+  "address": "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1266/thumb/blockv.png?1547351380",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+    "optimistic-ethereum": "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4",
+    "polygon-pos": "0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3"
+  }
+}

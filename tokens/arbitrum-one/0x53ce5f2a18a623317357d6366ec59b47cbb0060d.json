@@ -1,0 +1,15 @@
+{
+  "symbol": "RBOT",
+  "name": "Runbot",
+  "address": "0x53ce5f2a18a623317357d6366ec59b47cbb0060d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37033/thumb/runbot.jpeg?1713158872",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x53ce5f2a18a623317357d6366ec59b47cbb0060d"
+  }
+}

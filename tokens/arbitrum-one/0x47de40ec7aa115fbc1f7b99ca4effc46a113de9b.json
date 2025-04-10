@@ -1,0 +1,23 @@
+{
+  "symbol": "xUSDz",
+  "name": "ZAI Stablecoin",
+  "address": "0x47de40ec7aa115fbc1f7b99ca4effc46a113de9b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x69000dfd5025e82f48eb28325a2b88a241182ced",
+    "x-layer": "0xd077abe1663166c0920d41fd37ea2d9a00fabd40",
+    "optimistic-ethereum": "0x3b2a34c8a085a6ca425ea64192d9f3a0b5dfb397",
+    "scroll": "0x44d4b627997b41abd2bf2ea05b731fe535f01c3d",
+    "blast": "0x58e6489eca0e55a16adee6f37301638470738ce6",
+    "linea": "0xb7f8f05825f3e37dfa68e1f3df8b6d4b5829bc78",
+    "binance-smart-chain": "0x3b2a34c8a085a6ca425ea64192d9f3a0b5dfb397",
+    "arbitrum-one": "0x47de40ec7aa115fbc1f7b99ca4effc46a113de9b",
+    "base": "0x0a27e060c0406f8ab7b64e3bee036a37e5a62853"
+  }
+}

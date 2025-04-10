@@ -1,0 +1,20 @@
+{
+  "symbol": "FRM",
+  "name": "Ferrum Network Token",
+  "address": "0x9f6abbf0ba6b5bfa27f4deb6597cc6ec20573fda",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8251/thumb/frm.png?1563777564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+    "energi": "0xee0837e18f64ec6cf3bece2da75a1e5f679a6d84",
+    "binance-smart-chain": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
+    "avalanche": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+    "arbitrum-one": "0x9f6abbf0ba6b5bfa27f4deb6597cc6ec20573fda",
+    "polygon-pos": "0xd99bafe5031cc8b345cb2e8c80135991f12d7130"
+  }
+}

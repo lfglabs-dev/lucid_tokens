@@ -1,0 +1,15 @@
+{
+  "symbol": "TIA.n",
+  "name": "TIA",
+  "address": "0xd56734d7f9979dd94fae3d67c7e928234e71cd4c",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33199/thumb/tia.n.png?1701047832",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd56734d7f9979dd94fae3d67c7e928234e71cd4c"
+  }
+}

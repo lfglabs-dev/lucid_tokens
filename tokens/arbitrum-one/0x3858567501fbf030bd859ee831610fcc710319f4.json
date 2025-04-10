@@ -1,0 +1,15 @@
+{
+  "symbol": "NEXD",
+  "name": "Nexade",
+  "address": "0x3858567501fbf030bd859ee831610fcc710319f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52982/thumb/hcPlLvi3_400x400.jpg?1734905593",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3858567501fbf030bd859ee831610fcc710319f4"
+  }
+}

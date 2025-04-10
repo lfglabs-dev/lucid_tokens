@@ -1,0 +1,16 @@
+{
+  "symbol": "BOGE",
+  "name": "Bitci DOGE",
+  "address": "0xfd2fb8de10ec41ddd898a8c7fa70d8fc100834c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38048/thumb/DOGE_TOKEN_200.png?1716401036",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xfd2fb8de10ec41ddd898a8c7fa70d8fc100834c4",
+    "Bitcichain": "0xe5e6d02564ca2db2913a49cf485d4185c7baf788"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "USDe",
+  "name": "USDe",
+  "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39962/thumb/usde.png?1724952425",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "pfUSDC",
+  "name": "Parifi USDC Vault",
+  "address": "0xe11508d3e0cf09e6fd6e94fdf41e83836d83ce50",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36645/thumb/pfusdc.691a32ec_1.png?1712035948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe11508d3e0cf09e6fd6e94fdf41e83836d83ce50"
+  }
+}

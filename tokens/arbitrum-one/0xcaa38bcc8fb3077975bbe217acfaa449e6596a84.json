@@ -1,0 +1,18 @@
+{
+  "symbol": "DAO",
+  "name": "DAO Maker",
+  "address": "0xcaa38bcc8fb3077975bbe217acfaa449e6596a84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13915/thumb/4.png?1612838831",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+    "step-network": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+    "binance-smart-chain": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
+    "arbitrum-one": "0xcaa38bcc8fb3077975bbe217acfaa449e6596a84"
+  }
+}

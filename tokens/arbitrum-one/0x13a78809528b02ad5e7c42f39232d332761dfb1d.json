@@ -1,0 +1,15 @@
+{
+  "symbol": "pfWETH",
+  "name": "Parifi WETH Vault",
+  "address": "0x13a78809528b02ad5e7c42f39232d332761dfb1d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36644/thumb/pfeth.dc16c71b_1.png?1712035898",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x13a78809528b02ad5e7c42f39232d332761dfb1d"
+  }
+}

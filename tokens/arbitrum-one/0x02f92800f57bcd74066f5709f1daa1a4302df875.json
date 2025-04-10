@@ -1,0 +1,18 @@
+{
+  "symbol": "PEAS",
+  "name": "Peapods",
+  "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "mode": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "arbitrum-one": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "base": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
+  }
+}

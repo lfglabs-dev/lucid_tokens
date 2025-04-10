@@ -1,0 +1,18 @@
+{
+  "symbol": "DF",
+  "name": "dForce",
+  "address": "0xae6aab43c4f3e0cea4ab83752c278f8debaba689",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9709/thumb/xlGxxIjI_400x400.jpg?1571006794",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+    "energi": "0xc588d81d1a9ef1a119446482fc7cbcdb0012292a",
+    "binance-smart-chain": "0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623",
+    "arbitrum-one": "0xae6aab43c4f3e0cea4ab83752c278f8debaba689"
+  }
+}

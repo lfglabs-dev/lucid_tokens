@@ -1,0 +1,15 @@
+{
+  "symbol": "PRISM",
+  "name": "PRISM",
+  "address": "0x0b5c6ac0e1082f2d81e829b8c2957886e6bb3994",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31081/thumb/download_%2818%29.png?1690356004",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0b5c6ac0e1082f2d81e829b8c2957886e6bb3994"
+  }
+}

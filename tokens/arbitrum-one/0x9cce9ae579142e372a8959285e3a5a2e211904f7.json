@@ -1,0 +1,15 @@
+{
+  "symbol": "DGW",
+  "name": "DGWToken",
+  "address": "0x9cce9ae579142e372a8959285e3a5a2e211904f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39642/thumb/1000146817.jpg?1723410321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x9cce9ae579142e372a8959285e3a5a2e211904f7"
+  }
+}

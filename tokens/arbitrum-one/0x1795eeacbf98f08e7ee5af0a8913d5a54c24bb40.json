@@ -1,0 +1,18 @@
+{
+  "symbol": "SPTE.d",
+  "name": "SP Funds S&P Global Technology ETF - Dinari",
+  "address": "0x1795eeacbf98f08e7ee5af0a8913d5a54c24bb40",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1795eeacbf98f08e7ee5af0a8913d5a54c24bb40",
+    "ethereum": "0x2711018a5489df0d9816bdb7670d58ba23fb2d5e",
+    "blast": "0xca838b9437eb20ada32703a8b912922088cf90b5",
+    "base": "0xb0169ad580aa888467bbac4a4b650812dee74939"
+  }
+}

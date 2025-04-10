@@ -1,0 +1,15 @@
+{
+  "symbol": "YFX",
+  "name": "YieldFarming Index",
+  "address": "0xaae0c3856e665ff9b3e2872b6d75939d810b7e40",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29399/thumb/l1v2_transparent.png?1678513579",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xaae0c3856e665ff9b3e2872b6d75939d810b7e40"
+  }
+}

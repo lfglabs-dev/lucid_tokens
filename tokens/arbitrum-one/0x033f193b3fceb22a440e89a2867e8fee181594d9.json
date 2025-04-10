@@ -1,0 +1,15 @@
+{
+  "symbol": "RDO",
+  "name": "Rodeo",
+  "address": "0x033f193b3fceb22a440e89a2867e8fee181594d9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30905/thumb/RDO_ticker_logo_-_color-01-01.png?1688622901",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x033f193b3fceb22a440e89a2867e8fee181594d9"
+  }
+}

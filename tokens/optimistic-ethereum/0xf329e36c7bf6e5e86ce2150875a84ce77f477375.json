@@ -1,0 +1,19 @@
+{
+  "symbol": "aOptAAVE",
+  "name": "Aave Optimism AAVE",
+  "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32887/thumb/aave.png?1699773604",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa700b4eb416be35b2911fd5dee80678ff64ff6c9",
+    "optimistic-ethereum": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+    "avalanche": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+    "arbitrum-one": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+    "polygon-pos": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375"
+  }
+}

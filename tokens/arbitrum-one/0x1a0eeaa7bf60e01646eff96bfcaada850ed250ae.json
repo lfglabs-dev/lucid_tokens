@@ -1,0 +1,15 @@
+{
+  "symbol": "REDUX",
+  "name": "Redux_Vault",
+  "address": "0x1a0eeaa7bf60e01646eff96bfcaada850ed250ae",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50205/thumb/logo.png?1726295415",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1a0eeaa7bf60e01646eff96bfcaada850ed250ae"
+  }
+}

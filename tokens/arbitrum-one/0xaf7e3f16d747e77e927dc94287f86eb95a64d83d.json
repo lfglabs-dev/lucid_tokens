@@ -1,0 +1,15 @@
+{
+  "symbol": "VEMP",
+  "name": "VEMP",
+  "address": "0xaf7e3f16d747e77e927dc94287f86eb95a64d83d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18074/thumb/Ay5nuny.png?1630380510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xaf7e3f16d747e77e927dc94287f86eb95a64d83d"
+  }
+}

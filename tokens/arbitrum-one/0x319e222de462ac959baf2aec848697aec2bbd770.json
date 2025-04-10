@@ -1,0 +1,15 @@
+{
+  "symbol": "OREO",
+  "name": "OreoSwap",
+  "address": "0x319e222de462ac959baf2aec848697aec2bbd770",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28582/thumb/oreoswapx.png?1671958777",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x319e222de462ac959baf2aec848697aec2bbd770"
+  }
+}

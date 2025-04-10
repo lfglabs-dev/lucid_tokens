@@ -1,0 +1,18 @@
+{
+  "symbol": "TQQQ.d",
+  "name": "ProShares  UltraPro QQQ - Dinari",
+  "address": "0x63ad78a6e2db3322d16943fc65e71a0010571521",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x63ad78a6e2db3322d16943fc65e71a0010571521",
+    "ethereum": "0xf7248e588f88655d4a5230c4cec2db2cf4438ff0",
+    "blast": "0x0b96517fb729c6f6c00ab15abb3d72ae708d5960",
+    "base": "0x525dcb13b0caf29f30f93305a5cbd10314815408"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PIKA",
+  "name": "Pika",
+  "address": "0x9a601c5bb360811d96a23689066af316a30c3027",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30279/thumb/Pika_protocol.png?1683796032",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x9a601c5bb360811d96a23689066af316a30c3027"
+  }
+}

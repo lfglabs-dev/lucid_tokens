@@ -1,0 +1,15 @@
+{
+  "symbol": "NEU",
+  "name": "NEU",
+  "address": "0x6609be1547166d1c4605f3a243fdcff467e600c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28813/thumb/NEU_Token_logo.png?1674455093",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6609be1547166d1c4605f3a243fdcff467e600c3"
+  }
+}

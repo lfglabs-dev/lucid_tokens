@@ -1,0 +1,15 @@
+{
+  "symbol": "EQU",
+  "name": "Equation",
+  "address": "0x87aaffdf26c6885f6010219208d5b161ec7609c0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32592/thumb/Equation_Logo_%28200_x_200_px%29.png?1698668145",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x87aaffdf26c6885f6010219208d5b161ec7609c0"
+  }
+}

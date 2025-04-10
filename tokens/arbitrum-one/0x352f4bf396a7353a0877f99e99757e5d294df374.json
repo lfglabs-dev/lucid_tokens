@@ -1,0 +1,15 @@
+{
+  "symbol": "SUNDAE",
+  "name": "Sundae Token",
+  "address": "0x352f4bf396a7353a0877f99e99757e5d294df374",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32010/thumb/sundae.jpg?1696042422",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x352f4bf396a7353a0877f99e99757e5d294df374"
+  }
+}

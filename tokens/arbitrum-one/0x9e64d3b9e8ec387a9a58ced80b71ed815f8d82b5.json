@@ -1,0 +1,15 @@
+{
+  "symbol": "SMOL",
+  "name": "Smolcoin",
+  "address": "0x9e64d3b9e8ec387a9a58ced80b71ed815f8d82b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33951/thumb/Smol_Coin_Icon.png?1703558329",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x9e64d3b9e8ec387a9a58ced80b71ed815f8d82b5"
+  }
+}

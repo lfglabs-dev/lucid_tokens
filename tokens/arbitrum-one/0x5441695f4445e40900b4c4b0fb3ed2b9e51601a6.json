@@ -1,0 +1,17 @@
+{
+  "symbol": "ARTH",
+  "name": "ARTH Valuecoin",
+  "address": "0x5441695f4445e40900b4c4b0fb3ed2b9e51601a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16876/thumb/ARTH_Token.png?1625651538",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8cc0f052fff7ead7f2edcccac895502e884a8a71",
+    "binance-smart-chain": "0x85dab10c3ba20148ca60c2eb955e1f8ffe9eaa79",
+    "arbitrum-one": "0x5441695f4445e40900b4c4b0fb3ed2b9e51601a6"
+  }
+}

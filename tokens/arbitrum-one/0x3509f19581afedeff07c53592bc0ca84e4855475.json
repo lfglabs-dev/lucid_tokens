@@ -1,0 +1,16 @@
+{
+  "symbol": "xUSD",
+  "name": "xDollar Stablecoin",
+  "address": "0x3509f19581afedeff07c53592bc0ca84e4855475",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16291/thumb/xUSD-web-transparent.png?1623661715",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975",
+    "arbitrum-one": "0x3509f19581afedeff07c53592bc0ca84e4855475"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "OPC",
+  "name": "OP Chads",
+  "address": "0x48a9f8b4b65a55cc46ea557a610acf227454ab09",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36580/thumb/smol.png?1711944400",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x48a9f8b4b65a55cc46ea557a610acf227454ab09"
+  }
+}

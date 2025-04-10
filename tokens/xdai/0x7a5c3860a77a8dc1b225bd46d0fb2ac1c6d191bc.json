@@ -1,0 +1,16 @@
+{
+  "symbol": "aGnosDAI",
+  "name": "Aave Gnosis sDAI",
+  "address": "0x7a5c3860a77a8dc1b225bd46d0fb2ac1c6d191bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32891/thumb/sdai.png?1699785595",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4c612e3b15b96ff9a6faed838f8d07d479a8dd4c",
+    "xdai": "0x7a5c3860a77a8dc1b225bd46d0fb2ac1c6d191bc"
+  }
+}

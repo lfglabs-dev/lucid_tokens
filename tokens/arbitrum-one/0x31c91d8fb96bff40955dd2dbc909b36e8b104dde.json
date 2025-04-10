@@ -1,0 +1,17 @@
+{
+  "symbol": "POI$ON",
+  "name": "Poison.Finance Poison",
+  "address": "0x31c91d8fb96bff40955dd2dbc909b36e8b104dde",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28630/thumb/poisonlogo160x160.png?1672737996",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x31c91d8fb96bff40955dd2dbc909b36e8b104dde",
+    "binance-smart-chain": "0x31c91d8fb96bff40955dd2dbc909b36e8b104dde",
+    "polygon-pos": "0x31c91d8fb96bff40955dd2dbc909b36e8b104dde"
+  }
+}

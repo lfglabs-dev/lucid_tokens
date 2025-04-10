@@ -1,0 +1,15 @@
+{
+  "symbol": "USDs",
+  "name": "The Standard USD",
+  "address": "0x2ea0be86990e8dac0d09e4316bb92086f304622d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50381/thumb/USDs-200x200.png?1727411027",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2ea0be86990e8dac0d09e4316bb92086f304622d"
+  }
+}

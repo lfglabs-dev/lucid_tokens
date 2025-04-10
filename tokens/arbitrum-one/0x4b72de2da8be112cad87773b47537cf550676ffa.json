@@ -1,0 +1,18 @@
+{
+  "symbol": "SBUX.d",
+  "name": "Starbucks Corp - Dinari",
+  "address": "0x4b72de2da8be112cad87773b47537cf550676ffa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4b72de2da8be112cad87773b47537cf550676ffa",
+    "ethereum": "0x86ccbf2471be7ebca2c2c92a12fcf7089a44b4df",
+    "blast": "0xd2c500a8dd36eee1082314d624a46b5ab37c426e",
+    "base": "0x9b42e4afcc2046070fa00ff8213d59eef6e4264e"
+  }
+}

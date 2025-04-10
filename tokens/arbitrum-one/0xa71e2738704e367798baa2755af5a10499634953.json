@@ -1,0 +1,17 @@
+{
+  "symbol": "AVRK",
+  "name": "Avarik Saga",
+  "address": "0xa71e2738704e367798baa2755af5a10499634953",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51914/thumb/Tokenimic_AVRK_3.png?1732178454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x607f451f850cb612a07b37b6315be23f55165610",
+    "arbitrum-one": "0xa71e2738704e367798baa2755af5a10499634953",
+    "base": "0xcaacd56d3d9b41d9d1272457e77f8ae510fdb688"
+  }
+}

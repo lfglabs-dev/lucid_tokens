@@ -1,0 +1,15 @@
+{
+  "symbol": "GFLY",
+  "name": "gFLY",
+  "address": "0x872bad41cfc8ba731f811fea8b2d0b9fd6369585",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28828/thumb/battlefly.png?1674727488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x872bad41cfc8ba731f811fea8b2d0b9fd6369585"
+  }
+}

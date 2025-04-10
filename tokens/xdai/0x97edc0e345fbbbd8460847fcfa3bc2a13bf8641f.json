@@ -1,0 +1,16 @@
+{
+  "symbol": "RICE",
+  "name": "DAOSquare Governance Token on xDai",
+  "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19084/thumb/tw5gu1dW_400x400.jpeg?1634389807",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+    "xdai": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f"
+  }
+}

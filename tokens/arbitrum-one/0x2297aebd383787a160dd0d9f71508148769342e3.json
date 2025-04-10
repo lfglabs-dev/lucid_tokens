@@ -1,0 +1,15 @@
+{
+  "symbol": "BTC.b",
+  "name": "Bitcoin",
+  "address": "0x2297aebd383787a160dd0d9f71508148769342e3",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51135/thumb/avalanche-core.png?1730195092",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2297aebd383787a160dd0d9f71508148769342e3"
+  }
+}

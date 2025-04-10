@@ -1,0 +1,15 @@
+{
+  "symbol": "xCOMB",
+  "name": "xDai Native Comb",
+  "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16012/thumb/logo.png?1622603137",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7"
+  }
+}

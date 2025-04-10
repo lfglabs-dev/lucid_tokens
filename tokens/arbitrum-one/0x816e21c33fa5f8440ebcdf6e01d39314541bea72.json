@@ -1,0 +1,19 @@
+{
+  "symbol": "Lqdr",
+  "name": "LqdrV2",
+  "address": "0x816e21c33fa5f8440ebcdf6e01d39314541bea72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15782/thumb/LQDR_Glowing_Icon.png?1631200053",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x816e21c33fa5f8440ebcdf6e01d39314541bea72",
+    "kava": "0x332c72dd7e77070740f01d2d35851c461585d5d0",
+    "binance-smart-chain": "0x4b6b3d425f82248996d77ecc3f3df1e500aac1db",
+    "fantom": "0x4b6b3d425f82248996d77ecc3f3df1e500aac1db",
+    "polygon-pos": "0x0294d8eb7857d43feb1210db72456d41481f9ede"
+  }
+}

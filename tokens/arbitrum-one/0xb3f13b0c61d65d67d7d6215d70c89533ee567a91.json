@@ -1,0 +1,16 @@
+{
+  "symbol": "A51",
+  "name": "A51 Finance",
+  "address": "0xb3f13b0c61d65d67d7d6215d70c89533ee567a91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36723/thumb/a51.png?1712141364",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe9e7c09e82328c3107d367f6c617cf9977e63ed0",
+    "arbitrum-one": "0xb3f13b0c61d65d67d7d6215d70c89533ee567a91"
+  }
+}

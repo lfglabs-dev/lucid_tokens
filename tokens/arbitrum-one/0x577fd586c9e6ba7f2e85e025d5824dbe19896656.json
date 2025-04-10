@@ -1,0 +1,15 @@
+{
+  "symbol": "SYNO",
+  "name": "Synonym Finance",
+  "address": "0x577fd586c9e6ba7f2e85e025d5824dbe19896656",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35065/thumb/SYNO-token.png?1707241258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x577fd586c9e6ba7f2e85e025d5824dbe19896656"
+  }
+}

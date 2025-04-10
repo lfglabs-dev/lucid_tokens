@@ -1,0 +1,18 @@
+{
+  "symbol": "VEUR",
+  "name": "VNX Euro",
+  "address": "0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29351/thumb/VNXEUR_%281%29.png?1678262021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fraxtal": "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
+    "avalanche": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b",
+    "arbitrum-one": "0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8",
+    "polygon-pos": "0xe4095d9372e68d108225c306a4491cacfb33b097"
+  }
+}

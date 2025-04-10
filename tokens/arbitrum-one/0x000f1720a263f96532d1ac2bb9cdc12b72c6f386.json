@@ -1,0 +1,15 @@
+{
+  "symbol": "FLY",
+  "name": "Fluidity",
+  "address": "0x000f1720a263f96532d1ac2bb9cdc12b72c6f386",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36086/thumb/FLY_2D_Old_Map_Double_Border.png?1710434215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x000f1720a263f96532d1ac2bb9cdc12b72c6f386"
+  }
+}

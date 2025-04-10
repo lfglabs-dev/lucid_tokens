@@ -1,0 +1,15 @@
+{
+  "symbol": "mGLP",
+  "name": "magicGLP",
+  "address": "0x85667409a723684fe1e57dd1abde8d88c2f54214",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29071/thumb/Token-mGLP.png?1676396985",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x85667409a723684fe1e57dd1abde8d88c2f54214"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RUX",
+  "name": "RunBlox Token",
+  "address": "0xc701f86e6d242b97d3035f6c2cecaf8e7087e898",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29766/thumb/sh5z8C-0_400x400.jpg?1681194047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xc701f86e6d242b97d3035f6c2cecaf8e7087e898"
+  }
+}

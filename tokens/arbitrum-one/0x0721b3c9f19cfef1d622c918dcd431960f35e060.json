@@ -1,0 +1,15 @@
+{
+  "symbol": "SYNTH",
+  "name": "SYNTHR",
+  "address": "0x0721b3c9f19cfef1d622c918dcd431960f35e060",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53619/thumb/SYNTHR.png?1736893363",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0721b3c9f19cfef1d622c918dcd431960f35e060"
+  }
+}

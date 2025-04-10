@@ -1,0 +1,15 @@
+{
+  "symbol": "ELM",
+  "name": "Ellerium",
+  "address": "0xeeac5e75216571773c0064b3b591a86253791db6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28153/thumb/elm.png?1668153687",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xeeac5e75216571773c0064b3b591a86253791db6"
+  }
+}

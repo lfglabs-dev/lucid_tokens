@@ -1,0 +1,15 @@
+{
+  "symbol": "LPOOL",
+  "name": "Launchpool token",
+  "address": "0xf6dae0d2be4993b00a2673360820af6bafd53887",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14041/thumb/dGUvV0HQ_400x400.jpg?1613976219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf6dae0d2be4993b00a2673360820af6bafd53887"
+  }
+}

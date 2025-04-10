@@ -1,0 +1,15 @@
+{
+  "symbol": "VSTA",
+  "name": "Vesta",
+  "address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23306/thumb/vesta-finance.png?1643692530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa684cd057951541187f288294a1e1c2646aa2d24"
+  }
+}

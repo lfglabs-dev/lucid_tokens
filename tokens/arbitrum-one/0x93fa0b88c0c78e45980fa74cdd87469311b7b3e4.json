@@ -1,0 +1,16 @@
+{
+  "symbol": "XBG",
+  "name": "XBorg",
+  "address": "0x93fa0b88c0c78e45980fa74cdd87469311b7b3e4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39830/thumb/XBorg_Logo.png?1724209192",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeae00d6f9b16deb1bd584c7965e4c7d762f178a1",
+    "arbitrum-one": "0x93fa0b88c0c78e45980fa74cdd87469311b7b3e4"
+  }
+}

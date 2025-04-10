@@ -1,0 +1,15 @@
+{
+  "symbol": "HWT",
+  "name": "HonorWorld Token",
+  "address": "0xbcc9c1763d54427bdf5efb6e9eb9494e5a1fbabf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28559/thumb/hwt.png?1671706521",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xbcc9c1763d54427bdf5efb6e9eb9494e5a1fbabf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "RBLX.d",
+  "name": "Roblox Corporation - Dinari",
+  "address": "0x6468cd2aa21a87b4e52d89b8dd123fbb5db101ed",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6468cd2aa21a87b4e52d89b8dd123fbb5db101ed",
+    "blast": "0xe3fc0948bdcada331014590987cc624015403874",
+    "ethereum": "0x461ad31f69e694e2e20b2070d8be1105626110c3",
+    "base": "0xb51c78989fb8d1bf2c957dd0522235c92d0443a5"
+  }
+}

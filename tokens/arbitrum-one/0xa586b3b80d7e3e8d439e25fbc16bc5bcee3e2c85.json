@@ -1,0 +1,16 @@
+{
+  "symbol": "CTOK",
+  "name": "Codyfight Token",
+  "address": "0xa586b3b80d7e3e8d439e25fbc16bc5bcee3e2c85",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23592/thumb/ctok.jpg?1715904249",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1acfb5d95bc090bc55d8ae58a8df4081d73e009",
+    "arbitrum-one": "0xa586b3b80d7e3e8d439e25fbc16bc5bcee3e2c85"
+  }
+}

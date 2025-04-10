@@ -1,0 +1,22 @@
+{
+  "symbol": "Anon",
+  "name": "HeyAnon",
+  "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "sonic": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "iota-evm": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "metis-andromeda": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "kava": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "ethereum": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "binance-smart-chain": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "arbitrum-one": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "base": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AURY",
+  "name": "Aury",
+  "address": "0x11bf4f05eb28b802ed3ab672594decb20ffe2313",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19324/thumb/logo.png?1635076945",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x11bf4f05eb28b802ed3ab672594decb20ffe2313"
+  }
+}

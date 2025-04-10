@@ -1,0 +1,18 @@
+{
+  "symbol": "BTCO.d",
+  "name": "Invesco Galaxy Bitcoin ETF - Dinari",
+  "address": "0x2824efe5cedb3bc8730e412981997dac7c7640c2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2824efe5cedb3bc8730e412981997dac7c7640c2",
+    "ethereum": "0x0c7ec64a7b3416bc3578e02d4b1e5763da756183",
+    "blast": "0xbf286a9c026f02dd4d2e3fc3887e77e425d15a11",
+    "base": "0x69bd04ab9290d2919f228b87f9dccf728e2675cd"
+  }
+}

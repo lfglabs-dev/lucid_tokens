@@ -1,0 +1,16 @@
+{
+  "symbol": "HAUS",
+  "name": "DAOhaus Token on xDai",
+  "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14551/thumb/jN3kkqke_400x400.png?1616990048",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf2051511b9b121394fa75b8f7d4e7424337af687",
+    "xdai": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb"
+  }
+}

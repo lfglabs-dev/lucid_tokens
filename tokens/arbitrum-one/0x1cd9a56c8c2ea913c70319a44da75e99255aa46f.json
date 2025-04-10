@@ -1,0 +1,16 @@
+{
+  "symbol": "OBT",
+  "name": "Orbiter Token",
+  "address": "0x1cd9a56c8c2ea913c70319a44da75e99255aa46f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53783/thumb/orbiter.jpg?1737352795",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1cd9a56c8c2ea913c70319a44da75e99255aa46f",
+    "base": "0x514d8e8099286a13486ef6c525c120f51c239b52"
+  }
+}

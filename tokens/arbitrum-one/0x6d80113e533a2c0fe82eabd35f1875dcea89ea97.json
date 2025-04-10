@@ -1,0 +1,15 @@
+{
+  "symbol": "aArbEURS",
+  "name": "Aave Arbitrum EURS",
+  "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32913/thumb/eurs.png?1699824583",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97"
+  }
+}

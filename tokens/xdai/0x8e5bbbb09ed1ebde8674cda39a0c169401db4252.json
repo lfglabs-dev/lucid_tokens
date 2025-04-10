@@ -1,0 +1,15 @@
+{
+  "symbol": "WBTC",
+  "name": "Wrapped BTC on xDai",
+  "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39595/thumb/wbtc.png?1723016785",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252"
+  }
+}

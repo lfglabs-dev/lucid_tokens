@@ -1,0 +1,15 @@
+{
+  "symbol": "TROVE",
+  "name": "Arbitrove Governance Token",
+  "address": "0x982239d38af50b0168da33346d85fb12929c4c07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29017/thumb/trove.png?1676541888",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x982239d38af50b0168da33346d85fb12929c4c07"
+  }
+}

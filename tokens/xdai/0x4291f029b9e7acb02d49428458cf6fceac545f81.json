@@ -1,0 +1,15 @@
+{
+  "symbol": "WATER",
+  "name": "Water Token",
+  "address": "0x4291f029b9e7acb02d49428458cf6fceac545f81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26089/thumb/water_logo.png?1655778743",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x4291f029b9e7acb02d49428458cf6fceac545f81"
+  }
+}

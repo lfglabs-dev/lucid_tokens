@@ -1,0 +1,15 @@
+{
+  "symbol": "wstETH",
+  "name": "Wrapped liquid staked Ether 2.0",
+  "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53102/thumb/arbitrum-bridged-wsteth-arbitrum.webp?1735227527",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5979d7b546e38e414f7e9822514be443a4800529"
+  }
+}

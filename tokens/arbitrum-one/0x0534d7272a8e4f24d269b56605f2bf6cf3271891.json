@@ -1,0 +1,18 @@
+{
+  "symbol": "U",
+  "name": "UCOIN",
+  "address": "0x0534d7272a8e4f24d269b56605f2bf6cf3271891",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51359/thumb/coingecko.png?1730877953",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe07710cdcd1c9f0fb04bfd013f9854e4552671ce",
+    "ethereum": "0xe07710cdcd1c9f0fb04bfd013f9854e4552671ce",
+    "arbitrum-one": "0x0534d7272a8e4f24d269b56605f2bf6cf3271891",
+    "polygon-pos": "0xe07710cdcd1c9f0fb04bfd013f9854e4552671ce"
+  }
+}

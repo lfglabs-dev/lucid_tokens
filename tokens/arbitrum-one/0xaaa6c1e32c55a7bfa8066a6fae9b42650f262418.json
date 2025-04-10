@@ -1,0 +1,15 @@
+{
+  "symbol": "RAM",
+  "name": "Ramses",
+  "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29420/thumb/RAM_Token_32x32.png?1678678321",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418"
+  }
+}

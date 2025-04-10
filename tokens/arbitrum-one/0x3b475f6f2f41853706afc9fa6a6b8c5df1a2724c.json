@@ -1,0 +1,15 @@
+{
+  "symbol": "ZYB",
+  "name": "Zyber Token",
+  "address": "0x3b475f6f2f41853706afc9fa6a6b8c5df1a2724c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28943/thumb/logo_with_bg.png?1675569328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3b475f6f2f41853706afc9fa6a6b8c5df1a2724c"
+  }
+}

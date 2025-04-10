@@ -1,0 +1,15 @@
+{
+  "symbol": "DDCS",
+  "name": "DDC Swiss Shares SHA",
+  "address": "0xd6c67ff71a82f1d994d94fa01295467d273d7324",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33354/thumb/DDC.png?1701563532",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xd6c67ff71a82f1d994d94fa01295467d273d7324"
+  }
+}

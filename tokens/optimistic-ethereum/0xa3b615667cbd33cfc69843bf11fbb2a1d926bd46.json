@@ -1,0 +1,18 @@
+{
+  "symbol": "mPendle",
+  "name": "mPendle",
+  "address": "0xa3b615667cbd33cfc69843bf11fbb2a1d926bd46",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31918/thumb/mPendle.png?1695644044",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x83e817e1574e2201a005ec0f7e700ed5606f555e",
+    "optimistic-ethereum": "0xa3b615667cbd33cfc69843bf11fbb2a1d926bd46",
+    "binance-smart-chain": "0x0465aad9da170798433f4ab7fa7ec8b9b9bf0bb1",
+    "arbitrum-one": "0xb688ba096b7bb75d7841e47163cd12d18b36a5bf"
+  }
+}

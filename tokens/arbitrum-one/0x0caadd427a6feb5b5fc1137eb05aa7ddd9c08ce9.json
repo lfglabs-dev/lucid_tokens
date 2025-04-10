@@ -1,0 +1,15 @@
+{
+  "symbol": "VEE",
+  "name": "Vee Token",
+  "address": "0x0caadd427a6feb5b5fc1137eb05aa7ddd9c08ce9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52199/thumb/1000002075.png?1732732974",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0caadd427a6feb5b5fc1137eb05aa7ddd9c08ce9"
+  }
+}

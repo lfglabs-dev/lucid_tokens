@@ -1,0 +1,16 @@
+{
+  "symbol": "GRND",
+  "name": "SuperWalk",
+  "address": "0x3b58a4c865b568a2f6a957c264f6b50cba35d8ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27186/thumb/GRND_3x.png?1662433577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "klay-token": "0x84f8c3c8d6ee30a559d73ec570d574f671e82647",
+    "arbitrum-one": "0x3b58a4c865b568a2f6a957c264f6b50cba35d8ce"
+  }
+}

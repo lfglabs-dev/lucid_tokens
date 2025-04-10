@@ -1,0 +1,15 @@
+{
+  "symbol": "(=ↀωↀ=)",
+  "name": "Nekocoin",
+  "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x139052115f8b1773cf7dcba6a553f922a2e54f69"
+  }
+}

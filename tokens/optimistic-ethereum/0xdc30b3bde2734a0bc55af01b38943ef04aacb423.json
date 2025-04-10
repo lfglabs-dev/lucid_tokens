@@ -1,0 +1,18 @@
+{
+  "symbol": "zunUSD",
+  "name": "Zunami Omni USD",
+  "address": "0xdc30b3bde2734a0bc55af01b38943ef04aacb423",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37809/thumb/zunUSD_200x200.png?1715591997",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8c0d76c9b18779665475f3e212d9ca1ed6a1a0e6",
+    "optimistic-ethereum": "0xdc30b3bde2734a0bc55af01b38943ef04aacb423",
+    "arbitrum-one": "0xbfeb8b6813491bb4fb823b8f451b62ef535420d1",
+    "base": "0xd5b9ddb04f20ea773c9b56607250149b26049b1f"
+  }
+}

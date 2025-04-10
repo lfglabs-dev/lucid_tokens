@@ -1,0 +1,17 @@
+{
+  "symbol": "FU",
+  "name": "FUMoney",
+  "address": "0x130096af9163b185cae4a833f856760199fc6ceb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38629/thumb/FU_logo_black.png?1718170125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6c05b8141cefb64502b6dfcaae7c77babbac18fa",
+    "arbitrum-one": "0x130096af9163b185cae4a833f856760199fc6ceb",
+    "base": "0x8f4e4221ba88d4e9bb76ecfb91d7c5ce08d7d5b9"
+  }
+}

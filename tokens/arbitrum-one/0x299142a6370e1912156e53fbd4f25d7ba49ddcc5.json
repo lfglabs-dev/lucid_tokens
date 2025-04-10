@@ -1,0 +1,15 @@
+{
+  "symbol": "AMC",
+  "name": "AI Meta Coin",
+  "address": "0x299142a6370e1912156e53fbd4f25d7ba49ddcc5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31919/thumb/aimeta.jpg?1695644151",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x299142a6370e1912156e53fbd4f25d7ba49ddcc5"
+  }
+}

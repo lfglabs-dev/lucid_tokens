@@ -1,0 +1,16 @@
+{
+  "symbol": "ENO",
+  "name": "EnoToken",
+  "address": "0x2b41806cbf1ffb3d9e31a9ece6b738bf9d6f645f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26501/thumb/Eno_logo.png?1658364451",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1c3d163219bb74f430411b95d66b72056f366ec1",
+    "arbitrum-one": "0x2b41806cbf1ffb3d9e31a9ece6b738bf9d6f645f"
+  }
+}

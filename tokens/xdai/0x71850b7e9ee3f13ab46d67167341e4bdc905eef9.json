@@ -1,0 +1,16 @@
+{
+  "symbol": "HNY",
+  "name": "Honey",
+  "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+    "ethereum": "0xc3589f56b6869824804a5ea29f2c9886af1b0fce"
+  }
+}

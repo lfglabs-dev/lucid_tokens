@@ -1,0 +1,15 @@
+{
+  "symbol": "esPRF",
+  "name": "escrowed PRF",
+  "address": "0xfc675adfdd721064ba923d07a8a238a9e52d8ace",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36646/thumb/esprf_200x200.png?1712037087",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xfc675adfdd721064ba923d07a8a238a9e52d8ace"
+  }
+}

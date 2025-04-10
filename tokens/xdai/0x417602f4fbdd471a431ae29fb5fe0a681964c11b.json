@@ -1,0 +1,18 @@
+{
+  "symbol": "JPYC",
+  "name": "JPY Coin on xDai",
+  "address": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17277/thumb/WoZ8rruL_400x400.png?1627016492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
+    "shiden network": "0x735abe48e8782948a37c7765ecb76b98cde97b0f",
+    "xdai": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
+    "polygon-pos": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c"
+  }
+}

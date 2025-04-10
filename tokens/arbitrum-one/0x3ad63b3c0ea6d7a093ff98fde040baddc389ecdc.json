@@ -1,0 +1,15 @@
+{
+  "symbol": "NFLX.d",
+  "name": "Netflix, Inc. - Dinari",
+  "address": "0x3ad63b3c0ea6d7a093ff98fde040baddc389ecdc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32425/thumb/token-icon.png?1698119029",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3ad63b3c0ea6d7a093ff98fde040baddc389ecdc"
+  }
+}

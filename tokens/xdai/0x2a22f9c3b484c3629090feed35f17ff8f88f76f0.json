@@ -1,0 +1,15 @@
+{
+  "symbol": "USDC.e",
+  "name": "Bridged USDC (Gnosis)",
+  "address": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38775/thumb/usd-coin.jpeg?1718773178",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0"
+  }
+}

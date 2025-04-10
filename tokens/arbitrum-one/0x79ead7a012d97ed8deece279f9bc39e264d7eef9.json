@@ -1,0 +1,15 @@
+{
+  "symbol": "Bonsai",
+  "name": "Bonsai",
+  "address": "0x79ead7a012d97ed8deece279f9bc39e264d7eef9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37883/thumb/bonsai.jpeg?1715840730",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x79ead7a012d97ed8deece279f9bc39e264d7eef9"
+  }
+}

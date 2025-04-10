@@ -1,0 +1,15 @@
+{
+  "symbol": "wxHOPR",
+  "name": "Wrapped xHOPR Token",
+  "address": "0xd4fdec44db9d44b8f2b6d529620f9c0c7066a2c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51027/thumb/hopr_logo.png?1729776406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0xd4fdec44db9d44b8f2b6d529620f9c0c7066a2c1"
+  }
+}

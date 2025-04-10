@@ -1,0 +1,16 @@
+{
+  "symbol": "GMX",
+  "name": "GMX",
+  "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18323/thumb/arbit.png?1631532468",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "avalanche": "0x62edc0692bd897d2295872a9ffcac5425011c661"
+  }
+}

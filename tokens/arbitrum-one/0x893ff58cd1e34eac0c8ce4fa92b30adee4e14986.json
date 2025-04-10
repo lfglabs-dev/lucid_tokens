@@ -1,0 +1,15 @@
+{
+  "symbol": "LMT.d",
+  "name": "Lockheed Martin Corp. - Dinari",
+  "address": "0x893ff58cd1e34eac0c8ce4fa92b30adee4e14986",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54186/thumb/d-token-200.png?1738682483",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x893ff58cd1e34eac0c8ce4fa92b30adee4e14986"
+  }
+}

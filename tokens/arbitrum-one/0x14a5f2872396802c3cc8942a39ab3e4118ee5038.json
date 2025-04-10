@@ -1,0 +1,21 @@
+{
+  "symbol": "bTSLA",
+  "name": "Backed Tesla Inc",
+  "address": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38916/thumb/b-TSLA-200x200.png?1719474888",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
+    "xdai": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
+    "ethereum": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
+    "binance-smart-chain": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
+    "avalanche": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
+    "polygon-pos": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038",
+    "base": "0x14a5f2872396802c3cc8942a39ab3e4118ee5038"
+  }
+}

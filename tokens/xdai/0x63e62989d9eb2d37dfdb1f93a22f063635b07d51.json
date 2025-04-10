@@ -1,0 +1,15 @@
+{
+  "symbol": "MIVA",
+  "name": "Minerva Wallet SuperToken",
+  "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14732/thumb/MIVA-Token_200x200.png?1617958701",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51"
+  }
+}

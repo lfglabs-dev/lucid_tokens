@@ -1,0 +1,17 @@
+{
+  "symbol": "SWTH",
+  "name": "Carbon Token",
+  "address": "0xf763fa322dc58dee588252fafee5f448e863b633",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3645/thumb/SWTH_Symbol_Origin.png?1645000262",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "neo": "0xab38352559b8b203bde5fddfa0b07d8b2525e132",
+    "binance-smart-chain": "0xc0ecb8499d8da2771abcbf4091db7f65158f1468",
+    "arbitrum-one": "0xf763fa322dc58dee588252fafee5f448e863b633"
+  }
+}

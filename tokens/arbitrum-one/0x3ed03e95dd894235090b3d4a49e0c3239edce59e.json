@@ -1,0 +1,15 @@
+{
+  "symbol": "MYRC",
+  "name": "MYRC",
+  "address": "0x3ed03e95dd894235090b3d4a49e0c3239edce59e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38632/thumb/myrc-token-trans-200x200.png?1718172187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3ed03e95dd894235090b3d4a49e0c3239edce59e"
+  }
+}

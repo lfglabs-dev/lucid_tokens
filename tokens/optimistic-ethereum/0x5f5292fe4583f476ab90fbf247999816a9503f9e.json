@@ -1,0 +1,16 @@
+{
+  "symbol": "SMP",
+  "name": "Seamoon Protocol",
+  "address": "0x5f5292fe4583f476ab90fbf247999816a9503f9e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39885/thumb/SMP_Logo.png?1724647800",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7d36f7d8e9220f021305b8f13414c87df688aa8b",
+    "optimistic-ethereum": "0x5f5292fe4583f476ab90fbf247999816a9503f9e"
+  }
+}

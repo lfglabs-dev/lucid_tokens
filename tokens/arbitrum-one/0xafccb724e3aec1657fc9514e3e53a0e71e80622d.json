@@ -1,0 +1,15 @@
+{
+  "symbol": "VKA",
+  "name": "VKA",
+  "address": "0xafccb724e3aec1657fc9514e3e53a0e71e80622d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32408/thumb/VKA_logo_PNG.png?1698057073",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xafccb724e3aec1657fc9514e3e53a0e71e80622d"
+  }
+}

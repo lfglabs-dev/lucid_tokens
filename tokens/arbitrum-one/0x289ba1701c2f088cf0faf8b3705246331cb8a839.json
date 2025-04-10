@@ -1,0 +1,17 @@
+{
+  "symbol": "LPT",
+  "name": "Livepeer Token",
+  "address": "0x289ba1701c2f088cf0faf8b3705246331cb8a839",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7137/thumb/logo-circle-green.png?1619593365",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x58b6a8a3302369daec383334672404ee733ab239",
+    "harmony-shard-0": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c",
+    "arbitrum-one": "0x289ba1701c2f088cf0faf8b3705246331cb8a839"
+  }
+}

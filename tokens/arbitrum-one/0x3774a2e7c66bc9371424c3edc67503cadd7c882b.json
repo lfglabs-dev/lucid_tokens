@@ -1,0 +1,15 @@
+{
+  "symbol": "PPLT.d",
+  "name": "abrdn Physical Platinum Shares ETF - Dinari",
+  "address": "0x3774a2e7c66bc9371424c3edc67503cadd7c882b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54271/thumb/d-token-200.png?1738994803",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3774a2e7c66bc9371424c3edc67503cadd7c882b"
+  }
+}

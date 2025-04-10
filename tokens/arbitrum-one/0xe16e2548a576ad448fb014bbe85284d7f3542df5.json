@@ -1,0 +1,15 @@
+{
+  "symbol": "MOZ",
+  "name": "Lumoz token",
+  "address": "0xe16e2548a576ad448fb014bbe85284d7f3542df5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52659/thumb/lumoz.jpg?1734002341",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe16e2548a576ad448fb014bbe85284d7f3542df5"
+  }
+}

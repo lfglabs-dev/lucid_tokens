@@ -1,0 +1,15 @@
+{
+  "symbol": "USDC",
+  "name": "USD//C on xDai",
+  "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35300/thumb/USDC_Icon.png?1708083625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
+  }
+}

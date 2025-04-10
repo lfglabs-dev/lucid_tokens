@@ -1,0 +1,15 @@
+{
+  "symbol": "OT",
+  "name": "OT",
+  "address": "0xb4b07b60455a2f38cba98a8f3dd161f7ca396a9c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29133/thumb/OTCMC.png?1676958182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb4b07b60455a2f38cba98a8f3dd161f7ca396a9c"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "JRT",
+  "name": "Jarvis Reward Token",
+  "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10390/thumb/cfeii0y.png?1578868949",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+    "optimistic-ethereum": "0x15e770b95edd73fd96b02ece0266247d50895e76",
+    "binance-smart-chain": "0x414f9e74ba3a9d0acce65182809492f41ac671e0",
+    "arbitrum-one": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
+    "polygon-pos": "0x596ebe76e2db4470966ea395b0d063ac6197a8c5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "symbol": "AAVE",
+  "name": "Aave Token",
+  "address": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "base": "0x63706e401c06ac8513145b7687a14804d17f814b",
+    "optimistic-ethereum": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
+    "huobi-token": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+    "harmony-shard-0": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
+    "energi": "0xa7f2f790355e0c32cab03f92f6eb7f488e6f049a",
+    "binance-smart-chain": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+    "fantom": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+    "avalanche": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+    "arbitrum-one": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "polygon-pos": "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+  }
+}

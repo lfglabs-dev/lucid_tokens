@@ -1,0 +1,15 @@
+{
+  "symbol": "WXDAI",
+  "name": "Wrapped XDAI",
+  "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11062/thumb/Identity-Primary-DarkBG.png?1638372986",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+  }
+}

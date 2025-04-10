@@ -1,0 +1,17 @@
+{
+  "symbol": "DONUT",
+  "name": "Donut",
+  "address": "0xf42e2b8bc2af8b110b65be98db1321b1ab8d44f5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7538/thumb/Donut.png?1548234345",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9",
+    "xdai": "0x524b969793a64a602342d89bc2789d43a016b13a",
+    "arbitrum-one": "0xf42e2b8bc2af8b110b65be98db1321b1ab8d44f5"
+  }
+}

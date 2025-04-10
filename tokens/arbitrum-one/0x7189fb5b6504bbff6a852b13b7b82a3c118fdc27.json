@@ -1,0 +1,16 @@
+{
+  "symbol": "ETHFI",
+  "name": "ether.fi governance token",
+  "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35958/thumb/etherfi.jpeg?1710254562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
+    "arbitrum-one": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27"
+  }
+}

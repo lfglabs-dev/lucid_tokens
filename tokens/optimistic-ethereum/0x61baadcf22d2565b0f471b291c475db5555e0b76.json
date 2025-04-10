@@ -1,0 +1,15 @@
+{
+  "symbol": "AELIN",
+  "name": "Aelin Token",
+  "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22303/thumb/aelien.jpg?1641445323",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x61baadcf22d2565b0f471b291c475db5555e0b76"
+  }
+}

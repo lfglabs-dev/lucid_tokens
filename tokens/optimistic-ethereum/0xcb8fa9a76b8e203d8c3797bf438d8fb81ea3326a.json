@@ -1,0 +1,18 @@
+{
+  "symbol": "alUSD",
+  "name": "Alchemix USD",
+  "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14114/thumb/Alchemix_USD.png?1614410406",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+    "optimistic-ethereum": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
+    "fantom": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e",
+    "arbitrum-one": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "USFR.d",
+  "name": "WisdomTree Floating Rate Treasury Fund - Dinari",
+  "address": "0x9c46e1b70d447b770dbfc8d450543a431af6df3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32402/thumb/token-icon.png?1698055558",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x9c46e1b70d447b770dbfc8d450543a431af6df3a"
+  }
+}

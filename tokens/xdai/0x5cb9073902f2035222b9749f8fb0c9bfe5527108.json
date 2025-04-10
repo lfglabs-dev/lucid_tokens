@@ -1,0 +1,15 @@
+{
+  "symbol": "GBPe",
+  "name": "Monerium GBP emoney",
+  "address": "0x5cb9073902f2035222b9749f8fb0c9bfe5527108",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39004/thumb/gbp.png?1719840784",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x5cb9073902f2035222b9749f8fb0c9bfe5527108"
+  }
+}

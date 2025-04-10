@@ -1,0 +1,15 @@
+{
+  "symbol": "SLING",
+  "name": "Slingshot",
+  "address": "0x5f8a7c646511a790c53f171891e5d469ca884ede",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54842/thumb/coingecko_%282%29.png?1742018280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5f8a7c646511a790c53f171891e5d469ca884ede"
+  }
+}

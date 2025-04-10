@@ -1,0 +1,21 @@
+{
+  "symbol": "bNIU",
+  "name": "Backed Niu Technologies",
+  "address": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31869/thumb/b-NIU-200x200.png?1695351158",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
+    "xdai": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
+    "ethereum": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
+    "binance-smart-chain": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
+    "avalanche": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
+    "arbitrum-one": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
+    "base": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86"
+  }
+}

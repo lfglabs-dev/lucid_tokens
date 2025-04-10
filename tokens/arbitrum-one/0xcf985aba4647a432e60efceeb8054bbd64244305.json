@@ -1,0 +1,19 @@
+{
+  "symbol": "EUROe",
+  "name": "EUROe Stablecoin",
+  "address": "0xcf985aba4647a432e60efceeb8054bbd64244305",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28913/thumb/euroe-200x200-round.png?1675338103",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "optimistic-ethereum": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "avalanche": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "arbitrum-one": "0xcf985aba4647a432e60efceeb8054bbd64244305",
+    "polygon-pos": "0x820802fa8a99901f52e39acd21177b0be6ee2974"
+  }
+}

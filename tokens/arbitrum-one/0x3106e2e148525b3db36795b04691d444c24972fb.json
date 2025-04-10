@@ -1,0 +1,16 @@
+{
+  "symbol": "wstLINK",
+  "name": "Wrapped stLINK",
+  "address": "0x3106e2e148525b3db36795b04691d444c24972fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35678/thumb/wstlink_logo.png?1709525182",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3106e2e148525b3db36795b04691d444c24972fb",
+    "ethereum": "0x911d86c72155c33993d594b0ec7e6206b4c803da"
+  }
+}

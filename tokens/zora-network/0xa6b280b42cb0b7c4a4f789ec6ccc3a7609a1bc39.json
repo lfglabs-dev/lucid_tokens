@@ -1,0 +1,15 @@
+{
+  "symbol": "ENJOY",
+  "name": "Enjoy",
+  "address": "0xa6b280b42cb0b7c4a4f789ec6ccc3a7609a1bc39",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35810/thumb/enjoy_tech.jpeg?1709871790",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zora-network": "0xa6b280b42cb0b7c4a4f789ec6ccc3a7609a1bc39"
+  }
+}

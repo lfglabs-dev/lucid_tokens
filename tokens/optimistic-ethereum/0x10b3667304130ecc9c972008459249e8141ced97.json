@@ -1,0 +1,15 @@
+{
+  "symbol": "CFES",
+  "name": "Clever Forever Education AG Shares SHA",
+  "address": "0x10b3667304130ecc9c972008459249e8141ced97",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33365/thumb/CFES.png?1701613582",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x10b3667304130ecc9c972008459249e8141ced97"
+  }
+}

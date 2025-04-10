@@ -1,0 +1,15 @@
+{
+  "symbol": "TST",
+  "name": "Standard Token",
+  "address": "0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/20598/thumb/tst.png?1638251569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e"
+  }
+}

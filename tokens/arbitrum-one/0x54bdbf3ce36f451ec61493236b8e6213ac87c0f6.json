@@ -1,0 +1,16 @@
+{
+  "symbol": "RDP",
+  "name": "Radpie",
+  "address": "0x54bdbf3ce36f451ec61493236b8e6213ac87c0f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x54bdbf3ce36f451ec61493236b8e6213ac87c0f6",
+    "binance-smart-chain": "0x27c073e8427aa493a90b8dc8b73a89e670fd77bb"
+  }
+}

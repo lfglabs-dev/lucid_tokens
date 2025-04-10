@@ -1,0 +1,15 @@
+{
+  "symbol": "PFE.d",
+  "name": "Pfizer, Inc. - Dinari",
+  "address": "0xf1f18f765f118c3598cc54dcac1d0e12066263fe",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32537/thumb/token-icon.png?1698469161",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf1f18f765f118c3598cc54dcac1d0e12066263fe"
+  }
+}

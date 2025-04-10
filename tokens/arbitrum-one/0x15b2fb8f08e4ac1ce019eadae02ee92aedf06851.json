@@ -1,0 +1,15 @@
+{
+  "symbol": "CHR",
+  "name": "CHRONOS",
+  "address": "0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29622/thumb/chronos_icono-01.png?1680077336",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851"
+  }
+}

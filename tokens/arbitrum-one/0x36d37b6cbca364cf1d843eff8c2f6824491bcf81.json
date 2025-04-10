@@ -1,0 +1,15 @@
+{
+  "symbol": "TSLA.d",
+  "name": "Tesla, Inc. - Dinari",
+  "address": "0x36d37b6cbca364cf1d843eff8c2f6824491bcf81",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32536/thumb/token-icon.png?1698469155",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x36d37b6cbca364cf1d843eff8c2f6824491bcf81"
+  }
+}

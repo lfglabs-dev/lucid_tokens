@@ -1,0 +1,18 @@
+{
+  "symbol": "CCL.d",
+  "name": "Carnival Corporation - Dinari",
+  "address": "0xa81323f79c4f3887e18cc2702b31635a56ec606e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa81323f79c4f3887e18cc2702b31635a56ec606e",
+    "ethereum": "0x09de9c8fbe90271e8886b55d66e3b37130e3a3da",
+    "blast": "0xbffaea400b56da7b7085a27676d4b72361217e35",
+    "base": "0xd5e8dc8ba0c459a97a79d8ee2b4fec186e4af078"
+  }
+}

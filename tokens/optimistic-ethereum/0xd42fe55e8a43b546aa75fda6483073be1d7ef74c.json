@@ -1,0 +1,15 @@
+{
+  "symbol": "NEROX",
+  "name": "Neurolanche",
+  "address": "0xd42fe55e8a43b546aa75fda6483073be1d7ef74c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52477/thumb/NEROX-AI.png?1733424883",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xd42fe55e8a43b546aa75fda6483073be1d7ef74c"
+  }
+}

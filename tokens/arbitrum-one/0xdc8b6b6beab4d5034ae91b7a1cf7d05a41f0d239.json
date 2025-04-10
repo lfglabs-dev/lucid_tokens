@@ -1,0 +1,18 @@
+{
+  "symbol": "GMAC",
+  "name": "Gemach",
+  "address": "0xdc8b6b6beab4d5034ae91b7a1cf7d05a41f0d239",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32334/thumb/gmac-200x200.png?1697452788",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd96e84ddbc7cbe1d73c55b6fe8c64f3a6550deea",
+    "optimistic-ethereum": "0x53ed36b1d07a5f4b01e5f872fd054f8439335460",
+    "avalanche": "0xbd3d46b98b2f6ada480d6bd53d11cf4553c18f41",
+    "arbitrum-one": "0xdc8b6b6beab4d5034ae91b7a1cf7d05a41f0d239"
+  }
+}

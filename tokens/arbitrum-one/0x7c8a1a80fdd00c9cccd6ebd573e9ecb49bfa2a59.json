@@ -1,0 +1,15 @@
+{
+  "symbol": "AICODE",
+  "name": "AICODE",
+  "address": "0x7c8a1a80fdd00c9cccd6ebd573e9ecb49bfa2a59",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30057/thumb/aicode.png?1683000248",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7c8a1a80fdd00c9cccd6ebd573e9ecb49bfa2a59"
+  }
+}

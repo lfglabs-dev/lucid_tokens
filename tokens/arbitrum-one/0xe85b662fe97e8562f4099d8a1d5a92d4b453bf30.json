@@ -1,0 +1,19 @@
+{
+  "symbol": "THALES",
+  "name": "Thales DAO Token",
+  "address": "0xe85b662fe97e8562f4099d8a1d5a92d4b453bf30",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18388/thumb/CLVZJN_C_400x400.png?1631758808",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
+    "optimistic-ethereum": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
+    "arbitrum-one": "0xe85b662fe97e8562f4099d8a1d5a92d4b453bf30",
+    "polygon-pos": "0x692c44990e4f408ba0917f5c78a83160c1557237",
+    "base": "0xf34e0cff046e154cafcae502c7541b9e5fd8c249"
+  }
+}

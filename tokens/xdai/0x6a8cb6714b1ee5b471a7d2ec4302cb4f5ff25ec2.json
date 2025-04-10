@@ -1,0 +1,15 @@
+{
+  "symbol": "EWTB",
+  "name": "Energy Web Token Bridged on xDai",
+  "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10886/thumb/R9gQTJV__400x400.png?1585604557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2"
+  }
+}

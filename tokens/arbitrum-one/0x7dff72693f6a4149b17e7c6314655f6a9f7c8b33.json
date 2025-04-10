@@ -1,0 +1,17 @@
+{
+  "symbol": "GHO",
+  "name": "Gho Token",
+  "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30663/thumb/ghoaave.jpeg?1686151372",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "base": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee",
+    "arbitrum-one": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33"
+  }
+}

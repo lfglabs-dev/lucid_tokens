@@ -1,0 +1,15 @@
+{
+  "symbol": "BDT",
+  "name": "BlackDragon Token",
+  "address": "0x21ccbc5e7f353ec43b2f5b1fb12c3e9d89d30dca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13426/thumb/Black-Dragon-Black.png?1608515220",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x21ccbc5e7f353ec43b2f5b1fb12c3e9d89d30dca"
+  }
+}

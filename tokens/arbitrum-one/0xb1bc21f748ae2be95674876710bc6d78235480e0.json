@@ -1,0 +1,16 @@
+{
+  "symbol": "HORD",
+  "name": "HORD Token [via ChainPort.io]",
+  "address": "0xb1bc21f748ae2be95674876710bc6d78235480e0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14972/thumb/Avatar_white.png?1619513849",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x43a96962254855f16b925556f9e97be436a43448",
+    "arbitrum-one": "0xb1bc21f748ae2be95674876710bc6d78235480e0"
+  }
+}

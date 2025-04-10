@@ -1,0 +1,15 @@
+{
+  "symbol": "UIBT",
+  "name": "Unibit",
+  "address": "0x76bc2e765414e6c8b596c0f52c4240f80268f41d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36911/thumb/Unibit.png?1712764033",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x76bc2e765414e6c8b596c0f52c4240f80268f41d"
+  }
+}

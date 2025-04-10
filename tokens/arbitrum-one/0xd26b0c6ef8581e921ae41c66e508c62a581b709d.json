@@ -1,0 +1,15 @@
+{
+  "symbol": "SEX",
+  "name": "SEX",
+  "address": "0xd26b0c6ef8581e921ae41c66e508c62a581b709d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32135/thumb/IMG_20231004_163306_491.jpg?1696589011",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd26b0c6ef8581e921ae41c66e508c62a581b709d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "KNJ",
+  "name": "Kunji Finance",
+  "address": "0xfbbb21d8e7a461f06e5e27efd69703acb5c732a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31651/thumb/logo_mark_Main_%283%29.png?1694147981",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xfbbb21d8e7a461f06e5e27efd69703acb5c732a8"
+  }
+}

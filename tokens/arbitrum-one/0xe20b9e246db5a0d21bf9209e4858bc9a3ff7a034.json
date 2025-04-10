@@ -1,0 +1,19 @@
+{
+  "symbol": "wBAN",
+  "name": "Wrapped Banano",
+  "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32617/thumb/WBAN.jpg?1698749253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+    "ethereum": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+    "binance-smart-chain": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+    "fantom": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+    "arbitrum-one": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034"
+  }
+}

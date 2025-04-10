@@ -1,0 +1,15 @@
+{
+  "symbol": "KORA",
+  "name": "Kortana",
+  "address": "0x50e401255275dc405a99d3281f396cca681eea9d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30966/thumb/Logo_Kortana_Redondo-4_%281%29.png?1689240173",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x50e401255275dc405a99d3281f396cca681eea9d"
+  }
+}

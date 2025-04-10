@@ -1,0 +1,15 @@
+{
+  "symbol": "ORCL",
+  "name": "Oracul Analytics",
+  "address": "0x74d5b4a317fffd3cbf8ed94327ff07e2884e84bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55043/thumb/cfZ9cjrJ_400x400.png?1743432308",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x74d5b4a317fffd3cbf8ed94327ff07e2884e84bc"
+  }
+}

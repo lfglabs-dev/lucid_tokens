@@ -1,0 +1,16 @@
+{
+  "symbol": "EKO",
+  "name": "EchoLinkV8",
+  "address": "0x370f01c998b583e7cc9a7ee79be8ed0bb27345e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52924/thumb/EchoLinkEKOLogoTransBg.webp?1734705845",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb1f8302ee205bfe27514cd7185a3fc69bbbdb284",
+    "arbitrum-one": "0x370f01c998b583e7cc9a7ee79be8ed0bb27345e7"
+  }
+}

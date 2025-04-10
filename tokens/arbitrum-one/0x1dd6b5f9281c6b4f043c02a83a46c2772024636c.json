@@ -1,0 +1,16 @@
+{
+  "symbol": "LUAUSD",
+  "name": "Lumi Finance USD",
+  "address": "0x1dd6b5f9281c6b4f043c02a83a46c2772024636c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33503/thumb/LUAUSD.png?1702038709",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1dd6b5f9281c6b4f043c02a83a46c2772024636c",
+    "ronin": "0x18d2bdef572c67127e218c425f546fe64430a92c"
+  }
+}

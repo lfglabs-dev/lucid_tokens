@@ -1,0 +1,15 @@
+{
+  "symbol": "ANIMA",
+  "name": "Anima",
+  "address": "0xccd05a0fcfc1380e9da27862adb2198e58e0d66f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30377/thumb/anima_logo_yellow.png?1684298625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xccd05a0fcfc1380e9da27862adb2198e58e0d66f"
+  }
+}

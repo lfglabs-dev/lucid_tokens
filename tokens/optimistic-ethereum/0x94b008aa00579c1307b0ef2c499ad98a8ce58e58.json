@@ -1,0 +1,31 @@
+{
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "kardiachain": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+    "metis-andromeda": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+    "boba": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
+    "rollux": "0x28c9c7fb3fe3104d2116af26cc8ef7905547349c",
+    "velas": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+    "iotex": "0x3cdb7c48e70b854ed2fa392e21687501d84b3afc",
+    "harmony-shard-0": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
+    "zksync": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
+    "bitgert": "0xde14b85cf78f2add2e867fee40575437d5f10c06",
+    "canto": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75",
+    "fuse": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
+    "meter": "0x5fa41671c48e3c951afc30816947126ccc8c162e",
+    "ethereumpow": "0x2ad7868ca212135c6119fd7ad1ce51cfc5702892",
+    "okex-chain": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+    "oasys": "0xdc3af65ecbd339309ec55f109cb214e0325c5ed4",
+    "milkomeda-cardano": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844"
+  }
+}

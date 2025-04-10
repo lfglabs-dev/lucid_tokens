@@ -1,0 +1,17 @@
+{
+  "symbol": "BRG",
+  "name": "Bridge",
+  "address": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12512/thumb/BRG_logo.png?1600378966",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xac45475abe6f9516e233a824aa013933b61bbb5c",
+    "ethereum": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+    "arbitrum-one": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GMB",
+  "name": "Gameboi",
+  "address": "0xa0c8d91b6dce36f6deeadf716ab02bc539d9bebf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53650/thumb/photo_2025-01-07_16-57-54.jpg?1736999338",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa0c8d91b6dce36f6deeadf716ab02bc539d9bebf"
+  }
+}

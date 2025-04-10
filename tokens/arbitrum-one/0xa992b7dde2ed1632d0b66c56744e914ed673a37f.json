@@ -1,0 +1,15 @@
+{
+  "symbol": "AGIO",
+  "name": "AGIOToken",
+  "address": "0xa992b7dde2ed1632d0b66c56744e914ed673a37f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39146/thumb/rsz_64036a48422e3abd31bca6b2_agio-logo-a_1-p-1080.png?1720766707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa992b7dde2ed1632d0b66c56744e914ed673a37f"
+  }
+}

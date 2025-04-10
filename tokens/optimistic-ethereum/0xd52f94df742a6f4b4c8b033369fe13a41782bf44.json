@@ -1,0 +1,16 @@
+{
+  "symbol": "L2DAO",
+  "name": "Layer2DAO",
+  "address": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23699/thumb/Khp7Y4Sn.png?1645081048",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2cab3abfc1670d1a452df502e216a66883cdf079",
+    "optimistic-ethereum": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44"
+  }
+}

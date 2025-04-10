@@ -1,0 +1,15 @@
+{
+  "symbol": "PCM",
+  "name": "PCM",
+  "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3"
+  }
+}

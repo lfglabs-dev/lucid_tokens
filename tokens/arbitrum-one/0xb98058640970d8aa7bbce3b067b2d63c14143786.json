@@ -1,0 +1,15 @@
+{
+  "symbol": "BARB",
+  "name": "Baby Arbitrum",
+  "address": "0xb98058640970d8aa7bbce3b067b2d63c14143786",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29671/thumb/BabyArbitrum200x200.png?1680574625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb98058640970d8aa7bbce3b067b2d63c14143786"
+  }
+}

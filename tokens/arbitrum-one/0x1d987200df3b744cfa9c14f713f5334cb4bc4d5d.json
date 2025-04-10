@@ -1,0 +1,15 @@
+{
+  "symbol": "REKT",
+  "name": "REKT",
+  "address": "0x1d987200df3b744cfa9c14f713f5334cb4bc4d5d",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29954/thumb/New_Project_%288%29.png?1682350239",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1d987200df3b744cfa9c14f713f5334cb4bc4d5d"
+  }
+}

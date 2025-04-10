@@ -1,0 +1,15 @@
+{
+  "symbol": "MZR Token",
+  "name": "MZR",
+  "address": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23272/thumb/V1DTptkT_400x400.jpg?1678424217",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948"
+  }
+}

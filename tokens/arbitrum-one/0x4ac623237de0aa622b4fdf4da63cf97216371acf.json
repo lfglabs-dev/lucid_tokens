@@ -1,0 +1,15 @@
+{
+  "symbol": "alXAI",
+  "name": "alXAI",
+  "address": "0x4ac623237de0aa622b4fdf4da63cf97216371acf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50491/thumb/alXAI_Dark_200x200.png?1727935684",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4ac623237de0aa622b4fdf4da63cf97216371acf"
+  }
+}

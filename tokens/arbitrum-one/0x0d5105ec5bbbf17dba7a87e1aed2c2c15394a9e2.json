@@ -1,0 +1,15 @@
+{
+  "symbol": "RCGE",
+  "name": "RCGE",
+  "address": "0x0d5105ec5bbbf17dba7a87e1aed2c2c15394a9e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51366/thumb/1000233806.png?1730910977",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0d5105ec5bbbf17dba7a87e1aed2c2c15394a9e2"
+  }
+}

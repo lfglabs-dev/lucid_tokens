@@ -1,0 +1,15 @@
+{
+  "symbol": "DeFAI",
+  "name": "AISweatShop",
+  "address": "0x13ad3f1150db0e1e05fd32bdeeb7c110ee023de6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53652/thumb/-nN6YC_t_400x400.jpg?1736999983",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x13ad3f1150db0e1e05fd32bdeeb7c110ee023de6"
+  }
+}

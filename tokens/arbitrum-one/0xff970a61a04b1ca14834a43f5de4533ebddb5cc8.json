@@ -1,0 +1,15 @@
+{
+  "symbol": "USDC",
+  "name": "USD Coin (Arb1)",
+  "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30691/thumb/usdc.png?1686280970",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+  }
+}

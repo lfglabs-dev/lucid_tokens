@@ -1,0 +1,15 @@
+{
+  "symbol": "QTLX",
+  "name": "Quantlytica Token",
+  "address": "0x4d840b741bc05fde325d4ec0b4cfcd0cea237e4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50217/thumb/eebgcbNa_400x400.jpg?1726443400",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4d840b741bc05fde325d4ec0b4cfcd0cea237e4e"
+  }
+}

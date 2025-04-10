@@ -1,0 +1,15 @@
+{
+  "symbol": "$NOX",
+  "name": "NOX",
+  "address": "0xf34450d1f23902657cffb2636153677be7d38750",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35266/thumb/ex_logo_coin.png?1708012097",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf34450d1f23902657cffb2636153677be7d38750"
+  }
+}

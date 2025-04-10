@@ -1,0 +1,15 @@
+{
+  "symbol": "MAGIC",
+  "name": "MAGICToken",
+  "address": "0x2c852d3334188be136bfc540ef2bb8c37b590bad",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18844/thumb/logo_-_2021-10-07T141625.399.png?1633587397",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2c852d3334188be136bfc540ef2bb8c37b590bad"
+  }
+}

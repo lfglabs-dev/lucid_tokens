@@ -1,0 +1,16 @@
+{
+  "symbol": "шайлушай",
+  "name": "Real Smurf Cat",
+  "address": "0x06e90a57d1ece8752d6ce92d1ad348ead5eae4f4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31751/thumb/pfp2.png?1694754598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xff836a5821e69066c87e268bc51b849fab94240c",
+    "arbitrum-one": "0x06e90a57d1ece8752d6ce92d1ad348ead5eae4f4"
+  }
+}

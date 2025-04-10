@@ -1,0 +1,15 @@
+{
+  "symbol": "GOOGL.d",
+  "name": "Alphabet Inc. Class A - Dinari",
+  "address": "0x8e50d11a54cff859b202b7fe5225353be0646410",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32428/thumb/token-icon.png?1698120046",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x8e50d11a54cff859b202b7fe5225353be0646410"
+  }
+}

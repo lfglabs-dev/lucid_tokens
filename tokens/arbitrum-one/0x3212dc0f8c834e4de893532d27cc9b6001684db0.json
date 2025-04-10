@@ -1,0 +1,15 @@
+{
+  "symbol": "PEAR",
+  "name": "Pear",
+  "address": "0x3212dc0f8c834e4de893532d27cc9b6001684db0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50484/thumb/pearlogo.jpg?1727897446",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3212dc0f8c834e4de893532d27cc9b6001684db0"
+  }
+}

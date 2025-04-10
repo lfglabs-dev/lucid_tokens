@@ -1,0 +1,15 @@
+{
+  "symbol": "BDG",
+  "name": "Beyond Gaming",
+  "address": "0x56264286b18903889d03de41cf6acfab1fe1defc",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54650/thumb/bdg-logo.png?1740832068",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x56264286b18903889d03de41cf6acfab1fe1defc"
+  }
+}

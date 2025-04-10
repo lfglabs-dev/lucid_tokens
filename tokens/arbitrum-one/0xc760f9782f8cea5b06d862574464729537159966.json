@@ -1,0 +1,15 @@
+{
+  "symbol": "TANGO",
+  "name": "Contango",
+  "address": "0xc760f9782f8cea5b06d862574464729537159966",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50721/thumb/tango.jpg?1728874253",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xc760f9782f8cea5b06d862574464729537159966"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ADoge",
+  "name": "ArbiDoge",
+  "address": "0x155f0dd04424939368972f4e1838687d6a831151",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18333/thumb/Screen-Shot-2021-09-04-at-11-59-16-AM.png?1631584395",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x155f0dd04424939368972f4e1838687d6a831151"
+  }
+}

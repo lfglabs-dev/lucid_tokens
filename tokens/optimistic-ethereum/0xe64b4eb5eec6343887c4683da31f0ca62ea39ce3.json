@@ -1,0 +1,15 @@
+{
+  "symbol": "BEES",
+  "name": "BEE Digital Growth Shares SHA",
+  "address": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33367/thumb/BEES.png?1701613820",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3"
+  }
+}

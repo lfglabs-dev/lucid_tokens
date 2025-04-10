@@ -1,0 +1,15 @@
+{
+  "symbol": "ETHFAI",
+  "name": "ETHforestAI",
+  "address": "0x67c31056358b8977ea95a3a899dd380d4bced706",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29515/thumb/ethfai_logo.png?1679393754",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x67c31056358b8977ea95a3a899dd380d4bced706"
+  }
+}

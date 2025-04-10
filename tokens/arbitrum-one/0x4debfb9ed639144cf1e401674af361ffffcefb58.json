@@ -1,0 +1,15 @@
+{
+  "symbol": "CADAI",
+  "name": "CADAICO",
+  "address": "0x4debfb9ed639144cf1e401674af361ffffcefb58",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38713/thumb/CADAI_Token_Logo.png?1718404394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4debfb9ed639144cf1e401674af361ffffcefb58"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "PRY",
+  "name": "Perpy-Token",
+  "address": "0x1824a51c106efc27d35a74efb56d9bf54ddb22d4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29525/thumb/logo_vec.png?1679473123",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1824a51c106efc27d35a74efb56d9bf54ddb22d4"
+  }
+}

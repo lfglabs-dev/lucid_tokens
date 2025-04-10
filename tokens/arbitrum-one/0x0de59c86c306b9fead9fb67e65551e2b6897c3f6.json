@@ -1,0 +1,15 @@
+{
+  "symbol": "KUMA",
+  "name": "Kuma World",
+  "address": "0x0de59c86c306b9fead9fb67e65551e2b6897c3f6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53828/thumb/logo_%281%29.jpg?1737553936",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0de59c86c306b9fead9fb67e65551e2b6897c3f6"
+  }
+}

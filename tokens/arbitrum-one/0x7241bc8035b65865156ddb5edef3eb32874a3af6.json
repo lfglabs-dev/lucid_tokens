@@ -1,0 +1,15 @@
+{
+  "symbol": "jGLP",
+  "name": "Jones GLP",
+  "address": "0x7241bc8035b65865156ddb5edef3eb32874a3af6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28892/thumb/hatGLP.png?1675157548",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7241bc8035b65865156ddb5edef3eb32874a3af6"
+  }
+}

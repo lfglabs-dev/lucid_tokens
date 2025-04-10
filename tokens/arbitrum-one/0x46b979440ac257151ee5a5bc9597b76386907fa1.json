@@ -1,0 +1,16 @@
+{
+  "symbol": "COIN.d",
+  "name": "Coinbase Global, Inc. Class A Common Stock - Dinari",
+  "address": "0x46b979440ac257151ee5a5bc9597b76386907fa1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32983/thumb/Frame_16189.png?1700091568",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x46b979440ac257151ee5a5bc9597b76386907fa1",
+    "ethereum": "0xd71b200bf061509b85df50cc0d8cdee8818a4577"
+  }
+}

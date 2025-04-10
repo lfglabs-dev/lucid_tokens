@@ -1,0 +1,15 @@
+{
+  "symbol": "pogai",
+  "name": "poor guy",
+  "address": "0x6fd58f5a2f3468e35feb098b5f59f04157002407",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30116/thumb/pogai.jpeg?1683108246",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6fd58f5a2f3468e35feb098b5f59f04157002407"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FCTR",
+  "name": "Factor",
+  "address": "0x6dd963c510c2d2f09d5eddb48ede45fed063eb36",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29018/thumb/factor.jpg?1675944657",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6dd963c510c2d2f09d5eddb48ede45fed063eb36"
+  }
+}

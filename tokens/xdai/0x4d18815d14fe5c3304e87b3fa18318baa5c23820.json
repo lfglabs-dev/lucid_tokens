@@ -1,0 +1,16 @@
+{
+  "symbol": "SAFE",
+  "name": "Safe Token from Mainnet",
+  "address": "0x4d18815d14fe5c3304e87b3fa18318baa5c23820",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27032/thumb/Artboard_1_copy_8circle-1.png?1661498342",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
+    "xdai": "0x4d18815d14fe5c3304e87b3fa18318baa5c23820"
+  }
+}

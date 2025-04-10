@@ -1,0 +1,15 @@
+{
+  "symbol": "shibai",
+  "name": "Shibai Token",
+  "address": "0xfa296fca3c7dba4a92a42ec0b5e2138da3b29050",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29898/thumb/Fotor_AI%EF%BC%882%EF%BC%89.png?1681983211",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xfa296fca3c7dba4a92a42ec0b5e2138da3b29050"
+  }
+}

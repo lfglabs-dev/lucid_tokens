@@ -1,0 +1,15 @@
+{
+  "symbol": "NOLA",
+  "name": "NOLA",
+  "address": "0xe934ab7e98d81e39477b1e47b961876c2d902598",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37420/thumb/NOLA.png?1714377065",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe934ab7e98d81e39477b1e47b961876c2d902598"
+  }
+}

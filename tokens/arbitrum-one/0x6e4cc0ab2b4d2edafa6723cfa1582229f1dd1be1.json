@@ -1,0 +1,16 @@
+{
+  "symbol": "ZUSD",
+  "name": "Z.com USD",
+  "address": "0x6e4cc0ab2b4d2edafa6723cfa1582229f1dd1be1",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14192/thumb/icon_zusd_200_200.png?1614843297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa",
+    "arbitrum-one": "0x6e4cc0ab2b4d2edafa6723cfa1582229f1dd1be1"
+  }
+}

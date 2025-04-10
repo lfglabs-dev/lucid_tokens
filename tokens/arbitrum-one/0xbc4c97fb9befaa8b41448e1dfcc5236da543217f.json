@@ -1,0 +1,15 @@
+{
+  "symbol": "CATCH",
+  "name": "CATCH",
+  "address": "0xbc4c97fb9befaa8b41448e1dfcc5236da543217f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36632/thumb/Logomark_colours.png?1712022405",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xbc4c97fb9befaa8b41448e1dfcc5236da543217f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ARC",
+  "name": "Arcadeum",
+  "address": "0x7f465507f058e17ad21623927a120ac05ca32741",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29044/thumb/arc.png?1676191620",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7f465507f058e17ad21623927a120ac05ca32741"
+  }
+}

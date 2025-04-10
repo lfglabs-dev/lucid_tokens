@@ -1,0 +1,15 @@
+{
+  "symbol": "ECLIP",
+  "name": "Eclipse Fi",
+  "address": "0x93ca0d85837ff83158cd14d65b169cdb223b1921",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31815/thumb/ECLIP_token_logo.png?1695204645",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x93ca0d85837ff83158cd14d65b169cdb223b1921"
+  }
+}

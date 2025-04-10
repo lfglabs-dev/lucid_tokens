@@ -1,0 +1,15 @@
+{
+  "symbol": "ZTX",
+  "name": "ZTX",
+  "address": "0x1c43d05be7e5b54d506e3ddb6f0305e8a66cd04e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32340/thumb/CoinGecko_200_x_200.jpg?1697466589",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1c43d05be7e5b54d506e3ddb6f0305e8a66cd04e"
+  }
+}

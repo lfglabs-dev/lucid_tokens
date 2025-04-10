@@ -1,0 +1,15 @@
+{
+  "symbol": "JONES",
+  "name": "Jones DAO",
+  "address": "0x10393c20975cf177a3513071bc110f7962cd67da",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23290/thumb/3c8c2ed8-afb3-4b67-9937-5493acd88b50.jpg?1648597625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x10393c20975cf177a3513071bc110f7962cd67da"
+  }
+}

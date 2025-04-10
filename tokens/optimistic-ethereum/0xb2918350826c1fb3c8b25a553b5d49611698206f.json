@@ -1,0 +1,16 @@
+{
+  "symbol": "ionUSDT",
+  "name": "Ionic Tether USD",
+  "address": "0xb2918350826c1fb3c8b25a553b5d49611698206f",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "mode": "0x3120b4907851cc9d780eef9af88ae4d5360175fd",
+    "optimistic-ethereum": "0xb2918350826c1fb3c8b25a553b5d49611698206f"
+  }
+}

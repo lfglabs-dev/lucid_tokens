@@ -1,0 +1,16 @@
+{
+  "symbol": "USDL",
+  "name": "Lift Dollar",
+  "address": "0x7f850b0ab1988dd17b69ac564c1e2857949e4dee",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38484/thumb/USDL.png?1717659559",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7f850b0ab1988dd17b69ac564c1e2857949e4dee",
+    "ethereum": "0xbdc7c08592ee4aa51d06c27ee23d5087d65adbcd"
+  }
+}

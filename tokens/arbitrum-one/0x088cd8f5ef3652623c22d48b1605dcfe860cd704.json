@@ -1,0 +1,16 @@
+{
+  "symbol": "VELA",
+  "name": "VelaToken",
+  "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28739/thumb/VELA_logo_-_no_background.png?1673839129",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
+    "base": "0x5a76a56ad937335168b30df3aa1327277421c6ae"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "GSWIFT",
+  "name": "GameSwift",
+  "address": "0x580e933d90091b9ce380740e3a4a39c67eb85b4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30949/thumb/GameSwift_Token.png?1689214020",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x580e933d90091b9ce380740e3a4a39c67eb85b4c",
+    "ethereum": "0x580e933d90091b9ce380740e3a4a39c67eb85b4c"
+  }
+}

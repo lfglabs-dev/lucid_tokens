@@ -1,0 +1,15 @@
+{
+  "symbol": "MTMS",
+  "name": "MTMS Network",
+  "address": "0x4dd40ec670722067241b4396dbd253c38dd820b5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39043/thumb/Logo-MTMS.png?1720067131",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4dd40ec670722067241b4396dbd253c38dd820b5"
+  }
+}

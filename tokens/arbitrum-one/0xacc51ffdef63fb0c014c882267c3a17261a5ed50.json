@@ -1,0 +1,15 @@
+{
+  "symbol": "SYK",
+  "name": "StrykeToken",
+  "address": "0xacc51ffdef63fb0c014c882267c3a17261a5ed50",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36531/thumb/stryke.jpeg?1711704094",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xacc51ffdef63fb0c014c882267c3a17261a5ed50"
+  }
+}

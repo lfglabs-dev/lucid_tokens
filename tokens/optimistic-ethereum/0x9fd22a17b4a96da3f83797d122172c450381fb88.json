@@ -1,0 +1,18 @@
+{
+  "symbol": "JEFE",
+  "name": "JEFE TOKEN",
+  "address": "0x9fd22a17b4a96da3f83797d122172c450381fb88",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25336/thumb/JEFE_200.png?1651299561",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x5079cce47d275e85c9f13afb656d51e3f9d41181",
+    "sonic": "0x70e7f1d907e30efb18fe1dd8a1d75c09a98177d3",
+    "optimistic-ethereum": "0x9fd22a17b4a96da3f83797d122172c450381fb88",
+    "ethereum": "0x9fd22a17b4a96da3f83797d122172c450381fb88"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "LUDAMOON",
+  "name": "Lumi to da moon",
+  "address": "0x292975973200064b1c6453505aeac5be697f5233",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38855/thumb/Token-x.png?1719213356",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x292975973200064b1c6453505aeac5be697f5233"
+  }
+}

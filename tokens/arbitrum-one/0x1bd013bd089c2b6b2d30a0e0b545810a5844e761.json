@@ -1,0 +1,15 @@
+{
+  "symbol": "HOME",
+  "name": "OtterHome",
+  "address": "0x1bd013bd089c2b6b2d30a0e0b545810a5844e761",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30740/thumb/LOGO.png?1686724589",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1bd013bd089c2b6b2d30a0e0b545810a5844e761"
+  }
+}

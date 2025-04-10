@@ -1,0 +1,15 @@
+{
+  "symbol": "aOptSUSD",
+  "name": "Aave Optimism SUSD",
+  "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32918/thumb/asusd.png?1699825436",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97"
+  }
+}

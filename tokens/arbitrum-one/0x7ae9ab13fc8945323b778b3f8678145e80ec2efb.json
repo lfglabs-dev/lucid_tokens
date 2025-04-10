@@ -1,0 +1,15 @@
+{
+  "symbol": "WBC",
+  "name": "WorldBrain Coin",
+  "address": "0x7ae9ab13fc8945323b778b3f8678145e80ec2efb",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39650/thumb/Frame_48096646.png?1723455673",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7ae9ab13fc8945323b778b3f8678145e80ec2efb"
+  }
+}

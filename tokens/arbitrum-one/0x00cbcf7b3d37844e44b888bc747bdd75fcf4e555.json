@@ -1,0 +1,15 @@
+{
+  "symbol": "XPET",
+  "name": "xPet.tech Token",
+  "address": "0x00cbcf7b3d37844e44b888bc747bdd75fcf4e555",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33553/thumb/xpet_token.jpeg?1702428894",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x00cbcf7b3d37844e44b888bc747bdd75fcf4e555"
+  }
+}

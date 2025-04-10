@@ -1,0 +1,18 @@
+{
+  "symbol": "XPRT",
+  "name": "XPRT native asset",
+  "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14582/thumb/512_Light.png?1617149658",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
+    "blast": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
+    "ethereum": "0xd454b59f16d42667be2fa55292d16647e27f40c4",
+    "base": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8"
+  }
+}

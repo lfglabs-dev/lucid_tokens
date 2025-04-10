@@ -1,0 +1,15 @@
+{
+  "symbol": "wstETH",
+  "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
+  "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33017/thumb/wStETH.png?1700190250",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6"
+  }
+}

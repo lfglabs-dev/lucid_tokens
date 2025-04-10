@@ -1,0 +1,22 @@
+{
+  "symbol": "BUSD",
+  "name": "BUSD Token on xDai",
+  "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "meter": "0x24aa189dfaa76c671c279262f94434770f557c35",
+    "elastos": "0x9f1d0ed4e041c503bd487e5dc9fc935ab57f9a57",
+    "velas": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+    "xdai": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
+    "astar": "0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e",
+    "fuse": "0x6a5f6a8121592becd6747a38d67451b310f7f156",
+    "milkomeda-cardano": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+    "cronos": "0xc74d59a548ecf7fc1754bb7810d716e9ac3e3ae5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "RILLA",
+  "name": "Rilla",
+  "address": "0x96d17e1301b31556e5e263389583a9331e6749e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29193/thumb/output-onlinepngtools.png?1677301164",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x96d17e1301b31556e5e263389583a9331e6749e9"
+  }
+}

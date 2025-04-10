@@ -1,0 +1,17 @@
+{
+  "symbol": "FOREX",
+  "name": "handleFOREX",
+  "address": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18533/thumb/handle.fiFOREXLogoDark200x200.png?1632755675",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b",
+    "arbitrum-one": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b",
+    "polygon-pos": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AFG",
+  "name": "Army Of Fortune Gem",
+  "address": "0x619c82392cb6e41778b7d088860fea8447941f4c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35084/thumb/Token_GEM_AOFVERSE.png?1707317138",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x619c82392cb6e41778b7d088860fea8447941f4c"
+  }
+}

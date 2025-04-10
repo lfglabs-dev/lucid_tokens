@@ -1,0 +1,15 @@
+{
+  "symbol": "UMJA",
+  "name": "Umoja Token",
+  "address": "0x16a500aec6c37f84447ef04e66c57cfc6254cf92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38328/thumb/Umoja.png?1717096967",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x16a500aec6c37f84447ef04e66c57cfc6254cf92"
+  }
+}

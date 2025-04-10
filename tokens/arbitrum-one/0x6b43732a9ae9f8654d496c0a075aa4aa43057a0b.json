@@ -1,0 +1,15 @@
+{
+  "symbol": "CNDY",
+  "name": "Sugarverse",
+  "address": "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52864/thumb/twitter_profile.jpg?1734543227",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b"
+  }
+}

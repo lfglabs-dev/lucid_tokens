@@ -1,0 +1,15 @@
+{
+  "symbol": "AAPL.d",
+  "name": "Apple Inc. - Dinari",
+  "address": "0xce38e140fc3982a6bcebc37b040913ef2cd6c5a7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32393/thumb/token-icon.png?1698053181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xce38e140fc3982a6bcebc37b040913ef2cd6c5a7"
+  }
+}

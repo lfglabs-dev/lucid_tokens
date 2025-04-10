@@ -1,0 +1,15 @@
+{
+  "symbol": "OVER",
+  "name": "Overlord",
+  "address": "0xf6eb7a9799f6680c320e79d0fb35e842d54d38ce",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53600/thumb/TxP791K7_400x400.jpg?1736842453",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf6eb7a9799f6680c320e79d0fb35e842d54d38ce"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "RPL",
+  "name": "Rocket Pool Protocol",
+  "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2090/thumb/rocket_pool_%28RPL%29.png?1637662441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+    "arbitrum-one": "0xb766039cc6db368759c1e56b79affe831d0cc507",
+    "polygon-pos": "0x7205705771547cf79201111b4bd8aaf29467b9ec"
+  }
+}

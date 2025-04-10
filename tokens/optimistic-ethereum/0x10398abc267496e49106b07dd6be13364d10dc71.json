@@ -1,0 +1,15 @@
+{
+  "symbol": "HAI",
+  "name": "HAI Index Token",
+  "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x10398abc267496e49106b07dd6be13364d10dc71"
+  }
+}

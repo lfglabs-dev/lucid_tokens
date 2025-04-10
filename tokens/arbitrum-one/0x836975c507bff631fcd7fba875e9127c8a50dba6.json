@@ -1,0 +1,15 @@
+{
+  "symbol": "ARBINAUTS",
+  "name": "ARBINAUTS",
+  "address": "0x836975c507bff631fcd7fba875e9127c8a50dba6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38181/thumb/arbinauts.png?1716788248",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x836975c507bff631fcd7fba875e9127c8a50dba6"
+  }
+}

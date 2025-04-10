@@ -1,0 +1,15 @@
+{
+  "symbol": "SIZE",
+  "name": "Size",
+  "address": "0x939727d85d99d0ac339bf1b76dfe30ca27c19067",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34084/thumb/adadad.jpg?1703910572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x939727d85d99d0ac339bf1b76dfe30ca27c19067"
+  }
+}

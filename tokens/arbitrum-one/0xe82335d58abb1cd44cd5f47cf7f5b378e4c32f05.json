@@ -1,0 +1,15 @@
+{
+  "symbol": "SCT",
+  "name": "Super Cells Token",
+  "address": "0xe82335d58abb1cd44cd5f47cf7f5b378e4c32f05",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38800/thumb/SuperCells-01.jpg?1718916009",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe82335d58abb1cd44cd5f47cf7f5b378e4c32f05"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GRAIL",
+  "name": "Camelot token",
+  "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28416/thumb/vj5DIMhP_400x400.jpeg?1670457013",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8"
+  }
+}

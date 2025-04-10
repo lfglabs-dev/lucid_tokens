@@ -1,0 +1,15 @@
+{
+  "symbol": "USDx",
+  "name": "Synthetix USD",
+  "address": "0xb2f30a7c980f052f02563fb518dcc39e6bf38175",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51047/thumb/USDX.jpg?1729845921",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb2f30a7c980f052f02563fb518dcc39e6bf38175"
+  }
+}

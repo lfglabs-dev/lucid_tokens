@@ -1,0 +1,16 @@
+{
+  "symbol": "BLADE",
+  "name": "BladeGames",
+  "address": "0xe8b201be5357c07f0aa58693f98fb048323777f9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52991/thumb/Token_Logo.png?1734944384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe8b201be5357c07f0aa58693f98fb048323777f9",
+    "mantle": "0xe8b201be5357c07f0aa58693f98fb048323777f9"
+  }
+}

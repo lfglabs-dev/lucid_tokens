@@ -1,0 +1,18 @@
+{
+  "symbol": "ARKB.d",
+  "name": "ARK 21Shares Bitcoin ETF - Dinari",
+  "address": "0x3619ca1e96c629f7d71c1b03dc0ee56479356228",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3619ca1e96c629f7d71c1b03dc0ee56479356228",
+    "ethereum": "0xa64c9f707bbb4cbc4e22f596a53d85b3ab7000f8",
+    "blast": "0x296c2186948712d66bef4778567c4d2f734bff3c",
+    "base": "0x4b959bb4c00d25e52a87cb1865401dd97cb5631d"
+  }
+}

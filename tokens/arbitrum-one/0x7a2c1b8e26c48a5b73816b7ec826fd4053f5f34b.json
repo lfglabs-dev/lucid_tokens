@@ -1,0 +1,16 @@
+{
+  "symbol": "ZZZ",
+  "name": "ZZZ",
+  "address": "0x7a2c1b8e26c48a5b73816b7ec826fd4053f5f34b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29901/thumb/ZZZ200_200.png?1681984063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x7a2c1b8e26c48a5b73816b7ec826fd4053f5f34b",
+    "binance-smart-chain": "0x0b9bdcc696efa768cafe0e675525eaf42e32d108"
+  }
+}

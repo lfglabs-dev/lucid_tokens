@@ -1,0 +1,15 @@
+{
+  "symbol": "SPY.d",
+  "name": "SPDR S&P 500 ETF Trust - Dinari",
+  "address": "0xf4bd09b048248876e39fcf2e0cdf1aee1240a9d2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32403/thumb/token-icon.png?1698055561",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf4bd09b048248876e39fcf2e0cdf1aee1240a9d2"
+  }
+}

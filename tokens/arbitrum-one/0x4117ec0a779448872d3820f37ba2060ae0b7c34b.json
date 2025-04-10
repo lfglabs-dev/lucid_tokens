@@ -1,0 +1,15 @@
+{
+  "symbol": "USDEX+",
+  "name": "USDEX+",
+  "address": "0x4117ec0a779448872d3820f37ba2060ae0b7c34b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30670/thumb/USDEX_-icon-200x200.png?1686210121",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4117ec0a779448872d3820f37ba2060ae0b7c34b"
+  }
+}

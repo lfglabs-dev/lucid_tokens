@@ -1,0 +1,15 @@
+{
+  "symbol": "Avive",
+  "name": "Avive",
+  "address": "0x5117f4ad0bc70dbb3b05bf39a1ec1ee40dd67654",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33697/thumb/avive_token.png?1702814979",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5117f4ad0bc70dbb3b05bf39a1ec1ee40dd67654"
+  }
+}

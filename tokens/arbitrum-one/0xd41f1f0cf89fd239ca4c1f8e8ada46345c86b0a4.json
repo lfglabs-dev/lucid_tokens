@@ -1,0 +1,15 @@
+{
+  "symbol": "CHF24",
+  "name": "Fiat24 CHF",
+  "address": "0xd41f1f0cf89fd239ca4c1f8e8ada46345c86b0a4",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33296/thumb/CHF24.png?1701402516",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd41f1f0cf89fd239ca4c1f8e8ada46345c86b0a4"
+  }
+}

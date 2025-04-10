@@ -1,0 +1,16 @@
+{
+  "symbol": "ASCN",
+  "name": "AlphaScan",
+  "address": "0x1b8d516e2146d7a32aca0fcbf9482db85fd42c3a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31180/thumb/AlphaScan_logo.jpg?1691122269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1b8d516e2146d7a32aca0fcbf9482db85fd42c3a",
+    "ethereum": "0x378e97d19cf319eb311748ff4d9971dc349c8ad4"
+  }
+}

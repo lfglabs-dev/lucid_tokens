@@ -1,0 +1,15 @@
+{
+  "symbol": "AIBB",
+  "name": "BullBear AI",
+  "address": "0xb9af4762c039d63e30039f1712dfab77026408c7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30096/thumb/ICON_200.png?1683023948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb9af4762c039d63e30039f1712dfab77026408c7"
+  }
+}

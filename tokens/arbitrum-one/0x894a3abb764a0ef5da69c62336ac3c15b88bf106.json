@@ -1,0 +1,15 @@
+{
+  "symbol": "CHUNKS",
+  "name": "CHUNKS",
+  "address": "0x894a3abb764a0ef5da69c62336ac3c15b88bf106",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30163/thumb/Chunks_Logo_v2_200x200.png?1683528710",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x894a3abb764a0ef5da69c62336ac3c15b88bf106"
+  }
+}

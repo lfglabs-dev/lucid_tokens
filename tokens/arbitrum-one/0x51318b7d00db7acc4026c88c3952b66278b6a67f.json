@@ -1,0 +1,15 @@
+{
+  "symbol": "PLS",
+  "name": "Plutus",
+  "address": "0x51318b7d00db7acc4026c88c3952b66278b6a67f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25326/thumb/M6nUndNU_400x400.jpg?1651233987",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x51318b7d00db7acc4026c88c3952b66278b6a67f"
+  }
+}

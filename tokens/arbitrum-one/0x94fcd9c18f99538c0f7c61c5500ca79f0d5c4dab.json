@@ -1,0 +1,15 @@
+{
+  "symbol": "KIMA",
+  "name": "KIMA",
+  "address": "0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50764/thumb/K-logo-01.png?1729053099",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab"
+  }
+}

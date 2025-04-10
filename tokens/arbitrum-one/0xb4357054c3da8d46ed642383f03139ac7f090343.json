@@ -1,0 +1,19 @@
+{
+  "symbol": "PORT3",
+  "name": "Port3 Network",
+  "address": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33383/thumb/PORT3_200x200.png?1701671125",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+    "optimistic-ethereum": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+    "binance-smart-chain": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+    "arbitrum-one": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+    "polygon-pos": "0xb4357054c3da8d46ed642383f03139ac7f090343"
+  }
+}

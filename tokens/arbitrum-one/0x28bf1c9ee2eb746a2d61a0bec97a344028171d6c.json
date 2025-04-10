@@ -1,0 +1,18 @@
+{
+  "symbol": "AMC.d",
+  "name": "AMC ENTERTAINMENT HOLDINGS, INC. - Dinari",
+  "address": "0x28bf1c9ee2eb746a2d61a0bec97a344028171d6c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39835/thumb/Dinari-token-icon.png?1724254655",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x28bf1c9ee2eb746a2d61a0bec97a344028171d6c",
+    "blast": "0x81100713096041923d65b9f9a2c8dbf8fd8de691",
+    "ethereum": "0x800ee7b69dce0f6649bb0c879b468a665b1a44ce",
+    "base": "0xfdaf8d69fa9931f00b92e14bc4233cb438b24980"
+  }
+}

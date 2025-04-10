@@ -1,0 +1,15 @@
+{
+  "symbol": "LASAGNA",
+  "name": "GARFELDO",
+  "address": "0x344c796cc2474e4b779d0e81765afb91d7741a42",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38322/thumb/garffeldo.png?1717072102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x344c796cc2474e4b779d0e81765afb91d7741a42"
+  }
+}

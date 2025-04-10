@@ -1,0 +1,15 @@
+{
+  "symbol": "AARK",
+  "name": "AARK Token",
+  "address": "0xca4e51f6ad4afd9d1068e5899de9dd7d73f3463d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37813/thumb/aark.png?1715599394",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xca4e51f6ad4afd9d1068e5899de9dd7d73f3463d"
+  }
+}

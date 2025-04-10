@@ -1,0 +1,15 @@
+{
+  "symbol": "YACHT",
+  "name": "YachtingVerse",
+  "address": "0xde70aed3d14d39b4955147efcf272334bdb75ab5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32858/thumb/aMmNwBTH_400x400.jpg?1699666370",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xde70aed3d14d39b4955147efcf272334bdb75ab5"
+  }
+}

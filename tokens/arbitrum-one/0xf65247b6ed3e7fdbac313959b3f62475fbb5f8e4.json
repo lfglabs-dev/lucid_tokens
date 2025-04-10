@@ -1,0 +1,15 @@
+{
+  "symbol": "BRIX",
+  "name": "BrightPool Exchange Token",
+  "address": "0xf65247b6ed3e7fdbac313959b3f62475fbb5f8e4",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37446/thumb/IMAGE_2024-04-29_13_55_38.jpg?1714446963",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf65247b6ed3e7fdbac313959b3f62475fbb5f8e4"
+  }
+}

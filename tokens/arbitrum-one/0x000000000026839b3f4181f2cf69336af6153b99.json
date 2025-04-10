@@ -1,0 +1,16 @@
+{
+  "symbol": "GG",
+  "name": "GG",
+  "address": "0x000000000026839b3f4181f2cf69336af6153b99",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31228/thumb/reboot.jpeg?1691631162",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x000000000026839b3f4181f2cf69336af6153b99",
+    "arbitrum-nova": "0x000000000026839b3f4181f2cf69336af6153b99"
+  }
+}

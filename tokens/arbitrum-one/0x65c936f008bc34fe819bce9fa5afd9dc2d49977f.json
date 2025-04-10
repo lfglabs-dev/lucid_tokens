@@ -1,0 +1,15 @@
+{
+  "symbol": "Y2K",
+  "name": "Y2K",
+  "address": "0x65c936f008bc34fe819bce9fa5afd9dc2d49977f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28542/thumb/l7jRo-5-_400x400.jpg?1671585317",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x65c936f008bc34fe819bce9fa5afd9dc2d49977f"
+  }
+}

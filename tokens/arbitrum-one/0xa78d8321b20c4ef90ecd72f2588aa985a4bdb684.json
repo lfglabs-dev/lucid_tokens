@@ -1,0 +1,15 @@
+{
+  "symbol": "ANT",
+  "name": "Autonomi",
+  "address": "0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54388/thumb/Screenshot_2024-05-13_at_10.17.57.png?1739468481",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "VELO",
+  "name": "VelodromeV2",
+  "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1653817876",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x9560e827af36c94d2ac33a39bce1fe78631088db"
+  }
+}

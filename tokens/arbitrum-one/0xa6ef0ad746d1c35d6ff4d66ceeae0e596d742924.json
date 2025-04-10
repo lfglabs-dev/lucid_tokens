@@ -1,0 +1,15 @@
+{
+  "symbol": "LTM04",
+  "name": "LumiTerra Totem 404",
+  "address": "0xa6ef0ad746d1c35d6ff4d66ceeae0e596d742924",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36209/thumb/Totem_Token_ICON.png?1710835365",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa6ef0ad746d1c35d6ff4d66ceeae0e596d742924"
+  }
+}

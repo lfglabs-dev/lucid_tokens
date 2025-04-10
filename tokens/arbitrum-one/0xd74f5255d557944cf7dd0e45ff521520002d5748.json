@@ -1,0 +1,15 @@
+{
+  "symbol": "USDs",
+  "name": "Sperax USD",
+  "address": "0xd74f5255d557944cf7dd0e45ff521520002d5748",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21973/thumb/USDs_logo_1000X1000.png?1640565887",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd74f5255d557944cf7dd0e45ff521520002d5748"
+  }
+}

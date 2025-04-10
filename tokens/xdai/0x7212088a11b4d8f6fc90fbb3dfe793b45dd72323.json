@@ -1,0 +1,21 @@
+{
+  "symbol": "bGME",
+  "name": "Backed GameStop Corp",
+  "address": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38912/thumb/b-GME-200x200.png?1719474669",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
+    "base": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
+    "xdai": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
+    "ethereum": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
+    "avalanche": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
+    "arbitrum-one": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323",
+    "polygon-pos": "0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323"
+  }
+}

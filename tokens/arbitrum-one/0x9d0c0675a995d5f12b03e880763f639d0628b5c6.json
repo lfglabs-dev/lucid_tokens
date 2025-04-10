@@ -1,0 +1,16 @@
+{
+  "symbol": "WALK",
+  "name": "Walk Token",
+  "address": "0x9d0c0675a995d5f12b03e880763f639d0628b5c6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37379/thumb/superwalk.jpeg?1714213441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "klay-token": "0x976232eb7eb92287ff06c5d145bd0d1c033eca58",
+    "arbitrum-one": "0x9d0c0675a995d5f12b03e880763f639d0628b5c6"
+  }
+}

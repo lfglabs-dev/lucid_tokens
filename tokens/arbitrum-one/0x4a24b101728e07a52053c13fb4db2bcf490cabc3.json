@@ -1,0 +1,17 @@
+{
+  "symbol": "AIUS",
+  "name": "Arbius",
+  "address": "0x4a24b101728e07a52053c13fb4db2bcf490cabc3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35246/thumb/arbius-200x-logo.png?1707987961",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
+    "arbitrum-nova": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
+    "arbitrum-one": "0x4a24b101728e07a52053c13fb4db2bcf490cabc3"
+  }
+}

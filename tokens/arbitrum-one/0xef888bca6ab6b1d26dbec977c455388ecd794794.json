@@ -1,0 +1,19 @@
+{
+  "symbol": "RGT",
+  "name": "Rari Governance Token",
+  "address": "0xef888bca6ab6b1d26dbec977c455388ecd794794",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12900/thumb/Rari_Logo_Transparent.png?1613978014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+    "polygon-pos": "0xf4bb0ed25ac7bcc9c327b88bac5ca288a08ec41e",
+    "energi": "0xf4bb0ed25ac7bcc9c327b88bac5ca288a08ec41e",
+    "fantom": "0xcf726a06f3dcec8ef2b033336d138caa0eae5af2",
+    "arbitrum-one": "0xef888bca6ab6b1d26dbec977c455388ecd794794"
+  }
+}

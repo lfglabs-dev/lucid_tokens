@@ -1,0 +1,15 @@
+{
+  "symbol": "GNOBBY",
+  "name": "GNOBBY",
+  "address": "0x1a8805194d0ef2f73045a00c70da399d9e74221c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38320/thumb/gnobby.png?1717054243",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x1a8805194d0ef2f73045a00c70da399d9e74221c"
+  }
+}

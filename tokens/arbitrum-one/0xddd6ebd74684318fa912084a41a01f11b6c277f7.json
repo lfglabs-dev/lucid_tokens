@@ -1,0 +1,15 @@
+{
+  "symbol": "WRT",
+  "name": "WorkoutApp",
+  "address": "0xddd6ebd74684318fa912084a41a01f11b6c277f7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37270/thumb/wrt.jpg?1713888102",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xddd6ebd74684318fa912084a41a01f11b6c277f7"
+  }
+}

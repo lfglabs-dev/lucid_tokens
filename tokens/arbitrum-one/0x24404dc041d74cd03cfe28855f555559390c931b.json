@@ -1,0 +1,17 @@
+{
+  "symbol": "MOON",
+  "name": "Moons",
+  "address": "0x24404dc041d74cd03cfe28855f555559390c931b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11222/thumb/Moons.png?1589620193",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-nova": "0x0057ac2d777797d31cd3f8f13bf5e927571d6ad0",
+    "ethereum": "0xb2490e357980ce57bf5745e181e537a64eb367b1",
+    "arbitrum-one": "0x24404dc041d74cd03cfe28855f555559390c931b"
+  }
+}

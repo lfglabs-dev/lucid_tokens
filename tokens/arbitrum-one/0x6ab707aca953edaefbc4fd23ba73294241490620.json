@@ -1,0 +1,19 @@
+{
+  "symbol": "aArbUSDT",
+  "name": "Aave Arbitrum USDT",
+  "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32884/thumb/USDT.PNG?1699768611",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x23878914efe38d27c4d67ab83ed1b93a74d4086a",
+    "optimistic-ethereum": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "avalanche": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "arbitrum-one": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "polygon-pos": "0x6ab707aca953edaefbc4fd23ba73294241490620"
+  }
+}

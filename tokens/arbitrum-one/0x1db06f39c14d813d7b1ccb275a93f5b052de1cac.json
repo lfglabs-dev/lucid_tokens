@@ -1,0 +1,18 @@
+{
+  "symbol": "XAV",
+  "name": "Xave Token",
+  "address": "0x1db06f39c14d813d7b1ccb275a93f5b052de1cac",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28299/thumb/Xave_Logomark_%28Color%29_%281%29.png?1669265691",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x913c61ec3573e5e4ee6488552535fb1be84ff2ac",
+    "ethereum": "0x1db06f39c14d813d7b1ccb275a93f5b052de1cac",
+    "arbitrum-one": "0x1db06f39c14d813d7b1ccb275a93f5b052de1cac",
+    "polygon-pos": "0x1db06f39c14d813d7b1ccb275a93f5b052de1cac"
+  }
+}

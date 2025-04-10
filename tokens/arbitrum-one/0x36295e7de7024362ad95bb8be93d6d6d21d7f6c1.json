@@ -1,0 +1,15 @@
+{
+  "symbol": "XGPU",
+  "name": "XGPU AI Token",
+  "address": "0x36295e7de7024362ad95bb8be93d6d6d21d7f6c1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37453/thumb/xgpu.png?1714448873",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x36295e7de7024362ad95bb8be93d6d6d21d7f6c1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "HAT",
+  "name": "Hat",
+  "address": "0x4d22e37eb4d71d1acc5f4889a65936d2a44a2f15",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39394/thumb/Black_circle_%281%29.png?1721976884",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x76c4ec0068923da13ee11527d6cf9b7521000049",
+    "arbitrum-one": "0x4d22e37eb4d71d1acc5f4889a65936d2a44a2f15"
+  }
+}

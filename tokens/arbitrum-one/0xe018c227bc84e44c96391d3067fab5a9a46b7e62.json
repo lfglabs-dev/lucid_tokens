@@ -1,0 +1,15 @@
+{
+  "symbol": "Cr",
+  "name": "Chromium Dollar",
+  "address": "0xe018c227bc84e44c96391d3067fab5a9a46b7e62",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28310/thumb/Chromium.png?1669349778",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe018c227bc84e44c96391d3067fab5a9a46b7e62"
+  }
+}

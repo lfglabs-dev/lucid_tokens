@@ -1,0 +1,15 @@
+{
+  "symbol": "BOUNTY",
+  "name": "ChainBounty",
+  "address": "0x6a9896837021ea3ed83f623f655c119c54abe02c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3369/thumb/Sentinel_Protocol.jpg?1547700074",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6a9896837021ea3ed83f623f655c119c54abe02c"
+  }
+}

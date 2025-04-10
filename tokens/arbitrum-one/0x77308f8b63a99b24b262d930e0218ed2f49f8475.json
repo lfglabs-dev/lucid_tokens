@@ -1,0 +1,15 @@
+{
+  "symbol": "MSFT.d",
+  "name": "Microsoft Corporation - Dinari",
+  "address": "0x77308f8b63a99b24b262d930e0218ed2f49f8475",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32427/thumb/token-icon.png?1698120021",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x77308f8b63a99b24b262d930e0218ed2f49f8475"
+  }
+}

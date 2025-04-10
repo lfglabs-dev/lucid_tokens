@@ -1,0 +1,15 @@
+{
+  "symbol": "TLN",
+  "name": "The Lux Network",
+  "address": "0xdd1ddd4d978ac0baef4bfa9c7e91853bfce90f11",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40147/thumb/THE_LUX_NETWORK_LOGO.webp?1726051439",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xdd1ddd4d978ac0baef4bfa9c7e91853bfce90f11"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "CAS",
+  "name": "Carnault AG Shares SHA",
+  "address": "0xa72f7df6c1454096387dbb74f70b3dac4f0a61f5",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33334/thumb/CAS.png?1701519269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xa72f7df6c1454096387dbb74f70b3dac4f0a61f5"
+  }
+}

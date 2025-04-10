@@ -1,0 +1,17 @@
+{
+  "symbol": "sDAI",
+  "name": "Savings Dai",
+  "address": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32254/thumb/sdai.png?1697015278",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x83f20f44975d03b1b09e64809b757c47f942beea",
+    "optimistic-ethereum": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3",
+    "base": "0x99ac4484e8a1dbd6a185380b3a811913ac884d87"
+  }
+}

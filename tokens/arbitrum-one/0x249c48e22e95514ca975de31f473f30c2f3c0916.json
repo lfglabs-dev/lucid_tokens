@@ -1,0 +1,17 @@
+{
+  "symbol": "USDFI",
+  "name": "USDFI",
+  "address": "0x249c48e22e95514ca975de31f473f30c2f3c0916",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31149/thumb/USDFI_200.png?1691031391",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xc9f5955f6da20e44a068f3d58fb2404f56f9a6f2",
+    "ethereum": "0xa7a0b3fe94121e366d774d60d075f6386f750884",
+    "arbitrum-one": "0x249c48e22e95514ca975de31f473f30c2f3c0916"
+  }
+}

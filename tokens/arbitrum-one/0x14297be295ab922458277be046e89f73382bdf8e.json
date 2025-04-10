@@ -1,0 +1,18 @@
+{
+  "symbol": "NLY.d",
+  "name": "Annaly Capital Management. Inc. - Dinari",
+  "address": "0x14297be295ab922458277be046e89f73382bdf8e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53869/thumb/d-token-200.png?1737615761",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x14297be295ab922458277be046e89f73382bdf8e",
+    "blast": "0x74798fd1a87e07c7b8bf89fafc922e4bf10c35a9",
+    "ethereum": "0x2cad08360009226261ab4d32684aacdbbec3f8da",
+    "base": "0xb3358ab71f784910de0ca766ebdab527323731b9"
+  }
+}

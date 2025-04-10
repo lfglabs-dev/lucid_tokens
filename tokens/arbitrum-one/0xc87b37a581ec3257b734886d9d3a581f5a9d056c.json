@@ -1,0 +1,16 @@
+{
+  "symbol": "ATH",
+  "name": "Aethir Token",
+  "address": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36179/thumb/Aethir.png?1710756860",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
+    "arbitrum-one": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c"
+  }
+}

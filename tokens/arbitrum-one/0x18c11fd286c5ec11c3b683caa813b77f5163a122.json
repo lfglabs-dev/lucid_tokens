@@ -1,0 +1,18 @@
+{
+  "symbol": "GNS",
+  "name": "Gains Network",
+  "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19737/thumb/logo.png?1635909203",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe5417af564e4bfda1c483642db72007871397896",
+    "apechain": "0xe31c676d8235437597581b44c1c4f8a30e90b38a",
+    "arbitrum-one": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
+    "base": "0xfb1aaba03c31ea98a3eec7591808acb1947ee7ac"
+  }
+}

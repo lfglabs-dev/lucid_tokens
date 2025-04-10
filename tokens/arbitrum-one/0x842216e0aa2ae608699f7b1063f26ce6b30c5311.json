@@ -1,0 +1,15 @@
+{
+  "symbol": "URD",
+  "name": "URD Token",
+  "address": "0x842216e0aa2ae608699f7b1063f26ce6b30c5311",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29970/thumb/UrDEXLogo.png?1682393181",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x842216e0aa2ae608699f7b1063f26ce6b30c5311"
+  }
+}

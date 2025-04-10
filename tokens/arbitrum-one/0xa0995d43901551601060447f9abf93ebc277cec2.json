@@ -1,0 +1,15 @@
+{
+  "symbol": "HIP",
+  "name": "HIPPOP",
+  "address": "0xa0995d43901551601060447f9abf93ebc277cec2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37854/thumb/KakaoTalk_Image_2024-05-14-16-50-31.png?1715781999",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa0995d43901551601060447f9abf93ebc277cec2"
+  }
+}

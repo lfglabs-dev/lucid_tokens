@@ -1,0 +1,15 @@
+{
+  "symbol": "NVDA.d",
+  "name": "NVIDIA Corporation - Dinari",
+  "address": "0x4dafffddea93ddf1e0e7b61e844331455053ce5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32401/thumb/token-icon.png?1698055556",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4dafffddea93ddf1e0e7b61e844331455053ce5c"
+  }
+}

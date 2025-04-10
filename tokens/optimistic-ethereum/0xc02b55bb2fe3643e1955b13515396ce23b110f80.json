@@ -1,0 +1,15 @@
+{
+  "symbol": "CAXRAS",
+  "name": "Cancelled Axelra Tech Venture Building Shares (Wrapped)",
+  "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xc02b55bb2fe3643e1955b13515396ce23b110f80"
+  }
+}

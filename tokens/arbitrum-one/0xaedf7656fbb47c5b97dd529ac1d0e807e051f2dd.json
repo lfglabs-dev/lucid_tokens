@@ -1,0 +1,15 @@
+{
+  "symbol": "MXC",
+  "name": "MXC Token",
+  "address": "0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4604/thumb/MXC-app-icon10242x.png?1597628240",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd"
+  }
+}

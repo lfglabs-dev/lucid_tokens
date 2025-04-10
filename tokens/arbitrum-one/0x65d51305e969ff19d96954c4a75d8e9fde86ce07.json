@@ -1,0 +1,15 @@
+{
+  "symbol": "HHI",
+  "name": "Helping Hearts International",
+  "address": "0x65d51305e969ff19d96954c4a75d8e9fde86ce07",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54978/thumb/Helping_Hearts_International_1.png?1743001188",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x65d51305e969ff19d96954c4a75d8e9fde86ce07"
+  }
+}

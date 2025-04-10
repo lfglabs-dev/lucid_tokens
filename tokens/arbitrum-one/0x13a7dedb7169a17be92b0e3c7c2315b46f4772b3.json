@@ -1,0 +1,15 @@
+{
+  "symbol": "Boop",
+  "name": "Boop",
+  "address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33874/thumb/Boop_resized.png?1703144302",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "OOE",
+  "name": "OpenOcean",
+  "address": "0xdcbf4cb83d27c408b30dd7f39bfcabd7176b1ba3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17014/thumb/ooe_log.png?1626074195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8ea5219a16c2dbf1d6335a6aa0c6bd45c50347c5",
+    "arbitrum-one": "0xdcbf4cb83d27c408b30dd7f39bfcabd7176b1ba3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GOOD",
+  "name": "Good Entry",
+  "address": "0x17176a9868f321411b15ccb9b934cf95597e89c4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33407/thumb/photo_2023-12-04_22-16-42.jpg?1701699782",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x17176a9868f321411b15ccb9b934cf95597e89c4"
+  }
+}

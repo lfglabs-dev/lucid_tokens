@@ -1,0 +1,15 @@
+{
+  "symbol": "O3",
+  "name": "O3",
+  "address": "0xdd89a4d3362828e601df52208302a741f08e46c5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53876/thumb/logosiyah.png?1737619010",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xdd89a4d3362828e601df52208302a741f08e46c5"
+  }
+}

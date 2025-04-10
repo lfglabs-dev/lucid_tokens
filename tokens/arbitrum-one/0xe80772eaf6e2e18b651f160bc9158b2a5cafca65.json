@@ -1,0 +1,15 @@
+{
+  "symbol": "xUSD",
+  "name": "xUSD",
+  "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39630/thumb/usd_plus.png?1723181710",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65"
+  }
+}

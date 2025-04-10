@@ -1,0 +1,17 @@
+{
+  "symbol": "Silo",
+  "name": "Silo Governance Token",
+  "address": "0x0341c0c0ec423328621788d4854119b97f44e391",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21454/thumb/y0iYKZOv_400x400.png?1639269432",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8",
+    "arbitrum-one": "0x0341c0c0ec423328621788d4854119b97f44e391",
+    "base": "0x57bd5c33c8002a634b389ab4de5e09ec1c31dce7"
+  }
+}

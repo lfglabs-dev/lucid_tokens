@@ -1,0 +1,15 @@
+{
+  "symbol": "AISP",
+  "name": "Aisupreme.io Token",
+  "address": "0x493070ef5280e7a275a106a30b0414dbdb21febd",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30900/thumb/200.png?1688549201",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x493070ef5280e7a275a106a30b0414dbdb21febd"
+  }
+}

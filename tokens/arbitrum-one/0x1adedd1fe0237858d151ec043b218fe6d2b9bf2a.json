@@ -1,0 +1,18 @@
+{
+  "symbol": "SIVR.d",
+  "name": "abrdn Physical Silver Shares ETF - Dinari",
+  "address": "0x1adedd1fe0237858d151ec043b218fe6d2b9bf2a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1adedd1fe0237858d151ec043b218fe6d2b9bf2a",
+    "ethereum": "0xe36fb561dcc177492da42a6ba5fd4a9d0987bfe2",
+    "blast": "0x8d7e838f2feaec8b6d7445bfa699f68fe8e97718",
+    "base": "0x2b98ba07619c3ee14854983a83fe1f0aecff19c8"
+  }
+}

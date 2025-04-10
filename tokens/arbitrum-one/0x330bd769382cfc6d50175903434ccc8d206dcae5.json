@@ -1,0 +1,17 @@
+{
+  "symbol": "PNK",
+  "name": "Pinakion",
+  "address": "0x330bd769382cfc6d50175903434ccc8d206dcae5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/3833/thumb/kleros.png?1547975322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+    "xdai": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
+    "arbitrum-one": "0x330bd769382cfc6d50175903434ccc8d206dcae5"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "NCASH",
+  "name": "Nutcash",
+  "address": "0x88266f9eb705f5282a2507a9c418821a2ac9f8bd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52578/thumb/nutcash_200x200_beige_circle.png?1733692905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x88266f9eb705f5282a2507a9c418821a2ac9f8bd",
+    "ethereum": "0xd105c45bcc7211f847ae73b187a41b7d8184ade2"
+  }
+}

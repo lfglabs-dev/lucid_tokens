@@ -1,0 +1,16 @@
+{
+  "symbol": "SEED",
+  "name": "SEED",
+  "address": "0x86f65121804d2cdbef79f9f072d4e0c2eebabc08",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34671/thumb/icon.png?1705656915",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5eed99d066a8caf10f3e4327c1b3d8b673485eed",
+    "arbitrum-one": "0x86f65121804d2cdbef79f9f072d4e0c2eebabc08"
+  }
+}

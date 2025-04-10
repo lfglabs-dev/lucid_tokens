@@ -1,0 +1,22 @@
+{
+  "symbol": "aArbWETH",
+  "name": "Aave Arbitrum WETH",
+  "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32882/thumb/WETH_%281%29.png?1699716492",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8",
+    "metis-andromeda": "0x8acae35059c9ae27709028ff6689386a44c09f3a",
+    "xdai": "0xa818f1b57c201e092c4a2017a91815034326efd1",
+    "optimistic-ethereum": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "avalanche": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "arbitrum-one": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "polygon-pos": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "base": "0xd4a0e0b9149bcee3c920d2e00b5de09138fd8bb7"
+  }
+}

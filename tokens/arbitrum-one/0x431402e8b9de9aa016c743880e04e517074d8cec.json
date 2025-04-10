@@ -1,0 +1,18 @@
+{
+  "symbol": "HEGIC",
+  "name": "Hegic",
+  "address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12454/thumb/new.png?1628668523",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x584bc13c7d411c00c01a62e8019472de68768430",
+    "energi": "0x762204d444123bcc511718a24158a86e3d853266",
+    "fantom": "0x44b26e839eb3572c5e959f994804a5de66600349",
+    "arbitrum-one": "0x431402e8b9de9aa016c743880e04e517074d8cec"
+  }
+}

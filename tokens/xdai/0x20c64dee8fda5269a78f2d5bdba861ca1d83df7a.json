@@ -1,0 +1,21 @@
+{
+  "symbol": "bHIGH",
+  "name": "Backed HIGH € High Yield Corp Bond",
+  "address": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31868/thumb/b-HIGH-200x200.png?1695350464",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a",
+    "xdai": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a",
+    "binance-smart-chain": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a",
+    "avalanche": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a",
+    "arbitrum-one": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a",
+    "polygon-pos": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a",
+    "base": "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a"
+  }
+}

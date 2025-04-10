@@ -1,0 +1,16 @@
+{
+  "symbol": "EXTRA",
+  "name": "Extra Finance",
+  "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30973/thumb/Ex_logo-white-blue_ring_288x.png?1689307279",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+    "base": "0x2dad3a13ef0c6366220f989157009e501e7938f8"
+  }
+}

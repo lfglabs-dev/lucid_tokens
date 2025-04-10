@@ -1,0 +1,19 @@
+{
+  "symbol": "FOX",
+  "name": "FOX",
+  "address": "0xf929de51d91c77e42f5090069e0ad7a09e513c73",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+    "xdai": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
+    "optimistic-ethereum": "0xf1a0da3367bc7aa04f8d94ba57b862ff37ced174",
+    "arbitrum-one": "0xf929de51d91c77e42f5090069e0ad7a09e513c73",
+    "polygon-pos": "0x65a05db8322701724c197af82c9cae41195b0aa8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ILOCK",
+  "name": "InterlockNetwork",
+  "address": "0xcf1d7d1a7bbf5d11ccfe717fc6a9a45c8dd9c7be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37492/thumb/Interlock.jpg?1714500052",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xcf1d7d1a7bbf5d11ccfe717fc6a9a45c8dd9c7be"
+  }
+}

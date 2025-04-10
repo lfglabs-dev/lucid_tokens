@@ -1,0 +1,15 @@
+{
+  "symbol": "HERMES",
+  "name": "Hermes",
+  "address": "0x45940000009600102a1c002f0097c4a500fa00ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/24251/thumb/hermes.png?1647135941",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x45940000009600102a1c002f0097c4a500fa00ab"
+  }
+}

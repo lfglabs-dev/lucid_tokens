@@ -1,0 +1,15 @@
+{
+  "symbol": "PEPEX",
+  "name": "PEPEX",
+  "address": "0x5f320aae9b786a9f329a39e41a74e88e14783067",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30028/thumb/COIN.png?1682584785",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5f320aae9b786a9f329a39e41a74e88e14783067"
+  }
+}

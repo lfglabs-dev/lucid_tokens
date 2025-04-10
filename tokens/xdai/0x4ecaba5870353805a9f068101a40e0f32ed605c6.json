@@ -1,0 +1,15 @@
+{
+  "symbol": "USDT",
+  "name": "Tether USD on xDai",
+  "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35072/thumb/logo.png?1707292488",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x4ecaba5870353805a9f068101a40e0f32ed605c6"
+  }
+}

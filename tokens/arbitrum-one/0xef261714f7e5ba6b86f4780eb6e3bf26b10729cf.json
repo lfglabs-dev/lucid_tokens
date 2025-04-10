@@ -1,0 +1,15 @@
+{
+  "symbol": "LOTUS",
+  "name": "White Lotus",
+  "address": "0xef261714f7e5ba6b86f4780eb6e3bf26b10729cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30206/thumb/logo2.png?1683617014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xef261714f7e5ba6b86f4780eb6e3bf26b10729cf"
+  }
+}

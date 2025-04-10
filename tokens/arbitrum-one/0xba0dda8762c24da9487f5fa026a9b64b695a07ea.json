@@ -1,0 +1,21 @@
+{
+  "symbol": "OX",
+  "name": "OX Coin",
+  "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35365/thumb/logo.png?1708395976",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "blast": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "binance-smart-chain": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "avalanche": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "arbitrum-one": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "polygon-pos": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "base": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea"
+  }
+}

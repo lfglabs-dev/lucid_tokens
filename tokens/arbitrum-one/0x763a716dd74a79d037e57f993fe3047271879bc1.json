@@ -1,0 +1,15 @@
+{
+  "symbol": "QODA",
+  "name": "QODA Token",
+  "address": "0x763a716dd74a79d037e57f993fe3047271879bc1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38563/thumb/LogoMark.png?1718003510",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x763a716dd74a79d037e57f993fe3047271879bc1"
+  }
+}

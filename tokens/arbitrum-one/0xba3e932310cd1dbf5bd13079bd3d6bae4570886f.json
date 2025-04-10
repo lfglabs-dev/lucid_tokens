@@ -1,0 +1,15 @@
+{
+  "symbol": "yBTC",
+  "name": "Yield Bearing BTC",
+  "address": "0xba3e932310cd1dbf5bd13079bd3d6bae4570886f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39537/thumb/Logo.png?1722841465",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xba3e932310cd1dbf5bd13079bd3d6bae4570886f"
+  }
+}

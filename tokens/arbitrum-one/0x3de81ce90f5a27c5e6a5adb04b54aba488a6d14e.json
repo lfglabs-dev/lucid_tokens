@@ -1,0 +1,16 @@
+{
+  "symbol": "PRIME",
+  "name": "DeltaPrime",
+  "address": "0x3de81ce90f5a27c5e6a5adb04b54aba488a6d14e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39234/thumb/PRIME.jpg?1721240215",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x33c8036e99082b0c395374832fecf70c42c7f298",
+    "arbitrum-one": "0x3de81ce90f5a27c5e6a5adb04b54aba488a6d14e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "WETH",
+  "name": "Wrapped Ether",
+  "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39713/thumb/WETH.PNG?1723731496",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+  }
+}

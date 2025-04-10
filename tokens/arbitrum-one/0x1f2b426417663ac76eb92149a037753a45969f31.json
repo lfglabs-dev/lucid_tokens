@@ -1,0 +1,15 @@
+{
+  "symbol": "RWAS",
+  "name": "Real World Assetss",
+  "address": "0x1f2b426417663ac76eb92149a037753a45969f31",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37074/thumb/H_Black_on_Green-Finance.jpg?1713247063",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1f2b426417663ac76eb92149a037753a45969f31"
+  }
+}

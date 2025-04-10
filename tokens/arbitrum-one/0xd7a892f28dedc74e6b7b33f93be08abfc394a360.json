@@ -1,0 +1,15 @@
+{
+  "symbol": "CIP",
+  "name": "Crypto Index Pool",
+  "address": "0xd7a892f28dedc74e6b7b33f93be08abfc394a360",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32504/thumb/photo_6176746894382970935_y_%281%29.jpg?1698313185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd7a892f28dedc74e6b7b33f93be08abfc394a360"
+  }
+}

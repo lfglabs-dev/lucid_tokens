@@ -1,0 +1,15 @@
+{
+  "symbol": "pWETH",
+  "name": "Prize WETH - Aave",
+  "address": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32454/thumb/PrizeWETHIcon_200.png?1698241047",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715"
+  }
+}

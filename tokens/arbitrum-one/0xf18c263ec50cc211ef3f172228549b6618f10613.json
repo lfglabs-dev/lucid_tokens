@@ -1,0 +1,15 @@
+{
+  "symbol": "COLLAB",
+  "name": "Collab.Land",
+  "address": "0xf18c263ec50cc211ef3f172228549b6618f10613",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29098/thumb/collab.png?1676566517",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf18c263ec50cc211ef3f172228549b6618f10613"
+  }
+}

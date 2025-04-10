@@ -1,0 +1,15 @@
+{
+  "symbol": "VITAI",
+  "name": "Vitalik Ai",
+  "address": "0x1b7ad346b6ff2d196daa8e78aed86baa6d7e3b02",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52350/thumb/aadadsadasdas.png?1733162989",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x1b7ad346b6ff2d196daa8e78aed86baa6d7e3b02"
+  }
+}

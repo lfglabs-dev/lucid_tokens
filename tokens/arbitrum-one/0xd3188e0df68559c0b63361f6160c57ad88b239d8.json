@@ -1,0 +1,15 @@
+{
+  "symbol": "ASTRADAO",
+  "name": "Astra DAO",
+  "address": "0xd3188e0df68559c0b63361f6160c57ad88b239d8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32870/thumb/ASTRADAO.jpg?1699673097",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd3188e0df68559c0b63361f6160c57ad88b239d8"
+  }
+}

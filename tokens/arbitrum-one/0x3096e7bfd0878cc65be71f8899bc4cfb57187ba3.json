@@ -1,0 +1,18 @@
+{
+  "symbol": "RWA",
+  "name": "Xend Real World Asset",
+  "address": "0x3096e7bfd0878cc65be71f8899bc4cfb57187ba3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14496/thumb/WeChat_Image_20210325163206.png?1616661216",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3096e7bfd0878cc65be71f8899bc4cfb57187ba3",
+    "ethereum": "0x4563554284aa7148d6e6d0351519e954ba3b6e02",
+    "binance-smart-chain": "0x36fe11b6d5c9421f68d235694fe192b35e803903",
+    "polygon-pos": "0x36fe11b6d5c9421f68d235694fe192b35e803903"
+  }
+}

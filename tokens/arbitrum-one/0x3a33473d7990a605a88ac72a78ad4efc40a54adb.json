@@ -1,0 +1,15 @@
+{
+  "symbol": "TIG",
+  "name": "Tigris",
+  "address": "0x3a33473d7990a605a88ac72a78ad4efc40a54adb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30641/thumb/logo.png?1686035994",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x3a33473d7990a605a88ac72a78ad4efc40a54adb"
+  }
+}

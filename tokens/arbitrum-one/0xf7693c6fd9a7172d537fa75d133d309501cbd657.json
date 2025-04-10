@@ -1,0 +1,15 @@
+{
+  "symbol": "W3N",
+  "name": "Web3 No Value",
+  "address": "0xf7693c6fd9a7172d537fa75d133d309501cbd657",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32083/thumb/w3n-logo-comp200x200.png?1696408991",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf7693c6fd9a7172d537fa75d133d309501cbd657"
+  }
+}

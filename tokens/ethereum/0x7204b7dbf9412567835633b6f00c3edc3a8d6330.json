@@ -1,0 +1,10 @@
+{
+  "symbol": "csUSDC",
+  "name": "Coinshift USDC",
+  "address": "0x7204b7dbf9412567835633b6f00c3edc3a8d6330",
+  "decimals": 18,
+  "type": "ERC20",
+  "platforms": {
+    "ethereum": "0x7204b7dbf9412567835633b6f00c3edc3a8d6330"
+  }
+}

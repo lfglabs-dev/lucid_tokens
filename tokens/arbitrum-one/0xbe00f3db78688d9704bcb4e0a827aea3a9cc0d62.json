@@ -1,0 +1,15 @@
+{
+  "symbol": "USD24",
+  "name": "Fiat24 USD",
+  "address": "0xbe00f3db78688d9704bcb4e0a827aea3a9cc0d62",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25598/thumb/USD24.png?1696524732",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xbe00f3db78688d9704bcb4e0a827aea3a9cc0d62"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "OS",
+  "name": "Ethereans",
+  "address": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19592/thumb/newOS.png?1635474948",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6100dd79fcaa88420750dcee3f735d168abcb771",
+    "optimistic-ethereum": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc"
+  }
+}

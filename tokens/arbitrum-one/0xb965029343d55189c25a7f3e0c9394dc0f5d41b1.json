@@ -1,0 +1,16 @@
+{
+  "symbol": "NDX",
+  "name": "Indexed",
+  "address": "0xb965029343d55189c25a7f3e0c9394dc0f5d41b1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13546/thumb/indexed-light.74bb5471.png?1609712728",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+    "arbitrum-one": "0xb965029343d55189c25a7f3e0c9394dc0f5d41b1"
+  }
+}

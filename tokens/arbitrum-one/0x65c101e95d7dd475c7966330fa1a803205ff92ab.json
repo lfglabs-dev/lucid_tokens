@@ -1,0 +1,15 @@
+{
+  "symbol": "HOL",
+  "name": "Hall of Legends",
+  "address": "0x65c101e95d7dd475c7966330fa1a803205ff92ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54084/thumb/photo_2025-01-30_02.22.57.jpeg?1738181081",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x65c101e95d7dd475c7966330fa1a803205ff92ab"
+  }
+}

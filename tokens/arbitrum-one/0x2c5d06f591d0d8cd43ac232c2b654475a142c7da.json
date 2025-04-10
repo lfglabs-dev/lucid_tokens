@@ -1,0 +1,15 @@
+{
+  "symbol": "EUR24",
+  "name": "Fiat24 EUR",
+  "address": "0x2c5d06f591d0d8cd43ac232c2b654475a142c7da",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33297/thumb/EUR24.png?1701402541",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2c5d06f591d0d8cd43ac232c2b654475a142c7da"
+  }
+}

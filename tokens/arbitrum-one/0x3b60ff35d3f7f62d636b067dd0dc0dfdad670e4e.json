@@ -1,0 +1,16 @@
+{
+  "symbol": "LADYS",
+  "name": "Milady",
+  "address": "0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30194/thumb/logo.png?1683607297",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+    "arbitrum-one": "0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e"
+  }
+}

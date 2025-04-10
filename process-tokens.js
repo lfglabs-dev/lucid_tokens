@@ -12,17 +12,17 @@ const CHAINS = {
   'world-chain': 'https://worldchain-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'ethereum': 'https://eth-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'zksync': 'https://zksync-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'optimism': 'https://opt-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'optimistic-ethereum': 'https://opt-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'polygon-pos': 'https://polygon-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'arbitrum': 'https://arb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'arbitrum-one': 'https://arb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'mantle': 'https://mantle-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'berachain': 'https://berachain-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'blast': 'https://blast-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'linea': 'https://linea-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'zora': 'https://zora-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'zora-network': 'https://zora-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'base': 'https://base-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'scroll': 'https://scroll-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
-  'gnosis': 'https://gnosis-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
+  'xdai': 'https://gnosis-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'binance-smart-chain': 'https://bnb-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE',
   'avalanche': 'https://avax-mainnet.g.alchemy.com/v2/KmwG40UUX-Ih0ngWRLqV8nebiDIpcstE'
 };
@@ -202,6 +202,13 @@ async function main() {
     const tokens = await response.json();
 
     console.log(`Total tokens fetched: ${tokens.length}`);
+    
+    // Debug: Log unique chain names from the first few tokens
+    const uniqueChains = new Set();
+    tokens.slice(0, 100).forEach(token => {
+      Object.keys(token.platforms || {}).forEach(chain => uniqueChains.add(chain));
+    });
+    console.log('Found chain names in DeFiLlama data:', Array.from(uniqueChains).sort());
     
     // Process tokens in batches
     const batchSize = parseInt(options.limit);

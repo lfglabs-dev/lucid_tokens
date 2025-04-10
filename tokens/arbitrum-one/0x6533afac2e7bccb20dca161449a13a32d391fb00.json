@@ -1,0 +1,15 @@
+{
+  "symbol": "aArbARB",
+  "name": "Aave Arbitrum ARB",
+  "address": "0x6533afac2e7bccb20dca161449a13a32d391fb00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32912/thumb/arbitrum.png?1699824441",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x6533afac2e7bccb20dca161449a13a32d391fb00"
+  }
+}

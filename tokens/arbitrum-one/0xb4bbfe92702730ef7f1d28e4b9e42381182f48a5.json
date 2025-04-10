@@ -1,0 +1,15 @@
+{
+  "symbol": "HOLD",
+  "name": "HOLD TOKEN",
+  "address": "0xb4bbfe92702730ef7f1d28e4b9e42381182f48a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30129/thumb/RteOSWQ__400x400.jpg?1683261669",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb4bbfe92702730ef7f1d28e4b9e42381182f48a5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "FNLS",
+  "name": "Finelli Studios AG Shares SHA",
+  "address": "0x065399a1e5522af1c9044c18ce60ec70d64d74a1",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33374/thumb/FNL.png?1701649817",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x065399a1e5522af1c9044c18ce60ec70d64d74a1"
+  }
+}

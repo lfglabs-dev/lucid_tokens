@@ -1,0 +1,16 @@
+{
+  "symbol": "AGVE",
+  "name": "Agave Token",
+  "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14146/thumb/agve.png?1614659384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+    "arbitrum-one": "0x848e0ba28b637e8490d88bae51fa99c87116409b"
+  }
+}

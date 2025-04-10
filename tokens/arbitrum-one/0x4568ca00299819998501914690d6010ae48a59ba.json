@@ -1,0 +1,15 @@
+{
+  "symbol": "AFC",
+  "name": "Army of Fortune Coin",
+  "address": "0x4568ca00299819998501914690d6010ae48a59ba",
+  "decimals": 0,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32577/thumb/UI_Icon_Coin_Token_AFC_200x200.png?1698558434",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4568ca00299819998501914690d6010ae48a59ba"
+  }
+}

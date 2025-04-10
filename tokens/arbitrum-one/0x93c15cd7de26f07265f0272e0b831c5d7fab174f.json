@@ -1,0 +1,15 @@
+{
+  "symbol": "LIQD",
+  "name": "Liquid",
+  "address": "0x93c15cd7de26f07265f0272e0b831c5d7fab174f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27056/thumb/liqd.png?1661513443",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x93c15cd7de26f07265f0272e0b831c5d7fab174f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "RING",
+  "name": "OneRing",
+  "address": "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/23273/thumb/ring.png?1648278585",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "fantom": "0x582423c10c9e83387a96d00a69ba3d11ee47b7b5",
+    "optimistic-ethereum": "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd"
+  }
+}

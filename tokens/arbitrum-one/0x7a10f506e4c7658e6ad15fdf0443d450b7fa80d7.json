@@ -1,0 +1,18 @@
+{
+  "symbol": "EYWA",
+  "name": "EYWA",
+  "address": "0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/51242/thumb/Eywa.png?1730449129",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8cb8c4263eb26b2349d74ea2cb1b27bc40709e12",
+    "binance-smart-chain": "0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7",
+    "fantom": "0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7",
+    "arbitrum-one": "0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7"
+  }
+}

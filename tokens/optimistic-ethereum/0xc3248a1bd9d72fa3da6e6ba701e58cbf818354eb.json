@@ -1,0 +1,16 @@
+{
+  "symbol": "HANeP",
+  "name": "HANePlatform",
+  "address": "0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35202/thumb/HANeP_200px.png?1707842735",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb",
+    "ethereum": "0x5052fa4a2a147eaaa4c0242e9cc54a10a4f42070"
+  }
+}

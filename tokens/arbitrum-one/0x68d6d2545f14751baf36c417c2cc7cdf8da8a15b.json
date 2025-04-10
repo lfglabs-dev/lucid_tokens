@@ -1,0 +1,15 @@
+{
+  "symbol": "PlsSyk",
+  "name": "PlsSyk by Plutus",
+  "address": "0x68d6d2545f14751baf36c417c2cc7cdf8da8a15b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52556/thumb/plssyk-200x200.png?1733662617",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x68d6d2545f14751baf36c417c2cc7cdf8da8a15b"
+  }
+}

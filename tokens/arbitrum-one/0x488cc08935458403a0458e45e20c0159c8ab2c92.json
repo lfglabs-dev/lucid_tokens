@@ -1,0 +1,16 @@
+{
+  "symbol": "FST",
+  "name": "Futureswap Token",
+  "address": "0x488cc08935458403a0458e45e20c0159c8ab2c92",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14520/thumb/futureswap_logo.png?1634122916",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0e192d382a36de7011f795acc4391cd302003606",
+    "arbitrum-one": "0x488cc08935458403a0458e45e20c0159c8ab2c92"
+  }
+}

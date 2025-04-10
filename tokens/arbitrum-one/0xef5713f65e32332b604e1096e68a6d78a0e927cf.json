@@ -1,0 +1,18 @@
+{
+  "symbol": "HYMB.d",
+  "name": "SPDR Nuveen Bloomberg High Yield Municipal Bond ETF - Dinari",
+  "address": "0xef5713f65e32332b604e1096e68a6d78a0e927cf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54362/thumb/d-token-200.png?1739401319",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xef5713f65e32332b604e1096e68a6d78a0e927cf",
+    "ethereum": "0x88cee7bf66435f6fdbb681a6a522f26598fe39a2",
+    "blast": "0xf020a139d2346cdd2c0e1523395346756f42ad7e",
+    "base": "0x7d3b1a25d7ad1d8c5bc79a93cc03fb1900b9bc6f"
+  }
+}

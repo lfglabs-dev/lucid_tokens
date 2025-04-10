@@ -1,0 +1,15 @@
+{
+  "symbol": "MOLANDAK",
+  "name": "MOLANDAK",
+  "address": "0xa170eaa9a74ab4b3218c736210b0421af35c3c00",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/38177/thumb/molandak.png?1716787888",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xa170eaa9a74ab4b3218c736210b0421af35c3c00"
+  }
+}

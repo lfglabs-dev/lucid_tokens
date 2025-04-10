@@ -1,0 +1,15 @@
+{
+  "symbol": "osGNO",
+  "name": "Staked GNO",
+  "address": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39458/thumb/stakewiseosgno_32.webp?1722390395",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0"
+  }
+}

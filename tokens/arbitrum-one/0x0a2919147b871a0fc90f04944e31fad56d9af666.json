@@ -1,0 +1,18 @@
+{
+  "symbol": "SLX.d",
+  "name": "VanEck Steel ETF - Dinari",
+  "address": "0x0a2919147b871a0fc90f04944e31fad56d9af666",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53874/thumb/d-token-200.png?1737617906",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0a2919147b871a0fc90f04944e31fad56d9af666",
+    "blast": "0x6c627b1e04ede1a6e0619727c70f69cb259d06f8",
+    "ethereum": "0x0ecb3513ebf1e62be765452900608aa957dbd13d",
+    "base": "0x0d794e3778fc6f5f0351c77a5c77bd21d26887f9"
+  }
+}

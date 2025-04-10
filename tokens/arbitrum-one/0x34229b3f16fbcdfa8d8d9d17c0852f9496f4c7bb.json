@@ -1,0 +1,17 @@
+{
+  "symbol": "IPOR",
+  "name": "IPOR Token",
+  "address": "0x34229b3f16fbcdfa8d8d9d17c0852f9496f4c7bb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28373/thumb/IPOR-token-200x200.png?1670480793",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x1e4746dc744503b53b4a082cb3607b169a289090",
+    "arbitrum-one": "0x34229b3f16fbcdfa8d8d9d17c0852f9496f4c7bb",
+    "base": "0xbd4e5c2f8de5065993d29a9794e2b7cefc41437a"
+  }
+}

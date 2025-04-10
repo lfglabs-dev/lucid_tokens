@@ -1,0 +1,15 @@
+{
+  "symbol": "KITE",
+  "name": "Protocol Token",
+  "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35343/thumb/_KITE.png?1708317581",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404"
+  }
+}

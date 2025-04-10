@@ -1,0 +1,22 @@
+{
+  "symbol": "oUSDT",
+  "name": "OpenUSDT",
+  "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "mode": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "fraxtal": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "soneium": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "unichain": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "lisk": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "optimistic-ethereum": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "superseed": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
+  }
+}

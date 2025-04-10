@@ -1,0 +1,15 @@
+{
+  "symbol": "KERC",
+  "name": "KERC Token",
+  "address": "0x2389f6a46562ae5f1557db8562c39ef553f3832b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35976/thumb/KERC_Logo_1.png?1710306026",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2389f6a46562ae5f1557db8562c39ef553f3832b"
+  }
+}

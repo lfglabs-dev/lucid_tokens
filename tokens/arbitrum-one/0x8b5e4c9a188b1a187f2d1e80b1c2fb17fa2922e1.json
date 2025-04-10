@@ -1,0 +1,17 @@
+{
+  "symbol": "GOLD",
+  "name": "GoldenBoys",
+  "address": "0x8b5e4c9a188b1a187f2d1e80b1c2fb17fa2922e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31353/thumb/goldenboys.png?1692612836",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbefd5c25a59ef2c1316c5a4944931171f30cd3e4",
+    "ethereum": "0x9deb0fc809955b79c85e82918e8586d3b7d2695a",
+    "arbitrum-one": "0x8b5e4c9a188b1a187f2d1e80b1c2fb17fa2922e1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "G7",
+  "name": "Game7",
+  "address": "0xf18e4466f26b4ca55bbab890b314a54976e45b17",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37207/thumb/G.jpg?1713768185",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf18e4466f26b4ca55bbab890b314a54976e45b17",
+    "ethereum": "0x12c88a3c30a7aabc1dd7f2c08a97145f5dccd830"
+  }
+}

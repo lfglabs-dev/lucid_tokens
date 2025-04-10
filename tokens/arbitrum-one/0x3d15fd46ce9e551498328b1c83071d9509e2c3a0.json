@@ -1,0 +1,16 @@
+{
+  "symbol": "uniETH",
+  "name": "Universal ETH",
+  "address": "0x3d15fd46ce9e551498328b1c83071d9509e2c3a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28477/thumb/uniETH_200.png?1671004791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4",
+    "arbitrum-one": "0x3d15fd46ce9e551498328b1c83071d9509e2c3a0"
+  }
+}

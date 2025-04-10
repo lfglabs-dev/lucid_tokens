@@ -1,0 +1,15 @@
+{
+  "symbol": "MAIA",
+  "name": "Maia",
+  "address": "0x00000000ea00f3f4000e7ed5ed91965b19f1009b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22502/thumb/whiteicon.4a79cf8b.png?1641953707",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x00000000ea00f3f4000e7ed5ed91965b19f1009b"
+  }
+}

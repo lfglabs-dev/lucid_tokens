@@ -1,0 +1,15 @@
+{
+  "symbol": "aOptOP",
+  "name": "Aave Optimism OP",
+  "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff"
+  }
+}

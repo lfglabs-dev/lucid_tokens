@@ -1,0 +1,15 @@
+{
+  "symbol": "VOLTA",
+  "name": "Volta Protocol Token",
+  "address": "0x417a1afd44250314bffb11ff68e989775e990ab6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29130/thumb/pfp_HD.png?1676957384",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x417a1afd44250314bffb11ff68e989775e990ab6"
+  }
+}

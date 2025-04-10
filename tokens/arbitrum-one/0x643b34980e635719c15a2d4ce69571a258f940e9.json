@@ -1,0 +1,16 @@
+{
+  "symbol": "EUROs",
+  "name": "The Standard EURO",
+  "address": "0x643b34980e635719c15a2d4ce69571a258f940e9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32231/thumb/EUROs-coingecko.png?1696936278",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x643b34980e635719c15a2d4ce69571a258f940e9",
+    "ethereum": "0xb399511642fe1666c6a07f83483e6e4feaed9a00"
+  }
+}

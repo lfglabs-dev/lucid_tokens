@@ -1,0 +1,15 @@
+{
+  "symbol": "BTRM",
+  "name": "Bitrium",
+  "address": "0x221c5799209132766a01c4cbed0d28600d282b41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39118/thumb/20240709-160716.png?1720593799",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x221c5799209132766a01c4cbed0d28600d282b41"
+  }
+}

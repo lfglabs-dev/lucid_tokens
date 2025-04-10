@@ -1,0 +1,15 @@
+{
+  "symbol": "WINR",
+  "name": "WINR",
+  "address": "0xd77b108d4f6cefaa0cae9506a934e825becca46e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29340/thumb/winr_logo.jpg?1678177562",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd77b108d4f6cefaa0cae9506a934e825becca46e"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "KRL",
+  "name": "Kryll",
+  "address": "0xf75ee6d319741057a82a88eeff1dbafab7307b69",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2807/thumb/krl.png?1547036979",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0",
+    "base": "0xdae49c25fad3a62a8e8bfb6da12c46be611f9f7a",
+    "arbitrum-one": "0xf75ee6d319741057a82a88eeff1dbafab7307b69",
+    "optimistic-ethereum": "0x2ed6222cb75e353b8789bec7bb443b7ec9022021"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GAME",
+  "name": "GAME",
+  "address": "0xc4cbd54ffa7a6a142fd73554cc6c23dd95cd8e01",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38429/thumb/_GAME_Token.png?1717497071",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xc4cbd54ffa7a6a142fd73554cc6c23dd95cd8e01"
+  }
+}

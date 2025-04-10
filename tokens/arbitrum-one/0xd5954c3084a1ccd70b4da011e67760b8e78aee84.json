@@ -1,0 +1,15 @@
+{
+  "symbol": "ARX",
+  "name": "ArbiDex Token",
+  "address": "0xd5954c3084a1ccd70b4da011e67760b8e78aee84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29506/thumb/tokenlogo.png?1679382097",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd5954c3084a1ccd70b4da011e67760b8e78aee84"
+  }
+}

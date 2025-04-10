@@ -1,0 +1,15 @@
+{
+  "symbol": "STBZ",
+  "name": "Stabilize Token",
+  "address": "0x2c110867ca90e43d372c1c2e92990b00ea32818b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12753/thumb/icon.png?1608771101",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x2c110867ca90e43d372c1c2e92990b00ea32818b"
+  }
+}

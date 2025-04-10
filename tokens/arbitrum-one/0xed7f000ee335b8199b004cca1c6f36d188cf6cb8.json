@@ -1,0 +1,15 @@
+{
+  "symbol": "D2",
+  "name": "D2",
+  "address": "0xed7f000ee335b8199b004cca1c6f36d188cf6cb8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/34914/thumb/D2_Token_Logo.png?1706610408",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xed7f000ee335b8199b004cca1c6f36d188cf6cb8"
+  }
+}

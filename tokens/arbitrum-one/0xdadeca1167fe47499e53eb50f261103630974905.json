@@ -1,0 +1,15 @@
+{
+  "symbol": "NRN",
+  "name": "Neuron",
+  "address": "0xdadeca1167fe47499e53eb50f261103630974905",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38838/thumb/NRN_-_Logo_-_Transparent.png?1719199369",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xdadeca1167fe47499e53eb50f261103630974905"
+  }
+}

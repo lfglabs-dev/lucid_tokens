@@ -1,0 +1,15 @@
+{
+  "symbol": "TUXC",
+  "name": "TUXC",
+  "address": "0x4b019aaa21e98e212d31e54c843e73ff34d25717",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/37537/thumb/tuxc.jpg?1714687219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4b019aaa21e98e212d31e54c843e73ff34d25717"
+  }
+}

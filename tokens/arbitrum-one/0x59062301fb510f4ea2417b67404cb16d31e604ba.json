@@ -1,0 +1,17 @@
+{
+  "symbol": "LOGX",
+  "name": "LogX Network",
+  "address": "0x59062301fb510f4ea2417b67404cb16d31e604ba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50226/thumb/Token_200px.png?1726556358",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x59062301fb510f4ea2417b67404cb16d31e604ba",
+    "ethereum": "0xa3f4341c3fef5963ab04135d2014ac7d68222e19",
+    "base": "0x04055057677807d2a53d2b25a80ff3b4d932ae1a"
+  }
+}

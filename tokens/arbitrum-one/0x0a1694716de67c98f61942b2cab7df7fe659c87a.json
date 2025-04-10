@@ -1,0 +1,15 @@
+{
+  "symbol": "MNLT",
+  "name": "Moonlight",
+  "address": "0x0a1694716de67c98f61942b2cab7df7fe659c87a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30687/thumb/Untitled_design_%282%29.png?1686275892",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x0a1694716de67c98f61942b2cab7df7fe659c87a"
+  }
+}

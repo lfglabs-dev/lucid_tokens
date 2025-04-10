@@ -1,0 +1,15 @@
+{
+  "symbol": "Imagine",
+  "name": "Imagine",
+  "address": "0x078540eecc8b6d89949c9c7d5e8e91eab64f6696",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36551/thumb/imaginelogo.png?1711895557",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zora-network": "0x078540eecc8b6d89949c9c7d5e8e91eab64f6696"
+  }
+}

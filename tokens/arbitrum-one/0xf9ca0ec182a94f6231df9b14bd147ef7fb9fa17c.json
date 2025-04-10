@@ -1,0 +1,15 @@
+{
+  "symbol": "BONER",
+  "name": "Boner",
+  "address": "0xf9ca0ec182a94f6231df9b14bd147ef7fb9fa17c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33968/thumb/unnamed.png?1703575844",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf9ca0ec182a94f6231df9b14bd147ef7fb9fa17c"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AIR",
+  "name": "Air Token",
+  "address": "0x284592a004d945f98de5b040808578c61a4bb39a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36113/thumb/Air_%28AIR%29_1.png?1710487829",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x284592a004d945f98de5b040808578c61a4bb39a"
+  }
+}

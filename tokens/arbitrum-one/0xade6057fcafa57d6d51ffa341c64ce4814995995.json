@@ -1,0 +1,21 @@
+{
+  "symbol": "bZPR1",
+  "name": "Backed $ ZPR1 1-3 Month T-Bill",
+  "address": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32867/thumb/b-ZPR1-200x200.png?1699671603",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
+    "xdai": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
+    "ethereum": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
+    "binance-smart-chain": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
+    "avalanche": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
+    "arbitrum-one": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
+    "base": "0xade6057fcafa57d6d51ffa341c64ce4814995995"
+  }
+}

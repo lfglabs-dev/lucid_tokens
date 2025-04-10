@@ -1,0 +1,15 @@
+{
+  "symbol": "S",
+  "name": "S",
+  "address": "0xd44257dde89ca53f1471582f718632e690e46dc2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50350/thumb/s.jpg?1727249471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xd44257dde89ca53f1471582f718632e690e46dc2"
+  }
+}

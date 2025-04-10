@@ -1,0 +1,15 @@
+{
+  "symbol": "DomDom",
+  "name": "Dominator Domain",
+  "address": "0x635d0e13f98e107cf6c5cdfbf52c19843f87e76a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29731/thumb/IMG_20230406_230429_102.jpg?1681093734",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x635d0e13f98e107cf6c5cdfbf52c19843f87e76a"
+  }
+}

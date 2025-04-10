@@ -1,0 +1,18 @@
+{
+  "symbol": "DATA",
+  "name": "'Streamr'",
+  "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17869/thumb/DATA_new_symbol_3x.png?1629692324",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
+    "xdai": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
+    "binance-smart-chain": "0x0864c156b3c5f69824564dec60c629ae6401bf2a",
+    "polygon-pos": "0x3a9a81d576d83ff21f26f325066054540720fc34"
+  }
+}

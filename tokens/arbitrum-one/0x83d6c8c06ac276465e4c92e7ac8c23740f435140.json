@@ -1,0 +1,16 @@
+{
+  "symbol": "HMX",
+  "name": "HMX",
+  "address": "0x83d6c8c06ac276465e4c92e7ac8c23740f435140",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/31206/thumb/HMXlogo_CG.png?1691381608",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x83d6c8c06ac276465e4c92e7ac8c23740f435140",
+    "ethereum": "0x83d6c8c06ac276465e4c92e7ac8c23740f435140"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "GENSX",
+  "name": "GENSX",
+  "address": "0xf29fdf6b7bdffb025d7e6dfdf344992d2d16e249",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30904/thumb/GX_short_logo.png?1688622677",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf29fdf6b7bdffb025d7e6dfdf344992d2d16e249"
+  }
+}

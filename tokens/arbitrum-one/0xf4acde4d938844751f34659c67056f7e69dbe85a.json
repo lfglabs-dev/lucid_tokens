@@ -1,0 +1,15 @@
+{
+  "symbol": "CLUTCH",
+  "name": "Clutch",
+  "address": "0xf4acde4d938844751f34659c67056f7e69dbe85a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54708/thumb/clutch.jpg?1741140872",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xf4acde4d938844751f34659c67056f7e69dbe85a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "aGnoGNO",
+  "name": "Aave Gnosis GNO",
+  "address": "0xa1fa064a85266e2ca82dee5c5ccec84df445760e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/32928/thumb/gno.png?1699826574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0xa1fa064a85266e2ca82dee5c5ccec84df445760e"
+  }
+}

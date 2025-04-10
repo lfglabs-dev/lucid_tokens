@@ -1,0 +1,16 @@
+{
+  "symbol": "MGP",
+  "name": "Magpie Token",
+  "address": "0xa61f74247455a40b01b0559ff6274441fafa22a3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27972/thumb/MagpieLogo.png?1666771448",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd06716e1ff2e492cc5034c2e81805562dd3b45fa",
+    "arbitrum-one": "0xa61f74247455a40b01b0559ff6274441fafa22a3"
+  }
+}

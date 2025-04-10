@@ -1,0 +1,18 @@
+{
+  "symbol": "BRLA",
+  "name": "BRLA Token",
+  "address": "0xfecb3f7c54e2caae9dc6ac9060a822d47e053760",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40062/thumb/IconGreen400.png?1725459580",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe6a537a407488807f0bbeb0038b79004f19dddfb",
+    "xdai": "0xfecb3f7c54e2caae9dc6ac9060a822d47e053760",
+    "celo": "0xfecb3f7c54e2caae9dc6ac9060a822d47e053760",
+    "moonbeam": "0xfeb25f3fddad13f82c4d6dbc1481516f62236429"
+  }
+}

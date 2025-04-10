@@ -1,0 +1,20 @@
+{
+  "symbol": "0xMR",
+  "name": "0xMonero on xDai",
+  "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11035/thumb/0xmnr.PNG?1587357680",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+    "xdai": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+    "aurora": "0x7ea2be2df7ba6e54b1a9c70676f668455e329d29",
+    "binance-smart-chain": "0x22a213852cee93eb6d41601133414d180c5684c2",
+    "fantom": "0xab41861399eb56896b24fbaabaa8bce45e4a626b",
+    "polygon-pos": "0x52ede6bba83b7b4ba1d738df0df713d6a2036b71"
+  }
+}

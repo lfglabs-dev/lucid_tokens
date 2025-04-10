@@ -1,0 +1,16 @@
+{
+  "symbol": "FIUSD",
+  "name": "Fidelity ILF USD Fund Class G Acc",
+  "address": "0xcded6b899edba762d793f44ed295248049440e1e",
+  "decimals": 2,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50749/thumb/FIUDS_200x200px_%281%29.png?1728956878",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "zksync": "0x2ab105a3ead22731082b790ca9a00d9a3a7627f9",
+    "arbitrum-one": "0xcded6b899edba762d793f44ed295248049440e1e"
+  }
+}

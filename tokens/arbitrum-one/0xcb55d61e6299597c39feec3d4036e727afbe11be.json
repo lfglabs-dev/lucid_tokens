@@ -1,0 +1,15 @@
+{
+  "symbol": "LUAG",
+  "name": "Lumi Finance Group",
+  "address": "0xcb55d61e6299597c39feec3d4036e727afbe11be",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/33506/thumb/LUAG.png?1702039637",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xcb55d61e6299597c39feec3d4036e727afbe11be"
+  }
+}

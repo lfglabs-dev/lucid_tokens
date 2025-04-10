@@ -1,0 +1,18 @@
+{
+  "symbol": "YUM.d",
+  "name": "Yum! Brands, Inc. - Dinari",
+  "address": "0xeb0d1360a14c3b162f2974daa5d218e0c1090146",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xeb0d1360a14c3b162f2974daa5d218e0c1090146",
+    "ethereum": "0x0af5b873df94efeba34c0b0a9fa34a8c13e078cd",
+    "blast": "0xd951722f5309479cde8ed719fe3e13596290a324",
+    "base": "0x48a0ea70c2c7d025cc95672b9ebe6ad026129b44"
+  }
+}

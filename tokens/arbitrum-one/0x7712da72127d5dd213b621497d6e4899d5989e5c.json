@@ -1,0 +1,19 @@
+{
+  "symbol": "RYZE",
+  "name": "Aryze",
+  "address": "0x7712da72127d5dd213b621497d6e4899d5989e5c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50814/thumb/Aryze_Pfp_For_Both.png?1729238552",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x44e3ae622c1570dc6e492adb8de92d01ca923d26",
+    "linea": "0x34b5c2936dae6698e54781edb8b1e69a2c2873f8",
+    "binance-smart-chain": "0x7712da72127d5dd213b621497d6e4899d5989e5c",
+    "arbitrum-one": "0x7712da72127d5dd213b621497d6e4899d5989e5c",
+    "polygon-pos": "0x44e3ae622c1570dc6e492adb8de92d01ca923d26"
+  }
+}

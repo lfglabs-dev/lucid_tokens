@@ -1,0 +1,20 @@
+{
+  "symbol": "CRV",
+  "name": "Curve DAO Token",
+  "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12124/thumb/Curve.png?1597369484",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "optimistic-ethereum": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+    "energi": "0xd3319eaf3c4743ac75aace77befcfa445ed6e69e",
+    "fantom": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+    "arbitrum-one": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+    "polygon-pos": "0x172370d5cd63279efa6d502dab29171933a610af"
+  }
+}

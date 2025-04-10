@@ -1,0 +1,15 @@
+{
+  "symbol": "RBX",
+  "name": "RB Share",
+  "address": "0x4c4b907bd5c38d14a084aac4f511a9b46f7ec429",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29660/thumb/Share_token.png?1680506526",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x4c4b907bd5c38d14a084aac4f511a9b46f7ec429"
+  }
+}

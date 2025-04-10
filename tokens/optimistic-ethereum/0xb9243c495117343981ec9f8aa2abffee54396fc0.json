@@ -1,0 +1,15 @@
+{
+  "symbol": "USDpy",
+  "name": "Perpetual Delta Neutral Yield",
+  "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "optimistic-ethereum": "0xb9243c495117343981ec9f8aa2abffee54396fc0"
+  }
+}

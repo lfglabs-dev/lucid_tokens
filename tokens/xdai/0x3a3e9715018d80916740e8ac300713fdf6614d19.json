@@ -1,0 +1,15 @@
+{
+  "symbol": "hiveWATER",
+  "name": "hiveWATER Token",
+  "address": "0x3a3e9715018d80916740e8ac300713fdf6614d19",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/30424/thumb/hivewater_transparent.png?1684397277",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "xdai": "0x3a3e9715018d80916740e8ac300713fdf6614d19"
+  }
+}

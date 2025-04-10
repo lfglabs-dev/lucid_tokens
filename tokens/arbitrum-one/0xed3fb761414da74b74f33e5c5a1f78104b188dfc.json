@@ -1,0 +1,15 @@
+{
+  "symbol": "NYAN",
+  "name": "ArbiNYAN",
+  "address": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/18309/thumb/Qmf8DSV4RbSuVRLJvmj4WwEMjwtYcCd53EFXPPjkEwzx4B.png?1631508598",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc"
+  }
+}

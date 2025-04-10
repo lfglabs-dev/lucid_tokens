@@ -1,0 +1,15 @@
+{
+  "symbol": "PSI",
+  "name": "Trident",
+  "address": "0x602eb0d99a5e3e76d1510372c4d2020e12eaea8a",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28955/thumb/trident.jpg?1675689110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x602eb0d99a5e3e76d1510372c4d2020e12eaea8a"
+  }
+}

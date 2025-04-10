@@ -1,0 +1,16 @@
+{
+  "symbol": "XDEFI",
+  "name": "XDEFI",
+  "address": "0x180f7cf38805d1be95c7632f653e26b0838e2969",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/19524/thumb/xdefi.png?1637917251",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x72b886d09c117654ab7da13a14d603001de0b777",
+    "arbitrum-one": "0x180f7cf38805d1be95c7632f653e26b0838e2969"
+  }
+}

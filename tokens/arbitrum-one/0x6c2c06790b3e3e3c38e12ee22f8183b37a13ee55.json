@@ -1,0 +1,16 @@
+{
+  "symbol": "DPX",
+  "name": "Dopex Governance Token",
+  "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16652/thumb/DPX_%281%29.png?1624598630",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+    "arbitrum-one": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55"
+  }
+}

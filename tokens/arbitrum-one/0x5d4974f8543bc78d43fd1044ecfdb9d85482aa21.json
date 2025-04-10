@@ -1,0 +1,15 @@
+{
+  "symbol": "BAMA",
+  "name": "Bitbama",
+  "address": "0x5d4974f8543bc78d43fd1044ecfdb9d85482aa21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36686/thumb/photo_2024-03-31_14-20-41.jpg?1712073912",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x5d4974f8543bc78d43fd1044ecfdb9d85482aa21"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "ADBE.d",
+  "name": "Adobe Inc. - Dinari",
+  "address": "0x289594b223ab31832726eb99871fa99adac583e5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/53861/thumb/d-token-200.png?1737614564",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x289594b223ab31832726eb99871fa99adac583e5",
+    "blast": "0x3fada70ea1251bec1e87c2ff9cd5bb72a818c350",
+    "ethereum": "0x5d7bb43885988eb8bfb9d854077e7ccfd6bf8c50",
+    "base": "0xf20c96fffbda91b07f78592c1c887ba922ce9b7f"
+  }
+}

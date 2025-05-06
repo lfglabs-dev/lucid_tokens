@@ -1,0 +1,16 @@
+{
+  "symbol": "DOLO",
+  "name": "Dolomite",
+  "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54710/thumb/dolo.jpg?1741164375",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+    "ethereum": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SAGU",
+  "name": "Sage Union",
+  "address": "0xbdad1ddd7d7284302b3b9d8c2a97c5a17c463d91",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55443/thumb/SAGU_Logo.PNG?1746030117",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xbdad1ddd7d7284302b3b9d8c2a97c5a17c463d91"
+  }
+}

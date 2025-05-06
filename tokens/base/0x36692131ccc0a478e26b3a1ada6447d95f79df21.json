@@ -1,0 +1,15 @@
+{
+  "symbol": "BABYPEPE",
+  "name": "Baby Pepe",
+  "address": "0x36692131ccc0a478e26b3a1ada6447d95f79df21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55369/thumb/200kb_200x200px.png?1745665423",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x36692131ccc0a478e26b3a1ada6447d95f79df21"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "MITO",
+  "name": "Mito",
+  "address": "0xf5655c32fa9f3c4c170de875bf7b0b68834d677b",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55417/thumb/gru4gitpssdp7opp41v2bca332nj.webp?1745912746",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf5655c32fa9f3c4c170de875bf7b0b68834d677b"
+  }
+}

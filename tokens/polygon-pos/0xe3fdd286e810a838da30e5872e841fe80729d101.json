@@ -1,0 +1,15 @@
+{
+  "symbol": "RENEW",
+  "name": "ReNew",
+  "address": "0xe3fdd286e810a838da30e5872e841fe80729d101",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55304/thumb/Logo_200_200.png?1745309291",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xe3fdd286e810a838da30e5872e841fe80729d101"
+  }
+}

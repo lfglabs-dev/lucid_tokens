@@ -1,0 +1,19 @@
+{
+  "symbol": "HYPER",
+  "name": "Hyperlane",
+  "address": "0x9923db8d7fbacc2e69e87fad19b886c81cd74979",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
+    "ethereum": "0x93a2db22b7c736b341c32ff666307f4a9ed910f5",
+    "binance-smart-chain": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
+    "base": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
+    "optimistic-ethereum": "0x9923db8d7fbacc2e69e87fad19b886c81cd74979"
+  }
+}

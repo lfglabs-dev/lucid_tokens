@@ -1,0 +1,15 @@
+{
+  "symbol": "OXAI",
+  "name": "Oxai",
+  "address": "0x9ea01819f6fbd41cb004216680e73096eed56cbf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55343/thumb/OXAI_Token_Logo_200x200.png?1745511956",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9ea01819f6fbd41cb004216680e73096eed56cbf"
+  }
+}

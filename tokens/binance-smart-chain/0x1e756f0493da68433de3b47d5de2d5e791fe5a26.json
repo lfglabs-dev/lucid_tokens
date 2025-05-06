@@ -1,0 +1,15 @@
+{
+  "symbol": "BOBO",
+  "name": "BOBO",
+  "address": "0x1e756f0493da68433de3b47d5de2d5e791fe5a26",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55454/thumb/bobo.jpg?1746090568",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x1e756f0493da68433de3b47d5de2d5e791fe5a26"
+  }
+}

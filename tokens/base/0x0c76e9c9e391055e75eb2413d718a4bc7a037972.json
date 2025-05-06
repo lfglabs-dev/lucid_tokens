@@ -1,0 +1,16 @@
+{
+  "symbol": "FUELX",
+  "name": "Fuel",
+  "address": "0x0c76e9c9e391055e75eb2413d718a4bc7a037972",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/27191/thumb/devour.jpg?1662465353",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xcc54ac31164b5b3c39db4eef26d89275c468ec9d",
+    "base": "0x0c76e9c9e391055e75eb2413d718a4bc7a037972"
+  }
+}

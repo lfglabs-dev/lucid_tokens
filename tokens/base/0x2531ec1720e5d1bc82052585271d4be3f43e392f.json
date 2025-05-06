@@ -1,0 +1,15 @@
+{
+  "symbol": "BOBR",
+  "name": "Based BOBR",
+  "address": "0x2531ec1720e5d1bc82052585271d4be3f43e392f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55479/thumb/bobr-logo-transparent.png?1746258383",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x2531ec1720e5d1bc82052585271d4be3f43e392f"
+  }
+}

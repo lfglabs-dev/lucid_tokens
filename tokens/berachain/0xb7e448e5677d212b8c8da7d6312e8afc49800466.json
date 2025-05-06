@@ -1,0 +1,15 @@
+{
+  "symbol": "LOCKS",
+  "name": "Locks",
+  "address": "0xb7e448e5677d212b8c8da7d6312e8afc49800466",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55422/thumb/Goldilocks_logo_no_text.png?1745919245",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xb7e448e5677d212b8c8da7d6312e8afc49800466"
+  }
+}

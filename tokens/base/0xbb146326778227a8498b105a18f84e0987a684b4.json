@@ -1,0 +1,16 @@
+{
+  "symbol": "ASK",
+  "name": "Permission Token",
+  "address": "0xbb146326778227a8498b105a18f84e0987a684b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12521/thumb/rjQjTU3c_400x400.jpg?1600383907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xaa3717090cddc9b227e49d0d84a28ac0a996e6ff",
+    "base": "0xbb146326778227a8498b105a18f84e0987a684b4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SPROUT",
+  "name": "Code Sprout",
+  "address": "0xa5facea9066644731e4fcfbf7532207ee41c4444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55322/thumb/RyyyTy7A_400x400.jpg?1745401591",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa5facea9066644731e4fcfbf7532207ee41c4444"
+  }
+}

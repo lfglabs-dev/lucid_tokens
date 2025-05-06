@@ -1,0 +1,15 @@
+{
+  "symbol": "NILA",
+  "name": "NILAM Resources- MindWave",
+  "address": "0x00f8da33734feb9b946fec2228c25072d2e2e41f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55467/thumb/NILA.png?1746206480",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x00f8da33734feb9b946fec2228c25072d2e2e41f"
+  }
+}

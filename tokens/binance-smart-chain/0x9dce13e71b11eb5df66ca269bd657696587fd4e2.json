@@ -1,0 +1,15 @@
+{
+  "symbol": "ALE",
+  "name": "Ailey",
+  "address": "0x9dce13e71b11eb5df66ca269bd657696587fd4e2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38661/thumb/ale.png?1718253470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9dce13e71b11eb5df66ca269bd657696587fd4e2"
+  }
+}

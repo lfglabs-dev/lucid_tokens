@@ -1,0 +1,15 @@
+{
+  "symbol": "KULA",
+  "name": "Kula",
+  "address": "0x99f2bdf00acd067c65a79a0b6a3914c555196ea4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54208/thumb/Kula_Logo_PrimaryBoxed_black.png?1738764587",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x99f2bdf00acd067c65a79a0b6a3914c555196ea4"
+  }
+}

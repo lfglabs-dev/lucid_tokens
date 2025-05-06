@@ -1,0 +1,16 @@
+{
+  "symbol": "PROMPT",
+  "name": "Prompt",
+  "address": "0x28d38df637db75533bd3f71426f3410a82041544",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55169/thumb/wayfinder.jpg?1744336900",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x28d38df637db75533bd3f71426f3410a82041544",
+    "base": "0x30c7235866872213f68cb1f08c37cb9eccb93452"
+  }
+}

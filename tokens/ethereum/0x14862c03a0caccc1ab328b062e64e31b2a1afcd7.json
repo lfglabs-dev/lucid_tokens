@@ -1,0 +1,16 @@
+{
+  "symbol": "SEDA",
+  "name": "SEDA",
+  "address": "0x14862c03a0caccc1ab328b062e64e31b2a1afcd7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36689/thumb/SEDA_Logo.png?1712087674",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x14862c03a0caccc1ab328b062e64e31b2a1afcd7",
+    "base": "0x306acd0c07c430abbbb2e74ef7bde94f32a898c0"
+  }
+}

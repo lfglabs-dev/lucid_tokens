@@ -1,0 +1,15 @@
+{
+  "symbol": "TAOLOR",
+  "name": "Michael Taolor ⚡️ (τ , τ)",
+  "address": "0x80f4d22aa2437fa0dd4634b505ac3668835d9b84",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55502/thumb/MichaelTaolorPFP_200x200.png?1746427569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x80f4d22aa2437fa0dd4634b505ac3668835d9b84"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "AAA",
+  "name": "Arcadia",
+  "address": "0xaaa843fb2916c0b57454270418e121c626402aaa",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55185/thumb/AAA_Icon_V4_200x200.png?1744439759",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xaaa843fb2916c0b57454270418e121c626402aaa"
+  }
+}

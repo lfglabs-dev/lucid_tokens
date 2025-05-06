@@ -1,0 +1,15 @@
+{
+  "symbol": "STABUL",
+  "name": "Stabull Finance",
+  "address": "0x6a43795941113c2f58eb487001f4f8ee74b6938a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55300/thumb/stabull-icon_1_.png?1745280165",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6a43795941113c2f58eb487001f4f8ee74b6938a"
+  }
+}

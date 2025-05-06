@@ -1,0 +1,15 @@
+{
+  "symbol": "ICNT",
+  "name": "Impossible Cloud Network Token",
+  "address": "0xe5e0b73380181273abcfd88695f52c4d0c825661",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55484/thumb/Logo_-_Square_-_Transperent.png?1746260195",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe5e0b73380181273abcfd88695f52c4d0c825661"
+  }
+}

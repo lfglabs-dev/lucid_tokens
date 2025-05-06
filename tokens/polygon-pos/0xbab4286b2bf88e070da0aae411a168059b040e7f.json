@@ -1,0 +1,15 @@
+{
+  "symbol": "FSTR",
+  "name": "Star",
+  "address": "0xbab4286b2bf88e070da0aae411a168059b040e7f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55246/thumb/fstr.jpeg?1744959128",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xbab4286b2bf88e070da0aae411a168059b040e7f"
+  }
+}

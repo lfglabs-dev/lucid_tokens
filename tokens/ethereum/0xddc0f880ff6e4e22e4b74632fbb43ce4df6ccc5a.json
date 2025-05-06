@@ -1,0 +1,15 @@
+{
+  "symbol": "reUSDe",
+  "name": "Re Protocol reUSDe",
+  "address": "0xddc0f880ff6e4e22e4b74632fbb43ce4df6ccc5a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55173/thumb/Logo-purple.png?1744354975",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xddc0f880ff6e4e22e4b74632fbb43ce4df6ccc5a"
+  }
+}

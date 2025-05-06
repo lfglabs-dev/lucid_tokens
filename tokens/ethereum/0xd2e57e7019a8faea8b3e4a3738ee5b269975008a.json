@@ -1,0 +1,16 @@
+{
+  "symbol": "THAT",
+  "name": "THAT",
+  "address": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50896/thumb/that-icon-cgx2.png?1729507036",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a",
+    "ethereum": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a"
+  }
+}

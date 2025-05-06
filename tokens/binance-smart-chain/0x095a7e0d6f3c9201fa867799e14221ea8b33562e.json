@@ -1,0 +1,15 @@
+{
+  "symbol": "TOAD",
+  "name": "TOAD",
+  "address": "0x095a7e0d6f3c9201fa867799e14221ea8b33562e",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55288/thumb/photo_2025-04-15_21.18.25.png?1745217343",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x095a7e0d6f3c9201fa867799e14221ea8b33562e"
+  }
+}

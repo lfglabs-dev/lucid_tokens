@@ -1,0 +1,15 @@
+{
+  "symbol": "DONKEY",
+  "name": "donkey",
+  "address": "0xa49fa5e8106e2d6d6a69e78df9b6a20aab9c4444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55523/thumb/donkey.png?1746495241",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xa49fa5e8106e2d6d6a69e78df9b6a20aab9c4444"
+  }
+}

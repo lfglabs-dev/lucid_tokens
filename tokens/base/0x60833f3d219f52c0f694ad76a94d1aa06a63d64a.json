@@ -1,0 +1,16 @@
+{
+  "symbol": "FOMO",
+  "name": "FOMOFox",
+  "address": "0x60833f3d219f52c0f694ad76a94d1aa06a63d64a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52122/thumb/FOMOFox_200x200.png?1732606586",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "iota-evm": "0x30a1398cf11cb9e852e5d80ace7ffd5ec271169e",
+    "base": "0x60833f3d219f52c0f694ad76a94d1aa06a63d64a"
+  }
+}

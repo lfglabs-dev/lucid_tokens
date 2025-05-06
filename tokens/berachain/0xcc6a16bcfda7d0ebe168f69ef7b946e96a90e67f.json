@@ -1,0 +1,15 @@
+{
+  "symbol": "AIBERA",
+  "name": "HoneyFun AI",
+  "address": "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55198/thumb/HoneyFunAI-LogoRebrand-200px.png?1744617530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "berachain": "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f"
+  }
+}

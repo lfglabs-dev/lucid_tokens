@@ -1,0 +1,15 @@
+{
+  "symbol": "TBT",
+  "name": "TrendBet",
+  "address": "0x6b747b8ccd1d46226edace142838687e41484444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55400/thumb/200.png?1745826376",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6b747b8ccd1d46226edace142838687e41484444"
+  }
+}

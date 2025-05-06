@@ -1,0 +1,16 @@
+{
+  "symbol": "SANCHO",
+  "name": "SANCHO",
+  "address": "0x4552fa6b0d21b1b135ffa2a573a568d58300b5a9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54962/thumb/Sancho_avatar.webp?1742893865",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "units-network": "0x7900c01eed60868beea1de79730ca5633a4b6a45",
+    "base": "0x4552fa6b0d21b1b135ffa2a573a568d58300b5a9"
+  }
+}

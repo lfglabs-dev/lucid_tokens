@@ -1,0 +1,16 @@
+{
+  "symbol": "KIP",
+  "name": "KIP Protocol",
+  "address": "0xf63b14f5ee5574e3f337b2796bbdf6dcfb4e2cb7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/52585/thumb/kip-token-logo.jpg?1733716852",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x946fb08103b400d1c79e07acccdef5cfd26cd374",
+    "arbitrum-one": "0xf63b14f5ee5574e3f337b2796bbdf6dcfb4e2cb7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BOOP",
+  "name": "BOOP",
+  "address": "0x9a70815dfb644a24b57358e1041f8d0324c8f6e1",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "missing_thumb.png",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9a70815dfb644a24b57358e1041f8d0324c8f6e1"
+  }
+}

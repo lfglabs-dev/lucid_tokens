@@ -1,0 +1,15 @@
+{
+  "symbol": "BANK",
+  "name": "Lorenzo Governance Token",
+  "address": "0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55250/thumb/lorenzo.jpg?1744963693",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf"
+  }
+}

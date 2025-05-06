@@ -1,0 +1,15 @@
+{
+  "symbol": "WPLAY",
+  "name": "WarpBeam",
+  "address": "0x39c5c62a0b098de643f20a6514ca5ef012fc4a94",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55249/thumb/wplay_coingecko_200.png?1744963046",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x39c5c62a0b098de643f20a6514ca5ef012fc4a94"
+  }
+}

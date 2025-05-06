@@ -1,0 +1,16 @@
+{
+  "symbol": "imgnAI",
+  "name": "Imagine AI",
+  "address": "0x18e692c03de43972fe81058f322fa542ae1a5e2c",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28666/thumb/200x200-Nai.png?1672990319",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa735a3af76cc30791c61c10d585833829d36cbe0",
+    "base": "0x18e692c03de43972fe81058f322fa542ae1a5e2c"
+  }
+}

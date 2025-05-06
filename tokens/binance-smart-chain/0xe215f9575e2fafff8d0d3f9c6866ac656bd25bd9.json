@@ -1,0 +1,15 @@
+{
+  "symbol": "ducky",
+  "name": "ducky",
+  "address": "0xe215f9575e2fafff8d0d3f9c6866ac656bd25bd9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55362/thumb/Logo_transparent_bg_200x200.png?1745651273",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe215f9575e2fafff8d0d3f9c6866ac656bd25bd9"
+  }
+}

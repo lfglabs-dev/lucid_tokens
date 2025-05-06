@@ -1,0 +1,16 @@
+{
+  "symbol": "CTM",
+  "name": "c8ntinuum",
+  "address": "0xc8ef4398664b2eed5ee560544f659083d98a3888",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55253/thumb/CTM_BL-2.jpg?1744964714",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc8ef4398664b2eed5ee560544f659083d98a3888",
+    "binance-smart-chain": "0xc8ef4398664b2eed5ee560544f659083d98a3888"
+  }
+}

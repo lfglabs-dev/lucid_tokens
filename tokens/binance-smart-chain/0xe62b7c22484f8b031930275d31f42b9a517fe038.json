@@ -1,0 +1,18 @@
+{
+  "symbol": "Sidus",
+  "name": "Sidus",
+  "address": "0xe62b7c22484f8b031930275d31f42b9a517fe038",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/21401/thumb/SIDUS_coin_logo.png?1639405031",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102",
+    "linea": "0xd96536b77ae5500fe850add2253bcf640e7824c1",
+    "base": "0x34be5b8c30ee4fde069dc878989686abe9884470",
+    "binance-smart-chain": "0xe62b7c22484f8b031930275d31f42b9a517fe038"
+  }
+}

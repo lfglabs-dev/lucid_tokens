@@ -1,0 +1,15 @@
+{
+  "symbol": "MLK",
+  "name": "MiL.k",
+  "address": "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11978/thumb/2.png?1617602076",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c"
+  }
+}

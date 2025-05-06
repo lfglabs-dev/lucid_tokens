@@ -1,0 +1,15 @@
+{
+  "symbol": "RUN",
+  "name": "TapDaDoge",
+  "address": "0x8f85f63b76d2c40c7cf3dac19637730d00d37966",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55457/thumb/TapDaDoge.png?1746123665",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8f85f63b76d2c40c7cf3dac19637730d00d37966"
+  }
+}

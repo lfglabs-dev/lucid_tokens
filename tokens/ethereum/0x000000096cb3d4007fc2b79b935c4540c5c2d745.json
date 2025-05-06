@@ -1,0 +1,15 @@
+{
+  "symbol": "jUSD",
+  "name": "Jigsaw USD",
+  "address": "0x000000096cb3d4007fc2b79b935c4540c5c2d745",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55405/thumb/Group_48095621.png?1745834144",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x000000096cb3d4007fc2b79b935c4540c5c2d745"
+  }
+}

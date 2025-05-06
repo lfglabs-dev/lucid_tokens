@@ -1,0 +1,15 @@
+{
+  "symbol": "MODULE",
+  "name": "Module",
+  "address": "0xb01b6a7ef8560017aa59a990e39f26b8df29f80f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55487/thumb/newp.png?1746262597",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xb01b6a7ef8560017aa59a990e39f26b8df29f80f"
+  }
+}

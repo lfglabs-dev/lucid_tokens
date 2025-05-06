@@ -1,0 +1,16 @@
+{
+  "symbol": "nCREDIT",
+  "name": "Nest Credit Vault",
+  "address": "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55516/thumb/nCREDIT-token.png?1746438983",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "plume-network": "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c",
+    "ethereum": "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c"
+  }
+}

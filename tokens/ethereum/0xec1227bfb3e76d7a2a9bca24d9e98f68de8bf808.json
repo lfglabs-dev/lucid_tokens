@@ -1,0 +1,15 @@
+{
+  "symbol": "MPRA",
+  "name": "Maya Preferred PRA",
+  "address": "0xec1227bfb3e76d7a2a9bca24d9e98f68de8bf808",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8081/thumb/2u0OXhT9_400x400.png?1554426529",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xec1227bfb3e76d7a2a9bca24d9e98f68de8bf808"
+  }
+}

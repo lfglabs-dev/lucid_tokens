@@ -1,0 +1,15 @@
+{
+  "symbol": "ECOVITA",
+  "name": "ECOVITA",
+  "address": "0xe7c71f13d112108cb08de32939baa4d36a4f10ab",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55287/thumb/ecovitaIcon.png?1745217226",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe7c71f13d112108cb08de32939baa4d36a4f10ab"
+  }
+}

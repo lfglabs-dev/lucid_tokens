@@ -1,0 +1,19 @@
+{
+  "symbol": "PRFI",
+  "name": "PRFI",
+  "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+    "arbitrum-one": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+    "hyperevm": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+    "ethereum": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+    "xdc-network": "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd"
+  }
+}

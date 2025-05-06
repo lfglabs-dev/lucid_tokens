@@ -1,0 +1,15 @@
+{
+  "symbol": "SHOW",
+  "name": "VitaNova by Virtuals",
+  "address": "0x096746e984e57ae9a2922a08fc969bbe76963a72",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55480/thumb/2yA3dpOv_400x400.jpg?1746259110",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x096746e984e57ae9a2922a08fc969bbe76963a72"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ILMT",
+  "name": "Iluminary Token",
+  "address": "0x98a0a245ef9a96cf28f1ebf1a3b3bc562ed8d783",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55413/thumb/logo_200x200.png?1745861607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x98a0a245ef9a96cf28f1ebf1a3b3bc562ed8d783"
+  }
+}

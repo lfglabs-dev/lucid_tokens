@@ -1,0 +1,15 @@
+{
+  "symbol": "UPY",
+  "name": "Upstarty",
+  "address": "0xb849c4d843769d42812fb600b1bcc8a6ba843466",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55204/thumb/icon_white_alternative.png?1744680850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb849c4d843769d42812fb600b1bcc8a6ba843466"
+  }
+}

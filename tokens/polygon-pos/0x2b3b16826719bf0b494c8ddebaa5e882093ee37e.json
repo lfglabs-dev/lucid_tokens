@@ -1,0 +1,15 @@
+{
+  "symbol": "FIBO",
+  "name": "FIBO",
+  "address": "0x2b3b16826719bf0b494c8ddebaa5e882093ee37e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/17306/thumb/200x200px.png?1627270245",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x2b3b16826719bf0b494c8ddebaa5e882093ee37e"
+  }
+}

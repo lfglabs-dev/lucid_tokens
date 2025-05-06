@@ -1,0 +1,15 @@
+{
+  "symbol": "CPEN",
+  "name": "cPen",
+  "address": "0x41df31ff0a7c35eb9b12752f2a5c87c3a9c109f8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55176/thumb/cpen-logo.jpg?1744359951",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x41df31ff0a7c35eb9b12752f2a5c87c3a9c109f8"
+  }
+}

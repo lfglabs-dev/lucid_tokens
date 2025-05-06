@@ -1,0 +1,17 @@
+{
+  "symbol": "OWCT",
+  "name": "One World Chain",
+  "address": "0x4cbfa7b21a8373fda8e4fed343189329f50cfdb8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/38585/thumb/1000123546.png?1718088756",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xbc68ff3b062bc588603d71ec8d4273391edf152c",
+    "binance-smart-chain": "0x4cbfa7b21a8373fda8e4fed343189329f50cfdb8",
+    "base": "0x8c7568cc28ddac01ab6779daa4f6be66b1201dd0"
+  }
+}

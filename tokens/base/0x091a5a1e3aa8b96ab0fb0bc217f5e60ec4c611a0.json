@@ -1,0 +1,15 @@
+{
+  "symbol": "LevETH",
+  "name": "Leverage ETH",
+  "address": "0x091a5a1e3aa8b96ab0fb0bc217f5e60ec4c611a0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55436/thumb/levETH.png?1746012754",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x091a5a1e3aa8b96ab0fb0bc217f5e60ec4c611a0"
+  }
+}

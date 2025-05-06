@@ -1,0 +1,15 @@
+{
+  "symbol": "yoBTC",
+  "name": "yoVaultBTC",
+  "address": "0xbcbc8cb4d1e8ed048a6276a5e94a3e952660bcbc",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55189/thumb/yoBTC.png?1744443242",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xbcbc8cb4d1e8ed048a6276a5e94a3e952660bcbc"
+  }
+}

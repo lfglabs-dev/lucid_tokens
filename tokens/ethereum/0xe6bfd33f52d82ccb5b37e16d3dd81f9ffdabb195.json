@@ -1,0 +1,15 @@
+{
+  "symbol": "SXT",
+  "name": "Space and Time",
+  "address": "0xe6bfd33f52d82ccb5b37e16d3dd81f9ffdabb195",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55424/thumb/sxt-token_circle.jpg?1745935919",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xe6bfd33f52d82ccb5b37e16d3dd81f9ffdabb195"
+  }
+}

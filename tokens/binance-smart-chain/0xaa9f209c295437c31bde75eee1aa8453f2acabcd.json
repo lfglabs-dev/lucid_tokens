@@ -1,0 +1,15 @@
+{
+  "symbol": "AID",
+  "name": "AID",
+  "address": "0xaa9f209c295437c31bde75eee1aa8453f2acabcd",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55476/thumb/IMG_0828.jpeg?1746256244",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaa9f209c295437c31bde75eee1aa8453f2acabcd"
+  }
+}

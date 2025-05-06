@@ -1,0 +1,16 @@
+{
+  "symbol": "BTR",
+  "name": "BTR token",
+  "address": "0x6c76de483f1752ac8473e2b4983a873991e70da7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "bitlayer": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+    "ethereum": "0x6c76de483f1752ac8473e2b4983a873991e70da7"
+  }
+}

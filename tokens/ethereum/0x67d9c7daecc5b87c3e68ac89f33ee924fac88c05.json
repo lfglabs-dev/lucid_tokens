@@ -1,0 +1,15 @@
+{
+  "symbol": "MOOCOW",
+  "name": "Moo Cow",
+  "address": "0x67d9c7daecc5b87c3e68ac89f33ee924fac88c05",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55394/thumb/1000004222.jpg?1745745026",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x67d9c7daecc5b87c3e68ac89f33ee924fac88c05"
+  }
+}

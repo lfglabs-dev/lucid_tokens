@@ -1,0 +1,15 @@
+{
+  "symbol": "TRADY",
+  "name": "TRADY",
+  "address": "0x1f95a616944d35824334fd1db25e55eb9c93f5e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55482/thumb/DALL%C2%B7E_2024-11-21_23.37.38_-_A_flat_design_illustration_of_an_otter's_face_with_a_friendly_and_cheerful_expression._The_design_is_minimalist_and_uses_a_soft_pastel_color_palette___%281%29.jpg?1746259540",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x1f95a616944d35824334fd1db25e55eb9c93f5e7"
+  }
+}

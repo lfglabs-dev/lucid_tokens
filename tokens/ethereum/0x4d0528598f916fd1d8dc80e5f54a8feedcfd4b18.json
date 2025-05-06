@@ -1,0 +1,15 @@
+{
+  "symbol": "ATOS",
+  "name": "Atoshi",
+  "address": "0x4d0528598f916fd1d8dc80e5f54a8feedcfd4b18",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55359/thumb/ATOS.png?1745609448",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x4d0528598f916fd1d8dc80e5f54a8feedcfd4b18"
+  }
+}

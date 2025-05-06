@@ -1,0 +1,15 @@
+{
+  "symbol": "PDG",
+  "name": "Prodigi Connect",
+  "address": "0x16b034029b149315fe93b98a04f43da275c47f78",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55339/thumb/pdg-logo.jpg?1745490718",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x16b034029b149315fe93b98a04f43da275c47f78"
+  }
+}

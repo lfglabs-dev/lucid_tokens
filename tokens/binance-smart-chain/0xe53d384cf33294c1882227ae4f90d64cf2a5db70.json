@@ -1,0 +1,15 @@
+{
+  "symbol": "Ocicat",
+  "name": "Ocicat",
+  "address": "0xe53d384cf33294c1882227ae4f90d64cf2a5db70",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36556/thumb/OCICAT.jpg?1711899902",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe53d384cf33294c1882227ae4f90d64cf2a5db70"
+  }
+}

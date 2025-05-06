@@ -1,0 +1,15 @@
+{
+  "symbol": "CYBERWISH",
+  "name": "CyberWishing",
+  "address": "0x36fdebeb2bb7538d5559f1d2968307e86eb04444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55207/thumb/cyberwish.png?1744704871",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x36fdebeb2bb7538d5559f1d2968307e86eb04444"
+  }
+}

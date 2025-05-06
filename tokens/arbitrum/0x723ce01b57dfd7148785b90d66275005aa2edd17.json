@@ -1,0 +1,15 @@
+{
+  "symbol": "LZM",
+  "name": "LoungeM",
+  "address": "0x723ce01b57dfd7148785b90d66275005aa2edd17",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29068/thumb/_LoungeM_Logo.png?1676367046",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0x723ce01b57dfd7148785b90d66275005aa2edd17"
+  }
+}

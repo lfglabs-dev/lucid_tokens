@@ -1,0 +1,15 @@
+{
+  "symbol": "AMAL",
+  "name": "AMALAS",
+  "address": "0x7d31ee7b21a8ee7d5bc04eb83178a18d6d606aea",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55235/thumb/B20BF710-690F-40CC-B8C4-2D1A0FDF36A6.PNG?1744873905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7d31ee7b21a8ee7d5bc04eb83178a18d6d606aea"
+  }
+}

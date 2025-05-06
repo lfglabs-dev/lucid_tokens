@@ -1,0 +1,15 @@
+{
+  "symbol": "BOI",
+  "name": "Boi the Bear",
+  "address": "0xacc95afa65768aa74044e6f6e267ad6417cd3e55",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55397/thumb/Boi_the_Bear.jpg?1745825057",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0xacc95afa65768aa74044e6f6e267ad6417cd3e55"
+  }
+}

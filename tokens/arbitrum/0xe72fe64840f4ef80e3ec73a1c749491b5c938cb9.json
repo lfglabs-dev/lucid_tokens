@@ -1,0 +1,17 @@
+{
+  "symbol": "nTBILL",
+  "name": "Nest Treasuries Vault",
+  "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "plume-network": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+    "ethereum": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+    "arbitrum-one": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9"
+  }
+}

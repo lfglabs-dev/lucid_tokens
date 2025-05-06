@@ -1,0 +1,15 @@
+{
+  "symbol": "GXC",
+  "name": "Gamex Coin",
+  "address": "0x75c551ade6762b5ad4ebd50dca4238c9de4d357d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55361/thumb/WechatIMG5703.jpg?1745610104",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x75c551ade6762b5ad4ebd50dca4238c9de4d357d"
+  }
+}

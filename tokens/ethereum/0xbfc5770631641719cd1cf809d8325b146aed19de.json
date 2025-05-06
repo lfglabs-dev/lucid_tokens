@@ -1,0 +1,16 @@
+{
+  "symbol": "nINSTO",
+  "name": "Nest Institutional Vault",
+  "address": "0xbfc5770631641719cd1cf809d8325b146aed19de",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55517/thumb/nINSTO-token.png?1746439028",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "plume-network": "0xbfc5770631641719cd1cf809d8325b146aed19de",
+    "ethereum": "0xbfc5770631641719cd1cf809d8325b146aed19de"
+  }
+}

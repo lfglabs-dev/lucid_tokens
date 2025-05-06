@@ -1,0 +1,16 @@
+{
+  "symbol": "ZED",
+  "name": "ZED Token",
+  "address": "0xa7921e4c3dc8e38069061a07c08fc0d2a35b9e6f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/26607/thumb/zed-run.jpeg?1659010387",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "polygon-pos": "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc",
+    "base": "0xa7921e4c3dc8e38069061a07c08fc0d2a35b9e6f"
+  }
+}

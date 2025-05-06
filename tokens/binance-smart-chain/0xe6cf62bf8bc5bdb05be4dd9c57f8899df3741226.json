@@ -1,0 +1,15 @@
+{
+  "symbol": "GBB",
+  "name": "Game Bee",
+  "address": "0xe6cf62bf8bc5bdb05be4dd9c57f8899df3741226",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55166/thumb/IMG_0399.jpeg?1744308437",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe6cf62bf8bc5bdb05be4dd9c57f8899df3741226"
+  }
+}

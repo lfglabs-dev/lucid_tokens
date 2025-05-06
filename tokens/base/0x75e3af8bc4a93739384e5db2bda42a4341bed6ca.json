@@ -1,0 +1,15 @@
+{
+  "symbol": "CP",
+  "name": "CointPoit",
+  "address": "0x75e3af8bc4a93739384e5db2bda42a4341bed6ca",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55289/thumb/Screenshot_20250420_134552.jpg?1745217569",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x75e3af8bc4a93739384e5db2bda42a4341bed6ca"
+  }
+}

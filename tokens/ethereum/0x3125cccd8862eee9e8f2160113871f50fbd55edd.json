@@ -1,0 +1,15 @@
+{
+  "symbol": "Kobushi",
+  "name": "Pygmy Hippo",
+  "address": "0x3125cccd8862eee9e8f2160113871f50fbd55edd",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55499/thumb/LOGO.png?1746361625",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x3125cccd8862eee9e8f2160113871f50fbd55edd"
+  }
+}

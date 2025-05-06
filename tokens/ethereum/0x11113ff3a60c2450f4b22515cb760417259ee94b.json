@@ -1,0 +1,16 @@
+{
+  "symbol": "nBASIS",
+  "name": "Nest Basis",
+  "address": "0x11113ff3a60c2450f4b22515cb760417259ee94b",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55514/thumb/nBASIS-token.png?1746438043",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "plume-network": "0x11113ff3a60c2450f4b22515cb760417259ee94b",
+    "ethereum": "0x11113ff3a60c2450f4b22515cb760417259ee94b"
+  }
+}

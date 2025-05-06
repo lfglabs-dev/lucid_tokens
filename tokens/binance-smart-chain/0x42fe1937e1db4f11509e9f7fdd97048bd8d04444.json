@@ -1,0 +1,15 @@
+{
+  "symbol": "DON",
+  "name": "Salamanca",
+  "address": "0x42fe1937e1db4f11509e9f7fdd97048bd8d04444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55371/thumb/20250424_173654.jpg?1745665891",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x42fe1937e1db4f11509e9f7fdd97048bd8d04444"
+  }
+}

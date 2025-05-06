@@ -1,0 +1,15 @@
+{
+  "symbol": "KARTEL",
+  "name": "KARTEL",
+  "address": "0xc680eca227fc9ab21a9210e0eafeff9068a89327",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55415/thumb/kartellogo.jpeg?1745898909",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xc680eca227fc9ab21a9210e0eafeff9068a89327"
+  }
+}

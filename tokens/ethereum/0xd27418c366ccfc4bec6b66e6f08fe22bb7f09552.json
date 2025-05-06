@@ -1,0 +1,15 @@
+{
+  "symbol": "VERX",
+  "name": "VeroX",
+  "address": "0xd27418c366ccfc4bec6b66e6f08fe22bb7f09552",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55264/thumb/VeroX-Icon-2.png?1745050759",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd27418c366ccfc4bec6b66e6f08fe22bb7f09552"
+  }
+}

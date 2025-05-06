@@ -1,0 +1,16 @@
+{
+  "symbol": "GRIX",
+  "name": "Grix",
+  "address": "0xa150376112dd24e873086b51347eddd5f2e147d5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55060/thumb/grix_logo_black-background.png?1743524648",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xa150376112dd24e873086b51347eddd5f2e147d5",
+    "arbitrum-one": "0x812f2d5ff6088ed7a655567dbcdf0d42cf07ca38"
+  }
+}

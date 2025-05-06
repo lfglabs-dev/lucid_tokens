@@ -1,0 +1,15 @@
+{
+  "symbol": "KITNET",
+  "name": "Kitnet Token",
+  "address": "0x19be6f3f83d079d640720bda3b638a00a3b7ee20",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55183/thumb/0x19be6f3f83d079d640720bda3b638a00a3b7ee20.jpg?1744439231",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x19be6f3f83d079d640720bda3b638a00a3b7ee20"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BOTDOG",
+  "name": "Based Hotdogs",
+  "address": "0x37d6080ca82e42db3cf94a6fd07416cdd419a4a4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55456/thumb/mining_dog.jpg?1746123454",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x37d6080ca82e42db3cf94a6fd07416cdd419a4a4"
+  }
+}

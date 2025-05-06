@@ -1,0 +1,15 @@
+{
+  "symbol": "A0T",
+  "name": "Agent Zero Token",
+  "address": "0xcc4adb618253ed0d4d8a188fb901d70c54735e03",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55202/thumb/favicon_round_200x200.png?1744622693",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xcc4adb618253ed0d4d8a188fb901d70c54735e03"
+  }
+}

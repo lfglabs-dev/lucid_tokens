@@ -1,0 +1,15 @@
+{
+  "symbol": "nDEPS",
+  "name": "Native Decentralized Euro Protocol Share",
+  "address": "0xc71104001a3ccda1bef1177d765831bd1bfe8ee6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55366/thumb/DEPS-CoinLogo_256px.png?1745664471",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xc71104001a3ccda1bef1177d765831bd1bfe8ee6"
+  }
+}

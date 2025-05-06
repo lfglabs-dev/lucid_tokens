@@ -1,0 +1,15 @@
+{
+  "symbol": "INF",
+  "name": "Infinaeon",
+  "address": "0xd85a68faa78b4431dce816c157b66fc9911b3612",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55333/thumb/Infinaeon.jpg?1745478767",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd85a68faa78b4431dce816c157b66fc9911b3612"
+  }
+}

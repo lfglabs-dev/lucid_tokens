@@ -1,0 +1,16 @@
+{
+  "symbol": "DSTRX",
+  "name": "Districts Token",
+  "address": "0xb841f365d5221bed66d60e69094418d8c2aa5a44",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55327/thumb/districts_%282%29.jpg?1745430528",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xb841f365d5221bed66d60e69094418d8c2aa5a44",
+    "ethereum": "0xb841f365d5221bed66d60e69094418d8c2aa5a44"
+  }
+}

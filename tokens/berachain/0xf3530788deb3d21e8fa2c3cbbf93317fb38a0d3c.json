@@ -1,0 +1,16 @@
+{
+  "symbol": "LAIR",
+  "name": "Lair",
+  "address": "0xf3530788deb3d21e8fa2c3cbbf93317fb38a0d3c",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55181/thumb/lair_4.png?1744389393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "klay-token": "0xd70c7d511560493c79df607076fb863f5c8a50b0",
+    "berachain": "0xf3530788deb3d21e8fa2c3cbbf93317fb38a0d3c"
+  }
+}

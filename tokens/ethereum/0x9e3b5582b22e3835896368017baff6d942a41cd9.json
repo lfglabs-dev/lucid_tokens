@@ -1,0 +1,15 @@
+{
+  "symbol": "H1",
+  "name": "Haven1",
+  "address": "0x9e3b5582b22e3835896368017baff6d942a41cd9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28771/thumb/haven1-colored-symbol_2x_%281%29.png?1674010874",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9e3b5582b22e3835896368017baff6d942a41cd9"
+  }
+}

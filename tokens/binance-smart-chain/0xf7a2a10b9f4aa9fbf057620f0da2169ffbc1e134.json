@@ -1,0 +1,15 @@
+{
+  "symbol": "ADN",
+  "name": "Aiden",
+  "address": "0xf7a2a10b9f4aa9fbf057620f0da2169ffbc1e134",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55195/thumb/Aiden.png?1744526607",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf7a2a10b9f4aa9fbf057620f0da2169ffbc1e134"
+  }
+}

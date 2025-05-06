@@ -1,0 +1,15 @@
+{
+  "symbol": "SPT",
+  "name": "SMART PAY TECHNOLOGY",
+  "address": "0x8ec464dc474635370c2fd983ea30c62bf4ef5857",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55483/thumb/SPT_LOGO_FOR_CG.png?1746259905",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8ec464dc474635370c2fd983ea30c62bf4ef5857"
+  }
+}

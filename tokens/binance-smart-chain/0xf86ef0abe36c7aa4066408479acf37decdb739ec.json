@@ -1,0 +1,15 @@
+{
+  "symbol": "GMUBARAK",
+  "name": "Ghibli Mubarak",
+  "address": "0xf86ef0abe36c7aa4066408479acf37decdb739ec",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55412/thumb/photo_2025-04-01_13-49-26.jpg?1745861473",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf86ef0abe36c7aa4066408479acf37decdb739ec"
+  }
+}

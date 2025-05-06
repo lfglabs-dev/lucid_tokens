@@ -1,0 +1,15 @@
+{
+  "symbol": "ModalAI",
+  "name": "ModalAI",
+  "address": "0x7ca27614f4dc22b556c4b4ef39765baa3de06096",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55247/thumb/logo_%E5%89%AF%E6%9C%AC.png?1744959444",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x7ca27614f4dc22b556c4b4ef39765baa3de06096"
+  }
+}

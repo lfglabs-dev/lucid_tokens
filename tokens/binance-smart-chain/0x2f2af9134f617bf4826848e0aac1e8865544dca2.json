@@ -1,0 +1,15 @@
+{
+  "symbol": "$SHIHTZU",
+  "name": "SHIH TZU",
+  "address": "0x2f2af9134f617bf4826848e0aac1e8865544dca2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55391/thumb/1000162243.png?1745742975",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2f2af9134f617bf4826848e0aac1e8865544dca2"
+  }
+}

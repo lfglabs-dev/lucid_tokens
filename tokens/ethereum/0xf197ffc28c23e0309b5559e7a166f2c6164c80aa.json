@@ -1,0 +1,16 @@
+{
+  "symbol": "MXNB",
+  "name": "MXNB",
+  "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "arbitrum-one": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa"
+  }
+}

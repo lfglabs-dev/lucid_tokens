@@ -1,0 +1,15 @@
+{
+  "symbol": "JKL",
+  "name": "JKL",
+  "address": "0x4eed0d2deb4c588393c80869b122327581b0d98e",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/28025/thumb/Listing_Logo_-_JKL.png?1667031710",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x4eed0d2deb4c588393c80869b122327581b0d98e"
+  }
+}

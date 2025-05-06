@@ -1,0 +1,15 @@
+{
+  "symbol": "BondETH",
+  "name": "Bond ETH",
+  "address": "0x091a5abe6616e26268e5eecff256c2212fce2707",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55435/thumb/bondETH.png?1746012530",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x091a5abe6616e26268e5eecff256c2212fce2707"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "VCHF",
+  "name": "VNX Franc",
+  "address": "0x79d4f0232a66c4c91b89c76362016a1707cfbf4f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29547/thumb/VNXCHF_%282%29.png?1679561328",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x79d4f0232a66c4c91b89c76362016a1707cfbf4f",
+    "q-mainnet": "0x65b9d36281e97418793f3430793f88440dab68d7",
+    "fraxtal": "0x418126bb59457afdba1ecf376f97400b4157425d",
+    "avalanche": "0x228a48df6819ccc2eca01e2192ebafffdad56c19",
+    "arbitrum-one": "0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969",
+    "polygon-pos": "0xcdb3867935247049e87c38ea270edd305d84c9ae"
+  }
+}

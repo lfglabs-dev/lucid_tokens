@@ -1,0 +1,15 @@
+{
+  "symbol": "BUL",
+  "name": "BULDAK",
+  "address": "0x99d6ed75cddc1e47527613a4ce7c4a0a3526f183",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55379/thumb/buldak-logo.jpg?1745680722",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x99d6ed75cddc1e47527613a4ce7c4a0a3526f183"
+  }
+}

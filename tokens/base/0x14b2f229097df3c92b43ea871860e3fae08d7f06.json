@@ -1,0 +1,15 @@
+{
+  "symbol": "Banks",
+  "name": "Rob Banks",
+  "address": "0x14b2f229097df3c92b43ea871860e3fae08d7f06",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55447/thumb/Rob_Banks_%28_BANKS%29_token_icon_logo_%28200x200%29.png?1746055815",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x14b2f229097df3c92b43ea871860e3fae08d7f06"
+  }
+}

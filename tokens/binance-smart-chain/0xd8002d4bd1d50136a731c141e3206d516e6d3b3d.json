@@ -1,0 +1,15 @@
+{
+  "symbol": "GM",
+  "name": "GOMBLE",
+  "address": "0xd8002d4bd1d50136a731c141e3206d516e6d3b3d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55229/thumb/gomble.jpg?1744806366",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd8002d4bd1d50136a731c141e3206d516e6d3b3d"
+  }
+}

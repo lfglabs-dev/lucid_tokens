@@ -1,0 +1,15 @@
+{
+  "symbol": "MIDAS",
+  "name": "Midas of DeFi",
+  "address": "0x5accb2e5c22d84bc2e34decd9b769a0c46b0deba",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55356/thumb/MIDAS_OF_DESI_LOGO-02.png?1745608603",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5accb2e5c22d84bc2e34decd9b769a0c46b0deba"
+  }
+}

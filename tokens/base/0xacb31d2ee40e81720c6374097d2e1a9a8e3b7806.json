@@ -1,0 +1,15 @@
+{
+  "symbol": "ESXA",
+  "name": "EstaliaX",
+  "address": "0xacb31d2ee40e81720c6374097d2e1a9a8e3b7806",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55489/thumb/estaliax-logo.jpg?1746273066",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xacb31d2ee40e81720c6374097d2e1a9a8e3b7806"
+  }
+}

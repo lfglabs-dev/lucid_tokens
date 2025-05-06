@@ -1,0 +1,15 @@
+{
+  "symbol": "MBX",
+  "name": "MAGABABY",
+  "address": "0x4781c5482f7a66d0f706663bf4d73f6d3b92d4a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55175/thumb/mbx-logo.jpg?1744359567",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x4781c5482f7a66d0f706663bf4d73f6d3b92d4a6"
+  }
+}

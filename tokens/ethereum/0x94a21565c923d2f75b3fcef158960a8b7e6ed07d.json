@@ -1,0 +1,15 @@
+{
+  "symbol": "MRCHR",
+  "name": "MerchMinter",
+  "address": "0x94a21565c923d2f75b3fcef158960a8b7e6ed07d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55323/thumb/MerchMinter.jpg?1745401907",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x94a21565c923d2f75b3fcef158960a8b7e6ed07d"
+  }
+}

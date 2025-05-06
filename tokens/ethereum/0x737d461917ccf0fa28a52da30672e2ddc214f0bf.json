@@ -1,0 +1,15 @@
+{
+  "symbol": "OZK",
+  "name": "OpenZK Network",
+  "address": "0x737d461917ccf0fa28a52da30672e2ddc214f0bf",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55224/thumb/Logo.png?1744801850",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x737d461917ccf0fa28a52da30672e2ddc214f0bf"
+  }
+}

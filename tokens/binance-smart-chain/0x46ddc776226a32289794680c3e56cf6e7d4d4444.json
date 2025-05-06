@@ -1,0 +1,15 @@
+{
+  "symbol": "VICO",
+  "name": "VibeCoding",
+  "address": "0x46ddc776226a32289794680c3e56cf6e7d4d4444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55471/thumb/Af9MbJBW_400x400.jpg?1746209265",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x46ddc776226a32289794680c3e56cf6e7d4d4444"
+  }
+}

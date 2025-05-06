@@ -1,0 +1,15 @@
+{
+  "symbol": "Silentis",
+  "name": "Silentis",
+  "address": "0x8a87562947422db0eb3070a5a1ac773c7a8d64e7",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55200/thumb/Logo200x200.png?1744618276",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x8a87562947422db0eb3070a5a1ac773c7a8d64e7"
+  }
+}

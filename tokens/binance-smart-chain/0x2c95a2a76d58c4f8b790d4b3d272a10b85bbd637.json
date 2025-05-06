@@ -1,0 +1,15 @@
+{
+  "symbol": "DAIWO",
+  "name": "D.A.I.Wo",
+  "address": "0x2c95a2a76d58c4f8b790d4b3d272a10b85bbd637",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55182/thumb/20250410_151538.jpg?1744389603",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x2c95a2a76d58c4f8b790d4b3d272a10b85bbd637"
+  }
+}

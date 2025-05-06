@@ -1,0 +1,16 @@
+{
+  "symbol": "nPAYFI",
+  "name": "Nest PayFi Vault",
+  "address": "0xb52b090837a035f93a84487e5a7d3719c32aa8a9",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55515/thumb/nPAYFI-token.png?1746438574",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "plume-network": "0xb52b090837a035f93a84487e5a7d3719c32aa8a9",
+    "ethereum": "0xb52b090837a035f93a84487e5a7d3719c32aa8a9"
+  }
+}

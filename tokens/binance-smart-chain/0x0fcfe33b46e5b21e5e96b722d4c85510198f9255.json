@@ -1,0 +1,15 @@
+{
+  "symbol": "MNSRY",
+  "name": "MANSORY",
+  "address": "0x0fcfe33b46e5b21e5e96b722d4c85510198f9255",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54875/thumb/token.png?1742245333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x0fcfe33b46e5b21e5e96b722d4c85510198f9255"
+  }
+}

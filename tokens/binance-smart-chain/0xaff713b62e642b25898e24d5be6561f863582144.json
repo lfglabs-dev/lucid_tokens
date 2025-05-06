@@ -1,0 +1,15 @@
+{
+  "symbol": "SURV",
+  "name": "SURVARIUM",
+  "address": "0xaff713b62e642b25898e24d5be6561f863582144",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55262/thumb/logo.jpg?1745050269",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xaff713b62e642b25898e24d5be6561f863582144"
+  }
+}

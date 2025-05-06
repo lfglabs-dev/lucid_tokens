@@ -1,0 +1,15 @@
+{
+  "symbol": "Yee",
+  "name": "Yee Token",
+  "address": "0x9ac9468e7e3e1d194080827226b45d0b892c77fd",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55226/thumb/Yee_Token.png?1744802626",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9ac9468e7e3e1d194080827226b45d0b892c77fd"
+  }
+}

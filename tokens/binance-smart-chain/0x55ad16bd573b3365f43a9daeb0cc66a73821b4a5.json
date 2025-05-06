@@ -1,0 +1,15 @@
+{
+  "symbol": "AIOT",
+  "name": "OKZOO",
+  "address": "0x55ad16bd573b3365f43a9daeb0cc66a73821b4a5",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55349/thumb/okzoo.jpg?1745566014",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x55ad16bd573b3365f43a9daeb0cc66a73821b4a5"
+  }
+}

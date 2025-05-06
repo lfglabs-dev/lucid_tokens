@@ -1,0 +1,15 @@
+{
+  "symbol": "HDN",
+  "name": "Hydranet",
+  "address": "0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/25177/thumb/HDXdarkblueInv.png?1652694650",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "arbitrum-one": "0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430"
+  }
+}

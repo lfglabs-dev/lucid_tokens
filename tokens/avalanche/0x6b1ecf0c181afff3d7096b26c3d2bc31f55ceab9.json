@@ -1,0 +1,15 @@
+{
+  "symbol": "MUON",
+  "name": "MUON Network",
+  "address": "0x6b1ecf0c181afff3d7096b26c3d2bc31f55ceab9",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55232/thumb/_MUON.png?1744872447",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x6b1ecf0c181afff3d7096b26c3d2bc31f55ceab9"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "symbol": "ZNX",
+  "name": "ZeNeX Coin",
+  "address": "0xc2eb046621b59f604c7abdb1600d01636adc4fed",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/29638/thumb/znx-logo.png?1680160898",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9471d30d78a3c9f076ce206d14867a8d8be1efde",
+    "binance-smart-chain": "0xc2eb046621b59f604c7abdb1600d01636adc4fed"
+  }
+}

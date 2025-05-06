@@ -1,0 +1,15 @@
+{
+  "symbol": "$HATCH",
+  "name": "Hatch",
+  "address": "0x072ef16a59bdc14e25f33ff4509870660548c107",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55325/thumb/hatchcoin200x200.png?1745410686",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x072ef16a59bdc14e25f33ff4509870660548c107"
+  }
+}

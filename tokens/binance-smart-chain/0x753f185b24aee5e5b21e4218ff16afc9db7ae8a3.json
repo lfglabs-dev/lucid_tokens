@@ -1,0 +1,15 @@
+{
+  "symbol": "BPEPE",
+  "name": "BPEPE",
+  "address": "0x753f185b24aee5e5b21e4218ff16afc9db7ae8a3",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55423/thumb/photo_2025-04-28_18.27.29.png?1745920095",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x753f185b24aee5e5b21e4218ff16afc9db7ae8a3"
+  }
+}

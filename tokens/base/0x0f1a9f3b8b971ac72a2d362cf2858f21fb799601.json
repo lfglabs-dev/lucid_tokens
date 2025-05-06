@@ -1,0 +1,15 @@
+{
+  "symbol": "SUISS",
+  "name": "SUISSMA AI by Virtuals",
+  "address": "0x0f1a9f3b8b971ac72a2d362cf2858f21fb799601",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55383/thumb/_SUISS_Token_Logo.png?1745703247",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x0f1a9f3b8b971ac72a2d362cf2858f21fb799601"
+  }
+}

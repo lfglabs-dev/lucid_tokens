@@ -1,0 +1,15 @@
+{
+  "symbol": "UBC",
+  "name": "Universe Boss Coin",
+  "address": "0x082ec980dee12cd318c51b6d0518ba27f8e74444",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55337/thumb/ubc_200.png?1745488288",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x082ec980dee12cd318c51b6d0518ba27f8e74444"
+  }
+}

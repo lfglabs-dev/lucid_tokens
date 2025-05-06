@@ -1,0 +1,15 @@
+{
+  "symbol": "XPOW",
+  "name": "XPower",
+  "address": "0x735d8f3b6a5d2c96d0405230c50eaf96794fbb88",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/35936/thumb/logo-xpower-360-round.png?1710231766",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x735d8f3b6a5d2c96d0405230c50eaf96794fbb88"
+  }
+}

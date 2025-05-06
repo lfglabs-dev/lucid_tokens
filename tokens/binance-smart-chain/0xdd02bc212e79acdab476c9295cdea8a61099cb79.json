@@ -1,0 +1,15 @@
+{
+  "symbol": "MCN",
+  "name": "MCNCOIN",
+  "address": "0xdd02bc212e79acdab476c9295cdea8a61099cb79",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55511/thumb/mcn.jpg?1746436365",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xdd02bc212e79acdab476c9295cdea8a61099cb79"
+  }
+}

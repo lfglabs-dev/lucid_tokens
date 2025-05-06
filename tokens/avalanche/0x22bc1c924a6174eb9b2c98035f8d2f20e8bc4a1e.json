@@ -1,0 +1,15 @@
+{
+  "symbol": "SUP",
+  "name": "supcoin",
+  "address": "0x22bc1c924a6174eb9b2c98035f8d2f20e8bc4a1e",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55387/thumb/supcoin.jpg?1745740153",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "avalanche": "0x22bc1c924a6174eb9b2c98035f8d2f20e8bc4a1e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "EEFS",
+  "name": "Eefs",
+  "address": "0x63f718c15f4500326dd5015f95ccbde770ad21af",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55209/thumb/PFP_MAINNET200.png?1744724280",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x63f718c15f4500326dd5015f95ccbde770ad21af"
+  }
+}

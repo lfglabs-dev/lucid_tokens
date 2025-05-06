@@ -1,0 +1,15 @@
+{
+  "symbol": "MNTx",
+  "name": "Minutes Network Token",
+  "address": "0x5c697fee285b513711a816018dbb34dc0cfc4875",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55216/thumb/mntx.jpg?1744736020",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x5c697fee285b513711a816018dbb34dc0cfc4875"
+  }
+}

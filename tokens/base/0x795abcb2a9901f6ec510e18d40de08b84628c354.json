@@ -1,0 +1,15 @@
+{
+  "symbol": "TIAN",
+  "name": "AskTianAI by Virtuals",
+  "address": "0x795abcb2a9901f6ec510e18d40de08b84628c354",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55320/thumb/AskTian_logo_%28200px%29.png?1745401171",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x795abcb2a9901f6ec510e18d40de08b84628c354"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "BEAN",
+  "name": "BloomBeans",
+  "address": "0xd152e68e055021fac32818c68601e437eb4105a6",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/40032/thumb/BLOOM.jpg?1725363577",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0xd152e68e055021fac32818c68601e437eb4105a6"
+  }
+}

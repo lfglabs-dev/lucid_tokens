@@ -1,0 +1,15 @@
+{
+  "symbol": "AICE",
+  "name": "Aicean",
+  "address": "0x81de84e51f49983e043a8527ddfae08238acc330",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55174/thumb/IMG_0397.jpeg?1744355219",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x81de84e51f49983e043a8527ddfae08238acc330"
+  }
+}

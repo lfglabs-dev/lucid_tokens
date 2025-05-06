@@ -1,0 +1,15 @@
+{
+  "symbol": "USDBIT",
+  "name": "USD BIT",
+  "address": "0x29e1a8110f6557169619b19cd40d21d953f4bf8a",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55267/thumb/logo.png?1745079042",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x29e1a8110f6557169619b19cd40d21d953f4bf8a"
+  }
+}

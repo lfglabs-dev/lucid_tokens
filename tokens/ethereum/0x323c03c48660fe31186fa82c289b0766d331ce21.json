@@ -1,0 +1,15 @@
+{
+  "symbol": "OPEN",
+  "name": "Open Stablecoin Index",
+  "address": "0x323c03c48660fe31186fa82c289b0766d331ce21",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55406/thumb/Open-Token-Icon_200x200.png?1745839482",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x323c03c48660fe31186fa82c289b0766d331ce21"
+  }
+}

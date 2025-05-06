@@ -1,0 +1,15 @@
+{
+  "symbol": "BLCK",
+  "name": "BLCKCoin",
+  "address": "0xf5de8697232a16a942f7cf706415f553ce53e27f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55493/thumb/IMG_9656.jpeg?1746348568",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xf5de8697232a16a942f7cf706415f553ce53e27f"
+  }
+}

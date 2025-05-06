@@ -1,0 +1,15 @@
+{
+  "symbol": "B2",
+  "name": "BSquared Token",
+  "address": "0x783c3f003f172c6ac5ac700218a357d2d66ee2a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55433/thumb/bsquared.jpg?1745995924",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x783c3f003f172c6ac5ac700218a357d2d66ee2a2"
+  }
+}

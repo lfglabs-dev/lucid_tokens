@@ -1,0 +1,15 @@
+{
+  "symbol": "SIGN",
+  "name": "Sign",
+  "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55303/thumb/sign.jpg?1745303393",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x868fced65edbf0056c4163515dd840e9f287a4c3"
+  }
+}

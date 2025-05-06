@@ -1,0 +1,15 @@
+{
+  "symbol": "ARCX",
+  "name": "Architex",
+  "address": "0x9f44218d487bff2f81bef45202601df4bd4d1055",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/36026/thumb/arcx.jpeg?1710387472",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x9f44218d487bff2f81bef45202601df4bd4d1055"
+  }
+}

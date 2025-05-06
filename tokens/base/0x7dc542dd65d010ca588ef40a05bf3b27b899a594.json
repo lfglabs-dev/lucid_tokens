@@ -1,0 +1,15 @@
+{
+  "symbol": "CRY",
+  "name": "CRYPTAINE",
+  "address": "0x7dc542dd65d010ca588ef40a05bf3b27b899a594",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55340/thumb/cryptaine_presentationlikyellow.png?1745503572",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x7dc542dd65d010ca588ef40a05bf3b27b899a594"
+  }
+}

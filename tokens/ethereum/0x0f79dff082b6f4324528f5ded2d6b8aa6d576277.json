@@ -1,0 +1,15 @@
+{
+  "symbol": "USAM",
+  "name": "Uncle Sam",
+  "address": "0x0f79dff082b6f4324528f5ded2d6b8aa6d576277",
+  "decimals": 8,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55258/thumb/35C90F01-19FD-4EC2-8DE4-C39E1C7DC212.png?1745047470",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x0f79dff082b6f4324528f5ded2d6b8aa6d576277"
+  }
+}

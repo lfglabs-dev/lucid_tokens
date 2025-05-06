@@ -1,0 +1,16 @@
+{
+  "symbol": "ANML",
+  "name": "Animal Concerts Token",
+  "address": "0x06fda0758c17416726f77cb11305eac94c074ec0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/22869/thumb/ANML_LogoAsset.png?1643192333",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x38b0e3a59183814957d83df2a97492aed1f003e2",
+    "binance-smart-chain": "0x06fda0758c17416726f77cb11305eac94c074ec0"
+  }
+}

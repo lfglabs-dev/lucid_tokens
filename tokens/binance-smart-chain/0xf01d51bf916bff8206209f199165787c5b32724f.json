@@ -1,0 +1,15 @@
+{
+  "symbol": "Tracy",
+  "name": "TracyAI by VIRTUALS",
+  "address": "0xf01d51bf916bff8206209f199165787c5b32724f",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54485/thumb/Tracy_PFP.png?1739990187",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xf01d51bf916bff8206209f199165787c5b32724f"
+  }
+}

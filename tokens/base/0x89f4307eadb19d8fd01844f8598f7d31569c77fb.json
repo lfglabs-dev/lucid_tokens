@@ -1,0 +1,15 @@
+{
+  "symbol": "NuroX",
+  "name": "NuroX",
+  "address": "0x89f4307eadb19d8fd01844f8598f7d31569c77fb",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55284/thumb/image_2025-04-20_00-45-36.png?1745216054",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x89f4307eadb19d8fd01844f8598f7d31569c77fb"
+  }
+}

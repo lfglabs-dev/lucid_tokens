@@ -1,0 +1,15 @@
+{
+  "symbol": "HAEDAL",
+  "name": "Haedal",
+  "address": "0x3d9be0ac1001cd81c32464276d863d2ffdca4967",
+  "decimals": 9,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55420/thumb/haedal.jpg?1745917281",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x3d9be0ac1001cd81c32464276d863d2ffdca4967"
+  }
+}

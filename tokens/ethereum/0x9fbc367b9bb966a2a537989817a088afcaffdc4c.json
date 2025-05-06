@@ -1,0 +1,15 @@
+{
+  "symbol": "nELIXIR",
+  "name": "Nest Elixir Vault",
+  "address": "0x9fbc367b9bb966a2a537989817a088afcaffdc4c",
+  "decimals": 6,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55469/thumb/nELIXIR.png?1746208257",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x9fbc367b9bb966a2a537989817a088afcaffdc4c"
+  }
+}

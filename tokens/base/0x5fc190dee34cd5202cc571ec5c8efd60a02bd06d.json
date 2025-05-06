@@ -1,0 +1,15 @@
+{
+  "symbol": "YOYO",
+  "name": "YoYo by Virtuals",
+  "address": "0x5fc190dee34cd5202cc571ec5c8efd60a02bd06d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55352/thumb/fdl1yZcp_400x400.jpg?1745566716",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5fc190dee34cd5202cc571ec5c8efd60a02bd06d"
+  }
+}

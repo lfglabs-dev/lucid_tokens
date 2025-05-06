@@ -1,0 +1,15 @@
+{
+  "symbol": "FREEDOG",
+  "name": "Freedogs",
+  "address": "0x6587eff07d9ae00f05fae2a3a032b2c1a1dfce41",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55215/thumb/freedog.jpg?1744735038",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x6587eff07d9ae00f05fae2a3a032b2c1a1dfce41"
+  }
+}

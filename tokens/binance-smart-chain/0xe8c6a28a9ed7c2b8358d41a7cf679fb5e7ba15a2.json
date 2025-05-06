@@ -1,0 +1,15 @@
+{
+  "symbol": "UNIFI",
+  "name": "UNIFI",
+  "address": "0xe8c6a28a9ed7c2b8358d41a7cf679fb5e7ba15a2",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/50503/thumb/UNIFI_LOGO_300X300PX-01.png?1727981937",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xe8c6a28a9ed7c2b8358d41a7cf679fb5e7ba15a2"
+  }
+}

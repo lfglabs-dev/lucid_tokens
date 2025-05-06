@@ -1,0 +1,15 @@
+{
+  "symbol": "ROBOPEPE",
+  "name": "RoboPepe",
+  "address": "0x5db4c680f66ade9e00ef6aad187419031bcc58a8",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55439/thumb/RoboPepe.png?1746014322",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0x5db4c680f66ade9e00ef6aad187419031bcc58a8"
+  }
+}

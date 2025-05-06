@@ -1,0 +1,17 @@
+{
+  "symbol": "OIK",
+  "name": "Space Nation Oikos",
+  "address": "0xb035723d62e0e2ea7499d76355c9d560f13ba404",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/54823/thumb/oik-logo.jpeg?1741858662",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x6e7f11641c1ec71591828e531334192d622703f7",
+    "binance-smart-chain": "0xb035723d62e0e2ea7499d76355c9d560f13ba404",
+    "immutable": "0xda49591f442b8c7a5292c6aa07655746299d6f4c"
+  }
+}

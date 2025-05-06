@@ -1,0 +1,15 @@
+{
+  "symbol": "GNESS",
+  "name": "Gameness Token",
+  "address": "0x53ffa52f358ccdb59c2a248d5d17ab91a32ab44d",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55244/thumb/GNESSTOKEN-200x200.png?1744943889",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x53ffa52f358ccdb59c2a248d5d17ab91a32ab44d"
+  }
+}

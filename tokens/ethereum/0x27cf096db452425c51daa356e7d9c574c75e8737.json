@@ -1,0 +1,15 @@
+{
+  "symbol": "PTC",
+  "name": "PATIC",
+  "address": "0x27cf096db452425c51daa356e7d9c574c75e8737",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55455/thumb/patic.jpg?1746093449",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "ethereum": "0x27cf096db452425c51daa356e7d9c574c75e8737"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "ICECREAM",
+  "name": "IceCream AI",
+  "address": "0xd438b82543fb109f34575c825edaeefc98f1f2b4",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55188/thumb/oie_transparent.png?1744441423",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0xd438b82543fb109f34575c825edaeefc98f1f2b4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "kBTC",
+  "name": "Kinza Babylon Staked BTC",
+  "address": "0x9356f6d95b8e109f4b7ce3e49d672967d3b48383",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55191/thumb/kbtc.jpg?1744453252",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x9356f6d95b8e109f4b7ce3e49d672967d3b48383"
+  }
+}

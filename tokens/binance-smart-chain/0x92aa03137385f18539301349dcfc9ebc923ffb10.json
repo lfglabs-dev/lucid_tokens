@@ -1,0 +1,15 @@
+{
+  "symbol": "SKYAI",
+  "name": "SKYAI",
+  "address": "0x92aa03137385f18539301349dcfc9ebc923ffb10",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55294/thumb/skyai.jpg?1745224791",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "binance-smart-chain": "0x92aa03137385f18539301349dcfc9ebc923ffb10"
+  }
+}

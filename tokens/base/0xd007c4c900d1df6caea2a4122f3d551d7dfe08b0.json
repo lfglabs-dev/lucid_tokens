@@ -1,0 +1,15 @@
+{
+  "symbol": "SPORT",
+  "name": "SPORT",
+  "address": "0xd007c4c900d1df6caea2a4122f3d551d7dfe08b0",
+  "decimals": 18,
+  "type": "ERC20",
+  "logo": {
+    "src": "https://coin-images.coingecko.com/coins/images/55297/thumb/staicy-sport.jpg?1745229639",
+    "width": "32",
+    "height": "32"
+  },
+  "platforms": {
+    "base": "0xd007c4c900d1df6caea2a4122f3d551d7dfe08b0"
+  }
+}
